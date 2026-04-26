@@ -1,0 +1,31 @@
+name: Generate Daily RMRB RSS
+
+on:
+  schedule:
+    # 每天北京时间早晨 8:05 运行 (UTC 00:05)
+    - cron: '5 0 * * *'
+  workflow_dispatch: # 允许手动点击按钮运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python rmrb_scraper.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Daily RSS Content"
+          file_pattern: rmrb_fulltext.xml
