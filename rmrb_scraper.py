@@ -19,7 +19,7 @@ def get_content(item_url):
         soup = BeautifulSoup(resp.text, 'html.parser')
         
         # 人民日报正文通常存放在 id 为 ozoom 的 div 容器中
-        content_div = soup.find('div', id='ozoom')
+        content_div = soup.find('div', id='article')
         if content_div:
             # 将 Tag 对象转为字符串 HTML
             content_html = str(content_div)
