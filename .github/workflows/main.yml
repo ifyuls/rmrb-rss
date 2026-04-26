@@ -21,11 +21,27 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # 第一步：在运行脚本前，先把仓库里现有的旧文件改名（如果存在）
+      - name: Archive Previous RSS
+        run: |
+          mkdir -p history
+          # 检查文件是否存在，防止第一次运行或文件丢失时报错
+          if [ -f "rmrb_fulltext.xml" ]; then
+            # 使用文件的最后修改日期作为存档名称
+            # 这样即便是断更了，存档的文件名也会显示它实际所属的日期
+            LAST_MOD_DATE=$(date -r rmrb_fulltext.xml +'%Y-%m-%d')
+            mv rmrb_fulltext.xml "history/rmrb_${LAST_MOD_DATE}.xml"
+            echo "Archived previous XML to history/rmrb_${LAST_MOD_DATE}.xml"
+          fi
+
+      # 第二步：运行爬虫生成今天的 rmrb_fulltext.xml
       - name: Run scraper
         run: python rmrb_scraper.py
 
+      # 第三步：将新文件和 history 文件夹里的旧文件一起提交
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update Daily RSS Content"
-          file_pattern: rmrb_fulltext.xml
+          commit_message: "Update Daily RSS and Archive previous one"
+          # 提交主文件以及 history 文件夹下的所有新 XML
+          file_pattern: 'rmrb_fulltext.xml history/*.xml'
