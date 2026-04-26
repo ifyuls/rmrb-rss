@@ -44,4 +44,4 @@ jobs:
         with:
           commit_message: "Update Daily RSS and Archive previous one"
           # 提交主文件以及 history 文件夹下的所有新 XML
-          file_pattern: 'rmrb_fulltext.xml history/*.xml'
+          file_pattern: '.'
