@@ -1,0 +1,2004 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化抓取的人民日报全版面、全正文 RSS 服务</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 30 Apr 2026 23:15:42 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154502.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 习近平在加强基础研究座谈会上强调 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 蔡奇出席  丁薛祥主持 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/edf68f6f-5d3f-4a95-a4bd-fa717168f66a.jpg.2" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　4月30日上午，中共中央总书记、国家主席、中央军委主席习近平在上海出席加强基础研究座谈会并发表重要讲话。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  翟健岚摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/edf68f6f-5d3f-4a95-a4bd-fa717168f66a.jpg.2" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　■ 基础研究是整个科学体系的源头，是所有技术问题的总机关。要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基&lt;/p&gt;&lt;p&gt;　　■ 党的十八大以来，党中央高度重视基础研究，通过优化科研布局、加大投入保障、创新体制机制等，推动我国基础研究水平显著提升。当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。我们要抓住机遇、应对挑战，切实把基础研究工作摆上重要日程，持续抓下去，不断抓出新成效&lt;/p&gt;&lt;p&gt;　　■ 要加强统筹谋划和顶层设计，优化基础研究系统布局。要一体推进教育科技人才发展，全方位做好培养、引进、使用工作，壮大基础研究人才队伍。要加强对基础研究的支持保障。要主动融入全球创新网络，深化基础研究国际交流合作，联合开展气候变化、能源环境、生命健康等重大科学问题攻关，积极参与全球科技治理&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　本报上海4月30日电  中共中央总书记、国家主席、中央军委主席习近平30日上午在上海出席加强基础研究座谈会并发表重要讲话。他强调，基础研究是整个科学体系的源头，是所有技术问题的总机关。要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。&lt;/p&gt;&lt;p&gt;　　中共中央政治局常委、中央办公厅主任蔡奇出席座谈会，中共中央政治局常委、国务院副总理丁薛祥主持座谈会。&lt;/p&gt;&lt;p&gt;　　座谈会上，科技部部长阴和俊、教育部部长怀进鹏、中国科学院院长侯建国、上海市委书记陈吉宁、北京大学数学科学学院院长刘若川、中国科学院深圳先进技术研究院院长刘陈立、浦江实验室教授乔宇、西部超导材料科技股份有限公司首席科学家张平祥先后发言，就加强基础研究介绍工作情况、提出意见建议。&lt;/p&gt;&lt;p&gt;　　在听取大家发言后，习近平发表重要讲话。他指出，党的十八大以来，党中央高度重视基础研究，通过优化科研布局、加大投入保障、创新体制机制等，推动我国基础研究水平显著提升。当前，新一轮科技革命和产业变革加速突破，全球科技竞争更加聚焦基础前沿领域，原创性颠覆性创新的重要性日益凸显。我们要抓住机遇、应对挑战，切实把基础研究工作摆上重要日程，持续抓下去，不断抓出新成效。&lt;/p&gt;&lt;p&gt;　　习近平强调，要加强统筹谋划和顶层设计，优化基础研究系统布局。坚持“四个面向”战略导向，进一步明确基础研究的主攻方向和重点领域。强化国家科研机构、高水平研究型大学等引领作用，鼓励和规范发展新型研发机构，推动企业主导的产学研用深度融合，打通基础研究、应用开发、成果转化的创新链条。加强基础学科建设，促进应用学科与基础学科协调发展。&lt;/p&gt;&lt;p&gt;　　习近平指出，要一体推进教育科技人才发展，全方位做好培养、引进、使用工作，壮大基础研究人才队伍。遵循人才成长规律，提高教育质量，源源不断培养基础研究后备力量。优化科教协同育人机制，注重在科研一线发现和培养人才。坚持任务牵引、以老带新，大力扶持青年人才。弘扬科学家精神，加强科普宣传，激发青少年的想象力和探求欲，让投身基础研究成为更多青少年的人生追求。&lt;/p&gt;&lt;p&gt;　　习近平强调，要加强对基础研究的支持保障。逐步提高基础研究经费占比，形成多元化投入格局。体系化布局建设重大科技基础设施，建设智能化科研平台系统。健全符合基础研究特点的分类评价体系，改善基础研究人员的工作和生活条件，营造开放包容、宽容失败的创新环境。加强科研诚信建设。&lt;/p&gt;&lt;p&gt;　　习近平指出，要主动融入全球创新网络，深化基础研究国际交流合作，联合开展气候变化、能源环境、生命健康等重大科学问题攻关，积极参与全球科技治理。&lt;/p&gt;&lt;p&gt;　　丁薛祥主持会议时表示，习近平总书记重要讲话充分肯定我国基础研究取得的成就，全面分析面临的新形势新挑战，对加强基础研究作出战略部署、提出明确要求。讲话高屋建瓴、内涵丰富，具有很强的政治性、思想性、指导性，为加强基础研究指明了前进方向、提供了根本遵循。我们要深学细悟总书记重要讲话精神，准确把握党中央战略意图，增强紧迫感、责任感、使命感，以更加坚定的信心和决心、更加务实的举措和行动，全面加强基础研究，着力提升原始创新能力，为实现高水平科技自立自强、建设科技强国努力奋斗。&lt;/p&gt;&lt;p&gt;　　尹力、石泰峰、刘国中、张国清、黄坤明出席座谈会。&lt;/p&gt;&lt;p&gt;　　中央和国家机关有关部门、军队有关单位、部分省市主要负责同志，有关高校、科研机构、国家实验室、企业负责人和科研人员代表等参加座谈会。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 蔡奇出席  丁薛祥主持 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 习近平在加强基础研究座谈会上强调 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154502&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154502.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154502.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154502.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平向全国广大劳动群众致以节日祝贺和诚挚慰问</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154503.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 在“五一”国际劳动节到来之际 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平向全国广大劳动群众致以节日祝贺和诚挚慰问 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京4月30日电  在“五一”国际劳动节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大劳动群众致以节日祝贺和诚挚慰问。&lt;/p&gt;&lt;p&gt;　　习近平指出，在中国式现代化新征程上，广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造，为党和国家事业发展作出了重要贡献。&lt;/p&gt;&lt;p&gt;　　习近平强调，今年是中国共产党成立105周年，是“十五五”开局之年。希望广大劳动群众大力弘扬劳模精神、劳动精神、工匠精神，苦干实干、敬业奉献，在推动经济社会高质量发展中发挥主力军作用、展现主人翁风采。各级党委和政府要切实维护广大劳动群众合法权益，着力解决急难愁盼问题，动员激励广大劳动群众为实现宏伟蓝图而不懈奋斗。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 在“五一”国际劳动节到来之际 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154503&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154503.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154503.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平向全国广大劳动群众致以节日祝贺和诚挚慰问 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154503.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154504.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 《求是》杂志发表习近平总书记重要文章 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　新华社北京4月30日电  5月1日出版的第9期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话》。&lt;/p&gt;&lt;p&gt;　　文章强调，要充分认识制定和实施五年规划是我们的重要政治优势。制定和实施五年规划，有利于实现党的领导，有利于集中力量办大事，有利于前瞻性把握战略问题，有利于保持事业连续性。制定和实施五年规划，是一项政治性、政策性很强的工作，我们党在长期实践中创造积累了丰富经验。主要有：坚持党中央集中统一领导，坚持从实际出发，坚持全国一盘棋，坚持发扬民主、集思广益，坚持规划法定原则。要进一步坚定制度自信，不断结合新的实际把这一优势发扬光大。&lt;/p&gt;&lt;p&gt;　　文章指出，要全面深刻准确领会和把握党的二十届四中全会的战略部署。全面，就是要以全局视野领会《建议》，将“十五五”时期经济社会发展的重大意义、面临形势、指导思想、重要原则、目标任务、政策举措等作为一个整体来把握。深刻，就是要对《建议》各项部署知其然又知其所以然，既明白是什么，又明白为什么、怎么做。准确，就是要精准把握《建议》各项部署的政策界限和尺度，做到该为的必须为、能为的努力为、不该为的决不为。&lt;/p&gt;&lt;p&gt;　　文章指出，要敏锐把握国内外形势新变化。我国发展处于战略机遇和风险挑战并存、不确定难预料因素增多的时期。这是对形势的总体判断。我们分析形势，既要把各种因素考虑周全，又要善于把握其中一些关键因素的新变化，目的在于胸怀全局、登高望远，在战略上保持定力、充满信心，在战术上精心运筹、趋利避害，不断增强我国发展的确定性和可持续性。&lt;/p&gt;&lt;p&gt;　　文章指出，要扎扎实实建设现代化产业体系。建设现代化产业体系是要实现产业体系整体跃升。各地区各行业要找准定位，坚持智能化、绿色化、融合化方向，充分发挥比较优势，形成上下游产业相互衔接、各展其长、同向发力的生动局面。现代化产业体系的骨干是先进制造业。要保持制造业合理比重、大力发展先进制造业。现代化基础设施是现代化产业体系的有机组成部分。要注意算投入产出账，提高适配度。发展新质生产力是建设现代化产业体系的必然要求。要坚持因地制宜，立足实际推动科技创新和产业创新深度融合。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　文章指出，要以加快构建新发展格局赢得战略主动。我国人口多、市场大、产业全、发展动能强，在全球产业链供应链中的地位难以替代，这是我们经济内生增长、自主发展的底气所在。构建新发展格局，必须坚持以国内大循环为主体，让内需成为我国经济发展的主动力。要正确处理消费和投资、需求和供给的关系，坚持惠民生和促消费、投资于物和投资于人紧密结合，努力提高国民经济循环质量和效率。构建新发展格局必须畅通国内国际双循环。要以做强国内大循环提升扩大高水平对外开放的自主性，以拓展国际循环增强国内改革发展的活力，真正实现内外联通、互促共进。&lt;/p&gt;&lt;p&gt;　　文章指出，要推动经济和社会协调发展。经济发展和社会发展相辅相成，不能一条腿长一条腿短。促进社会发展，改善民生是重点。要把发展经济和改善民生有机统一起来，制定经济发展政策同步嵌入改善民生的要求，制定民生政策同步考虑促进经济发展的效应。促进社会发展，必须抓好社会治理。要坚持党建引领，强化法治保障，夯实基层基础，切实提高社会治理水平。安全是发展的前提。必须统筹发展和安全，深入贯彻总体国家安全观，不断增强经济和社会韧性，全力维护国家安全和社会稳定。&lt;/p&gt;&lt;p&gt;　　文章指出，科学编制规划，务必贯彻定位准确、边界清晰、功能互补、统一衔接的要求，坚持科学决策、民主决策、依法决策。地方规划和各有关领域专项规划要与国家整体规划衔接好，体现国家整体规划的精神和要求，同时要因地因事制宜，把需要和可能统一起来，确保定了就做得到、能落地见效。&lt;/p&gt;&lt;p&gt;　　文章强调，要着力提高党领导经济社会发展能力和水平。第一，进一步加强学习。钻研党的创新理论，吃透党中央大政方针和决策部署，提高政治能力和战略思维能力，提高专业素养，不断在实践中增强现代化建设本领。第二，树立和践行正确政绩观。坚持从实际出发、按规律办事，通过科学决策和实干苦干，创造经得起实践和历史检验、真正造福人民、得到群众公认的业绩。第三，大力弘扬斗争精神。敢于斗争、善于斗争，及时果断消除风险隐患，努力把不利因素转化为克敌制胜的有利条件。第四，坚定不移惩治腐败。始终保持反腐败高压态势，一步不停歇、半步不退让，一体推进不敢腐、不能腐、不想腐，切实把权力关进制度笼子，着力铲除腐败滋生的土壤和条件。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 《求是》杂志发表习近平总书记重要文章 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154504&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154504.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154504.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154504.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 《习近平谈治国理政》第五卷英文版中马读者会在吉隆坡举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154505.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 《习近平谈治国理政》第五卷英文版中马读者会在吉隆坡举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社吉隆坡4月30日电  （记者何光海、袁睿）《习近平谈治国理政》第五卷英文版中马读者会4月30日在马来西亚首都吉隆坡举行。&lt;/p&gt;&lt;p&gt;　　与会人士认为，习近平主席重要著作承载着代表东方智慧的伟大发展经验和治理理念，特别是在当前地缘政治格局复杂演变、全球治理体系深刻变革的背景下，中马通过著作传播深入开展治国理政经验交流，对深化中马友好互信和互利共赢，推动构建高水平战略性中马命运共同体具有重要意义。&lt;/p&gt;&lt;p&gt;　　马来西亚国会下议院议长佐哈里在致辞中表示，《习近平谈治国理政》阐释了中国的发展理念、重大战略以及在全球格局中的定位，有助于读者更深入理解中国政策背后的思想逻辑。对马来西亚而言，这不仅是了解中国的一扇窗口，更是推动双方关系行稳致远的重要基础。期待双方在读者会等交流活动中，交换观点、深化理解、巩固合作，助力马中关系未来发展。&lt;/p&gt;&lt;p&gt;　　马来西亚交通部长陆兆福表示，《习近平谈治国理政》第五卷关于高质量发展、高水平对外开放和共建“一带一路”等重要论述，为深化马中互联互通提供重要启示。近年来，马中两国在高质量共建“一带一路”方面成效显著，马方愿同中方持续深化各领域交流合作。他还表示，访华期间，他深刻感受到中国通过集中力量办大事推动国家发展繁荣的治理优势。&lt;/p&gt;&lt;p&gt;　　马来西亚东南亚社科研究中心总裁梁志华表示，《习近平谈治国理政》蕴含着中国经济社会发展和中国与世界关系的政治哲学，为马中合作走深走实奠定重要基础。随着《区域全面经济伙伴关系协定》深化实施和中国—东盟自贸区3.0版推进，马中关系正迎来向体系协同升级的新阶段，双方在经贸投资、数字经济、绿色发展等领域合作前景广阔。&lt;/p&gt;&lt;p&gt;　　活动中，中方向外方嘉宾赠送《习近平谈治国理政》第五卷英文版图书。与会专家围绕国家治理、中国—东盟区域合作、中马命运共同体等议题进行交流研讨。&lt;/p&gt;&lt;p&gt;　　本次活动由中国国务院新闻办公室、中国外文局和中国驻马来西亚大使馆主办，中马两国出版、智库、媒体等各界人士约200人出席活动。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154505&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154505.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154505.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 《习近平谈治国理政》第五卷英文版中马读者会在吉隆坡举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154505.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] “稳步增进广大职工和劳动群众福祉”（总书记的人民情怀）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154506.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “稳步增进广大职工和劳动群众福祉”（总书记的人民情怀） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  易舒冉&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　在今年“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问，强调：“各级党委和政府要切实维护广大劳动群众合法权益，着力解决急难愁盼问题，动员激励广大劳动群众为实现宏伟蓝图而不懈奋斗。”&lt;/p&gt;&lt;p&gt;　　光荣属于劳动者，幸福属于劳动者。&lt;/p&gt;&lt;p&gt;　　习近平总书记深刻指出：“要着眼推进共同富裕，稳步增进广大职工和劳动群众福祉。”&lt;/p&gt;&lt;p&gt;　　党的十八大以来，习近平总书记一次次来到基层一线劳动者中间，问冷暖、听期盼，始终牵挂劳动群众的切身福祉。&lt;/p&gt;&lt;p&gt;　　牵挂里，是对劳动者劳有所得的守护。&lt;/p&gt;&lt;p&gt;　　“工作累不累？”“收入怎么样？”“春节回不回老家？”今年2月10日，习近平总书记在北京市西城区新街口街道父母食堂考察时，关切询问在这里休息的快递员的工作和生活，为他们付出的辛劳和作出的贡献点赞。&lt;/p&gt;&lt;p&gt;　　时光回溯，2013年2月8日，同样是春节前夕，习近平总书记来到北京地铁8号线南锣鼓巷站施工工地，走进钢筋工范勇在工地上的临时小家，仔细了解他的工作、收入和生活情况。&lt;/p&gt;&lt;p&gt;　　劳动者劳有所得、勤有所获，每个“小家”才能热气腾腾。&lt;/p&gt;&lt;p&gt;　　“要把稳就业工作摆在更加突出的位置，不断提高劳动者收入水平”“有序提高劳动、技能、知识、创新等要素在收入分配中的权重”……习近平总书记念兹在兹。&lt;/p&gt;&lt;p&gt;　　“十五五”规划纲要提出，“促进多劳者多得、技高者多得、创新者多得”“劳动报酬提高和劳动生产率提高同步”。一系列部署安排，进一步激励广大劳动者通过辛勤劳动、诚实劳动、创造性劳动实现对美好生活的向往。&lt;/p&gt;&lt;p&gt;　　牵挂里，是对促进职工全面发展的关怀。&lt;/p&gt;&lt;p&gt;　　2025年4月28日，北京人民大会堂，习近平总书记在庆祝中华全国总工会成立100周年暨全国劳动模范和先进工作者表彰大会上强调：“要坚持以职工为中心的工作导向，竭诚服务职工群众、促进职工全面发展。”&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　现代化的最终目标是实现人自由而全面的发展。促进职工全面发展，既是对劳动者成长期盼的回应，也是践行以人民为中心的发展思想的长远之举。&lt;/p&gt;&lt;p&gt;　　“你的职称走的是哪个序列？”&lt;/p&gt;&lt;p&gt;　　2022年10月17日，在参加党的二十大广西代表团讨论时，习近平总书记询问来自广西汽车集团的郑志明。&lt;/p&gt;&lt;p&gt;　　在一线干了20多年的郑志明向总书记汇报：“我刚评上特级技师，还评上了高级工程师。党的政策让我们职高毕业的工人，也有了好出路。”&lt;/p&gt;&lt;p&gt;　　一问一答间，是总书记对职工成长发展的深切关怀。&lt;/p&gt;&lt;p&gt;　　当前，新质生产力蓬勃发展，对劳动者自身能力水平提出了更高要求。&lt;/p&gt;&lt;p&gt;　　从实施职业技能提升行动，到开展各种形式的劳动和技能竞赛，再到丰富职工精神文化生活……一系列政策举措，为劳动者成长赋能，不断拓宽职业发展空间，让广大职工在全面发展中实现人生价值。&lt;/p&gt;&lt;p&gt;　　牵挂里，是对加强劳动者权益保障的久久为功。&lt;/p&gt;&lt;p&gt;　　劳动没有高低贵贱之分，任何一份职业都很光荣。保障劳动者合法权益不仅是社会公正的体现，更是增进福祉的关键之举。&lt;/p&gt;&lt;p&gt;　　从深入基层考察调研，到主持召开相关会议、研究部署相关工作，习近平总书记一直十分关注劳动者权益保障问题。&lt;/p&gt;&lt;p&gt;　　第九次全国职工队伍状况调查结果显示，我国有8400万新就业形态劳动者。&lt;/p&gt;&lt;p&gt;　　“加强灵活就业和新就业形态劳动者权益保障，扩大职业伤害保障试点，及时总结经验、形成制度。”习近平总书记点明关键。&lt;/p&gt;&lt;p&gt;　　从2022年7月在北京、上海等7个省份启动新就业形态人员职业伤害保障试点，到今年《政府工作报告》明确提出“出台支持灵活就业人员、新就业形态人员参加职工保险的政策”“稳妥有序推进职业伤害保障试点扩围”，灵活就业和新就业形态劳动者权益保障水平持续提升。&lt;/p&gt;&lt;p&gt;　　“要既有管理，又有服务。”&lt;/p&gt;&lt;p&gt;　　近年来，工会组织向基层延伸，兜底吸纳新就业形态劳动者入会，用心用情提供服务。从解决户外劳动者“吃饭难、喝水难、休息难”到提供多元化智能项目，工会驿站的服务越来越贴心、便利。&lt;/p&gt;&lt;p&gt;　　中国式现代化，以造福人民为价值旨归。在共建共享中稳步增进广大职工和劳动群众福祉，为高质量发展凝聚起磅礴力量。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  易舒冉&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154506&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154506.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154506.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “稳步增进广大职工和劳动群众福祉”（总书记的人民情怀） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154506.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] “光荣属于劳动者，幸福属于劳动者”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154507.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “光荣属于劳动者，幸福属于劳动者” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——习近平总书记同劳动者在一起的故事 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　劳动，是一切幸福的源泉；劳动者，是美好生活的创造者、守护者。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，习近平总书记深情礼赞劳动创造，大力弘扬劳模精神、劳动精神、工匠精神，关心关爱一线劳动者，同广大劳动人民站在一起、想在一起、干在一起。&lt;/p&gt;&lt;p&gt;　　今年是中国共产党成立105周年，是“十五五”开局之年。在“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问，指出在中国式现代化新征程上，广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造，为党和国家事业发展作出了重要贡献。&lt;/p&gt;&lt;p&gt;　　“光荣属于劳动者，幸福属于劳动者。”习近平总书记的真切关怀，激励着亿万劳动者在强国建设、民族复兴的新征程上，用劳动书写新的荣光。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“我们的根扎在劳动人民之中”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“人世间的一切幸福都需要靠辛勤的劳动来创造。”——2012年11月，新当选的中共中央总书记习近平同中外记者见面时这样说。&lt;/p&gt;&lt;p&gt;　　深情寄语重若千钧，折射出大国领袖的劳动者本色。&lt;/p&gt;&lt;p&gt;　　今年3月底，北京春光明媚，在昌平区百善镇首都义务植树活动现场，挥锹铲土、培土围堰、提水浇灌……习近平总书记同干部群众、少先队员一起，种下油松、北京牡丹、榆叶梅、杜仲、元宝枫等多棵树苗。&lt;/p&gt;&lt;p&gt;　　一把铁锹培新土，一柄锄头映初心。&lt;/p&gt;&lt;p&gt;　　30多年前的1989年，时任福建宁德地委书记的习近平同志带领地直机关干部参加义务劳动。一张老照片里，他肩扛锄头，意气风发走在田埂上。&lt;/p&gt;&lt;p&gt;　　1969年1月，不满16岁的习近平来到地处黄土高原的陕西延川县文安驿公社梁家河大队插队。种地、拉煤、打坝、挑粪……在梁家河，习近平真诚地和乡亲们打成一片，自觉地接受艰苦生活的磨炼。&lt;/p&gt;&lt;p&gt;　　回忆那段岁月，习近平同志说：“我对自己的首要要求就是‘自找苦吃’。”&lt;/p&gt;&lt;p&gt;　　从黄土地上的村支书，到泱泱大国的领路人，一路走来，习近平总书记始终是劳动者，始终饱含着对劳动人民的深厚感情。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，习近平总书记的脚步遍及大江南北，留下许多与人民群众共同劳动的身影——&lt;/p&gt;&lt;p&gt;　　在江西井冈山，拿起木槌，同当地村民一起打糍粑，声声木槌敲出致富的希望；在四川汶川，转动磨盘，同群众一起磨豆花，笑着说“很练臂力啊，真是越磨越带劲”；在贵州毕节，同苗族乡亲一起包黄粑，亲手包裹香甜与期盼……&lt;/p&gt;&lt;p&gt;　　一言一行，展现的是由内而外的质朴本色，映照的是岁月不改的人民情怀。&lt;/p&gt;&lt;p&gt;　　2019年8月，甘肃古浪县八步沙林场迎来一位特殊的“治沙人”。&lt;/p&gt;&lt;p&gt;　　当时，几位林场职工正在进行“草方格压沙”作业，习近平总书记走过去，向他们询问作业方法，拿起一把开沟犁，同他们一起干起来。&lt;/p&gt;&lt;p&gt;　　总书记对他们说，八步沙林场“六老汉”的英雄事迹早已家喻户晓，新时代需要更多像“六老汉”这样的当代愚公、时代楷模。&lt;/p&gt;&lt;p&gt;　　边谈话、边挥犁，动作一气呵成。不一会儿，一道两米多长的直沟已经在沙地上开出。职工们说，一看就知道总书记是“老把式”。&lt;/p&gt;&lt;p&gt;　　江汉平原，湖北嘉鱼县潘家湾镇。2024年11月的一天，菜农叶祥松正在十里蔬菜长廊忙碌着。习近平总书记沿田埂走进菜地深处，笑着说：“一看就会有个好收成啊！”年轻时干过农活，总书记细问蔬菜生长期、问收割存储、问销量价格，强调“不能忘了农民这一头，要让农民得到实惠”。&lt;/p&gt;&lt;p&gt;　　临走时，习近平总书记微笑着探身向前，伸出手来。老叶迈前一步，紧紧握住总书记的手。&lt;/p&gt;&lt;p&gt;　　渤海之滨，山东东营黄河入海口。2021年10月，习近平总书记在这里考察，走进一块示范田，俯身摘下一个豆荚、一撮一捻、仔细察看成色，顺手将一颗大豆放进嘴里，细细咀嚼：“豆子长得很好。”&lt;/p&gt;&lt;p&gt;　　一旁的农技负责人感叹：“这是老农民才有的动作呀。”&lt;/p&gt;&lt;p&gt;　　2013年农历除夕来临之际，习近平总书记来到北京地铁8号线施工工地看望一线劳动者。沿着狭窄的工梯下到20多米深的地下作业平台，总书记对大家说：“发展公共交通是现代城市发展的方向。”这句话，被现场一位叫李维川的年轻测量员牢牢记在心里。&lt;/p&gt;&lt;p&gt;　　十多年后，已是中铁十四局项目测量主管的李维川，带领团队进行着毫米级精度控制的隧道施工：“我们要把总书记的嘱托落在每一毫米的数据里。”&lt;/p&gt;&lt;p&gt;　　2019年2月农历春节前夕，北京前门石头胡同快递站点，刘阔和同事们见到了前来看望他们的习近平总书记。&lt;/p&gt;&lt;p&gt;　　听说大家年三十才能回家，总书记说，“快递小哥”工作很辛苦，起早贪黑、风雨无阻，越是节假日越忙碌，像勤劳的小蜜蜂，是最辛勤的劳动者，为大家生活带来了便利。&lt;/p&gt;&lt;p&gt;　　这些年，刘阔光荣加入中国共产党，更加努力地奔跑在服务百姓生活的“最后一公里”。&lt;/p&gt;&lt;p&gt;　　2013年11月的一天，山东济南市外来务工人员综合服务中心人来人往。前来考察的习近平总书记同窗口单位工作人员和前来办事的农民工亲切交谈，一群从事家政服务的“阳光大姐”围上来向总书记问好。&lt;/p&gt;&lt;p&gt;　　“刚开始，我做这份工作还有些顾虑，但总书记却说‘家政服务大有可为’，这让我的心一下子就热乎起来。”“阳光大姐”团队负责人卓长立清晰记得，“临行时，总书记已经走下楼梯，又专门回过头来同我们握手，还叮嘱我要给姐妹们安排好工作。”&lt;/p&gt;&lt;p&gt;　　2018年全国两会期间，卓长立作为全国人大代表，再次向习近平总书记当面汇报了“阳光大姐”发展情况。如今，在总书记的鼓励下，“阳光大姐”已从济南走向全国，吸引了数万人加入家政服务员队伍。&lt;/p&gt;&lt;p&gt;　　习近平总书记心中装着基层一线劳动者，珍重大家的每一份付出：在工地现场，同农民工亲切交谈，强调“要更多关心、关爱农民工”；在出租客运公司，向“的哥”“的姐”征询对年节打车难的解决办法；在清洁站，称赞环卫工人是城市的“美容师”……&lt;/p&gt;&lt;p&gt;　　朴素的话语，不变的深情，让广大劳动者倍感温暖与振奋。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“全社会都应该尊敬劳动模范、弘扬劳模精神”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“劳动模范和先进工作者是人民的楷模、国家的栋梁。”&lt;/p&gt;&lt;p&gt;　　2025年“五一”国际劳动节前夕，在庆祝中华全国总工会成立100周年暨全国劳动模范和先进工作者表彰大会上，习近平总书记深刻指出，长期以来，一代又一代劳动模范和先进工作者在促进事业发展、推动时代进步中发挥了示范引领作用。&lt;/p&gt;&lt;p&gt;　　坚持中国道路、弘扬中国精神、凝聚中国力量，劳动模范和先进工作者始终引领时代风尚，彰显奋斗担当。&lt;/p&gt;&lt;p&gt;　　“50年代的，像梁军同志、申纪兰同志；60年代的，像郭凤莲同志；改革开放以后的，像袁隆平同志、鲁冠球同志；再就是新时期的。”&lt;/p&gt;&lt;p&gt;　　这是在一次座谈会上，习近平总书记脱口而出的一长串名字，他们穿越时空，写下一部奋斗者的编年史。&lt;/p&gt;&lt;p&gt;　　2013年4月底，中华全国总工会机关一间普通会议室里，习近平总书记同来自全国各地、不同行业、不同历史时期的65名劳模代表围坐谈心。总书记说：“看到大家，对劳模肃然起敬，尊重知识、尊重劳动的情怀油然而生。”&lt;/p&gt;&lt;p&gt;　　梁军，新中国第一位女拖拉机手，也是第三套人民币上女拖拉机手的原型。&lt;/p&gt;&lt;p&gt;　　“我是第一届全国劳动模范，1950年，那时我才21岁。我为什么当劳动模范？我的梦想就是建设北大仓，现在这个梦基本实现了。”时年84岁的梁军说。&lt;/p&gt;&lt;p&gt;　　梁军曾在北大荒垦荒。老人激动地站起来发言：“现在黑龙江是全国第一的粮仓。粮食九连增，有我们一份功劳，欢迎总书记以后到黑龙江考察去。”&lt;/p&gt;&lt;p&gt;　　“我是一直准备去看三江平原的，以后会去。”习近平总书记看着老人说，“你的事迹，我们这个年龄的人都知道。中国第一位女拖拉机手，你是很了不起。”&lt;/p&gt;&lt;p&gt;　　习近平总书记一直十分关心广大劳动模范，要求各级党委和政府要尊重劳模、关爱劳模。&lt;/p&gt;&lt;p&gt;　　2017年全国精神文明建设表彰大会上，总书记拉着90多岁的黄旭华院士，微笑着请老人坐到自己身边；&lt;/p&gt;&lt;p&gt;　　2021年全国脱贫攻坚总结表彰大会上，当坐在轮椅上的夏森颤巍巍想站起身来领取表彰证书时，总书记轻轻拍了拍她的肩膀，弯下腰双手把证书颁给她；&lt;/p&gt;&lt;p&gt;　　2021年“七一勋章”颁授时，总书记握着治沙英雄石光银粗糙的手感叹：“这几十年你们太不容易了。”&lt;/p&gt;&lt;p&gt;　　…………&lt;/p&gt;&lt;p&gt;　　伟大事业孕育伟大精神，伟大精神引领伟大事业。&lt;/p&gt;&lt;p&gt;　　我国工人阶级和广大劳动群众始终与祖国同成长、与时代齐奋进，在实现中国梦伟大进程中拼搏奋斗、争创一流、勇攀高峰。&lt;/p&gt;&lt;p&gt;　　“造就一支有理想守信念、懂技术会创新、敢担当讲奉献的宏大产业工人队伍”“要顺应新一轮科技革命和产业变革，全面提升劳动者素质”……党的十八大以来，习近平总书记对建设高素质劳动大军念兹在兹。&lt;/p&gt;&lt;p&gt;　　“到厂里多久了？”“什么学历？”“上岗培训是怎么做的？”“收入怎么样？”&lt;/p&gt;&lt;p&gt;　　2025年5月，习近平总书记到河南洛阳轴承集团股份有限公司考察，同职工们交谈时，他十分关注人才的成长路径，强调“人才是希望。推进产学研一体化，培养大批高素质人才，中国式现代化才能够真正实现”。&lt;/p&gt;&lt;p&gt;　　在习近平总书记看来，当代工人不仅要有力量，还要有智慧、有技术，能发明、会创新。&lt;/p&gt;&lt;p&gt;　　2020年5月，太钢不锈钢精密带钢有限公司的车间里，正在生产一种超薄精密不锈带钢——厚度仅为0.02毫米，相当于普通A4纸的1/4，可以轻易撕开，被形象地称为“手撕钢”。&lt;/p&gt;&lt;p&gt;　　2017年，习近平总书记到太钢考察时，85后技术员廖席正在进行新项目“手撕钢”的艰难探索，平均每两天失败一次。正是总书记提出的殷切期望，让他鼓起了不断创新的勇气。&lt;/p&gt;&lt;p&gt;　　700多次试验后，全球最薄“手撕钢”研制成功。&lt;/p&gt;&lt;p&gt;　　2020年又一次见到习近平总书记，廖席紧张又兴奋。总书记拿起一片“手撕钢”，轻轻扭折了一下，不禁称赞：“工艺确实好，就像锡纸一样薄，百炼钢做成了绕指柔。”&lt;/p&gt;&lt;p&gt;　　“希望你们再接再厉，在高端制造业科技创新上不断勇攀高峰，在支撑先进制造业方面迈出新的更大步伐。”总书记的深情寄语，让廖席深感责任在肩。&lt;/p&gt;&lt;p&gt;　　劳动者素质对一个国家、一个民族发展至关重要。当今世界，综合国力的竞争归根到底是人才的竞争、劳动者素质的竞争。&lt;/p&gt;&lt;p&gt;　　习近平总书记鲜明指出，努力建设一支知识型、技能型、创新型的劳动者大军。&lt;/p&gt;&lt;p&gt;　　全国人大代表孙景南是一名电焊工，埋头精研焊接技术三十余载，从学徒工成长为中国中车公司著名技能专家。&lt;/p&gt;&lt;p&gt;　　2024年全国两会期间，习近平总书记参加十四届全国人大二次会议江苏代表团审议。&lt;/p&gt;&lt;p&gt;　　发言中，孙景南谈到自己对大国工匠的理解：“‘匠’字就是在专业领域中对自己‘斤斤计较’一点，历经磨砺方能实现突破。”&lt;/p&gt;&lt;p&gt;　　习近平总书记点头赞许：“大国工匠是我们中华民族大厦的基石、栋梁。新中国成立以后，我们一穷二白，从无到有，引进消化吸收再发展，自力更生艰苦奋斗，搞出一个独立自主的制造业基础。”&lt;/p&gt;&lt;p&gt;　　谆谆教导、殷殷期望。回望发展历程，劳动精神一脉相承，奋斗脚步从未停歇。&lt;/p&gt;&lt;p&gt;　　2017年底，习近平总书记到江苏考察，在徐工集团广场上亲切看望公司劳动模范、技术能手等职工代表。&lt;/p&gt;&lt;p&gt;　　总书记热情洋溢地对大家说：“广大企业职工要增强新时代工人阶级的自豪感和使命感，爱岗敬业、拼搏奉献，大力弘扬劳模精神和工匠精神，在为实现中国梦的奋斗中争取人人出彩。”&lt;/p&gt;&lt;p&gt;　　习近平总书记站在实现“两个一百年”奋斗目标、实现中华民族伟大复兴中国梦的全局高度，多次对大力弘扬劳模精神、劳动精神、工匠精神作出重要指示。&lt;/p&gt;&lt;p&gt;　　给中国劳动关系学院劳模本科班学员回信时强调，全社会都应该尊敬劳动模范、弘扬劳模精神；&lt;/p&gt;&lt;p&gt;　　在全国劳动模范和先进工作者表彰大会上号召大家，将辛勤劳动、诚实劳动、创造性劳动作为自觉行为；&lt;/p&gt;&lt;p&gt;　　回信勉励中国一重产业工人代表，弘扬劳模精神、劳动精神、工匠精神，苦练内功、提高本领；&lt;/p&gt;&lt;p&gt;　　…………&lt;/p&gt;&lt;p&gt;　　“发挥好劳模作用，带出更多的劳模。”这是2020年3月习近平总书记在浙江宁波舟山港考察时，对全国劳模、桥吊司机竺士杰的嘱托。&lt;/p&gt;&lt;p&gt;　　这份嘱托，让竺士杰充满干劲。他撰写教材、开发模型，带动团队一同创新，努力培养更多技能人才。如今，“竺士杰桥吊操作法”持续迭代升级至远控智能化4.0版，依托国家级工作室累计培训超3500人。&lt;/p&gt;&lt;p&gt;　　“他们的事迹可学可做，他们的精神可追可及。”&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　希望与鞭策催人奋进，肯定与激励鼓舞人心。亿万职工以劳动模范为榜样，在平凡岗位上不断书写精益求精的奋进篇章。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“中国式现代化是干出来的，伟大事业都成于实干”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　春光正好，“华北明珠”白洋淀芦苇新绿绽放，新意盎然。&lt;/p&gt;&lt;p&gt;　　“十五五”开局之年，全国两会后首次地方考察，习近平总书记来到这座承载着千年大计的未来之城。在无数建设者的汗水浇灌中，一座新城从无到有，拔节生长。&lt;/p&gt;&lt;p&gt;　　中国华能集团是首批疏解到雄安新区的央企总部之一。企业一层大厅里气氛热烈，雄安新区建设的各路“开路先锋”齐聚，疏解企业、高校、医院等的100多名职工代表济济一堂。&lt;/p&gt;&lt;p&gt;　　习近平总书记同大家亲切交流，“要为做雄安人感到自豪，一马当先、蹄疾步稳地干事创业，共同创造雄安美好未来”。&lt;/p&gt;&lt;p&gt;　　越是美好的未来，越需要付出艰辛努力。&lt;/p&gt;&lt;p&gt;　　实干是成就事业的必由之路，也是人民领袖一以贯之的鲜明品格。&lt;/p&gt;&lt;p&gt;　　1991年3月7日下午，时任福州市委书记的习近平同志登上连家船慰问船工。习近平同志拉着一位船工的手说：“请你们放心，一定有房子住，今年年底就有房子住了。”&lt;/p&gt;&lt;p&gt;　　当天召开现场办公会、确定了解决方案，20多天后打下建楼工程的第一桩。&lt;/p&gt;&lt;p&gt;　　1991年底，福州市水运公司104户船工搬进岸上的新居，结束了祖祖辈辈“上无片瓦、下无寸土”的漂泊生活。&lt;/p&gt;&lt;p&gt;　　如今，“马上就办、真抓实干”，这八个大字镌刻在福州市委礼堂的外墙上。&lt;/p&gt;&lt;p&gt;　　唯有奋斗，才能铸就辉煌；唯有实干，才能攻坚克难。全面建成小康社会要靠实干，基本实现社会主义现代化要靠实干，实现中华民族伟大复兴也唯有靠实干。&lt;/p&gt;&lt;p&gt;　　党的二十大闭幕不到一周，习近平总书记首次出京考察来到红旗渠，感慨系之：“社会主义是拼出来、干出来、拿命换来的，不仅过去如此，新时代也是如此。”&lt;/p&gt;&lt;p&gt;　　2023年的春节团拜会上，习近平总书记给亿万群众鼓劲儿：“我们靠实干创造了辉煌的过去，还要靠实干开创更加美好的未来。”&lt;/p&gt;&lt;p&gt;　　2024年6月，深圳至中山跨江通道建成开通，习近平总书记在贺信中说：“中国式现代化是干出来的，伟大事业都成于实干！”&lt;/p&gt;&lt;p&gt;　　人民创造历史，劳动开创未来。&lt;/p&gt;&lt;p&gt;　　新征程上，高质量发展离不开劳动创造。习近平总书记要求，要聚焦推动高质量发展，动员激励广大职工和劳动群众建功立业、创新创造。&lt;/p&gt;&lt;p&gt;　　2019年1月17日，习近平总书记来到天津滨海—中关村科技园。国家电网天津电力滨海供电公司配电抢修班班长张黎明向总书记介绍了人工智能配网带电作业机器人。&lt;/p&gt;&lt;p&gt;　　切剥导线、牵引入槽、锁紧线夹，机器人作业过程很顺畅。习近平总书记看得很认真，得知研发方向是一线工人提出的，称赞道：“实践出真知。你作出了贡献，也作出了创新示范。”&lt;/p&gt;&lt;p&gt;　　“我们要让有创新梦想的人能够心无旁骛、有信心有激情地投入到创新事业中。”习近平总书记的鼓励让张黎明更加坚定了自己的努力方向。&lt;/p&gt;&lt;p&gt;　　张黎明和同事们研发的新一代配网带电作业机器人已经在全国多地推广应用，为高水平科技自立自强贡献出产业工人的智慧和力量。&lt;/p&gt;&lt;p&gt;　　新时代的劳动者心中有梦想，肩头有担当，手上有干劲，脚下有方向。&lt;/p&gt;&lt;p&gt;　　他们，将论文写在大地上，把成果留在农民手中。&lt;/p&gt;&lt;p&gt;　　2023年5月，中国农业大学科技小院的同学们收到了习近平总书记的回信。总书记在信中勉励大家“厚植爱农情怀，练就兴农本领，在乡村振兴的大舞台上建功立业”。&lt;/p&gt;&lt;p&gt;　　如今科技小院从“一粒种子”成长为遍布全国的“兴农森林”，已经发展到全国200多所高校参与，万余名研究生扎根生产一线，服务中国农民，建设农业强国。&lt;/p&gt;&lt;p&gt;　　他们，让中国工程科技在国际合作舞台上展现出硬核实力。&lt;/p&gt;&lt;p&gt;　　中车大连机车车辆有限公司工程师张彦民的手机里，珍藏着一张“特别”的照片：红蓝白相间、“长脸”造型的中老铁路“澜沧号”，正平稳驶出车站。&lt;/p&gt;&lt;p&gt;　　“在中老铁路通车仪式上，习近平总书记指出‘打造黄金线路，造福两国民众’。作为亲历者，我们深感使命光荣。”张彦民说。从昆明到万象，中老铁路海拔高差近2000米。他和团队往返奔波于每个车站、每段路基，反复测试，最终攻克噪声、高温多雨、车身易腐蚀等难题，让世界看见“中国制造”。&lt;/p&gt;&lt;p&gt;　　他们，以脚踏实地的努力守护“国之重器”。&lt;/p&gt;&lt;p&gt;　　今年春节期间，“中国天眼”照常运转。中国科学院国家天文台副台长姜鹏紧盯眼前的仪表，记录下宇宙深处的呢喃。&lt;/p&gt;&lt;p&gt;　　2021年，习近平总书记春节前在贵州考察，专门会见“中国天眼”项目负责人和科研骨干，称赞“天眼”是“当之无愧的国之重器”。那一刻，在现场的姜鹏内心热流涌动。这些年，“中国天眼”捷报频传，姜鹏和同事们以不停步的攻关，奋力走在人类“视界”的最前沿。&lt;/p&gt;&lt;p&gt;　　又是一个春天。河北塞罕坝机械林场，一抹抹新绿格外鲜亮。&lt;/p&gt;&lt;p&gt;　　从“一棵树”到“一片海”的绿色奇迹，背后是60多年来三代塞罕坝人的艰苦创业、接续奋斗。&lt;/p&gt;&lt;p&gt;　　“弘扬塞罕坝精神，持之以恒推进生态文明建设，一代接着一代干，驰而不息，久久为功”。2017年，习近平总书记对河北塞罕坝林场建设者感人事迹作出重要指示。&lt;/p&gt;&lt;p&gt;　　2021年8月，习近平总书记来到林场考察调研，同林场三代职工代表亲切交流，询问他们工作生活情况，共话林场沧桑巨变，共谋林场未来发展。&lt;/p&gt;&lt;p&gt;　　如今，塞罕坝林场正奔跑在二次创业的大道上。林场党委书记安长明说：“不为眼前虚名、不图短期显绩，守好这片绿水青山，为祖国增绿、为生态护航。”&lt;/p&gt;&lt;p&gt;　　砥砺初心，持之以恒。&lt;/p&gt;&lt;p&gt;　　在以习近平同志为核心的党中央坚强领导下，奋进在基本实现社会主义现代化夯实基础、全面发力的关键时期，亿万劳动者拼搏进取、耕耘奉献，不断在劳动中谱写时代华章，在奋斗中创造美好未来。&lt;/p&gt;&lt;p&gt;　　（新华社北京4月30日电  记者齐中熙、樊曦、高敬、黄垚）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——习近平总书记同劳动者在一起的故事 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154507&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154507.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154507.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “光荣属于劳动者，幸福属于劳动者” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154507.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 在新征程上团结奋斗不懈奋斗（社论）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154508.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 在新征程上团结奋斗不懈奋斗（社论） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——写在“五一”国际劳动节 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　在亿万人民意气风发向着“十五五”奋斗目标进军之际，迎来“五一”这个属于全体劳动者的光荣节日，我们向全国工人阶级和广大劳动群众致以诚挚问候，向各条战线上的劳动模范和先进工作者致以崇高敬意！&lt;/p&gt;&lt;p&gt;　　劳动光荣、创造伟大。中国共产党成立以来，团结带领人民所进行的一切奋斗，就是为了把我国建设成为现代化强国，实现中华民族伟大复兴。特别是党的十八大以来，我们党团结带领全国各族人民自信自强、开拓进取，依靠劳动创造扎实推进中国式现代化，全面建成小康社会，踏上第二个百年奋斗目标新征程，中华民族伟大复兴势不可挡！“十四五”圆满收官，我国经济实力、科技实力、国防实力、综合国力跃上新台阶，我们在砥砺奋进中进一步增强了志气、骨气、底气，把发展进步的命运牢牢掌握在自己手中。&lt;/p&gt;&lt;p&gt;　　今年是“十五五”开局之年，在以习近平同志为核心的党中央坚强领导下，集中力量办好自己的事，我国经济运行起步有力、开局良好，一季度国内生产总值同比增长5.0%。在外部形势更加复杂多变的背景下，我国工人阶级和广大劳动群众在科技创新大潮中勇立潮头，在产业转型升级中攻坚克难，在端稳端牢粮食、能源“两个饭碗”中挥洒汗水，推动我国经济在向新向优发展中夯实底盘、赢得主动。&lt;/p&gt;&lt;p&gt;　　人民是历史的创造者，劳动是一切幸福的源泉。实践充分表明，只要我们在党的领导下拧成一股绳，以只争朝夕的历史主动、主人翁的责任担当，锐意进取、迎难而上、奋发有为，就没有干不成的事、迈不过的坎。&lt;/p&gt;&lt;p&gt;　　习近平总书记强调：“时代不同，使命任务发生变化，但艰苦奋斗、团结奋斗、不懈奋斗的精神永远不会变。”实现“十五五”发展蓝图，需要应对更加复杂的环境、解决更多深层次矛盾。越是任务艰巨、挑战严峻，越要紧紧围绕新时代新征程党的中心任务，万众一心、奋发进取，汇聚起工人阶级和广大劳动群众的磅礴力量，以实干成就伟业，以创新赢得未来，不断开创中国式现代化建设新局面。&lt;/p&gt;&lt;p&gt;　　高质量发展离不开高质量的劳动创造。以科技创新引领新质生产力发展，构建以先进制造业为骨干的现代化产业体系，加快构建新发展格局，推动高质量发展，人才是第一资源、基础性支撑。我国已成为全球规模最宏大、门类最齐全的人才资源大国。顺应新一轮科技革命和产业变革，一体推进教育科技人才发展，建设一支知识型、技能型、创新型的劳动者大军，推动人口红利加速向人才红利提升，实现从人才大国向人才强国的跨越，才能抓住和用好机遇、牢牢掌握发展主动。我们要立足本职岗位，不断提高自身素质，发挥主力军作用，在实现“十五五”宏伟目标中建功立业、创新创造，努力成为善于干事创业的岗位能手、行家里手。&lt;/p&gt;&lt;p&gt;　　实干是最质朴的方法论。面对复杂多变的外部环境，研究新情况、解决新问题，唯有挺膺担当、知难而进，才能攻克艰难险阻、筑就通往胜利的坦途。广大党员干部要牢固树立和践行正确政绩观，坚持从实际出发、按规律办事，以功成不必在我、功成必定有我的精神境界，一张蓝图绘到底、一锤接着一锤敲。大力弘扬劳模精神、劳动精神、工匠精神，勇于应对各种风险挑战，不以事艰而不为、不以任重而退缩，在实干担当中锤炼真本领，方能依靠顽强斗争打开事业发展新天地。&lt;/p&gt;&lt;p&gt;　　推进前无古人的开创性事业，必须把亿万人民的智慧和力量激发出来、凝聚起来。新时代以来，从千方百计做好新就业群体服务管理，到建成超过15万个为户外劳动者遮风挡雨的工会驿站，再到打造新时代城市建设者管理者之家，我们党始终坚持以人民为中心，持续增进各行各业劳动者福祉。“共同富裕既要依靠广大劳动者来实现，又要体现到广大劳动者身上。”我们要准确把握新形势下人民群众对美好生活新期待和民生工作新特点，推动更多资金资源“投资于人”、服务于民生，让现代化建设成果更多更公平惠及全体人民，激励全体人民通过辛勤劳动、诚实劳动、创造性劳动实现对美好生活的向往。&lt;/p&gt;&lt;p&gt;　　回望过去，亿万人民胼手胝足的不懈奋斗，铸就了欣欣向荣的中国；眺望前方，新征程上每一个人都是主角，每一份付出汇聚在一起就是不可阻挡的历史洪流。让我们更加紧密地团结在以习近平同志为核心的党中央周围，全面贯彻习近平新时代中国特色社会主义思想，一步一步坚定朝前走，一起为梦想奋斗、为幸福打拼，把宏伟愿景变成美好现实。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——写在“五一”国际劳动节 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154508&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154508.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154508.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 在新征程上团结奋斗不懈奋斗（社论） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154508.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 联合发布2026年“最美职工”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154509.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 中央宣传部、全国总工会 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 联合发布2026年“最美职工” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京4月30日电  （记者易舒冉）为深入学习贯彻习近平总书记关于工人阶级和工会工作的重要论述，大力弘扬劳模精神、劳动精神、工匠精神，营造劳动最光荣、劳动最崇高、劳动最伟大、劳动最美丽的社会氛围，在“五一”国际劳动节来临之际，中央宣传部、全国总工会向全社会发布2026年“最美职工”先进事迹。&lt;/p&gt;&lt;p&gt;　　高丰、肖素枝、楼雅佳、肖冬样、邓述东、吴琦、杨平原、拉毛叶忠、马丛、桑南才等10位同志光荣入选。他们有的潜心攻关人工智能、新型材料，以创新赋能产业转型升级；有的扎根泥土探索农技革新，为乡村振兴增添动力；有的胸怀大爱情暖童心，倾情呵护特殊儿童成长；有的传承发展非遗技艺，带动乡亲就业致富；有的常年坚守深山密林，精心守护珍稀鸟类种群；有的翻山岭、战风浪，保障边海疆通信畅通；有的努力提升服务技能，细致周到满足群众所需……他们坚守初心、躬身奋斗、默默奉献、成就不凡，生动唱响了“社会主义是干出来的，幸福是奋斗出来的”时代主旋律。&lt;/p&gt;&lt;p&gt;　　广大职工群众表示，美好生活不会从天而降，一切幸福都需要靠辛勤的劳动来创造。要以“最美职工”为榜样，立足本职岗位，把小事做精、把难事做实、把平凡工作干出彩，在新征程上始终以奋斗姿态展现劳动之美。&lt;/p&gt;&lt;p&gt;　　据悉，2026年“最美职工”发布仪式专题节目将于近期播出。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 中央宣传部、全国总工会 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154509&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154509.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154509.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 联合发布2026年“最美职工” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154509.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 浙江勇挑大梁高质量发展建设共同富裕示范区（开局起步“十五五”·专题新闻发布）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154510.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 浙江勇挑大梁高质量发展建设共同富裕示范区（开局起步“十五五”·专题新闻发布） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  江  南  窦  皓&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　4月30日，开局起步“十五五”浙江专场新闻发布会在杭州举行。浙江省委副书记、省长刘捷表示，聚力落实习近平总书记对浙江工作的重要指示要求，浙江坚持稳中求进、提质增效，持续扩大内需、优化供给，做优增量、盘活存量，着力稳就业、稳企业、稳市场、稳预期，推动经济实现质的有效提升和量的合理增长，保持社会和谐稳定，确保实现“十五五”良好开局，为全国大局勇挑大梁、多作贡献。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　经济大省挑大梁，高质量发展亮点纷呈&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　刘捷介绍，“十四五”时期，浙江牢牢扭住高质量发展建设共同富裕示范区这一核心任务，坚定扛起“经济大省挑大梁”的责任担当，干在实处、走在前列、勇立潮头，推动全省经济持续向新向好、社会大局保持和谐稳定。&lt;/p&gt;&lt;p&gt;　　创新动能更加强劲。2025年，浙江科技创新投入达7232亿元，全社会研发投入强度达3.3%，区域创新能力连续4年位居全国第四，高新技术产业增加值占规上工业比重达69.1%。目前已打造3个万亿元级新兴产业集群，布局了杭州城西科创大走廊人工智能、宁波柔性电子等未来产业先导区。2025年，浙江人工智能核心产业营收突破7000亿元、增长20%，“浙产”大模型性能全球领先，新锐科创企业竞相涌现。&lt;/p&gt;&lt;p&gt;　　经营主体更加活跃。浙江在册经营主体数量突破1100万户、活跃度超过75%。围绕增强企业获得感，浙江创新实施政策“直达快享、免申即享”机制。秉持“有求必应、无事不扰”的服务理念，纵深推进“高效办成一件事”改革，完善涉企问题闭环解决机制。&lt;/p&gt;&lt;p&gt;　　改革开放更加深化。“十四五”时期，浙江全省年度进出口总值先后突破4万亿元和5万亿元关口，规模跻身全国前三，年均增长10.4%。全国首个大宗商品资源配置枢纽成功落地，新一轮义乌国际贸易综合改革获批实施。&lt;/p&gt;&lt;p&gt;　　共富成色更加鲜亮。“十四五”时期，浙江地区生产总值连续跨越7万亿元、8万亿元、9万亿元3个大台阶，年均增长5.9%；2025年，达到94545亿元，人均地区生产总值提高到14.1万元。浙江城乡居民收入水平稳居全国各省区首位、收入倍差缩小到1.81，基本公共服务一体化发展取得明显成效。&lt;/p&gt;&lt;p&gt;　　浙江明确“十五五”发展的总目标：高质量发展建设共同富裕示范区取得决定性进展，率先呈现基本实现社会主义现代化的生动图景，到2030年，经济实力、科技实力、综合竞争力大幅跃升，人均地区生产总值接近发达经济体水平。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　创新塑造发展新优势，努力谱写“十五五”精彩答卷&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　刘捷介绍，浙江突出创新引领核心地位，把“创新浙江”建设作为破解高质量发展新的“成长烦恼”的关键路径，做深做透教育科技人才一体改革发展、科技创新和产业创新深度融合“两篇大文章”，着力营造一流创新生态。&lt;/p&gt;&lt;p&gt;　　教育科技人才一体改革发展方面，开展“双一流196工程”建设中期评估，“一校一策”落实补短板、强弱项举措，全力支持相关高校争创“双一流”高校，并建立以科技发展、产业发展需求为导向的学科设置调整模式。到2030年全社会研发投入强度达3.5%以上。深化“企业认定、政府认账”工作，扩大高层次人才“校（院）企双聘”，加强人才市场化社会化评价，建立校企人才共引机制。&lt;/p&gt;&lt;p&gt;　　科技创新和产业创新深度融合方面，构建企业梯度培育体系，联动实施“高校+平台+企业+产业链”结对合作机制与“四题一评”协同攻关机制，企业牵头或参与的省重大科技计划项目占比不低于90%。深化开发区整合提升，支持更多省级开发区升格，力争国家高新区数量达到15家以上，高水平建设“万亩千亿”新产业平台，深化小微企业园提质升级行动。&lt;/p&gt;&lt;p&gt;　　刘捷表示，浙江正加快建设以人才成长“最佳沃土”、企业服务“最好摇篮”、融合协同“最高质效”、政策服务“最为有感”为鲜明特征的一流创新生态。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　力争高质量发展建设共同富裕示范区取得决定性进展&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“浙江正在建设共同富裕示范区，缩小‘三大差距’是重中之重。”浙江省委常委、常务副省长徐文光介绍，奋进“十五五”，浙江以“千万工程”牵引城乡融合发展，缩小“三大差距”，以“富民”为核心，一体推进“强城”“兴村”“融合”三篇文章，扎实推动高质量发展建设共同富裕示范区取得决定性进展。&lt;/p&gt;&lt;p&gt;　　深入推动基本公共服务一体化，以人为核心畅通城乡流动。“十五五”时期，浙江将完善常住地提供基本服务制度，让公共服务资源跟着人口变化和需求走，同时持续完善灵活就业人员、农民工、新就业形态人员等群体社会保障，稳步提高城乡居民基本养老保险人均待遇水平，解决新市民、青年人、农业转移人口等群体的住房难题。&lt;/p&gt;&lt;p&gt;　　优化资源要素配置，打造富民产业。浙江将农产品生产延伸至品牌、文旅、营销等环节，到2030年，乡村“土特产”全产业链总产值超4000亿元。同时，前瞻布局“人工智能+农业”“低空经济+农业”，针对山区海岛深化结对帮扶机制，强化帮带一批“相对薄弱乡镇”“相对薄弱村”，加快建设一批双向“发展飞地”，持续提升内生发展动能。&lt;/p&gt;&lt;p&gt;　　养老机构的护理型床位占比提升到75%，新增老年大学（学校）学位3万个，全面推进基本医疗省级统筹改革，长期护理保险覆盖率达到90%以上……“十五五”时期，浙江将紧扣高质量发展建设共同富裕示范区重大使命，通过“小切口、大民生”改革，办好百姓期盼的各项实事。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  江  南  窦  皓&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154510&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154510.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154510.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 浙江勇挑大梁高质量发展建设共同富裕示范区（开局起步“十五五”·专题新闻发布） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154510.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中华人民共和国主席令</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154511.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中华人民共和国主席令 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　第七十四号&lt;/p&gt;&lt;p&gt;　　《中华人民共和国监狱法》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十二次会议于2026年4月30日修订通过，现予公布，自2026年11月1日起施行。&lt;/p&gt;&lt;p&gt;　　中华人民共和国主席  习近平    &lt;/p&gt;&lt;p&gt;　　2026年4月30日  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　第七十五号&lt;/p&gt;&lt;p&gt;　　《中华人民共和国社会救助法》已由中华人民共和国第十四届全国人民代表大会常务委员会第二十二次会议于2026年4月30日通过，现予公布，自2026年7月1日起施行。&lt;/p&gt;&lt;p&gt;　　中华人民共和国主席  习近平    &lt;/p&gt;&lt;p&gt;　　2026年4月30日  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　第七十六号&lt;/p&gt;&lt;p&gt;　　根据中华人民共和国第十四届全国人民代表大会常务委员会第二十二次会议于2026年4月30日的决定：&lt;/p&gt;&lt;p&gt;　　一、免去韩俊的农业农村部部长职务；&lt;/p&gt;&lt;p&gt;　　任命张柱为农业农村部部长。&lt;/p&gt;&lt;p&gt;　　二、任命张成中为应急管理部部长。&lt;/p&gt;&lt;p&gt;　　中华人民共和国主席  习近平    &lt;/p&gt;&lt;p&gt;　　2026年4月30日  &lt;/p&gt;&lt;p&gt;　　（新华社北京4月30日电） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154511&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154511.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154511.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中华人民共和国主席令 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154511.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 十四届全国人大常委会第二十二次会议在京闭幕</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154512.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 十四届全国人大常委会第二十二次会议在京闭幕 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 表决通过新修订的监狱法、社会救助法等  决定任命张柱为农业农村部部长、张成中为应急管理部部长&lt;br/&gt;习近平签署主席令&lt;br/&gt;赵乐际主持会议 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京4月30日电  （记者彭波）十四届全国人大常委会第二十二次会议30日上午在北京人民大会堂闭幕。会议经表决，通过了新修订的监狱法、社会救助法；决定免去韩俊的农业农村部部长职务、任命张柱为农业农村部部长，任命张成中为应急管理部部长。国家主席习近平分别签署第74、75、76号主席令。赵乐际委员长主持闭幕会。&lt;/p&gt;&lt;p&gt;　　常委会组成人员148人出席会议，出席人数符合法定人数。&lt;/p&gt;&lt;p&gt;　　会议表决通过了全国人大常委会关于批准《中华人民共和国和阿塞拜疆共和国关于刑事司法协助的条约》的决定，关于批准《中华人民共和国和哈萨克斯坦共和国、吉尔吉斯共和国、塔吉克斯坦共和国、土库曼斯坦、乌兹别克斯坦共和国永久睦邻友好合作条约》的决定。&lt;/p&gt;&lt;p&gt;　　会议表决通过了全国人大常委会代表资格审查委员会关于个别代表的代表资格的报告。&lt;/p&gt;&lt;p&gt;　　会议经表决，免去冯怡的全国人大常委会副秘书长职务。会议还表决通过了其他任免案。&lt;/p&gt;&lt;p&gt;　　全国人大常委会副委员长李鸿忠、王东明、肖捷、郑建邦、丁仲礼、郝明金、蔡达峰、何维、武维华、铁凝、彭清华、张庆伟、洛桑江村、雪克来提·扎克尔，秘书长刘奇出席会议。&lt;/p&gt;&lt;p&gt;　　国务委员王小洪，最高人民法院院长张军，最高人民检察院检察长应勇，国家监察委员会负责同志，全国人大各专门委员会成员，各省区市人大常委会负责同志，部分副省级城市人大常委会主要负责同志，部分全国人大代表，有关部门负责同志等列席会议。&lt;/p&gt;&lt;p&gt;　　闭幕会后，十四届全国人大常委会举行第二十二讲专题讲座，赵乐际委员长主持。自然资源部副部长、国家海洋局局长孙书贤作了题为《我国极地考察活动的实践与成就》的讲座。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 表决通过新修订的监狱法、社会救助法等  决定任命张柱为农业农村部部长、张成中为应急管理部部长&lt;br&gt;习近平签署主席令&lt;br&gt;赵乐际主持会议 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154512&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154512.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154512.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 十四届全国人大常委会第二十二次会议在京闭幕 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154512.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 高质量做好人大各项工作 服务保障“十五五”良好开局</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154514.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 赵乐际主持十四届全国人大常委会第二十二次会议闭幕会并作讲话强调 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 高质量做好人大各项工作 服务保障“十五五”良好开局 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京4月30日电  （记者彭波）全国人大常委会委员长赵乐际30日上午主持十四届全国人大常委会第二十二次会议闭幕会。在会议完成有关表决事项后，赵乐际作了讲话。&lt;/p&gt;&lt;p&gt;　　赵乐际说，本次会议审议8件法律草案，通过其中2件。新制定的社会救助法，坚持保基本、兜底线、救急难、可持续，对于织密民生保障安全网、促进社会公平、维护社会和谐稳定具有重要意义。修订后的监狱法，健全监狱管理体制，进一步规范和保障监狱正确执行刑罚，有利于促进更高水平平安中国和法治中国建设。会议对医疗保障法、耕地保护和质量提升法草案进行了二次审议，对企业国有资产法、农业法、国防动员法、水法修订草案进行了初次审议，有关方面要认真研究相关意见建议，把草案修改好完善好。&lt;/p&gt;&lt;p&gt;　　赵乐际指出，会议听取审议了国务院关于2025年度环境状况和环境保护目标完成情况的报告，要深入贯彻习近平生态文明思想，高质量编制实施生态环境领域“十五五”规划，进一步筑牢生态安全屏障，增强绿色发展动能。会议听取审议了国务院关于2024年度国有资产管理情况报告审议意见的研究处理情况和整改问责情况的报告，要聚焦突出问题进一步推进整改工作，持续提升各类国有资产管理水平。&lt;/p&gt;&lt;p&gt;　　赵乐际强调，要把履职工作同树立和践行正确政绩观学习教育紧密结合起来，进一步提高人大工作质量和水平，为实现“十五五”良好开局作贡献。要加强学习，全面系统学习领悟习近平新时代中国特色社会主义思想的科学体系、核心要义、实践要求，把握好、运用好蕴含其中的立场、观点、方法，深化对人大制度、人大工作的规律性认识，提高依法履职能力。要服务大局，自觉把思想和行动统一到党中央对形势的分析判断和决策部署上来，增强大局观、执行力，立足职责、结合实际抓好贯彻落实。聚焦“十五五”规划实施，加强重点领域、新兴领域、涉外领域立法，实行正确监督、有效监督、依法监督，推动党中央确定的任务举措落实见效，以法治护航经济社会高质量发展。&lt;/p&gt;&lt;p&gt;　　赵乐际强调，要为民履职，践行全过程人民民主，聚焦人民群众所思所盼所愿履行法定职责，依法维护人民权益、增进民生福祉。提高调查研究质量，深入基层、深入群众，使人大工作更加符合实际、贴近民生。充分发挥代表作用，支持和保障代表依法履职尽责。要担当实干，坚持从实际出发、按规律办事，把各项工作做扎实、做深入。全国人大常委会和专门委员会组成人员、人大机关干部要保持奋发有为的精神状态，发扬求真务实的工作作风，在职责范围内主动作为、认真履职、担当尽责，高质量做好人大各项工作。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 赵乐际主持十四届全国人大常委会第二十二次会议闭幕会并作讲话强调 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154514&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154514.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154514.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 高质量做好人大各项工作 服务保障“十五五”良好开局 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154514.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 十四届全国人大常委会举行第六十七次委员长会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154513.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 十四届全国人大常委会举行第六十七次委员长会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 决定将社会救助法草案等交付常委会会议表决&lt;br/&gt;赵乐际主持会议 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京4月30日电  （记者彭波）十四届全国人大常委会第六十七次委员长会议30日上午在北京人民大会堂举行。赵乐际委员长主持会议。&lt;/p&gt;&lt;p&gt;　　会议听取了全国人大宪法和法律委员会主任委员信春鹰作的关于监狱法修订草案修改稿审议情况的汇报、关于社会救助法草案修改稿审议情况的汇报，审议了有关草案表决稿。&lt;/p&gt;&lt;p&gt;　　会议听取了全国人大常委会秘书长刘奇作的其他拟提请表决事项审议情况的汇报。&lt;/p&gt;&lt;p&gt;　　委员长会议决定，将上述草案等交付十四届全国人大常委会第二十二次会议闭幕会表决。&lt;/p&gt;&lt;p&gt;　　全国人大常委会副委员长李鸿忠、王东明、肖捷、郑建邦、丁仲礼、郝明金、蔡达峰、何维、武维华、铁凝、彭清华、张庆伟、洛桑江村、雪克来提·扎克尔出席会议。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 决定将社会救助法草案等交付常委会会议表决&lt;br&gt;赵乐际主持会议 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154513&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154513.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154513.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 十四届全国人大常委会举行第六十七次委员长会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154513.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 深入贯彻落实中共中央决策部署  不断提高民主监督针对性实效性</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154515.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 王沪宁在长江生态环境保护民主监督总结暨黄河流域生态保护和高质量发展民主监督工作启动会上强调 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 深入贯彻落实中共中央决策部署  不断提高民主监督针对性实效性 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　本报北京4月30日电  （记者李昌禹）各民主党派中央、无党派人士长江生态环境保护民主监督总结暨黄河流域生态保护和高质量发展民主监督工作启动会30日在京召开。中共中央政治局常委、全国政协主席王沪宁出席并讲话。他表示，要以习近平新时代中国特色社会主义思想为指导，深入贯彻落实中共二十届四中全会精神和“十五五”规划部署，总结运用好长江生态环境保护民主监督成效做法，不断提升黄河流域生态保护和高质量发展民主监督工作水平。&lt;/p&gt;&lt;p&gt;　　王沪宁表示，5年来，各民主党派中央、无党派人士深入贯彻落实习近平生态文明思想，精准聚焦长江生态环境保护和长江经济带高质量发展目标任务，以高度责任感使命感履行民主监督职责，为守护中华民族母亲河广泛凝聚共识、贡献智慧力量。长江生态环境保护民主监督的生动实践，彰显了中国特色社会主义参政党和参政力量为执政党助力、为国尽责、为民服务的政治担当，彰显了中国新型政党制度集智聚力的政治优势。&lt;/p&gt;&lt;p&gt;　　王沪宁表示，推动黄河流域生态保护和高质量发展是以习近平同志为核心的中共中央从中华民族和中华文明永续发展的高度作出的重大战略决策。要提高民主监督的政治站位和工作效能，围绕加强生态保护治理、保障黄河长治久安、促进全流域高质量发展、改善人民群众生活、保护传承弘扬黄河文化等开展专项监督，做到方向对、发力准、效果好。要聚焦事关黄河流域生态保护和高质量发展的全局性、战略性、前瞻性问题和深层次矛盾，找准监督切口，找到建议落点，增强民主监督合力和效力。&lt;/p&gt;&lt;p&gt;　　中共中央政治局委员、中央统战部部长李干杰主持会议。&lt;/p&gt;&lt;p&gt;　　民革中央主席郑建邦、民盟中央主席丁仲礼、民建中央副主席孙东生、民进中央主席蔡达峰、农工党中央主席何维、致公党中央主席蒋作君、九三学社中央主席武维华、台盟中央主席苏辉、无党派人士代表樊杰作了发言。&lt;/p&gt;&lt;p&gt;　　中共中央统战部负责同志作了情况介绍和说明。国家发展改革委、生态环境部、水利部负责同志作了发言。会议以电视电话会议形式召开，有关省区市设分会场。各民主党派中央有关负责同志、无党派人士代表，中央和国家机关有关部门，有关省区市党委和政府、民主党派负责同志等参加会议。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 王沪宁在长江生态环境保护民主监督总结暨黄河流域生态保护和高质量发展民主监督工作启动会上强调 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154515&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154515.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154515.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 深入贯彻落实中共中央决策部署  不断提高民主监督针对性实效性 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154515.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 全国人大常委会举行宪法宣誓仪式</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154516.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人大常委会举行宪法宣誓仪式 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京4月30日电  （记者彭波）十四届全国人大常委会30日上午在北京人民大会堂举行宪法宣誓仪式。全国人大常委会副委员长李鸿忠主持并监誓。&lt;/p&gt;&lt;p&gt;　　刚刚闭幕的十四届全国人大常委会第二十二次会议决定任命张成中为应急管理部部长。根据宪法和全国人大常委会关于实行宪法宣誓制度的决定，依法进行宪法宣誓。&lt;/p&gt;&lt;p&gt;　　全国人大机关、应急管理部有关负责同志参加了宣誓活动。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154516&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154516.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154516.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人大常委会举行宪法宣誓仪式 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154516.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中央党校（国家行政学院）举行2026年春季学期第一批进修班毕业典礼</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154517.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中央党校（国家行政学院）举行2026年春季学期第一批进修班毕业典礼 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 陈希出席并为学员颁发毕业证书 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京4月30日电  （记者何昭宇）中共中央党校（国家行政学院）30日举行2026年春季学期第一批进修班毕业典礼。中央党校（国家行政学院）校长（院长）陈希出席毕业典礼，并为学员颁发毕业证书。&lt;/p&gt;&lt;p&gt;　　中央党校（国家行政学院）本期毕业学员370人。毕业典礼上，4位学员代表发言。大家一致认为，此次学习适逢“十五五”开局起步的关键节点，深感意义特殊、学有所获。通过深学细悟习近平新时代中国特色社会主义思想，集中学习领会党的二十届四中全会精神，认真参加树立和践行正确政绩观学习教育，接受系统的理论教育、党性教育和履职能力培训，进一步筑牢政治忠诚、提高理论素养、锤炼党性修养、强化担当本领。大家表示，在新征程上，要坚持不懈用习近平新时代中国特色社会主义思想凝心铸魂，自觉运用党的创新理论把握大势、明辨方向、掌握方法，切实把学习成果转化为推动高质量发展的实际行动，带头树牢正确政绩观，坚持为人民出政绩、以实干出政绩，奋力开创中国式现代化建设新局面。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 陈希出席并为学员颁发毕业证书 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154517&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154517.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154517.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中央党校（国家行政学院）举行2026年春季学期第一批进修班毕业典礼 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154517.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 全国人民代表大会常务委员会关于批准《中华人民共和国和阿塞拜疆共和国关于刑事司法协助的条约》的决定</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154518.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人民代表大会常务委员会关于批准《中华人民共和国和阿塞拜疆共和国关于刑事司法协助的条约》的决定 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;（2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过）&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　第十四届全国人民代表大会常务委员会第二十二次会议决定：批准2025年4月23日由中华人民共和国代表在北京签署的《中华人民共和国和阿塞拜疆共和国关于刑事司法协助的条约》。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;（2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过）&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154518&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154518.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154518.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人民代表大会常务委员会关于批准《中华人民共和国和阿塞拜疆共和国关于刑事司法协助的条约》的决定 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154518.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 全国人民代表大会常务委员会关于批准《中华人民共和国和哈萨克斯坦共和国、吉尔吉斯共和国、塔吉克斯坦共和国、土库曼斯坦、乌兹别克斯坦共和国永久睦邻友好合作条约》的决定</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154519.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人民代表大会常务委员会关于批准《中华人民共和国和哈萨克斯坦共和国、吉尔吉斯共和国、塔吉克斯坦共和国、土库曼斯坦、乌兹别克斯坦共和国永久睦邻友好合作条约》的决定 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; （2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　第十四届全国人民代表大会常务委员会第二十二次会议决定：批准2025年6月17日由中华人民共和国代表在阿斯塔纳签署的《中华人民共和国和哈萨克斯坦共和国、吉尔吉斯共和国、塔吉克斯坦共和国、土库曼斯坦、乌兹别克斯坦共和国永久睦邻友好合作条约》。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; （2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154519&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154519.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154519.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人民代表大会常务委员会关于批准《中华人民共和国和哈萨克斯坦共和国、吉尔吉斯共和国、塔吉克斯坦共和国、土库曼斯坦、乌兹别克斯坦共和国永久睦邻友好合作条约》的决定 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154519.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 国务院任免国家工作人员</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154520.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 国务院任免国家工作人员 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京4月30日电  国务院任免国家工作人员。&lt;/p&gt;&lt;p&gt;　　任命张成中为国家消防救援局第一政治委员。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154520&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154520.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154520.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 国务院任免国家工作人员 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154520.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 全国人民代表大会常务委员会公告</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154521.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人民代表大会常务委员会公告 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ［十四届］第十七号 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　浙江省人大常委会决定罢免易炼红的第十四届全国人民代表大会代表职务。四川省人大常委会决定罢免曾从钦、戴学斌的第十四届全国人民代表大会代表职务。云南省人大常委会决定罢免卫岗的第十四届全国人民代表大会代表职务。甘肃省人大常委会决定罢免雷思维的第十四届全国人民代表大会代表职务。依照《中华人民共和国全国人民代表大会和地方各级人民代表大会代表法》的有关规定，易炼红、曾从钦、戴学斌、卫岗、雷思维的代表资格终止。依照《中华人民共和国全国人民代表大会和地方各级人民代表大会选举法》的有关规定，易炼红的第十四届全国人民代表大会财政经济委员会副主任委员职务相应撤销。&lt;/p&gt;&lt;p&gt;　　截至目前，第十四届全国人民代表大会实有代表2873人。&lt;/p&gt;&lt;p&gt;　　特此公告。&lt;/p&gt;&lt;p&gt;　　全国人民代表大会常务委员会    &lt;/p&gt;&lt;p&gt;　　2026年4月30日 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ［十四届］第十七号 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154521&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154521.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154521.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人民代表大会常务委员会公告 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154521.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 全国人民代表大会常务委员会免职名单</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154522.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人民代表大会常务委员会免职名单 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; （2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　免去冯怡（女）的第十四届全国人民代表大会常务委员会副秘书长职务。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; （2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154522&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154522.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154522.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人民代表大会常务委员会免职名单 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154522.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “稳步增进广大职工和劳动群众福祉”（总书记的人民情怀）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154523.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “稳步增进广大职工和劳动群众福祉”（总书记的人民情怀） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  易舒冉&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　在今年“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问，强调：“各级党委和政府要切实维护广大劳动群众合法权益，着力解决急难愁盼问题，动员激励广大劳动群众为实现宏伟蓝图而不懈奋斗。”&lt;/p&gt;&lt;p&gt;　　光荣属于劳动者，幸福属于劳动者。&lt;/p&gt;&lt;p&gt;　　习近平总书记深刻指出：“要着眼推进共同富裕，稳步增进广大职工和劳动群众福祉。”&lt;/p&gt;&lt;p&gt;　　党的十八大以来，习近平总书记一次次来到基层一线劳动者中间，问冷暖、听期盼，始终牵挂劳动群众的切身福祉。&lt;/p&gt;&lt;p&gt;　　牵挂里，是对劳动者劳有所得的守护。&lt;/p&gt;&lt;p&gt;　　“工作累不累？”“收入怎么样？”“春节回不回老家？”今年2月10日，习近平总书记在北京市西城区新街口街道父母食堂考察时，关切询问在这里休息的快递员的工作和生活，为他们付出的辛劳和作出的贡献点赞。&lt;/p&gt;&lt;p&gt;　　时光回溯，2013年2月8日，同样是春节前夕，习近平总书记来到北京地铁8号线南锣鼓巷站施工工地，走进钢筋工范勇在工地上的临时小家，仔细了解他的工作、收入和生活情况。&lt;/p&gt;&lt;p&gt;　　劳动者劳有所得、勤有所获，每个“小家”才能热气腾腾。&lt;/p&gt;&lt;p&gt;　　“要把稳就业工作摆在更加突出的位置，不断提高劳动者收入水平”“有序提高劳动、技能、知识、创新等要素在收入分配中的权重”……习近平总书记念兹在兹。&lt;/p&gt;&lt;p&gt;　　“十五五”规划纲要提出，“促进多劳者多得、技高者多得、创新者多得”“劳动报酬提高和劳动生产率提高同步”。一系列部署安排，进一步激励广大劳动者通过辛勤劳动、诚实劳动、创造性劳动实现对美好生活的向往。&lt;/p&gt;&lt;p&gt;　　牵挂里，是对促进职工全面发展的关怀。&lt;/p&gt;&lt;p&gt;　　2025年4月28日，北京人民大会堂，习近平总书记在庆祝中华全国总工会成立100周年暨全国劳动模范和先进工作者表彰大会上强调：“要坚持以职工为中心的工作导向，竭诚服务职工群众、促进职工全面发展。”&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　现代化的最终目标是实现人自由而全面的发展。促进职工全面发展，既是对劳动者成长期盼的回应，也是践行以人民为中心的发展思想的长远之举。&lt;/p&gt;&lt;p&gt;　　“你的职称走的是哪个序列？”&lt;/p&gt;&lt;p&gt;　　2022年10月17日，在参加党的二十大广西代表团讨论时，习近平总书记询问来自广西汽车集团的郑志明。&lt;/p&gt;&lt;p&gt;　　在一线干了20多年的郑志明向总书记汇报：“我刚评上特级技师，还评上了高级工程师。党的政策让我们职高毕业的工人，也有了好出路。”&lt;/p&gt;&lt;p&gt;　　一问一答间，是总书记对职工成长发展的深切关怀。&lt;/p&gt;&lt;p&gt;　　当前，新质生产力蓬勃发展，对劳动者自身能力水平提出了更高要求。&lt;/p&gt;&lt;p&gt;　　从实施职业技能提升行动，到开展各种形式的劳动和技能竞赛，再到丰富职工精神文化生活……一系列政策举措，为劳动者成长赋能，不断拓宽职业发展空间，让广大职工在全面发展中实现人生价值。&lt;/p&gt;&lt;p&gt;　　牵挂里，是对加强劳动者权益保障的久久为功。&lt;/p&gt;&lt;p&gt;　　劳动没有高低贵贱之分，任何一份职业都很光荣。保障劳动者合法权益不仅是社会公正的体现，更是增进福祉的关键之举。&lt;/p&gt;&lt;p&gt;　　从深入基层考察调研，到主持召开相关会议、研究部署相关工作，习近平总书记一直十分关注劳动者权益保障问题。&lt;/p&gt;&lt;p&gt;　　第九次全国职工队伍状况调查结果显示，我国有8400万新就业形态劳动者。&lt;/p&gt;&lt;p&gt;　　“加强灵活就业和新就业形态劳动者权益保障，扩大职业伤害保障试点，及时总结经验、形成制度。”习近平总书记点明关键。&lt;/p&gt;&lt;p&gt;　　从2022年7月在北京、上海等7个省份启动新就业形态人员职业伤害保障试点，到今年《政府工作报告》明确提出“出台支持灵活就业人员、新就业形态人员参加职工保险的政策”“稳妥有序推进职业伤害保障试点扩围”，灵活就业和新就业形态劳动者权益保障水平持续提升。&lt;/p&gt;&lt;p&gt;　　“要既有管理，又有服务。”&lt;/p&gt;&lt;p&gt;　　近年来，工会组织向基层延伸，兜底吸纳新就业形态劳动者入会，用心用情提供服务。从解决户外劳动者“吃饭难、喝水难、休息难”到提供多元化智能项目，工会驿站的服务越来越贴心、便利。&lt;/p&gt;&lt;p&gt;　　中国式现代化，以造福人民为价值旨归。在共建共享中稳步增进广大职工和劳动群众福祉，为高质量发展凝聚起磅礴力量。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  易舒冉&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154523&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154523.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154523.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “稳步增进广大职工和劳动群众福祉”（总书记的人民情怀） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154523.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 全国人民代表大会常务委员会决定任免的名单</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154524.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人民代表大会常务委员会决定任免的名单 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; （2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　一、免去韩俊的农业农村部部长职务；&lt;/p&gt;&lt;p&gt;　　任命张柱为农业农村部部长。&lt;/p&gt;&lt;p&gt;　　二、任命张成中为应急管理部部长。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; （2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154524&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154524.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154524.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人民代表大会常务委员会决定任免的名单 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154524.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 全国人民代表大会常务委员会任免名单</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154525.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人民代表大会常务委员会任免名单 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; （2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　一、免去张俊文的最高人民法院第二巡回法庭副庭长职务。&lt;/p&gt;&lt;p&gt;　　二、任命傅晓明为最高人民法院立案庭副庭长、审判员。&lt;/p&gt;&lt;p&gt;　　三、任命宋双江、颜闻君（女）、张振华为最高人民法院审判员。&lt;/p&gt;&lt;p&gt;　　四、免去杨占富的最高人民法院审判员职务。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; （2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154525&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154525.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154525.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人民代表大会常务委员会任免名单 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154525.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 全国人民代表大会常务委员会免职名单</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154526.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人民代表大会常务委员会免职名单 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; （2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　免去郭兴旺的最高人民检察院检察员职务。&lt;/p&gt;&lt;p&gt;　　（新华社北京4月30日电） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; （2026年4月30日第十四届全国人民代表大会常务委员会第二十二次会议通过） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154526&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154526.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154526.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人民代表大会常务委员会免职名单 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154526.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 携手共建清洁、美丽、可持续的世界</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154527.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 携手共建清洁、美丽、可持续的世界 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——习近平主席向上海合作组织绿色和可持续发展论坛致贺信引发与会嘉宾强烈反响 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  曲  颂  刘军国&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　4月29日，国家主席习近平向上海合作组织绿色和可持续发展论坛致贺信，引发与会嘉宾强烈反响。与会嘉宾表示，贺信充分体现习近平主席对深化上合组织国家交流互鉴、加强绿色和可持续发展领域务实合作的高度重视，为共谋全球生态文明建设之路、完善全球治理提供更多中国方案、上合方案。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“充分体现中方对深化上海合作组织框架内合作的高度重视”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“习近平主席发来贺信，充分体现中方对深化上海合作组织框架内合作的高度重视。”上海合作组织副秘书长索海尔·汗表示，在绿水青山就是金山银山理念指引下，中方为世界可持续发展作出重要贡献。上合组织将进一步发挥整体潜力，推广在可持续发展方面取得显著进展国家的经验，惠及全球。&lt;/p&gt;&lt;p&gt;　　吉尔吉斯斯坦总统特别代表巴克特·托罗巴耶夫认为，中国近年来在绿色发展领域取得巨大成就，已经成为全球绿色转型的重要引领者。绿水青山就是金山银山理念生动阐释了可持续经济增长与惠及后代之间的深层逻辑。浙江省在协调经济增长与绿色环保、技术创新与自然资源管理等方面创造了成功范例。&lt;/p&gt;&lt;p&gt;　　“非常高兴有机会深入了解中国在绿色可持续发展方面所取得的成就，中国的经验值得我们学习借鉴。”老挝国家电视台台长秘书苏帕宋·西拉佩此次在浙江参观了宁波的电动汽车企业，中国绿色发展生动实践给他留下深刻印象。&lt;/p&gt;&lt;p&gt;　　缅甸驻华大使佐温敏认为，近年来中国空气质量和水质的改善令人印象深刻，全国森林面积不断扩大，这是伟大的成就。绿水青山就是金山银山理念富有远见，也激励缅甸在发展经济的同时努力兼顾自然环境保护。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“推动上合组织国家深化绿色可持续发展领域的务实合作”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　亚美尼亚副总理格里戈良表示，生态文明理念对推动全球绿色和可持续发展具有重要意义。各国共处同一个地球，需要担负共同的责任。亚美尼亚高度重视在上合组织框架下开展保护环境、应对气候变化、维护生物多样性、治理土壤退化与防治荒漠化等领域的合作。&lt;/p&gt;&lt;p&gt;　　科威特驻华大使纳吉姆认为，习近平主席的贺信体现了中国在应对环境挑战和推动可持续发展方面加强国际合作的长远愿景。科威特高度重视与中国在绿色发展领域的合作，近年来科中重点开拓环保、新能源等领域的重大合作项目，取得积极进展。&lt;/p&gt;&lt;p&gt;　　阿塞拜疆驻华大使布尼亚德·胡赛诺夫表示，习近平主席的贺信展现中国在推动全球绿色发展、环境保护和气候合作方面的责任感。中国在上合组织框架内积极推广绿色能源技术，与各方合作推动可持续基础设施建设，促进各方实现发展转型。&lt;/p&gt;&lt;p&gt;　　柬埔寨环境部大臣殷索莱表示，论坛为各方加强绿色发展、推动低碳转型合作提供了绝佳机遇。柬埔寨非常重视同上合组织成员在绿色技术创新和可持续金融方面的合作，相信绿色可持续发展能够增强经济发展的活力和韧性。&lt;/p&gt;&lt;p&gt;　　老挝农林部副部长占塔坤·布拉潘表示：“本次论坛搭建了重要的合作交流平台，有助于凝聚各方智慧，共商绿色发展路径，推动上合组织国家深化绿色可持续发展领域的务实合作。老挝愿与各国携手践行全球治理倡议，促进全球绿色发展。”&lt;/p&gt;&lt;p&gt;　　蒙古国驻华使馆一秘钢巴特尔表示，习近平主席的贺信彰显了推动绿色发展和深化上合组织内部合作的重要性。我们坚信，上合大家庭成员通过对话、交流并采取行动，能够为世界可持续发展作出贡献。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“在推动绿色发展进程中，中国已经成为全球先行者之一”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“习近平主席提出的人类命运共同体理念和全球发展倡议为世界前行道路指明了方向。”俄罗斯总统可持续发展问题与国际组织联络特别代表鲍里斯·季托夫在视频致辞中表示，期待上合组织能够发挥引领作用，为各国提供可持续前行、可持续发展的示范。“在推动绿色发展进程中，中国已经成为全球先行者之一。俄方愿与中国以及上合组织伙伴一道沿着这条道路继续前进。”&lt;/p&gt;&lt;p&gt;　　“过去，人们往往将气候行动视为对经济增长的制约，实际上，可持续发展与经济进步相辅相成。不作为的代价远高于绿色转型的成本。”巴基斯坦气候变化与环境协调部国务部长谢兹拉·哈拉尔认为，习近平主席在推进绿色可持续发展方面提出的理念，为应对当今世界环境挑战、制定相关政策提供了重要的思想引领。&lt;/p&gt;&lt;p&gt;　　乌兹别克斯坦驻上海总领事伊斯马伊洛夫表示，乌方高度评价中方在推动绿色可持续发展、应对全球气候变化方面所作的贡献。中国正在转向更加均衡、对生态更加负责的发展方式，这一点得到了包括联合国在内的国际组织的认可。&lt;/p&gt;&lt;p&gt;　　“马尔代夫高度重视习近平主席在贺信中强调的加强政策对接、经验交流和项目合作，认为这既具现实意义，又非常及时。”马尔代夫气候变化、环境与能源部国务部长穆罕默德·法伊兹表示，各方应共同努力加强能力建设和知识共享，支持因地制宜的解决方案，确保全球和区域合作机制积极响应小岛屿发展中国家的诉求。马尔代夫期待与中国及其他合作伙伴一道，携手推进更加绿色和可持续的发展进程。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  曲  颂  刘军国&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——习近平主席向上海合作组织绿色和可持续发展论坛致贺信引发与会嘉宾强烈反响 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154527&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154527.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154527.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 携手共建清洁、美丽、可持续的世界 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154527.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 中国对非零关税，是“减法”更是“加法”（和音）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154528.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国对非零关税，是“减法”更是“加法”（和音） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　以关税之“减”，撬动发展之“增”，串联市场之“通”，实现价值之“融”&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　5月1日起，中国对53个非洲建交国全面实施零关税举措。这是中国扩大高水平对外开放的新举措，将为中非携手迈向现代化注入新动能。在经济全球化遭遇逆流，单边主义、保护主义愈演愈烈的背景下，中国进一步主动向非洲国家敞开超大规模市场大门，是“减法”更是“加法”，以关税之“减”，撬动发展之“增”，串联市场之“通”，实现价值之“融”，充分彰显中国“计利当计天下利”的大国胸襟与责任担当。&lt;/p&gt;&lt;p&gt;　　关税“减法”促成贸易“加法”，书写互利共赢的经贸故事。零关税带来的最直接效应，是中非贸易规模持续扩容跃升。从2005年对非洲25国190个税目的进口商品实施特惠零关税，到2024年12月给予包括33个非洲国家在内的所有同中国建交的最不发达国家100%税目产品零关税，再到如今面向53个非洲建交国全面实施零关税，中国主动扩大市场开放的每一步，都成为拉动中非贸易增长的加速器。中国已连续17年稳居非洲第一大贸易伙伴国地位。据中国海关总署统计，2026年第一季度，中非贸易额同比增长23.7%，其中中国自非洲进口同比增长14.6%，对非出口同比增长29%。更多非洲国家特色优质产品进入中国市场，既丰富了国内消费者多元化选择，也有力拉动非洲本土产业提质升级，带动当地就业增收。&lt;/p&gt;&lt;p&gt;　　关税“减法”推动发展“加法”，激活产供链的双向赋能。当非洲出口产品从初级咖啡豆升级为咖啡深加工制品，从天然原料进阶为标准化橡胶块及下游成品，更多产业附加值得以留在非洲本土。这一进程有力支撑了非洲工业化转型、本土人才培育，持续增强非洲内生发展动力。与此同时，扩大进口非洲物美价廉、竞争力突出的特色产品，能够为中国产业发展提供多元稳定的海外供给渠道，进一步提升国内产供链韧性与整体竞争力。中非双方增强产供链韧性、优化国际市场多元布局、推进产业结构协同升级，合力推动中非合作迈上新台阶。&lt;/p&gt;&lt;p&gt;　　关税“减法”实现民生“加法”，发展成果惠及双方民众。在非洲，零关税不仅为大企业创造了发展机会，也让农民、合作社和中小企业广泛受益。莫桑比克腰果、卢旺达干辣椒、贝宁菠萝、肯尼亚牛油果等非洲特色农产品，乘着零关税东风进入中国消费市场，带动产业链从前端种植向后端加工、跨境物流等环节延伸拓展，创造大量就业岗位，切实鼓起当地民众的“钱袋子”。在中国市场，更多非洲优质商品将以更亲民实惠的价格走进寻常百姓家，更好满足人民群众高品质、多元化的消费升级需求。零关税政策的最终落脚点，在于让合作发展成果实实在在惠及双方民众，不断增进民生福祉。&lt;/p&gt;&lt;p&gt;　　非洲联盟委员会主席优素福评价称，中国对非零关税举措“重要且及时”，是“充满兄弟情谊的举措”，助力非洲应对多重发展挑战。近30亿人口构成的两大市场深度交融互通，必将孕育前所未有的增长机遇，汇聚携手前行的现代化动能，共同勾勒出中非携手共赴现代化的壮阔图景。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154528&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154528.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154528.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国对非零关税，是“减法”更是“加法”（和音） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154528.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] “光荣属于劳动者，幸福属于劳动者”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154529.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “光荣属于劳动者，幸福属于劳动者” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——习近平总书记同劳动者在一起的故事 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　劳动，是一切幸福的源泉；劳动者，是美好生活的创造者、守护者。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，习近平总书记深情礼赞劳动创造，大力弘扬劳模精神、劳动精神、工匠精神，关心关爱一线劳动者，同广大劳动人民站在一起、想在一起、干在一起。&lt;/p&gt;&lt;p&gt;　　今年是中国共产党成立105周年，是“十五五”开局之年。在“五一”国际劳动节到来之际，习近平总书记向全国广大劳动群众致以节日祝贺和诚挚慰问，指出在中国式现代化新征程上，广大劳动群众紧紧团结在党的周围，奋力拼搏进取，勇于创新创造，为党和国家事业发展作出了重要贡献。&lt;/p&gt;&lt;p&gt;　　“光荣属于劳动者，幸福属于劳动者。”习近平总书记的真切关怀，激励着亿万劳动者在强国建设、民族复兴的新征程上，用劳动书写新的荣光。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“我们的根扎在劳动人民之中”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“人世间的一切幸福都需要靠辛勤的劳动来创造。”——2012年11月，新当选的中共中央总书记习近平同中外记者见面时这样说。&lt;/p&gt;&lt;p&gt;　　深情寄语重若千钧，折射出大国领袖的劳动者本色。&lt;/p&gt;&lt;p&gt;　　今年3月底，北京春光明媚，在昌平区百善镇首都义务植树活动现场，挥锹铲土、培土围堰、提水浇灌……习近平总书记同干部群众、少先队员一起，种下油松、北京牡丹、榆叶梅、杜仲、元宝枫等多棵树苗。&lt;/p&gt;&lt;p&gt;　　一把铁锹培新土，一柄锄头映初心。&lt;/p&gt;&lt;p&gt;　　30多年前的1989年，时任福建宁德地委书记的习近平同志带领地直机关干部参加义务劳动。一张老照片里，他肩扛锄头，意气风发走在田埂上。&lt;/p&gt;&lt;p&gt;　　1969年1月，不满16岁的习近平来到地处黄土高原的陕西延川县文安驿公社梁家河大队插队。种地、拉煤、打坝、挑粪……在梁家河，习近平真诚地和乡亲们打成一片，自觉地接受艰苦生活的磨炼。&lt;/p&gt;&lt;p&gt;　　回忆那段岁月，习近平同志说：“我对自己的首要要求就是‘自找苦吃’。”&lt;/p&gt;&lt;p&gt;　　从黄土地上的村支书，到泱泱大国的领路人，一路走来，习近平总书记始终是劳动者，始终饱含着对劳动人民的深厚感情。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，习近平总书记的脚步遍及大江南北，留下许多与人民群众共同劳动的身影——&lt;/p&gt;&lt;p&gt;　　在江西井冈山，拿起木槌，同当地村民一起打糍粑，声声木槌敲出致富的希望；在四川汶川，转动磨盘，同群众一起磨豆花，笑着说“很练臂力啊，真是越磨越带劲”；在贵州毕节，同苗族乡亲一起包黄粑，亲手包裹香甜与期盼……&lt;/p&gt;&lt;p&gt;　　一言一行，展现的是由内而外的质朴本色，映照的是岁月不改的人民情怀。&lt;/p&gt;&lt;p&gt;　　2019年8月，甘肃古浪县八步沙林场迎来一位特殊的“治沙人”。&lt;/p&gt;&lt;p&gt;　　当时，几位林场职工正在进行“草方格压沙”作业，习近平总书记走过去，向他们询问作业方法，拿起一把开沟犁，同他们一起干起来。&lt;/p&gt;&lt;p&gt;　　总书记对他们说，八步沙林场“六老汉”的英雄事迹早已家喻户晓，新时代需要更多像“六老汉”这样的当代愚公、时代楷模。&lt;/p&gt;&lt;p&gt;　　边谈话、边挥犁，动作一气呵成。不一会儿，一道两米多长的直沟已经在沙地上开出。职工们说，一看就知道总书记是“老把式”。&lt;/p&gt;&lt;p&gt;　　江汉平原，湖北嘉鱼县潘家湾镇。2024年11月的一天，菜农叶祥松正在十里蔬菜长廊忙碌着。习近平总书记沿田埂走进菜地深处，笑着说：“一看就会有个好收成啊！”年轻时干过农活，总书记细问蔬菜生长期、问收割存储、问销量价格，强调“不能忘了农民这一头，要让农民得到实惠”。&lt;/p&gt;&lt;p&gt;　　临走时，习近平总书记微笑着探身向前，伸出手来。老叶迈前一步，紧紧握住总书记的手。&lt;/p&gt;&lt;p&gt;　　渤海之滨，山东东营黄河入海口。2021年10月，习近平总书记在这里考察，走进一块示范田，俯身摘下一个豆荚、一撮一捻、仔细察看成色，顺手将一颗大豆放进嘴里，细细咀嚼：“豆子长得很好。”&lt;/p&gt;&lt;p&gt;　　一旁的农技负责人感叹：“这是老农民才有的动作呀。”&lt;/p&gt;&lt;p&gt;　　2013年农历除夕来临之际，习近平总书记来到北京地铁8号线施工工地看望一线劳动者。沿着狭窄的工梯下到20多米深的地下作业平台，总书记对大家说：“发展公共交通是现代城市发展的方向。”这句话，被现场一位叫李维川的年轻测量员牢牢记在心里。&lt;/p&gt;&lt;p&gt;　　十多年后，已是中铁十四局项目测量主管的李维川，带领团队进行着毫米级精度控制的隧道施工：“我们要把总书记的嘱托落在每一毫米的数据里。”&lt;/p&gt;&lt;p&gt;　　2019年2月农历春节前夕，北京前门石头胡同快递站点，刘阔和同事们见到了前来看望他们的习近平总书记。&lt;/p&gt;&lt;p&gt;　　听说大家年三十才能回家，总书记说，“快递小哥”工作很辛苦，起早贪黑、风雨无阻，越是节假日越忙碌，像勤劳的小蜜蜂，是最辛勤的劳动者，为大家生活带来了便利。&lt;/p&gt;&lt;p&gt;　　这些年，刘阔光荣加入中国共产党，更加努力地奔跑在服务百姓生活的“最后一公里”。&lt;/p&gt;&lt;p&gt;　　2013年11月的一天，山东济南市外来务工人员综合服务中心人来人往。前来考察的习近平总书记同窗口单位工作人员和前来办事的农民工亲切交谈，一群从事家政服务的“阳光大姐”围上来向总书记问好。&lt;/p&gt;&lt;p&gt;　　“刚开始，我做这份工作还有些顾虑，但总书记却说‘家政服务大有可为’，这让我的心一下子就热乎起来。”“阳光大姐”团队负责人卓长立清晰记得，“临行时，总书记已经走下楼梯，又专门回过头来同我们握手，还叮嘱我要给姐妹们安排好工作。”&lt;/p&gt;&lt;p&gt;　　2018年全国两会期间，卓长立作为全国人大代表，再次向习近平总书记当面汇报了“阳光大姐”发展情况。如今，在总书记的鼓励下，“阳光大姐”已从济南走向全国，吸引了数万人加入家政服务员队伍。&lt;/p&gt;&lt;p&gt;　　习近平总书记心中装着基层一线劳动者，珍重大家的每一份付出：在工地现场，同农民工亲切交谈，强调“要更多关心、关爱农民工”；在出租客运公司，向“的哥”“的姐”征询对年节打车难的解决办法；在清洁站，称赞环卫工人是城市的“美容师”……&lt;/p&gt;&lt;p&gt;　　朴素的话语，不变的深情，让广大劳动者倍感温暖与振奋。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“全社会都应该尊敬劳动模范、弘扬劳模精神”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“劳动模范和先进工作者是人民的楷模、国家的栋梁。”&lt;/p&gt;&lt;p&gt;　　2025年“五一”国际劳动节前夕，在庆祝中华全国总工会成立100周年暨全国劳动模范和先进工作者表彰大会上，习近平总书记深刻指出，长期以来，一代又一代劳动模范和先进工作者在促进事业发展、推动时代进步中发挥了示范引领作用。&lt;/p&gt;&lt;p&gt;　　坚持中国道路、弘扬中国精神、凝聚中国力量，劳动模范和先进工作者始终引领时代风尚，彰显奋斗担当。&lt;/p&gt;&lt;p&gt;　　“50年代的，像梁军同志、申纪兰同志；60年代的，像郭凤莲同志；改革开放以后的，像袁隆平同志、鲁冠球同志；再就是新时期的。”&lt;/p&gt;&lt;p&gt;　　这是在一次座谈会上，习近平总书记脱口而出的一长串名字，他们穿越时空，写下一部奋斗者的编年史。&lt;/p&gt;&lt;p&gt;　　2013年4月底，中华全国总工会机关一间普通会议室里，习近平总书记同来自全国各地、不同行业、不同历史时期的65名劳模代表围坐谈心。总书记说：“看到大家，对劳模肃然起敬，尊重知识、尊重劳动的情怀油然而生。”&lt;/p&gt;&lt;p&gt;　　梁军，新中国第一位女拖拉机手，也是第三套人民币上女拖拉机手的原型。&lt;/p&gt;&lt;p&gt;　　“我是第一届全国劳动模范，1950年，那时我才21岁。我为什么当劳动模范？我的梦想就是建设北大仓，现在这个梦基本实现了。”时年84岁的梁军说。&lt;/p&gt;&lt;p&gt;　　梁军曾在北大荒垦荒。老人激动地站起来发言：“现在黑龙江是全国第一的粮仓。粮食九连增，有我们一份功劳，欢迎总书记以后到黑龙江考察去。”&lt;/p&gt;&lt;p&gt;　　“我是一直准备去看三江平原的，以后会去。”习近平总书记看着老人说，“你的事迹，我们这个年龄的人都知道。中国第一位女拖拉机手，你是很了不起。”&lt;/p&gt;&lt;p&gt;　　习近平总书记一直十分关心广大劳动模范，要求各级党委和政府要尊重劳模、关爱劳模。&lt;/p&gt;&lt;p&gt;　　2017年全国精神文明建设表彰大会上，总书记拉着90多岁的黄旭华院士，微笑着请老人坐到自己身边；&lt;/p&gt;&lt;p&gt;　　2021年全国脱贫攻坚总结表彰大会上，当坐在轮椅上的夏森颤巍巍想站起身来领取表彰证书时，总书记轻轻拍了拍她的肩膀，弯下腰双手把证书颁给她；&lt;/p&gt;&lt;p&gt;　　2021年“七一勋章”颁授时，总书记握着治沙英雄石光银粗糙的手感叹：“这几十年你们太不容易了。”&lt;/p&gt;&lt;p&gt;　　…………&lt;/p&gt;&lt;p&gt;　　伟大事业孕育伟大精神，伟大精神引领伟大事业。&lt;/p&gt;&lt;p&gt;　　我国工人阶级和广大劳动群众始终与祖国同成长、与时代齐奋进，在实现中国梦伟大进程中拼搏奋斗、争创一流、勇攀高峰。&lt;/p&gt;&lt;p&gt;　　“造就一支有理想守信念、懂技术会创新、敢担当讲奉献的宏大产业工人队伍”“要顺应新一轮科技革命和产业变革，全面提升劳动者素质”……党的十八大以来，习近平总书记对建设高素质劳动大军念兹在兹。&lt;/p&gt;&lt;p&gt;　　“到厂里多久了？”“什么学历？”“上岗培训是怎么做的？”“收入怎么样？”&lt;/p&gt;&lt;p&gt;　　2025年5月，习近平总书记到河南洛阳轴承集团股份有限公司考察，同职工们交谈时，他十分关注人才的成长路径，强调“人才是希望。推进产学研一体化，培养大批高素质人才，中国式现代化才能够真正实现”。&lt;/p&gt;&lt;p&gt;　　在习近平总书记看来，当代工人不仅要有力量，还要有智慧、有技术，能发明、会创新。&lt;/p&gt;&lt;p&gt;　　2020年5月，太钢不锈钢精密带钢有限公司的车间里，正在生产一种超薄精密不锈带钢——厚度仅为0.02毫米，相当于普通A4纸的1/4，可以轻易撕开，被形象地称为“手撕钢”。&lt;/p&gt;&lt;p&gt;　　2017年，习近平总书记到太钢考察时，85后技术员廖席正在进行新项目“手撕钢”的艰难探索，平均每两天失败一次。正是总书记提出的殷切期望，让他鼓起了不断创新的勇气。&lt;/p&gt;&lt;p&gt;　　700多次试验后，全球最薄“手撕钢”研制成功。&lt;/p&gt;&lt;p&gt;　　2020年又一次见到习近平总书记，廖席紧张又兴奋。总书记拿起一片“手撕钢”，轻轻扭折了一下，不禁称赞：“工艺确实好，就像锡纸一样薄，百炼钢做成了绕指柔。”&lt;/p&gt;&lt;p&gt;　　“希望你们再接再厉，在高端制造业科技创新上不断勇攀高峰，在支撑先进制造业方面迈出新的更大步伐。”总书记的深情寄语，让廖席深感责任在肩。&lt;/p&gt;&lt;p&gt;　　劳动者素质对一个国家、一个民族发展至关重要。当今世界，综合国力的竞争归根到底是人才的竞争、劳动者素质的竞争。&lt;/p&gt;&lt;p&gt;　　习近平总书记鲜明指出，努力建设一支知识型、技能型、创新型的劳动者大军。&lt;/p&gt;&lt;p&gt;　　全国人大代表孙景南是一名电焊工，埋头精研焊接技术三十余载，从学徒工成长为中国中车公司著名技能专家。&lt;/p&gt;&lt;p&gt;　　2024年全国两会期间，习近平总书记参加十四届全国人大二次会议江苏代表团审议。&lt;/p&gt;&lt;p&gt;　　发言中，孙景南谈到自己对大国工匠的理解：“‘匠’字就是在专业领域中对自己‘斤斤计较’一点，历经磨砺方能实现突破。”&lt;/p&gt;&lt;p&gt;　　习近平总书记点头赞许：“大国工匠是我们中华民族大厦的基石、栋梁。新中国成立以后，我们一穷二白，从无到有，引进消化吸收再发展，自力更生艰苦奋斗，搞出一个独立自主的制造业基础。”&lt;/p&gt;&lt;p&gt;　　谆谆教导、殷殷期望。回望发展历程，劳动精神一脉相承，奋斗脚步从未停歇。&lt;/p&gt;&lt;p&gt;　　2017年底，习近平总书记到江苏考察，在徐工集团广场上亲切看望公司劳动模范、技术能手等职工代表。&lt;/p&gt;&lt;p&gt;　　总书记热情洋溢地对大家说：“广大企业职工要增强新时代工人阶级的自豪感和使命感，爱岗敬业、拼搏奉献，大力弘扬劳模精神和工匠精神，在为实现中国梦的奋斗中争取人人出彩。”&lt;/p&gt;&lt;p&gt;　　习近平总书记站在实现“两个一百年”奋斗目标、实现中华民族伟大复兴中国梦的全局高度，多次对大力弘扬劳模精神、劳动精神、工匠精神作出重要指示。&lt;/p&gt;&lt;p&gt;　　给中国劳动关系学院劳模本科班学员回信时强调，全社会都应该尊敬劳动模范、弘扬劳模精神；&lt;/p&gt;&lt;p&gt;　　在全国劳动模范和先进工作者表彰大会上号召大家，将辛勤劳动、诚实劳动、创造性劳动作为自觉行为；&lt;/p&gt;&lt;p&gt;　　回信勉励中国一重产业工人代表，弘扬劳模精神、劳动精神、工匠精神，苦练内功、提高本领；&lt;/p&gt;&lt;p&gt;　　…………&lt;/p&gt;&lt;p&gt;　　“发挥好劳模作用，带出更多的劳模。”这是2020年3月习近平总书记在浙江宁波舟山港考察时，对全国劳模、桥吊司机竺士杰的嘱托。&lt;/p&gt;&lt;p&gt;　　这份嘱托，让竺士杰充满干劲。他撰写教材、开发模型，带动团队一同创新，努力培养更多技能人才。如今，“竺士杰桥吊操作法”持续迭代升级至远控智能化4.0版，依托国家级工作室累计培训超3500人。&lt;/p&gt;&lt;p&gt;　　“他们的事迹可学可做，他们的精神可追可及。”&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　希望与鞭策催人奋进，肯定与激励鼓舞人心。亿万职工以劳动模范为榜样，在平凡岗位上不断书写精益求精的奋进篇章。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“中国式现代化是干出来的，伟大事业都成于实干”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　春光正好，“华北明珠”白洋淀芦苇新绿绽放，新意盎然。&lt;/p&gt;&lt;p&gt;　　“十五五”开局之年，全国两会后首次地方考察，习近平总书记来到这座承载着千年大计的未来之城。在无数建设者的汗水浇灌中，一座新城从无到有，拔节生长。&lt;/p&gt;&lt;p&gt;　　中国华能集团是首批疏解到雄安新区的央企总部之一。企业一层大厅里气氛热烈，雄安新区建设的各路“开路先锋”齐聚，疏解企业、高校、医院等的100多名职工代表济济一堂。&lt;/p&gt;&lt;p&gt;　　习近平总书记同大家亲切交流，“要为做雄安人感到自豪，一马当先、蹄疾步稳地干事创业，共同创造雄安美好未来”。&lt;/p&gt;&lt;p&gt;　　越是美好的未来，越需要付出艰辛努力。&lt;/p&gt;&lt;p&gt;　　实干是成就事业的必由之路，也是人民领袖一以贯之的鲜明品格。&lt;/p&gt;&lt;p&gt;　　1991年3月7日下午，时任福州市委书记的习近平同志登上连家船慰问船工。习近平同志拉着一位船工的手说：“请你们放心，一定有房子住，今年年底就有房子住了。”&lt;/p&gt;&lt;p&gt;　　当天召开现场办公会、确定了解决方案，20多天后打下建楼工程的第一桩。&lt;/p&gt;&lt;p&gt;　　1991年底，福州市水运公司104户船工搬进岸上的新居，结束了祖祖辈辈“上无片瓦、下无寸土”的漂泊生活。&lt;/p&gt;&lt;p&gt;　　如今，“马上就办、真抓实干”，这八个大字镌刻在福州市委礼堂的外墙上。&lt;/p&gt;&lt;p&gt;　　唯有奋斗，才能铸就辉煌；唯有实干，才能攻坚克难。全面建成小康社会要靠实干，基本实现社会主义现代化要靠实干，实现中华民族伟大复兴也唯有靠实干。&lt;/p&gt;&lt;p&gt;　　党的二十大闭幕不到一周，习近平总书记首次出京考察来到红旗渠，感慨系之：“社会主义是拼出来、干出来、拿命换来的，不仅过去如此，新时代也是如此。”&lt;/p&gt;&lt;p&gt;　　2023年的春节团拜会上，习近平总书记给亿万群众鼓劲儿：“我们靠实干创造了辉煌的过去，还要靠实干开创更加美好的未来。”&lt;/p&gt;&lt;p&gt;　　2024年6月，深圳至中山跨江通道建成开通，习近平总书记在贺信中说：“中国式现代化是干出来的，伟大事业都成于实干！”&lt;/p&gt;&lt;p&gt;　　人民创造历史，劳动开创未来。&lt;/p&gt;&lt;p&gt;　　新征程上，高质量发展离不开劳动创造。习近平总书记要求，要聚焦推动高质量发展，动员激励广大职工和劳动群众建功立业、创新创造。&lt;/p&gt;&lt;p&gt;　　2019年1月17日，习近平总书记来到天津滨海—中关村科技园。国家电网天津电力滨海供电公司配电抢修班班长张黎明向总书记介绍了人工智能配网带电作业机器人。&lt;/p&gt;&lt;p&gt;　　切剥导线、牵引入槽、锁紧线夹，机器人作业过程很顺畅。习近平总书记看得很认真，得知研发方向是一线工人提出的，称赞道：“实践出真知。你作出了贡献，也作出了创新示范。”&lt;/p&gt;&lt;p&gt;　　“我们要让有创新梦想的人能够心无旁骛、有信心有激情地投入到创新事业中。”习近平总书记的鼓励让张黎明更加坚定了自己的努力方向。&lt;/p&gt;&lt;p&gt;　　张黎明和同事们研发的新一代配网带电作业机器人已经在全国多地推广应用，为高水平科技自立自强贡献出产业工人的智慧和力量。&lt;/p&gt;&lt;p&gt;　　新时代的劳动者心中有梦想，肩头有担当，手上有干劲，脚下有方向。&lt;/p&gt;&lt;p&gt;　　他们，将论文写在大地上，把成果留在农民手中。&lt;/p&gt;&lt;p&gt;　　2023年5月，中国农业大学科技小院的同学们收到了习近平总书记的回信。总书记在信中勉励大家“厚植爱农情怀，练就兴农本领，在乡村振兴的大舞台上建功立业”。&lt;/p&gt;&lt;p&gt;　　如今科技小院从“一粒种子”成长为遍布全国的“兴农森林”，已经发展到全国200多所高校参与，万余名研究生扎根生产一线，服务中国农民，建设农业强国。&lt;/p&gt;&lt;p&gt;　　他们，让中国工程科技在国际合作舞台上展现出硬核实力。&lt;/p&gt;&lt;p&gt;　　中车大连机车车辆有限公司工程师张彦民的手机里，珍藏着一张“特别”的照片：红蓝白相间、“长脸”造型的中老铁路“澜沧号”，正平稳驶出车站。&lt;/p&gt;&lt;p&gt;　　“在中老铁路通车仪式上，习近平总书记指出‘打造黄金线路，造福两国民众’。作为亲历者，我们深感使命光荣。”张彦民说。从昆明到万象，中老铁路海拔高差近2000米。他和团队往返奔波于每个车站、每段路基，反复测试，最终攻克噪声、高温多雨、车身易腐蚀等难题，让世界看见“中国制造”。&lt;/p&gt;&lt;p&gt;　　他们，以脚踏实地的努力守护“国之重器”。&lt;/p&gt;&lt;p&gt;　　今年春节期间，“中国天眼”照常运转。中国科学院国家天文台副台长姜鹏紧盯眼前的仪表，记录下宇宙深处的呢喃。&lt;/p&gt;&lt;p&gt;　　2021年，习近平总书记春节前在贵州考察，专门会见“中国天眼”项目负责人和科研骨干，称赞“天眼”是“当之无愧的国之重器”。那一刻，在现场的姜鹏内心热流涌动。这些年，“中国天眼”捷报频传，姜鹏和同事们以不停步的攻关，奋力走在人类“视界”的最前沿。&lt;/p&gt;&lt;p&gt;　　又是一个春天。河北塞罕坝机械林场，一抹抹新绿格外鲜亮。&lt;/p&gt;&lt;p&gt;　　从“一棵树”到“一片海”的绿色奇迹，背后是60多年来三代塞罕坝人的艰苦创业、接续奋斗。&lt;/p&gt;&lt;p&gt;　　“弘扬塞罕坝精神，持之以恒推进生态文明建设，一代接着一代干，驰而不息，久久为功”。2017年，习近平总书记对河北塞罕坝林场建设者感人事迹作出重要指示。&lt;/p&gt;&lt;p&gt;　　2021年8月，习近平总书记来到林场考察调研，同林场三代职工代表亲切交流，询问他们工作生活情况，共话林场沧桑巨变，共谋林场未来发展。&lt;/p&gt;&lt;p&gt;　　如今，塞罕坝林场正奔跑在二次创业的大道上。林场党委书记安长明说：“不为眼前虚名、不图短期显绩，守好这片绿水青山，为祖国增绿、为生态护航。”&lt;/p&gt;&lt;p&gt;　　砥砺初心，持之以恒。&lt;/p&gt;&lt;p&gt;　　在以习近平同志为核心的党中央坚强领导下，奋进在基本实现社会主义现代化夯实基础、全面发力的关键时期，亿万劳动者拼搏进取、耕耘奉献，不断在劳动中谱写时代华章，在奋斗中创造美好未来。&lt;/p&gt;&lt;p&gt;　　（新华社北京4月30日电  记者齐中熙、樊曦、高敬、黄垚）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——习近平总书记同劳动者在一起的故事 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154529&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154529.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154529.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “光荣属于劳动者，幸福属于劳动者” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154529.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154530.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 《求是》杂志发表习近平总书记重要文章 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　新华社北京4月30日电  5月1日出版的第9期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话》。&lt;/p&gt;&lt;p&gt;　　文章强调，要充分认识制定和实施五年规划是我们的重要政治优势。制定和实施五年规划，有利于实现党的领导，有利于集中力量办大事，有利于前瞻性把握战略问题，有利于保持事业连续性。制定和实施五年规划，是一项政治性、政策性很强的工作，我们党在长期实践中创造积累了丰富经验。主要有：坚持党中央集中统一领导，坚持从实际出发，坚持全国一盘棋，坚持发扬民主、集思广益，坚持规划法定原则。要进一步坚定制度自信，不断结合新的实际把这一优势发扬光大。&lt;/p&gt;&lt;p&gt;　　文章指出，要全面深刻准确领会和把握党的二十届四中全会的战略部署。全面，就是要以全局视野领会《建议》，将“十五五”时期经济社会发展的重大意义、面临形势、指导思想、重要原则、目标任务、政策举措等作为一个整体来把握。深刻，就是要对《建议》各项部署知其然又知其所以然，既明白是什么，又明白为什么、怎么做。准确，就是要精准把握《建议》各项部署的政策界限和尺度，做到该为的必须为、能为的努力为、不该为的决不为。&lt;/p&gt;&lt;p&gt;　　文章指出，要敏锐把握国内外形势新变化。我国发展处于战略机遇和风险挑战并存、不确定难预料因素增多的时期。这是对形势的总体判断。我们分析形势，既要把各种因素考虑周全，又要善于把握其中一些关键因素的新变化，目的在于胸怀全局、登高望远，在战略上保持定力、充满信心，在战术上精心运筹、趋利避害，不断增强我国发展的确定性和可持续性。&lt;/p&gt;&lt;p&gt;　　文章指出，要扎扎实实建设现代化产业体系。建设现代化产业体系是要实现产业体系整体跃升。各地区各行业要找准定位，坚持智能化、绿色化、融合化方向，充分发挥比较优势，形成上下游产业相互衔接、各展其长、同向发力的生动局面。现代化产业体系的骨干是先进制造业。要保持制造业合理比重、大力发展先进制造业。现代化基础设施是现代化产业体系的有机组成部分。要注意算投入产出账，提高适配度。发展新质生产力是建设现代化产业体系的必然要求。要坚持因地制宜，立足实际推动科技创新和产业创新深度融合。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　文章指出，要以加快构建新发展格局赢得战略主动。我国人口多、市场大、产业全、发展动能强，在全球产业链供应链中的地位难以替代，这是我们经济内生增长、自主发展的底气所在。构建新发展格局，必须坚持以国内大循环为主体，让内需成为我国经济发展的主动力。要正确处理消费和投资、需求和供给的关系，坚持惠民生和促消费、投资于物和投资于人紧密结合，努力提高国民经济循环质量和效率。构建新发展格局必须畅通国内国际双循环。要以做强国内大循环提升扩大高水平对外开放的自主性，以拓展国际循环增强国内改革发展的活力，真正实现内外联通、互促共进。&lt;/p&gt;&lt;p&gt;　　文章指出，要推动经济和社会协调发展。经济发展和社会发展相辅相成，不能一条腿长一条腿短。促进社会发展，改善民生是重点。要把发展经济和改善民生有机统一起来，制定经济发展政策同步嵌入改善民生的要求，制定民生政策同步考虑促进经济发展的效应。促进社会发展，必须抓好社会治理。要坚持党建引领，强化法治保障，夯实基层基础，切实提高社会治理水平。安全是发展的前提。必须统筹发展和安全，深入贯彻总体国家安全观，不断增强经济和社会韧性，全力维护国家安全和社会稳定。&lt;/p&gt;&lt;p&gt;　　文章指出，科学编制规划，务必贯彻定位准确、边界清晰、功能互补、统一衔接的要求，坚持科学决策、民主决策、依法决策。地方规划和各有关领域专项规划要与国家整体规划衔接好，体现国家整体规划的精神和要求，同时要因地因事制宜，把需要和可能统一起来，确保定了就做得到、能落地见效。&lt;/p&gt;&lt;p&gt;　　文章强调，要着力提高党领导经济社会发展能力和水平。第一，进一步加强学习。钻研党的创新理论，吃透党中央大政方针和决策部署，提高政治能力和战略思维能力，提高专业素养，不断在实践中增强现代化建设本领。第二，树立和践行正确政绩观。坚持从实际出发、按规律办事，通过科学决策和实干苦干，创造经得起实践和历史检验、真正造福人民、得到群众公认的业绩。第三，大力弘扬斗争精神。敢于斗争、善于斗争，及时果断消除风险隐患，努力把不利因素转化为克敌制胜的有利条件。第四，坚定不移惩治腐败。始终保持反腐败高压态势，一步不停歇、半步不退让，一体推进不敢腐、不能腐、不想腐，切实把权力关进制度笼子，着力铲除腐败滋生的土壤和条件。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 《求是》杂志发表习近平总书记重要文章 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154530&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154530.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154530.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154530.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 王毅同美国国务卿鲁比奥通电话</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154531.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 王毅同美国国务卿鲁比奥通电话 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京4月30日电  中共中央政治局委员、外交部长王毅4月30日同美国国务卿鲁比奥通电话。&lt;/p&gt;&lt;p&gt;　　王毅表示，元首外交始终是中美关系的“定盘星”。在习近平主席和特朗普总统战略引领下，中美关系总体保持了稳定。这符合两国人民根本利益，也符合国际社会普遍期待。双方要维护好来之不易的稳定局面，筹备好重要高层互动议程，扩大合作面、管控分歧点，探索构建具有战略性、建设性、稳定性的中美关系，实现相互尊重、和平共处、合作共赢。&lt;/p&gt;&lt;p&gt;　　王毅强调，台湾问题事关中国的核心利益，是中美关系的最大风险点。美方应信守承诺，作出正确抉择，为中美合作打开新的空间，为世界和平作出应尽努力。&lt;/p&gt;&lt;p&gt;　　鲁比奥表示，美中关系是世界上最重要的双边关系，元首外交是美中关系的核心。双方要保持沟通协调，相互尊重、妥处分歧，为美中高层互动积累成果，寻求美中关系的战略稳定。&lt;/p&gt;&lt;p&gt;　　双方还就中东局势等交换了意见。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154531&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154531.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154531.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 王毅同美国国务卿鲁比奥通电话 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154531.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 王毅分别同比利时副首相兼外交大臣普雷沃、老挝副总理兼外长通沙万会谈会见</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154532.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 王毅分别同比利时副首相兼外交大臣普雷沃、老挝副总理兼外长通沙万会谈会见 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京4月30日电  中共中央政治局委员、外交部长王毅30日在北京同比利时副首相兼外交大臣普雷沃举行会谈，会见老挝副总理兼外长通沙万。&lt;/p&gt;&lt;p&gt;　　在同普雷沃会谈时，王毅说，在两国领导人关心支持下，双方确立了全方位友好合作伙伴关系。中方愿以建交55周年为契机，深挖务实合作潜力，推动中比关系迈上新台阶。希望比方在欧盟发挥积极、建设性作用，推动欧中通过对话协商妥处经贸分歧。&lt;/p&gt;&lt;p&gt;　　普雷沃表示，比方始终坚持一个中国政策，愿同中方共同维护多边主义，捍卫国际法，为推动欧中关系健康发展发挥积极作用，赞赏中方为推动缓解地区紧张局势所作努力。&lt;/p&gt;&lt;p&gt;　　在会见通沙万时，王毅表示，中老是同志加兄弟，中方愿同老方推进中老铁路建设和矿产等领域合作，深化在东盟等多边框架内合作，共同落实好两党两国最高领导人重要共识，推动具有战略意义的中老命运共同体建设不断向高标准、高质量、高水平迈进。&lt;/p&gt;&lt;p&gt;　　通沙万表示，老方坚定恪守一个中国原则，期待以老中建交65周年和“老中友好年”为契机，落实好老中命运共同体行动计划。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154532&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154532.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154532.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 王毅分别同比利时副首相兼外交大臣普雷沃、老挝副总理兼外长通沙万会谈会见 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154532.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 李鸿忠出席庆祝中老建交65周年暨“中老友好年”招待会</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154533.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李鸿忠出席庆祝中老建交65周年暨“中老友好年”招待会 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京4月30日电  中共中央政治局委员、全国人大常委会副委员长李鸿忠30日在京出席庆祝中老建交65周年暨“中老友好年”招待会并致辞。&lt;/p&gt;&lt;p&gt;　　李鸿忠表示，在习近平总书记、国家主席和通伦总书记、国家主席战略引领下，中老命运共同体建设不断走深走实。中方愿同老方加强战略沟通，推进互利合作，深化人民友谊，开创中老关系更加美好前景。&lt;/p&gt;&lt;p&gt;　　老挝副总理兼外长通沙万说，愿携手推动老中命运共同体建设取得新成果。&lt;/p&gt;&lt;p&gt;　　招待会由全国对外友协和老挝驻华使馆共同举办。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154533&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154533.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154533.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李鸿忠出席庆祝中老建交65周年暨“中老友好年”招待会 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154533.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154534.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京4月30日电  4月30日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话，双方围绕落实好中美两国元首釜山会晤和历次通话重要共识，就进一步妥善解决彼此关注的经贸问题和拓展务实合作，进行了坦诚、深入、建设性的交流。中方就近期美对华经贸限制措施表达严正关切。双方同意继续发挥好中美经贸磋商机制作用，不断增进共识、管控分歧、加强合作，推动中美经贸关系健康、稳定、可持续发展。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154534&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154534.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154534.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154534.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 广告</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154535.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 广告 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/3d081a61-ef5f-4a21-9047-0c711c5ab5d6.jpg.2" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154535&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154535.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154535.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 广告 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154535.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] “多做对国家、对社会主义有利的事”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154536.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “多做对国家、对社会主义有利的事” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——纪念荣毅仁同志诞辰110周年 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							中共中央党史和文献研究院&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　2020年7月，习近平总书记在企业家座谈会上指出，“爱国是近代以来我国优秀企业家的光荣传统”，并称赞荣毅仁同志是“爱国企业家的典范”。今年5月1日是荣毅仁同志110周年诞辰纪念日。荣毅仁同志是中国现代民族工商业者的杰出代表，卓越的国家领导人，伟大的爱国主义、共产主义战士。他对国家和人民无限忠诚，对共产主义和中国特色社会主义充满信心，为国家强盛、民族振兴、人民幸福作出了重要贡献。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　一、“中国人还是在中国好”，毅然决然完成从民族资本家到“红色资本家”的蜕变&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　荣毅仁同志1916年出生于江苏无锡一个著名的工商业家族。1937年，他从上海圣约翰大学毕业后，开始辅佐父亲经营面粉、纺织和金融等家族企业。荣毅仁同志勤奋工作，一心期望办好实业，报效国家。然而，帝国主义的侵略、国民党政权的腐败和旧中国的积贫积弱、民族工业发展的艰辛，使他“实业救国”的理想破灭。他感到“纵有一颗爱国心，也势必是一筹莫展、一事无成”。1949年上海解放前夕，荣氏家族迁往海外。荣毅仁同志认定“中国人还是在中国好”，毅然作出留在上海的决定。&lt;/p&gt;&lt;p&gt;　　新中国成立后，在党的统一战线的感召下，在与共产党人的接触中，荣毅仁同志逐步认识到，只有共产党才能救中国，社会主义是振兴中国的唯一出路。从此，他坚决拥护并自觉接受中国共产党的领导，满腔热忱地投身新中国建设事业。1950年，他在国家发行胜利折实公债时，主动认购650万份。在抗美援朝运动中，他积极捐献七架半飞机和大量衣物，并高举“抗美援朝保家卫国”的大旗，走在上海工商界抗美援朝大游行队伍的最前列。&lt;/p&gt;&lt;p&gt;　　1953年党在过渡时期的总路线提出后，我国开始对生产资料私有制进行社会主义改造。作为一名民族资本家，荣毅仁同志目睹荣氏企业挣扎几十年仍处于日暮途穷的境地，直到新中国成立后才获得新生。这些活生生的事实使他逐步认识到：像我们这样贫穷落后的发展中国家，要搞企业、搞生产，一定要走社会主义道路，发展以生产资料公有制为基础的国民经济。1954年5月，他响应党和政府号召，提出对申新纺织公司等荣氏企业实行公私合营。1956年，又率先把全部企业拿出来和国家合营，还邀请毛泽东同志到公私合营的申新九厂视察，对上海乃至全国的公私合营工作起到很大的鼓舞和推动作用。荣毅仁同志在资本主义工商业的社会主义改造中发挥主动配合的作用，赢得社会各界的普遍赞誉，被称为“红色资本家”。&lt;/p&gt;&lt;p&gt;　　1957年，荣毅仁同志当选为上海市副市长。1959年，为发挥荣毅仁同志的专长，中央调他担任纺织工业部副部长。他赋诗述怀，以“龙驹乘风追日月，挥戈卌年未为晚”的诗句，表达能为振兴纺织工业出力的兴奋心情。1960年，为应对全国棉花大幅减产的困境，荣毅仁同志亲自带队赴四川、山东、河北等地，对野杂纤维能否作为纺织原料问题展开调研，并主持撰写考察报告，为当时纺织业的纾困发展提供了具体指导。“文化大革命”期间，荣毅仁同志受到冲击，但始终没有动摇对中国共产党和走社会主义道路的信念，表示“我跟共产党是跟定了的”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　二、“出了问题我负责”，披荆斩棘把中信建成“中国在实行对外开放中的一个窗口”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　1979年1月，党的十一届三中全会后不久，邓小平同志邀请荣毅仁等5位工商界著名人士座谈。荣毅仁同志就引进技术、管理，发展金融、贸易谈了自己的看法，得到邓小平同志的肯定。谈话中，邓小平同志专门“点将”，提出希望荣毅仁同志多搞些对外开放和经济工作，强调“只要是把社会主义建设事业搞好，就不要犹豫”。&lt;/p&gt;&lt;p&gt;　　改革开放的新形势和党中央的高度信任，极大地激发了荣毅仁同志为现代化建设贡献聪明才智的热情。他从国家发展需要出发，结合出国考察的所见所闻、海外亲友众多的有利条件，将目光投向一个当时人们还很陌生的领域——国际信托投资事业。1979年2月，荣毅仁同志向党中央、国务院提出，“为了加速祖国实现四个现代化，从国外吸收资金，引进先进技术”，建议设立国际信托投资公司。10月，经中央批准，中国国际信托投资公司正式成立，荣毅仁同志担任董事长兼总经理。他亲手制定公司第一个章程，明确“公司坚持社会主义原则，按照经济规律办事，实行现代化的科学经营管理”，并主动要求在公司成立党组，认为“有党组就有依靠”。&lt;/p&gt;&lt;p&gt;　　面对改革开放之初中国的现实情况，荣毅仁同志解放思想，实事求是，积极借鉴发达国家在发展经济中行之有效的做法，与中国实际相结合，广泛开展中外经济技术合作，引进资金和技术，在国内兴办实业。1981年，国家重点项目江苏仪征化纤工程因资金不足准备下马。荣毅仁同志突破“既无内债又无外债”的传统观念束缚，大胆提出以中信公司名义在海外发行债券。面对各方面质疑，他以巨大的勇气表态“出了问题我负责”，最终促成我国首个海外债券的成功发行，不仅解决了项目建设资金问题，更增强了海外投资者对中国改革开放方针和来华投资创业的信心。&lt;/p&gt;&lt;p&gt;　　在中信公司的发展过程中，荣毅仁同志强调“不要念老经”，“把束缚我们发挥积极性的东西去掉”。正是在他的带领下，中信“敢于吃第一只螃蟹”，开创了诸多行业和领域的“第一”。比如在国内第一个开展国际经济咨询业务、租赁业务，第一个经营房地产业务，第一个涉足航天业的商业运作，等等。中信还积极布局港澳业务，率先在海外直接投资，与许多国家和地区及各界实现广泛合作，逐步发展成一个涉及金融、技术、贸易、房地产、经济咨询、卫星通讯等业务的综合性跨国企业集团。正如邓小平同志所希望的那样，中信成为了“中国在实行对外开放中的一个窗口”，为我国社会主义现代化建设作出了卓越贡献。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　三、“听从祖国召唤”，树起广泛团结海内外工商界的一面旗帜&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　荣毅仁同志注重发挥他在工商界的影响，积极做工商界的统战工作。1949年6月后，他参加上海市工商联和全国工商联的筹备成立工作，曾担任上海市工商联副主任委员，是全国工商联筹备委员会副主任委员，全国工商联第一、二、三、四届副主任委员，第五届副主席，第六届主席。&lt;/p&gt;&lt;p&gt;　　新中国成立初期，荣毅仁同志积极投身国家建设，成为工商界的一面旗帜。1955年10月，毛泽东同志在与荣毅仁等工商界代表座谈时讲了京剧《打渔杀家》中萧桂英出走却丢不掉家里坛坛罐罐的故事。荣毅仁同志深受教育，进一步认清了社会主义祖国的光明前途，认识到工商界不能只看到鼻子底下的一丁点儿利益，要认清社会发展规律，把个人前途和祖国前途结合起来。为帮助广大工商界人士提高认识、转变立场，他带领大家认真学习马列主义、毛泽东思想，宣传党的工商业政策，鼓励他们“跟党走，走社会主义道路”。这些都对充分发挥工商联作用，配合党和政府胜利完成对资本主义工商业的社会主义改造产生了重要影响。&lt;/p&gt;&lt;p&gt;　　改革开放后，荣毅仁同志开拓创新兴办实业，推动对外交流合作，赢得了全国工商界的尊重和信赖。他还积极联络荣氏家族身居海外的亲属，为他们实现报效祖国的心愿牵线搭桥。1986年6月，他自费邀请200余位荣氏海外亲属回国探亲。邓小平同志在接见荣氏亲属时指出，你们荣家对发展民族工业作了贡献，是有功的，是推动历史前进的，人民是不会忘记的。1988年12月，刚刚当选为全国工商联第六届主席的荣毅仁同志号召会员代表，“听从祖国召唤，脚踏实地、埋头苦干，作出成绩，开创一个新局面，为把工商联办成名副其实的对内对外民间商会而共同努力！”&lt;/p&gt;&lt;p&gt;　　荣毅仁同志带领工商联积极探索为现代化建设服务的新路子。1990年，全国工商联接待来自各国的20多个工商访问团。同年，荣毅仁同志带领全国工商联代表团参加香港中华总商会成立90周年会庆活动，并邀请台湾“大陆工业考察团”到北京、上海、宁波等地考察访问。1991年7月，面对改革开放后非公有制经济快速发展的新形势，荣毅仁同志坚决贯彻党的方针政策，要求工商联把非公有制经济代表人士看作统一战线工作团结的新对象，按照“团结、帮助、引导、教育”的方针，配合党和政府做好他们的工作。在他的带领下，全国工商联自觉当好党和政府联系非公有制经济人士的桥梁和助手，加强与港澳台及海外工商界人士的联络，为推进改革开放进程和祖国统一大业作出了积极贡献。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　四、“决不辜负人民的期望”，为中国特色社会主义事业奋斗到底&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　荣毅仁同志是卓越的国家领导人。在全国人大和全国政协工作期间，他积极参加国家政治生活，参与党和国家大政方针的协商，为坚持和完善人民代表大会制度，为坚持和完善中国共产党领导的多党合作和政治协商制度、巩固和发展爱国统一战线，为振兴中华、祖国统一作出了杰出贡献。&lt;/p&gt;&lt;p&gt;　　荣毅仁同志是第二届全国政协委员，第三、四届全国政协常委。1978年3月，他在当选第五届全国政协副主席后，以为党和国家矢志奋斗的革命情怀，积极协助邓小平同志恢复政协工作，坚决贯彻执行党中央制定的改革开放政策，充分利用政协平台和渠道，开展实地调研和对外交往。1979年4月，他率全国政协代表团访问西德等国，广泛接触各界人士，积极宣传党和国家政策，增进了国际社会对我国的了解。&lt;/p&gt;&lt;p&gt;　　荣毅仁同志曾任第一至八届全国人大代表，第四、五届全国人大常委会委员，第六、七届全国人大常委会副委员长。他高度重视全国人大的立法工作，提出大量宝贵意见建议，为发展社会主义民主作出了积极贡献。1979年6月，在中外合资经营企业法起草过程中，他对草案有关外资比例和企业决策机制等内容提出重要修改意见，得到邓小平、陈云等同志的赞同，为促进对外开放发挥了重要作用。作为宪法修改委员会委员，他参与了1982年宪法修改工作。在担任全国人大常委会副委员长期间，他还参与制定民法通则、行政诉讼法、全国人大议事规则等一批重要法律。&lt;/p&gt;&lt;p&gt;　　荣毅仁同志还曾担任香港特别行政区基本法起草委员会委员、海峡两岸关系协会名誉会长和中国和平统一促进会领导职务。他坚决拥护和认真贯彻“一国两制”方针，积极为基本法的起草提出意见建议。他始终心系祖国统一，利用自己在海内外的崇高威望和广泛联系，积极参与反“独”促统，为推进祖国和平统一做了大量卓有成效的工作。&lt;/p&gt;&lt;p&gt;　　1993年3月，荣毅仁同志当选为中华人民共和国副主席。他表示，“决不辜负人民的期望，要全力为国家和民族的利益、为社会主义建设事业服务好”。荣毅仁同志经常深入各地考察了解经济发展和改革开放情况并给予指导。他还注意收集经济信息动态，潜心研究一些经济问题，并提出自己的看法。他经常出席各种重要国务、外事活动，会见外国领导人和重要外交使节，先后出访多国，与不少国家的领导人和实业界知名人士结下深厚友谊，为扩大我国国际影响、促进世界和平进步事业做了大量工作。&lt;/p&gt;&lt;p&gt;　　1998年，荣毅仁同志从领导岗位退下来后，仍然热切关注中国特色社会主义事业的发展、改革开放的推进和人民生活的改善。2005年10月，荣毅仁同志在北京逝世。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　五、“人民是不会忘记的”，一辈子爱国奋斗的精神风范长存&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　1950年6月，毛泽东同志在接见荣毅仁同志时鼓励他，一个人为人民做了好事，而且坚持做下去，人民是不会忘记的。这句话深深打动了荣毅仁同志，坚定了他一辈子在党的领导下做好工作的决心。从民族资本家到“红色资本家”，再到共产主义战士，荣毅仁同志的一生是伟大光辉的一生，是爱国奋斗的一生，是为我国社会主义建设事业无私奉献的一生。他展现出的崇高精神追求和高尚品格风范，永远值得我们学习。&lt;/p&gt;&lt;p&gt;　　我们纪念荣毅仁同志，就是要学习他常怀报国之志，始终把个人命运与国家民族的命运紧密相连。1956年，在被问到作为资本家为什么接受社会主义道路时，荣毅仁同志诚恳回答：“我是一个资本家，但是我首先是一个中国人”。1988年，他在香港参加大学校友聚会。面对来自世界各地的校友，他满怀深情地说：“‘国家兴亡，匹夫有责’。我们每个人都肩负着为祖国效力的重任，把我们的知识和才华献给可爱的祖国，是我们无上的幸福。”习近平总书记指出，爱国主义是中华民族精神的核心，激励着一代又一代中华儿女为祖国发展繁荣而不懈奋斗。我们学习荣毅仁同志，就要以国家富强为念，以人民幸福为盼，把个人小我融入国家大我，在为国尽责、为民服务中实现个人价值、展现人生风采。&lt;/p&gt;&lt;p&gt;　　我们纪念荣毅仁同志，就是要学习他信仰坚定执着，始终坚决拥护中国共产党的领导，对中国特色社会主义充满信心。荣毅仁同志一生追求真理，不懈奋斗，一旦树立起共产主义信仰，就坚韧不拔地追求进步。他从自己的亲身经历中得出结论，“中国的富强、民族的振兴、人民的幸福乃至我们个人的贡献，都离不开共产党的领导”，“只有实行社会主义，走人人富裕的道路，中国才能够强盛繁荣”，要“多做对国家、对社会主义有利的事”。从上世纪50年代起，荣毅仁同志就把加入中国共产党作为人生追求，时时以共产党员标准要求自己，多次提出入党申请。1985年7月1日，荣毅仁同志光荣加入中国共产党，终于实现了自己的夙愿。习近平总书记指出，“理想信念是共产党人的精神支柱和政治灵魂”。我们学习荣毅仁同志，就要坚定对共产主义的信仰、对中国特色社会主义的信念，始终忠诚于党、忠诚于人民、忠诚于马克思主义。&lt;/p&gt;&lt;p&gt;　　我们纪念荣毅仁同志，就是要学习他勇于开拓创新，始终以一往无前的政治勇气和改革精神锐意进取、攻坚克难。改革开放之初，现代化建设没有现成的路子可以照搬。荣毅仁同志选择在此时创办中信，用他的话说是“拣了个酸果子吃”。在新旧观念碰撞、新旧体制交替的过程中，他带领中信披荆斩棘、破冰前行，成功开辟出一条通过吸收和运用外资、引进先进技术和管理经验为国家现代化建设服务的创新发展之路。习近平总书记指出，“惟改革者进，惟创新者强，惟改革创新者胜”。我们学习荣毅仁同志，就要保持“越是艰险越向前”的英雄气概和“敢教日月换新天”的昂扬斗志，努力在研究新情况、解决新问题上下功夫、出经验，奋力谱写改革开放新篇章。&lt;/p&gt;&lt;p&gt;　　我们纪念荣毅仁同志，就是要学习他一心勤勉奉公，始终坚持为民务实清廉的价值追求。荣毅仁同志兢兢业业、克己奉公，无论是国内考察还是出国访问，日程都安排得满满当当，往往一天要安排七八场活动。他曾对下属说：“跟我出去可不是一种待遇，是苦差事。”他始终保持朴实作风。1965年，在西北国棉一厂蹲点时，他坚持与工作组成员同吃、同住、同劳动，不搞特殊化。担任国家领导职务后，他更是坚持清正廉洁、严于律己，从不谋求私利和特权。习近平总书记指出，作为党的干部“就是要讲大公无私、公私分明、先公后私、公而忘私”。我们学习荣毅仁同志，就要树牢正确权力观、政绩观、事业观，坚持吃苦在前、享受在后，勤奋工作、廉洁奉公。&lt;/p&gt;&lt;p&gt;　　今年是“十五五”开局之年。73年前的1953年，我国开始执行第一个五年计划。荣毅仁同志曾这样描述自己的兴奋心情：“五年计划开始了，全国兴建了许多大工厂，各地进行了大规模的建设，一切实现得比梦想还要快，多么令人鼓舞！”从“一五”到“十五五”，在一程接一程的接力奋进中，把我国建设成为社会主义现代化国家的主题始终没有改变。“锐始者必图其终，成功者先计于始。”我们要继承和弘扬荣毅仁同志的崇高精神风范，更加紧密地团结在以习近平同志为核心的党中央周围，锚定目标任务，坚定信心、乘势而上，以实干成就伟业，以创新赢得未来，不断开创中国式现代化建设新局面！&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;中共中央党史和文献研究院&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——纪念荣毅仁同志诞辰110周年 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154536&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154536.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154536.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “多做对国家、对社会主义有利的事” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154536.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 用心用情用力做好信访工作</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154537.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 《信访工作条例》实施4年来—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 用心用情用力做好信访工作 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  金  歆&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　信访工作是党的群众工作的重要组成部分，是了解社情民意的重要窗口。2022年5月1日起，中共中央、国务院发布的《信访工作条例》（以下简称《条例》）正式施行。4年来，各地区各部门将《条例》精神和规定落到实处。党对信访工作的全面领导不断加强，信访工作法治化不断推进，信访工作得以更好服务经济社会发展大局。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　坚持和加强党对信访工作的全面领导&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“残疾人电动轮椅车有时会遇到登记上牌、上路通行受限问题，导致一些残疾人日常出行受阻……”福建省宁德市有关领导在接访下访过程中，有残疾群众反映“出行难”问题。&lt;/p&gt;&lt;p&gt;　　于是，接访领导立即牵头协调市残联、市公安交管等多个部门，摸清全市残疾人出行现状，实地踏勘道路通行条件。仅一个月后，《宁德市残疾人电动道路型轮椅车登记管理实施方案（试行）》出台，明确了车辆登记上牌的规范流程，惠及全市所有符合条件的残疾人。&lt;/p&gt;&lt;p&gt;　　作为坚持和加强党对信访工作的全面领导的重要方面，各地各级党政主要领导带头接访下访，包案化解信访突出问题，示范带动各级党员干部密切联系群众、服务群众。仅2025年，全国县级及以上领导干部接访下访99.1万次，接待处理信访事项128.1万件。&lt;/p&gt;&lt;p&gt;　　信访工作联席会议机制是加强党对信访工作领导的另一重要抓手。《条例》规定：“地方各级信访工作联席会议在本级党委和政府领导下，负责本地区信访工作的统筹协调、整体推进、督促落实，协调处理发生在本地区的重要信访问题，指导下级信访工作联席会议工作。”&lt;/p&gt;&lt;p&gt;　　2025年底的一天，湖南省长沙市，寒风逼人，可长沙市信访局里却暖意融融，姜女士等几名群众将一面烫金锦旗郑重递到工作人员手中。&lt;/p&gt;&lt;p&gt;　　原来，姜女士居住的居民楼属房改房，售房手续复杂，加上原建设企业解散注销等问题，不少居民陷入办房产证困难的境地。&lt;/p&gt;&lt;p&gt;　　长沙市发挥信访工作联席会议机制作用，由信访工作联席会议办公室牵头召开专题会议，召集多部门“会诊”。市信访联席办统筹发力：一边持续对接市征收办、市不动产登记中心等单位，成立“多方协同”工作专班；一边安排专人协助居民逐一梳理历史材料、核实权属关系，一点点为办证工作“打基础”——经过不懈努力，姜女士等群众终于拿到了不动产权证书。&lt;/p&gt;&lt;p&gt;　　据介绍，目前信访工作联席会议机制实现了省、市、县、乡四级全覆盖。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　推进信访工作法治化&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　4年来，各地区各部门对照《条例》不断完善相关规范，信访工作流程规范更为完善。&lt;/p&gt;&lt;p&gt;　　走进陕西省西安市长安区信访接待大厅，迎面就是一幅信访流程导引图：从提出诉求、登记受理，到分类转送、依法办理，再到答复反馈、监督回访，每一步都标注清晰、责任到人。据介绍，陕西省信访工作联席会议办公室依据《条例》和相关规定，绘制了受理办理法治化“流程图”，规范使用数十种不同情形的告知书。&lt;/p&gt;&lt;p&gt;　　国家信访局相关负责人表示，各地各部门围绕预防、受理、办理、监督追责、维护秩序“五个法治化”，制定“路线图”和“导引图”，完善依法分类处理信访诉求清单，推动信访工作制度体系更加健全、受理办理更加规范、工作导向更加鲜明、解决质效更加凸显。&lt;/p&gt;&lt;p&gt;　　此外，各地积极落实《条例》及相关法规，推动信访事项依法化解、实质化解。&lt;/p&gt;&lt;p&gt;　　“因原单位工作失误，少发给我十几年的住房补贴！我要求有关部门补偿我20万元！”&lt;/p&gt;&lt;p&gt;　　天津市西青区群众马某，因不服一信访事项处置结果，成为了“老访户”。问题发生在20年前，原涉事单位已不存在，如今要解决问题还涉及多个部门，相互间转办协作和责任追究流程都不够明确，影响了问题解决。&lt;/p&gt;&lt;p&gt;　　这次，复杂的问题有了法治化的解决路径。去年，西青区出台了《西青区信访听证办法（试行）》，组织当事人“面对面”陈述诉求。根据马某申请，西青区信访办启动信访听证程序，邀请区人大代表、区政协委员和律师组成听证评议组。评议组围绕政策法规逐条解疑释惑，客观分析单位管理疏漏与责任归属，合理评估经济损失，提出公平公正的补偿建议。&lt;/p&gt;&lt;p&gt;　　“有了合理的说法，我心服口服。”马某当场签订《息诉罢访承诺书》。&lt;/p&gt;&lt;p&gt;　　“信访事项的提出、办理、解决都有了明确、清晰的规程，信访部门得以更好引导人民群众通过理性合法途径表达利益诉求，各地践行新时代‘枫桥经验’，矛盾纠纷也能更好化解在萌芽状态。”国家信访局相关负责人表示。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　做好人民建议征集工作&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　做好人民建议征集工作，是《条例》提出的重要要求，也是提升信访工作质效、服务改革发展大局的重要方面。&lt;/p&gt;&lt;p&gt;　　浙江杭州，钱塘江，九堡大桥横跨江面。&lt;/p&gt;&lt;p&gt;　　“这座大桥连接起杭州上城区与萧山区的新产业集聚区域，也是东西10多公里范围内唯一的过江通道。”杭州市城市基础设施建设管理中心相关负责人介绍，每日非机动车早晚高峰通行量可达近2000辆。&lt;/p&gt;&lt;p&gt;　　直到三年前，大桥一直未设非机动车的上下桥通道，骑车市民只能依赖两部无障碍电梯上下桥。“电梯一次只能载三四部电动自行车上下桥。高峰期等电梯要一个小时，迟到、被扣钱是常态。”一名外卖骑手回忆起当时的情形。&lt;/p&gt;&lt;p&gt;　　“建议增加建设非机动车上下桥的慢行车道。”市民张某抱着试试看的态度，通过信访部门开设的网上建议渠道，提出了这条建议。半年时间里，杭州各级设在信访部门的人民建议征集办公室，便收到了数十条类似的建议。&lt;/p&gt;&lt;p&gt;　　转办、调研、立项、开工……如今，大桥两岸都建起了供非机动车使用的螺旋上桥缓坡，电动自行车两三分钟就能骑到桥上。&lt;/p&gt;&lt;p&gt;　　近年来，人民建议征集工作取得显著成效。上海2021年出台的《上海市人民建议征集若干规定》，是全国第一部由省级人大常委会制定、专门促进和规范人民建议征集工作的地方性法规；浙江出台了《关于加强和改进人民建议征集工作的指导意见》等制度文件，并探索开展人民建议征集立法……&lt;/p&gt;&lt;p&gt;　　国家信访局负责人表示，下一步，将深入贯彻落实《条例》，努力实现信访问题“案结事了人和”、信访群众“事心双解”，充分彰显信访工作“晴雨表”“连心桥”“减压阀”作用，奋力开创新时代新征程信访工作新局面。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  金  歆&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 《信访工作条例》实施4年来—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154537&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154537.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154537.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 用心用情用力做好信访工作 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154537.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 首套中文完整版东京审判庭审记录正式面世</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154538.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 首套中文完整版东京审判庭审记录正式面世 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报杭州4月30日电  （记者刘军国）4月30日，《远东国际军事法庭庭审记录·全译本》首发式暨首发座谈会在浙江越秀外国语学院举行。第1至第40卷、总计2000余万字，历时10余年的重大翻译工程宣告完成，标志着世界范围内首套中文完整版东京审判庭审记录面世。&lt;/p&gt;&lt;p&gt;　　本次活动由浙江越秀外国语学院、上海交通大学战争审判与世界和平研究院、上海交通大学出版社联合举办。来自多家高校的专家学者共同见证这一填补国内相关文献系统性翻译、整理、出版空白的重要成果。&lt;/p&gt;&lt;p&gt;　　今年恰逢东京审判开庭80周年，在世界百年变局与地区形势复杂交织的当下，这部中文版完整庭审记录面世将有助于端正视听、捍卫历史正义；有助于以史鉴今、维护世界和平；有助于资政育人、永启后世。与会专家学者围绕全译本的历史价值、学术意义、传播普及、资政育人等议题展开研讨，形成了一系列共识。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154538&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154538.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154538.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 首套中文完整版东京审判庭审记录正式面世 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154538.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 携手共建清洁、美丽、可持续的世界</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154539.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 携手共建清洁、美丽、可持续的世界 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——习近平主席向上海合作组织绿色和可持续发展论坛致贺信引发与会嘉宾强烈反响 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  曲  颂  刘军国&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　4月29日，国家主席习近平向上海合作组织绿色和可持续发展论坛致贺信，引发与会嘉宾强烈反响。与会嘉宾表示，贺信充分体现习近平主席对深化上合组织国家交流互鉴、加强绿色和可持续发展领域务实合作的高度重视，为共谋全球生态文明建设之路、完善全球治理提供更多中国方案、上合方案。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“充分体现中方对深化上海合作组织框架内合作的高度重视”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“习近平主席发来贺信，充分体现中方对深化上海合作组织框架内合作的高度重视。”上海合作组织副秘书长索海尔·汗表示，在绿水青山就是金山银山理念指引下，中方为世界可持续发展作出重要贡献。上合组织将进一步发挥整体潜力，推广在可持续发展方面取得显著进展国家的经验，惠及全球。&lt;/p&gt;&lt;p&gt;　　吉尔吉斯斯坦总统特别代表巴克特·托罗巴耶夫认为，中国近年来在绿色发展领域取得巨大成就，已经成为全球绿色转型的重要引领者。绿水青山就是金山银山理念生动阐释了可持续经济增长与惠及后代之间的深层逻辑。浙江省在协调经济增长与绿色环保、技术创新与自然资源管理等方面创造了成功范例。&lt;/p&gt;&lt;p&gt;　　“非常高兴有机会深入了解中国在绿色可持续发展方面所取得的成就，中国的经验值得我们学习借鉴。”老挝国家电视台台长秘书苏帕宋·西拉佩此次在浙江参观了宁波的电动汽车企业，中国绿色发展生动实践给他留下深刻印象。&lt;/p&gt;&lt;p&gt;　　缅甸驻华大使佐温敏认为，近年来中国空气质量和水质的改善令人印象深刻，全国森林面积不断扩大，这是伟大的成就。绿水青山就是金山银山理念富有远见，也激励缅甸在发展经济的同时努力兼顾自然环境保护。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“推动上合组织国家深化绿色可持续发展领域的务实合作”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　亚美尼亚副总理格里戈良表示，生态文明理念对推动全球绿色和可持续发展具有重要意义。各国共处同一个地球，需要担负共同的责任。亚美尼亚高度重视在上合组织框架下开展保护环境、应对气候变化、维护生物多样性、治理土壤退化与防治荒漠化等领域的合作。&lt;/p&gt;&lt;p&gt;　　科威特驻华大使纳吉姆认为，习近平主席的贺信体现了中国在应对环境挑战和推动可持续发展方面加强国际合作的长远愿景。科威特高度重视与中国在绿色发展领域的合作，近年来科中重点开拓环保、新能源等领域的重大合作项目，取得积极进展。&lt;/p&gt;&lt;p&gt;　　阿塞拜疆驻华大使布尼亚德·胡赛诺夫表示，习近平主席的贺信展现中国在推动全球绿色发展、环境保护和气候合作方面的责任感。中国在上合组织框架内积极推广绿色能源技术，与各方合作推动可持续基础设施建设，促进各方实现发展转型。&lt;/p&gt;&lt;p&gt;　　柬埔寨环境部大臣殷索莱表示，论坛为各方加强绿色发展、推动低碳转型合作提供了绝佳机遇。柬埔寨非常重视同上合组织成员在绿色技术创新和可持续金融方面的合作，相信绿色可持续发展能够增强经济发展的活力和韧性。&lt;/p&gt;&lt;p&gt;　　老挝农林部副部长占塔坤·布拉潘表示：“本次论坛搭建了重要的合作交流平台，有助于凝聚各方智慧，共商绿色发展路径，推动上合组织国家深化绿色可持续发展领域的务实合作。老挝愿与各国携手践行全球治理倡议，促进全球绿色发展。”&lt;/p&gt;&lt;p&gt;　　蒙古国驻华使馆一秘钢巴特尔表示，习近平主席的贺信彰显了推动绿色发展和深化上合组织内部合作的重要性。我们坚信，上合大家庭成员通过对话、交流并采取行动，能够为世界可持续发展作出贡献。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“在推动绿色发展进程中，中国已经成为全球先行者之一”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“习近平主席提出的人类命运共同体理念和全球发展倡议为世界前行道路指明了方向。”俄罗斯总统可持续发展问题与国际组织联络特别代表鲍里斯·季托夫在视频致辞中表示，期待上合组织能够发挥引领作用，为各国提供可持续前行、可持续发展的示范。“在推动绿色发展进程中，中国已经成为全球先行者之一。俄方愿与中国以及上合组织伙伴一道沿着这条道路继续前进。”&lt;/p&gt;&lt;p&gt;　　“过去，人们往往将气候行动视为对经济增长的制约，实际上，可持续发展与经济进步相辅相成。不作为的代价远高于绿色转型的成本。”巴基斯坦气候变化与环境协调部国务部长谢兹拉·哈拉尔认为，习近平主席在推进绿色可持续发展方面提出的理念，为应对当今世界环境挑战、制定相关政策提供了重要的思想引领。&lt;/p&gt;&lt;p&gt;　　乌兹别克斯坦驻上海总领事伊斯马伊洛夫表示，乌方高度评价中方在推动绿色可持续发展、应对全球气候变化方面所作的贡献。中国正在转向更加均衡、对生态更加负责的发展方式，这一点得到了包括联合国在内的国际组织的认可。&lt;/p&gt;&lt;p&gt;　　“马尔代夫高度重视习近平主席在贺信中强调的加强政策对接、经验交流和项目合作，认为这既具现实意义，又非常及时。”马尔代夫气候变化、环境与能源部国务部长穆罕默德·法伊兹表示，各方应共同努力加强能力建设和知识共享，支持因地制宜的解决方案，确保全球和区域合作机制积极响应小岛屿发展中国家的诉求。马尔代夫期待与中国及其他合作伙伴一道，携手推进更加绿色和可持续的发展进程。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  曲  颂  刘军国&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——习近平主席向上海合作组织绿色和可持续发展论坛致贺信引发与会嘉宾强烈反响 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154539&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154539.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154539.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 携手共建清洁、美丽、可持续的世界 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154539.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 十四届全国政协经济委员会原副主任易会满严重违纪违法被开除党籍和公职</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154540.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 十四届全国政协经济委员会原副主任易会满严重违纪违法被开除党籍和公职 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京4月30日电  经中共中央批准，中央纪委国家监委对第二十届中央委员、十四届全国政协经济委员会原副主任易会满严重违纪违法问题进行了立案审查调查。&lt;/p&gt;&lt;p&gt;　　经查，易会满丧失理想信念，背弃初心使命，贯彻落实党中央关于资本市场的重大决策部署阳奉阴违、推诿卸责，搞迷信活动；违反中央八项规定精神，违规收受礼品、礼金，接受可能影响公正执行公务的宴请、旅游活动安排；违反组织原则，在组织函询时不如实说明问题，在干部选拔任用等工作中为他人谋取利益并收受财物；廉洁底线失守，纵容、默许亲属利用本人职权谋取私利，违规从事营利活动，利用职权或者职务上的影响为亲属谋取利益，将应当由本人支付的费用由他人支付，搞权色、钱色交易；利用职务便利为他人在职务提拔、上市审批、融资贷款等方面谋利，并非法收受巨额财物。&lt;/p&gt;&lt;p&gt;　　易会满严重违反党的政治纪律、组织纪律、廉洁纪律和生活纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中央政治局会议审议，决定给予易会满开除党籍处分；由国家监委给予其开除公职处分；终止其党的二十大代表资格；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。给予其开除党籍的处分，待召开中央委员会全体会议时予以追认。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154540&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154540.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154540.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 十四届全国政协经济委员会原副主任易会满严重违纪违法被开除党籍和公职 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154540.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 劳动汗水浇开青春之花（视线）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154454.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 北京建工集团青年突击队传承七十二年—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 劳动汗水浇开青春之花（视线） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  潘俊强&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　会聚在旗帜下的北京建工青年突击队成员。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图为北京建工集团提供&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/42ae51d9-88dc-423d-b098-e3f5eb829b7f.jpg.2" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　上世纪50年代，老师傅向北京建工青年突击队成员传授技术。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图为北京建工集团提供&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/da43687d-abba-4397-bb7b-b61a42fef458.jpg.2" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　今年“五一”前夕，北京建工李大军青年突击队成员参与北京四元立交桥系翻建修复工程。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图为北京建工集团提供&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/2b0823a4-b843-4f4b-9efa-06bd541d844e.jpg.2" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/f129990e-392b-42e4-acf2-aa1352c5b33a.jpg.2" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/8cf95c04-77d5-443d-b845-e977dbad509d.jpg.2" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　“假如你要认识我，请到青年突击队里来……”青年突击队，是青春与劳动结合的光荣名字。从1954年全国第一支青年突击队成立至今，72年来，一代代青年突击队队员在祖国大江南北接力奋斗。从“人拉肩扛”的苦干实干，到“智能建造”的科技攻关，时代各有不同，青春一脉相承，他们在劳动中不断将“不可能”变成现实，以劳动之手让青春之花在全面建设社会主义现代化国家的火热实践中绚丽绽放。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　“五一”国际劳动节前夕，深夜的北京四元桥施工现场一片火热，铣刨机先行“啃食”旧路面，喷淋设施生成水雾降尘，平均年龄只有28岁的北京建工集团李大军青年突击队，正在向四元立交桥系混凝土铺装层翻建修复工程发起冲锋——他们需要利用4个周末，翻新8座桥梁。面对重任，这支队伍连夜攻关，工作日志上密密麻麻标注着近百个技术控制节点。他们将每次施工严控在48小时内，实现了“周末施工、周一通车”的阶段性目标。&lt;/p&gt;&lt;p&gt;　　劳动汗水浇开青春之花。1954年1月，第一支青年突击队诞生在北京建工。进入新时代，北京建工集团数百支青年突击队奋斗在神州大地乃至共建“一带一路”国家，他们用劳动与创造证明：青年突击队真正成为在关键时刻信得过、拉得出、用得上、打得赢的青年队伍。&lt;/p&gt;&lt;p&gt;　　第一面旗帜，把“不可能”变成现实&lt;/p&gt;&lt;p&gt;　　拿起一张老照片，94岁的北京建工集团退休职工周文右激动不已。“照片里是我曾经的队友，来自全国第一支青年突击队——胡耀林木工青年突击队。”&lt;/p&gt;&lt;p&gt;　　1953年，新中国成立之初首批公共建筑之一的北京展览馆开工兴建。次年初，当工程进入混凝土结构施工阶段，工业馆拱顶支模任务极难，7个木工组无人敢接，难题从秋天“躺”到了冬天。&lt;/p&gt;&lt;p&gt;　　此时，在组织号召下，18名青年技术骨干挺身而出，成立以胡耀林为队长的突击队，在现场立起写有“必胜”的红旗。&lt;/p&gt;&lt;p&gt;　　“当时工期短，任务重，质量要求高。”周文右说，“我们青年突击队苦干加巧干，没有机械设备，就肩挑背扛，延长工作时间；向老师傅学习技巧和经验，加强工种协作，打通技术难关，提高工作效率。”&lt;/p&gt;&lt;p&gt;　　他们不到3小时完成原计划需7小时的水泥溜槽，仅用1天赶出原需2天的180根撑头。面对最难的拱顶大梁支模任务，突击队仅用181个工日，便完成了原计划需478个工日才能交工的任务，这至今仍被称为奇迹。&lt;/p&gt;&lt;p&gt;　　“我们是青年突击队的第一面旗帜，把‘不可能’变成现实。”周文右激动地说，“以最高的水平、最好的质量完成了党和国家交办的任务，很光荣！”&lt;/p&gt;&lt;p&gt;　　这面旗帜一经举起，便再也没有倒下。&lt;/p&gt;&lt;p&gt;　　青年突击队见困难就上的模范带头作用，很快传遍了全工地，就像一股春风，在全国迅速掀起了成立青年突击队的热潮。&lt;/p&gt;&lt;p&gt;　　在北京建工，从胡耀林木工青年突击队开始，一代代青年突击队队员在工地上成长起来。人民大会堂、天安门建筑群、北京大兴国际机场……一系列标志性建筑，都镌刻着青年突击队的青春印记。&lt;/p&gt;&lt;p&gt;　　急难险重任务在哪里，青年突击队就建在哪里&lt;/p&gt;&lt;p&gt;　　“因任务建队、因项目建队、因攻坚建队。”72年来，北京建工青年突击队建队原则从未动摇。&lt;/p&gt;&lt;p&gt;　　“急难险重任务在哪里，青年突击队就建在哪里；战场在哪里，旗帜就会插在哪里。”北京建工集团团委书记、青年工作部部长魏学记说，青年突击队的旗帜是动员令、冲锋号。&lt;/p&gt;&lt;p&gt;　　重大工程是青年突击队的主战场。&lt;/p&gt;&lt;p&gt;　　从新中国成立初期的人民大会堂等“北京十大建筑”，到改革开放后的亚运村、奥林匹克公园、奥运场馆等重点工程，再到进入新时代，北京大兴国际机场、国家会议中心二期、中国国家版本馆中央总馆等著名地标，作为首都建设主力军，北京建工青年突击队深度参与其中，见证了首都北京的发展和变迁。&lt;/p&gt;&lt;p&gt;　　每次来到大兴国际机场，北京六建集团有限责任公司总经理郭双朝心中都涌动着建设者的自豪。在建设大兴国际机场时，他带领青年突击队攻克“机场下边跑火车”的技术难题。&lt;/p&gt;&lt;p&gt;　　“地铁和高铁隧道是在航站楼地下20米深的地方修建，使3条轨道交通同时穿过，这在全国机场航站楼建设中尚属首次。”郭双朝说，全国首次、结构极限、质量红线、工期倒逼，4座大山横亘眼前，当时压力巨大。不过，这也是动力。挑战不可能，一直是青年突击队追求的。郭双朝带领10多名年轻技术骨干，大胆采用定型“木工字梁”整体模板，最终实现混凝土浇筑“一次成活”，攻克了高铁列车以350公里时速穿行航站楼下的技术难题，工期由90天缩短至30天。&lt;/p&gt;&lt;p&gt;　　科技创新是青年突击队的新锋芒。&lt;/p&gt;&lt;p&gt;　　苏中帅青年突击队有一项战绩，至今仍被人津津乐道。那是2018年底，苏中帅带领青年突击队在美国参赛，面对美国国家专业测量师协会选派的18位测量专家，以速度和精度双双占优的实力夺冠。&lt;/p&gt;&lt;p&gt;　　不仅在比赛中，在工程建设中，苏中帅青年突击队把“差之毫厘，谬以千里”的测量精神发挥到极致。大兴国际机场5个指廊与主体航站楼的衔接控制测量，在大型机械震动干扰下，利用午休窗口期抢工，误差控制在毫米级；国家会议中心二期，使用三维激光扫描技术对钢结构安装、变形进行检查校核……“每一次精准测量，都是在为中国建造‘画准线’。”苏中帅说。&lt;/p&gt;&lt;p&gt;　　急难险重任务是青年突击队的试金石。&lt;/p&gt;&lt;p&gt;　　在海河“23·7”流域性特大洪水发生后，北京建工迅速组建119支青年突击队、2300余名团员青年投入防汛抢险、道路疏通、灾后重建第一线，高效完成应急任务。从汶川地震到小汤山医院应急工程，从援疆援藏到抗洪抢险，北京建工集团青年突击队始终在党和人民最需要时冲得上、顶得住、打得赢。&lt;/p&gt;&lt;p&gt;　　一棒接一棒，不断擦亮青年突击队这块“金字招牌”&lt;/p&gt;&lt;p&gt;　　从成立全国第一支青年突击队，到今天在国家和首都城市建设中担当主力军，一代又一代北京建工青年会聚在火红的队旗下，听党召唤、为国担当。&lt;/p&gt;&lt;p&gt;　　传承不是守住炉火，而是传递火焰。&lt;/p&gt;&lt;p&gt;　　坚守政治本色，把准传承方向。无论时代如何变迁，“讲政治、顾大局”始终刻入青年突击队的基因里。进入新时代，从庆祝新中国成立70周年活动、庆祝中国共产党成立100周年活动到2022年北京冬奥会开闭幕式等重大活动服务保障，青年突击队以“精益求精、万无一失”的标准，圆满完成各项重大政治任务，让“听党话、跟党走”成为最鲜明的政治底色。&lt;/p&gt;&lt;p&gt;　　坚持守正创新，赋予时代内涵。在怀柔区山区，“张源项目管理型青年突击队”创新建筑垃圾资源化处置模式，为口头村美丽乡村定制生产人字形异形砖，历时一个月攻克技术难关，用20万块再生砖让近600年古村重焕生机，实现了“留住乡亲、护住乡土、记住乡愁”。在奥林匹克公园瞭望塔，“付雅娣科技攻关型青年突击队”让1.7万吨钢结构、2.4万余件构件在百米高空精准“牵手”，整体对接精度误差小于3毫米，开创世界先河……72年来，从“人拉肩扛”到智能建造，从生产攻坚到管理创新、科技攻关，北京建工青年突击队建设紧跟时代步伐，实现项目管理型、科技攻关型、生产管理型、创新创效型、品牌宣传型、服务保障型等多元发展。&lt;/p&gt;&lt;p&gt;　　“我们一棒接一棒，不断擦亮青年突击队这块‘金字招牌’。”魏学记说。对北京建工集团的青年来说，加入青年突击队既是一种光荣的传承，也是成长成才的重要途径。北京建工集团通过常态化开展主题竞赛，以目标计划书、攻关课题、过程管控促提升；发布《青年突击队白皮书》，完善标准体系，推动青年突击队事业制度化、品牌化、长远化发展。&lt;/p&gt;&lt;p&gt;　　青年突击队，是青春与劳动结合的光荣名字。当前，北京建工集团共有青年突击队533支，队员6000余人，覆盖境内外各业务板块。“我们坚持把青年突击队打造成百年‘青’字号品牌，让青年突击队在全面建设社会主义现代化国家的火热实践中，绽放绚丽之花。”魏学记说。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  潘俊强&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 北京建工集团青年突击队传承七十二年—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154454&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154454.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154454.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 劳动汗水浇开青春之花（视线） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154454.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 表彰人才 赞美劳动</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154455.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 表彰人才 赞美劳动 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  易舒冉  邱超奕&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　2026年全国五一劳动奖章。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　中华全国总工会供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/3817f8c1-b6b0-42d6-85a0-d5c021684da9.jpg.2" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　中国式现代化既鼓励优秀劳动者脱颖而出，也为普通劳动者提供了发展自我的广阔舞台。近年来，对优秀劳动者个人和先进劳动集体的表彰体系日益完善，激励广大职工和劳动群众建功立业、创新创造。&lt;/p&gt;&lt;p&gt;　　全国劳动模范和全国先进工作者&lt;/p&gt;&lt;p&gt;　　全国劳动模范和先进工作者表彰大会是由中共中央、国务院主办的全国性表彰活动，表彰在社会主义建设事业中作出重大贡献者，评选表彰工作每五年一次，截至目前，该表彰大会共举办17次。&lt;/p&gt;&lt;p&gt;　　1950年9月25日至10月2日，全国工农兵劳动模范代表会议（也被称为“新中国首届劳模大会”）在北京召开，这是新中国第一次全国性的劳模表彰与奖励大会。此后，全国范围内开展了不同层次的劳模评选活动，劳模表彰进一步常态化、制度化、规范化，劳动光荣、创造伟大的社会氛围和群众基础逐渐形成，劳模精神、劳动精神、工匠精神成为激励和鼓舞一代又一代中国人不懈奋斗的重要精神力量。&lt;/p&gt;&lt;p&gt;　　全国杰出专业技术人才和中华技能大奖&lt;/p&gt;&lt;p&gt;　　“全国杰出专业技术人才和中华技能大奖”表彰项目，主办单位为人力资源社会保障部、中央组织部、中央宣传部、科技部等4部门，评选周期为5年，每次评选全国杰出专业技术人才100名、全国杰出专业技术团队100个、中华技能大奖100名、全国技术能手725名。&lt;/p&gt;&lt;p&gt;　　表彰项目面向全国各地区各领域专业技术人才和高技能人才开展。其中，“全国杰出专业技术人才”和“全国杰出专业技术团队”奖项旨在表彰长期在第一线从事专业技术工作，取得重要创新性成果，业绩贡献突出，具有良好科学精神和专业精神的专业技术人才和团队。&lt;/p&gt;&lt;p&gt;　　全国五一劳动奖&lt;/p&gt;&lt;p&gt;　　今年1月，中华全国总工会修订了《全国五一劳动奖评选表彰管理办法》。&lt;/p&gt;&lt;p&gt;　　今年的评选表彰工作与以往相比出现了新变化。在名称表述上，将全国五一劳动奖状、全国五一劳动奖章、全国工人先锋号统称为全国五一劳动奖。&lt;/p&gt;&lt;p&gt;　　全国五一劳动奖状授予在我国境内依法注册或者登记的企业、事业单位、机关、社会组织及驻外机构，全国五一劳动奖章授予中国籍员工，全国工人先锋号授予上述企业、事业单位、机关、社会组织及驻外机构所设部门或者单位。&lt;/p&gt;&lt;p&gt;　　据介绍，全国五一劳动奖评选坚持面向基层、面向一线、面向普通劳动者。推荐对象应符合《全国五一劳动奖评选表彰管理办法》规定的条件，在本职岗位上取得突出业绩，为经济建设、政治建设、文化建设、社会建设、生态文明建设和党的建设作出突出贡献。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  易舒冉  邱超奕&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154455&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154455.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154455.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 表彰人才 赞美劳动 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154455.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 重温工运历史  弘扬沂蒙精神</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154456.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 山东省临沂市工人文化宫红色工运史展览馆—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 重温工运历史  弘扬沂蒙精神 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王  沛&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　走进山东省临沂市工人文化宫红色工运史展览馆，一尊深沉厚重的人物群雕映入眼帘，群雕中各行各业的劳动者目光坚毅、姿态昂扬。&lt;/p&gt;&lt;p&gt;　　“山东的工会组织是随着近代产业工人的诞生、工人运动的发展和中国共产党的成立而逐步建立和发展起来的。”在红色工运史展览馆，讲解员巩晓宇佩戴着扩音器，正向参观者一一介绍。&lt;/p&gt;&lt;p&gt;　　红色工运史展览馆总面积约2600平方米，是全国职工爱国主义教育基地，于2021年11月投入使用。巩晓宇说，馆内通过600余幅图片图表、200余件文物实物、32组场景复原与多媒体展陈，串联起全国、全省及沂蒙工运的关键节点与感人故事。&lt;/p&gt;&lt;p&gt;　　在“沂蒙工人支前”展区，一张张泛黄的照片记录着当年工人昼夜赶工、运送物资的场景。一位老党员指着照片感慨：“我小时候听爷爷讲过，那时候沂蒙工人不分昼夜造枪炮、修铁路，用肩膀扛起支援前线的重任，这就是‘水乳交融、生死与共’的沂蒙精神啊！”&lt;/p&gt;&lt;p&gt;　　在馆内，人们随着空间流转，时而陷入工人夜校的场景回忆，时而流连纺织车间的老文物，时而被声光电特效震撼。在二楼沂蒙民歌博物馆，参观人群随着《跟着共产党走》《沂蒙山小调》等红色曲调，开展实景演唱，甚至还有互动点唱环节，气氛热烈。&lt;/p&gt;&lt;p&gt;　　“沂蒙精神与工运事业相生相伴、交织融合。”临沂市总工会宣传教育部部长刘清华说，“我们以红色工运史展览馆为阵地，把工运历史与沂蒙精神深度融合，现在已经成为省内外工会交流、党性教育、职工研学的‘红色打卡地’。”&lt;/p&gt;&lt;p&gt;　　现在，馆内“重温工运历史·弘扬沂蒙精神”主题活动实现常态化，展馆被纳入全市干部培训、主题党日、职工研学线路，与18处沂蒙党性教育基地、58处爱国主义教育基地连点成线、协同发力。&lt;/p&gt;&lt;p&gt;　　“既要迎进来，也要走出去，我们依托展馆资源，创立了‘沂蒙职工大讲堂’‘劳模工匠宣讲团’等品牌，邀请党史专家、工运研究者、劳模工匠，走进展馆、走进企业、走进基层，把工运故事、劳模精神、沂蒙精神送到职工身边。”&lt;/p&gt;&lt;p&gt;　　为了让爱国主义教育“活起来”，临沂市总工会以馆为媒，突出“沂蒙红”主题，构建起“沉浸式参观、分众化讲解、常态化宣讲、品牌化活动”四位一体教育体系，让红色基因融入血脉、代代相传。&lt;/p&gt;&lt;p&gt;　　除了团体参观，越来越多的市民自发走进展馆。有一位退休老工人在“工人建设临沂”展区停留，看着当年工厂建设、城市发展的照片，一遍遍向身边人讲述：“我年轻时就在纺织厂工作，那时候大家干劲十足，不怕苦不怕累。临沂从小县城变成大城市，都是我们工人一砖一瓦建起来的！”言语间，满是自豪与深情。&lt;/p&gt;&lt;p&gt;　　现在，从天真孩童到白发老人，从党员干部到劳模工匠，不同的群体、不同的年龄，都在这座红色展馆里收获着同样的感动与力量。&lt;/p&gt;&lt;p&gt;　　红色工运史展览馆开馆以来，累计开展红色宣讲500余场次，接待各类参观团体超3万人次，服务职工群众数万人次。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王  沛&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 山东省临沂市工人文化宫红色工运史展览馆—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154456&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154456.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154456.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 重温工运历史  弘扬沂蒙精神 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154456.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 本版责编：孟  扬  唐中科  梁泽谕</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154457.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：孟  扬  唐中科  梁泽谕 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：张丹峰 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154457&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154457.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154457.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：孟  扬  唐中科  梁泽谕 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154457.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：广告] 致敬每一位辛勤付出的奋斗者</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154458.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 致敬每一位辛勤付出的奋斗者 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/84aef93f-f0cd-466d-a27c-cd6ded242b78.jpg.2" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154458&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154458.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154458.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 致敬每一位辛勤付出的奋斗者 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154458.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 大地赞歌·扎根</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154459.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 大地赞歌·扎根 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154459&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154459.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154459.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 大地赞歌·扎根 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154459.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 让劳动者创作蔚为大观</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154460.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 让劳动者创作蔚为大观 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张慧瑜&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　从古至今，劳动者是物质生产和精神创造的重要主体，劳动的声音和文字贯穿人类文明进程。《诗经》中的“风”来自大地，那些描摹农事、狩猎、劳作的篇章是先民生活的生动注脚。插秧号子、打谷号子、船工号子、矿工号子，这些劳动号子穿越时空，吼出了拼搏的意志与豪情。劳动者创作也是中国现当代文学的重要组成部分。1936年5月21日，茅盾、邹韬奋发起《中国的一日》征文活动，小职员、工人、农民、教师、士兵等普通人以“一日体”展现抗战时期的工作与生活。1936年8月发起的红军战士写长征故事征文活动中，没有受过专业文学训练的战士用真挚的情感、直白的文字记录下长征路上的艰难险阻，为红色历史留下珍贵的见证。&lt;/p&gt;&lt;p&gt;　　近些年，借助互联网和新媒体，“人人都是创作者”得以实现，新大众文艺群体蓬勃兴起。无论是流水线上的工人、飞驰在路上的外卖员，还是家政女工、返乡新农人，他们一边在各行各业躬身劳作，一边以非虚构、诗歌、网络文学等方式进行文化生产。他们将日常劳动中的所见所感转化为文字，创造热情高涨，作品风格鲜明，以其真实、质朴、亲切、感人，赢得读者的共鸣共情。&lt;/p&gt;&lt;p&gt;　　这些劳动者创作不仅仅是记录生活，还蕴含着多重价值。一方面，它们彰显着劳动者的主体觉醒。从物质生产到文化创造，自主的创作行为给劳动者带来了精神上的自信、愉悦，创作对许多人而言像是“大声说我存在”。他们用文字回望自己的劳作历程，对认真生活、努力劳动的价值产生深刻认同，看到了平凡人生也有值得喝彩的光芒，从而能以更雄健的姿态迎向工作与生活的挑战。&lt;/p&gt;&lt;p&gt;　　另一方面，“写劳动”展现了劳动过程和职业生态，有助于增进读者对不同工作的了解与包容，对社会生活有更全面准确的认识。这些作品用文字打开了解不同职业的窗口，让人们看见那些被忽视的劳动身影，读懂不同职业的价值。我们习惯了外卖的便捷、街道的整洁、文物的璀璨，却很少关注背后的劳动付出。通过阅读劳动主题图书，可以走进不同的职业场景，体会不同劳动者的苦与乐，认识到每一份劳动都值得尊重，每一位劳动者都值得敬畏，凝聚起“尊重劳动、热爱劳动、崇尚劳动”的社会共识。&lt;/p&gt;&lt;p&gt;　　在来自各行各业的写作者身上，还能突出地感受到读与写的良性互动。在写作之前，他们无一例外地都首先是阅读者，从书籍中汲取力量，在阅读中产生书写的勇气，最终完成从“读者”到“作者”的转变。在推动全民阅读、建设书香社会的当下，他们的故事是阅读滋养人生、阅读改变人生的生动例证，是物质文明和精神文明相协调的现实写照。他们的创作与发表，必然给更多平凡劳动者带去激励力量。&lt;/p&gt;&lt;p&gt;　　一个崇尚劳动、尊重劳动的社会，才能托举梦想、创造幸福。期待更多基层劳动者拿起笔，书写丰富多彩的劳动故事，也期待更多平台大力支持，让这些充满烟火气、力量感的文字成为歌颂劳动者的“大地赞歌”，让劳动精神与书香气息一同浸润人心，推动全民阅读与劳动者创作共同成长。&lt;/p&gt;&lt;p&gt;　　（作者为北京大学新闻与传播学院研究员） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;张慧瑜&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154460&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154460.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154460.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 让劳动者创作蔚为大观 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154460.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 把工匠精神写进时代文脉</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154461.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 把工匠精神写进时代文脉 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ​——评“大国工匠人物传”系列丛书 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							王翠艳&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　“大国工匠人物传”系列丛书：中国工人出版社出版。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/f4ecbcc3-769e-4b1c-9926-2ee5a49a705d.jpg.2" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　《周礼·考工记》云：“知者创物，巧者述之，守之世，谓之工。百工之事，皆圣人之作也。”5000多年中华文明史，无数能工巧匠创造了辉煌灿烂的物质文明，也以技近乎道的技艺与追求，凝结为我们民族的一抹精神底色。&lt;/p&gt;&lt;p&gt;　　中华全国总工会宣传教育部、中国报告文学学会、中国工人出版社联袂推出的“大国工匠人物传”系列丛书，聚焦近年来国家重大工程、高端制造、技艺传承领域涌现出的优秀工匠，以细腻笔触还原他们从普通技工到行业翘楚的成长轨迹。这48部传记，既是48位“大国工匠年度人物”的个人奋斗史，更是“中国制造”迈向“中国智造”的生动写照。&lt;/p&gt;&lt;p&gt;　　85后彭菲，从湘北山村一路闯入高新技术最前沿，成长为一名算法工程师。面对狂飙突进的技术更迭，她没有陷入焦虑，在认准了的赛道上心无旁骛地“做好自己的事”，拥有17项发明专利，让中国人自主研发的生物识别技术畅销全球。她的故事所彰显的，是一种韧劲——技术浪潮一波又一波，更需要保持定力。&lt;/p&gt;&lt;p&gt;　　为火箭焊接“心脏”的高凤林，四十余载奋斗在高温炙烤的焊接一线，在0.16毫米的焊点缝隙精雕细琢。凭借一柄焊枪、一身绝技，将普通的焊工岗位，打造为守护大国重器的坚实屏障。数十年如一日的执着与坚守，生动诠释了匠心的厚重——最精微的尺度里，蕴藏着深沉的家国情怀。&lt;/p&gt;&lt;p&gt;　　还有国产大飞机“血管神经系统”建造师周琦炜，给机器人当“师父”的成卫东，与时间赛跑的“壁画医生”李云鹤……他们行业不同、岗位各异，但共同诠释了工匠精神的内涵：执着专注、精益求精、一丝不苟、追求卓越。他们以各自的方式证明：在这个飞速发展的数智时代，工匠精神从未过时，它是传统行业赓续发展的根基，也是高新产业开拓创新的力量。&lt;/p&gt;&lt;p&gt;　　丛书的可贵之处，在于没有将大国工匠塑造成不食人间烟火的“超级英雄”，而是以平视的视角与生动的细节，还原他们作为普通人的喜怒哀乐。翻开书页，我们可以听见彭菲带领团队通宵达旦攻关成功的欢笑，也可以看见高凤林额头上焊渣飞溅留下的疤痕。从这一意义上说，丛书中的劳动之美、奋斗之美化作生动具体的故事，汇聚成一部细腻精微的劳动者史诗，为新时代文化建设注入了匠心匠魂。&lt;/p&gt;&lt;p&gt;　　当大国工匠的故事被书写、被传播、被铭记，他们所承载的工匠精神，便成为可触摸、可学习、可传承的鲜活存在。匠心立、匠魂铸，民族复兴之路定会更加坚实、更加辽阔。&lt;/p&gt;&lt;p&gt;　　（作者为中国劳动关系学院文化传播学院院长、教授）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;王翠艳&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ​——评“大国工匠人物传”系列丛书 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154461&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154461.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154461.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 把工匠精神写进时代文脉 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154461.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 在“慢工”里守护文明</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154463.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 在“慢工”里守护文明 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张珮琛&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　《文物医生：当国宝遇见非遗与科技》：戴维康、张珮琛著；中信出版社出版。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/03e9601b-10a1-4f38-b282-09c5954c3c9b.jpg.2" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　在许多人眼中，文物修复师是让残缺重归完整的工匠。但其实，我们更像“医生”——不是让器物焕然一新，而是在最小干预与科学判断中，延续真实的历史。与同事戴维康合著《文物医生：当国宝遇见非遗与科技》，正是这一理念的延伸：以通俗易懂的方式讲述文物修复故事，让更多人理解文物保护的真实逻辑。从青铜器到陶瓷，从出土现场到修复实验室，书中以10个真实案例为线索，讲述文物“重生”的故事，其中既有传统匠心的温度，也有现代科技的力量。&lt;/p&gt;&lt;p&gt;　　文物修复，是一项与时间对话的工作。入行30余年，修复的文物已逾千件，令我印象最深的，却是年轻时独立完成修复的一件青铜器：商晚期兽面纹高足盘。面对它的严重破损、变形，我几乎“慢”到了极致：反复观察、反复推敲，甚至一天都不动手。因为每一步都要想清楚，这样做是否最合适，是否可逆，是否会影响未来保存。这种慢，是执着专注，也是责任。&lt;/p&gt;&lt;p&gt;　　实验室中的修复需要耐心，考古现场则更考验判断与应变能力。2023年，我带领上海博物馆文物修复团队，参与三星堆祭祀区出土文物的保护修复工作。8号坑中，一件带有金面罩的青铜头像出土时，颈部布满裂隙，面罩严重变形，耳部甚至被挤压到原来面积的1/8，操作稍有不慎，便会造成不可逆损伤。如何在“脆弱”与“修复”之间取得平衡？我们在显微观察与经验判断的结合下，逐步清理附着物、释放应力，使变形部位缓慢复位。最终，耳部展开、彩绘得以保留。这一过程，没有惊心动魄的戏剧张力，却充满专业判断的细微博弈。&lt;/p&gt;&lt;p&gt;　　今天的文物修复，已不是单纯依赖手艺的行业。CT扫描、X射线、三维建模、材料分析……这些技术，让修复师能够“看见”器物内部结构，理解其损伤机理，制订更科学的修复方案。科技的意义，并不是替代手艺，而是扩展认知。它解决的是“看得更深、判断得更准”，而最终如何处理，仍然需要经验与研判。这种“科技+手艺”的协同，正在改变文物修复的方式，也在推动这一领域从经验型向科学化、规范化转型。&lt;/p&gt;&lt;p&gt;　　在快节奏的时代，文物修复显得格外“慢”，但正是这种慢，构成了它的独特价值。一件文物，可能历经千年风雨，修复师所做的，是在短暂的人生中，为历史争取更长的未来。从《礼记》中“工师”的古老记载，到今天融合科技与伦理的现代修复理念，这一职业完成了从“造器”到“护器”的延伸。而不变的，是对技艺的敬畏，对责任的坚守。&lt;/p&gt;&lt;p&gt;　　文物不会说话，但修复师能让它们继续“讲述”历史。那些安静的工作台上，一次次细微的处理，正悄然延续着文明的记忆。&lt;/p&gt;&lt;p&gt;　　（作者为上海博物馆研究馆员、国家级非遗“青铜器修复及复制技艺”代表性传承人）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;张珮琛&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154463&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154463.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154463.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 在“慢工”里守护文明 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154463.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 诗是汗水中收获的礼物</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154462.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 诗是汗水中收获的礼物 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							曹  兵&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　诗歌是什么？&lt;/p&gt;&lt;p&gt;　　我沿着前人的足迹&lt;/p&gt;&lt;p&gt;　　寻找蛛丝马迹&lt;/p&gt;&lt;p&gt;　　伟大的诗人，都有自己的答案&lt;/p&gt;&lt;p&gt;　　没有重复，如同戒律&lt;/p&gt;&lt;p&gt;　　有时候是呐喊，有时候是告诫&lt;/p&gt;&lt;p&gt;　　有时候，是黑暗中递出的灯&lt;/p&gt;&lt;p&gt;　　我没有问过自己，我不承认&lt;/p&gt;&lt;p&gt;　　——我是诗人&lt;/p&gt;&lt;p&gt;　　我看见无数的田地生长&lt;/p&gt;&lt;p&gt;　　同一种庄稼，它们从不整齐划一&lt;/p&gt;&lt;p&gt;　　只有极少数例外&lt;/p&gt;&lt;p&gt;　　写诗，也只是在重复另一种庄稼&lt;/p&gt;&lt;p&gt;　　我这样对自己说&lt;/p&gt;&lt;p&gt;　　我只敢这样对自己说&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　人和土地的关系，是我写作的开端。这一点，由我农民的身份决定。农民和土地的关系血浓于水，提起笔，我没有理由不望向这片土地。&lt;/p&gt;&lt;p&gt;　　我生活在西海固，从宁夏回族自治区到固原市，再到彭阳县，进一步到交岔乡到关口村，最后来到一个更小的名字——麦地岔。它小到不会出现在地图和导航上，但麦地岔就是我写作的坐标。&lt;/p&gt;&lt;p&gt;　　我在工地干过，在陕北做了好几年采油工，也摆过地摊，近些年回到麦地岔务农。我种了二三十亩地，以玉米为主。玉米也是我很多首诗的主角。这并不奇怪，从播种、出苗到收获，哪一株玉米叶片上没有我的汗水？天长地久的相伴，使得玉米不再只是单纯的玉米，透过清晨玉米叶片上的露珠，我能看到另一个世界。&lt;/p&gt;&lt;p&gt;　　在写诗之前，我读过不少中外名诗。爱尔兰诗人希尼的《挖掘》一诗，给我留下深刻印象。铁锹掘土，拔起茎叶，翻拾新土豆，简单的劳作场景，平常的动作，却被他写出了跌宕起伏。没有切身体会是很难做到的。诗歌来自生活，只有扎到生活深处，才有可能写出深入人心的好诗。&lt;/p&gt;&lt;p&gt;　　白天劳作，夜晚写作，这是我的日常生活。正如出版的诗集名《我在田野等风吹过》，我的诗歌以乡村题材为主，写风，写沙尘，写春分、谷雨、立夏、芒种，写泥泞中打捞出的诗意。它们几乎都与劳动有关。麦田里的割麦人，打谷场上接近月亮的麦垛，大雨来临之前的相互叮嘱，这些细微的不起眼的场景构成了我的诗。我记住了其中的每个细节，不用虚构，不用杜撰，那些细小的动作中藏着这片土地最熟悉的味道。&lt;/p&gt;&lt;p&gt;　　曾有段时间，我想抛开土地和土地上的人们，去寻找更大的诗歌天地。也许靠技术同样可以支撑起文本，但这时候，诗歌像离开大地的风筝，轻飘飘的。这样的实验写作持续了一段时间之后，现实告诉我，一个劳动者离开土地，无异于鱼离开了水，再华丽的诗句都面临着枯竭，这样的写作，又有什么意义？&lt;/p&gt;&lt;p&gt;　　在火热的劳作现场，诗自然而然地生成，它们是我在汗水中收获的礼物。我永远珍视它们，像珍视每一次丰收。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;曹  兵&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154462&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154462.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154462.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 诗是汗水中收获的礼物 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154462.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 写下平凡人的追梦历程</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154464.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 写下平凡人的追梦历程 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							李文丽&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/a7a87213-a328-43ff-9913-23fd64e16225.jpg.2" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　《我在北京做家政》：李文丽著；读者出版社出版。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/a7a87213-a328-43ff-9913-23fd64e16225.jpg.2" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　今年3月25日，我在北京参加中国作协“作家朋友  欢迎回家——作家活动周”，接过红艳艳的证书，看到上面烫金的“中国现代文学馆入藏证书”大字时，眼泪夺眶而出。我的纪实文学作品《我在北京做家政》，被中国现代文学馆永久收藏了！&lt;/p&gt;&lt;p&gt;　　那一刻，无数面孔与场景在眼前浮现。&lt;/p&gt;&lt;p&gt;　　那是9年前，刚来北京时的我内心迷茫，对自己没有信心。那是最初接触家政工作的日子，辛苦劳累，吃喝拉撒的琐碎填满每一天。那是我照看过的孩子，从咿呀学语到说出完整句子，从翻身攀爬到坐稳走路，时光在不经意间过去，与他们相处，快乐总是多于疲惫。那是与我一样双手粗糙的家政姐妹们，无人的时候或许会偷偷抹泪，可在人前，展现出的永远是乐观与积极……&lt;/p&gt;&lt;p&gt;　　在忙碌的工作打拼之余，我又一次捧起了年少时曾经喜欢过的书本，久违的词句带给我慰藉，让我学会重新审视并反思自己，重新打量和观察身边的人和事。留心记，学着写，慢慢改，我很庆幸，在50多岁的年纪，终于可以用文字，把生命里走过的路，坎坷的、平坦的、几乎坠落又被拉回的都一一写下来，画下来。&lt;/p&gt;&lt;p&gt;　　这本《我在北京做家政》里的“我”，不单是我自己，而是千千万万个和我一样，被生活推着从南走向北，再从北走到南，用双脚把城市和乡村来回丈量的农村女性。她们从小到大，在命运赋予的身份间不停地转换、适应，却从不抱怨和消沉。我用笨拙朴实的语言记下的，就是发生在普通人身上的，平凡而又认真地对待生活、追求梦想的一段痕迹。&lt;/p&gt;&lt;p&gt;　　书出版以后，很多朋友的反馈是“真诚、质朴、感动”。和我年纪相仿、在城市务工的读者对我说：“你写出了我们自己的故事，说出了我们想说的话，做出了我们想做而做不到的事情。”那一刻，我想到了感动过我的人。王计兵、范雨素、陈慧、田鼠大婶，他们都是一边淳朴善良、踏实认真地生活，一边用手中的笔在写作，深深地激励着我。&lt;/p&gt;&lt;p&gt;　　我把书拿给母亲看，告诉她这是我写的书。母亲先是疑惑，再是惊讶，把书翻来覆去地摸。当我念完写她的那篇文章时，她握住我的手，刚说了一句“我娃……”，泪水已经滚烫地滴落在我手背。后来，她让我推轮椅出门，一改往日的沉默寡言，逢人便递上书让他们看：“这是我女子写的，我女子成作家了！”&lt;/p&gt;&lt;p&gt;　　我深知，“作家”这两个字对我而言，像一顶不合头的帽子，戴着既沉重又别扭。我仍像刚学步的娃娃，在写作这片广阔的天地里，歪歪扭扭地摸索前行。什么时候，我能把故乡的淳朴民风、厚重历史、山水变迁，还有这些年来穿梭于城乡之间那些值得回味的点滴，都写下来、画下来，让它们被更多人看见、记住，那才是我对“作家”身份最好的回馈。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;李文丽&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154464&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154464.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154464.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 写下平凡人的追梦历程 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154464.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 讲述先行者破局突围的故事</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154465.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 讲述先行者破局突围的故事 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							匪  迦&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/4a2b3948-bf1c-48fe-ac2b-4ca332efa1a1.jpg.2" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　《垂直起飞》：匪迦著；春风文艺出版社出版。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202605/01/4a2b3948-bf1c-48fe-ac2b-4ca332efa1a1.jpg.2" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　从学生时代开始，我就有特别强烈的写作愿望。毕业后，一直从事航空航天领域工作，还有幸参与一些国家级重大项目和国际合作项目，各种鲜活的体验与感受，如同火山爆发般涌动。我将它们诉诸文字，又通过网络这个开放包容的平台呈现出来。&lt;/p&gt;&lt;p&gt;　　2024年，写完《北斗星辰》《关键路径》，已是我与朋友们创业的第三个年头。在这一过程中，深度接触了刚刚兴起的低空经济产业链，还有一个个真实而鲜活的创业者。恰逢低空经济作为新质生产力代表，被写入当年的《政府工作报告》，内心深处那只创作的“猛兽”便又不安分起来——干脆写写低空经济领域的创业故事吧！于是，就有了小说《垂直起飞》。&lt;/p&gt;&lt;p&gt;　　搭建主线和事件并不难，因为是我自己的所闻所见，稍有困扰的是人物。怎样让人物具有典型性，又尽可能降低读者的阅读门槛？我在产业链上选择了截然不同的4个典型，3名创业者，1名监管方的专家。孙秦是从我国大飞机体系里出来的“学院派”设计师；袁之梁来自汽车产业——我国低空经济的“玩家”里，不少都来自这一行业；刘动是“海归”创业者，从美国学习了先进的飞行控制技术，在国内的土壤落地。而民航部门的巩清丽，则体现出政府对低空经济的科学态度：既要与工业部门紧密配合，支持其蓬勃发展，又要守住适航和安全的底线。&lt;/p&gt;&lt;p&gt;　　作为小说，要有情节、矛盾、冲突，作为科技题材小说，还得避免读者觉得离自己太远。这让我想到，人们在讨论低空经济时，经常会发出的一个疑问：低空经济飞行器，到底是飞机还是汽车？事实上，过去几年，出身航空业的“孙秦”们和来自汽车行业的“袁之梁”们，一直在争论这个问题，它顺理成章地构成了小说的主要矛盾。在这个大的矛盾之下，我又设置了很多小的矛盾，比如研制进度与适航要求的矛盾，不同技术路线之间的矛盾，更遑论创业者天然要面临的“心比天高”与“命比纸薄”的矛盾……&lt;/p&gt;&lt;p&gt;　　因为贴着现实走，这部小说虽然刚写起来有点卡顿，但很快便越来越顺畅，3个月之内完成连载，几乎同时授权给出版社。两年前，刚开始创作的时候，我还只是一个低空经济的观察者，两年间，自己也躬身入局，开始研制航空器。当初小说里写下的故事，似乎也在我自己的创业道路上发生着，让我产生了一种身处莫比乌斯环的奇妙感觉。&lt;/p&gt;&lt;p&gt;　　我想，这就是写作需要扎根生活的意义。在时代浪潮里，像低空经济一样的新鲜事还有很多，它们是创作的蓝海，更是我们拿起笔、敲起键盘的底气。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;匪  迦&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154465&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154465.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154465.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 讲述先行者破局突围的故事 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154465.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 本版责编：任飞帆</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154466.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：任飞帆 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年05月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+&lt;style&gt;&#13;
+							.attachment {&#13;
+								margin-top: 20px;&#13;
+								text-align: center;&#13;
+							}&#13;
+							.attachment img{&#13;
+								margin:0 auto;&#13;
+							}&#13;
+							.attachment .att-content{&#13;
+								text-align:justify;&#13;
+								line-height: 140%;&#13;
+								width:90%;&#13;
+								font-size: 14px;&#13;
+								width:400px;&#13;
+								margin:10px auto 15px auto;&#13;
+							}&#13;
+						&lt;/style&gt;
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本版邮箱 dushu@peopledaily.cn&lt;/p&gt;&lt;p&gt;　　版式设计：赵偲汝 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-05-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30154466&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154466.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202605/01/content_30154466.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：任飞帆 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202605/01/content_30154466.html</guid>
+      <pubDate>Fri, 01 May 2026 07:15:42 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
