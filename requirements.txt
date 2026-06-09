@@ -2,3 +2,4 @@ requests
 beautifulsoup4
 feedgen
 pytz
+aiohttp
