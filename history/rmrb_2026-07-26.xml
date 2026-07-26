@@ -1,0 +1,1046 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 25 Jul 2026 23:24:58 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 让全社会创业创新环境更优（总书记的关切·落地的回响）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170972.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 让全社会创业创新环境更优（总书记的关切·落地的回响） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王  洲  陈世涵&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“要积极融入全国统一大市场建设，坚决破除地方保护、市场分割、‘内卷式’竞争，为全社会创业创新营造稳定公平透明、可预期的环境。”&lt;/p&gt;&lt;p&gt;　　——2025年3月，习近平总书记在贵州考察时强调&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　“就凭这一条新生产线，今年钛白粉产量预计新增5万吨。”7月上旬，贵州省黔南高新技术产业开发区，看到三期钛白粉项目试生产进入优化工艺阶段，贵州胜威福全化工有限公司技术中心总经理李海艳振奋不已，“从项目建设、设备调试到试车阶段，政府全力保障。针对企业异地资质认定等痛点，当地建立了跨区域协办机制，两小时内就帮助办完关键手续。”&lt;/p&gt;&lt;p&gt;　　位于贵阳贵安的国家大数据（贵州）综合试验区核心区，来自各地的海量数据汇聚、流转。“立足西南山区，满足各地新型工业化等算力需求，更好服务国家‘东数西算’工程。”贵阳市大数据发展管理局局长张雪蓉说。&lt;/p&gt;&lt;p&gt;　　从地上到云端，场景里见举措、显成效。建设全国统一大市场，贵州蹄疾步稳。&lt;/p&gt;&lt;p&gt;　　2025年3月，习近平总书记在贵州考察时强调：“要积极融入全国统一大市场建设，坚决破除地方保护、市场分割、‘内卷式’竞争，为全社会创业创新营造稳定公平透明、可预期的环境。”&lt;/p&gt;&lt;p&gt;　　寄望一地，习近平总书记心怀全局。14亿多人口，近2亿户经营主体……超大规模且极具增长潜力的市场，是我国发展的巨大优势和应对变局的坚实依托。“十五五”规划纲要专章谋划“纵深推进全国统一大市场建设”。&lt;/p&gt;&lt;p&gt;　　如何建设全国统一大市场？习近平总书记提出“五统一、一开放”的基本要求。牢记嘱托，各地区各部门“干”字当头。&lt;/p&gt;&lt;p&gt;　　市场基础制度、政府行为尺度更加统一，公平竞争更有保障——&lt;/p&gt;&lt;p&gt;　　看顶层设计，去年发布的《市场准入负面清单（2025年版）》中，清单事项从2018年首版的151项缩至106项，放宽限制让更多经营主体进得来；今年，“制定全国统一大市场建设条例”写入《政府工作报告》，公平竞争市场环境更可预期。&lt;/p&gt;&lt;p&gt;　　看地方落实，山东将“市场壁垒清零”纳入地市考核，江西把公平竞争审查纳入法治政府建设考核指标……树立和践行正确政绩观，多地以考核“指挥棒”为市场破壁清障。&lt;/p&gt;&lt;p&gt;　　市场基础设施高标准联通，要素动起来、活起来——&lt;/p&gt;&lt;p&gt;　　畅通货物流转，打通经济循环。“十四五”时期，港口集装箱铁水联运量年均增长15%左右。长三角等“有条件的地区”当好“试验田”，扎实开展区域市场一体化建设。&lt;/p&gt;&lt;p&gt;　　“现在长三角国际贸易监管模式实现通关流程统一、物流信息共享、电子证照互认，货物周转时间相比传统模式缩短30%以上。”浙江宁波世贸通国际贸易公司跨境业务总监谢亮感慨。&lt;/p&gt;&lt;p&gt;　　提速人才流动，托举市场向优。研发部门设在上海，科研人员本地聘用……长三角G60科创走廊沿线多个城市，已在上海松江设立产业协同创新中心，集合优质生产要素，激发创新创造活力。&lt;/p&gt;&lt;p&gt;　　维护公平竞争，整治“内卷式”竞争，为实现高质量发展清障——&lt;/p&gt;&lt;p&gt;　　约谈主要平台企业下架“全网最低价”活动；对7家电商平台“幽灵外卖”罚款35.97亿元；依法对携程实施垄断行为作出行政处罚……护公平、破“内卷”，政府部门出实招。同时，不卷价格、竞逐价值，越来越多经营主体形成自觉。&lt;/p&gt;&lt;p&gt;　　北京密云，北汽新能源享界超级工厂车间。线束装配状态靠人工智能分析，0.05毫米精度评估整车间隙面差靠机器人实现。向科技创新要竞争力，北汽集团今年上半年自主品牌销量同比增长14.2%。&lt;/p&gt;&lt;p&gt;　　建设全国统一大市场，持续扩大对内对外开放，也是赢得国际竞争主动权的需要。&lt;/p&gt;&lt;p&gt;　　京津冀加快建设世界级机场群和港口群，粤港澳大湾区推进跨境信用报告标准互认，2025年全国新设立外商投资企业同比增长19.1%……立足自身、面向全球、充分开放、互利互惠，在国内国际两个市场两种资源联动效应中赢得竞争主动。&lt;/p&gt;&lt;p&gt;　　“投资中国就是投资未来”，从两个数据中窥斑见豹：海南自贸港封关后首届消博会，参展国际展品占比较上届提升20%；封关以来至今年5月底，海南企业货物贸易进出口同比增长54.6%。&lt;/p&gt;&lt;p&gt;　　“四梁八柱”基本建立，社会共识显著增强，全国统一大市场建设取得阶段性成效。这是一场攻坚战、持久战。“十五五”规划纲要锚定方向：“坚决破除阻碍全国统一大市场建设卡点堵点，破除地方保护和市场分割，促进商品要素资源在更大范围内顺畅流动。”&lt;/p&gt;&lt;p&gt;　　攀登之路在脚下，要登绝顶莫辞劳。&lt;/p&gt;&lt;p&gt;　　（本报记者苏滨、窦瀚洋参与采写） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王  洲  陈世涵&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170972&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170972.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170972.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 让全社会创业创新环境更优（总书记的关切·落地的回响） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170972.html#[01版：要闻] 让全社会创业创新环境更优（总书记的关切·落地的回响）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 千年窑火  辉映世界</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170973.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; “景德镇手工瓷业遗存”成为首个“瓷”主题世界遗产 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 千年窑火  辉映世界 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王  珏  何思琦&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　瓷，脱胎于泥、淬炼于火，历经72道工序烧制而成。景德镇，因瓷而生、因瓷而兴，以一炉窑火铸就千年瓷都。&lt;/p&gt;&lt;p&gt;　　2023年10月，习近平总书记在江西景德镇考察调研时指出：“中华优秀传统文化自古至今从未断流，陶瓷是中华瑰宝，是中华文明的重要名片。”&lt;/p&gt;&lt;p&gt;　　今年7月25日，在韩国釜山召开的联合国教科文组织第四十八届世界遗产大会上，“景德镇手工瓷业遗存”成功列入《世界遗产名录》，填补《世界遗产名录》中“瓷”主题的空白，成为中国第六十一项世界遗产。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;一炉窑火，映照景德镇瓷业绵延&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　站在御窑厂遗址龙珠阁上极目远眺，夏日的风裹着昌江水的气息扑面而来。目光所及，昌江如一条碧色丝带穿城而过。远处，东河、南河、建溪河3条支流，在阳光下泛着细碎的银光。一江三河，串联起景德镇“一镇四区”——镇区瓷业生产中心、湖田古瓷窑址、高岭瓷土矿遗址、长岭瓷石矿遗址和蛟潭窑柴燃料产区，将“景德镇手工瓷业遗存”连接为一个整体，更贯穿起千年瓷业的发展历程。&lt;/p&gt;&lt;p&gt;　　成功申遗的“景德镇手工瓷业遗存”，全面覆盖原料产地、燃料产地、生产中心、运输系统各关键环节代表性遗存。完整的产业分工体系，展现了景德镇手工瓷业的演进脉络。&lt;/p&gt;&lt;p&gt;　　“这是全球首个以手工瓷业全产业链生产体系为核心属性的世界文化遗产。”国家文物局世界文化遗产司司长邓超说，五大片区的组合结构，见证了高度集约化、精细化、专业化的产业分工，完整解答了景德镇千年瓷业长盛不衰、成为全球制瓷中心的原因。&lt;/p&gt;&lt;p&gt;　　“镇、窑、土、石、柴”5个字，勾勒出“景德镇手工瓷业遗存”的骨架。&lt;/p&gt;&lt;p&gt;　　掘石千嶂，采土万脉。“土”，是高岭土；“石”，是瓷石、釉果；“柴”，是窑柴。这三样，取之于山野，行之以水路，从周边乡村源源不断地运往镇区——完备的制瓷体系，离不开这样一套完整而高效的原料、燃料供应链。人们借此方式，完成了低成本、规模化、标准化的开发与运输，这是千百年前就深植于民间的卓越智慧。&lt;/p&gt;&lt;p&gt;　　大午坑瓷石明矿遗址上，一块巨大石梁横卧山间，见证着当年大规模的人工开采；“高岭”，这个以中国地名命名的国际矿物学专用术语，背后是一种改变历史的原料，正是高岭土的发现和应用，让混合使用瓷石与高岭土的“二元配方”技术落地成熟；来自蛟潭的窑柴，则借水势顺流而下，在镇区化作一个个窑炉中的炉火。“这其实是以当时的手工业城镇为中心，整合周边乡村乡野的一种生产体系。”景德镇申报项目文本编制团队负责人魏青说，“景德镇手工瓷业延续了1000余年，超越了传统手工业的生命周期，形成了‘制瓷技术、瓷器艺术体系’和‘制瓷产业体系’两条发展路径，造就了景德镇在全球的广泛影响和市场竞争力。”&lt;/p&gt;&lt;p&gt;　　“窑”，在湖田窑，这里曾见证了中国南北制瓷技术的融合。从龙窑、马蹄窑到葫芦窑，再到镇窑，一个个窑炉遗迹让人们仿佛看到“家家窑火，户户陶埏”的千年遗韵。&lt;/p&gt;&lt;p&gt;　　“高温窑炉本身就是一种技术革命，它使瓷器烧制成为可能，令瓷器成为‘泥与火的艺术’。”故宫博物院研究馆员王光尧说，正是在这样的窑火中，稳定烧成的青白瓷，为景德镇发展成为中国瓷器生产中心奠定了基础。&lt;/p&gt;&lt;p&gt;　　“镇”，即指镇区瓷业生产中心，御窑厂窑址、落马桥窑址、观音阁窑址等考古遗址，连同民窑窑房、作坊建筑、古道、河道、码头等，铺展出景德镇“匠从八方来，器成天下走”的繁盛景象。在这里，“二元配方”技术从萌芽走向成熟，让中国手工制瓷技术完成关键飞跃，也把景德镇推上了世界瓷业的巅峰。&lt;/p&gt;&lt;p&gt;　　“景德镇青花瓷作为中华文化传播的重要载体、东方艺术的重要符号，是17至18世纪风靡欧洲的‘中国风’的重要组成部分，深刻影响了西方绘画、家具、建筑装饰等艺术领域，推动了中华文明、中华文化的全球化表达。”邓超说。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;十一载申遗，织就保护体系经纬&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　2015年，习近平总书记对御窑厂遗址保护工作作出重要批示，为推动以御窑厂遗址为核心的瓷业遗存和文化遗产保护指明方向。&lt;/p&gt;&lt;p&gt;　　如今，走进景德镇瓷业文化遗产保护中心的监测中心大厅，巨型电子大屏实时滚动全域遗产点位画面，古窑、古码头等遗存状态一目了然。正值汛期，监测到一处临水遗产段出现隐患，工作人员第一时间赶赴现场开展应急加固，守护文化遗产安全。&lt;/p&gt;&lt;p&gt;　　监测中心负责人徐冠翔介绍：“我们结合各类窑址、街巷的不同保存特性，搭建起‘专业巡查+公众巡检’立体化隐患排查体系，实现遗产点位巡查全覆盖。”&lt;/p&gt;&lt;p&gt;　　核心遗址的精细保护，是景德镇整体保护的关键一环。景德镇保护工作持续近半个世纪，申遗工作历时11年。2015年，申遗工作正式启动。2017年，御窑厂遗址列入《中国世界文化遗产预备名单》。2019年，景德镇获批设立国家陶瓷文化传承创新试验区。2025年，国际古迹遗址理事会专家开展现场技术评估。2026年，“景德镇手工瓷业遗存”成功列入《世界遗产名录》。&lt;/p&gt;&lt;p&gt;　　在保护的基础上，景德镇有序开放御窑厂窑址、观音阁窑址、高岭瓷土矿遗址、蛟潭窑柴燃料产区等多处关键遗产点位，打造开放式、可漫步、可触摸的活态遗产空间，打通考古遗址、非遗技艺、文旅体验融合通道。&lt;/p&gt;&lt;p&gt;　　陶阳十三里，烟火十万家。在景德镇陶阳里历史文化街区，108条千年里弄、400余年的明清窑作群、70余年的陶瓷工业遗产，勾勒出景德镇瓷业辉煌的发展史。在城市发展中，景德镇对该区域进行整体修缮，引入陶瓷手工制作、售卖、展示等业态。&lt;/p&gt;&lt;p&gt;　　在陶阳里徐家窑，省级非遗代表性传承人、孙公窑第四代传人孙立新手握素坯，将笔递给身旁的游客，请对方先添上一笔。随后他接过笔顺势勾勒起来，不过片刻，一匹骏马便从那一笔中生长出来，昂首扬蹄。&lt;/p&gt;&lt;p&gt;　　“景德镇的瓷器是所有工匠共同创造出来的，景德镇能发展到今天，一个重要原因就是不同工序的专业化分工。”孙立新饱含深情地说，一个人一辈子只做一件事，用几十年的光阴去打磨一道工序，技艺自然就有了筋骨和温度。&lt;/p&gt;&lt;p&gt;　　景德镇市委书记陈克龙说，以申遗为契机，景德镇将瓷业文化遗产保护、老城活化、申遗攻坚深度融合，构建法规、规划、机构三位一体的科学保护体系，打造“考古先行、保护筑基、展示赋能、活态传承”保护模式。&lt;/p&gt;&lt;p&gt;　　从高岭矿山到御窑遗址，从老城街巷到非遗技艺，景德镇打破碎片化保护的瓶颈，经过坚持不懈地深耕守护，覆盖全域、贯通古今、融合物质与非物质文化遗产的系统性保护体系已然成形。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;共建共享，守护活态瓷都文脉&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记指出，把“千年瓷都”这张靓丽的名片擦得更亮。&lt;/p&gt;&lt;p&gt;　　在落马桥窑址，一个MR（混合现实）体验项目让观众头戴设备行走于遗址现场，复原的窑址场景与工匠制作的流程就在眼前铺展，虚实交织，令人沉浸其中。“太真实了，仿佛亲眼见到当年壮观的手工制瓷场景，读懂了景德镇千年积淀的匠心底蕴。”来自江苏南京的中学生张琳感叹。&lt;/p&gt;&lt;p&gt;　　申遗期间，《景德镇手工瓷业遗存系列遗产保护管理规划（2025—2035年）》《景德镇市瓷业文化遗产保护条例》相继发布，以规划立法夯实保护的制度支撑。景德镇持续推动瓷业遗产保护从少数人的专业事变成多数人的身边事，走出一条民众共建、共享的遗产保护之路。&lt;/p&gt;&lt;p&gt;　　让千年瓷脉融入日常，这是景德镇的“生活范”。&lt;/p&gt;&lt;p&gt;　　在景德镇御窑厂国家考古遗址公园内，以传统柴窑为原型、用280万块窑砖砌筑而成的御窑博物馆，静静卧于地面。博物馆内，明宣德青花蟋蟀罐、明成化素三彩鸭形香薰等800余件展品琳琅满目。遗址保护棚下，观众俯身就能近乎零距离感知600余年御窑生产的原生地层。景德镇御窑博物院院长翁彦俊说：“我们依托古陶瓷基因库解码海量瓷片蕴含的文明密码，保留瓷都原料、生产、运输、生活的完整历史脉络，让观众更好感受千年瓷业文脉。”通过文化遗产原真性保护与大众化共享的双向赋能，文化遗产保护成果转化为市民、游客可感可及的获得感与幸福感。&lt;/p&gt;&lt;p&gt;　　以数字技术激活遗产，这是景德镇的“科技范”。&lt;/p&gt;&lt;p&gt;　　在各个遗址点，观众只需轻触手机扫一扫，登录“数字守艺人”小程序，便可一键导航探访瓷业遗址，在线参与巡检、反馈问题，从观光者变成守护者。“‘数字守艺人’公众巡检活动收集的有效记录将与专业监测数据互为补充，形成更为立体的遗产保护信息网络。”景德镇市瓷业文化遗产保护中心副主任周黎黎介绍。以系统性数字化保护为基础，景德镇构建起价值可持续、全民可参与的活态遗存保护体系。&lt;/p&gt;&lt;p&gt;　　让古老窑火薪火相传，这是景德镇的“青春范”。&lt;/p&gt;&lt;p&gt;　　近年来，景德镇持续吸引年轻力量，搭建多元传承平台，让青年走近遗产、读懂遗产、传承遗产。景德镇初二学生张孖玥去年通过选拔，成为“小小申遗讲解员”。“从‘官搭民烧’到克拉克瓷外销，每次讲解，就是一次对家乡历史的深度学习。”张孖玥说，我想当好新一代守窑人，让更多人走进景德镇，在老巷弄中感受瓷都的魅力。&lt;/p&gt;&lt;p&gt;　　以瓷为媒联通世界，这是景德镇的“国际范”。&lt;/p&gt;&lt;p&gt;　　今年5月，来自土耳其的陶瓷艺术家皮纳尔以特邀艺术家身份入驻景德镇陶溪川艺术中心。“来景德镇是我一直以来的梦想，这里是一个可以自由创造的地方。我结识了许多中国青年艺术家，感受到技术和灵感的迸发与碰撞。”皮纳尔说。如今，6万多名“景漂”及其中数千名“洋景漂”在景德镇扎根，延续着手工制瓷的古老传统，也在激荡着创新的活力。&lt;/p&gt;&lt;p&gt;　　文化和旅游部副部长、国家文物局局长饶权说：“在习近平文化思想指引下，景德镇手工瓷业不断加强系统性、整体性保护。下一步，我们将履行世界遗产公约责任义务，做好‘景德镇手工瓷业遗存’的永续保护与传承发展，持续提升中国世界文化遗产保护管理水平，把中华文化瑰宝守护好，让世界读懂中华文明。”&lt;/p&gt;&lt;p&gt;　　窑火不熄，文脉永续。景德镇正以申遗成功为新起点，让千年窑火照亮更远的未来。&lt;/p&gt;&lt;p&gt;　　（本报记者周欢参与采写）&lt;/p&gt;&lt;p&gt;　　（相关报道见第三、六、七版）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王  珏  何思琦&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; “景德镇手工瓷业遗存”成为首个“瓷”主题世界遗产 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170973&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170973.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170973.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 千年窑火  辉映世界 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170973.html#[01版：要闻] 千年窑火  辉映世界</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] “六张网”如何赋能现代化产业体系（读者点题·共同关注）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170974.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “六张网”如何赋能现代化产业体系（读者点题·共同关注） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李心萍&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　最近，很多人在讨论“六张网”。“六张网”跟传统的基础设施建设有什么不同？为什么要建设“六张网”，它与现代化产业体系是什么关系？&lt;/p&gt;&lt;p&gt;　　——人民网网友  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　回答这些问题，首先要弄清楚什么是现代化产业体系。&lt;/p&gt;&lt;p&gt;　　翻开“十五五”规划纲要，现代化产业体系包括传统产业、新兴产业和未来产业、服务业以及现代化基础设施体系。&lt;/p&gt;&lt;p&gt;　　步入人工智能时代，算力网与新一代通信网早就成了新的“水电煤”。所以，现在建设的现代化基础设施，已不是传统的修路修桥，而是与新质生产力同频共振的新型基础设施。&lt;/p&gt;&lt;p&gt;　　“六张网”由水网、新型电网、算力网、新一代通信网、城市地下管网以及物流网组成。它们正是现代化基础设施体系的核心载体，是现代化产业体系不可或缺的一部分。&lt;/p&gt;&lt;p&gt;　　如果把整个现代化产业体系比作一个顶天立地的巨人，传统产业、新兴产业和未来产业就是巨人的“筋骨”，“六张网”则是贯通全身的“脉络”。有了它们，要素才能自由流动，国内大循环与国内国际双循环才能真正畅通无阻。&lt;/p&gt;&lt;p&gt;　　这些“网”，究竟怎么给产业赋能呢？&lt;/p&gt;&lt;p&gt;　　到山东潍坊潍柴雷沃的“超级工厂”看看。在那里，看不见的5G—A网络指挥着近500台机器人精准共舞，实现毫秒级协同，每4分钟就有一台高端智能拖拉机下线；产线末端，人工智能质检员“火眼金睛”，可在毫秒间揪出毫米级瑕疵。&lt;/p&gt;&lt;p&gt;　　这正是“六张网”赋能传统产业的缩影。算力网与新一代通信网如同工业的“神经中枢”，赋予传统产线精准感知与智能决策的能力；新型电网，则让更多生产制造可以使用绿电，实现绿色转型。&lt;/p&gt;&lt;p&gt;　　对于新兴产业来说，“六张网”就像“腾飞的翅膀”。&lt;/p&gt;&lt;p&gt;　　就拿去年江苏南京江宁区开通的首条城市低空物流航线来说，以往无人机飞远了，容易因为基站切换而“迷路”，耽误时间，但依托6G无蜂窝技术，这条7.4公里的航线全程信号满格，无人机用时仅为地面汽车的一半。&lt;/p&gt;&lt;p&gt;　　这就是新一代通信网与物流网的深度协同，它不仅打通了城乡流通的堵点，更为低空经济等新兴产业拓展了广阔空间。&lt;/p&gt;&lt;p&gt;　　至于未来产业，同样离不开“六张网”这片肥沃的土壤。新一代通信网、算力网和新型电网的深度融合，正是孕育未来产业的关键所在。&lt;/p&gt;&lt;p&gt;　　新一代通信网让海量神经数据得以低时延传输，助力脑机接口加速从科幻走向现实；算力网的助力，则让生物制造得以依托人工智能，帮助研发从“大海捞针”变为“精准预测”。此外，氢能和核聚变能、第六代移动通信本身既是“六张网”的建设内容，也是未来产业的重点。发力“六张网”，恰恰是以需求牵引技术落地，壮大未来产业的良好路径。&lt;/p&gt;&lt;p&gt;　　当然，除了这些“显性”的赋能者，还有像水网和城市地下管网这样“隐性”的守护者。水网是保障工业生产与现代农业的“生命线”，而城市地下管网则为城市的产业活动提供了安全、韧性的生产底座。&lt;/p&gt;&lt;p&gt;　　当我们把这“六张网”环环相扣地铺展开来，就会发现，它们让要素自由流动，让产业体系更加强健，也让经济高效运转。它们，把中国经济连成了一个充满活力的有机整体。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李心萍&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170974&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170974.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170974.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “六张网”如何赋能现代化产业体系（读者点题·共同关注） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170974.html#[01版：要闻] “六张网”如何赋能现代化产业体系（读者点题·共同关注）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 翠云廊上柏森森（树立和践行正确政绩观·一线见闻）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170976.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 四川剑阁县保护古树、传承文化—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 翠云廊上柏森森（树立和践行正确政绩观·一线见闻） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王永战&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　四川省广元市剑阁县，古蜀道翠云廊古柏参天。&lt;/p&gt;&lt;p&gt;　　身穿马甲，挎着水壶，手持镰刀，护林员杜德生走近一株古树，仔细查看，“一看长势，二看有没有病虫害，再看有没有损伤。”&lt;/p&gt;&lt;p&gt;　　翠云廊是古代关中平原通往四川盆地古蜀道的重要路段，拥有迄今保存最完好的古代人工栽植驿道古柏群。其中，剑阁段现存古柏共7778株，平均树龄超千年。&lt;/p&gt;&lt;p&gt;　　2023年7月，习近平总书记在翠云廊考察时强调：“要把古树名木保护好，把中华优秀传统文化传承好。”&lt;/p&gt;&lt;p&gt;　　牢记总书记殷殷嘱托，剑阁县以正确政绩观为引领，搭建制度框架，抓好制度执行，巩固发展新时代生态文明建设成果。&lt;/p&gt;&lt;p&gt;　　“一树一人”，共同参与，护柏氛围更浓厚。&lt;/p&gt;&lt;p&gt;　　古树浓荫下，一场“坝坝会”热闹进行，护林员、村干部、乡村网络达人、游客坐在一起，聊古道历史、学习古树保护制度。&lt;/p&gt;&lt;p&gt;　　“一番宣传引导，护柏的理念更深入人心。”常年巡护，杜德生要上报古树生长情况，还要特别注意森林防灭火。今年徒步游火热，古柏保护宣传也成了他的分内事。&lt;/p&gt;&lt;p&gt;　　树立和践行正确政绩观学习教育开展以来，剑阁县强化基层巡护力量，吸纳周边村民、老党员等组建古柏巡护队，古柏护林员增至84名，实现古树管护网格化覆盖。&lt;/p&gt;&lt;p&gt;　　“一树一策”，古柏保护更系统。&lt;/p&gt;&lt;p&gt;　　剑阁县白龙镇翠云廊断碑梁段，打开手机，扫描古树上的二维码信息牌，树龄、标号等信息清晰可见。“我们为每棵古树都制作了电子档案，挂牌保护。”剑阁县翠云廊古柏自然保护中心主任刘克敏说。&lt;/p&gt;&lt;p&gt;　　剑阁县与中国林业科学研究院合作，在全县划定4个重点防治监测区域，开展古柏群落病虫害防治监测试点；建成“智慧树”数智管护系统、翠云廊雷电防御全链路守护系统，推动森林防火从“人防人灭”向“智防智灭”转型升级。&lt;/p&gt;&lt;p&gt;　　树立和践行正确政绩观，剑阁县以制度建设强化干部担当。&lt;/p&gt;&lt;p&gt;　　自明代始，“官民相禁剪伐”“交树交印”等规定在剑阁县沿袭至今。如今当地出台蜀道古柏离任交接制度，将古柏数量及生长状况等作为县乡党政主要负责人离任交接重要内容，并纳入自然资源审计范围。&lt;/p&gt;&lt;p&gt;　　一个多月前刚接过保护重担，白龙镇党委书记徐永茂再次来到断碑梁段。“离任交接时，我和前任党委书记全程走完断碑梁至小垭子段，逐棵核对古树数量、生长指标。”徐永茂说。如今，古柏离任交接制度覆盖从县委书记到护林员九级责任人，交接内容已扩展至生长状况、管护成效等5类16项指标。&lt;/p&gt;&lt;p&gt;　　徒步游带火了乡村农家乐、民宿、咖啡馆等业态。现在的剑阁县已有500多名村民依托徒步游开办农家乐、民宿或售卖农特产品，生态优势持续转化为民生福祉。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王永战&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 四川剑阁县保护古树、传承文化—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170976&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170976.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170976.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 翠云廊上柏森森（树立和践行正确政绩观·一线见闻） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170976.html#[01版：要闻] 翠云廊上柏森森（树立和践行正确政绩观·一线见闻）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170975.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/de79f88a-d0d7-45f0-a71f-ef75ed604693.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　浙江温州市鹿城区五马历史文化街区古戏台焕新升级，增设开放式延伸T台，融合古韵与潮流演艺，打造沉浸式街区演艺空间。&lt;/p&gt;&lt;p&gt;　　图为7月24日，市民游客在五马历史文化街区公园路古戏台观看戏曲表演。&lt;/p&gt;&lt;p&gt;　　苏巧将摄（影像中国） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170975&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170975.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170975.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170975.html#[01版：要闻] 图片报道</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 截至6月底我国智能算力规模同比增长177%</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170977.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 截至6月底我国智能算力规模同比增长177% &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者王政、刘温馨）记者从工业和信息化部获悉：截至今年6月底，我国智能算力规模达2185EFLOPS（FP16），同比增长177%。&lt;/p&gt;&lt;p&gt;　　当前，全国算力设施整体上架率达71.4%。相关部门持续推动算力设施高质量建设，加快“枢纽—区域—边缘”算力设施协同布局，引导大型及以上算力设施在枢纽节点集聚。&lt;/p&gt;&lt;p&gt;　　加速建设高速宽带网络，深入实施城域“毫秒用算”专项行动，提升算力高效运载能力。近两年围绕国家算力枢纽节点建设超70条算力大通道，相关算力枢纽节点间网络性能提升10%。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170977&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170977.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170977.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 截至6月底我国智能算力规模同比增长177% &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170977.html#[01版：要闻] 截至6月底我国智能算力规模同比增长177%</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 上半年新能源重卡销量同比增长78.6%</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170978.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 上半年新能源重卡销量同比增长78.6% &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者韩鑫）记者从交通运输部获悉：今年上半年，我国新能源重卡累计销量约14万辆，同比增长78.6%。在政策和市场双重驱动下，新能源重卡已进入快速普及推广应用的新阶段。&lt;/p&gt;&lt;p&gt;　　今年继续实施老旧营运货车报废更新行动，安排220亿元超长期特别国债支持老旧营运货车报废更新，重点支持更新为新能源重卡。下一步将围绕国家高速公路网“5射4纵5横”重点路段，建设零碳公路运输通道3万公里；建设3000个以上电动重卡充换电站，促进交通基础设施绿色化转型。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170978&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170978.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170978.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 上半年新能源重卡销量同比增长78.6% &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170978.html#[01版：要闻] 上半年新能源重卡销量同比增长78.6%</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 市场监管总局依法对携程集团有限公司实施垄断行为作出行政处罚并责令其全面整改</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170979.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 市场监管总局依法对携程集团有限公司实施垄断行为作出行政处罚并责令其全面整改 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者林丽鹂）市场监管总局25日依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。&lt;/p&gt;&lt;p&gt;　　2026年1月以来，市场监管总局依据《中华人民共和国反垄断法》对携程立案调查；成立专案组，依法严格规范、稳妥有序推进案件查办，对携程进行现场调查，获取大量证据材料；对其他竞争性平台和大量平台内酒店经营者等广泛开展调查取证；全面分析梳理证据材料，深入开展大数据分析和算法解析；组织专家开展研究论证；多次听取携程陈述意见，保障其合法权利。&lt;/p&gt;&lt;p&gt;　　经查，2020年以来，携程滥用其在中国境内在线酒店预订平台服务市场的支配地位，以流量分配机制为核心，利用平台规则、技术手段，实施了两种垄断行为：一是要求“特牌”酒店经营者开展独家合作，以给予最多流量倾斜、权益支持等为激励，诱导交易额高、服务品质好、用户吸引力强的酒店经营者选择“特牌”，并要求其不得与竞争性平台开展合作。二是强制“金牌”“无牌”酒店经营者给予“全网最低价”，要求跨平台经营的酒店经营者在携程平台的价格全网最低，并允许其直接调价，如发现酒店价格高于竞争性平台，携程即通过“调价助手”“挂牌通”等技术工具和人工手段调低价格。同时，携程利用技术手段监测酒店经营者独家合作、“全网最低价”实施情况，并通过限制流量、“摘牌”、扣除订单储备金等惩罚性措施保障行为实施。携程上述行为排除、限制了市场竞争，限制了酒店经营者跨平台经营，侵害了酒店经营者自主定价权，损害了消费者利益，加剧了行业“内卷式”竞争，阻碍了行业健康发展，构成反垄断法第二十二条第一款第四项、第五项禁止的没有正当理由限定交易和附加不合理交易条件的滥用市场支配地位行为。&lt;/p&gt;&lt;p&gt;　　根据反垄断法第五十七条、第五十九条规定，综合考虑携程垄断行为的性质、程度、持续时间等因素，市场监管总局依法作出行政处罚决定：责令携程停止违法行为，全额退还强制扣除酒店经营者的订单储备金1.22亿元；没收违法所得16.58亿元；处以其2025年中国境内销售额469.58亿元7.5%的罚款，计35.21亿元。&lt;/p&gt;&lt;p&gt;　　市场监管总局将督导携程全面整改，公开整改措施，接受社会监督，切实保障酒店经营者和消费者合法权益，维护优质优价、良性竞争的市场秩序，促进行业创新和健康发展。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170979&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170979.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170979.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 市场监管总局依法对携程集团有限公司实施垄断行为作出行政处罚并责令其全面整改 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170979.html#[02版：要闻] 市场监管总局依法对携程集团有限公司实施垄断行为作出行政处罚并责令其全面整改</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 查处携程垄断案释放反垄断反内卷强烈信号</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170981.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 查处携程垄断案释放反垄断反内卷强烈信号 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							林丽鹂&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　携程垄断案的查处是平台经济反垄断常态化监管的又一重大标志性案件，是新型垄断行为首案，是我国平台经济领域反垄断同时给予3种处罚的第一案，是目前平台经济领域罚款比例最高的垄断案件。&lt;/p&gt;&lt;p&gt;　　这规范警示所有平台企业，无论是简单直接的“二选一”，还是隐蔽复杂的“技术+生态+行为”复合型垄断，都逃不过反垄断利剑，监管部门绝不允许以任何形式滥用市场支配地位实施排除、限制竞争行为。&lt;/p&gt;&lt;p&gt;　　这也是深入整治“内卷式”竞争，推动平台企业和平台内经营者、劳动者共赢发展的典型案例，对推动我国平台经济创新和健康发展，以及经济社会高质量发展都具有重要意义。&lt;/p&gt;&lt;p&gt;　　携程是我国目前最大的在线旅游平台。经市场监管总局调查，携程实施的两种垄断行为覆盖广、时间长、影响大。监管部门综合考虑涉案违法行为的性质、情节轻重、持续时间等因素作出处罚决定，于法有据、过罚相当、宽严相济，彰显了反垄断执法的严肃性、权威性、有效性。&lt;/p&gt;&lt;p&gt;　　反垄断执法的最大价值，并不在于高额罚款，而在于疏通被垄断行为淤塞的公平竞争机制，释放强烈的政策信号。此次查处携程丰富了平台经济领域反垄断执法的案例，发出了强烈的反垄断常态化监管信号。“独家合作”剥夺了酒店商家跨平台经营自主权，排除、限制了其他平台公平参与市场竞争，阻碍要素自由流动。“全网最低价”严重挤压酒店经营利润，消费者短期得到的是品质“缩水”的产品和服务，长期将被动承受隐性垄断溢价，陷入“前期享低价、后期付高价”的陷阱。恢复竞争，充分发挥市场在资源配置中的决定性作用，可以促使经营者创新，增进消费者福利。近年来，我国持续完善平台经济反垄断监管体系，逐步构建起“事前合规引导、事中常态化监管、事后依法惩戒”的全链条监管机制，查处一系列重大案件，彰显了我国维护市场公平竞争、护航平台经济高质量发展的坚定决心。&lt;/p&gt;&lt;p&gt;　　实践证明，反垄断不仅是保护公平竞争秩序的重器，也是深入整治“内卷式”竞争的利器。去年底召开的中央经济工作会议以及今年4月28日召开的中共中央政治局会议都强调，深入整治“内卷式”竞争。在一些行业，头部平台为垄断动用不正当手段，是加剧“内卷式”竞争的关键。查处携程垄断案也发出了深入整治“内卷式”竞争的强烈信号。“全网最低价”迫使其他竞争性平台和酒店经营者逐底竞争，形成了低层次、同质化的不良竞争生态。值得注意的是，携程并非个例，“平台赚钱、商家薄利、劳动者负重”的恶性循环在网络外卖、网络货运等领域具有一定普遍性。平台经济是数智技术与业务生态的深度耦合，平台“内卷式”竞争对行业的损害是系统性的，会导致行业整体利润下滑、创新动力不足、生态持续恶化。反垄断执法正是要打破低水平竞争循环，推动行业从“价格战”转向“价值战”，形成“优质优价、良性竞争”的正向循环。&lt;/p&gt;&lt;p&gt;　　我国平台经济发展正处在关键时期，查处携程垄断案的背后还有一个深刻的时代议题——如何推动平台企业和平台内经营者、劳动者共赢发展？平台经济发展到新阶段，头部平台凭借技术、资本和数据优势，在各自赛道上构建起坚固的壁垒，逐渐从昔日的交易撮合者、创新颠覆者，演变为规则制定者、流量分配者。如果没有有效的外部制衡，任何一家平台具有市场支配地位后，都有制定利己规则、最大化攫取行业价值的冲动。平台本是撮合供需的“桥梁”，却可能异化为雁过拔毛的“关卡”。平台经济的高速增长，如果是以牺牲平台内经营者利润与消费者权益为代价的“伪效率”增长，将影响国民经济平稳运行。平台企业与平台内经营者、劳动者、消费者本是命运共同体，让各方都能基于市场的正常逻辑公平分享发展红利，实现共赢发展才是长久之计。这既需要政府“有形之手”精准发力，也需要平台放弃流量收割模式，主动创新，积极赋能。&lt;/p&gt;&lt;p&gt;　　反垄断主要是及时校正平台行为，更是保护平台经济生态。平台企业可以做大做强，但不可以垄断称霸。对平台经济领域的监管，要坚持监管规范和促进发展并重，不断建立健全平台经济治理体系，构建有活力、有创新力的制度环境，推动平台经济发展迈上新高度，推动经济社会高质量发展再上新台阶。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;林丽鹂&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170981&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170981.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170981.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 查处携程垄断案释放反垄断反内卷强烈信号 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170981.html#[02版：要闻] 查处携程垄断案释放反垄断反内卷强烈信号</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 放心用省心还，租车场景更多元（政策解读）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170980.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; “十五五”时期，汽车短租市场规模预计年均增长约15% &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 放心用省心还，租车场景更多元（政策解读） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  韩  鑫&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　近年来，自驾游需求增长较快，带动汽车租赁市场升温，小微型客车租赁成为自驾出行的重要方式。&lt;/p&gt;&lt;p&gt;　　交通运输部等10部门联合印发的《促进小微型客车租赁高质量发展三年行动方案（2026—2028年）》提出，到2028年，推动建成布局合理、便捷高效、安全优质的小微型客车租赁服务网络。这张租赁服务网络如何建设？如何拓展汽车租赁后市场消费？记者采访了相关专家及企业。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;租车行业成为服务大众消费重要业态&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　小程序一键下单，飞机落地后在网点直提，沿途随时异地还车……“一站式”出行的便利体验，反映出租赁服务网络的日益完善。&lt;/p&gt;&lt;p&gt;　　“10多年前，租车行业主要服务于商务、会务等少数领域。”交通运输部规划研究院城市交通与现代物流研究所副所长刘晓彤介绍，经过多年发展，我国小微型客车租赁行业发生明显变化。&lt;/p&gt;&lt;p&gt;　　规模持续扩大。我国有约百万辆短租车辆，每年创造约380亿元的市场营收。2024年全国短租市场订单量约8500万单，较5年前增长超两倍。从车辆、订单、收入等指标看，行业已从小众出行服务成长为服务大众消费的重要业态。&lt;/p&gt;&lt;p&gt;　　场景更加丰富。租车出行覆盖旅游自驾、新车试驾、露营旅居等多元场景，逐渐成为满足人们个性化、品质化需求的重要选择。&lt;/p&gt;&lt;p&gt;　　市场需求在变，行业供给也在求新求变。&lt;/p&gt;&lt;p&gt;　　“方案明确了小微型客车租赁在服务交通强国建设、提振消费中的双重价值。”刘晓彤认为，租车行业的发展，有助于完善综合交通运输体系、激活服务消费市场。&lt;/p&gt;&lt;p&gt;　　一方面，完善租赁服务网络，更好适配出行升级需求。&lt;/p&gt;&lt;p&gt;　　方案提出，推进客运枢纽租赁服务覆盖、完善重点区域租赁网点布局等。依托民航、高铁等综合交通枢纽，构建“民航/高铁+租车+全域通达”服务网络，实现干线运输与末端出行的高效衔接，将有效补齐出行“最后一公里”服务短板，成为现代化综合交通运输体系的组成部分。&lt;/p&gt;&lt;p&gt;　　另一方面，创造更多新场景，培育出行消费新增长点。&lt;/p&gt;&lt;p&gt;　　方案提出，促进租赁与旅游融合发展，推出“租赁+门票”“租赁+酒店”等一站式产品。“小微型客车租赁既能催生租车服务直接消费，又能带动文体旅、汽车产销、汽车后市场服务等上下游多元消费。持续培育出行消费新业态，为扩内需、促消费提供新动能。”刘晓彤说。&lt;/p&gt;&lt;p&gt;　　据测算，我国小微型客车租赁总量已达400万辆。随着服务网点不断完善、服务供给持续优化，预计“十五五”时期，全国汽车短租市场规模年均增长15%左右。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;推广异地还车，解决拿不到车、定损扯皮等痛点&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　构建便捷高效的租车服务网络，提升服务便利化水平至关重要。方案提出，在2028年底前，实现重点旅游地区、主要城市群免费异地还车。&lt;/p&gt;&lt;p&gt;　　“异地还车是提升租车服务便利化水平的重要举措。”刘晓彤认为，这一举措通过解决跨城租车出行痛点，有望带动租车跨城自驾、长途出行订单的大幅增长；还可实现车辆在不同城市间的动态调配，提高车辆利用率。&lt;/p&gt;&lt;p&gt;　　部分企业已在探索免费异地还车服务。一嗨租车在500多个城市实现异地取还车，后续将逐步扩大免费、低费服务范围；神州租车在长三角等区域实现免费异地还车。&lt;/p&gt;&lt;p&gt;　　“大部分中小企业尚无法提供异地还车服务。”在刘晓彤看来，这主要归因于租车企业尚未达到规模经济，车辆返程调度成本较高。&lt;/p&gt;&lt;p&gt;　　为破解中小企业运营成本高的问题，方案提出，依托行业协会等探索建立跨区域租赁企业合作联盟，推动联盟内企业间共享资源，提供免费异地还车服务。&lt;/p&gt;&lt;p&gt;　　“通过加强企业间合作，共享车辆和网点资源，租赁行业统一大市场有望加速形成，进一步培育壮大租车服务市场。”刘晓彤说，方案提出，2027年底前实现租赁车辆“一地备案、省内通用”，将推动租赁车辆备案信息跨区域互认，更好满足异地还车服务需求。&lt;/p&gt;&lt;p&gt;　　“还需解决用户订得到却拿不到车、还车时定损扯皮、行程变化取消困难等痛点。”滴滴租车业务负责人介绍，针对“临期无车”问题，平台推出“无车必赔”机制；针对定损扯皮问题，用户可通过应用程序上传车损信息，平台免费提供第三方专业机构出具的定损单作为依据，维修费用不高于定损金额。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;促进租赁与汽车产业融合发展，拓展汽车租赁后市场消费&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　作为汽车后市场的组成部分，汽车租赁连接汽车生产、使用、流通、维修、金融保险和二手车交易等多个环节。方案提出，促进租赁与汽车产业融合发展，包括支持租赁企业拓展汽车维修等汽车后市场服务。&lt;/p&gt;&lt;p&gt;　　汽车租赁成为新车消费的重要增量渠道。“租车企业能将分散的出行需求转化为稳定的新车采购。”神州租车有关负责人说，神州租车在营车辆规模接近20万辆，去年以来上新10万辆新车，其中新能源车型占比约一半，“租车企业批量采购，既能稳定车企销量、优化产能，还能让更多新车型、新技术更快进入真实出行场景，让新供给快速转化为新市场。”&lt;/p&gt;&lt;p&gt;　　同时，汽车租赁正带动二手交易、维修保养等后市场发展。“租赁是汽车全生命周期价值链的一部分。”刘晓彤说，“十五五”时期，租赁行业预计新购车超600万辆，向二手车市场供应车辆约500万辆，拉动汽车消费超过1.3万亿元。&lt;/p&gt;&lt;p&gt;　　神州租车有关负责人介绍，前端通过批量采购和车企建立稳定合作，中端通过全国直营网络和标准化服务提升车辆使用效率，后端通过维修保养、二手车流通、二手车出口等，加快车辆更新和资产周转。&lt;/p&gt;&lt;p&gt;　　根据方案，要引导租赁企业与汽车生产企业建立车辆批量采购和回购机制，积极开展新车联合营销、深度试驾体验等业务等。刘晓彤认为，这些举措将带动汽车流通体系建设，更好服务汽车产业国际化发展。&lt;/p&gt;&lt;p&gt;　　“方案将加快推动汽车租赁行业从单点经营走向生态协同，从服务消费延伸到产业融合。”神州租车有关负责人表示，期待未来进一步完善租赁车辆全生命周期管理标准，同时在出口资质、检测认证、通关物流等方面形成更细化的政策路径，推动租赁车辆更新、二手车流通和海外市场拓展更好衔接。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  韩  鑫&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; “十五五”时期，汽车短租市场规模预计年均增长约15% &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170980&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170980.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170980.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 放心用省心还，租车场景更多元（政策解读） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170980.html#[02版：要闻] 放心用省心还，租车场景更多元（政策解读）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 累计发电装机容量同比增10.8%</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170982.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 截至6月底 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 累计发电装机容量同比增10.8% &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者王云杉）记者从国家能源局获悉：截至6月底，全国累计发电装机容量40.4亿千瓦，同比增长10.8%。其中，太阳能发电装机容量12.7亿千瓦，同比增长15.8%；风电装机容量6.8亿千瓦，同比增长18.5%，能源绿色低碳转型进一步加快。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 截至6月底 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170982&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170982.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170982.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 累计发电装机容量同比增10.8% &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170982.html#[02版：要闻] 累计发电装机容量同比增10.8%</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 中央部门“晒账本”，花钱更加求“绩”问“效”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170983.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中央部门“晒账本”，花钱更加求“绩”问“效” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 财政部及相应部门官网可查 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者曲哲涵）96个中央部门日前依法依规集中向社会公开2025年度决算，这是中央部门决算连续第十六年公开。公开内容包括部门概况、9张部门决算公开表、部门决算说明和专业名词解释等4个部分。各中央部门在官方门户网站自主公开，同时财政部官网“中央预决算公开平台”专栏集中同步转发，主动接受全社会对政务效能的监督。&lt;/p&gt;&lt;p&gt;　　近年来，财政部组织中央部门有序开展单位自评和部门评价，持续拓宽绩效评价覆盖范围、强化评价结果落地应用，稳步推进绩效信息公开常态化。&lt;/p&gt;&lt;p&gt;　　全面开展单位自评。今年，随同中央决算报送全国人大常委会的项目绩效自评表共756个，较上年增加13个，更加全面直观地展现预算资金产出成效。&lt;/p&gt;&lt;p&gt;　　持续优化部门评价机制。督促各部门加大对部门履职的重大改革发展项目评价力度，原则上以5年为周期，实现重点项目评价全覆盖，均衡年度评价任务、提升评价质效。&lt;/p&gt;&lt;p&gt;　　扎实推进财政重点评价。2026年，财政部共选取55个项目开展财政重点评价，聚焦提振消费、科技创新、产业发展、生态环保、民生保障等重点领域，覆盖一般公共预算、政府性基金预算、国有资本经营预算。&lt;/p&gt;&lt;p&gt;　　财政部有关负责人表示，今年选取部分重点项目绩效评价报告，随同2025年中央决算报告提交全国人大常委会参阅。项目覆盖教育、科技、卫生健康、农业农村、文旅交通等领域，涉及教育部、国家自然科学基金委、国家卫生健康委、农业农村部、水利部、交通运输部、文化和旅游部等中央主管部门。&lt;/p&gt;&lt;p&gt;　　“推进绩效评价结果公开，能够倒逼各部门提升财政资金使用效益，持续增强政府公信力与透明度。”中央财经大学财政税务学院教授白彦锋表示，将绩效评价与预算安排相挂钩，能够健全支出政策定期评估与动态调整机制，及时清理低效无效支出，减少政策固化、资金沉淀问题。&lt;/p&gt;&lt;p&gt;　　2025年，中央部门坚持更严要求和更可操作，将党政机关过紧日子要求落到实处，从因公出国（境）、公务接待、国内差旅、国内考察交流、会议培训、节庆展会论坛等方面细化实化举措。财政部门严格控制楼堂馆所建设和装修，防止造成公共资金、资产和资源损失浪费。常态化开展中央部门过紧日子情况跟踪评估，加强对地方落实过紧日子要求的指导监督。&lt;/p&gt;&lt;p&gt;　　政府采购是财政支出管理的重要内容，也是国家宏观调控的重要手段。自政府采购法施行以来，财政部督促指导各预算单位做好政府采购信息公开工作，及时公开政府采购项目信息。2016年以来，财政部推动以部门为单位随决算向社会公开政府采购支出情况，有力维护了政府采购公开公平公正。&lt;/p&gt;&lt;p&gt;　　比如，国家移民管理局2025年度政府采购支出总额309054.44万元，授予中小企业合同金额215126.16万元，占政府采购支出总额的69.6%，其中授予小微企业合同金额176122万元，占授予中小企业合同金额的81.9%。货物采购授予中小企业合同金额占货物支出金额的55.6%，工程采购授予中小企业合同金额占工程支出金额的75%，服务采购授予中小企业合同金额占服务支出金额的76.7%。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 财政部及相应部门官网可查 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170983&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170983.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170983.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中央部门“晒账本”，花钱更加求“绩”问“效” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170983.html#[02版：要闻] 中央部门“晒账本”，花钱更加求“绩”问“效”</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170984.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/cbfb27ef-832a-4936-8409-96f53275bd7e.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　近日，新疆维吾尔自治区伊犁哈萨克自治州昭苏县的亚麻迎来收割期，农牧民抢抓晴好天气作业。亚麻可用于制衣，亚麻籽可用于食用植物油的生产加工。近年来，当地依托规模化种植，加强机械化作业，提高亚麻产业效益，拓宽农牧民增收渠道。&lt;/p&gt;&lt;p&gt;　　刘一江摄（影像中国） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170984&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170984.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170984.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170984.html#[02版：要闻] 图片报道</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 上半年完成水利建设投资5151亿元</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170985.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 上半年完成水利建设投资5151亿元 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 落实民间资本同比增长85.8% &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者王浩）今年上半年，全国实施水利项目3.3万个，完成水利建设投资5151亿元；水利基础设施建设吸纳就业134.4万人，其中农村劳动力111.1万人；发放就业人员工资209.9亿元，其中农村劳动力工资165.1亿元。&lt;/p&gt;&lt;p&gt;　　国家水网建设全面提速。今年上半年，三峡水运新通道、太浦河后续一期等25项重大水利工程开工，接近去年全年开工数量。水利部副部长孙志禹介绍，目前，国家水网40条骨干输排水通道已建和在建35条，588个重要调蓄结点已建和在建473个，国家水网覆盖范围占国土面积的比例已达80.3%。&lt;/p&gt;&lt;p&gt;　　落实水利建设资金方面，1至6月，全国落实地方政府专项债、银行贷款、社会资本共2580亿元，同比增长7%。其中，落实民间资本108.4亿元、同比增长85.8%，为历年同期最多。&lt;/p&gt;&lt;p&gt;　　孙志禹介绍，接下来，水利部将高质量建设南水北调中线引江补汉工程。加快四川引大济岷、环北部湾水资源配置等骨干输排水通道建设。围绕新一轮千亿斤粮食产能提升行动，在东北等水土资源条件适宜地区，新建一批现代化大中型灌区，整装推进四川都江堰、安徽淠史杭等大中型灌区现代化改造。&lt;/p&gt;&lt;p&gt;　　夏灌方面，今年全国累计灌溉供水1280亿立方米，灌溉面积达6.7亿亩，全国耕地灌溉面积上生产的夏粮占全国夏粮总产量的88.11%。“十五五”时期，水利部谋划储备一批大中型灌区现代化建设与改造项目，统筹灌区骨干工程与高标准农田建设，构建从水源到田间完整的灌排体系。今年重点推进的27个大型灌区建设项目，21个已完成可研批复，8个已开工。&lt;/p&gt;&lt;p&gt;　　入汛以来，珠江流域、长江中下游、华北、东北等地先后遭遇强降雨，部分地区形成洪涝灾害，给农业生产造成一定影响。水利部农村水利水电司司长倪文进介绍，2026年安排中央资金31.96亿元，支持实施13个重点区域排涝能力建设项目，实施后预期可有效提升330多万亩低洼易涝区的排涝能力。各地结合重点涝区治理、大中型灌区现代化建设与改造，以及高标准农田建设等项目实施，组织开展农田沟渠修复整治和平原涝区治理，目前，全国除涝面积达3.87亿亩。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 落实民间资本同比增长85.8% &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170985&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170985.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170985.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 上半年完成水利建设投资5151亿元 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170985.html#[02版：要闻] 上半年完成水利建设投资5151亿元</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 落槌那一刻，掌声雷动</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170986.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; “景德镇手工瓷业遗存”成功申遗—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 落槌那一刻，掌声雷动 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  汪思源&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　当地时间7月25日12时44分，在韩国釜山举行的联合国教科文组织第四十八届世界遗产大会上，会议主席郑重宣布：“我宣布，委员会决定48 COM 8B.16（第四十八届会议8B议程第16号决议）通过！”木槌敲响，全场掌声热烈——“景德镇手工瓷业遗存”成功列入《世界遗产名录》，中国世界遗产总数由此增至61项。&lt;/p&gt;&lt;p&gt;　　各国代表纷纷走向中国代表团，祝贺“景德镇手工瓷业遗存”成功申遗。代表团席前人头攒动。不少代表和工作人员举起手机，将这一激动人心的瞬间定格。&lt;/p&gt;&lt;p&gt;　　“景德镇陶瓷的价值不仅体现在精湛的制瓷工艺，更体现在其深厚的艺术价值和文化价值，对整个世界的艺术发展产生了广泛影响。”黎巴嫩驻联合国教科文组织前代表贾德·塔贝特表示，“景德镇手工瓷业遗存”成功申遗凝聚了长期而艰苦的努力，也体现了充分而扎实的准备，“我由衷为这一成果感到高兴，向中国人民表示热烈祝贺。”&lt;/p&gt;&lt;p&gt;　　科摩罗常驻联合国教科文组织代表穆罕默德·哈马迪说，“景德镇手工瓷业遗存”令人赞叹，其成功申遗是国际社会对中国长期以来文化遗产保护工作的充分肯定。&lt;/p&gt;&lt;p&gt;　　“向中国表示祝贺！”阿塞拜疆常驻联合国教科文组织代表埃尔曼·阿卜杜拉耶夫表示，“这不仅是中国取得的一项重要成就，也是国际社会共同取得的重要成果，‘景德镇手工瓷业遗存’的入选，充分彰显了中华文明深厚而独特的文化遗产价值。”&lt;/p&gt;&lt;p&gt;　　“很高兴亲眼见证‘景德镇手工瓷业遗存’成功列入《世界遗产名录》，成为我国第六十一项世界遗产。”中国教育部副部长、中国联合国教科文组织全国委员会主任任友群表示，陶瓷是中华瑰宝，是中华文明的重要名片，也是全人类共同的文化瑰宝。世界遗产委员会高度赞赏中国政府在“景德镇手工瓷业遗存”保护管理方面付出的巨大努力和取得的突出成绩，这既是国际社会对中国遗产保护实践的高度肯定，也充分表明中国为全球遗产保护贡献了行之有效的方案与经验。&lt;/p&gt;&lt;p&gt;　　中国文化和旅游部副部长、国家文物局局长饶权代表中国政府发言，郑重承诺将切实履行《世界遗产公约》，持续加强遗产整体性、系统性保护和传承利用，与国际组织和各缔约国一道，共同守护好人类文明的瑰宝。&lt;/p&gt;&lt;p&gt;　　“景德镇手工瓷业遗存”是我国首个以产业遗产类型成功申报的世界遗产项目，填补了《世界遗产名录》中“瓷”主题的空白。从此，丝绸、茶叶、瓷器——这三大中国古代对外交流的文化使者在世界遗产的殿堂中齐聚亮相，共同讲述东方文明走向世界的壮丽篇章。&lt;/p&gt;&lt;p&gt;　　（本报韩国釜山7月25日电） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  汪思源&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; “景德镇手工瓷业遗存”成功申遗—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170986&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170986.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170986.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 落槌那一刻，掌声雷动 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170986.html#[03版：要闻] 落槌那一刻，掌声雷动</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “推动巴西再工业化进程的重要力量”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170987.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 从“产品出海”到“产业扎根”，徐工巴西加速本地化布局 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “推动巴西再工业化进程的重要力量” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  时元皓&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　从巴西圣保罗市向北行驶，一路上低缓山丘连绵起伏。两个多小时后，远处地平线渐渐露出一大片工厂，蔚为壮观。这是徐工巴西制造有限公司（以下简称“徐工巴西”）位于巴西米纳斯吉拉斯州波苏阿雷格里市的制造基地。投产运营10多年来，该基地已下线超3万台工程机械整机产品，广泛参与巴西城市建设和产业发展。近日，本报记者来到徐工巴西制造基地，探访企业生产车间，寻找从“产品出海”到“产业扎根”的巴西故事。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;聚焦市场需求  提升制造能力&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　下午3时，生产车间内机器轰鸣，工人们正有条不紊地作业。&lt;/p&gt;&lt;p&gt;　　这是制造基地的一条主力生产线，总长超过170米，主要生产为当地市场定向优化改进的装载机和平地机两种产品。徐工巴西装调工艺工程师刘钢介绍，生产线使用了助力机械臂、轮胎抓取机等先进设备，“电动工具基本覆盖整条生产线，既减轻了员工的劳动强度，又提升了生产效率”。&lt;/p&gt;&lt;p&gt;　　目前，该制造基地主要生产装载机、平地机、挖掘机、压路机和挖装机五类工程机械产品，几乎占据了巴西市场近1/5的市场份额。“我们不断优化生产线，智能化设备的投入与工艺改进让生产线产能不断提高。”刘钢介绍，以挖掘机为例，现在的单日产能较3年前提升了3倍以上。&lt;/p&gt;&lt;p&gt;　　上世纪90年代末，徐工产品以贸易出口的方式进入巴西市场。2012年底，位于波苏阿雷格里市的徐工巴西制造基地开始建设，一年半后竣工投产，依托该基地建成了徐工巴西工业园。从贸易型企业，到本地化制造企业，再到产业链集成平台，徐工巴西持续加大本地投入，深度参与巴西再工业化进程。&lt;/p&gt;&lt;p&gt;　　“根据巴西市场需要，我们会对工程机械产品驾驶室舒适性、发动机排放量以及工作环境适应性等作出优化，并满足一些客户的定制化需求。”徐工巴西产品工程师卡乌埃·德安德拉德介绍。目前，徐工巴西产品广泛应用于巴西公路建设、码头升级改造、水电站建设、城市基础设施建设、农业发展等领域。&lt;/p&gt;&lt;p&gt;　　巴西埃克斯特拉机械公司是徐工巴西最大的经销商，自双方2020年建立合作伙伴关系以来，该公司销售收入翻了10倍。“中国产品以耐用性、可靠性和高性价比在巴西市场脱颖而出。”该公司总裁佩尔西奥·布里安特表示，徐工巴西的产品兼具技术创新与性价比，对客户极具吸引力。此外，徐工巴西还提供更贴近客户的技术支持和售后服务。&lt;/p&gt;&lt;p&gt;　　徐工巴西总经理李寒光介绍，公司与巴西当地供应商深度合作，带动产业链发展，土石方机械类产品的本地化生产比例在50％以上，为当地创造2000多个就业岗位。围绕整机制造，徐工巴西吸引零部件加工、物流运输、设备维护、工业服务等相关企业集聚发展，以上海新动力汽车科技股份有限公司为代表的发动机研发制造等领域的企业陆续来到徐工巴西工业园投资。“这种以制造基地为核心、向上下游延伸的产业协同模式，提升了当地工程机械产业整体制造能力。”李寒光说。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;创造就业机会  带动人才培养&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　下午5时许，20多辆通勤大巴车在制造基地的停车场等候，将下班的工人们送回波苏阿雷格里市区以及周边地区。&lt;/p&gt;&lt;p&gt;　　“我刚到巴西时，通勤车只有几辆，员工只有700多人，现在制造基地员工已有2000多人。”徐工巴西首席文化官顾冲说。10多年来，徐工巴西营业收入年复合增长率近40%，本地员工占比达95%以上。&lt;/p&gt;&lt;p&gt;　　48岁的罗德里戈·多普拉多已在徐工巴西工作8年，最初是承担零件分拣工作的车间助理，现在已成为装配车间的生产分析师。他告诉记者，之前当地没有这样的大型跨国公司，很难找到能够实现职业发展的工作机会，“8年里，我与徐工巴西共同成长，已能为家庭提供更好的生活条件。”&lt;/p&gt;&lt;p&gt;　　若泽·阿尔瓦伦加来自距制造基地1小时车程的托科斯杜莫吉市，这座小城的人口不到5000人。“之前我在父亲的草莓农场帮忙，入职徐工巴西后，我从营销实习生干起，如今已成为行政管理人员，负责与供应商沟通、参与大型项目、协调多部门工作、开展跨文化交流等，积累了丰富的工作经验。徐工巴西就像一所学校，让我成长了很多。”阿尔瓦伦加说。&lt;/p&gt;&lt;p&gt;　　顾冲告诉记者，徐工巴西推出了一系列人才培养计划。以“徐工实习生”项目为例，徐工巴西与巴西矿山企业合作，选拔巴西优秀青年到徐州工程机械技师学院开展半年期的技能培训，取得操作维修技能认证，再回到巴西就业。该项目已连续开展两期，未来计划让更多青年人才到中国学习交流。徐工巴西还积极与当地高校开展研发合作，与巴西国家工业技能培训服务中心合作开设“徐工定制班”，培养先进制造业人才。&lt;/p&gt;&lt;p&gt;　　“徐工巴西通过对接全球技术标准，为本地劳动力提供了技能提升的机会。”波苏阿雷格里市市长若泽·丰塞卡对记者表示，徐工巴西巩固了该市作为米纳斯吉拉斯州工业枢纽的地位，“提升了本地区的经济与战略重要性，助力地区成为未来投资的优选目的地。”&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;瞄准产业转型  推动绿色发展&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　记者曾于2024年到访制造基地。这次，记者发现制造基地内多了不少绿色矿车，车身上的100％纯电动字样十分醒目。李寒光告诉记者，这些纯电动产品不久后有望实现本地生产，“我们计划今年下半年将新能源商用车以及高端农业机械引入巴西进行生产和组装。”&lt;/p&gt;&lt;p&gt;　　巴西政府近年来提出“巴西新工业计划”，明确数字转型、绿色发展等目标。李寒光表示，徐工巴西也将进一步加快智能工厂建设，重点围绕数字化、电动化等领域推进。不久前，徐工巴西成立南美研究院，为实现绿色生产、可持续转型探索更多本地化解决方案。&lt;/p&gt;&lt;p&gt;　　德安德拉德曾前往中国参观、培训，中国生产车间的物流机器人、无人驾驶矿车等让他印象深刻。“徐工巴西制造基地有很大的提升潜力。”德安德拉德告诉记者，在中国广泛应用的智慧无人化物流、激光智能下料设备、智能分拣等技术，未来将在徐工巴西制造基地实现应用。&lt;/p&gt;&lt;p&gt;　　长飞光纤新建的通信光缆生产基地顺利投产，美的集团在巴西的第三座工厂实现冰箱和洗衣机量产……近年来，更多中国企业落地波苏阿雷格里市。“中国企业注入资金、引入技术，让本地区乃至巴西经济更好融入高附加值产业链，成为推动巴西再工业化进程的重要力量。”丰塞卡说。&lt;/p&gt;&lt;p&gt;　　巴中企业家委员会的一份报告显示，2025年，中国对巴西直接投资同比增长45％，巴西成为中国全球主要投资目的地之一。巴西总统卢拉表示，巴西欢迎包括徐工集团在内的中国企业积极参与当地基础设施建设、数字经济发展和绿色转型进程，愿与中国企业携手推动可持续发展，实现互利共赢。“在巴西，来自中国的生产性投资正在不断增加，技术转移、能力建设更加显著。”巴西金砖国家政策研究中心主任玛尔塔·费尔南德斯表示。&lt;/p&gt;&lt;p&gt;　　借着中巴两国发展战略对接的东风，更多中国企业正加速在巴西的本地化布局，拓展两国工业化合作，携手实现现代化的美好愿景。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  时元皓&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 从“产品出海”到“产业扎根”，徐工巴西加速本地化布局 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170987&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170987.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170987.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “推动巴西再工业化进程的重要力量” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170987.html#[03版：要闻] “推动巴西再工业化进程的重要力量”</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 为破解全球人工智能治理难题贡献中国方案（国际论坛）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170988.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 为破解全球人工智能治理难题贡献中国方案（国际论坛） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							鲁传颖&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　中国正以开放理念和开源姿态推动形成开放开源生态，破除技术壁垒，携手更多国家加强人工智能能力建设&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　在日前举行的2026世界人工智能大会暨人工智能全球治理高级别会议上，来自100多个国家和国际组织的官方代表、产学研界嘉宾齐聚一堂，共同探讨如何促进全球人工智能向善普惠发展。国际舆论热议大会为国际人工智能交流搭建了高端平台，普遍认为中国正以开放理念和开源姿态推动形成开放开源生态，破除技术壁垒，携手更多国家加强人工智能能力建设。&lt;/p&gt;&lt;p&gt;　　当前人工智能技术加速迭代，机遇和风险同步凸显，人工智能全球治理处于重要关口。如何充分释放智能技术蕴藏的发展动能，同时妥善应对层出不穷的治理挑战？中国提出的人工智能发展与治理方案逻辑清晰、层次分明，直面技术快速发展与治理体系建设相对滞后这一矛盾，为破解全球人工智能治理难题贡献中国方案。&lt;/p&gt;&lt;p&gt;　　以创新应用为目标，打造智能经济新形态。在发展人工智能的过程中，中国始终从人的根本需求出发，以产学研用协同创新推进“人工智能+”行动，全面促进人工智能科技创新、产业发展、场景应用，让人工智能赋能千行百业。本次大会的主席声明提出“打造智能经济新形态，培育以大模型为基础、智能体驱动为引领的词元经济新模式”，为人工智能服务的价值衡量、资源配置和规模化应用提供清晰指引。词元经济的规模化发展，离不开稳定、高效、低碳的算力供给。中国前瞻性布局新能源与智算集群建设，实现算力供给与能源发展双向赋能，为智能经济绿色可持续发展奠定基础。&lt;/p&gt;&lt;p&gt;　　以安全治理为底线，构建敏捷高效的风险防控体系。面对人工智能技术快速迭代带来的系统性风险，中国始终坚持发展和安全并重，把握人工智能发展趋势和规律，不断完善相关法律法规、政策制度、应用规范、伦理准则，确保人工智能安全、可靠、可控，让人工智能这匹千里马既跑得快又跑得稳。同时，中国坚持共同、综合、合作、可持续的安全观，加强人工智能安全治理国际合作，共同反对在人工智能领域泛化国家安全概念、把本国安全凌驾于他国安全之上的做法，坚持守护人类文明安全底线。&lt;/p&gt;&lt;p&gt;　　以多边主义为准绳，推动构建公正合理的全球人工智能治理体系。目前，全球人工智能发展存在不均衡现象，南北智能鸿沟不断扩大。中国广泛开展国际合作，倡导开源开放、合作共享，推动各国尤其是全球南方国家加快人工智能发展、加强人工智能能力建设，不断弥合智能鸿沟和治理能力差距，有力推动全球人工智能包容普惠发展。联合国秘书长古特雷斯评价指出，中方的开源策略在全球取得了巨大成功，各国作为合作伙伴应共同努力，使人工智能成为维护所有人尊严、创造发展机遇、促进可持续发展的力量。&lt;/p&gt;&lt;p&gt;　　在各方共同努力下，世界人工智能合作组织在上海应运而生，来自亚洲、非洲、拉美和欧洲的29个国家成为创始成员国。中方倡导推动成立世界人工智能合作组织取得重要阶段性进展，显著增强全球南方国家在全球人工智能治理中的代表性和发言权，将成为人工智能发展史上的一座重要里程碑。作为负责任大国，中国在人工智能领域始终致力于做国际公共产品的提供者，愿同各国一道，秉持以人为本、向上向善理念，携手构建公正合理的全球人工智能治理体系，让人工智能真正促进共同繁荣，造福全人类。&lt;/p&gt;&lt;p&gt;　　（作者为同济大学教授、上海市习近平新时代中国特色社会主义思想研究中心研究员）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;鲁传颖&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170988&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170988.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170988.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 为破解全球人工智能治理难题贡献中国方案（国际论坛） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170988.html#[03版：要闻] 为破解全球人工智能治理难题贡献中国方案（国际论坛）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 吉尔吉斯斯坦总统扎帕罗夫会见王毅</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170989.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 吉尔吉斯斯坦总统扎帕罗夫会见王毅 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报吉尔吉斯斯坦乔尔蓬阿塔7月25日电  （记者李强）吉尔吉斯斯坦总统扎帕罗夫24日会见在吉访问的中共中央政治局委员、外交部长王毅。&lt;/p&gt;&lt;p&gt;　　扎帕罗夫请王毅转达对习近平主席的亲切问候，热烈祝贺中国共产党成立105周年，表示在中国共产党领导下，中国人民在社会主义现代化建设中取得辉煌成就，吉方对此由衷钦佩。对华关系是吉方对外政策优先方向。吉方珍视双方相互尊重、平等互利、睦邻友好的战略伙伴关系，愿学习借鉴中国治国理政经验，加强经贸、投资、农业、人文等领域互利合作，大力推进中吉乌铁路等重点项目，为在吉中国企业提供良好营商环境。吉方坚定支持中方维护自身核心利益。吉方加入了世界人工智能合作组织、国际调解院，以实际行动支持中方提出的四大全球倡议，愿进一步加强在联合国、中国—中亚机制等多边框架内的沟通协调，携手促进地区和世界和平发展。&lt;/p&gt;&lt;p&gt;　　王毅转达习近平主席对扎帕罗夫的良好祝愿，相信在总统先生领导下，“新吉尔吉斯斯坦”建设必将取得新的更大成就。中方将一如既往坚定支持吉方的独立、主权和领土完整，坚定支持吉方走符合本国国情的发展道路。&lt;/p&gt;&lt;p&gt;　　王毅表示，中国刚刚隆重庆祝中国共产党成立105周年。习近平总书记发表重要讲话，全面回顾中国共产党带领全国各族人民走过的光辉历程，深刻揭示中国共产党之所以能够不断铸就辉煌的优秀特质。中方愿同吉方加强发展战略对接，将两国元首重要共识转化为更多可视化成果，提升互利合作水平，扩大人文交流，夯实中吉命运共同体根基。中方祝贺吉方高票当选联合国安理会非常任理事国，将支持吉方办好上海合作组织比什凯克峰会。&lt;/p&gt;&lt;p&gt;　　访问期间，王毅还同吉尔吉斯斯坦外长库鲁巴耶夫举行会谈，并共同出席中国驻奥什总领馆复馆揭牌仪式。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170989&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170989.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170989.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 吉尔吉斯斯坦总统扎帕罗夫会见王毅 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170989.html#[03版：要闻] 吉尔吉斯斯坦总统扎帕罗夫会见王毅</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中国经济展现出较强韧性（外媒看中国）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170990.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 多家外媒关注中国经济半年报—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国经济展现出较强韧性（外媒看中国） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　国家统计局近日发布的2026年中国经济半年报显示，上半年，国内生产总值达69.6万亿元，按不变价计算同比增长4.7%，经济增量为3.6万亿元，是近5年同期最大增量。多家外媒认为，中国经济展现出较强韧性，技术创新和产业升级持续激发经济增长的内生动力，中国高质量发展迈出坚实步伐。&lt;/p&gt;&lt;p&gt;　　巴基斯坦联合通讯社报道称，最新公布的经济数据展现出中国经济结构持续优化和高质量发展的积极成效。中国工业生产较快增长、对外贸易增势良好、就业总体保持稳定，展现出较强韧性。&lt;/p&gt;&lt;p&gt;　　马来西亚《今日商业》网站报道称，今年上半年中国工业生产保持稳定增长，表现稳中向好，彰显出中国制造业体系的韧性，反映出中国经济运行总体保持健康态势。&lt;/p&gt;&lt;p&gt;　　德国《商报》报道称，上半年中国新能源汽车、机器人等产业增长强劲。3D打印设备、锂离子电池和工业机器人产品等产量增长，表明中国产业转型升级扎实推进。&lt;/p&gt;&lt;p&gt;　　澳大利亚广播公司网站援引西太平洋银行国际经济主管埃利奥特·克拉克的分析称，高技术制造业类别是中国近期增长的主要驱动力，“中国制造业持续助力经济增长”。&lt;/p&gt;&lt;p&gt;　　欧洲新闻网刊文称，中国高科技产品出口蓬勃发展，“国际市场对中国商品的需求依然强劲”。&lt;/p&gt;&lt;p&gt;　　古巴拉丁美洲通讯社报道称，今年上半年中国出口总额同比增长13.4%，连续11个季度保持增长；进口总额比去年同期增长22.1%。中国仍然是世界贸易的主要参与者之一。&lt;/p&gt;&lt;p&gt;　　南非《每日商报》网站报道称，中国线上商务、远程医疗、数字文娱等新业态持续拓展，折射出中国新质生产力加快培育、新动能不断积聚。文章认为，中国依然是全球供应链的重要枢纽，持续推动全球产业升级和国际贸易发展。&lt;/p&gt;&lt;p&gt;　　美国《福布斯》杂志墨西哥版报道，中国是墨西哥第二大贸易伙伴，向墨西哥出口产品正加速向机械设备、汽车零部件和电子设备等高端制造业产品转型。&lt;/p&gt;&lt;p&gt;　　“仅今年上半年，上海就有多个外资研发中心开业或扩建。越来越多外资企业将中国视为其亚太乃至全球业务的灯塔。”希腊航运新闻网称，中国正推出一系列新举措吸引和稳定外商投资，改善外资企业营商环境。“中国在外国公司的长期全球战略中扮演着兼具消费市场、生产基地和创新中心的角色。”报道说。&lt;/p&gt;&lt;p&gt;　　（本报北京、伊斯兰堡、曼谷、开罗、墨西哥城、柏林、堪培拉、约翰内斯堡7月25日电  记者谢佳宁、赵益普、杨一、沈小晓、程是颉、刘仲华、车斌、戴楷然） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 多家外媒关注中国经济半年报—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170990&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170990.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170990.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国经济展现出较强韧性（外媒看中国） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170990.html#[03版：要闻] 中国经济展现出较强韧性（外媒看中国）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “在拉中之间架起更多相知相亲的桥梁”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170991.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “在拉中之间架起更多相知相亲的桥梁” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  姜  波  陈尚文&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　日前，来自26个拉美和加勒比国家的29名记者和自媒体博主走进北京首都博物馆，参观并报道在这里举办的“玉米·黄金·美洲豹——玛雅与安第斯古代文明大展”。本次展览共汇集墨西哥、秘鲁两国20余家文博机构约800件馆藏精品，横跨3000年美洲古代文明史。展览设置多样的特色场景、互动装置和体验项目，将馆内外公共空间与多个展厅有机串联，化静态文物陈列为沉浸式体验。&lt;/p&gt;&lt;p&gt;　　格林纳达国家新闻署专员卡琳·莫兰—亚历山大表示，中方通过丰富多样的形式与先进的科技手段，精心打造此次展览，为中国观众打开了一扇认知远方文明的窗口。&lt;/p&gt;&lt;p&gt;　　“能在中国看到关于古代玛雅文明历史和文化的展览，我感到非常激动。”危地马拉记者协会副秘书长玛伊拉·佩雷斯表示，当前不同文明间加强对话的重要性更加凸显，一系列拉中文明交流活动为推动双方民众了解彼此的历史和文化、理解对方的思维和认知方式，进而增进友谊和互信发挥重要作用。&lt;/p&gt;&lt;p&gt;　　秘鲁美洲电视台记者迭戈·乌尔塔多表示，秘中两国友好交往源远流长，包括饮食等在内的秘鲁文化深受中国文化影响。近年来，随着两国经贸等领域合作不断深入，秘中人文领域交流日益密切。“希望未来秘中、拉中举办更多人文交流活动，在拉中之间架起更多相知相亲的桥梁。”乌尔塔多说。&lt;/p&gt;&lt;p&gt;　　“通过参观这一展览，我深刻感受到拉中文明联结、交流互鉴的重要意义。”巴西247新闻网记者卢西亚娜·奥利维拉表示，近年来，巴西和中国各领域务实合作不断深化，加强人文交流是两国民众的共同期待。今年，巴中双方共同庆祝“巴中文化年”，两国正在举办丰富多彩的文化交流活动，期待更多中国民众到访巴西，与巴西民众展开更深层次的交流，拉近彼此心与心的距离。&lt;/p&gt;&lt;p&gt;　　“墨西哥和中国都是具有悠久历史的文明古国，两国人民对彼此文化都具有浓厚的兴趣。”墨西哥《每日报》记者奥斯卡·奥利瓦雷斯表示，去年，拉中携手启动团结、发展、文明、和平、民心五大工程，这一展览就是“文明工程”成果的体现。&lt;/p&gt;&lt;p&gt;　　“国与国之间的交往，绝不仅限于贸易与投资合作，更需要构建文化层面的价值认同。”智利《公民报》记者马蒂亚斯·罗哈斯认为，中国提出的全球文明倡议为拉中增进彼此在文化层面的价值认同创造了平台。这一倡议倡导尊重世界文明多样性、重视文明传承和创新等，有力促进了拉中在科学、文化、教育等人文交流领域的广泛合作，期待未来拉中继续携手践行全球文明倡议，推动拉中文明在交流互鉴中焕发新的生命力。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  姜  波  陈尚文&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170991&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170991.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170991.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “在拉中之间架起更多相知相亲的桥梁” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170991.html#[03版：要闻] “在拉中之间架起更多相知相亲的桥梁”</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 共享生态文明  实现长期韧性</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170992.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 共享生态文明  实现长期韧性 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  张  驰&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　以“共享生态文明  实现长期韧性”为主题的第六十二届热带生物学与保护协会年会日前在云南西双版纳傣族自治州举行。来自全球60多个国家和地区的700余名科学家、保护实践者及青年学者围绕热带生态系统的未来、全球生物多样性保护路径、中国生态文明建设等议题进行讨论。&lt;/p&gt;&lt;p&gt;　　热带生物学与保护协会成立于1963年，是全球规模最大、历史最悠久的热带生态学学术组织之一。协会执行主席凯瑟琳·卡德卢斯表示：“热带生物学与保护协会年会再次在中国举办，是希望吸引全球热带生物科学家来到中国，实地体验中国生态保护最新成果。”在参观中国科学院西双版纳热带植物园、正在建设中的亚洲象国家公园后，卡德卢斯说：“中国在热带生物多样性保护方面工作成绩优秀，这里的实践令人振奋。”&lt;/p&gt;&lt;p&gt;　　中国科学院西双版纳热带植物园大型兽类多样性与保护研究组研究员、西班牙籍科学家康牧飒讲述了自己深度体验中国生态保护实践的经历。2020年3月，一群原本生活在西双版纳国家级自然保护区的野生亚洲象从西双版纳出发，一路向北进入昆明。随后在多部门努力下，象群安全返回原栖息地。“我看到中国政府部门的应对严肃、专业，最重要的是反应非常迅速。”康牧飒表示，中国正成为全球环境保护事业的领导力量，也将在履行联合国《生物多样性公约》等过程中扮演更重要角色。&lt;/p&gt;&lt;p&gt;　　在中国科学院西双版纳热带植物园，有着世界最高的森林观测塔吊系统——其吊篮工作高度达80米，可在直径120米范围水平移动，方便工作人员在超过1公顷的林冠上方开展研究工作。站在这个巨大的塔吊上，美国热带生物学家查克·坎农拍下了一张与望天树的合照。“中国的技术水平、科研设施和科研力量在全球名列前茅。”坎农说，令他尤其印象深刻的是中国的顶层设计能力——把生态文明建设纳入国家发展总体布局，五年规划使宏伟蓝图落地实施成为可能。&lt;/p&gt;&lt;p&gt;　　中国科学院西双版纳热带植物园主任星耀武说，近5年来，植物园领衔中国科学院东南亚生物多样性研究中心建设，与老挝、缅甸、泰国等国合作，形成覆盖中南半岛的植物引种协作网络。植物园已与亚洲、欧洲、大洋洲等20余个合作伙伴签署双边协议及合作备忘录，通过知识共享平台搭建、跨境联合科研攻关及生态保护协同行动，推动热带生物学前沿探索。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  张  驰&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170992&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170992.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170992.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 共享生态文明  实现长期韧性 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170992.html#[03版：要闻] 共享生态文明  实现长期韧性</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中方呼吁国际社会合力推动全球能源转型</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170993.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中方呼吁国际社会合力推动全球能源转型 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报华盛顿7月24日电  （记者李志伟）联合国消息：中国常驻联合国代表团临时代办孙磊24日在联大“加速全球能源转型”对话会上表示，能源转型是应对气候变化的核心问题和必由之路。国际社会应抓住机遇，抓紧行动，合力推动全球能源转型。&lt;/p&gt;&lt;p&gt;　　孙磊强调，中国是全球能源转型的积极推动者和贡献者。中国愿发挥技术和产业优势，同各国开展技术共享、产业共建、融资共商，为发展中国家能源公正转型提供真诚有力、实实在在的帮助，携手共同发展，共建清洁美丽世界。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170993&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170993.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170993.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中方呼吁国际社会合力推动全球能源转型 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170993.html#[03版：要闻] 中方呼吁国际社会合力推动全球能源转型</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 坚持以铸牢中华民族共同体意识为主线 推动民族团结进步促进法全面有效实施</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170994.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 李鸿忠在内蒙古调研时强调 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 坚持以铸牢中华民族共同体意识为主线 推动民族团结进步促进法全面有效实施 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　新华社呼和浩特7月25日电  中共中央政治局委员、全国人大常委会副委员长李鸿忠7月22日至25日在内蒙古调研。他强调，要坚持以习近平新时代中国特色社会主义思想为指导，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，深入学习贯彻习近平总书记关于加强和改进民族工作的重要思想，坚持以铸牢中华民族共同体意识为主线，推动民族团结进步促进法全面有效实施，在法治轨道上保障民族工作高质量发展。&lt;/p&gt;&lt;p&gt;　　李鸿忠到呼伦贝尔市、兴安盟等地，深入社区、嘎查、企业和边境口岸，调研民族团结进步和基层治理、农牧民生产生活以及特色优势产业、文旅融合发展、边贸经济等情况，实地考察呼伦湖、莫日格勒河生态保护成效，了解各民族交往交流交融历史文化遗产保护传承和爱国主义教育工作进展。他指出，要以民族团结进步促进法为依据，统筹经济、政治、文化、社会和生态文明建设，构筑中华民族共有精神家园，促进各民族全方位互嵌和广泛交往交流交融，共同守护人与自然和谐共生的生态家园，实现各民族共同繁荣发展。要加强普法宣传工作，引导各族人民牢固树立休戚与共、荣辱与共、生死与共、命运与共的共同体理念，自觉把铸牢中华民族共同体意识、推进中华民族共同体建设作为共同任务。要把贯彻实施法律作为推进民族事务治理体系和治理能力现代化的重要抓手，推动各地区各部门及公职人员严格依法履职尽责，推动公民、社会团体、企业事业组织认真履行法定义务，充分发挥法治固根本、稳预期、利长远的作用。&lt;/p&gt;&lt;p&gt;　　1947年4月到5月在乌兰浩特召开的内蒙古人民代表会议，成立了中国共产党领导的第一个省级民族自治区。李鸿忠到举行会议的五一会址调研。他强调，要深入开展中国共产党史、新中国史、改革开放史、社会主义发展史、中华民族发展史宣传教育，推动各族群众坚定不移听党话跟党走，增强走中国特色解决民族问题的正确道路的信心和决心，凝聚推进强国建设、民族复兴的磅礴力量。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 李鸿忠在内蒙古调研时强调 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170994&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170994.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170994.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 坚持以铸牢中华民族共同体意识为主线 推动民族团结进步促进法全面有效实施 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170994.html#[04版：要闻] 坚持以铸牢中华民族共同体意识为主线 推动民族团结进步促进法全面有效实施</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] “让大家的日子芝麻开花节节高”（全国“两优一先”风采）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170995.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 山西岢岚县宋家沟镇宋家沟村党支部—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “让大家的日子芝麻开花节节高”（全国“两优一先”风采） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  马睿姗&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　走进山西省岢岚县宋家沟村，山峁沟壑间，一排排古朴院落依山而建，连心桥上的大红灯笼随风摇曳。宋水街沿街青色石板路旁，村民们正在统一修建的特产摊位前忙碌。村口不时有旅游大巴驶入，原本静谧的小村热闹起来。&lt;/p&gt;&lt;p&gt;　　岢岚县位于吕梁山区。2017年，岢岚县开展易地移民安置工作，同步推进农村风貌整治，统一修缮民居、上下水入户、推行垃圾分类，村庄面貌焕然一新。&lt;/p&gt;&lt;p&gt;　　人居环境好了，如何增收致富？这是宋家沟村党员干部的心头事。&lt;/p&gt;&lt;p&gt;　　村两委因地制宜搭平台、拓岗位，配套建设停车场、游客接待中心、标识标牌系统，成功打造国家4A级旅游景区。2021年，村党支部书记游存明领办“节节高”旅游专业合作社，采用“合作社+农户”模式和“2个包村干部+1个摊位”结对帮扶机制，让村民在家门口吃上旅游饭。&lt;/p&gt;&lt;p&gt;　　眼下，岢岚县第九届乡村文化旅游季火热进行中，宋家沟景区“跟着非遗游岢岚”体验活动吸引大批游客。村民李建平经营的民宿迎来入住高峰，刚送走一批游客，赶紧返回房间打扫卫生，迎接即将到来的客人，一家人忙得不亦乐乎。&lt;/p&gt;&lt;p&gt;　　“当时村里的干部跟我说，老李啊，你有经营餐饮的经验，还是一名党员，现在村里正缺你这样的创业带头人！”李建平此前在广西务工，2017年，在村两委的动员下，他返回宋家沟村，将自家老宅改造成田园风格民宿和农家乐，主打乡土体验。“守着家工作生活，收入也不低，日子比在外面‘漂着’舒服多了。”李建平说，如今，村里有不少家民宿和农家乐，“大家的旅游饭碗越来越稳。”&lt;/p&gt;&lt;p&gt;　　发展旅游产业的同时，宋家沟村党支部坚持多点发力，依托当地资源禀赋，因地制宜培育特色农业产业，持续拓宽村民增收路径。&lt;/p&gt;&lt;p&gt;　　走进宋家沟沙棘产业园生产车间，生产线有序运转，工人正在封装沙棘浓缩液，打包发往各地销售网点。依托周边7万亩沙棘林资源，村两委推动沙棘深加工项目落地，建成宋家沟沙棘加工厂，形成“企业+合作社+农户+基地”的全链条发展模式。&lt;/p&gt;&lt;p&gt;　　“小沙棘变成富民大产业，原浆、茶饮、保健品等50余种产品销往国内市场。加工厂常年固定吸纳30名村民就业，月均工资3500元至6000元。”村党支部副书记、村委会副主任李爱岚介绍，每年的沙棘采摘季，产业园还能提供30余个临时务工岗位。&lt;/p&gt;&lt;p&gt;　　立足本地海拔高、日照长、温差大的气候条件，村两委持续培育特色种植产业。2025年，经过多方考察和招商引资，润泽蓝莓产业园落户宋家沟村。产业园用工需求多，村两委多次与园区对接洽谈，吸纳本村及周边村民务工。&lt;/p&gt;&lt;p&gt;　　“在家门口的产业园上班，既能照顾家庭，又能挣钱贴补家用。”村民王秀莲笑着说。据了解，蓝莓产业园同步打造观光采摘业态，助力乡村农旅融合发展。单棚蓝莓年产值可达23万元，每年发放农户工资超10万元，稳定带动20余名村民就业增收。&lt;/p&gt;&lt;p&gt;　　在抓好产业发展的同时，宋家沟村党支部成立村民议事会、红白理事会，共同商议制定了33条村规民约，不断提升乡村治理效能。通过“板凳议事会”，这些年村里已累计采纳落实群众建议128条，完成改厕202套，煤改电318户，村庄绿化覆盖率达45%；建成日间照料中心、污水处理厂，实现水电路网、通信宽带全覆盖；同时开展技能培训，实现有劳动能力家庭就业全覆盖。&lt;/p&gt;&lt;p&gt;　　这些年，7支党员志愿服务队常年在村里活跃，每年评“好媳妇、好公婆”“红旗示范户”，趣味运动会、自编话剧把男女老少都拽进了“文化场”。“邻里互助、感恩奋进”的新风，像穿村而过的岚漪河水，润透了村民们的心。&lt;/p&gt;&lt;p&gt;　　党员带头，群众参与，昔日的小山沟，蝶变为日子有盼头、生活有甜头、发展有劲头的幸福村。2025年，宋家沟村人均可支配收入达到18362元，村集体经济收入达到153.74万元。&lt;/p&gt;&lt;p&gt;　　“我们将进一步建强基层党组织，在乡村全面振兴一线带领乡亲们团结一心加油干，让大家的日子芝麻开花节节高。”游存明说。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  马睿姗&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 山西岢岚县宋家沟镇宋家沟村党支部—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170995&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170995.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170995.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “让大家的日子芝麻开花节节高”（全国“两优一先”风采） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170995.html#[04版：要闻] “让大家的日子芝麻开花节节高”（全国“两优一先”风采）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 上半年全国纪检监察机关处分四十一点二万人</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170996.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 上半年全国纪检监察机关处分四十一点二万人 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 包括省部级及以上干部七十四人 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者史一棋）中央纪委国家监委7月25日通报2026年上半年全国纪检监察机关监督检查审查调查情况。2026年上半年，全国纪检监察机关共立案53.8万件，处分41.2万人，其中包括省部级及以上干部74人。&lt;/p&gt;&lt;p&gt;　　通报显示，2026年上半年，全国纪检监察机关共接收信访举报218.8万件次，其中检举控告类信访举报56.2万件次。处置问题线索127.4万件。立案53.8万件，其中立案省部级及以上干部50人、厅局级干部2773人、县处级干部2.3万人、乡科级干部7.5万人；立案现任或原任村党支部书记、村委会主任5.4万人。处分41.2万人，其中党纪处分30.7万人、政务处分13.4万人；处分省部级及以上干部74人，厅局级干部2274人，县处级干部1.8万人，乡科级干部5.6万人，一般干部5.6万人，农村、企业等其他人员28万人。&lt;/p&gt;&lt;p&gt;　　根据通报，2026年上半年，全国纪检监察机关运用“四种形态”批评教育和处理84.3万人次。其中，运用第一种形态批评教育和处理42.4万人次，占总人次的50.4%；运用第二种形态处理34.1万人次，占40.4%；运用第三种形态处理4.1万人次，占4.9%；运用第四种形态处理3.6万人次，占4.3%。同时，坚持受贿行贿一起查，立案行贿人员1.9万人，移送检察机关1938人。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 包括省部级及以上干部七十四人 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170996&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170996.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170996.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 上半年全国纪检监察机关处分四十一点二万人 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170996.html#[04版：要闻] 上半年全国纪检监察机关处分四十一点二万人</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 加强监测预警  做好避险转移（扎实做好防灾救灾各项工作）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170997.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 各地区各部门全力应对台风“红霞”和强降雨天气 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 加强监测预警  做好避险转移（扎实做好防灾救灾各项工作） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　7月25日22时，中央气象台发布台风红色预警。25日22时，今年第12号台风“红霞”由台风级加强为强台风级，其中心位于广东惠州市惠东县东南方向大约100公里的近海海面上，中心附近最大风力有14级。预计，台风“红霞”将以每小时20公里左右的速度向西北方向移动，强度还将有所增强，将于26日凌晨在广东深圳到海丰一带沿海登陆。&lt;/p&gt;&lt;p&gt;　　25日，中国气象局提升重大气象灾害应急响应为二级，广东、福建、江西、湖南、湖北、河南、河北、山西、山东、安徽、江苏、云南、广西、四川以及黑龙江、吉林、甘肃等地可能受影响的省级气象局根据实际研判启动或调整相应级别应急响应。25日18时，中央气象台发布暴雨红色预警和强对流天气黄色预警，发布中小河流洪水气象风险预警、渍涝风险气象警报。水利部和中国气象局联合发布红色山洪灾害气象预警。自然资源部与中国气象局联合发布橙色地质灾害气象风险预警。&lt;/p&gt;&lt;p&gt;　　受台风“红霞”及外围环流影响，25日至27日，江西南部、湖南东部等地有大暴雨，局地有特大暴雨。25日，应急管理部针对江西、湖南启动国家地质灾害四级应急响应，同时维持针对广东、福建的国家地质灾害四级应急响应。&lt;/p&gt;&lt;p&gt;　　25日，国家防总办公室、应急管理部组织多部门和重点省份联合会商，研判台风“红霞”和强降雨发展趋势，研究部署重点地区防汛防台风工作。&lt;/p&gt;&lt;p&gt;　　25日16时，国家防总将针对广东的防汛防台风应急响应提升至三级，并同步针对江西、湖南启动防汛四级应急响应。&lt;/p&gt;&lt;p&gt;　　25日16时，水利部针对福建、江西、河南、湖北、湖南、广东、广西等省份启动洪水防御Ⅳ级应急响应。&lt;/p&gt;&lt;p&gt;　　交通运输部已启动台风二级防御响应、强降雨二级防御响应。25日，交通运输部调度广东、福建省交通运输厅，广东、福建海事局，深圳海事局，南海救助局和广州打捞局，要求升级各项部署、管控、防范举措，对台风核心影响区的船舶，全面落实“关、停、撤、转”措施。&lt;/p&gt;&lt;p&gt;　　为应对台风“红霞”，25日23时，广东省防总将防风Ⅱ级应急响应提升为防风Ⅰ级应急响应。截至25日16时，广东已有19个市135个区县启动防风、防汛应急响应。25日20时，福建省气象台将暴雨预警提升为Ⅲ级，继续发布台风预警Ⅲ级，福建省防指决定启动防汛四级应急响应并维持防台风Ⅲ级应急响应。&lt;/p&gt;&lt;p&gt;　　（本报记者李红梅、蒋雪鸿、刘温馨、邓剑洋、韩鑫、程远州、付文） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 各地区各部门全力应对台风“红霞”和强降雨天气 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170997&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170997.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170997.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 加强监测预警  做好避险转移（扎实做好防灾救灾各项工作） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170997.html#[04版：要闻] 加强监测预警  做好避险转移（扎实做好防灾救灾各项工作）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 千年窑火  辉映世界</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170998.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; “景德镇手工瓷业遗存”成为首个“瓷”主题世界遗产 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 千年窑火  辉映世界 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王  珏  何思琦&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　瓷，脱胎于泥、淬炼于火，历经72道工序烧制而成。景德镇，因瓷而生、因瓷而兴，以一炉窑火铸就千年瓷都。&lt;/p&gt;&lt;p&gt;　　2023年10月，习近平总书记在江西景德镇考察调研时指出：“中华优秀传统文化自古至今从未断流，陶瓷是中华瑰宝，是中华文明的重要名片。”&lt;/p&gt;&lt;p&gt;　　今年7月25日，在韩国釜山召开的联合国教科文组织第四十八届世界遗产大会上，“景德镇手工瓷业遗存”成功列入《世界遗产名录》，填补《世界遗产名录》中“瓷”主题的空白，成为中国第六十一项世界遗产。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;一炉窑火，映照景德镇瓷业绵延&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　站在御窑厂遗址龙珠阁上极目远眺，夏日的风裹着昌江水的气息扑面而来。目光所及，昌江如一条碧色丝带穿城而过。远处，东河、南河、建溪河3条支流，在阳光下泛着细碎的银光。一江三河，串联起景德镇“一镇四区”——镇区瓷业生产中心、湖田古瓷窑址、高岭瓷土矿遗址、长岭瓷石矿遗址和蛟潭窑柴燃料产区，将“景德镇手工瓷业遗存”连接为一个整体，更贯穿起千年瓷业的发展历程。&lt;/p&gt;&lt;p&gt;　　成功申遗的“景德镇手工瓷业遗存”，全面覆盖原料产地、燃料产地、生产中心、运输系统各关键环节代表性遗存。完整的产业分工体系，展现了景德镇手工瓷业的演进脉络。&lt;/p&gt;&lt;p&gt;　　“这是全球首个以手工瓷业全产业链生产体系为核心属性的世界文化遗产。”国家文物局世界文化遗产司司长邓超说，五大片区的组合结构，见证了高度集约化、精细化、专业化的产业分工，完整解答了景德镇千年瓷业长盛不衰、成为全球制瓷中心的原因。&lt;/p&gt;&lt;p&gt;　　“镇、窑、土、石、柴”5个字，勾勒出“景德镇手工瓷业遗存”的骨架。&lt;/p&gt;&lt;p&gt;　　掘石千嶂，采土万脉。“土”，是高岭土；“石”，是瓷石、釉果；“柴”，是窑柴。这三样，取之于山野，行之以水路，从周边乡村源源不断地运往镇区——完备的制瓷体系，离不开这样一套完整而高效的原料、燃料供应链。人们借此方式，完成了低成本、规模化、标准化的开发与运输，这是千百年前就深植于民间的卓越智慧。&lt;/p&gt;&lt;p&gt;　　大午坑瓷石明矿遗址上，一块巨大石梁横卧山间，见证着当年大规模的人工开采；“高岭”，这个以中国地名命名的国际矿物学专用术语，背后是一种改变历史的原料，正是高岭土的发现和应用，让混合使用瓷石与高岭土的“二元配方”技术落地成熟；来自蛟潭的窑柴，则借水势顺流而下，在镇区化作一个个窑炉中的炉火。“这其实是以当时的手工业城镇为中心，整合周边乡村乡野的一种生产体系。”景德镇申报项目文本编制团队负责人魏青说，“景德镇手工瓷业延续了1000余年，超越了传统手工业的生命周期，形成了‘制瓷技术、瓷器艺术体系’和‘制瓷产业体系’两条发展路径，造就了景德镇在全球的广泛影响和市场竞争力。”&lt;/p&gt;&lt;p&gt;　　“窑”，在湖田窑，这里曾见证了中国南北制瓷技术的融合。从龙窑、马蹄窑到葫芦窑，再到镇窑，一个个窑炉遗迹让人们仿佛看到“家家窑火，户户陶埏”的千年遗韵。&lt;/p&gt;&lt;p&gt;　　“高温窑炉本身就是一种技术革命，它使瓷器烧制成为可能，令瓷器成为‘泥与火的艺术’。”故宫博物院研究馆员王光尧说，正是在这样的窑火中，稳定烧成的青白瓷，为景德镇发展成为中国瓷器生产中心奠定了基础。&lt;/p&gt;&lt;p&gt;　　“镇”，即指镇区瓷业生产中心，御窑厂窑址、落马桥窑址、观音阁窑址等考古遗址，连同民窑窑房、作坊建筑、古道、河道、码头等，铺展出景德镇“匠从八方来，器成天下走”的繁盛景象。在这里，“二元配方”技术从萌芽走向成熟，让中国手工制瓷技术完成关键飞跃，也把景德镇推上了世界瓷业的巅峰。&lt;/p&gt;&lt;p&gt;　　“景德镇青花瓷作为中华文化传播的重要载体、东方艺术的重要符号，是17至18世纪风靡欧洲的‘中国风’的重要组成部分，深刻影响了西方绘画、家具、建筑装饰等艺术领域，推动了中华文明、中华文化的全球化表达。”邓超说。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;十一载申遗，织就保护体系经纬&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　2015年，习近平总书记对御窑厂遗址保护工作作出重要批示，为推动以御窑厂遗址为核心的瓷业遗存和文化遗产保护指明方向。&lt;/p&gt;&lt;p&gt;　　如今，走进景德镇瓷业文化遗产保护中心的监测中心大厅，巨型电子大屏实时滚动全域遗产点位画面，古窑、古码头等遗存状态一目了然。正值汛期，监测到一处临水遗产段出现隐患，工作人员第一时间赶赴现场开展应急加固，守护文化遗产安全。&lt;/p&gt;&lt;p&gt;　　监测中心负责人徐冠翔介绍：“我们结合各类窑址、街巷的不同保存特性，搭建起‘专业巡查+公众巡检’立体化隐患排查体系，实现遗产点位巡查全覆盖。”&lt;/p&gt;&lt;p&gt;　　核心遗址的精细保护，是景德镇整体保护的关键一环。景德镇保护工作持续近半个世纪，申遗工作历时11年。2015年，申遗工作正式启动。2017年，御窑厂遗址列入《中国世界文化遗产预备名单》。2019年，景德镇获批设立国家陶瓷文化传承创新试验区。2025年，国际古迹遗址理事会专家开展现场技术评估。2026年，“景德镇手工瓷业遗存”成功列入《世界遗产名录》。&lt;/p&gt;&lt;p&gt;　　在保护的基础上，景德镇有序开放御窑厂窑址、观音阁窑址、高岭瓷土矿遗址、蛟潭窑柴燃料产区等多处关键遗产点位，打造开放式、可漫步、可触摸的活态遗产空间，打通考古遗址、非遗技艺、文旅体验融合通道。&lt;/p&gt;&lt;p&gt;　　陶阳十三里，烟火十万家。在景德镇陶阳里历史文化街区，108条千年里弄、400余年的明清窑作群、70余年的陶瓷工业遗产，勾勒出景德镇瓷业辉煌的发展史。在城市发展中，景德镇对该区域进行整体修缮，引入陶瓷手工制作、售卖、展示等业态。&lt;/p&gt;&lt;p&gt;　　在陶阳里徐家窑，省级非遗代表性传承人、孙公窑第四代传人孙立新手握素坯，将笔递给身旁的游客，请对方先添上一笔。随后他接过笔顺势勾勒起来，不过片刻，一匹骏马便从那一笔中生长出来，昂首扬蹄。&lt;/p&gt;&lt;p&gt;　　“景德镇的瓷器是所有工匠共同创造出来的，景德镇能发展到今天，一个重要原因就是不同工序的专业化分工。”孙立新饱含深情地说，一个人一辈子只做一件事，用几十年的光阴去打磨一道工序，技艺自然就有了筋骨和温度。&lt;/p&gt;&lt;p&gt;　　景德镇市委书记陈克龙说，以申遗为契机，景德镇将瓷业文化遗产保护、老城活化、申遗攻坚深度融合，构建法规、规划、机构三位一体的科学保护体系，打造“考古先行、保护筑基、展示赋能、活态传承”保护模式。&lt;/p&gt;&lt;p&gt;　　从高岭矿山到御窑遗址，从老城街巷到非遗技艺，景德镇打破碎片化保护的瓶颈，经过坚持不懈地深耕守护，覆盖全域、贯通古今、融合物质与非物质文化遗产的系统性保护体系已然成形。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;共建共享，守护活态瓷都文脉&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记指出，把“千年瓷都”这张靓丽的名片擦得更亮。&lt;/p&gt;&lt;p&gt;　　在落马桥窑址，一个MR（混合现实）体验项目让观众头戴设备行走于遗址现场，复原的窑址场景与工匠制作的流程就在眼前铺展，虚实交织，令人沉浸其中。“太真实了，仿佛亲眼见到当年壮观的手工制瓷场景，读懂了景德镇千年积淀的匠心底蕴。”来自江苏南京的中学生张琳感叹。&lt;/p&gt;&lt;p&gt;　　申遗期间，《景德镇手工瓷业遗存系列遗产保护管理规划（2025—2035年）》《景德镇市瓷业文化遗产保护条例》相继发布，以规划立法夯实保护的制度支撑。景德镇持续推动瓷业遗产保护从少数人的专业事变成多数人的身边事，走出一条民众共建、共享的遗产保护之路。&lt;/p&gt;&lt;p&gt;　　让千年瓷脉融入日常，这是景德镇的“生活范”。&lt;/p&gt;&lt;p&gt;　　在景德镇御窑厂国家考古遗址公园内，以传统柴窑为原型、用280万块窑砖砌筑而成的御窑博物馆，静静卧于地面。博物馆内，明宣德青花蟋蟀罐、明成化素三彩鸭形香薰等800余件展品琳琅满目。遗址保护棚下，观众俯身就能近乎零距离感知600余年御窑生产的原生地层。景德镇御窑博物院院长翁彦俊说：“我们依托古陶瓷基因库解码海量瓷片蕴含的文明密码，保留瓷都原料、生产、运输、生活的完整历史脉络，让观众更好感受千年瓷业文脉。”通过文化遗产原真性保护与大众化共享的双向赋能，文化遗产保护成果转化为市民、游客可感可及的获得感与幸福感。&lt;/p&gt;&lt;p&gt;　　以数字技术激活遗产，这是景德镇的“科技范”。&lt;/p&gt;&lt;p&gt;　　在各个遗址点，观众只需轻触手机扫一扫，登录“数字守艺人”小程序，便可一键导航探访瓷业遗址，在线参与巡检、反馈问题，从观光者变成守护者。“‘数字守艺人’公众巡检活动收集的有效记录将与专业监测数据互为补充，形成更为立体的遗产保护信息网络。”景德镇市瓷业文化遗产保护中心副主任周黎黎介绍。以系统性数字化保护为基础，景德镇构建起价值可持续、全民可参与的活态遗存保护体系。&lt;/p&gt;&lt;p&gt;　　让古老窑火薪火相传，这是景德镇的“青春范”。&lt;/p&gt;&lt;p&gt;　　近年来，景德镇持续吸引年轻力量，搭建多元传承平台，让青年走近遗产、读懂遗产、传承遗产。景德镇初二学生张孖玥去年通过选拔，成为“小小申遗讲解员”。“从‘官搭民烧’到克拉克瓷外销，每次讲解，就是一次对家乡历史的深度学习。”张孖玥说，我想当好新一代守窑人，让更多人走进景德镇，在老巷弄中感受瓷都的魅力。&lt;/p&gt;&lt;p&gt;　　以瓷为媒联通世界，这是景德镇的“国际范”。&lt;/p&gt;&lt;p&gt;　　今年5月，来自土耳其的陶瓷艺术家皮纳尔以特邀艺术家身份入驻景德镇陶溪川艺术中心。“来景德镇是我一直以来的梦想，这里是一个可以自由创造的地方。我结识了许多中国青年艺术家，感受到技术和灵感的迸发与碰撞。”皮纳尔说。如今，6万多名“景漂”及其中数千名“洋景漂”在景德镇扎根，延续着手工制瓷的古老传统，也在激荡着创新的活力。&lt;/p&gt;&lt;p&gt;　　文化和旅游部副部长、国家文物局局长饶权说：“在习近平文化思想指引下，景德镇手工瓷业不断加强系统性、整体性保护。下一步，我们将履行世界遗产公约责任义务，做好‘景德镇手工瓷业遗存’的永续保护与传承发展，持续提升中国世界文化遗产保护管理水平，把中华文化瑰宝守护好，让世界读懂中华文明。”&lt;/p&gt;&lt;p&gt;　　窑火不熄，文脉永续。景德镇正以申遗成功为新起点，让千年窑火照亮更远的未来。&lt;/p&gt;&lt;p&gt;　　（本报记者周欢参与采写）&lt;/p&gt;&lt;p&gt;　　（相关报道见第三、六、七版）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王  珏  何思琦&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; “景德镇手工瓷业遗存”成为首个“瓷”主题世界遗产 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170998&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170998.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170998.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 千年窑火  辉映世界 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170998.html#[04版：要闻] 千年窑火  辉映世界</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 海南省人大常委会原党组成员、副主任肖杰严重违纪违法被开除党籍</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170999.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 海南省人大常委会原党组成员、副主任肖杰严重违纪违法被开除党籍 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者史一棋）经中共中央批准，中央纪委国家监委对海南省人大常委会原党组成员、副主任肖杰严重违纪违法问题进行了立案审查调查。&lt;/p&gt;&lt;p&gt;　　经查，肖杰丧失理想信念，背弃初心使命，对抗组织审查；无视中央八项规定精神，违规收受礼品，接受可能影响公正执行公务的宴请；在干部选拔任用工作中为他人谋取利益；利用职权为亲属谋取利益；对所在单位超标准发放农机补贴问题负有重要领导责任；目无法纪，利用担任“一把手”的职权大肆插手工程项目，搞权钱交易，利用职务便利为他人在补贴申领、项目承揽等方面谋利，并非法收受巨额财物。&lt;/p&gt;&lt;p&gt;　　肖杰严重违反党的政治纪律、组织纪律、廉洁纪律和工作纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中共中央批准，决定给予肖杰开除党籍处分；按规定取消其享受的待遇；终止其海南省第八次党代会代表资格；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30170999&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170999.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30170999.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 海南省人大常委会原党组成员、副主任肖杰严重违纪违法被开除党籍 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30170999.html#[04版：要闻] 海南省人大常委会原党组成员、副主任肖杰严重违纪违法被开除党籍</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171000.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者史一棋）经中共中央批准，中央纪委国家监委对中国核工业集团有限公司原党组副书记、总经理顾军严重违纪违法问题进行了立案审查调查。&lt;/p&gt;&lt;p&gt;　　经查，顾军丧失理想信念，背弃初心使命，对抗组织审查，搞迷信活动；违反中央八项规定精神，违规收受礼金，违规接受宴请、旅游活动安排；违反组织原则，在职工录用工作中为他人谋取利益；廉洁底线失守，搞权色交易；将党和人民赋予的公权力异化为谋取私利的工具，大肆收钱敛财，利用职务便利为他人在项目承揽、设备采购、款项拨付等方面谋利，并非法收受巨额财物。&lt;/p&gt;&lt;p&gt;　　顾军严重违反党的政治纪律、组织纪律、廉洁纪律和生活纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中共中央批准，决定给予顾军开除党籍处分；按规定取消其享受的待遇；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171000&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171000.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171000.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171000.html#[04版：要闻] 中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171001.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者史一棋）经中共中央批准，中央纪委国家监委对华润（集团）有限公司原党委委员、副总经理韩嵩严重违纪违法问题进行了立案审查调查。&lt;/p&gt;&lt;p&gt;　　经查，韩嵩丧失理想信念，背弃初心使命，搞迷信活动；违反中央八项规定精神，多次接受可能影响公正执行公务的宴请和旅游安排，接受管理和服务对象提供的出行服务；在职务晋升、职工录用工作中为他人谋取利益；廉洁底线失守，违规收受礼品、消费卡，纵容、默许亲属违规取酬；违规干预和插手市场经济活动；毫无纪法底线，将权力异化为谋取个人私利的工具，大搞权钱交易，利用职务便利为他人在项目承揽、职务晋升等方面谋利，并非法收受巨额财物。&lt;/p&gt;&lt;p&gt;　　韩嵩严重违反党的政治纪律、组织纪律、廉洁纪律、工作纪律和生活纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中共中央批准，决定给予韩嵩开除党籍处分；由国家监委给予其开除公职处分；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171001&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171001.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171001.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171001.html#[04版：要闻] 华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 最高检印发《人民检察事业发展“十五五”规划》</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171002.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 最高检印发《人民检察事业发展“十五五”规划》 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京7月25日电  （记者倪弋）最高人民检察院近日印发《人民检察事业发展“十五五”规划》，明确“十五五”时期检察工作的主要目标是：到2030年，检察机关职能配置、机构设置、履职办案、检察管理、队伍建设、检务保障等各方面体制机制更加健全，检察环节司法公正实现和评价机制更加完善，法律监督质效明显提升，科技强检有力推进，基层基础更加坚实，服务改革发展稳定职能充分发挥，在建设更高水平平安中国、法治中国中的作用更加凸显，中国特色社会主义检察制度更加成熟定型。&lt;/p&gt;&lt;p&gt;　　规划围绕健全检察机关法律监督体系，更好服务坚持全面依法治国，从着力构建高质效办案制度机制体系，全面加强审查逮捕、审查起诉工作，全流程加强刑事诉讼监督，全方位加强刑事执行监督，有效加强民事检察工作，有力有序加强行政检察工作，加强公益诉讼检察工作等13个方面进行系统部署。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171002&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171002.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171002.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 最高检印发《人民检察事业发展“十五五”规划》 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171002.html#[04版：要闻] 最高检印发《人民检察事业发展“十五五”规划》</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 一版责编：许  诺  胡安琪  赵  政  二版责编：蒋雪婕  张安宇  何  彪  三版责编：韩晓明  姜  波  关皓宇  四版责编：白之羽  刘静文  余  璇</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171003.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：许  诺  胡安琪  赵  政  二版责编：蒋雪婕  张安宇  何  彪  三版责编：韩晓明  姜  波  关皓宇  四版责编：白之羽  刘静文  余  璇 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171003&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171003.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171003.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：许  诺  胡安琪  赵  政  二版责编：蒋雪婕  张安宇  何  彪  三版责编：韩晓明  姜  波  关皓宇  四版责编：白之羽  刘静文  余  璇 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171003.html#[04版：要闻] 一版责编：许  诺  胡安琪  赵  政  二版责编：蒋雪婕  张安宇  何  彪  三版责编：韩晓明  姜  波  关皓宇  四版责编：白之羽  刘静文  余  璇</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：港澳台侨] 香港推进制定首个五年规划（香江在线）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171004.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 特区政府勇于担当、行政立法密切配合、社会各界广泛参与—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 香港推进制定首个五年规划（香江在线） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  冯学知&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　从香港特区政府总部会议室、社区会堂到网上平台，从专业人士、青年学生到耄耋长者，从城市规划、产业发展到民生福祉……近段时间以来，围绕香港特别行政区经济和社会发展第一个五年规划（2026—2030），在行政长官和特区政府带领下，香港社会各界密集举办各类活动，通过多种渠道踊跃建言献策，支持香港特区政府全速制定香港首个五年规划。&lt;/p&gt;&lt;p&gt;　　一次次讨论、一条条建议、一份份报告，正汇聚成香港未来5年发展的行动纲领，成为香港主动识变应变求变、革新管治理念、改进管治方式的生动注脚。&lt;/p&gt;&lt;p&gt;　　跳出旧模式，转变管治理念&lt;/p&gt;&lt;p&gt;　　今年2月4日，立春。在二十四节气中，这一天意味着草木萌发、万象更新。&lt;/p&gt;&lt;p&gt;　　当晚，在香港会展中心举行的新春团拜会上，香港特区行政长官李家超正式对外宣布，“将领导特区政府不同政策局和部门，主动对接国家‘十五五’规划框架，并首次制定香港的五年规划。”“香港五年规划”，迅速成为舆论焦点，受到海内外广泛关注。&lt;/p&gt;&lt;p&gt;　　短期思维，曾困扰着香港的发展。&lt;/p&gt;&lt;p&gt;　　“过去，特区政府施政以每年的施政报告为主导，缺乏长远规划和布局，导致深层次矛盾一直难以解决。”全国政协常委、中国和平统一促进会香港总会会长姚志胜说。&lt;/p&gt;&lt;p&gt;　　“这些痛点，皆因为旧模式无法适应新情况。”全国港澳研究会顾问、香港再出发大联盟秘书长谭耀宗认为，这些问题相互关联，牵一发而动全身，需要系统性、前瞻性的治理方案，“制定香港首个五年规划，标志着香港特区管治理念的重要转变，体现了特区政府的决心和担当”。&lt;/p&gt;&lt;p&gt;　　不少学者指出，在动荡不安的国际形势中，我国持续成为世界经济增长的重要稳定器和动力源，更好融入和服务国家发展大局是香港应变求变的必然选择。&lt;/p&gt;&lt;p&gt;　　“在各种新情况新挑战下，香港社会对于对接和服务国家发展战略表现出越来越大的主动性、积极性和迫切性。”全国港澳研究会顾问刘兆佳说，如果香港缺乏自身发展战略，便难以对接国家发展战略，制定首个五年规划，有利于提升香港特区政府和社会各界的战略、宏观和长远思维。&lt;/p&gt;&lt;p&gt;　　“对接国家‘十五五’规划，能让工商界更好地稳预期、明方向。”香港中华出入口商会会董、香港特区立法会议员钟奇峰表示，香港制定五年规划后，发展规划就不再只是“年度式”“零散式”，而是清晰衔接国家高质量发展蓝图，让企业在投资、布局、转型上有更加清晰的未来视野，尤其有利于进出口、专业服务等行业更好融入国内国际双循环。&lt;/p&gt;&lt;p&gt;　　行政主导下，行政立法良性互动迈上新台阶&lt;/p&gt;&lt;p&gt;　　香港首个五年规划的编制工作由香港特区行政长官主导，香港特区政府政制及内地事务局主责，各政策局成立编制小组，目标是制定出一个具有前瞻性、策略性和可操作性的指导文件。&lt;/p&gt;&lt;p&gt;　　今年2月以来，“香港特区政府全速编制香港首个五年规划”的消息引发多方关注。记者了解到，香港首个五年规划的公众咨询时间由今年第四季度提前至第二季度，五年规划正式文件的发布时间由今年底提前至第三季度。近几个月来，李家超密集会见各界人士，特区政府多部门举办咨询会。香港特区政府正以时不我待的紧迫感，担负起团结社会各界对接国家“十五五”规划的重要角色。&lt;/p&gt;&lt;p&gt;　　“编制香港首个五年规划是一项光荣的历史性任务，把它落实到底是特区政府对香港未来5年发展的集体承担。”李家超说。&lt;/p&gt;&lt;p&gt;　　如何能在短时间内广纳民意、集思广益，完成香港首个五年规划的编制？香港行政主导原则下更紧密、更具建设性的行政、立法良性互动给出了答案。据悉，香港特区政府成立政府和立法会协同研究及意见收集机制，在行政主导体制下，就多项发展专题进行协同研究、收集专项意见，并在特区政府发表公众咨询文件后协同收集社会意见。&lt;/p&gt;&lt;p&gt;　　香港特区立法会，既是特区管治架构的重要组成部分，也是社情民意的汇集地。从集体考察香港北部都会区，到组团赴上海调研，再到举办交流会、咨询会，立法会议员们按照专业、界别与工作范畴分工，广泛联系社会各界，主动倾听基层心声，开展专题调研、跨界别咨询与深度研讨等。&lt;/p&gt;&lt;p&gt;　　“在面向公众和业界进行咨询过程中，我感受到社会各界齐心协力，对香港长远发展充满期待，愿景比以往每年施政报告咨询时更宏大，大家就土地紧张、人口老化、发展创新科技等议题提出了很多务实建议。”香港特区立法会议员梁美芬说。&lt;/p&gt;&lt;p&gt;　　“在短短1个月时间里，各专题组共举办99场咨询会，接触社会各界人士超过4000人次，累计收集意见及建议书570份。”立法会香港主动对接国家“十五五”规划工作小组委员会主席吴秋北表示，意见成果覆盖范围广、针对性强、含金量高，为特区政府编制五年规划筑牢民意基础与专业支撑。&lt;/p&gt;&lt;p&gt;　　5月29日，香港特区立法会主席李慧琼与部分议员赴香港特区行政长官办公室，代表立法会向李家超提交了以“助力特区政府，做好五年规划”为题的专题研究及意见收集报告，协助特区政府推进规划编制工作。&lt;/p&gt;&lt;p&gt;　　“特区政府与特区立法会成立协同机制具有开创性意义，立法会能在政府构思重大发展愿景、政策举措的前期阶段提早参与，标志着行政与立法良性互动迈上新台阶。”李慧琼说。&lt;/p&gt;&lt;p&gt;　　广纳社会各界意见&lt;/p&gt;&lt;p&gt;　　6月15日，香港特区政府总部，特区政府政制及内地事务局局长谢小华手捧蓝色封面的文件，在闪光灯中向媒体展示香港特别行政区经济和社会发展第一个五年规划（2026—2030）公众咨询文件。香港首个五年规划，进入为期两个月的公众咨询阶段。&lt;/p&gt;&lt;p&gt;　　公众咨询文件分为六个部分，包括“加快北部都会区建设及推进其他地区空间规划”“经济、金融和贸易”“创新科技和产业发展”“民生及社会发展”“区域合作发展”和“文体旅协同发展、绿色生活及其他”。香港未来5年发展蓝图的雏形，在公众面前展开。&lt;/p&gt;&lt;p&gt;　　“善用北部都会区新发展及旧区更新的契机，在新推出项目中逐步优化公营房屋面积配置及提升私营住宅单位的面积要求。”看到香港五年规划公众咨询文件中的这句话，香港特区立法会议员姚铭格外欣慰。今年5月，他在立法会提出有关“提高北部都会区人均居住面积”的议案，获得特区政府有关部门积极回应。“特区政府以人为本的施政理念、从善如流的工作作风，让市民看到了将来住得更大、住得更好的希望。”姚铭说。&lt;/p&gt;&lt;p&gt;　　在公众咨询期间，特区政府持续举办咨询会，香港各大政团、专业团体、工商业组织等纷纷向特区政府提交建议。截至7月中旬，特区政府已收到逾2000份建议书。谢小华表示，香港首个五年规划与每一位市民息息相关，公众咨询旨在广纳社会各界意见、凝聚共识，特区政府愿意聆听各方建议。&lt;/p&gt;&lt;p&gt;　　今年过半，陆续出炉的经济数据令香港社会为之一振：香港2026年一季度本地生产总值实现5年来最高季度增速、新股市场融资额继续位居全球首位、跃居全球最大跨境财富管理中心、上半年访港游客数量同比增长13%……香港经济学家、丝路智谷研究院院长梁海明认为，香港一季度强劲的经济表现，为首个五年规划的制定注入了强大信心，将吸引持续不断的资金和资源流向香港。&lt;/p&gt;&lt;p&gt;　　“香港当前经济发展势头良好，首个五年规划也将制定，为香港更好融入和服务国家发展大局、开创更好前景打下基础，香港市民对民生持续改善、生活得更好充满期盼。”香港民建联主席陈克勤说。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  冯学知&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 特区政府勇于担当、行政立法密切配合、社会各界广泛参与—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171004&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171004.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171004.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 香港推进制定首个五年规划（香江在线） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171004.html#[05版：港澳台侨] 香港推进制定首个五年规划（香江在线）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：港澳台侨] 食品安全岂能沦为政治“投名状”（观沧海）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171005.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 食品安全岂能沦为政治“投名状”（观沧海） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							长  乐&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　近期，岛内爆出有大豆色拉油验出致癌物苯并芘超标，引发台湾社会对食品安全的担忧。从开放进口“莱猪”“莱牛”“毒马铃薯”到“毒苹果”，再到如今为祸全台的“毒油”，民进党当局充分暴露其漠视民生的丑恶嘴脸。正如台媒报道，民众健康权成为绿营喂养“绿友友”或向外部势力输诚的“贡品”，台湾民众的健康从来不是民进党当局的第一考量，甚至许多情况下，民众健康根本不在其考量之列。&lt;/p&gt;&lt;p&gt;　　食品关乎民生，食品安全是民生底线。苯并芘被世界卫生组织列为一级致癌物，大量问题油品流向众多家庭、学校、餐馆的餐桌，严重危害台湾民众的生命健康。面对如此重大的食品安全事件，民进党当局拖延处置，不但企图“盖牌”隐瞒信息，甚至荒谬辩称“炸鸡排也会产生致癌物，不建议常吃”，民进党发言人更脱口而出“又不是我逼你吃”，其傲慢与冷血令人发指。&lt;/p&gt;&lt;p&gt;　　回溯乱象，2021年1月，民进党当局违背台湾民众意愿，执意开放进口含莱克多巴胺（“瘦肉精”）的美国猪肉，从一开始就引发岛内各界强烈反对和民众公愤。近年来，岛内接连发生美国猪肉“洗产地”风波、有关县市禁止“莱猪”进入校园餐食胜诉等事件，充分表明民进党当局的做法不得人心。今年以来，面对美国借所谓“美台对等贸易协议”进行经济霸凌、产品倾销，民进党当局反而对美国马铃薯进口降低检验检疫标准，将发芽的“毒马铃薯”端上台湾老百姓的餐桌。前不久，民进党当局拟将苹果中农药芬普尼的残留容许量从0.5ppm（百万分之一）大幅放宽至3.0ppm，为美国问题苹果输台大开绿灯。为了迎合美方需求，民进党当局大规模放宽174项美国农产品的农药残留标准，其中包括被美国环保署列为“具致癌潜力”的农药，引发岛内民众对食品安全的疑虑和恐慌。&lt;/p&gt;&lt;p&gt;　　民进党当局全然不顾台湾民众的健康福祉，公然弃守食品安全底线，一次又一次把牺牲民众的生命健康作为向美国献媚的“投名状”。一桩桩、一件件，其“双标”嘴脸暴露无遗：民进党在上台之前，曾强烈反对进口“莱牛”，打着“守护民众健康”的旗号骗取选票；上台后，却专断开放进口“莱猪”，将民众的安危明码标价，换取外部势力对其谋“独”行径的支持。这种“今是昨非”的变脸，说明民进党并无核心价值理念，讲求的只是一党私利，从而不惜以台湾同胞的生命安全和身体健康为代价去“跪美卖台”。&lt;/p&gt;&lt;p&gt;　　更令人不齿的是，民进党当局一边对美方不合理诉求全盘接纳，毫无底线；一边对台湾民众的健康诉求及民生呼声置若罔闻、肆意践踏。面对岛内的质疑与怒火，民进党当局始终拒不认错、拒不整改，反而百般狡辩、粉饰洗白，用虚假话术糊弄民众、掩盖祸心。足可见食品安全、民众健康、民生福祉在民进党当局的政治私利面前一文不值，都沦为向美国攀附示好、换取政治筹码的廉价“投名状”。漠视民生、祸台殃民的坏事干多了，民进党当局必将搬起石头砸自己的脚。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;长  乐&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171005&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171005.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171005.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 食品安全岂能沦为政治“投名状”（观沧海） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171005.html#[05版：港澳台侨] 食品安全岂能沦为政治“投名状”（观沧海）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：港澳台侨] 青春连结 跃动未来</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171006.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 青春连结 跃动未来 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/568a3f28-a557-4a3a-afec-bbcafba7d474.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　日前，以“青春连结·跃动未来”为主题的澳门“国际青年舞蹈节”举办。在澳门综艺馆举行的首场室内演出中，来自中国内地及澳门，以及墨西哥、斯里兰卡、新加坡等国家和地区的舞蹈队员为观众带来精彩的视听盛宴。&lt;/p&gt;&lt;p&gt;　　图为来自澳门的舞蹈队员正在表演。&lt;/p&gt;&lt;p&gt;　　郑嘉伟摄（人民视觉） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171006&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171006.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171006.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 青春连结 跃动未来 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171006.html#[05版：港澳台侨] 青春连结 跃动未来</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：港澳台侨] 铭记南侨机工赤子之心（微言）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171007.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 铭记南侨机工赤子之心（微言） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							江  琳&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　马来西亚首都吉隆坡，南侨机工纪念公园里花圈静立，气氛庄重。日前，纪念南洋华侨机工回国服务团（以下简称“南侨机工”）公祭典礼在此举行。&lt;/p&gt;&lt;p&gt;　　“再会吧，南洋！你不见尸横着长白山，血流着黑龙江？这是中华民族的存亡……”80多年前，唱着《告别南洋》，一群西装革履的南洋青年告别安逸的生活，奔赴战火纷飞的祖国。&lt;/p&gt;&lt;p&gt;　　中国人民抗日战争全面爆发后，中国沿海重要港口基本沦陷，西北公路和滇越铁路先后被切断，滇缅公路成为中国与外部联系的重要国际运输通道。有路，但问题严峻：严重缺乏熟悉汽车驾驶与维修的技术人员。危急关头，响应时任南侨总会主席陈嘉庚号召，3200余名南洋华侨青年回国支援，他们抢运军需物资、抢修运输车辆，日夜穿行于“死亡公路”，为抗战筑起一条“不沉的补给线”。他们中，有人虚报年龄，有人女扮男装，有人收到“父病危”家书仍含泪坚守……1000多个日夜里，1000多名南侨机工因敌机轰炸、车祸、疾病等献出生命，滇缅公路上，平均每公里就有一名南侨机工为国捐躯。是什么力量让他们放弃富足的生活、搁置亲情乃至献出生命？是“舍命才是真豪杰，爱国方为大丈夫”的家国情怀，是“国家危难时尽力作贡献”的朴素信念。这份赤子之心，跨越时空，从未褪色。&lt;/p&gt;&lt;p&gt;　　英雄不语，功勋永存。如今，从云南瑞丽畹町的南洋华侨机工回国抗日纪念馆，到昆明西山的“赤子功勋”纪念碑，再到吉隆坡的纪念公园——穿越时空、跨越山海，人们共同守护着这段记忆。&lt;/p&gt;&lt;p&gt;　　团结统一的中华民族是海内外中华儿女共同的根，博大精深的中华文化是海内外中华儿女共同的魂，实现中华民族伟大复兴是海内外中华儿女共同的梦。从抗战烽火中毅然回国的南侨机工，到如今活跃在各领域的海外侨胞，海外华侨华人始终与祖（籍）国同呼吸、共命运。铭记历史，是为了进一步凝聚前行力量。今年是“十五五”开局之年，中国式现代化新征程上，更需要海内外中华儿女心往一处想、劲往一处使，形成合力，共襄盛举。让我们从南侨机工的赤子之心中汲取精神力量，凝侨心、聚侨力、谋发展，为实现中华民族伟大复兴贡献新的侨界力量。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;江  琳&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171007&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171007.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171007.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 铭记南侨机工赤子之心（微言） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171007.html#[05版：港澳台侨] 铭记南侨机工赤子之心（微言）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：港澳台侨] 青春作伴  同心同行（两岸脉动）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171008.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 暑期，两岸交流交往持续热络—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 青春作伴  同心同行（两岸脉动） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  张  烁&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　7月15日，江苏苏州狮山大剧院大厅里，一幅幅两岸青少年创作的描绘运河风光、风土人情、城市风貌的书画作品让人目不暇接。透过孩子们的眼睛，同一条运河、同一份乡愁、同一种对中华文化的热爱与传承跃然纸上。&lt;/p&gt;&lt;p&gt;　　作为第六届海峡两岸青年文化月的开幕系列活动之一，“运河情·两岸缘”苏台青少年书画交流展在这里举行。“相同的文化血脉藏在笔墨起落间，让我们两岸年轻人透过作品彼此看见、彼此熟悉、彼此靠近。”台湾艺术大学学生潘律祯告诉记者，他从高中起就参加这个活动，今年带着朋友们、学弟学妹们一同前来，“真心希望未来有更多两岸年轻人以艺为媒、以画会友，在笔墨切磋中加深理解，在文化交流中携手成长”。&lt;/p&gt;&lt;p&gt;　　“千里运河一卷收，两岸少年同心行。”自今年3月征稿启动以来，活动主办方共收到两岸青少年投稿3100多件。此次书画交流展与“2026海峡两岸青少年运河采风行”同期举行，孩子们将奔赴苏州、无锡、南京，用脚步丈量文脉，用心灵感受交融。&lt;/p&gt;&lt;p&gt;　　日前，由国务院台办和江苏省人民政府共同主办的第六届海峡两岸青年文化月以“同心同行  青春力量”为主题、“传统文化新表达”为主线，为两岸青年搭建起互动式、体验式交流平台，促进两岸青年交流交往交融。&lt;/p&gt;&lt;p&gt;　　“2016年，我跨越海峡来到大陆实习，当时心里忐忑，连衣服都没带齐，想着如果不顺利，就随时回台湾。没想到，这一待就是10年。”江苏省支持台湾青年发展推介会上，台湾青年林芝羽讲述了亲身经历，“从场地安排到创业辅导，这里给了我们台湾青年非常多的善意和扶持。我想跟青年朋友们说，机会就藏在每一次勇敢尝试里，期盼更多台湾青年来到这里。”&lt;/p&gt;&lt;p&gt;　　10年间，林芝羽多次创业，如今在苏州经营“胶个朋友”黑胶咖啡馆，能熟稔地用苏州方言跟当地顾客打招呼。今年，林芝羽荣获“江苏青年五四奖章”。“这份荣誉对我来说意义非凡，这不仅是对我个人投身两岸融合发展的认可，更是对在这里奋斗的台湾青年的认可。”她说。&lt;/p&gt;&lt;p&gt;　　一次实习，开启青春梦想。7月15日，“台青e家”平台上线运行，在中国台湾网首页设置入口。平台设置了“来实习”“找工作”“去交流”“选学校”四大板块，为台湾青年提供一站式服务。&lt;/p&gt;&lt;p&gt;　　两岸青年传承发展中华文化座谈会上，青春版《牡丹亭》中杜丽娘的扮演者沈丰英讲起赴台北演出的经历。“登台前，我们内心忐忑，不知台湾的年轻观众能否接受这委婉细腻、如流水般的‘水磨腔’，能否读懂这跨越几百年的古典爱情。演出结束时，全场观众起立鼓掌，掌声经久不息，所有的疑虑在那一刻烟消云散。”沈丰英说。&lt;/p&gt;&lt;p&gt;　　从2004年赴台首演至今，20多年间，昆曲交流已成为一场场跨越海峡、互鉴互融的文化共创。“演员、乐师多来自大陆，编剧、服装设计、舞美统筹会聚了多位台湾人才。两岸团队优势互补，共同成就了这出戏的美与魂。”沈丰英说，“当我们共同哼起《皂罗袍》，念出同一折戏文，文化的血脉便将我们紧紧相连。”&lt;/p&gt;&lt;p&gt;　　“你看的是戏，触碰的却是两岸青年共同的历史基因。悠久的共同历史，是两岸青年流淌于血脉之中、天然且自发的文化生命力。”台湾青年李易修说，“如果台湾的课本中没有中国历史与中华文化，我无法接受，也会坚决反对。”&lt;/p&gt;&lt;p&gt;　　据介绍，海峡两岸青年文化月将从7月中旬持续到9月下旬。其间，江苏各地将举办文化艺术、科技创新、体育竞赛、非遗研学、创新创业等40余项主场配套活动和30余项分场活动，预计将有超3500名台湾青年参加。&lt;/p&gt;&lt;p&gt;　　暑期，两岸交流交往持续热络。7月17日至21日，以“青春共成长·同心筑未来”为主题的第九届海峡两岸青年发展论坛在浙江杭州等地举办，1000多名两岸嘉宾和青年赴宁波、温州、湖州等地参加研习营等活动，共话青春理想，共创美好未来。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  张  烁&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 暑期，两岸交流交往持续热络—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171008&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171008.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171008.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 青春作伴  同心同行（两岸脉动） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171008.html#[05版：港澳台侨] 青春作伴  同心同行（两岸脉动）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：港澳台侨] 本版责编：江  琳</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171009.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：江  琳 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171009&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171009.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171009.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：江  琳 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171009.html#[05版：港澳台侨] 本版责编：江  琳</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：文化遗产] 景德镇，让世界再次相拥</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171016.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 景德镇，让世界再次相拥 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——写在景德镇申遗成功之际 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							董宏君  杨雪梅  任姗姗&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　中心主视觉图为元青花蓝地白花飞凤麒麟纹菱花口大盘（局部）。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/2e515d31-4d52-49e6-9832-1d97f9da8410.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　二〇一四年御窑厂考古发掘现场。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/195f9f70-c99c-440b-8db7-51629fc3559d.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/69c1e305-6ff1-4298-850e-3419118cf426.jpg" style="max-width:100%;"/&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　御窑博物馆。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/9fb1336e-e499-4555-8791-608b36bf1764.jpg" style="max-width: 100%; text-wrap-mode: wrap;" trigger="hover focus"/&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　礼芳古街。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/0bca33c8-fa9a-4795-bceb-1dc2be8ecb07.jpg" style="max-width: 100%; text-wrap-mode: wrap;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/2fe9b7d0-e264-4344-ba44-0b57904785d6.jpg" style="max-width:100%;"/&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　落马桥窑址。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/112e0bda-4ce2-4017-a7b1-2e9d84055499.jpg" style="max-width: 100%; text-wrap-mode: wrap;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/a65f20db-2ef2-4d4d-aef8-e5ff9c6f7474.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/832d7c74-363c-4480-b6fb-435f27f5e811.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　明永乐青花寿山福海纹三足炉。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/40c3d251-a3b1-44d8-b792-d083845c7369.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　落马桥窑址出土黄釉碗残片。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/902e0a08-acfb-41ac-ad04-f48f767e0cd0.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　明宣德青花竹石芭蕉纹玉壶春瓶。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/2583c9d2-f98f-4dfc-9459-e91179e16481.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　元青花缠枝牡丹纹罐。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/e8b572dd-3475-421b-8dcc-5366ab8912e8.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图为景德镇手工瓷业遗存5个片区示意图。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/423be452-014e-482e-a302-6d1743bff363.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　《陶冶图卷》（局部）。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/d5185cbb-67c6-452e-a2ad-8d324c29757d.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/dac61880-d67a-4491-8017-7a9241d00ebd.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/9be039ee-164e-4e51-81b5-05f89af93272.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/57f60688-d9d3-4c1b-b5f7-2a6c1bf6a198.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　景德镇东埠码头。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本版图片部分为景德镇申遗办公室、故宫博物院提供，部分为资料图片&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/ca165a72-d323-4aa9-b0ca-8d5f6cf5caff.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　扫描二维码观看相关视频&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/2113f339-bc65-47dc-a871-d95ac82621e2.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　想象一下，如果我们穿越到18世纪的某一天，清晨，站在景德镇昌江码头，会看到怎样一番场景。这里，一件件打包妥当的瓷器货运大件正在船工的搬运下忙碌地“登船”，由昌江至鄱阳湖，再沿南北航线运至沿海各港口，随着各国商船远销世界各地。&lt;/p&gt;&lt;p&gt;　　2026年7月25日，韩国釜山，第四十八届世界遗产大会。“景德镇手工瓷业遗存”通过审议成功列入《世界遗产名录》。这是中国第六十一处世界遗产，也是首个以手工制瓷产业作为核心主题的世界遗产，填补了《世界遗产名录》中该主题遗产的空白。&lt;/p&gt;&lt;p&gt;　　景德镇申遗成功，意味着这段辉煌历史已成为人类共同的财富，从此被置于人类共同守护之下。但景德镇的意义却远不止于此。2023年，习近平总书记在景德镇考察调研时深刻指出：“中华优秀传统文化自古至今从未断流，陶瓷是中华瑰宝，是中华文明的重要名片。”景德镇千年窑火不熄，恰是中华文明突出特性的生动写照。这片土地以“瓷”为镜，映照出一种文明如何在延续中创新、在包容中统一、在交流中守护和平。当今世界站在新的十字路口，景德镇以千年瓷韵向世界作出了沉静而坚定的回应。&lt;/p&gt;&lt;p&gt;　　中国在世界上有“瓷国”之称。我们从4000多年前龙山文化时期薄如蛋壳的黑陶镂孔高柄杯，可以想象泥与火在中国人的手里会展现出怎样奇妙的生命力。从陶器到原始瓷的诞生，经历了上万年。今天，当我们面对多姿多彩的陶瓷，很容易忽略古代工匠与文人最初的愿望。丰富的釉色与纹饰，从来不只是装饰，还是我们的祖先对这个世界充满期冀的内心表达，它讲述着古老东方一个个形与魂融合的故事，而这样的讲述在历史的长河中从未停歇。&lt;/p&gt;&lt;p&gt;　　景德镇的窑火，从唐末五代算起，至今1000余年从未中断。世界上许多古老的手工业城市，或毁于战火，或败于时代更迭，或亡于工业化的碾压。但景德镇活了下来，而且至今依然生机勃勃。从汉唐时期的陶瓷集镇、两宋时期的陶瓷市镇，到宋末至元的陶业都会、明清时期的瓷国高峰，千年窑火孕育的群体性工匠精神，成就了景德镇独一无二的历史地位。&lt;/p&gt;&lt;p&gt;　　在景德镇，古老的技艺没有成为博物馆里展示的标本，而是活在一代代工匠的手中，活在不熄的窑火里。全市数千名非遗传承人，至今依然沿袭着古老的制瓷工序，让千年窑火生生不息。&lt;/p&gt;&lt;p&gt;　　这种连续性之所以成为可能，源于一种内生的、从未停止的自我突破。&lt;/p&gt;&lt;p&gt;　　从原始瓷到成熟瓷，中国人在泥与火之间摸索了1500余年。13世纪，景德镇的工匠突破单一瓷石制坯的传统，创造性地加入本地高岭土，发明了“二元配方”。这一创举使瓷胎在1300摄氏度高温下不变形，白度、硬度和釉面光泽度都得到质的飞跃。至此，世界上真正的硬质瓷诞生了。世界制瓷业至今仍以中国本土地名命名这一原料——“高岭”。这种创新精神，在此后景德镇的瓷业发展中不断带来石破天惊的创造：自我迭代从未停止——从各种颜色的单色釉瓷器到青花、五彩、斗彩、粉彩、珐琅彩……每一种新品的诞生，都是技术突破与艺术创造的共振。&lt;/p&gt;&lt;p&gt;　　一部景德镇制瓷史，就是一部引领世界陶瓷发展的创新创造史。景德镇集天下名窑之大成，聚多民族文化于一体，它“技术革新精益进、前驱不断再前驱”的创造精神，让中华文明在守正创新中不断焕发新的活力。&lt;/p&gt;&lt;p&gt;　　一部中国陶瓷史，可谓半卷都在景德镇。景德镇的成就，绝非一城一地的孤军奋战。它集南北制瓷技术之大成，北方白瓷的纯净、南方青瓷的温润，在这里融合成“青如天、明如镜、薄如纸、声如磬”的青白瓷，宋真宗更是将年号“景德”赐名给了这座小镇。魏晋南北朝以来，北方的定窑、磁州窑以及南方的龙泉窑、越窑的大量工匠来到景德镇，文人商贾将多元的技术、审美和资源整合为统一的产业体系，推动着景德镇陶瓷艺术的开拓创新，由此奠定了世界制瓷中心地位。&lt;/p&gt;&lt;p&gt;　　而这种融多元于一体的统一性，从未走向封闭。元青花的出现便是最好的例证——当古老的青蓝经过烈焰的炙烤在素坯上绽放出明丽润目的青花，融材料、工艺美学于一体的陶瓷，已跨越时空，成为文明交流互鉴的见证。采用西亚进口的钴料，景德镇工匠和波斯工匠共同绘制外来纹样，后来，工匠们又将中国传统文化中的龙凤、梅兰竹菊等题材融入其中，青花瓷因此散发出浓烈的东方艺术气息。这些珍贵的器物甚至出现在15—16世纪的欧洲绘画中，成为西方绘画艺术中的崭新元素，也成为后来风靡欧洲的“中国风”的核心元素。&lt;/p&gt;&lt;p&gt;　　包容性，从来不是被动接纳，而是主动互鉴。文明的高峰，从来不是在封闭中成就，而是在开放中生长。&lt;/p&gt;&lt;p&gt;　　1701年，法国传教士殷弘绪来到景德镇，传教之余，他通过走访窑厂，向窑工打听请教，阅读相关文献，了解景德镇制瓷工艺的信息。他用书信将自己在景德镇的见闻传至欧洲，将景德镇瓷器从制胎、配釉、绘制到烧成等工序一一详述，还将高岭土等原料、釉料和彩料样品与信一道寄回欧洲，对欧洲硬质瓷的发展产生了重大影响。&lt;/p&gt;&lt;p&gt;　　景德镇瓷器深受欧洲贵族的喜爱。工匠们还按照当时欧洲贵族的要求，将他们的家族徽标等标志烧制在瓷器上，作为家族身份和阶层的象征。这些“来样加工”产品中西合璧，与景德镇明清外销瓷一起，构成500年贸易全球化以及中华文明与欧洲文明碰撞交融的物证。&lt;/p&gt;&lt;p&gt;　　在人类文明的图鉴中，瓷器最动人的力量，在于它的“日常”——它只是餐桌上的杯盘碗碟、厅堂里的装饰珍藏，它不携带坚船利炮，只是安静地抵达异国他乡，融入世界人民日常生活的场景。当景德镇青花瓷瓶静静地呈现在人们眼前，它让不同肤色、不同信仰的人在凝视时，生出了相似的审美感受与赞叹。&lt;/p&gt;&lt;p&gt;　　瓷器不说话，却让世界听懂了中国。&lt;/p&gt;&lt;p&gt;　　今天，人们来到景德镇，从珠山的御窑厂出发，穿过中渡口，可以走上昌江的堤岸，远眺“陶阳十三里”，遥想在这里登船的景德镇瓷器跨越大洋抵达世界各地的情景。成为世界文化遗产的景德镇，至今仍以制瓷为主要产业，吸引着来自50多个国家和地区的6万多名中外“景漂”寻梦圆梦。他们在这里学习、创作、生活，将传统与现代、东方与西方重新糅进一团泥土，让窑火淬炼出新的创想。&lt;/p&gt;&lt;p&gt;　　在这座城市里，烈焰中铸就的精神特质——中华文明的连续性、创新性、统一性、包容性、和平性，有了最生动、最具体、最可触摸的写照。正如习近平总书记所期许的，“把‘千年瓷都’这张靓丽的名片擦得更亮”，景德镇正在以瓷为媒、以瓷会友，在活态传承中守护千年文脉，在守正创新中做大陶瓷产业，在开放包容中讲好新时代中国故事。在这里，一幅更加恢宏的文化交流、文明互鉴的时代画卷正在铺展。&lt;/p&gt;&lt;p&gt;　　景德镇，让世界再次相拥。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　密&lt;/p&gt;&lt;p&gt;　　东方制瓷的“机密”&lt;/p&gt;&lt;p&gt;　　这里，蕴藏东方制瓷的“机密”。&lt;/p&gt;&lt;p&gt;　　景德镇是一座被群山环抱的小城。众山之中，和景德镇一样名扬世界的还有市内的珠山和市东北的高岭。&lt;/p&gt;&lt;p&gt;　　珠山是明清两代御窑生产的残次品和窑业垃圾的堆积遗存，不仅见证了近500年御窑生产的历史、产品拣选和管理制度，也以其堆积的高度实证明清时期景德镇瓷业的技术积淀。&lt;/p&gt;&lt;p&gt;　　高岭地处景德镇东北部山地丘陵地带，面积约10平方千米。浮梁高岭、瑶里片区连片分布的瓷土、瓷石矿遗址群，是托举瓷都崛起的根基。景德镇制瓷曾长期沿用单一瓷石制坯的一元配方工艺。直至元代，本地工匠创新性引入景德镇东北部麻仓山产出的优质瓷土，首创“瓷石+高岭土”二元配方制瓷工艺。自此，大件、薄胎、高白度硬质瓷批量问世，景德镇制瓷工艺实现跨越式革新。&lt;/p&gt;&lt;p&gt;　　19世纪，德国地质学家李希霍芬踏访景德镇，以“高岭”音译“Kaolin”命名全球同类瓷用黏土，这一名称成为第一种以中国地名命名、通行世界的矿物术语。&lt;/p&gt;&lt;p&gt;　　（作者为江西省文物考古研究院李兆云）&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　窑&lt;/p&gt;&lt;p&gt;　　一城瓷器半城窑&lt;/p&gt;&lt;p&gt;　　落马桥窑址出土的晚唐或五代时期有使用痕迹的青瓷碎片，将镇区的人类活动追溯至不晚于9世纪。北宋晚期地层出土的青白釉瓷及相关窑具显示当时镇区瓷器生产已成规模。&lt;/p&gt;&lt;p&gt;　　作为景德镇传统镇区窑址考古中发现年代最早的民窑窑址，落马桥窑址考古，以丰富的实物资料揭示出一个从北宋延续至当代、时间跨度长达约900年的民窑窑作传统，并以产品、窑炉、燃料三者的变化线条，串联起景德镇从北宋晚期直至新中国成立后建成现代瓷厂的窑业发展史。&lt;/p&gt;&lt;p&gt;　　从北宋青白瓷到元代卵白釉、釉里红、青花，再到明代青花、五彩、克拉克瓷，清代青花、粉彩等的完整品类的发展演变，见证了景德镇瓷器从胎釉装饰走向彩绘装饰的划时代转变，展现出落马桥窑场不断推陈出新的创造力。&lt;/p&gt;&lt;p&gt;　　（作者为景德镇陶瓷大学李康一）  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　技&lt;/p&gt;&lt;p&gt;　　“过手七十二，方克成器”&lt;/p&gt;&lt;p&gt;　　“共计一杯工力，过手七十二，方克成器。”《天工开物》中的记载，道出景德镇制瓷技艺的精微与革新。景德镇手工制瓷工艺专业化程度极高，行业分工极其细致。从石到土、从土到瓷，要经历精心打磨的72道工序，分为练泥、拉坯、利坯、绘画、施釉、烧窑六大流程，被称为“世界上最早的工业化分工”。其中的关键工序，宋元时期即已建立，到明清时期，专业化分工达到了“画者画而不染，染者染而不画”的程度。&lt;/p&gt;&lt;p&gt;　　徐家窑及作坊群、刘家下弄作坊群等遗址显示，作坊功能分区清晰，空间利用高效，其布局优化了拉坯、印坯、利坯等连续作业流程，显著提高了生产效率，展现了手工业时代的流水线生产模式。镇区瓷业生产的功能格局，坯房、窑房、红店、瓷行乃至颜料店（细金行）、瓷器包装店（茭草行）等细分行业设施的功能形态与组织方式，也反映出景德镇高度集约化、专业化的生产体系，以及高度标准化的生产环节。&lt;/p&gt;&lt;p&gt;　　清代，相关的工艺场景得到系统性呈现与官方记录，这就是《陶冶图》。根据《清宫内务府造办处档案》，乾隆三年曾命画师依据内廷所藏《陶冶图》重新绘制，并在乾隆八年（1743年）命督陶官唐英撰写说明，详细展示了从采石制泥到包装运输的制瓷工序。&lt;/p&gt;&lt;p&gt;　　18世纪中后期以来，国内出现了以《陶冶图》为蓝本的外销画，能够供西方匠人学习中国制瓷技术、了解制瓷过程。从原料配方、生产工序到专业分工，《陶冶图》从各方面影响了西方瓷业生产，推动了欧洲瓷业从模仿到创新、从经验到科学的变革，深刻体现了景德镇对世界工业文明的贡献。&lt;/p&gt;&lt;p&gt;　　（周飞亚整理）  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　趣&lt;/p&gt;&lt;p&gt;　　网红“碎碎鸭”&lt;/p&gt;&lt;p&gt;　　每一个走进景德镇御窑博物馆的游客，都不会错过这件镇馆之宝——明成化素三彩鸭形香薰。&lt;/p&gt;&lt;p&gt;　　500多年前，御窑厂工匠将淘汰落选的素三彩鸭形香薰刻意打碎，和其他同时被毁的瓷器碎片一同倾倒在珠山北侧。1987年，景德镇市在珠山之巅重建龙珠阁，这些被深埋的瓷器碎片终于有机会重见天日。文物修复人员从海量的陶瓷碎片中拣选出六七十片残片，成功拼合修复出明成化素三彩鸭形香薰。“鸭”在古语发音中为“甲”，有状元及第与逢考必过之意，因此鸭形香薰在古代十分流行，但这件鸭形香薰造型别具一格，同类型器物在世界各大博物馆均未见有传世品。这只“鸭子”，既高度还原了当年器物的原貌，又保留了碎片拼合的痕迹，被人们亲昵地称为“碎碎鸭”。如今，“碎碎鸭”已化身为寓意“岁岁平安”的文化符号，拥有了自己的表情包、文具、服饰等多种文创，成为“网红”。&lt;/p&gt;&lt;p&gt;　　（周飞亚整理）  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　器&lt;/p&gt;&lt;p&gt;　　釉彩奇迹&lt;/p&gt;&lt;p&gt;　　故宫博物院收藏一件清乾隆各种釉彩大瓶。因其在一器之中集合17种釉彩品种，故享有“瓷母”的美誉。&lt;/p&gt;&lt;p&gt;　　“瓷母”，瓶高86.4厘米，口径27.4厘米，足径33厘米，外底署“大清乾隆年制”六字三行篆书款，器型为乾隆时期首创。为展示丰富釉彩，外壁自上而下分为15层。饰有青釉、窑变釉、霁蓝釉、酱釉等色釉，青花、斗彩、粉彩、金彩等彩绘。&lt;/p&gt;&lt;p&gt;　　这件各种釉彩大瓶再现了汝、官、哥、龙泉窑四种青瓷的风貌。由于汝、官、哥釉开片特征各异，难以在一件瓷器上同时烧成，故窑工先烧成粉青、灰青等高温釉，再以笔描绘开片纹路，以彩绘工艺展示了开片青瓷之美。其肩部所饰红色窑变釉，是典型的仿钧釉之作。大瓶三处绘有青花：除斗彩以青花勾勒图案轮廓外，另两处青花纹饰，一模仿明永乐宣德青花因使用进口青料而形成的“铁锈斑”，一为乾隆时期典型青花特征。&lt;/p&gt;&lt;p&gt;　　明清时期，景德镇成为全国瓷业中心。景德镇广泛学习同时期及前代名窑的工艺与品种，使单一窑场能够兼烧品类多样化的瓷器。明代早期，景德镇御窑已能仿烧汝、哥、官、龙泉及青白诸釉，试验不同钴料与铜红釉的呈色效果，还积极探索釉上彩绘工艺，最终将釉下青花与釉上彩相结合，创烧出斗彩。清代，景德镇将学习对象从宋代名窑扩展至明朝历代经典瓷器，其对历代瓷业技术的汲取，达到了前所未有的深度和广度。&lt;/p&gt;&lt;p&gt;　　各种釉彩大瓶中的装饰、纹饰，既承袭自历代瓷业传统，也融汇了外来文化的深刻影响。瓶口部所施松石绿地粉彩缠枝花卉，系模仿掐丝珐琅效果，颈部松石绿釉系仿绿松石质感，笔绘黑色线条犹如天然纹理，描金螭耳则仿自金属器，器身肩部青花绘有欧洲风格的“洋花”，青瓷部位刻出源自日本漆器的皮球花纹。彩料之新、纹饰之丰，不仅拓展了瓷器的艺术表现力，更使各种釉彩大瓶成为清代景德镇融汇中西工艺的生动写照。&lt;/p&gt;&lt;p&gt;　　（作者为故宫博物院单莹莹）&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　传&lt;/p&gt;&lt;p&gt;　　技艺在心里&lt;/p&gt;&lt;p&gt;　　孙立新&lt;/p&gt;&lt;p&gt;　　2023年10月，习近平总书记来到景德镇，与我们亲切交流，我有幸现场展示青花绘制技艺。&lt;/p&gt;&lt;p&gt;　　我们家四代在景德镇守窑传艺，我从小在作坊里长大，父亲管教极严。一次，我临摹了两只仙鹤，怕父亲批评，悄悄拿给叔叔看。叔叔专攻陶瓷颜料配方，终身与瓷为伴。他夸我画得好，说要收藏。10年后他把画还给我，我一看，那两只仙鹤竟都是瘸腿的。我这才回过味，父亲的严厉，是磨骨砺技；叔叔的鼓励，是温养匠心。一严一柔，托举起我数十年的坚守。&lt;/p&gt;&lt;p&gt;　　我们这门手艺，外人看的是器，内行品的是心。我后来还拜了多位师傅，父亲说自己的儿子要让别人教。恩师不教技法，反讲人生，教导我要志存高远，开了一串书单，还叮嘱我听贝多芬。我15岁听《命运交响曲》，只觉嘈杂懵懂。历经数十年泥火淬炼，如今才听懂旋律里的生命力。&lt;/p&gt;&lt;p&gt;　　什么是好作品？要有精神内涵，也要有文化意境。父亲画梅花，只画一个老桩，上头几朵花，说要画出梅桩的岁月感，让新花从沧桑里绽放，那是生命不息的倔强。我从他的作品里，感受到人文精神的寄托。&lt;/p&gt;&lt;p&gt;　　他们那代人学艺，条件艰苦，只能四处借书，连夜临摹，天亮就要归还。但他一生专注青花，日夜精进，作品被故宫、国博珍藏。而我兴趣广泛，总想尝试多元风格，反倒少了他的极致专一。我年轻时天马行空，兜兜转转还是回到这方作坊。心慢慢安稳下来，才理解老师傅们为什么能安安静静画一辈子，那不是手艺熟了，而是一种生活态度。手艺人读过的书、走过的路、沉淀的心境，终会化作笔下气韵、器物风骨。&lt;/p&gt;&lt;p&gt;　　女儿3岁那年，见我伏案画瓷，竟爬上桌子拿起画笔：“爸爸，我来教你画。”我心里“噗通”一声，那个瞬间我忽然觉得，孙家的窑火后继有人。如今女儿在大学读陶瓷产品设计。我叮嘱她，要摸得惯泥巴、耐得住寂寞，沉下心，才能接住祖辈的手艺。&lt;/p&gt;&lt;p&gt;　　这些年，景德镇的老外多了，“景漂”青年多了，做琉璃、金属的手艺人也来扎根。“匠从八方来，器成天下走”，这就是景德镇独有的包容。大家在同样的环境里暗暗较劲，你做得好，我要做得更好，人人都把极致的手艺亮出来。器以载道，一件精美的瓷器，背后是手艺人一辈子的智慧与坚韧。&lt;/p&gt;&lt;p&gt;　　我最近在创作一幅青花长卷，画今天的景德镇。从御窑厂到三宝片区，从拉坯师傅到“景漂”青年，我把申遗的那些地方都收进这卷青花里，用古老青花为千年瓷都立一幅时代肖像，是我送给“景德镇手工瓷业遗存”申遗成功的礼物。&lt;/p&gt;&lt;p&gt;　　景德镇能走到今天，靠的就是一代代人把手艺做到极致。在这里，只要你真心喜爱，坚持住，一定能出彩。这就是我们的传承之路。&lt;/p&gt;&lt;p&gt;　　（作者为传统青花瓷制作技艺省级非遗代表性传承人，人民网记者陈星星采访整理）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;董宏君  杨雪梅  任姗姗&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——写在景德镇申遗成功之际 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171016&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171016.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171016.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 景德镇，让世界再次相拥 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171016.html#[06版：文化遗产] 景德镇，让世界再次相拥</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：文化遗产] 本版责编  杨雪梅  任姗姗  周飞亚  王  瑨  赵偲汝</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171017.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编  杨雪梅  任姗姗  周飞亚  王  瑨  赵偲汝 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　本版邮箱 ysbjs@peopledaily.cn　　&lt;/p&gt;&lt;p&gt;　　版式设计（人民网） 李  鉴  毛  然  杜佰鸾&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171017&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171017.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171017.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编  杨雪梅  任姗姗  周飞亚  王  瑨  赵偲汝 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171017.html#[06版：文化遗产] 本版责编  杨雪梅  任姗姗  周飞亚  王  瑨  赵偲汝</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：文化遗产] 景德镇，让世界再次相拥</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171018.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 景德镇，让世界再次相拥 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——写在景德镇申遗成功之际 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							董宏君  杨雪梅  任姗姗&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　中心主视觉图为元青花蓝地白花飞凤麒麟纹菱花口大盘（局部）。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/0cb724aa-250c-47f6-baff-944c066b1f1c.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　二〇一四年御窑厂考古发掘现场。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/0f933898-04a4-4323-91fc-749fbccc28a7.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/58c786ca-a417-414b-a5c7-4f94ea54f84a.jpg" style="text-align: center;"/&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　御窑博物馆。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/288ef17f-26b0-4831-adc4-a878bb34eeec.jpg" style="text-align: center;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　礼芳古街。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/a6aced58-6925-40db-b350-a67e3b7e28b7.jpg" style="text-align: center;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/90d0482c-92ea-4384-ae13-1c27b8d39e08.jpg" style="max-width:100%;"/&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　落马桥窑址。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/bf947189-e0cc-4a16-8d48-ff445a5fd05f.jpg" style="max-width: 100%; text-wrap-mode: wrap;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/dec22aac-1e68-4868-b75f-e9905dd5255f.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/82d9f51d-ea30-4909-8706-8ff17ff0b463.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　明永乐青花寿山福海纹三足炉。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/9f9ef24e-78de-442a-81e2-26f3805c9251.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　落马桥窑址出土黄釉碗残片。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/b6cb0a06-2ee5-4a3f-a2d5-b097987d47b0.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　明宣德青花竹石芭蕉纹玉壶春瓶。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/ff237895-5bd3-41b7-81f3-06d1d4a754c8.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　元青花缠枝牡丹纹罐。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/70a4702e-38d7-413b-914d-886452876abe.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图为景德镇手工瓷业遗存5个片区示意图。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/833bb2fc-3bdd-4d6f-911f-ab80b0c0015d.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　《陶冶图卷》（局部）。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/8f1f5a7d-f681-4018-a835-8023abb6af68.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/227726e6-d029-4237-8b94-47f1094d370b.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/f6a01965-3853-42da-91cb-945eae4f7929.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/d2faf402-0f76-4552-89fa-53939638d458.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　景德镇东埠码头。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本版图片部分为景德镇申遗办公室、故宫博物院提供，部分为资料图片&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/5019de67-cad9-49ad-ac09-26a118735ecd.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　扫描二维码观看相关视频&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/cdd6ab45-e724-4412-abe6-92de0b491ca0.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　想象一下，如果我们穿越到18世纪的某一天，清晨，站在景德镇昌江码头，会看到怎样一番场景。这里，一件件打包妥当的瓷器货运大件正在船工的搬运下忙碌地“登船”，由昌江至鄱阳湖，再沿南北航线运至沿海各港口，随着各国商船远销世界各地。&lt;/p&gt;&lt;p&gt;　　2026年7月25日，韩国釜山，第四十八届世界遗产大会。“景德镇手工瓷业遗存”通过审议成功列入《世界遗产名录》。这是中国第六十一处世界遗产，也是首个以手工制瓷产业作为核心主题的世界遗产，填补了《世界遗产名录》中该主题遗产的空白。&lt;/p&gt;&lt;p&gt;　　景德镇申遗成功，意味着这段辉煌历史已成为人类共同的财富，从此被置于人类共同守护之下。但景德镇的意义却远不止于此。2023年，习近平总书记在景德镇考察调研时深刻指出：“中华优秀传统文化自古至今从未断流，陶瓷是中华瑰宝，是中华文明的重要名片。”景德镇千年窑火不熄，恰是中华文明突出特性的生动写照。这片土地以“瓷”为镜，映照出一种文明如何在延续中创新、在包容中统一、在交流中守护和平。当今世界站在新的十字路口，景德镇以千年瓷韵向世界作出了沉静而坚定的回应。&lt;/p&gt;&lt;p&gt;　　中国在世界上有“瓷国”之称。我们从4000多年前龙山文化时期薄如蛋壳的黑陶镂孔高柄杯，可以想象泥与火在中国人的手里会展现出怎样奇妙的生命力。从陶器到原始瓷的诞生，经历了上万年。今天，当我们面对多姿多彩的陶瓷，很容易忽略古代工匠与文人最初的愿望。丰富的釉色与纹饰，从来不只是装饰，还是我们的祖先对这个世界充满期冀的内心表达，它讲述着古老东方一个个形与魂融合的故事，而这样的讲述在历史的长河中从未停歇。&lt;/p&gt;&lt;p&gt;　　景德镇的窑火，从唐末五代算起，至今1000余年从未中断。世界上许多古老的手工业城市，或毁于战火，或败于时代更迭，或亡于工业化的碾压。但景德镇活了下来，而且至今依然生机勃勃。从汉唐时期的陶瓷集镇、两宋时期的陶瓷市镇，到宋末至元的陶业都会、明清时期的瓷国高峰，千年窑火孕育的群体性工匠精神，成就了景德镇独一无二的历史地位。&lt;/p&gt;&lt;p&gt;　　在景德镇，古老的技艺没有成为博物馆里展示的标本，而是活在一代代工匠的手中，活在不熄的窑火里。全市数千名非遗传承人，至今依然沿袭着古老的制瓷工序，让千年窑火生生不息。&lt;/p&gt;&lt;p&gt;　　这种连续性之所以成为可能，源于一种内生的、从未停止的自我突破。&lt;/p&gt;&lt;p&gt;　　从原始瓷到成熟瓷，中国人在泥与火之间摸索了1500余年。13世纪，景德镇的工匠突破单一瓷石制坯的传统，创造性地加入本地高岭土，发明了“二元配方”。这一创举使瓷胎在1300摄氏度高温下不变形，白度、硬度和釉面光泽度都得到质的飞跃。至此，世界上真正的硬质瓷诞生了。世界制瓷业至今仍以中国本土地名命名这一原料——“高岭”。这种创新精神，在此后景德镇的瓷业发展中不断带来石破天惊的创造：自我迭代从未停止——从各种颜色的单色釉瓷器到青花、五彩、斗彩、粉彩、珐琅彩……每一种新品的诞生，都是技术突破与艺术创造的共振。&lt;/p&gt;&lt;p&gt;　　一部景德镇制瓷史，就是一部引领世界陶瓷发展的创新创造史。景德镇集天下名窑之大成，聚多民族文化于一体，它“技术革新精益进、前驱不断再前驱”的创造精神，让中华文明在守正创新中不断焕发新的活力。&lt;/p&gt;&lt;p&gt;　　一部中国陶瓷史，可谓半卷都在景德镇。景德镇的成就，绝非一城一地的孤军奋战。它集南北制瓷技术之大成，北方白瓷的纯净、南方青瓷的温润，在这里融合成“青如天、明如镜、薄如纸、声如磬”的青白瓷，宋真宗更是将年号“景德”赐名给了这座小镇。魏晋南北朝以来，北方的定窑、磁州窑以及南方的龙泉窑、越窑的大量工匠来到景德镇，文人商贾将多元的技术、审美和资源整合为统一的产业体系，推动着景德镇陶瓷艺术的开拓创新，由此奠定了世界制瓷中心地位。&lt;/p&gt;&lt;p&gt;　　而这种融多元于一体的统一性，从未走向封闭。元青花的出现便是最好的例证——当古老的青蓝经过烈焰的炙烤在素坯上绽放出明丽润目的青花，融材料、工艺美学于一体的陶瓷，已跨越时空，成为文明交流互鉴的见证。采用西亚进口的钴料，景德镇工匠和波斯工匠共同绘制外来纹样，后来，工匠们又将中国传统文化中的龙凤、梅兰竹菊等题材融入其中，青花瓷因此散发出浓烈的东方艺术气息。这些珍贵的器物甚至出现在15—16世纪的欧洲绘画中，成为西方绘画艺术中的崭新元素，也成为后来风靡欧洲的“中国风”的核心元素。&lt;/p&gt;&lt;p&gt;　　包容性，从来不是被动接纳，而是主动互鉴。文明的高峰，从来不是在封闭中成就，而是在开放中生长。&lt;/p&gt;&lt;p&gt;　　1701年，法国传教士殷弘绪来到景德镇，传教之余，他通过走访窑厂，向窑工打听请教，阅读相关文献，了解景德镇制瓷工艺的信息。他用书信将自己在景德镇的见闻传至欧洲，将景德镇瓷器从制胎、配釉、绘制到烧成等工序一一详述，还将高岭土等原料、釉料和彩料样品与信一道寄回欧洲，对欧洲硬质瓷的发展产生了重大影响。&lt;/p&gt;&lt;p&gt;　　景德镇瓷器深受欧洲贵族的喜爱。工匠们还按照当时欧洲贵族的要求，将他们的家族徽标等标志烧制在瓷器上，作为家族身份和阶层的象征。这些“来样加工”产品中西合璧，与景德镇明清外销瓷一起，构成500年贸易全球化以及中华文明与欧洲文明碰撞交融的物证。&lt;/p&gt;&lt;p&gt;　　在人类文明的图鉴中，瓷器最动人的力量，在于它的“日常”——它只是餐桌上的杯盘碗碟、厅堂里的装饰珍藏，它不携带坚船利炮，只是安静地抵达异国他乡，融入世界人民日常生活的场景。当景德镇青花瓷瓶静静地呈现在人们眼前，它让不同肤色、不同信仰的人在凝视时，生出了相似的审美感受与赞叹。&lt;/p&gt;&lt;p&gt;　　瓷器不说话，却让世界听懂了中国。&lt;/p&gt;&lt;p&gt;　　今天，人们来到景德镇，从珠山的御窑厂出发，穿过中渡口，可以走上昌江的堤岸，远眺“陶阳十三里”，遥想在这里登船的景德镇瓷器跨越大洋抵达世界各地的情景。成为世界文化遗产的景德镇，至今仍以制瓷为主要产业，吸引着来自50多个国家和地区的6万多名中外“景漂”寻梦圆梦。他们在这里学习、创作、生活，将传统与现代、东方与西方重新糅进一团泥土，让窑火淬炼出新的创想。&lt;/p&gt;&lt;p&gt;　　在这座城市里，烈焰中铸就的精神特质——中华文明的连续性、创新性、统一性、包容性、和平性，有了最生动、最具体、最可触摸的写照。正如习近平总书记所期许的，“把‘千年瓷都’这张靓丽的名片擦得更亮”，景德镇正在以瓷为媒、以瓷会友，在活态传承中守护千年文脉，在守正创新中做大陶瓷产业，在开放包容中讲好新时代中国故事。在这里，一幅更加恢宏的文化交流、文明互鉴的时代画卷正在铺展。&lt;/p&gt;&lt;p&gt;　　景德镇，让世界再次相拥。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　密&lt;/p&gt;&lt;p&gt;　　东方制瓷的“机密”&lt;/p&gt;&lt;p&gt;　　这里，蕴藏东方制瓷的“机密”。&lt;/p&gt;&lt;p&gt;　　景德镇是一座被群山环抱的小城。众山之中，和景德镇一样名扬世界的还有市内的珠山和市东北的高岭。&lt;/p&gt;&lt;p&gt;　　珠山是明清两代御窑生产的残次品和窑业垃圾的堆积遗存，不仅见证了近500年御窑生产的历史、产品拣选和管理制度，也以其堆积的高度实证明清时期景德镇瓷业的技术积淀。&lt;/p&gt;&lt;p&gt;　　高岭地处景德镇东北部山地丘陵地带，面积约10平方千米。浮梁高岭、瑶里片区连片分布的瓷土、瓷石矿遗址群，是托举瓷都崛起的根基。景德镇制瓷曾长期沿用单一瓷石制坯的一元配方工艺。直至元代，本地工匠创新性引入景德镇东北部麻仓山产出的优质瓷土，首创“瓷石+高岭土”二元配方制瓷工艺。自此，大件、薄胎、高白度硬质瓷批量问世，景德镇制瓷工艺实现跨越式革新。&lt;/p&gt;&lt;p&gt;　　19世纪，德国地质学家李希霍芬踏访景德镇，以“高岭”音译“Kaolin”命名全球同类瓷用黏土，这一名称成为第一种以中国地名命名、通行世界的矿物术语。&lt;/p&gt;&lt;p&gt;　　（作者为江西省文物考古研究院李兆云）&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　窑&lt;/p&gt;&lt;p&gt;　　一城瓷器半城窑&lt;/p&gt;&lt;p&gt;　　落马桥窑址出土的晚唐或五代时期有使用痕迹的青瓷碎片，将镇区的人类活动追溯至不晚于9世纪。北宋晚期地层出土的青白釉瓷及相关窑具显示当时镇区瓷器生产已成规模。&lt;/p&gt;&lt;p&gt;　　作为景德镇传统镇区窑址考古中发现年代最早的民窑窑址，落马桥窑址考古，以丰富的实物资料揭示出一个从北宋延续至当代、时间跨度长达约900年的民窑窑作传统，并以产品、窑炉、燃料三者的变化线条，串联起景德镇从北宋晚期直至新中国成立后建成现代瓷厂的窑业发展史。&lt;/p&gt;&lt;p&gt;　　从北宋青白瓷到元代卵白釉、釉里红、青花，再到明代青花、五彩、克拉克瓷，清代青花、粉彩等的完整品类的发展演变，见证了景德镇瓷器从胎釉装饰走向彩绘装饰的划时代转变，展现出落马桥窑场不断推陈出新的创造力。&lt;/p&gt;&lt;p&gt;　　（作者为景德镇陶瓷大学李康一）  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　技&lt;/p&gt;&lt;p&gt;　　“过手七十二，方克成器”&lt;/p&gt;&lt;p&gt;　　“共计一杯工力，过手七十二，方克成器。”《天工开物》中的记载，道出景德镇制瓷技艺的精微与革新。景德镇手工制瓷工艺专业化程度极高，行业分工极其细致。从石到土、从土到瓷，要经历精心打磨的72道工序，分为练泥、拉坯、利坯、绘画、施釉、烧窑六大流程，被称为“世界上最早的工业化分工”。其中的关键工序，宋元时期即已建立，到明清时期，专业化分工达到了“画者画而不染，染者染而不画”的程度。&lt;/p&gt;&lt;p&gt;　　徐家窑及作坊群、刘家下弄作坊群等遗址显示，作坊功能分区清晰，空间利用高效，其布局优化了拉坯、印坯、利坯等连续作业流程，显著提高了生产效率，展现了手工业时代的流水线生产模式。镇区瓷业生产的功能格局，坯房、窑房、红店、瓷行乃至颜料店（细金行）、瓷器包装店（茭草行）等细分行业设施的功能形态与组织方式，也反映出景德镇高度集约化、专业化的生产体系，以及高度标准化的生产环节。&lt;/p&gt;&lt;p&gt;　　清代，相关的工艺场景得到系统性呈现与官方记录，这就是《陶冶图》。根据《清宫内务府造办处档案》，乾隆三年曾命画师依据内廷所藏《陶冶图》重新绘制，并在乾隆八年（1743年）命督陶官唐英撰写说明，详细展示了从采石制泥到包装运输的制瓷工序。&lt;/p&gt;&lt;p&gt;　　18世纪中后期以来，国内出现了以《陶冶图》为蓝本的外销画，能够供西方匠人学习中国制瓷技术、了解制瓷过程。从原料配方、生产工序到专业分工，《陶冶图》从各方面影响了西方瓷业生产，推动了欧洲瓷业从模仿到创新、从经验到科学的变革，深刻体现了景德镇对世界工业文明的贡献。&lt;/p&gt;&lt;p&gt;　　（周飞亚整理）  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　趣&lt;/p&gt;&lt;p&gt;　　网红“碎碎鸭”&lt;/p&gt;&lt;p&gt;　　每一个走进景德镇御窑博物馆的游客，都不会错过这件镇馆之宝——明成化素三彩鸭形香薰。&lt;/p&gt;&lt;p&gt;　　500多年前，御窑厂工匠将淘汰落选的素三彩鸭形香薰刻意打碎，和其他同时被毁的瓷器碎片一同倾倒在珠山北侧。1987年，景德镇市在珠山之巅重建龙珠阁，这些被深埋的瓷器碎片终于有机会重见天日。文物修复人员从海量的陶瓷碎片中拣选出六七十片残片，成功拼合修复出明成化素三彩鸭形香薰。“鸭”在古语发音中为“甲”，有状元及第与逢考必过之意，因此鸭形香薰在古代十分流行，但这件鸭形香薰造型别具一格，同类型器物在世界各大博物馆均未见有传世品。这只“鸭子”，既高度还原了当年器物的原貌，又保留了碎片拼合的痕迹，被人们亲昵地称为“碎碎鸭”。如今，“碎碎鸭”已化身为寓意“岁岁平安”的文化符号，拥有了自己的表情包、文具、服饰等多种文创，成为“网红”。&lt;/p&gt;&lt;p&gt;　　（周飞亚整理）  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　器&lt;/p&gt;&lt;p&gt;　　釉彩奇迹&lt;/p&gt;&lt;p&gt;　　故宫博物院收藏一件清乾隆各种釉彩大瓶。因其在一器之中集合17种釉彩品种，故享有“瓷母”的美誉。&lt;/p&gt;&lt;p&gt;　　“瓷母”，瓶高86.4厘米，口径27.4厘米，足径33厘米，外底署“大清乾隆年制”六字三行篆书款，器型为乾隆时期首创。为展示丰富釉彩，外壁自上而下分为15层。饰有青釉、窑变釉、霁蓝釉、酱釉等色釉，青花、斗彩、粉彩、金彩等彩绘。&lt;/p&gt;&lt;p&gt;　　这件各种釉彩大瓶再现了汝、官、哥、龙泉窑四种青瓷的风貌。由于汝、官、哥釉开片特征各异，难以在一件瓷器上同时烧成，故窑工先烧成粉青、灰青等高温釉，再以笔描绘开片纹路，以彩绘工艺展示了开片青瓷之美。其肩部所饰红色窑变釉，是典型的仿钧釉之作。大瓶三处绘有青花：除斗彩以青花勾勒图案轮廓外，另两处青花纹饰，一模仿明永乐宣德青花因使用进口青料而形成的“铁锈斑”，一为乾隆时期典型青花特征。&lt;/p&gt;&lt;p&gt;　　明清时期，景德镇成为全国瓷业中心。景德镇广泛学习同时期及前代名窑的工艺与品种，使单一窑场能够兼烧品类多样化的瓷器。明代早期，景德镇御窑已能仿烧汝、哥、官、龙泉及青白诸釉，试验不同钴料与铜红釉的呈色效果，还积极探索釉上彩绘工艺，最终将釉下青花与釉上彩相结合，创烧出斗彩。清代，景德镇将学习对象从宋代名窑扩展至明朝历代经典瓷器，其对历代瓷业技术的汲取，达到了前所未有的深度和广度。&lt;/p&gt;&lt;p&gt;　　各种釉彩大瓶中的装饰、纹饰，既承袭自历代瓷业传统，也融汇了外来文化的深刻影响。瓶口部所施松石绿地粉彩缠枝花卉，系模仿掐丝珐琅效果，颈部松石绿釉系仿绿松石质感，笔绘黑色线条犹如天然纹理，描金螭耳则仿自金属器，器身肩部青花绘有欧洲风格的“洋花”，青瓷部位刻出源自日本漆器的皮球花纹。彩料之新、纹饰之丰，不仅拓展了瓷器的艺术表现力，更使各种釉彩大瓶成为清代景德镇融汇中西工艺的生动写照。&lt;/p&gt;&lt;p&gt;　　（作者为故宫博物院单莹莹）&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　传&lt;/p&gt;&lt;p&gt;　　技艺在心里&lt;/p&gt;&lt;p&gt;　　孙立新&lt;/p&gt;&lt;p&gt;　　2023年10月，习近平总书记来到景德镇，与我们亲切交流，我有幸现场展示青花绘制技艺。&lt;/p&gt;&lt;p&gt;　　我们家四代在景德镇守窑传艺，我从小在作坊里长大，父亲管教极严。一次，我临摹了两只仙鹤，怕父亲批评，悄悄拿给叔叔看。叔叔专攻陶瓷颜料配方，终身与瓷为伴。他夸我画得好，说要收藏。10年后他把画还给我，我一看，那两只仙鹤竟都是瘸腿的。我这才回过味，父亲的严厉，是磨骨砺技；叔叔的鼓励，是温养匠心。一严一柔，托举起我数十年的坚守。&lt;/p&gt;&lt;p&gt;　　我们这门手艺，外人看的是器，内行品的是心。我后来还拜了多位师傅，父亲说自己的儿子要让别人教。恩师不教技法，反讲人生，教导我要志存高远，开了一串书单，还叮嘱我听贝多芬。我15岁听《命运交响曲》，只觉嘈杂懵懂。历经数十年泥火淬炼，如今才听懂旋律里的生命力。&lt;/p&gt;&lt;p&gt;　　什么是好作品？要有精神内涵，也要有文化意境。父亲画梅花，只画一个老桩，上头几朵花，说要画出梅桩的岁月感，让新花从沧桑里绽放，那是生命不息的倔强。我从他的作品里，感受到人文精神的寄托。&lt;/p&gt;&lt;p&gt;　　他们那代人学艺，条件艰苦，只能四处借书，连夜临摹，天亮就要归还。但他一生专注青花，日夜精进，作品被故宫、国博珍藏。而我兴趣广泛，总想尝试多元风格，反倒少了他的极致专一。我年轻时天马行空，兜兜转转还是回到这方作坊。心慢慢安稳下来，才理解老师傅们为什么能安安静静画一辈子，那不是手艺熟了，而是一种生活态度。手艺人读过的书、走过的路、沉淀的心境，终会化作笔下气韵、器物风骨。&lt;/p&gt;&lt;p&gt;　　女儿3岁那年，见我伏案画瓷，竟爬上桌子拿起画笔：“爸爸，我来教你画。”我心里“噗通”一声，那个瞬间我忽然觉得，孙家的窑火后继有人。如今女儿在大学读陶瓷产品设计。我叮嘱她，要摸得惯泥巴、耐得住寂寞，沉下心，才能接住祖辈的手艺。&lt;/p&gt;&lt;p&gt;　　这些年，景德镇的老外多了，“景漂”青年多了，做琉璃、金属的手艺人也来扎根。“匠从八方来，器成天下走”，这就是景德镇独有的包容。大家在同样的环境里暗暗较劲，你做得好，我要做得更好，人人都把极致的手艺亮出来。器以载道，一件精美的瓷器，背后是手艺人一辈子的智慧与坚韧。&lt;/p&gt;&lt;p&gt;　　我最近在创作一幅青花长卷，画今天的景德镇。从御窑厂到三宝片区，从拉坯师傅到“景漂”青年，我把申遗的那些地方都收进这卷青花里，用古老青花为千年瓷都立一幅时代肖像，是我送给“景德镇手工瓷业遗存”申遗成功的礼物。&lt;/p&gt;&lt;p&gt;　　景德镇能走到今天，靠的就是一代代人把手艺做到极致。在这里，只要你真心喜爱，坚持住，一定能出彩。这就是我们的传承之路。&lt;/p&gt;&lt;p&gt;　　（作者为传统青花瓷制作技艺省级非遗代表性传承人，人民网记者陈星星采访整理）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;董宏君  杨雪梅  任姗姗&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——写在景德镇申遗成功之际 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171018&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171018.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171018.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 景德镇，让世界再次相拥 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171018.html#[07版：文化遗产] 景德镇，让世界再次相拥</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：文化遗产] 本版责编  杨雪梅  任姗姗  周飞亚  王  瑨  赵偲汝</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171019.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编  杨雪梅  任姗姗  周飞亚  王  瑨  赵偲汝 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　本版邮箱 ysbjs@peopledaily.cn　　&lt;/p&gt;&lt;p&gt;　　版式设计（人民网） 李  鉴  毛  然  杜佰鸾&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171019&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171019.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171019.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编  杨雪梅  任姗姗  周飞亚  王  瑨  赵偲汝 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171019.html#[07版：文化遗产] 本版责编  杨雪梅  任姗姗  周飞亚  王  瑨  赵偲汝</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：人文] 探寻简牍里的荆楚文脉（文化中国行·人文观察）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171012.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 探寻简牍里的荆楚文脉（文化中国行·人文观察）&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  何思琦&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　荆州文物保护中心工作人员正在处理竹简。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  程  敏摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/f7ebff38-ec79-43c3-b5c5-3ad2df3f031d.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　云梦县博物馆，小讲解员正在给小朋友们介绍简牍。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　云梦县博物馆供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/e5d32137-3908-4842-ae86-3d261bd2752f.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　云梦睡虎地秦简出土墓主“喜”的复原像。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　湖北省博物馆供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/df3fc167-3848-406a-99c0-092054635267.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　睡虎地汉简《质日》（部分）。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　湖北省文物局供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202607/26/06ab40d4-05b1-42ea-b846-8bc836e2108a.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　“惟殷先人，有册有典。”&lt;/p&gt;&lt;p&gt;　　自殷商及至魏晋，在纸张被普遍使用前，世人大多着笔墨于竹木简牍之上，为中华数千年信史留下珍贵、鲜活的实物佐证。&lt;/p&gt;&lt;p&gt;　　出土简牍3.5万余枚、近百批次，出土地域覆盖荆州、云梦、荆门、随州……湖北是简牍资源富集地，出土简牍时间跨度长、时代序列完整、内容丰富，每一批简牍都独具史料价值和时代特征。&lt;/p&gt;&lt;p&gt;　　正所谓“干千年，湿万年”。湖北地处长江中游，其湿润的气候与地下水文环境，让深埋地下的简牍得以跨越千年岁月而完好留存。楚、秦、汉多元文化在这里交叠交融，一枚枚简牍，见证着多元一体中华文明格局的形成和发展。&lt;/p&gt;&lt;p&gt;　　近日，记者走进荆楚大地，探寻这片土地上的简牍记忆。&lt;/p&gt;&lt;p&gt;　　古泽深处埋藏的“百科全书”&lt;/p&gt;&lt;p&gt;　　云梦，一个古老的名字。&lt;/p&gt;&lt;p&gt;　　公元550年，“云梦”首次以一县之名出现在中华版图之上，延续至今已有1400余年。&lt;/p&gt;&lt;p&gt;　　千年文脉，悠悠古泽。走进云梦县博物馆，“云梦出土秦汉简牍展”为人们揭开尘封的历史面纱——&lt;/p&gt;&lt;p&gt;　　《秦律十八种》201枚、《秦律杂抄》42枚、《法律答问》210枚、《封诊式》98枚……在观众张义华眼里，这里藏着中国法文化的源。“一个叫‘喜’的小吏，记下了一个大时代。2000多年后的我们，才得以从他留下的工作笔记里，看到一个庞大的国家是如何运行的。”张义华说。&lt;/p&gt;&lt;p&gt;　　提到湖北出土简牍，便绕不开云梦。1975年，在云梦城西睡虎地的秦墓中出土了竹简1155枚，其中包括我国迄今发现的最早、最完整的法典。&lt;/p&gt;&lt;p&gt;　　“睡虎地秦简出土墓葬的主人‘喜’，是秦的一名基层法律工作者。”云梦县博物馆讲解员陈丹荔介绍，“4万多个工整的秦隶，从战国七雄到秦国一统的历史，被他用最直观的方式保存了下来。”&lt;/p&gt;&lt;p&gt;　　古今一脉，竹简之上，藏着跨越千年的治理智慧。&lt;/p&gt;&lt;p&gt;　　我国迄今为止发现最早的“环保条款”——《田律》，吸引不少观众驻足。“从春天二月起，不准到山林中砍伐木材，不准堵塞水道……”人们对照着简文，仔细读起译文。“早在秦时，古人便设置禁渔期、禁猎期，顺应时节、休养生息的治理理念和生态智慧，至今仍然有借鉴意义。”陈丹荔说。&lt;/p&gt;&lt;p&gt;　　一篇《为吏之道》，则为人们展示了2000多年前的秦代官吏行为规范。“‘凡为吏之道，必精洁正直’，简文提出吏有‘五善五失’，其中‘五善’之二为‘清廉毋谤’，清楚表明当时对为官清廉的要求。”云梦县博物馆副馆长栾丽介绍。&lt;/p&gt;&lt;p&gt;　　珍贵的简牍，为研究秦汉律法、行政、经济、民生提供了第一手文献，成为破解中华文明基因密码的“活字典”。&lt;/p&gt;&lt;p&gt;　　2006年，在距离睡虎地秦简出土地不足百米处，又发现2000多枚西汉简牍，其中连续14年之久的《质日》长卷，成为亮点，目前原件藏于湖北省文物考古研究院（湖北考古博物馆）。“质日不见于传世文献，是秦、西汉时流行的一种文献形式，通常以一年历表为基础，记写公私事务。结合同墓出土的文书材料，我们可以知道墓主人名为‘越人’，这批《质日》即为他的日记，记载内容十分丰富。”湖北省文物考古研究院研究馆员蔡丹说。&lt;/p&gt;&lt;p&gt;　　荆楚大地上的出土简牍，远不止云梦。&lt;/p&gt;&lt;p&gt;　　出土于湖北荆门的郭店楚墓竹简，主要为儒家和道家著作，是研究古文字学与先秦文献学等的珍贵资料。&lt;/p&gt;&lt;p&gt;　　张家山汉简内容丰富，包括《二年律令》《算数书》《盖庐》等，对研究西汉社会政治、经济、文化、科学、技术等具有极高价值。&lt;/p&gt;&lt;p&gt;　　湖北荆州胡家草场西汉简牍于2018年出土，单座墓葬藏有简牍数量达4600余枚，包括律令、历日、日书等7类文献。&lt;/p&gt;&lt;p&gt;　　从国法到人情，一枚枚出土简牍如同散落的拼图，拼出荆楚大地上的风云变幻，见证着统一多民族国家的形成。&lt;/p&gt;&lt;p&gt;　　然而深埋地下千年的珍贵简牍，早已是饱水状态，如面条般脆弱柔软。在被更多人了解之前，它们大多要先奔赴同一个目的地——荆州。&lt;/p&gt;&lt;p&gt;　　“文物医院”里饱水简牍的重生&lt;/p&gt;&lt;p&gt;　　和西北大漠黄沙掩埋下的干燥简牍不同，饱水简牍的含水量极高。因常年存于积水、缺氧环境中，其内部结构松软，一旦脱离水环境便会快速损毁。&lt;/p&gt;&lt;p&gt;　　对于饱水简牍而言，出土的那一刻，是一场“抢救”的起点。&lt;/p&gt;&lt;p&gt;　　荆州文物保护中心，国内超八成饱水简牍在这里完成修复。湘西里耶秦简、长沙走马楼三国吴简……至今已有超10万枚简牍在这座“文物医院”里重生，然后回到自己的家乡。&lt;/p&gt;&lt;p&gt;　　修复简牍的过程，就像一场与历史的持久对话。&lt;/p&gt;&lt;p&gt;　　走进荆州文物保护中心的简牍文物修复室，时间仿佛慢了下来。修复师们正在有条不紊地进行各自的工作。乙醇置换、十六醇置换、表面十六醇去除……专业复杂的工序里，藏着让简牍“开口说话”的秘密，修复室墙壁上的一张简牍保护工作流程图显示，前后有将近20道工序。&lt;/p&gt;&lt;p&gt;　　脱色和脱水，是简牍保护技术的核心，经过脱色后的简牍，从黑色恢复为竹子本体的淡黄色，有字简牍上的字迹就能被辨认出来。而经过脱水，简牍就有了强度。&lt;/p&gt;&lt;p&gt;　　而这一切，远非一日之功。&lt;/p&gt;&lt;p&gt;　　“保护要遵循最小干预原则，先清理表面泥沙杂质、除菌除污，全程控温、控湿、防虫，最终以恒温恒湿密封馆藏为佳。”荆州文物保护中心主任、“全国文物大工匠”方北松说。方北松深耕简牍修复30余年，经手的简牍10万余枚，“修复不是一朝一夕的事，常常连续几个月都重复着同样的动作，得耐得住性子、沉得下心。”&lt;/p&gt;&lt;p&gt;　　这条简牍保护修复的路，饱含着几代人的心血。&lt;/p&gt;&lt;p&gt;　　“上世纪七八十年代，吴顺清老先生就着手这项工作。”方北松说。吴顺清用半生匠心修复千年简牍，其研发的“干缩竹简润胀复形技术”，让缩成一团的竹简奇迹般舒展开来。&lt;/p&gt;&lt;p&gt;　　其后，方北松带领团队深耕简牍保护领域，其独创的简牍脱色、脱水工艺，目前仍是饱水简牍修复的主要方法。&lt;/p&gt;&lt;p&gt;　　如今，在四川成都、湖南长沙、湖北云梦等8个城市，8个工作站也在同步运转。截至2025年，作为“出土木漆器保护国家文物局重点科研基地”依托单位之一的荆州文物保护中心，已为国内27个省区市、130余家文博单位提供文物保护技术支撑。&lt;/p&gt;&lt;p&gt;　　目前，仍有2万多枚简牍在这座“文物医院”中静静等待着修复。“今年，我们在继续推进秦家咀楚简全面完成清洗与文字信息提取的同时，还将推进云南河泊所简牍、南昌海昏侯墓简牍等多个简牍保护项目的扫尾工作。”方北松说。&lt;/p&gt;&lt;p&gt;　　工作台上，一枚枚简牍被玻璃片夹住，精心捆扎后浸于蒸馏水中。等待它们的，正是被后人唤醒、释读，并将藏于其中的中华文明故事讲给更多人听。&lt;/p&gt;&lt;p&gt;　　让“国之瑰宝”走进当代人的生活&lt;/p&gt;&lt;p&gt;　　北京大学出土文献与古代文明研究所资料室，博士研究生王学森翻开《睡虎地秦墓竹简》，查找确认与秦“军功爵”有关的律令。从事先秦史方向的学术研究，王学森有着自己的考虑，“我们正身处一个重视‘冷门绝学’的时代，我希望能够在政治制度和社会结构领域进行深入研究，探求它们从先秦到秦汉的产生和演变脉络，以及如何影响后世对先秦时代的认识。”&lt;/p&gt;&lt;p&gt;　　目光转向武汉大学万林艺术博物馆，一场公益云课堂上，武汉大学简帛研究中心教授鲁家亮正在进行一场以“简牍中的家国信史”为主题的讲座。&lt;/p&gt;&lt;p&gt;　　“简牍实际上是一种书写载体，我们目前看到的简牍实物主要集中在战国到魏晋时期，其中最早的一批就出自湖北，即非常著名的曾侯乙墓……”屏幕这头，鲁家亮娓娓道来。&lt;/p&gt;&lt;p&gt;　　古人的“九九乘法表”长什么样？汉代“公务员日记”记录了什么？一枚枚竹简之上艰涩难懂的文字，在鲁家亮的科普中变得具体可感。这些年，除了深耕学术研究，鲁家亮的另一项任务，便是为公众讲述简牍背后的故事。&lt;/p&gt;&lt;p&gt;　　“大家普遍觉得，简牍的阅读门槛高，不容易理解其中蕴含的历史信息。一方面，我们要持续深入研究，加快《湖北出土简牍集成》的编纂出版，完成对湖北出土简牍全面系统的整理、著录和解读；一方面，也要通过展览、讲座等各种形式，向公众讲好简牍里的家国故事，让‘国之瑰宝’走进当代人的生活。”鲁家亮说。&lt;/p&gt;&lt;p&gt;　　在湖北，有声有色的科普展示，还有更“入戏”的方式——&lt;/p&gt;&lt;p&gt;　　“2000多年前的秦代工作笔记，到底写了什么？大家跟我一起看……”睡虎地秦简考古遗址公园，湖北省博物馆副馆长杨理胜身着秦代服饰，以“喜”的第一视角讲述自己的“亲身经历”。&lt;/p&gt;&lt;p&gt;　　杨理胜与“喜”之间，有一段奇妙的缘分。根据体质人类学研究，他的身高、体重都与睡虎地秦简出土墓主“喜”颇为接近。这个巧合让他萌生了一个大胆的想法：“官修史书记载的是王侯将相，而‘喜’是一个通过考古发现的普通人。我们应该以怎样的视角去讲述这背后的历史？我干脆就穿上他的衣服，去演绎他的故事。”&lt;/p&gt;&lt;p&gt;　　从2024年开始，杨理胜在很多场合以“喜”的身份出现。好几次化完妆后，身边的人都没有认出他。“如果只是单纯介绍相关研究情况，可能还不够。类似角色扮演的这种方式，比较接地气，能让文物真正活起来。”&lt;/p&gt;&lt;p&gt;　　从年轻学子不断投身研究，到专家学者开始走出书斋；从云端课堂的精彩科普，到“穿越时空”的传神演绎……正如杨理胜所说，对简牍的关注不会仅停留在学术层面，我们对简牍背后中华文明的理解，正在持续不断地走向深入。&lt;/p&gt;&lt;p&gt;　　千年之前书于竹木上的文字，仿佛泛舟于时间长河缓缓而来，变成普通人听得懂、看得见的故事。简牍，正以一种更亲近的方式，重新回到人们中间。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  何思琦&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171012&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171012.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171012.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 探寻简牍里的荆楚文脉（文化中国行·人文观察）&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171012.html#[08版：人文] 探寻简牍里的荆楚文脉（文化中国行·人文观察）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：人文] 安静流淌的河流（人文茶座）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171013.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 安静流淌的河流（人文茶座） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							王计兵&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　我的写作开始于1988年，1992年曾经发表过一些微型小说。对于梦想的追求，进入过一种近乎疯狂的状态。为写一部长篇小说，我写到重度营养不良，反复被送进医院。后来，父亲一把火烧掉了我20多万字的文字手稿，此后禁止我写作。那一年，我在笔记本最中心、最宽阔的地方写下过一行大字：“我要做一个伟大的作家”。而合上笔记本的时候，又像折断了梦想的翅膀。2017年我再次发表作品，中间已过去了25年，我去过新疆，去过辽宁沈阳，去过山东蒙阴老区。先后在工地、砖厂、码头靠体力打工。所以我才会写下：“我用体力榨出生命的水分，仍不能让生活变得更纯粹”。&lt;/p&gt;&lt;p&gt;　　25年间，我不再投稿，但我并没有放弃心中对文字的热爱，我想，一个人一定要有自己的爱好，才会活得更加踏实。后来有人问我：“当初的日子那么苦，你是怎么熬过来的？那么苦，为什么还要坚持写作？”实际上，对待生活的态度决定对待生命的感受。我从未感觉到日子是在熬，每天我都活得非常有劲。对于文字的喜爱，因为喜爱，就谈不上坚持。比如有的人喜欢钓鱼，没有人会问他是怎么熬过来的？我爱文学，也能从文学里调取属于我的力量。&lt;/p&gt;&lt;p&gt;　　2017年我重新开始投稿，2018年，我成了江苏徐州市作家协会会员。时间过去了25年。有人问我：“你恨过自己的父亲吗？”其实“恨”这个词用在父亲的身上，特别残忍。我写过一首题为“梦想之地”的诗歌。“当年我在我的梦想之地上建造了一座大厦，还没入住就被父亲拆了。我不允许梦想之地留下一地的废墟，为此，我清理了25年。时光证明父亲是对的。我开始一茬一茬收获我的诗歌”。真正的梦想之地，是用来生长的。真正的梦想，是把梦想缩小，成为内心守护的种子。&lt;/p&gt;&lt;p&gt;　　由于送外卖生活时间的高度碎片化，为了不让写作和生活发生矛盾，我摒弃了传统的纸笔写作，改用语音聊天的方式进行创作。有人在聊写作需要天分还是需要勤奋的时候，我坚持认为：天才属于极少数拥有天赋的人，而更多的写作者是靠勤奋一点一点地积累，最终形成了自己的思维惯性。这让我想到了我的岳父，已经79岁的老木匠。有一天，我从他的院子里拿走了一根木头。后来岳父寻找这根木头，得知被我拿走做了铁锹的柄，岳父大为惋惜，他说这一堆木头里，这根木料最适合做一个衣橱的立柱。在一个老木匠的眼里，其实是没有多余的木头的。哪怕我拿走的是另一根木头，在他的眼里，一定还拥有着它应该存在的位置。这就像我们写作，一个写作者要善于从一堆木头里，找出生活中那根最好的立柱。&lt;/p&gt;&lt;p&gt;　　我在各种工地打过工，对钉子的印象特别深刻。因此，钉子就成了我作品中频繁出现的诗歌元素。就像我有一根小指，在我曾经靠捡废品为生的日子里，被铁皮割断肌腱，变得弯曲、变形。有一次在送外卖时，我用这根伤残的手指挂着外卖，在路上奔跑。突然感觉它像“我身体里多出来的钩子，把我变成了一面行走的墙”。这就是文学的思维惯性，当你长期热爱文学、热爱写作，就会拥有属于你自己的思维惯性。&lt;/p&gt;&lt;p&gt;　　一天中午，我在马路边遇到了一只不知道被谁咬了一口又丢弃的青西红柿。这让我瞬间想起了我懵懂的少年时光，也咬下过一口青西红柿，因此，我写下：“一只被咬了一口的西红柿，仿佛被咬过了一口的童年。那缺失的和被丢弃的部分，哪一部分更重要？”我想这就是文学：用自己的思维惯性，结合自己的生命经验，结合对人生的感悟，就拥有了属于我们自己的诗歌。&lt;/p&gt;&lt;p&gt;　　很荣幸，我获得了第九届鲁迅文学奖诗歌奖。媒体让我聊一聊获奖的感受。我说，岁月还长。我希望大家耐心地给我时间，若干年后，人们会发现，王计兵始终是一条安静流淌的河流。&lt;/p&gt;&lt;p&gt;　　（作者为诗人，第九届鲁迅文学奖获得者） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;王计兵&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171013&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171013.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171013.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 安静流淌的河流（人文茶座） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171013.html#[08版：人文] 安静流淌的河流（人文茶座）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：人文] 高甲戏也能这么“潮”（传承）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171014.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 高甲戏也能这么“潮”（传承） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  钟自炜&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“云手要像抚流水，肩要松，气要沉；腰是轴，眼是灯，灯不亮轴怎么转……”福建泉州南安市，石井镇岑兜村传出阵阵悠扬戏音。村委会300多平方米的礼堂，每逢周六便会化为高甲戏练功房，老师林国春朗声讲解，时而细致提点唱腔身段，时而近身手把手纠正动作。&lt;/p&gt;&lt;p&gt;　　高甲戏是福建五大剧种之一，2006年被列入首批国家级非物质文化遗产名录。作为高甲戏的发源地，岑兜村有着300多年的高甲戏历史，曾有“十家九戏”的说法，是名副其实的“戏窝子”。鼎盛时期，村里的高甲戏班近30个，家家户户皆与戏曲结缘。&lt;/p&gt;&lt;p&gt;　　然而，随着时代发展变迁，高甲戏一度沉寂。十几年前，岑兜村面临戏曲人才严重断层的困境。“当时，村里只剩1个戏班，最年轻的演员也有50多岁了。”岑兜村党总支书记洪安平回忆，村民们担心，如果再没有“新鲜血液”注入，高甲戏就要成为历史。&lt;/p&gt;&lt;p&gt;　　破解传承断层难题，2015年，岑兜村依托岑兜小学开办高甲戏传习所，村委会全额承担所有运营开支。“‘娃娃班’刚开办时，大家还担心没人来，没想到第一期就来了50多个孩子。”洪安平说。&lt;/p&gt;&lt;p&gt;　　十余载深耕传艺，岑兜村高甲戏传习班累计培育近300名高甲戏新人，9人成功进入专业戏剧院团深造。“不仅培养专业人才，更重要的是，唤醒了年轻一代对高甲戏的喜爱，赏戏学戏的文化氛围重回岑兜村。”谈及从传习班中走出的“徒弟”们，林国春眼中透出笑意。&lt;/p&gt;&lt;p&gt;　　传承发扬高甲戏，既要育新人，更要筑新景。&lt;/p&gt;&lt;p&gt;　　2022年，岑兜村积极盘活闲置资源，原状保留及修缮村里的200多栋古厝，打造全国首个高甲戏户外博物馆。“打破传统戏剧的舞台边界，村里的每一块砖都很有‘戏份’。”跟随洪安平漫步这个鲜活的“露天活态戏剧博物馆”，一巷一院均是舞台，一砖一瓦皆藏戏韵。&lt;/p&gt;&lt;p&gt;　　身着传统戏服的高甲戏机器人惊艳登场，与真人演员同台献艺，一招一式、一唱一和精准到位；一只只舞狮扮相的机器狗随着音乐整齐列队、灵活舞动，节奏感十足……今年2月，一场特别的新春主题表演，让来到岑兜村的游客直呼惊喜，“第一次看机器人演高甲戏，没想到，高甲戏也能这么‘潮’！”&lt;/p&gt;&lt;p&gt;　　“机器人演绎高甲戏，最大的难点并非动作复刻，而是神韵与戏味。”节目导演洪晓静表示，“团队提前来到岑兜村，把程式、韵律、节奏一点点‘教’给机器人，力争在精准与灵动之间寻找平衡。”&lt;/p&gt;&lt;p&gt;　　如今的岑兜村，“戏曲+N”的创新探索从未停歇——举办高甲戏服饰文化田园走秀、戏剧快闪、戏剧帮传会等丰富活动；推出以高甲戏角色为原型的可爱形象，开发手机壳、帆布袋等文创产品；打造戏服体验区，策划推广研学旅游路线……立足百年戏曲底蕴，融合潮流时尚元素，岑兜村正全力打造高甲戏特色乡村文旅名片。&lt;/p&gt;&lt;p&gt;　　“下一步，我们还将继续提升，丰富主题餐饮、非遗工坊、田园艺术等业态，让高甲戏文化在岑兜村真正活下来、火起来、传下去。”谈及未来，洪安平信心满满。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  钟自炜&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171014&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171014.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171014.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 高甲戏也能这么“潮”（传承） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171014.html#[08版：人文] 高甲戏也能这么“潮”（传承）</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：人文] 本版责编：何思琦</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171015.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：何思琦 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年07月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：沈亦伶 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-07-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30171015&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171015.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202607/26/content_30171015.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：何思琦 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202607/26/content_30171015.html#[08版：人文] 本版责编：何思琦</guid>
+      <pubDate>Sun, 26 Jul 2026 07:24:58 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
