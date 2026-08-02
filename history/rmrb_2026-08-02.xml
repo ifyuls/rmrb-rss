@@ -1,0 +1,1006 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 01 Aug 2026 23:23:57 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] “坚持高质量发展要成为领导干部政绩观的重要内容”（总书记的人民情怀）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172602.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “坚持高质量发展要成为领导干部政绩观的重要内容”（总书记的人民情怀） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  赵  成  史一棋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　7月30日，习近平总书记主持中共中央政治局会议。会议指出，“要巩固拓展树立和践行正确政绩观学习教育成果，推动各级领导干部以更加昂扬向上的精气神，不断创造高质量发展新业绩。”&lt;/p&gt;&lt;p&gt;　　“推动高质量发展行稳致远”离不开正确政绩观。习近平总书记鲜明指出：“坚持高质量发展要成为领导干部政绩观的重要内容。”&lt;/p&gt;&lt;p&gt;　　以正确政绩观引领高质量发展，确保接续推进中国式现代化建设。&lt;/p&gt;&lt;p&gt;　　培育发展未来产业，是高质量发展的方向之一。&lt;/p&gt;&lt;p&gt;　　1月30日，习近平总书记主持中共中央政治局第二十四次集体学习。针对未来产业具有前瞻性、战略性、颠覆性等特点，总书记强调：“要把准发展方向”“要把握发展节奏”“特别是要引导各地牢固树立和践行正确政绩观”。&lt;/p&gt;&lt;p&gt;　　解决好政绩观问题，是做好经济工作的重要前提。&lt;/p&gt;&lt;p&gt;　　早在22年前，习近平同志担任浙江省委书记时，针对浙江经济高速增长中出现的突出问题，提出“政绩观与发展观密切相连。有什么样的政绩观，就会有什么样的发展观，反之亦然”。&lt;/p&gt;&lt;p&gt;　　习近平总书记高度重视以正确政绩观引领高质量发展。今年4月和7月，中共中央政治局会议两次分析研究当前经济形势和经济工作，洞明发展和政绩观的内在联系：&lt;/p&gt;&lt;p&gt;　　4月28日，会议强调“要深入开展树立和践行正确政绩观学习教育，把学习教育的成效转化为推动高质量发展的实效”。7月30日，会议指出“我国经济呈现动能向新、结构向优的发展态势”。&lt;/p&gt;&lt;p&gt;　　今日中国，新产业和新的经济增长点不断培育。从“新三样”（新能源汽车、锂电池、光伏产品）稳扎稳打到“新新三样”（人工智能、机器人、创新药）加速崛起，推动经济持续向新向优向好发展。&lt;/p&gt;&lt;p&gt;　　以正确政绩观引领高质量发展，要坚持和运用科学方法。&lt;/p&gt;&lt;p&gt;　　如何把正确政绩观转化为推动高质量发展的动力，习近平总书记深入思考、科学指引。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，习近平总书记反复强调，“要完整准确全面贯彻新发展理念、着力推动高质量发展，要把这个要求一级一级落实下去，没有正确政绩观是做不到的。”&lt;/p&gt;&lt;p&gt;　　新发展理念是一个整体，提出的要求是全方位的、多层面的，绝不是只有经济指标这一项，不能简单地以GDP论英雄。&lt;/p&gt;&lt;p&gt;　　2023年全国两会，习近平总书记听到有代表谈及2019年响水事故，特意叮嘱：“任何时候我们都不能走那种急就章、竭泽而渔、唯GDP的道路。这就是为什么要树牢新发展理念。树立正确的政绩观也就在这里，功成不必在我、功成必定有我。”&lt;/p&gt;&lt;p&gt;　　以新发展理念校准政绩观，需要克服“单打一”思想，不能只顾一点不及其余，不干只讨领导欢心，却让群众失望的蠢事。&lt;/p&gt;&lt;p&gt;　　把坚持高质量发展作为领导干部政绩观的重要内容，还要以高质量发展为政绩观确立正确工作导向。&lt;/p&gt;&lt;p&gt;　　习近平总书记指出：“高质量发展不只是一个经济要求，而是对经济社会发展方方面面的总要求；不是只对经济发达地区的要求，而是所有地区发展都必须贯彻的要求；不是一时一事的要求，而是必须长期坚持的要求。”&lt;/p&gt;&lt;p&gt;　　以正确政绩观引领高质量发展，归根到底是为了造福人民。&lt;/p&gt;&lt;p&gt;　　为民造福是最大政绩。&lt;/p&gt;&lt;p&gt;　　6月24日，习近平总书记前往山东省德州市考察，深入田间地头了解粮食生产情况，来到农村调研基层党组织建设和乡村振兴，走进农民家中共话幸福生活。&lt;/p&gt;&lt;p&gt;　　“树立和践行正确政绩观，最终要落到为民造福上。广大党员、干部要强化公仆意识，厚植为民情怀，多为群众做好事、办实事、解难事，实实在在增强老百姓的获得感幸福感安全感。”总书记重要讲话深刻阐明，推动高质量发展，归根到底是为了造福人民。&lt;/p&gt;&lt;p&gt;　　“我们做事情、干工作，如果做到了上有利于国家、下有利于人民；既符合国家和人民眼前利益的要求，又符合国家和人民长远利益的要求；既能促进经济社会发展，又能促进国家富强和人民幸福，那就做出了党和人民所需要的真正的政绩。”&lt;/p&gt;&lt;p&gt;　　习近平总书记的叮嘱语重心长，指明认识论，给出方法论，引导党员干部切实把正确政绩观落到实处，在推动高质量发展上不断取得新突破。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  赵  成  史一棋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172602&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172602.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172602.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “坚持高质量发展要成为领导干部政绩观的重要内容”（总书记的人民情怀） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172602.html#[01版：要闻] “坚持高质量发展要成为领导干部政绩观的重要内容”（总书记的人民情怀）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 谋幸福</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172603.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 谋幸福 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——深刻认识“最本质的特征”和“最大优势” &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							金社平&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　人民幸福安康是推动高质量发展的最终目的。&lt;/p&gt;&lt;p&gt;　　7月30日，习近平总书记主持中共中央政治局会议。会议强调：“要多措并举加强民生保障，加大重点群体就业支持力度，做好灵活就业人员和新就业形态人员权益保障工作。抓好‘一老一小’服务保障，健全分层分类的社会救助体系。加强生态环境保护，打好‘三北’工程攻坚战，积极稳妥推进碳达峰碳中和。”&lt;/p&gt;&lt;p&gt;　　习近平总书记在庆祝中国共产党成立105周年大会上指出：“105年来，我们党始终坚守为中国人民谋幸福、为中华民族谋复兴的初心使命”。&lt;/p&gt;&lt;p&gt;　　走过105年的奋斗历程，百年大党风华正茂，初心未改。&lt;/p&gt;&lt;p&gt;　　“人民对美好生活的向往，就是我们的奋斗目标。”这个目标很宏伟，也很务实，归根到底就是为人民谋幸福，让老百姓过上更好的日子。&lt;/p&gt;&lt;p&gt;　　坚持立党为公、执政为民，自觉践行全心全意为人民服务的根本宗旨，坚定地同人民站在一起、想在一起、干在一起。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　（一）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记指出：“只有坚持以人民为中心的发展思想，坚持发展为了人民、发展依靠人民、发展成果由人民共享，才会有正确的发展观、现代化观。”&lt;/p&gt;&lt;p&gt;　　发展“为了谁”，一道折射政绩观的必答题，检验一个政党、一个政权性质的试金石。&lt;/p&gt;&lt;p&gt;　　为了谁、依靠谁？“人民”二字千钧重。&lt;/p&gt;&lt;p&gt;　　6月初，两条“河”的“接力”振奋人心。&lt;/p&gt;&lt;p&gt;　　辟一个出海口！西部陆海新通道骨干工程平陆运河全线通水。建设时长约4年、土石方开挖总量约3倍于三峡工程的运河，助推区域发展、带动就业增收、畅通经济循环……&lt;/p&gt;&lt;p&gt;　　正式破土开工！“十五五”时期开工建设的首个国家重大标志性工程、总投资超770亿元的三峡水运新通道，将为长江干线扩展水利、航运、生态等功能，更好支撑长江经济带高质量发展。&lt;/p&gt;&lt;p&gt;　　为民造福的重大工程，既彰显制度优势与综合国力，更是践行以人民为中心的发展思想的生动体现。&lt;/p&gt;&lt;p&gt;　　农业农村现代化关系中国式现代化全局和成色。“千村示范、万村整治”工程是习近平同志在浙江工作期间亲自谋划推动的一项重大决策，从整治农村环境、解决“脏乱差”问题入手，由点及面，扩容建设。20多年来，“千万工程”造就了万千美丽乡村，造福了亿万农民。&lt;/p&gt;&lt;p&gt;　　从水利枢纽到交通动脉，从能源基地到科技设施，从美丽乡村再到人民城市，一项项工程打基础利长远，出实招求实效，发展红利转化为人民群众实实在在的福祉。&lt;/p&gt;&lt;p&gt;　　发展为了人民，也体现在各项改革举措当中。陕西汉中，80多岁的马福明、刘淑莲老两口重度失能，长护险政策为他们提供经济补偿和上门照护，每逢护工到家，老两口脸上满是高兴与欣慰；福建三明，70多岁的林大爷罹患肺癌，当地推进紧密型县域医共体建设，让他在县里也能得到有效治疗……&lt;/p&gt;&lt;p&gt;　　党的十八大以来，我们坚持以人民为中心，持续深化改革，建成世界上规模最大的教育体系、社会保障体系、医疗卫生体系，人民生活品质不断提高，人民群众的获得感、幸福感、安全感得到有效保障。&lt;/p&gt;&lt;p&gt;　　当前，人民对美好生活的向往从“有没有”转向“好不好”，期盼有更好的教育、更好的公共服务、更高水平的医疗卫生服务、更舒适的居住条件……这要求我们持续深化改革，将发展成果更多更公平惠及全体人民。&lt;/p&gt;&lt;p&gt;　　深化教育综合改革，建设高质量教育体系；优化生育支持政策和激励措施，有效降低家庭生育养育教育成本；深化医药卫生体制改革，促进优质医疗资源扩容和区域均衡布局；完善养老服务体系，不断增进老年人福祉；深入实施乡村建设行动，提高农村公共服务便利度、人居环境舒适度……“十五五”时期，一项项保障和改善民生的改革举措令人倍感暖心。&lt;/p&gt;&lt;p&gt;　　始终站稳人民立场，把人民利益放在最高位置，把人民是否真正得到实惠、生活是否改善、权益是否真正得到保障作为检验工作成效的根本标准，中国式现代化建设必将开创新局面。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;（二）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记强调：“中国式现代化是全体中国人民的事业，必须紧紧依靠人民，汇聚蕴藏在人民中的无穷智慧和力量，才能不断创造新的历史伟业。”&lt;/p&gt;&lt;p&gt;　　千年冰峰人难开，要开除非神仙来。2025年底，世界最长高速公路隧道——天山胜利隧道正式通车，这标志着新疆乌鲁木齐至尉犁的G0711高速公路全线投入使用。&lt;/p&gt;&lt;p&gt;　　长达22.13公里，施工区域平均海拔超3000米，穿越16个地质断裂带，岩爆、涌水、软岩大变形等不良地质层出不穷……打通天山胜利隧道的不是神仙，而是数千名筑路工人冒着风雪、缺氧等艰险，长达4年多的接续奋斗。&lt;/p&gt;&lt;p&gt;　　隧道贯通，将穿越天山的时间从原来的3小时缩短至约20分钟，为南北疆人员往来，经济、人文便捷交流提供了坚实保障。&lt;/p&gt;&lt;p&gt;　　在无垠的田野里收夏粮，在世界屋脊上筑铁路，在无尘工厂里造芯片……此时此刻，亿万劳动人民在党的带领下，用双手创造财富，朝着全面建设社会主义现代化国家的宏伟目标阔步前进。&lt;/p&gt;&lt;p&gt;　　谋幸福的最大底气是什么？&lt;/p&gt;&lt;p&gt;　　人民，只有人民，才是创造世界历史的动力。唯物史观认为，在人类历史发展的进程中，人民群众是社会物质财富的创造者，是社会精神财富的创造者，也是社会变革的决定力量。&lt;/p&gt;&lt;p&gt;　　“淮海战役胜利是靠老百姓用小车推出来的，渡江战役胜利是靠老百姓用小船划出来的”。我们党一百多年的发展史，就是一部党与人民心心相印、与人民同甘共苦的历史，也是一部领导人民团结奋斗、拼搏前进的历史。&lt;/p&gt;&lt;p&gt;　　步入新时代，为14亿多人民谋幸福，必须坚持发展依靠人民，尊重人民主体地位，充分调动人民积极性。&lt;/p&gt;&lt;p&gt;　　白练飞舞，银丝出锅。十年九旱的青海化隆回族自治县，过去20多万名农民超六成是贫困户。在党和政府的帮扶下，当地群众学习拉面、走出大山、进城创业，在国内330多个城市、全球16个国家“抻”开2万多家面馆，一年“拉”回上百亿元，闯出了致富的好路子。&lt;/p&gt;&lt;p&gt;　　中国式现代化是全体人民共同富裕的现代化。谋幸福，必须尊重人民首创精神。&lt;/p&gt;&lt;p&gt;　　义乌不临海、不靠江、不沿边，资源禀赋并不突出，却从浙中腹地的一座农业小县发展成为全球最大的小商品市场，秘诀何在？&lt;/p&gt;&lt;p&gt;　　2026年4月，习近平总书记作出重要指示，强调“要结合开展树立和践行正确政绩观学习教育，把‘义乌发展经验’进一步总结好、运用好，引导各地区立足自身资源禀赋，尊重基层和群众首创精神”。早在浙江工作期间，习近平同志就要求全省各地学习“义乌发展经验”。2006年4月，浙江省委和省政府下发《关于学习推广义乌发展经验的通知》。&lt;/p&gt;&lt;p&gt;　　20年来，义乌不断书写“小商品、大市场”新篇章，市场不断迭代升级，每一次跨越都离不开基层群众的创新探索，每一次突破都彰显着对群众首创精神的珍视。截至2025年底，义乌先后承担了111项国家级创新试点任务，不少重大制度创新成果在全国推广。&lt;/p&gt;&lt;p&gt;　　泰山不拒细壤，故能成其高。新征程上，创造不凡的政绩，必须汲取群众智慧，充分发动群众，共同奏响全体人民的“大合唱”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　（三）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记深刻指出：“共同富裕是社会主义的本质要求，是中国式现代化的重要特征。”&lt;/p&gt;&lt;p&gt;　　宁夏农民人均年收入从1996年的1400元左右增长到2025年的2万元以上。一笔账，跨越4000多里、走过三十载。闽宁协作，这场始于1996年的东西部“接力跑”，跑出了山海情深，也跑出了共同富裕的中国答案。&lt;/p&gt;&lt;p&gt;　　福建先后选派14批254名干部到宁夏挂职帮扶，39个经济较发达县（市、区）结对帮扶宁夏9个贫困县。脱贫攻坚期间，9个贫困县全部摘帽、80.3万农村贫困人口全部脱贫。&lt;/p&gt;&lt;p&gt;　　今年6月，习近平总书记对常态化做好东西部协作工作作出重要指示：“总结运用闽宁协作等有益经验”“推动全体人民共同富裕迈出坚实步伐”。&lt;/p&gt;&lt;p&gt;　　这是“十五五”开局之年、常态化帮扶第一年发出的新号令。&lt;/p&gt;&lt;p&gt;　　放眼全国，东西部协作持续加大产业转移力度，共建产业园区近800个，在巩固拓展脱贫攻坚成果同乡村振兴有效衔接的过渡期，引导企业到西部地区投资7500多亿元。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，经过8年持续奋斗，近1亿农村贫困人口脱贫，历史性解决了绝对贫困问题。“当未来的历史学家书写我们这个时代的历史时，中国的脱贫攻坚完全可能成为其中最浓墨重彩的章节之一。”美国库恩基金会主席库恩这样评价。&lt;/p&gt;&lt;p&gt;　　确保老区人民共享改革发展成果，过上幸福生活，是习近平总书记深情的牵挂。&lt;/p&gt;&lt;p&gt;　　西延高铁选线，本可沿河谷走直线，却选择在陕西延安洛川设站，新增9公里正线、多投18亿元，只为让陕北老区群众坐上高铁列车。中国式现代化，从来不做“淘汰谁”的选择，而是“一个都不能少”的庄严承诺。&lt;/p&gt;&lt;p&gt;　　长征路上，3名女红军借宿湖南汝城县沙洲村村民徐解秀家，临走时把仅有的一条被子剪下半条留下。“我们共产党人和老百姓的感情就是共用一条被子的感情。”&lt;/p&gt;&lt;p&gt;　　90多年过去，这份感情未变。福建龙岩，古田会议会址熠熠生辉，全市林下经济总产值275.75亿元，产业发展惠及18万户林农。浙江嘉兴南湖，红船依旧，三星村通过党建联建带动片区抱团共富，城乡居民收入比缩小至1.48∶1，农村居民收入连续22年保持浙江省第一……&lt;/p&gt;&lt;p&gt;　　再看全国，共同富裕扎实推进。过去5年，我国居民人均可支配收入从35128元增长到43377元，城乡居民人均可支配收入比值缩小至2.31，2025年全国居民人均消费支出29476元，比上年增长4.4%。民生保障网越织越密。截至2025年底，基本养老保险参保率、基本医疗保险参保率均在95%以上，失业保险、工伤保险参保人数分别达2.49亿人、3.05亿人……发展的成果扎实转化为老百姓的获得感。&lt;/p&gt;&lt;p&gt;　　这些都离不开真金白银的民生投入。“十四五”时期，民生领域财政投入近100万亿元，累计改造城镇老旧小区24万多个，养老机构和设施达39.6万个，托育服务机构增加6.6万家……&lt;/p&gt;&lt;p&gt;　　江山就是人民，人民就是江山。105年风雨兼程，从石库门到天安门，从一叶红船到巍巍巨轮，干革命、搞建设、抓改革，为中国人民谋幸福、为中华民族谋复兴的初心始终未改。&lt;/p&gt;&lt;p&gt;　　为民造福是最大政绩。新征程上，广大党员干部要自觉树立和践行正确政绩观，践行初心使命，在推进高质量发展中保障和改善民生，让人民生活的幸福成色更足、更暖，为以中国式现代化全面推进强国建设、民族复兴伟业而不懈奋斗。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;金社平&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——深刻认识“最本质的特征”和“最大优势” &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172603&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172603.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172603.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 谋幸福 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172603.html#[01版：要闻] 谋幸福</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 上海稳步建设全球科创高地（活力中国调研行）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172604.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 上海稳步建设全球科创高地（活力中国调研行） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李仕权  徐雷鹏  黄晓慧&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　盛夏时节，上海科创热潮奔涌。&lt;/p&gt;&lt;p&gt;　　一场盛会，2026世界人工智能大会暨人工智能全球治理高级别会议，351款产品全球首发；&lt;/p&gt;&lt;p&gt;　　一个大科学装置，上海光源上半年开放运行机时同比增长16%，其中企业用户机时增长44.2%；&lt;/p&gt;&lt;p&gt;　　一家通用具身智能机器人企业，智元机器人下线超1.5万台，距离万台量产节点用时不足3个月；&lt;/p&gt;&lt;p&gt;　　…………&lt;/p&gt;&lt;p&gt;　　2026年4月，习近平总书记在上海出席加强基础研究座谈会时强调，要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。&lt;/p&gt;&lt;p&gt;　　2025年4月，习近平总书记在上海考察时强调，不断增强科技创新策源功能和高端产业引领功能，加快建成具有全球影响力的科技创新高地。&lt;/p&gt;&lt;p&gt;　　沿着总书记指引的方向，上海增强“敢为”的担当、锻造“善为”的本领、汇聚“共为”的合力，基础研究多点开花、成果转化加速推进、产业协同释放乘数效应，上海（长三角）国际科技创新中心建设蹄疾步稳。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　敢为：增强原始创新动力&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　基础研究是科技创新的“最先一公里”，投入大、周期长、风险高，怎么应对？&lt;/p&gt;&lt;p&gt;　　上海着力增强“敢为”的担当，政府“兜底”，制度“破壁”。&lt;/p&gt;&lt;p&gt;　　敢为人先——先行先试、优化机制，筑牢基础研究的根基。&lt;/p&gt;&lt;p&gt;　　率先设立“基础研究先行区”，遴选勇闯“无人区”的年轻科研人员，给予长周期稳定资助；&lt;/p&gt;&lt;p&gt;　　组建尚思自然科学研究院，推行“以选题为基础的选人机制”，重点支持高风险、高价值探索性研究；&lt;/p&gt;&lt;p&gt;　　修订《上海市科学技术进步条例》，专设“基础研究”章节，明确市级财政科创资金用于基础研究的比例原则上不低于1/3……&lt;/p&gt;&lt;p&gt;　　“上海这座城市，很愿意为高风险、长周期的原创探索提供充分支持。”中国科学院院士、李政道研究所所长张杰说。&lt;/p&gt;&lt;p&gt;　　敢作敢干——给经费、给时间、给信任，增强科研工作者的底气。&lt;/p&gt;&lt;p&gt;　　高风险非共识课题有稳定保障。新的选人机制，让中国科学院生物与化学交叉研究中心研究员刘聪成为首批受资助的尚思探索学者，他带领团队深入研究α—突触核蛋白多年，与复旦大学附属华山医院郁金泰团队等合作，在全球首次发现帕金森病新靶点FAM171A2。&lt;/p&gt;&lt;p&gt;　　长周期探索有包容生态。李政道研究所营造鼓励探索、宽容失败的学术环境，聚焦“极端宇宙条件下物质的起源与演化”，布局四川锦屏PandaX暗物质与中微子探测装置、南海“海铃计划”中微子望远镜、青海冷湖JUST光谱望远镜等大科学装置，形成以上海为枢纽的基础研究网络。&lt;/p&gt;&lt;p&gt;　　“深化基础研究先行区建设，完善选人机制，给予长周期稳定资助，支持科学家潜心开展研究。这就是我们带给科研工作者的底气。”上海市科委主任骆大进表示。&lt;/p&gt;&lt;p&gt;　　这份底气还体现在对失败的态度上——上海试点容错机制，若结题未达预期，说明原因、梳理经验，不影响后续申报。宽容失败，比奖励成功更需要勇气。&lt;/p&gt;&lt;p&gt;　　给基础研究以时间，给原始创新以空间，给拔尖人才以舞台——这是上海为“从0到1”写下的注脚。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;善为：提升成果转化能力&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　理论的突破，不等于应用的成功。从论文到产品，是科技成果转化的“关键一公里”。如何解决中间环节缺失、供需错配等共性难题？&lt;/p&gt;&lt;p&gt;　　上海奋力锻造“善为”的本领，充分发挥“加速器”和“孵化器”的功能作用。&lt;/p&gt;&lt;p&gt;　　善做“加速器”——大力建设概念验证、中试验证平台等，共享科研资源，促进科技成果验证转化。&lt;/p&gt;&lt;p&gt;　　张江药谷，一座座中试平台忙碌运转。在这里，从基础研究到小试、中试，再到产品，新药研发一日千里。&lt;/p&gt;&lt;p&gt;　　扎根于此的迈威生物，是这场“加速跑”的受益者，也是见证者。“中试是药物从实验室走向产业化的必经之路，也是最容易卡住的环节。”迈威生物生产科学与技术部执行总监李纲介绍，区域内的专业化服务平台，助力源头创新更快从实验室走向临床、走向市场。&lt;/p&gt;&lt;p&gt;　　目前，张江药谷已集聚超4000家生物医药创新主体、10家重大科技基础设施、超200个专业服务平台等，构建起高效协同的全链条生态。&lt;/p&gt;&lt;p&gt;　　善用“孵化器”——全力打造高质量孵化器，助力科技成果转化落地。&lt;/p&gt;&lt;p&gt;　　不远处的张江高科895孵化器，聚焦智算芯片、硅光芯片等集成电路关键细分领域，形成垂直孵化体系，已孵化1600余家创新企业。奇算光启创始人钟翰森说：“从芯片流片到封装测试，都能得到周边企业的协助。”&lt;/p&gt;&lt;p&gt;　　在脑智天地·脑机接口科创转化中心，上下楼就是上下游。概念验证、临床转化、孵化器等平台设施分布不同楼层，“技术突破—产业转化—场景落地”生态链初步形成。去年6月底建设以来，已完成注册落地的脑机接口企业达50余家。&lt;/p&gt;&lt;p&gt;　　上海不断完善基础研究与成果转化互促机制，目前已布局建设20家高质量概念验证平台，19家已建高质量孵化器中，有4家获评工业和信息化部卓越级孵化器、占全国1/3。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　共为：汇聚产业发展合力&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　新一轮科技革命和产业变革加速突破，一地一域难以构建完整体系，如何更好打通从产品到产业的“最后一公里”？&lt;/p&gt;&lt;p&gt;　　上海汇聚“共为”的合力，全力贯彻落实党中央关于将上海国际科技创新中心扩围至长三角的决策部署，从单城突破迈入区域协同新阶段。&lt;/p&gt;&lt;p&gt;　　共享创新资源——上海带动长三角握指成拳，加速科技创新和产业创新深度融合。&lt;/p&gt;&lt;p&gt;　　科技成果跨区域流动共享创新高。2025年，长三角技术合同交易4.68万项，技术交易额2461.3亿元，保持快速增长态势。&lt;/p&gt;&lt;p&gt;　　“上海正进一步整合区域创新资源和产业链配套能力，在推动长三角科技创新协同发展上更好发挥牵引和示范作用。”中国宏观经济研究院产业所副研究员胡关子说。&lt;/p&gt;&lt;p&gt;　　共建科创产业——长三角产业地图，已然“长”出一对“科创之翼”。&lt;/p&gt;&lt;p&gt;　　一翼是G60科创走廊，串联研发、制造、物流、服务产业链条，连起沪苏浙皖9座城市；&lt;/p&gt;&lt;p&gt;　　一翼是沿沪宁产业创新带，集成果展示、产业服务于一体，打造人才、金融、政务、出海四大平台。&lt;/p&gt;&lt;p&gt;　　政策协同、要素流动、产业互补——长三角正从地理“相邻”走向创新“相融”。&lt;/p&gt;&lt;p&gt;　　“长三角良好的创新环境和产业协同，为企业发展提供了重要支撑。”中科天算（上海）信息科技有限公司董事长兼首席执行官刘垚圻说，公司研制出星载智能计算机，探索为卫星星座提供在轨智能计算能力。&lt;/p&gt;&lt;p&gt;　　从基础研究加大投入到大科学装置超前布局，从顶尖人才自主培养到未来产业抢先落子，从上海率先突破到长三角协同联动——上海科创活力持续迸发，加速将科技创新“关键变量”转化为高质量发展的“最大增量”。“锚定上海（长三角）国际科技创新中心建设目标，上海着力提升创新体系整体效能，一体推进教育发展、科技创新、人才培养。”上海市政府相关负责同志表示。&lt;/p&gt;&lt;p&gt;　　奋进“十五五”，上海强化使命担当，敢为、善为、共为，稳步建设具有全球影响力的科技创新高地。&lt;/p&gt;&lt;p&gt;　　（本报记者张安宇、王崟欣参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李仕权  徐雷鹏  黄晓慧&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172604&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172604.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172604.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 上海稳步建设全球科创高地（活力中国调研行） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172604.html#[01版：要闻] 上海稳步建设全球科创高地（活力中国调研行）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 贡水河畔话三变（树立和践行正确政绩观·一线见闻）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172605.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 湖北宣恩县持续做好治水兴城文章 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 贡水河畔话三变（树立和践行正确政绩观·一线见闻） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  田豆豆  吴  君&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　一条贡水河，穿过湖北省宣恩县，宛如碧绿的丝带，将县城揽入怀中。&lt;/p&gt;&lt;p&gt;　　这条当地的母亲河，不仅滋养着这片土地，更成为宣恩县发展的重要依托。2025年，当地的“浪漫宣恩旅游区”接待游客1010.7万人次，实现旅游综合收入76.21亿元，同比分别增长87.68%、96.18%。&lt;/p&gt;&lt;p&gt;　　习近平总书记在深入推动长江经济带发展座谈会上强调：“正确把握生态环境保护和经济发展的关系，探索协同推进生态优先和绿色发展新路子”“正确把握总体谋划和久久为功的关系，坚定不移将一张蓝图干到底”。&lt;/p&gt;&lt;p&gt;　　贡水河是长江的二级支流，河水流入清江，最终汇入长江。从水患扰民到水城同兴，贡水河的变迁，见证着宣恩县持续治水兴城、推动绿色发展，一张蓝图干到底的生动实践。&lt;/p&gt;&lt;p&gt;　　如今的贡水河畔，河水清澈，绿树掩映。上世纪80年代，贡水河却是另一番景象。“干旱时缺水，汛期时淹水，百姓苦不堪言。”宣恩县水利局原总工程师田长友说。&lt;/p&gt;&lt;p&gt;　　为管住贡水河，自1988年起，宣恩县花费数年时间，在县城上游修建了一座水库，为县城的供水与防洪提供了支撑。&lt;/p&gt;&lt;p&gt;　　“可是库容不够，降水集中时，由于河堤又低又窄，水总淹到沿河的百姓家里。”田长友介绍。&lt;/p&gt;&lt;p&gt;　　此后，紧盯群众反映的情况不放松，宣恩县逐步将流经县城的河道拓宽至69米，把河堤抬高至15米以上，并修建了3条泄洪隧道和4级自动翻板坝。&lt;/p&gt;&lt;p&gt;　　贡水河的“脾气”稳定了，实现了第一次转变。可随着城市发展，新的问题接踵而来。&lt;/p&gt;&lt;p&gt;　　“当时河边总能闻到一股异味，大家路过都得捂着鼻子跑，谁也不愿多待。”田长友回忆道。&lt;/p&gt;&lt;p&gt;　　县里集中调研发现，贡水河的“病根”主要集中在生活污水。“以前管网老旧、雨污混流，污水大多直排入河。”宣恩县住房和城乡建设局总工程师刘辉介绍。&lt;/p&gt;&lt;p&gt;　　2008年之后，宣恩县开始强化贡水河污水源的管控，修建输送管线、收集管线、支管和接户管等，并在县城修建了污水处理厂。宣恩县还创新“生态信用积分”，并聘请专职管护人员和兼职生态护林员，对贡水河流域进行全方位监测。刘辉介绍，现在贡水河水质始终稳定保持在Ⅱ类及以上。&lt;/p&gt;&lt;p&gt;　　河清了，岸绿了，贡水河迎来第二次转变。&lt;/p&gt;&lt;p&gt;　　宣恩县进一步做活“水文章”，2023年起在贡水河陆续打造龙游贡水、贡秀、贡水夜画等水上夜游项目。“项目的船夫、安全员、演员等工作人员，共有500多人，基本上都是本地居民。”宣恩县贡水河水上商业运营管理有限公司负责人张好说。今年以来，贡水河水上运营项目总营收超3500万元。&lt;/p&gt;&lt;p&gt;　　不仅带动居民就近就业，更激活全城的商业活力，贡水河实现第三次转变。依托赏水、玩水，宣恩县旅游产业勃兴，当地群众开起了民宿，农特产品也成了畅销的伴手礼。“我在县城开了两家民宿，每年收入很可观。”市民张银菊高兴地说。&lt;/p&gt;&lt;p&gt;　　今年以来，宣恩县继续对县城污水管网进行检测、清淤和测绘工作，新建和改造管网共20多公里，实现了贡水河周边污水应收尽收。“让贡水河始终保持清澈透亮，让绿水青山实实在在惠及百姓。”刘辉说。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  田豆豆  吴  君&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 湖北宣恩县持续做好治水兴城文章 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172605&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172605.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172605.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 贡水河畔话三变（树立和践行正确政绩观·一线见闻） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172605.html#[01版：要闻] 贡水河畔话三变（树立和践行正确政绩观·一线见闻）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172606.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/8dcc04d1-974f-40c7-873b-1e804528c94d.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　99载砥砺前行，英雄的人民军队以忠诚捍卫疆土，以担当守护安宁。八一建军节到来之际，解放军和武警部队官兵以多种形式庆祝节日。&lt;/p&gt;&lt;p&gt;　　图为近日，第83集团军某旅组织官兵举行向军旗宣誓仪式。&lt;/p&gt;&lt;p&gt;　　邹晓新摄（新华社发） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172606&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172606.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172606.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172606.html#[01版：要闻] 图片报道</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 不断创造高质量发展新业绩（今日谈）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172607.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 不断创造高质量发展新业绩（今日谈） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							亦  多&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　做好下半年经济工作，关键要认真贯彻落实中共中央政治局会议精神和决策部署，“不断创造高质量发展新业绩”。&lt;/p&gt;&lt;p&gt;　　向新旧动能转换要发展新增量。&lt;/p&gt;&lt;p&gt;　　上半年，有的省份增速快、效益好，有的省份增速慢、困难大。快有快的挑战，慢有慢的潜力，未来还看新旧动能谁转得快、转得稳，关键是因地制宜发展新质生产力。&lt;/p&gt;&lt;p&gt;　　向战略叠加优势要发展新空间。&lt;/p&gt;&lt;p&gt;　　从农业大省到工业大省，从劳动力输出地到“芯屏汽合”集聚地，安徽何以华丽转身？一个重要原因，就是贯彻落实党中央“三地一区”的战略擘画。今天的中国，各区域均有战略叠加。在大局中精准定位，用活战略叠加优势，发挥比较优势，强化协同融通，积极培育新的增长极，就能不断赢得发展胜势。&lt;/p&gt;&lt;p&gt;　　秉持正确政绩观，以更加昂扬向上的精气神，尽务实之功，把各方面积极因素转化为发展实绩，必能推动经济持续向新向优向好发展，实现“十五五”良好开局。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;亦  多&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172607&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172607.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172607.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 不断创造高质量发展新业绩（今日谈） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172607.html#[01版：要闻] 不断创造高质量发展新业绩（今日谈）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 推动企业年金转移接续更高效（政策解读）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172608.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 人力资源社会保障部出台企业年金新规程 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 推动企业年金转移接续更高效（政策解读） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  邱超奕&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　近日，人力资源社会保障部办公厅印发《企业年金个人账户转移接续规程（暂行）》（以下简称《规程》）。什么是企业年金？新发布的《规程》对用人单位和职工有什么影响？记者采访了人力资源社会保障部养老保险司有关负责人、企业年金管理机构和社保专家等。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　企业年金是什么&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　企业年金是用人单位及其职工在依法参加企业职工基本养老保险的基础上，自主建立的补充养老保险制度，是我国多层次、多支柱养老保险体系中第二支柱的重要组成部分。各类企业、社会团体、基金会、民办非企业单位以及其他参加企业职工基本养老保险的用人单位及其职工，都可以建立企业年金。&lt;/p&gt;&lt;p&gt;　　人力资源社会保障部养老保险司有关负责人表示，对于用人单位来说，建立企业年金，有利于吸引和留住人才，通过“投资于人”提高薪酬激励效果，稳定职工队伍，提高单位竞争优势。对于职工个人来说，有利于增加老年收入渠道，实现养老和投资融合互促，提高养老保险待遇水平，增强消费信心。&lt;/p&gt;&lt;p&gt;　　职工如果离职或“跳槽”，自己的企业年金权益是否会消失？需要强调的是，职工的企业年金权益会被年金管理机构安全保管，不会受流动就业等因素影响，能够确保实现补充养老功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　如何转移接续&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　企业年金个人账户转移接续，主要指职工出于工作变动等原因，需要将企业年金个人账户在不同企业年金计划之间转移，或在同一集合计划的不同委托人之间转移的业务。&lt;/p&gt;&lt;p&gt;　　《规程》将于2027年1月1日起实施，按照《规程》，职工可通过登录国家社会保险公共服务平台、全国人社政务服务平台、电子社保卡、掌上12333 APP等全国统一线上服务渠道申请企业年金个人账户转移接续。企业年金法人受托机构和企业年金理事会通过养老保险第二支柱信息平台，接受企业年金个人账户转移接续业务申请及数据交互，向职工提供咨询服务。&lt;/p&gt;&lt;p&gt;　　北京大学应用经济学博士后朱俊生分析，过去职工在变更工作单位后，企业年金个人账户转移程序较为复杂，不同计划之间衔接成本较高，部分职工甚至形成多个长期闲置的账户，影响了个人权益管理和制度体验。新的《规程》建立了全国统一线上申请渠道，依托第二支柱信息平台实现信息交互和资金划转，形成“个人申请、机构办理、系统流转”的新模式，大幅降低了个人办理成本，提高了制度运行效率，使企业年金具备了类似基本养老保险的可携带性，更能匹配劳动力市场发展需要。&lt;/p&gt;&lt;p&gt;　　中国人寿养老保险股份有限公司企业年金部有关负责人解释，对于职工来说，《规程》将改善服务体验。今后职工工作调动要转企业年金，只需要自己在平台一键发起账户归集，平台就会自动调取信息、识别新老单位和管理人，实现进度可视化、可追踪。职工不用像以前那样四处跑腿，找老单位办完转出，再催新单位办缴费。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　如何分配、获益和领取&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　记者了解到，近年来，我国企业年金投资取得了不错的收益。以中国人寿养老保险股份有限公司为例，按照人力资源社会保障部公布的2025年度《全国企业年金基金业务数据摘要》，截至2025年底，该公司管理的企业年金规模接近1.5万亿元，受托管理服务企业超4.3万家，职工人数超834万人。在企业年金投资管理方面，截至2025年底，该公司企业年金投资管理规模为5251.55亿元，共管理910个组合；近3年单一计划含权益类组合累计收益率为12.45%；近3年单一计划固收类组合累计收益率达11.85%。&lt;/p&gt;&lt;p&gt;　　对参加企业年金的职工来说，将如何分配和获得收益？&lt;/p&gt;&lt;p&gt;　　中国人寿养老保险股份有限公司企业年金部有关负责人介绍，企业年金基金实行完全积累制，采取个人账户模式管理，采用份额法记录个人账户权益，根据企业年金基金单位净值，按周或者按日将投资收益足额计入企业年金个人账户。职工企业年金个人账户中个人缴费及其投资收益自始归属于职工个人；企业缴费及其投资收益，企业可以与职工一方约定其自始归属于职工个人，也可以约定随着职工在本企业工作年限的增加逐步归属于职工个人，完全归属于职工个人的期限最长不超过8年。&lt;/p&gt;&lt;p&gt;　　企业年金如何领取？&lt;/p&gt;&lt;p&gt;　　人力资源社会保障部养老保险司有关负责人表示，职工达到国家规定的退休年龄、完全丧失劳动能力、出国（境）定居等情形时，可以按月、分次或者一次性从本人企业年金个人账户中领取企业年金，或者全部（部分）用于购买商业养老保险产品。&lt;/p&gt;&lt;p&gt;　　朱俊生表示，企业年金本质上是职工长期养老财富的重要组成部分。《规程》明确企业年金个人缴费、已经归属于职工个人的企业年金单位缴费以及相应投资收益均可随账户转移，并进一步强化企业年金基金独立于企业、个人和管理机构自身财产的信托管理原则。这有助于增强职工对企业年金个人权益属性的认知，推动职工逐步形成“企业年金是个人长期养老财富”的理念，从而提升制度认同感和参与积极性。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  邱超奕&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 人力资源社会保障部出台企业年金新规程 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172608&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172608.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172608.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 推动企业年金转移接续更高效（政策解读） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172608.html#[02版：要闻] 推动企业年金转移接续更高效（政策解读）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 省心省事，早稻收储全托管（三夏进行时）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172609.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 浙江温州探索建设新型农事服务中心—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 省心省事，早稻收储全托管（三夏进行时） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  窦瀚洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　每年早稻收获时，浙江温州乐清市种粮大户石锡华总有几分担心，“7、8月雨水多，如果再碰上台风天，粮食都来不及收储烘干。”&lt;/p&gt;&lt;p&gt;　　今年收获前夕，他打了通电话，从容了许多。“这两天我家的早稻要收了，能安排吗？”电话那头，浙丰农事服务中心负责人陈丹看了看预约记录，爽快应下。&lt;/p&gt;&lt;p&gt;　　到了约定日期的早晨6点，石锡华准时等在自家稻田旁。“服务中心派了车队，不用自己收粮食。”他笑呵呵地招呼工作人员。田里，收割机有序作业；田边，运粮车渐渐堆满。半天时间，100亩稻田的收割就完成了，50吨湿粮被直接拉走。&lt;/p&gt;&lt;p&gt;　　跟随车队驱车20分钟，石锡华从自家田地来到服务中心的净粮中心。一座座烘干塔整齐排布，多种设备一体联动，稻谷在这里完成烘干、除杂等各类作业，直接运往粮仓。陈丹介绍，2024年，在粮食物资部门指导下，服务中心投资500万元建设净粮中心，配备了12台20吨级烘干机和干湿粮除杂设备等配套设施，能提供粮食烘干、除杂、储存、运输等全程托管服务。&lt;/p&gt;&lt;p&gt;　　而在过去，这些环节都需要石锡华自己去联系安排：找车队运粮，四处找有空位的烘干点，烘干后还要联系粮库。“遇到收购高峰期，一车20吨粮食，光在收购点排队卸粮就要大半天。”石锡华说。&lt;/p&gt;&lt;p&gt;　　湿粮收获后收储流程长、损耗大，成为种植户面临的普遍难题。“以乐清为例，全市分散着87家大小不一的烘干站，工艺水平有差异，烘干质量参差不齐；除杂环节则主要集中在后端收储公司，处理能力相对有限，高峰期就容易排队。”温州市粮食和物资储备局仓储监管处处长金李永分析原因。&lt;/p&gt;&lt;p&gt;　　如今在服务中心，无需排队等待，50吨湿粮先过磅称重，再快速经过水分、重金属等指标检测，随即通过自动管道送入烘干设备，只需30多分钟。粮食进入烘干塔后，开始15小时55摄氏度以下的低温缓速自动化流程。陈丹记得，“早些年，不仅是搬运，烘干每个环节都要盯紧，十几个人都忙不过来。现在只用两人看管，一人看水分和温度，一人负责燃料和设备运行。”粮食出炉后再除杂，最后经收储公司的驻点工作人员当场检测质量，合格的便能通过绿色通道直接运至粮库。&lt;/p&gt;&lt;p&gt;　　石锡华家新收的这批粮食，被送到了仓储能力超20万吨的温州市粮食储备潘桥库。散粮智能入仓机器人将粮食自动输送入仓，逐层均匀铺撒，快速规整粮面，实现了全程自动化铺料。潘桥库副主任金维博介绍，这是粮库联合高校研发的智能装备，集自主行走、精准抛料、智能平仓、远程操控等功能于一体，从源头上防范高处坠落、粉尘爆炸等安全风险。&lt;/p&gt;&lt;p&gt;　　这个占地160亩的粮库还配备了一张由人工智能模型、智能机器人与物联网感知系统搭建的数字安全网，实现24小时无人智能巡防。金维博说，遇到台风、暴雨等恶劣天气，还会安排机器狗代替人工巡检库区。&lt;/p&gt;&lt;p&gt;　　从送粮入库到粮款到账，最快只需24小时。“最主要的是省心了，早稻要趁晴收，湿粮要及时烘，晚稻又要接茬种，农时不等人。”石锡华说，自家产的粮，过去想要全部处理好，总得10多天，现在只需提前约好，再跑个两趟，最多4天，“全程代办，基本不用我管，就等售粮款到账。”&lt;/p&gt;&lt;p&gt;　　对服务中心来说，购置设备、增加环节、全程托管，这套模式能否持续运转？&lt;/p&gt;&lt;p&gt;　　陈丹算过，设备有补助，服务中心还增加了收入来源：大头来自农户购买服务，包括育秧、插秧、净粮，每季每亩约1000元服务费，以及烘干等服务费用；还有部分收入来自政策支持，比如每吨20元的净粮补贴、每吨5元的集并运输补贴等。&lt;/p&gt;&lt;p&gt;　　温州积极推动发展现代化农事服务，在80家类似浙丰的农事服务中心增设净粮功能专区，日净粮服务能力达9000吨，今年早稻收购季已完成净粮服务量超4万吨。在浙江，20余个产粮大县已基本实现现代化粮食收购服务体系全覆盖，收购过程粮食损耗减少约3％，粮农售粮成本每吨减少60—70元。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  窦瀚洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 浙江温州探索建设新型农事服务中心—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172609&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172609.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172609.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 省心省事，早稻收储全托管（三夏进行时） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172609.html#[02版：要闻] 省心省事，早稻收储全托管（三夏进行时）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 不是夏粮不是秋粮，早稻是什么（延伸阅读）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172610.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 不是夏粮不是秋粮，早稻是什么（延伸阅读） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							朱仁山&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　早稻通常在每年3月播种，当年夏季收获，在统计口径上通常不纳入夏粮，是独立于夏粮和秋粮的一个单独类别。近些年，全国早稻种植面积稳定在7100万亩左右，产量约占全国粮食总产量的4%。&lt;/p&gt;&lt;p&gt;　　早稻生长期较短，一般为100天出头，多为籼稻。由于灌浆期正值盛夏，高温高湿、昼夜温差小，不利于营养物质积累，稻米通常质地偏硬、黏性较低。即便是同一品种，作为早稻种植时，稻米品质通常也会变化。&lt;/p&gt;&lt;p&gt;　　为何要坚持种早稻？我国人多地少，在江西、湖南、广西、浙江等积温充足产区，种植一季早稻，收割后压茬种植晚稻，能够有效提高土地利用率，充实国家粮食储备。在一些南方省份，由于籼稻米直链淀粉含量高，适合加工成米粉、米糖等特色食品，是重要的口粮来源。这些年，我国育种工作者持续改良早稻品种，选育出“珞优8号”超级稻、“安优5020”等多个高产优质品种，有效提高了单产和稻米品质。&lt;/p&gt;&lt;p&gt;　　（作者为杂交水稻全国重点实验室（武汉大学）教授级高级工程师，本报记者郁静娴采访整理） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;朱仁山&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172610&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172610.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172610.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 不是夏粮不是秋粮，早稻是什么（延伸阅读） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172610.html#[02版：要闻] 不是夏粮不是秋粮，早稻是什么（延伸阅读）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 《黄岩岛国家级自然保护区管理办法》印发</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172611.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 《黄岩岛国家级自然保护区管理办法》印发 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 重点就管理机制、管护措施、法律责任等作出规定 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京8月1日电  （记者刘诗瑶）依据《中华人民共和国自然保护区条例》和有关规定，8月1日，自然资源部、国家林业和草原局、中国海警局、海南省人民政府联合印发《黄岩岛国家级自然保护区管理办法》（以下简称《管理办法》）。&lt;/p&gt;&lt;p&gt;　　黄岩岛位于我国中沙群岛，拥有独特的珊瑚礁生态系统和特殊的地质构造，分布有玳瑁、绿海龟、番红砗磲等大量珍稀濒危生物，具有丰富的生物多样性和独特的物种稀有性。2025年9月，国务院批复同意新建黄岩岛国家级自然保护区，要求健全管理机构，强化对涉及自然保护区各类违法违规行为的监管执法力度，确保各项管理措施得到落实，不断提高国家级自然保护区建设和管理水平。&lt;/p&gt;&lt;p&gt;　　《管理办法》重点就管理机制、管护措施、法律责任等作出规定，共十六条。&lt;/p&gt;&lt;p&gt;　　根据《管理办法》，黄岩岛国家级自然保护区由自然资源部负责组织保护区勘界、规划审查、自然资源保护利用管理和资产核算、确权登记、领海基点保护管理等工作；国家林业和草原局负责保护区的监督管理工作，负责保护区调整、规划、建设等工作的审查审批；自然资源部南海局承担管理机构职责，具体负责保护区的日常保护管理工作，负责资源调查监测、生态保护修复等工作。自然资源部、国家林业和草原局、中国海警局、海南省人民政府等建立协同机制，协调解决保护区保护管理中的重大问题，加强工作协同、信息共享。&lt;/p&gt;&lt;p&gt;　　黄岩岛国家级自然保护区将实行严格保护，未经批准禁止捕捞、采矿和采挖珊瑚、珊瑚礁、砗磲等活动以及其他破坏海洋珍稀物种和自然生态系统的活动。对违反《管理办法》相关规定的行为，将依法追究责任。&lt;/p&gt;&lt;p&gt;　　《管理办法》的出台是落实国务院批复要求的重要举措，对维护黄岩岛自然生态系统多样性、稳定性、持续性具有重要意义。相关部门将指导管理机构认真落实《管理办法》，严格落实生态环境保护责任，建立健全常态化预警监测机制，持续开展海洋资源监测评估和生态保护修复等工作，高标准建设和管理好黄岩岛国家级自然保护区。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 重点就管理机制、管护措施、法律责任等作出规定 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172611&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172611.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172611.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 《黄岩岛国家级自然保护区管理办法》印发 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172611.html#[02版：要闻] 《黄岩岛国家级自然保护区管理办法》印发</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 谋幸福</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172612.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 谋幸福 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——深刻认识“最本质的特征”和“最大优势” &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							金社平&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　人民幸福安康是推动高质量发展的最终目的。&lt;/p&gt;&lt;p&gt;　　7月30日，习近平总书记主持中共中央政治局会议。会议强调：“要多措并举加强民生保障，加大重点群体就业支持力度，做好灵活就业人员和新就业形态人员权益保障工作。抓好‘一老一小’服务保障，健全分层分类的社会救助体系。加强生态环境保护，打好‘三北’工程攻坚战，积极稳妥推进碳达峰碳中和。”&lt;/p&gt;&lt;p&gt;　　习近平总书记在庆祝中国共产党成立105周年大会上指出：“105年来，我们党始终坚守为中国人民谋幸福、为中华民族谋复兴的初心使命”。&lt;/p&gt;&lt;p&gt;　　走过105年的奋斗历程，百年大党风华正茂，初心未改。&lt;/p&gt;&lt;p&gt;　　“人民对美好生活的向往，就是我们的奋斗目标。”这个目标很宏伟，也很务实，归根到底就是为人民谋幸福，让老百姓过上更好的日子。&lt;/p&gt;&lt;p&gt;　　坚持立党为公、执政为民，自觉践行全心全意为人民服务的根本宗旨，坚定地同人民站在一起、想在一起、干在一起。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　（一）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记指出：“只有坚持以人民为中心的发展思想，坚持发展为了人民、发展依靠人民、发展成果由人民共享，才会有正确的发展观、现代化观。”&lt;/p&gt;&lt;p&gt;　　发展“为了谁”，一道折射政绩观的必答题，检验一个政党、一个政权性质的试金石。&lt;/p&gt;&lt;p&gt;　　为了谁、依靠谁？“人民”二字千钧重。&lt;/p&gt;&lt;p&gt;　　6月初，两条“河”的“接力”振奋人心。&lt;/p&gt;&lt;p&gt;　　辟一个出海口！西部陆海新通道骨干工程平陆运河全线通水。建设时长约4年、土石方开挖总量约3倍于三峡工程的运河，助推区域发展、带动就业增收、畅通经济循环……&lt;/p&gt;&lt;p&gt;　　正式破土开工！“十五五”时期开工建设的首个国家重大标志性工程、总投资超770亿元的三峡水运新通道，将为长江干线扩展水利、航运、生态等功能，更好支撑长江经济带高质量发展。&lt;/p&gt;&lt;p&gt;　　为民造福的重大工程，既彰显制度优势与综合国力，更是践行以人民为中心的发展思想的生动体现。&lt;/p&gt;&lt;p&gt;　　农业农村现代化关系中国式现代化全局和成色。“千村示范、万村整治”工程是习近平同志在浙江工作期间亲自谋划推动的一项重大决策，从整治农村环境、解决“脏乱差”问题入手，由点及面，扩容建设。20多年来，“千万工程”造就了万千美丽乡村，造福了亿万农民。&lt;/p&gt;&lt;p&gt;　　从水利枢纽到交通动脉，从能源基地到科技设施，从美丽乡村再到人民城市，一项项工程打基础利长远，出实招求实效，发展红利转化为人民群众实实在在的福祉。&lt;/p&gt;&lt;p&gt;　　发展为了人民，也体现在各项改革举措当中。陕西汉中，80多岁的马福明、刘淑莲老两口重度失能，长护险政策为他们提供经济补偿和上门照护，每逢护工到家，老两口脸上满是高兴与欣慰；福建三明，70多岁的林大爷罹患肺癌，当地推进紧密型县域医共体建设，让他在县里也能得到有效治疗……&lt;/p&gt;&lt;p&gt;　　党的十八大以来，我们坚持以人民为中心，持续深化改革，建成世界上规模最大的教育体系、社会保障体系、医疗卫生体系，人民生活品质不断提高，人民群众的获得感、幸福感、安全感得到有效保障。&lt;/p&gt;&lt;p&gt;　　当前，人民对美好生活的向往从“有没有”转向“好不好”，期盼有更好的教育、更好的公共服务、更高水平的医疗卫生服务、更舒适的居住条件……这要求我们持续深化改革，将发展成果更多更公平惠及全体人民。&lt;/p&gt;&lt;p&gt;　　深化教育综合改革，建设高质量教育体系；优化生育支持政策和激励措施，有效降低家庭生育养育教育成本；深化医药卫生体制改革，促进优质医疗资源扩容和区域均衡布局；完善养老服务体系，不断增进老年人福祉；深入实施乡村建设行动，提高农村公共服务便利度、人居环境舒适度……“十五五”时期，一项项保障和改善民生的改革举措令人倍感暖心。&lt;/p&gt;&lt;p&gt;　　始终站稳人民立场，把人民利益放在最高位置，把人民是否真正得到实惠、生活是否改善、权益是否真正得到保障作为检验工作成效的根本标准，中国式现代化建设必将开创新局面。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;（二）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记强调：“中国式现代化是全体中国人民的事业，必须紧紧依靠人民，汇聚蕴藏在人民中的无穷智慧和力量，才能不断创造新的历史伟业。”&lt;/p&gt;&lt;p&gt;　　千年冰峰人难开，要开除非神仙来。2025年底，世界最长高速公路隧道——天山胜利隧道正式通车，这标志着新疆乌鲁木齐至尉犁的G0711高速公路全线投入使用。&lt;/p&gt;&lt;p&gt;　　长达22.13公里，施工区域平均海拔超3000米，穿越16个地质断裂带，岩爆、涌水、软岩大变形等不良地质层出不穷……打通天山胜利隧道的不是神仙，而是数千名筑路工人冒着风雪、缺氧等艰险，长达4年多的接续奋斗。&lt;/p&gt;&lt;p&gt;　　隧道贯通，将穿越天山的时间从原来的3小时缩短至约20分钟，为南北疆人员往来，经济、人文便捷交流提供了坚实保障。&lt;/p&gt;&lt;p&gt;　　在无垠的田野里收夏粮，在世界屋脊上筑铁路，在无尘工厂里造芯片……此时此刻，亿万劳动人民在党的带领下，用双手创造财富，朝着全面建设社会主义现代化国家的宏伟目标阔步前进。&lt;/p&gt;&lt;p&gt;　　谋幸福的最大底气是什么？&lt;/p&gt;&lt;p&gt;　　人民，只有人民，才是创造世界历史的动力。唯物史观认为，在人类历史发展的进程中，人民群众是社会物质财富的创造者，是社会精神财富的创造者，也是社会变革的决定力量。&lt;/p&gt;&lt;p&gt;　　“淮海战役胜利是靠老百姓用小车推出来的，渡江战役胜利是靠老百姓用小船划出来的”。我们党一百多年的发展史，就是一部党与人民心心相印、与人民同甘共苦的历史，也是一部领导人民团结奋斗、拼搏前进的历史。&lt;/p&gt;&lt;p&gt;　　步入新时代，为14亿多人民谋幸福，必须坚持发展依靠人民，尊重人民主体地位，充分调动人民积极性。&lt;/p&gt;&lt;p&gt;　　白练飞舞，银丝出锅。十年九旱的青海化隆回族自治县，过去20多万名农民超六成是贫困户。在党和政府的帮扶下，当地群众学习拉面、走出大山、进城创业，在国内330多个城市、全球16个国家“抻”开2万多家面馆，一年“拉”回上百亿元，闯出了致富的好路子。&lt;/p&gt;&lt;p&gt;　　中国式现代化是全体人民共同富裕的现代化。谋幸福，必须尊重人民首创精神。&lt;/p&gt;&lt;p&gt;　　义乌不临海、不靠江、不沿边，资源禀赋并不突出，却从浙中腹地的一座农业小县发展成为全球最大的小商品市场，秘诀何在？&lt;/p&gt;&lt;p&gt;　　2026年4月，习近平总书记作出重要指示，强调“要结合开展树立和践行正确政绩观学习教育，把‘义乌发展经验’进一步总结好、运用好，引导各地区立足自身资源禀赋，尊重基层和群众首创精神”。早在浙江工作期间，习近平同志就要求全省各地学习“义乌发展经验”。2006年4月，浙江省委和省政府下发《关于学习推广义乌发展经验的通知》。&lt;/p&gt;&lt;p&gt;　　20年来，义乌不断书写“小商品、大市场”新篇章，市场不断迭代升级，每一次跨越都离不开基层群众的创新探索，每一次突破都彰显着对群众首创精神的珍视。截至2025年底，义乌先后承担了111项国家级创新试点任务，不少重大制度创新成果在全国推广。&lt;/p&gt;&lt;p&gt;　　泰山不拒细壤，故能成其高。新征程上，创造不凡的政绩，必须汲取群众智慧，充分发动群众，共同奏响全体人民的“大合唱”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　（三）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记深刻指出：“共同富裕是社会主义的本质要求，是中国式现代化的重要特征。”&lt;/p&gt;&lt;p&gt;　　宁夏农民人均年收入从1996年的1400元左右增长到2025年的2万元以上。一笔账，跨越4000多里、走过三十载。闽宁协作，这场始于1996年的东西部“接力跑”，跑出了山海情深，也跑出了共同富裕的中国答案。&lt;/p&gt;&lt;p&gt;　　福建先后选派14批254名干部到宁夏挂职帮扶，39个经济较发达县（市、区）结对帮扶宁夏9个贫困县。脱贫攻坚期间，9个贫困县全部摘帽、80.3万农村贫困人口全部脱贫。&lt;/p&gt;&lt;p&gt;　　今年6月，习近平总书记对常态化做好东西部协作工作作出重要指示：“总结运用闽宁协作等有益经验”“推动全体人民共同富裕迈出坚实步伐”。&lt;/p&gt;&lt;p&gt;　　这是“十五五”开局之年、常态化帮扶第一年发出的新号令。&lt;/p&gt;&lt;p&gt;　　放眼全国，东西部协作持续加大产业转移力度，共建产业园区近800个，在巩固拓展脱贫攻坚成果同乡村振兴有效衔接的过渡期，引导企业到西部地区投资7500多亿元。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，经过8年持续奋斗，近1亿农村贫困人口脱贫，历史性解决了绝对贫困问题。“当未来的历史学家书写我们这个时代的历史时，中国的脱贫攻坚完全可能成为其中最浓墨重彩的章节之一。”美国库恩基金会主席库恩这样评价。&lt;/p&gt;&lt;p&gt;　　确保老区人民共享改革发展成果，过上幸福生活，是习近平总书记深情的牵挂。&lt;/p&gt;&lt;p&gt;　　西延高铁选线，本可沿河谷走直线，却选择在陕西延安洛川设站，新增9公里正线、多投18亿元，只为让陕北老区群众坐上高铁列车。中国式现代化，从来不做“淘汰谁”的选择，而是“一个都不能少”的庄严承诺。&lt;/p&gt;&lt;p&gt;　　长征路上，3名女红军借宿湖南汝城县沙洲村村民徐解秀家，临走时把仅有的一条被子剪下半条留下。“我们共产党人和老百姓的感情就是共用一条被子的感情。”&lt;/p&gt;&lt;p&gt;　　90多年过去，这份感情未变。福建龙岩，古田会议会址熠熠生辉，全市林下经济总产值275.75亿元，产业发展惠及18万户林农。浙江嘉兴南湖，红船依旧，三星村通过党建联建带动片区抱团共富，城乡居民收入比缩小至1.48∶1，农村居民收入连续22年保持浙江省第一……&lt;/p&gt;&lt;p&gt;　　再看全国，共同富裕扎实推进。过去5年，我国居民人均可支配收入从35128元增长到43377元，城乡居民人均可支配收入比值缩小至2.31，2025年全国居民人均消费支出29476元，比上年增长4.4%。民生保障网越织越密。截至2025年底，基本养老保险参保率、基本医疗保险参保率均在95%以上，失业保险、工伤保险参保人数分别达2.49亿人、3.05亿人……发展的成果扎实转化为老百姓的获得感。&lt;/p&gt;&lt;p&gt;　　这些都离不开真金白银的民生投入。“十四五”时期，民生领域财政投入近100万亿元，累计改造城镇老旧小区24万多个，养老机构和设施达39.6万个，托育服务机构增加6.6万家……&lt;/p&gt;&lt;p&gt;　　江山就是人民，人民就是江山。105年风雨兼程，从石库门到天安门，从一叶红船到巍巍巨轮，干革命、搞建设、抓改革，为中国人民谋幸福、为中华民族谋复兴的初心始终未改。&lt;/p&gt;&lt;p&gt;　　为民造福是最大政绩。新征程上，广大党员干部要自觉树立和践行正确政绩观，践行初心使命，在推进高质量发展中保障和改善民生，让人民生活的幸福成色更足、更暖，为以中国式现代化全面推进强国建设、民族复兴伟业而不懈奋斗。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;金社平&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——深刻认识“最本质的特征”和“最大优势” &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172612&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172612.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172612.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 谋幸福 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172612.html#[02版：要闻] 谋幸福</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 全民健身  乐享健康</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172613.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全民健身  乐享健康 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/959ae7bd-aa74-419e-9ce4-0501b001ddd6.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　8月1日，河南省洛阳市体育中心凌波湖水域，参赛选手在第二届全国全民健身大赛（华中区）桨板比赛中冲刺。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　李卫超摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/959ae7bd-aa74-419e-9ce4-0501b001ddd6.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/c0a3624c-d290-4cd2-bfb9-51451e3f0443.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　8月1日，骑行爱好者在河北省邢台市广宗县滨河健康廊道骑行。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　王  垒摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/c0a3624c-d290-4cd2-bfb9-51451e3f0443.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　暑期，各地群众积极参与丰富多样的健身活动，乐享健康。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172613&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172613.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172613.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全民健身  乐享健康 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172613.html#[02版：要闻] 全民健身  乐享健康</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] ​7月制造业PMI为49.2%</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172614.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; ​7月制造业PMI为49.2% &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京8月1日电  （记者欧阳洁）国家统计局服务业调查中心、中国物流与采购联合会发布的7月份中国制造业采购经理指数（PMI）为49.2%，比上月下降1.1个百分点。从历史数据来看，多数年份的7月份，受高温多雨以及台风等季节性因素影响，制造业PMI环比有所下行。今年7月份，我国普遍面临高温天气，多地受到极端天气影响，导致制造业运行较上月有所放缓，企业生产活动稳中略缓。&lt;/p&gt;&lt;p&gt;　　7月份，我国制造业新动能仍保持较好扩张态势。高技术制造业PMI为53.3%，其中生产指数环比持平，稳定运行在54%以上，新订单指数仍保持在53%以上。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172614&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172614.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172614.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; ​7月制造业PMI为49.2% &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172614.html#[02版：要闻] ​7月制造业PMI为49.2%</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “蓝色屋顶”点亮巴基斯坦绿色未来</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172615.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “蓝色屋顶”点亮巴基斯坦绿色未来 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  赵益普&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　巴基斯坦首都伊斯兰堡市区一家商店楼顶，工作人员正在对中国太阳能电池板进行维护。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  赵益普摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/52553e86-7b03-4ac5-a386-7b1a1965bece.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　从巴基斯坦伊斯兰堡、拉合尔等城市上空俯瞰，会看到一道特殊的风景——高低错落的建筑屋顶上，布满蓝色太阳能电池板。自2017年巴基斯坦启动可再生能源推广计划以来，来自中国的光伏产品悄然重塑当地能源格局，助力经济发展和民生改善。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　曾频繁停电的村庄，如今有了稳定的电力供应&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　在巴基斯坦多地，尤其是供电不太稳定的农村地区，经常能在公路上看到载着太阳能电池板的婚车。这些太阳能电池板用红布和花束装点。当地民众告诉记者，这是新娘的嫁妆，广受欢迎的中国太阳能电池板是当地美观又实用的“结婚标配”。新婚夫妇拉扎和玛丽安的家里添置了冰箱、洗衣机、电动水泵等，为了满足日常用电，他们投资屋顶“阳光银行”，购置了15块功率585瓦的太阳能电池板，每小时可发电约8千瓦时，显著降低用电成本。&lt;/p&gt;&lt;p&gt;　　国际能源署数据显示，巴基斯坦人口超过2.4亿，但超过4000万人口仍无法获得稳定电力供应。近10年来，巴基斯坦政府在全国范围内积极推广太阳能发电，成效显著。据当地主流媒体《新闻报》报道，巴基斯坦已有超过730万户家庭安装了太阳能发电系统，在旁遮普省南部和信德省北部的村庄里，近50%农村家庭安装的是来自中国的太阳能电池板。巴基斯坦光伏企业“多尔特能源”总经理塔拉告诉记者，该企业每年能售出约20万块中国太阳能电池板。&lt;/p&gt;&lt;p&gt;　　得益于中国光伏产品，曾频繁停电的村庄，如今有了稳定的电力供应。巴基斯坦公平发展政策研究所的报告显示，2025年，巴基斯坦夏季用电高峰期，光伏发电量首次超过火力发电量。&lt;/p&gt;&lt;p&gt;　　在巴基斯坦西北部开伯尔—普什图省，不少村民将太阳能电池板组装成整套太阳能发电和储能系统，既满足日常生活中的用电需求，还支撑灌溉、大棚、烘干、冷链等农业生产环节用电。该省占巴特村农场主哈桑比告诉记者，他的农场采购安装了整套中国太阳能电池板，估计能用20年，“中国产的太阳能电池板价格实惠、质量过硬，发电储能完全满足家庭需求。”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　太阳能发电量增速超全球平均水平的3倍，持续助力能源转型&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　英国路透社的数据显示，截至2025年6月，巴基斯坦太阳能发电量增速超过全球平均水平的3倍。《新闻报》评论说，光伏发电在巴基斯坦已不再是小众的能源选择，正成为能源结构的重要组成部分。对此，英国《经济学人》杂志评论说，“巴基斯坦正在成为10年来最出人意料的清洁能源转型成功案例之一”。&lt;/p&gt;&lt;p&gt;　　伊斯兰堡市区F7市场的一家商店，去年5月安装了34块中国产的太阳能电池板，白天用太阳能发电，晚上使用公共电力，每月能省下10万多巴基斯坦卢比（1美元约合278巴基斯坦卢比）的电费。“今年夏季用电高峰期，我们又加装15块中国太阳能电池板，这不仅能减少停电对营业的影响，还能进一步降低电费成本。”该店经理西坎达尔说。&lt;/p&gt;&lt;p&gt;　　光伏发电在巴基斯坦的快速普及离不开中国光伏产品。有巴基斯坦媒体指出，2022至2024年，巴基斯坦从中国进口的光伏组件装机总量增长5倍，达到1.66万兆瓦，增长趋势在2025年进一步保持，这让巴基斯坦成为全球光伏需求增长最快的市场之一。巴基斯坦能源咨询公司“资源未来”创始人库拉姆·拉拉尼表示，如果没有中国的技术和产品，巴基斯坦就不可能实现光伏发电如此快速地普及，能源转型进程也会大受影响。&lt;/p&gt;&lt;p&gt;　　中国太阳能电池板还被广泛应用于巴基斯坦工业用电领域。据巴基斯坦《黎明报》报道，得益于当地日益成熟的太阳能发电基础，大批纺织业、成衣制造业、建材业等公司纷纷引入中国太阳能发电系统，“光伏发电已逐渐影响巴基斯坦的工业用电格局。”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　清洁能源是未来发展方向，中国光伏产品功不可没&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　巴基斯坦《论坛快报》引述一份报告说，自2018年以来，巴基斯坦的光伏发电帮助该国节省了约120亿美元的燃料进口费用。按当前市场价格计算，今年使用光伏产品预计帮助该国节省约63亿美元。&lt;/p&gt;&lt;p&gt;　　巴基斯坦工商联合会主席阿提夫·谢赫认为，清洁能源是巴基斯坦能源发展的未来方向，其中中国光伏产品功不可没。&lt;/p&gt;&lt;p&gt;　　巴基斯坦可持续发展政策研究所“一带一路”和全球治理区域研究中心主任哈桑·达乌德对记者表示，来自中国的太阳能电池板点亮了巴基斯坦，“中国光伏组件不仅便利巴基斯坦民众生活、减少家庭电费支出，还极大缓解了公共用电压力，给巴基斯坦经济社会发展带来深刻变化。”&lt;/p&gt;&lt;p&gt;　　巴基斯坦知识与公共政策中心主席马哈茂德·乌尔·哈桑·汗表示，近年来，中国太阳能电池板、电动汽车和锂电池的出口稳步增长。采用这些技术的国家不仅是在购买产品，也是在提升长期发展稳定性、可负担性以及抵御化石燃料市场波动的能力。中国的可再生能源供应链逐渐成为支撑全球经济增长和可持续发展的重要力量。&lt;/p&gt;&lt;p&gt;　　达乌德说，越来越多的中国企业同巴基斯坦企业合作，在巴实现光伏组件本地化生产，将带动巴基斯坦建立健全太阳能发电产业，为经济社会发展注入新活力，巴中新能源领域合作未来可期。&lt;/p&gt;&lt;p&gt;　　（本报伊斯兰堡电）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  赵益普&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172615&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172615.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172615.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “蓝色屋顶”点亮巴基斯坦绿色未来 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172615.html#[03版：要闻] “蓝色屋顶”点亮巴基斯坦绿色未来</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 斯中共建“一带一路”合作持续提质升级（国际论坛）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172616.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 斯中共建“一带一路”合作持续提质升级（国际论坛） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							玛雅·马朱兰&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　两国合作铺就了长远共赢的发展画卷，织密了民心相通、命运与共的友好纽带，为全球南方国家携手迈向现代化、实现共同发展提供了有益借鉴&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　《习近平谈治国理政》系列著作在斯里兰卡出版后，引发社会各界广泛关注，成为斯里兰卡读懂中国发展理念、了解中国治国理政经验的重要窗口。近期，《习近平谈治国理政》第五卷中斯读者会在科伦坡举办。该书内容丰富，其中对高质量共建“一带一路”的理论内涵与实践要义进行了系统阐释，形成逻辑严密、内涵丰富的理论框架，深刻揭示了“一带一路”倡议获得国际社会广泛认同的内在逻辑。&lt;/p&gt;&lt;p&gt;　　共建“一带一路”始终尊重各国发展国情、精准对接各国发展战略，以互联互通为主线夯实合作根基，依托基础设施务实合作培育长效发展动能，着力破解全球发展失衡难题，让现代化建设成果更好惠及各国民众。这一发展逻辑在斯里兰卡得到充分印证。长期以来，受资金短缺、建设能力不足等制约，斯里兰卡基础设施建设相对滞后。作为最早响应并参与共建“一带一路”的国家之一，斯里兰卡与中国的合作持续走深走实。科伦坡港口城、汉班托塔港、南部高速公路延长线等一批旗舰项目先后落地，完善了当地基础设施网络，提升了区域互联互通水平，有效拓宽了斯里兰卡经济增长空间。这些项目并非追求短期收益的权宜之计，而是立足长远的战略性布局，潜在价值将随当地产业升级、贸易增长、资本集聚持续释放。&lt;/p&gt;&lt;p&gt;　　高质量共建“一带一路”坚持系统思维，既着力推进交通、能源、水利等基础设施领域的“硬联通”，也持续深化规则标准、产业协同、人才交流、民生互通等领域的“软联通”，推动软硬联通协同发力、一体推进。实践充分证明，基础设施建设唯有与治理效能提升、政策机制协同、经营主体参与、人力资本积累等要素深度融合，才能释放源源不断的内生发展动力、培育可持续发展能力。这也是高质量共建“一带一路”带给斯里兰卡的重要发展启示：合作价值不仅体现在一批实体工程项目落地见效，更在于为当地经济转型升级筑牢发展根基，助力斯里兰卡打造互联互通更畅通、产业竞争力更强劲、经济韧性更坚实的现代化经济体。&lt;/p&gt;&lt;p&gt;　　放眼全球，这种立足长远、务实共赢的发展理念，契合广大发展中国家的普遍诉求。当前，亚非拉等地区众多发展中国家，在交通、能源、水利、数字基建等领域仍存在明显短板。高质量共建“一带一路”为相关国家提供长期稳定的融资支持、成熟的工程经验和先进技术支撑，助力各国突破发展瓶颈、培育自主可持续发展能力。正是这种务实长远的合作，让“一带一路”倡议跨越地域阻隔，吸引全球150多个国家、30多个国际组织携手共建。&lt;/p&gt;&lt;p&gt;　　当前，斯中共建“一带一路”合作持续提质升级。农业灌溉、民生供水等一批“小而美”民生项目落地见效，惠及数十万斯里兰卡民众，切实改善群众生产生活条件。数字经济合作不断深化，围绕智慧城市、电子政务、数字基础设施建设精准发力，为斯里兰卡数字经济发展提供有力支撑。两国合作铺就了长远共赢的发展画卷，织密了民心相通、命运与共的友好纽带，为全球南方国家携手迈向现代化、实现共同发展提供了有益借鉴。&lt;/p&gt;&lt;p&gt;　　（作者为斯里兰卡“一带一路”组织联合创始人） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;玛雅·马朱兰&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172616&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172616.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172616.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 斯中共建“一带一路”合作持续提质升级（国际论坛） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172616.html#[03版：要闻] 斯中共建“一带一路”合作持续提质升级（国际论坛）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “中国共产党树立了政党发展的典范”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172617.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “中国共产党树立了政党发展的典范” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——访肯尼亚联合民主同盟总书记奥马尔 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  黄炜鑫&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/bf3f9927-1728-438f-a0a1-b4f281bc3b55.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　“中国共产党带领中国人民取得了举世瞩目的成就，成功经验值得肯尼亚政党借鉴。”肯尼亚执政党联合民主同盟总书记奥马尔日前在接受本报记者采访时表示，中国共产党在增强组织能力、制定发展规划、践行全过程人民民主等方面的成功经验，为联合民主同盟提供了有益参考。&lt;/p&gt;&lt;p&gt;　　今年年初，奥马尔率领肯尼亚联合民主同盟高级干部考察团访问中国。考察团走进浙江省，在杭州市余杭区径山镇小古城村、临平区塘栖镇塘栖村等，参观美丽乡村建设、观摩村民大会，深入了解当地在“千万工程”引领下实现村貌蜕变、集体收入增加；参观“遇见杭州六小龙生活展示馆”，近距离观察科技创新成果和应用实践；参加浙江省委党校为肯尼亚执政党高级干部量身定制的课程，系统了解中国发展的思想脉络……其中，与中国最基层的村级党组织交流，考察其组织架构、决策机制、对群众诉求的响应能力及民众参与情况，让奥马尔感慨：“中国拥有非凡的治理体系。”他说，中国共产党锚定明确的国家发展目标，广泛动员社会各方力量和资源，确保发展规划在最基层落地实施。&lt;/p&gt;&lt;p&gt;　　“中国共产党坚持以人民为中心，积极回应人民诉求，在为中国人民谋幸福的同时，也为全球和平发展事业贡献中国智慧。”奥马尔表示，“中国共产党树立了政党发展的典范——一个政党若想实现长足发展，就要有清晰的愿景、强有力的领导班子和执行力强的基层组织。联合民主同盟正在大力加强基层建设，凝聚力量完成既定目标。”&lt;/p&gt;&lt;p&gt;　　今年是中非开启外交关系70周年。“非中关系始终以相互尊重和共同繁荣为基石。”奥马尔表示，高质量共建“一带一路”促进全球互联互通，促进贸易和人员往来，有利于实现共同繁荣。非中合作致力于建设互联互通的基础设施、实现多元共赢的贸易往来。以蒙内铁路为例，它整合市场资源、便利人员往来、带动制造业发展，正是非中友好合作关系的写照。&lt;/p&gt;&lt;p&gt;　　奥马尔认为，中国对53个非洲建交国全面实施零关税举措意义重大，“这为非洲打开了拥有14亿多消费者的庞大市场，将有力促进非中贸易，为包括肯尼亚在内的非洲国家提供了巨大发展机遇”。&lt;/p&gt;&lt;p&gt;　　“肯中两国是重要的合作伙伴。”奥马尔表示，近年来，两国人文交流日益密切，越来越多中国游客赴肯旅游，越来越多肯尼亚学生及其他各界代表赴华参训学习，为增进两国人民相互理解、促进民心相通奠定了坚实基础。双方已在能源、基础设施、新能源汽车等领域取得一系列合作成果，期待未来在太空探索等领域与中方探讨更多合作可能，进一步丰富双边关系内涵。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  黄炜鑫&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——访肯尼亚联合民主同盟总书记奥马尔 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172617&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172617.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172617.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “中国共产党树立了政党发展的典范” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172617.html#[03版：要闻] “中国共产党树立了政党发展的典范”</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “为城市绿色发展注入持久动能”（中国—吉尔吉斯斯坦媒体高质量共建“一带一路”联合采访）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172618.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 比什凯克市垃圾科技处置发电项目实现“变废为宝”—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “为城市绿色发展注入持久动能”（中国—吉尔吉斯斯坦媒体高质量共建“一带一路”联合采访） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  崔  琦  曲  颂&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　比什凯克市垃圾科技处置发电项目员工（前右）用智能设备操控抓斗。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  王  芳摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/11f4a65e-0bb6-4348-ade5-e2d3a57071c5.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　中吉两国记者在项目现场采访。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  白  阳摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/c9e0c728-97a2-48d4-bf42-793ef0b33a1a.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　8月1日，中国—吉尔吉斯斯坦媒体高质量共建“一带一路”联合采访在吉尔吉斯斯坦首都比什凯克启动。中吉两国媒体近20名记者走进比什凯克市垃圾科技处置发电项目，近距离观察生活垃圾无害化处理与资源化发电全过程，感受中吉绿色合作惠及民生的生动实践。&lt;/p&gt;&lt;p&gt;　　厂区绿地环绕，清洁干净。操作间里，巨大的抓斗将一车车城市生活垃圾牢牢抓起，投入约1000摄氏度的高温焚烧炉中，焚烧产生的蒸汽推动纯凝式汽轮机发电，实现垃圾“变废为宝”的资源循环。&lt;/p&gt;&lt;p&gt;　　该项目由湖南军信环保股份有限公司下属的军信环保（吉尔吉斯）投资有限公司投资建设，目前一期项目已投产运营，二期项目已正式奠基。项目全部投运后，单日垃圾处理总量将达到3000吨，全年可提供绿色电力约4.8亿千瓦时，将成为中亚地区最大的生活垃圾焚烧发电项目。&lt;/p&gt;&lt;p&gt;　　公司运行部集控巡检员阿克坦介绍，过去，比什凯克市生活垃圾主要靠填埋处置。填埋库区库容濒临饱和，内部沼气不断积聚，极易诱发火灾。该项目投用后，比什凯克新增生活垃圾直接输送厂区闭环处理。不少周边居民专程来厂区参观。“我在这里学到了先进环保的发电技术，未来希望学好中文，去中国学习更多经验。”阿克坦说。&lt;/p&gt;&lt;p&gt;　　吉尔吉斯斯坦国家电视广播公司记者克拉拉·库达伊别列根诺娃首次走进项目现场，感触颇深。她表示，垃圾处理、电力供给等问题，是当地民众最为关切的民生痛点。“该项目既高效处理城市垃圾、改善空气质量，又持续输出绿色电力。中企帮我们一举破解两大民生难题，为城市绿色发展注入持久动能。”她说。&lt;/p&gt;&lt;p&gt;　　本次联合采访是中吉两国媒体首次开展高质量共建“一带一路”联合采访。未来几天，人民日报与吉尔吉斯斯坦《旗帜报》、《吉尔吉斯斯坦言论报》、吉尔吉斯斯坦国家电视广播公司、吉尔吉斯斯坦卡巴尔国家通讯社等媒体的记者，将实地走访两国能源、农业、交通、考古等领域的重点合作项目，共同讲述中吉高质量共建“一带一路”故事，为深化两国新时代全面战略伙伴关系、构建更加紧密的中吉命运共同体贡献媒体力量。&lt;/p&gt;&lt;p&gt;　　（本报比什凯克8月1日电）&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　版式设计：汪哲平&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  崔  琦  曲  颂&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 比什凯克市垃圾科技处置发电项目实现“变废为宝”—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172618&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172618.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172618.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “为城市绿色发展注入持久动能”（中国—吉尔吉斯斯坦媒体高质量共建“一带一路”联合采访） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172618.html#[03版：要闻] “为城市绿色发展注入持久动能”（中国—吉尔吉斯斯坦媒体高质量共建“一带一路”联合采访）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中方在联合国举行2026世界人工智能大会暨人工智能全球治理高级别会议吹风会</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172619.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中方在联合国举行2026世界人工智能大会暨人工智能全球治理高级别会议吹风会 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报华盛顿8月1日电  （记者李志伟）联合国消息：中国常驻联合国代表团7月31日在联合国总部举行2026世界人工智能大会暨人工智能全球治理高级别会议吹风会。&lt;/p&gt;&lt;p&gt;　　中国常驻联合国代表傅聪表示，习近平主席在大会开幕式上围绕全球人工智能治理体系、以人为本和向上向善理念、帮助全球南方缩小智能鸿沟、成立世界人工智能合作组织、支持联合国全球人工智能治理进程等，系统全面提出中国方案，为全球人工智能治理作出重要贡献。中国将秉持开源开放、合作共赢、共商共建共享理念，在联合国广阔平台上，同各方一道商讨谋划人工智能未来全球治理重大问题。&lt;/p&gt;&lt;p&gt;　　联合国数字与新兴技术特使吉尔表示，世界人工智能大会具有里程碑式的重要意义，希望世界人工智能合作组织与联合国密切对接合作。联合国人工智能独立国际科学小组成员宋海涛分享了参会感受。&lt;/p&gt;&lt;p&gt;　　7月16日，来自亚洲、非洲、拉美和欧洲的29个国家签署《关于成立世界人工智能合作组织的协定》，成为创始成员国。这标志着中方倡导推动成立世界人工智能合作组织取得重要阶段性进展。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172619&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172619.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172619.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中方在联合国举行2026世界人工智能大会暨人工智能全球治理高级别会议吹风会 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172619.html#[03版：要闻] 中方在联合国举行2026世界人工智能大会暨人工智能全球治理高级别会议吹风会</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中俄人文合作委员会媒体合作分委会会议举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172620.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中俄人文合作委员会媒体合作分委会会议举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报莫斯科8月1日电  （记者隋鑫）7月31日，中俄人文合作委员会媒体合作分委会第十九次会议在莫斯科举行。中国国家广播电视总局副局长何飚与俄罗斯数字发展通信和大众传媒部副部长切尔科索娃出席会议并作主旨发言。两国政府主管部门、主流媒体和行业机构50多名代表与会。&lt;/p&gt;&lt;p&gt;　　会议认为，过去一年，中俄媒体合作持续提质增效，积极落实两国元首共识，围绕中俄文化年、中国人民抗日战争暨世界反法西斯战争胜利80周年等重大主题活动，高效联动开展新闻报道、内容合作，持续推动视听精品互播，积极开展品牌交流活动，新媒体领域合作蓬勃发展，图书互译出版取得显著成效，不断夯实两国友好民意基础，助力中俄新时代全面战略协作伙伴关系发展。&lt;/p&gt;&lt;p&gt;　　会议期间，两国代表围绕政策沟通、行业治理、内容合作、技术交流、人员往来等议题进行了深入交流，达成广泛共识。会议决定，持续健全两国媒体合作机制，成立内容、技术等专项工作小组，围绕中俄教育年等主题，推动实施新闻报道、联合采访、合作制作、青年交流、技术应用、图书出版等领域重点合作项目。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172620&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172620.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172620.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中俄人文合作委员会媒体合作分委会会议举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172620.html#[03版：要闻] 中俄人文合作委员会媒体合作分委会会议举行</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 切实维护人民群众生命财产安全（深阅读）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172621.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 各地各部门推进安全治理向事前预防转型—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 切实维护人民群众生命财产安全（深阅读） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  刘温馨&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　安全生产是民生大事，事关人民福祉，事关经济社会发展大局，一丝一毫不能放松。&lt;/p&gt;&lt;p&gt;　　今年以来，国内发生多起重大生产安全事故，各地各有关部门深刻吸取教训，深入排查整治各类风险隐患，抓实抓细安全生产措施落实，切实维护人民群众生命财产安全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　压实主体责任，企业加强自查自改&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　走进浙江金华永康市篱物社科技有限公司，设备运转有序，物料分区清晰，工人操作有条不紊。&lt;/p&gt;&lt;p&gt;　　“以前，操作单开关液压机时需要一手按键、一手放料，员工反映存在压伤手部的风险。”公司总经理应昶彬说，发现隐患后，公司将所有老旧设备进行更新并加装了红外线监测系统，现在只要手伸进作业区，液压机便会急停。&lt;/p&gt;&lt;p&gt;　　作为一家传统冲压设备小微企业，篱物社坚持以“低成本小技改”消除“现场安全大隐患”，在车间出入口、电梯口等处张贴二维码、设置意见箱，方便员工随时上报安全隐患。&lt;/p&gt;&lt;p&gt;　　手动磨光机刀片易崩出伤眼，更换为自动设备后，不仅能避免事故，作业效率还提高150％；厂房内落地式风扇电线被拖车反复碾压破裂裸露，整改后风扇全部上墙以保障用电安全；锋利物料裸露堆放易导致刮伤，公司改为将物料用绕膜包裹……“2024年以来，公司累计投入100余万元用于作业现场隐患整改，已连续两年半未发生安全事故。”应昶彬说。&lt;/p&gt;&lt;p&gt;　　压实企业主体责任，督促企业主要负责人把安全生产理念付诸行动，激励员工及时发现上报各类安全隐患，推动全员、全过程、全覆盖筑牢安全生产防线。&lt;/p&gt;&lt;p&gt;　　今年2月，湖南某石油化工公司员工在巡检时发现安全阀法兰垫片处有大量双氧水泄漏，该公司启动应急预案，停泵更换法兰垫片，因发现处置及时，避免了双氧水大量泄漏可能导致的爆炸事故；&lt;/p&gt;&lt;p&gt;　　今年3月，湖北某火电厂锅炉班开展锅炉“四管”防磨防爆检查时，发现锅炉低温过热器在人孔门处让管的密封板安装时存在与相邻管道双边焊接情况，班组立即组织对密封板局部进行修磨，消除了管道因膨胀受限拉裂的隐患；&lt;/p&gt;&lt;p&gt;　　今年6月，江苏省督促企业开展全员查找风险隐患行动，累计报告隐患40余万条，发放奖励3600余万元……&lt;/p&gt;&lt;p&gt;　　“2025年，我们对5万余名金属冶炼、涉旅企业主要负责人和监管人员进行专题培训，强化安全红线意识。”应急管理部安全生产综合协调司有关负责人说，针对新招录员工、转岗员工以及特种作业人员，督促各地区学好用好重大事故隐患判定标准，进一步完善事故隐患的举报奖励机制，激发企业自查自改重大隐患的积极性和主动性，提升本质安全水平。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　强化监管执法，严肃查处违规违法行为&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“批复的安全设施设计是新建工房180栋，你们建了207栋，库房总面积超出近500平方米。”江西宜春市万载县某烟花爆竹生产企业建设项目现场，市应急管理局烟花爆竹安全监督管理科科长郭业明正进行许可核查检查。&lt;/p&gt;&lt;p&gt;　　烟花爆竹生产企业未按照批准进行改扩建，违反了安全生产法第九十八条第三款规定，可能导致工房工序存在交叉、内外部安全距离不足等风险隐患。有关部门立即责令该企业停止建设，并处12.5万元的罚款。&lt;/p&gt;&lt;p&gt;　　同时存放桶装硫黄和硝酸钾、成品库存放部分半成品、药物中转工房旁防火隔离带未及时清理……在对另一家烟花制造企业进行执法检查时，执法人员发现7项安全隐患。&lt;/p&gt;&lt;p&gt;　　“硫黄与硝酸钾混合属于典型爆炸物前体，如遇摩擦、撞击、受热极易引发燃烧或爆炸，是重大事故隐患，不仅要罚款，还得予以立案查处。”郭业明说，今年5月上旬，宜春市成立4个暗访暗查组，以“四不两直”方式对全市所有烟花爆竹生产企业、批发企业、零售店点开展专项整治，责令停产停业整改企业22家，立案处罚17起。&lt;/p&gt;&lt;p&gt;　　“锚定‘四超两改’等违法违规行为，5月以来江西共检查烟花爆竹生产经营单位8970家次，吊销/撤销许可证144个，行刑衔接立案18起，拘留222人，查处超标违禁产品8517箱。”江西省应急管理厅有关负责人表示。&lt;/p&gt;&lt;p&gt;　　广西壮族自治区对全自治区煤矿采掘工程进行全面清查整治，严厉打击隐蔽工作面及使用“真、假”两套图纸弄虚作假、蓄意逃避监管的行为；重庆在全市范围内纵深开展安全生产风险隐患大排查大起底大整治，对发现的重大事故隐患严格采取限时整改、挂牌督办等方式，确保闭环整改；山东省结合外包施工、高处作业、有限空间等整治行动，对照重大事故隐患判定标准，深入现场核查企业安全生产真实状况……加强重点行业领域全链条、穿透式安全监管和治理，各地各部门坚持问题导向、底线思维，不断提升监管的专业性和穿透力。&lt;/p&gt;&lt;p&gt;　　“今年以来，部分地方和行业领域安全事故多发频发，从事故调查情况看，安全生产非法违法、弄虚作假等问题突出，是造成事故发生的主要原因。”国务院安委会办公室有关负责人表示，近期中央安全生产考核巡查正在开展二、三季度明查暗访工作，明确将对典型重大事故隐患倒查责任，核实后严肃追责问责。&lt;/p&gt;&lt;p&gt;　　当前，矿山、化工、消防、工贸等重点行业领域“打非治违”工作正深入开展，国务院安委会办公室有关负责人表示，将用好“一案双罚”、行刑衔接、行纪衔接等硬措施，真正做到问责一案、警示一片、震慑一方，加快推进安全生产治理模式向事前预防转型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　普及应急知识，提升全民安全素养&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“阿姨，您家这个插线板接了3个大功率电器，线都发烫了，我们帮您换个新插座，以后可不能再这样用了。”7月14日，在四川广元市苍溪县解放路社区一处老旧居民楼里，网格员何敏一边更换隐患插座，一边向住户耐心讲解。&lt;/p&gt;&lt;p&gt;　　入伏以来，广元市持续高温，居民家中空调、电扇等大功率电器长时间高负荷运转，电气火灾风险陡增。市应急、消防等部门联合党员干部、社区网格员、居民代表及电力、燃气专业技术力量，混合编成入户小组，重点排查消防通道堵塞、电动车违规充电、燃气胶管老化、高空坠物风险等隐患，并手把手指导整改。&lt;/p&gt;&lt;p&gt;　　“我们按照‘不漏一栋、不落一户’的原则，在老旧小区、沿街商铺等重点场所开展大规模‘敲门行动’，每晚要走二三十户。”何敏说。&lt;/p&gt;&lt;p&gt;　　连日来，四川省应急、消防、教育、民政等部门走进学校、养老机构和大型商场，面向师生、老人、商户等群体，面对面讲解火灾隐患辨识、逃生避险要领和初期火情处置等实用技能，将违法案例转化为沉浸式安全课堂。“今年以来，全省重点场所未发生较大以上火灾、踩踏等安全事故，安全形势总体平稳。”四川省应急管理厅有关负责人表示。&lt;/p&gt;&lt;p&gt;　　安徽电视节目聚焦人员密集场所，邀请专家实景拆解风险，普及隐患排查与自救技能；海南针对危险化学品、海上交通、渔业船舶等自贸港重要行业开展船舶防倾覆等专项宣传；河北线上举办“全民安全公开课”宣传重大事故隐患判定标准，2万余人参与学习；云南开展应急科普大篷车“三下乡”活动，让群众在趣味体验中掌握实用知识……聚焦社区、学校、农村、家庭等基层单元，各地各部门把安全知识普及到田间地头、千家万户，提升全社会安全防范意识和应急处置能力。&lt;/p&gt;&lt;p&gt;　　人人都成为应急的“明白人”，才能筑牢共护安全、共守平安的“防火墙”。“今年6月，‘国家应急管理科普库’正式上线运行，内容涵盖了各类场景下的应急知识科普与避险技能指导。”应急管理部有关负责人表示，接下来将加强资源整合和宣传教育阵地建设，推动安全生产宣传教育走深走实，让全民安全意识落地生根、拔节生长。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  刘温馨&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 各地各部门推进安全治理向事前预防转型—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172621&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172621.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172621.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 切实维护人民群众生命财产安全（深阅读） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172621.html#[04版：要闻] 切实维护人民群众生命财产安全（深阅读）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 上海稳步建设全球科创高地（活力中国调研行）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172622.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 上海稳步建设全球科创高地（活力中国调研行） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李仕权  徐雷鹏  黄晓慧&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　盛夏时节，上海科创热潮奔涌。&lt;/p&gt;&lt;p&gt;　　一场盛会，2026世界人工智能大会暨人工智能全球治理高级别会议，351款产品全球首发；&lt;/p&gt;&lt;p&gt;　　一个大科学装置，上海光源上半年开放运行机时同比增长16%，其中企业用户机时增长44.2%；&lt;/p&gt;&lt;p&gt;　　一家通用具身智能机器人企业，智元机器人下线超1.5万台，距离万台量产节点用时不足3个月；&lt;/p&gt;&lt;p&gt;　　…………&lt;/p&gt;&lt;p&gt;　　2026年4月，习近平总书记在上海出席加强基础研究座谈会时强调，要以更大力度、更实举措加强基础研究，提升我国原始创新能力，进一步打牢科技强国建设根基。&lt;/p&gt;&lt;p&gt;　　2025年4月，习近平总书记在上海考察时强调，不断增强科技创新策源功能和高端产业引领功能，加快建成具有全球影响力的科技创新高地。&lt;/p&gt;&lt;p&gt;　　沿着总书记指引的方向，上海增强“敢为”的担当、锻造“善为”的本领、汇聚“共为”的合力，基础研究多点开花、成果转化加速推进、产业协同释放乘数效应，上海（长三角）国际科技创新中心建设蹄疾步稳。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　敢为：增强原始创新动力&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　基础研究是科技创新的“最先一公里”，投入大、周期长、风险高，怎么应对？&lt;/p&gt;&lt;p&gt;　　上海着力增强“敢为”的担当，政府“兜底”，制度“破壁”。&lt;/p&gt;&lt;p&gt;　　敢为人先——先行先试、优化机制，筑牢基础研究的根基。&lt;/p&gt;&lt;p&gt;　　率先设立“基础研究先行区”，遴选勇闯“无人区”的年轻科研人员，给予长周期稳定资助；&lt;/p&gt;&lt;p&gt;　　组建尚思自然科学研究院，推行“以选题为基础的选人机制”，重点支持高风险、高价值探索性研究；&lt;/p&gt;&lt;p&gt;　　修订《上海市科学技术进步条例》，专设“基础研究”章节，明确市级财政科创资金用于基础研究的比例原则上不低于1/3……&lt;/p&gt;&lt;p&gt;　　“上海这座城市，很愿意为高风险、长周期的原创探索提供充分支持。”中国科学院院士、李政道研究所所长张杰说。&lt;/p&gt;&lt;p&gt;　　敢作敢干——给经费、给时间、给信任，增强科研工作者的底气。&lt;/p&gt;&lt;p&gt;　　高风险非共识课题有稳定保障。新的选人机制，让中国科学院生物与化学交叉研究中心研究员刘聪成为首批受资助的尚思探索学者，他带领团队深入研究α—突触核蛋白多年，与复旦大学附属华山医院郁金泰团队等合作，在全球首次发现帕金森病新靶点FAM171A2。&lt;/p&gt;&lt;p&gt;　　长周期探索有包容生态。李政道研究所营造鼓励探索、宽容失败的学术环境，聚焦“极端宇宙条件下物质的起源与演化”，布局四川锦屏PandaX暗物质与中微子探测装置、南海“海铃计划”中微子望远镜、青海冷湖JUST光谱望远镜等大科学装置，形成以上海为枢纽的基础研究网络。&lt;/p&gt;&lt;p&gt;　　“深化基础研究先行区建设，完善选人机制，给予长周期稳定资助，支持科学家潜心开展研究。这就是我们带给科研工作者的底气。”上海市科委主任骆大进表示。&lt;/p&gt;&lt;p&gt;　　这份底气还体现在对失败的态度上——上海试点容错机制，若结题未达预期，说明原因、梳理经验，不影响后续申报。宽容失败，比奖励成功更需要勇气。&lt;/p&gt;&lt;p&gt;　　给基础研究以时间，给原始创新以空间，给拔尖人才以舞台——这是上海为“从0到1”写下的注脚。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;善为：提升成果转化能力&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　理论的突破，不等于应用的成功。从论文到产品，是科技成果转化的“关键一公里”。如何解决中间环节缺失、供需错配等共性难题？&lt;/p&gt;&lt;p&gt;　　上海奋力锻造“善为”的本领，充分发挥“加速器”和“孵化器”的功能作用。&lt;/p&gt;&lt;p&gt;　　善做“加速器”——大力建设概念验证、中试验证平台等，共享科研资源，促进科技成果验证转化。&lt;/p&gt;&lt;p&gt;　　张江药谷，一座座中试平台忙碌运转。在这里，从基础研究到小试、中试，再到产品，新药研发一日千里。&lt;/p&gt;&lt;p&gt;　　扎根于此的迈威生物，是这场“加速跑”的受益者，也是见证者。“中试是药物从实验室走向产业化的必经之路，也是最容易卡住的环节。”迈威生物生产科学与技术部执行总监李纲介绍，区域内的专业化服务平台，助力源头创新更快从实验室走向临床、走向市场。&lt;/p&gt;&lt;p&gt;　　目前，张江药谷已集聚超4000家生物医药创新主体、10家重大科技基础设施、超200个专业服务平台等，构建起高效协同的全链条生态。&lt;/p&gt;&lt;p&gt;　　善用“孵化器”——全力打造高质量孵化器，助力科技成果转化落地。&lt;/p&gt;&lt;p&gt;　　不远处的张江高科895孵化器，聚焦智算芯片、硅光芯片等集成电路关键细分领域，形成垂直孵化体系，已孵化1600余家创新企业。奇算光启创始人钟翰森说：“从芯片流片到封装测试，都能得到周边企业的协助。”&lt;/p&gt;&lt;p&gt;　　在脑智天地·脑机接口科创转化中心，上下楼就是上下游。概念验证、临床转化、孵化器等平台设施分布不同楼层，“技术突破—产业转化—场景落地”生态链初步形成。去年6月底建设以来，已完成注册落地的脑机接口企业达50余家。&lt;/p&gt;&lt;p&gt;　　上海不断完善基础研究与成果转化互促机制，目前已布局建设20家高质量概念验证平台，19家已建高质量孵化器中，有4家获评工业和信息化部卓越级孵化器、占全国1/3。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　共为：汇聚产业发展合力&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　新一轮科技革命和产业变革加速突破，一地一域难以构建完整体系，如何更好打通从产品到产业的“最后一公里”？&lt;/p&gt;&lt;p&gt;　　上海汇聚“共为”的合力，全力贯彻落实党中央关于将上海国际科技创新中心扩围至长三角的决策部署，从单城突破迈入区域协同新阶段。&lt;/p&gt;&lt;p&gt;　　共享创新资源——上海带动长三角握指成拳，加速科技创新和产业创新深度融合。&lt;/p&gt;&lt;p&gt;　　科技成果跨区域流动共享创新高。2025年，长三角技术合同交易4.68万项，技术交易额2461.3亿元，保持快速增长态势。&lt;/p&gt;&lt;p&gt;　　“上海正进一步整合区域创新资源和产业链配套能力，在推动长三角科技创新协同发展上更好发挥牵引和示范作用。”中国宏观经济研究院产业所副研究员胡关子说。&lt;/p&gt;&lt;p&gt;　　共建科创产业——长三角产业地图，已然“长”出一对“科创之翼”。&lt;/p&gt;&lt;p&gt;　　一翼是G60科创走廊，串联研发、制造、物流、服务产业链条，连起沪苏浙皖9座城市；&lt;/p&gt;&lt;p&gt;　　一翼是沿沪宁产业创新带，集成果展示、产业服务于一体，打造人才、金融、政务、出海四大平台。&lt;/p&gt;&lt;p&gt;　　政策协同、要素流动、产业互补——长三角正从地理“相邻”走向创新“相融”。&lt;/p&gt;&lt;p&gt;　　“长三角良好的创新环境和产业协同，为企业发展提供了重要支撑。”中科天算（上海）信息科技有限公司董事长兼首席执行官刘垚圻说，公司研制出星载智能计算机，探索为卫星星座提供在轨智能计算能力。&lt;/p&gt;&lt;p&gt;　　从基础研究加大投入到大科学装置超前布局，从顶尖人才自主培养到未来产业抢先落子，从上海率先突破到长三角协同联动——上海科创活力持续迸发，加速将科技创新“关键变量”转化为高质量发展的“最大增量”。“锚定上海（长三角）国际科技创新中心建设目标，上海着力提升创新体系整体效能，一体推进教育发展、科技创新、人才培养。”上海市政府相关负责同志表示。&lt;/p&gt;&lt;p&gt;　　奋进“十五五”，上海强化使命担当，敢为、善为、共为，稳步建设具有全球影响力的科技创新高地。&lt;/p&gt;&lt;p&gt;　　（本报记者张安宇、王崟欣参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李仕权  徐雷鹏  黄晓慧&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172622&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172622.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172622.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 上海稳步建设全球科创高地（活力中国调研行） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172622.html#[04版：要闻] 上海稳步建设全球科创高地（活力中国调研行）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 会同国家粮食和储备局调拨1.1万件中央救灾物资</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172623.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 国家防减救灾委办公室、应急管理部向吉林、黑龙江派出工作组 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 会同国家粮食和储备局调拨1.1万件中央救灾物资 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 水利部和中国气象局联合发布红色山洪灾害气象预警 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/1aa0d36b-a15b-421f-a424-8774d02e4847.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　7月29日，吉林延边朝鲜族自治州汪清县出现强降雨，部分乡镇发生内涝，造成群众被困、道路损毁、供电中断等情况。强降雨过后，汪清县交通、通信、供电等抢修工作紧张有序展开。图为7月30日，在汪清县大兴沟镇，工作人员拆除损坏的路面。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  张  楠摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/1aa0d36b-a15b-421f-a424-8774d02e4847.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　本报北京8月1日电  （记者邓剑洋、蒋雪鸿）水利部和中国气象局8月1日18时联合发布红色山洪灾害气象预警。预计，8月1日20时至8月2日20时，四川东部、陕西南部等地部分地区发生山洪灾害可能性大（橙色预警），其中，局地发生山洪灾害可能性很大（红色预警）。其他地区也可能因局地短历时强降水引发山洪灾害。&lt;/p&gt;&lt;p&gt;　　本报北京8月1日电  （记者邓剑洋）记者从水利部获悉：据预报，8月1日东北东部将有大到暴雨，2日东北东南部将有小到中雨，3至7日东北中部北部仍将有中到大雨；黑龙江省松花江、嫩江支流甘河可能发生编号洪水，松花江干流佳木斯江段及支流汤旺河可能发生超警洪水，暴雨区内部分中小河流可能发生较大洪水。水利部于8月1日13时启动针对黑龙江省的洪水防御Ⅳ级应急响应。&lt;/p&gt;&lt;p&gt;　　7月31日8时至8月1日8时，黑龙江中部东部、四川中部、甘肃东南部、陕西中部南部、广东中部、广西南部、海南东北部等地部分地区降了大到暴雨，其中四川绵阳、眉山、乐山、德阳，黑龙江哈尔滨、伊春、齐齐哈尔，广西防城港等地局部降了大暴雨。黑甘陕川渝等地19条河流发生超警以上洪水，黑龙江省蚂蚁河发生2026年第2号洪水。&lt;/p&gt;&lt;p&gt;　　8月1日上午，水利部组织滚动会商，分析研判全国雨情水情汛情态势。根据24小时降雨预报，水利部向河北、山西、内蒙古、辽宁、吉林、黑龙江、广东、广西、海南、重庆、四川、云南、西藏、陕西、甘肃、青海等16省份发出“一省一单”靶向预警，通报强降雨覆盖范围县（市、区）名单、水库名单、山洪灾害风险区域及点位，提醒做好水库和淤地坝安全度汛、中小河流洪水和山洪灾害防御等工作。&lt;/p&gt;&lt;p&gt;　　水利部维持针对河南、湖北、四川、陕西、甘肃的洪水防御Ⅳ级应急响应；6个水利部工作组正在黑龙江、内蒙古、四川、广东、甘肃等地一线协助指导暴雨洪水防御工作。&lt;/p&gt;&lt;p&gt;　　本报北京8月1日电  （记者刘温馨、王东辉）8月1日，国家防灾减灾救灾委员会办公室、应急管理部针对吉林、黑龙江等地近期暴雨洪涝灾害情况，派出工作组赴两省实地查看灾情，协助和指导地方做好救灾工作。根据灾区救灾救助工作需要，会同国家粮食和物资储备局向吉林、黑龙江调拨毛毯、被褥、家庭应急包等1.1万件中央救灾物资，支持地方妥善做好受灾群众安置救助工作。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 水利部和中国气象局联合发布红色山洪灾害气象预警 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 国家防减救灾委办公室、应急管理部向吉林、黑龙江派出工作组 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172623&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172623.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172623.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 会同国家粮食和储备局调拨1.1万件中央救灾物资 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172623.html#[04版：要闻] 会同国家粮食和储备局调拨1.1万件中央救灾物资</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 驻香港部队举行庆祝中国人民解放军建军99周年招待会</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172624.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 驻香港部队举行庆祝中国人民解放军建军99周年招待会 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社香港8月1日电  （记者肖逸晨）中国人民解放军驻香港部队1日在昂船洲军营举行招待会，庆祝中国人民解放军建军99周年。&lt;/p&gt;&lt;p&gt;　　全国政协副主席梁振英、香港特区行政长官李家超、中央政府驻港联络办主任周霁、驻港国家安全公署署长董经纬、外交部驻港公署特派员崔建春、驻香港部队政治委员赖如鑫担任主礼嘉宾。&lt;/p&gt;&lt;p&gt;　　17时许，招待会正式开始，全场起立奏唱中国人民解放军军歌。&lt;/p&gt;&lt;p&gt;　　赖如鑫致辞时表示，今年是中国共产党成立105周年，是中国人民解放军建军99周年，也是中国工农红军长征胜利90周年。三段波澜壮阔的历史紧密交织，串联起人民军队矢志不渝的奋斗征程。&lt;/p&gt;&lt;p&gt;　　赖如鑫表示，驻军全体官兵坚决听党指挥，赓续光荣传统，聚力练兵备战，锻造过硬本领，强化防务能力，时刻准备为维护香港长期繁荣稳定再立新功。&lt;/p&gt;&lt;p&gt;　　李家超致辞表示，向驻香港部队官兵致以节日的祝贺，对驻军长期以来对特区发展的有力支持表示感谢。&lt;/p&gt;&lt;p&gt;　　随后，驻香港部队官兵为来宾献上了精心创排的文艺节目。&lt;/p&gt;&lt;p&gt;　　香港特区政府主要官员、中央驻港机构主要负责人、驻港中资机构代表、部分港区全国人大代表和政协委员、爱国爱港社团代表、东江纵队港九独立大队老战士和亲属代表，以及驻香港部队其他领导和部分功勋荣誉表彰官兵代表等约400人出席招待会。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172624&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172624.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172624.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 驻香港部队举行庆祝中国人民解放军建军99周年招待会 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172624.html#[04版：要闻] 驻香港部队举行庆祝中国人民解放军建军99周年招待会</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 王洛林同志逝世</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172625.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 王洛林同志逝世 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/86076d79-337a-4906-8d7c-0461f0ff5ce7.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　新华社北京7月30日电  中国社会科学院原副院长、党组副书记王洛林同志（正部长级），因病于2026年6月26日在北京逝世，享年88岁。&lt;/p&gt;&lt;p&gt;　　王洛林同志逝世后，中央有关领导同志以不同方式表示哀悼并向其亲属表示慰问。&lt;/p&gt;&lt;p&gt;　　王洛林，1938年6月生，湖北黄冈人。1960年9月参加工作，1978年10月加入中国共产党。1960年9月至1961年1月任甘肃师范大学政教系助教。1961年1月至1984年8月先后任厦门大学经济系助教、讲师、副教授、副主任。1984年8月至1989年9月任厦门大学副校长、党委常委，经济系副教授。1989年9月至1993年7月任厦门大学党委书记、副校长，国际贸易系副教授、教授。1993年7月至1998年9月任中国社会科学院副院长、党委委员。1998年9月至2004年10月任中国社会科学院副院长、党组副书记。&lt;/p&gt;&lt;p&gt;　　王洛林是中国共产党第十三届、十四届中央委员会候补委员，第十五届中央委员会委员，第十六届中央委员会候补委员。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172625&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172625.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172625.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 王洛林同志逝世 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172625.html#[04版：要闻] 王洛林同志逝世</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 张玉台同志逝世</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172626.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 张玉台同志逝世 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/d897162c-43d8-44b5-85d3-3398428cdc6f.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　新华社北京7月31日电  国务院发展研究中心原主任、党组成员张玉台同志，因病于2026年7月24日在北京逝世，享年80岁。&lt;/p&gt;&lt;p&gt;　　张玉台同志逝世后，中央有关领导同志以不同方式表示哀悼并向其亲属表示慰问。&lt;/p&gt;&lt;p&gt;　　张玉台，1945年8月生，山东郯城人。1968年9月参加工作，1964年11月加入中国共产党。1969年1月至1970年3月在沈阳军区四十军农场劳动锻炼。1970年3月起先后任中国科学院半导体研究所研究实习员，国家科委办公厅正处级秘书、副主任等。1988年6月起任中国科学院副秘书长，先后兼任学部联合办公室主任，中国科学报社社长、总编辑。1995年1月起任中国科学技术协会书记处书记、党组书记，国家科委党组成员。1996年5月至2004年10月任中国科协副主席、书记处第一书记、党组书记。2004年10月至2011年3月先后任国务院发展研究中心党组书记、副主任，主任、党组书记，主任、党组成员。2011年11月兼任中国关心下一代工作委员会常务副主任。&lt;/p&gt;&lt;p&gt;　　张玉台是中共第十六届、十七届中央委员会委员，第九届全国人大常委会委员、法律委员会委员，政协第十一届全国委员会委员、教科文卫体委员会副主任，政协第十二届全国委员会常务委员、教科文卫体委员会主任。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172626&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172626.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172626.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 张玉台同志逝世 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172626.html#[04版：要闻] 张玉台同志逝世</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 2026年世界奶业大会在内蒙古呼和浩特开幕</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172627.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 2026年世界奶业大会在内蒙古呼和浩特开幕 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报呼和浩特8月1日电  （记者张枨）8月1日，2026年世界奶业大会在内蒙古自治区呼和浩特市开幕，国际行业协会负责人、全球乳产业链龙头企业负责人等近千名代表参加。&lt;/p&gt;&lt;p&gt;　　本次大会以“科技引领、合作共赢，共建全球奶业可持续生态圈”为主题，紧扣全球奶业高质量发展趋势，全力打造国际化、专业化、市场化、产业化的行业交流合作平台，助力全球奶业资源互通、优势互补、协同发展。&lt;/p&gt;&lt;p&gt;　　开幕式上集中发布多项行业重要成果、启动多项关键产业项目：正式发布《绿色领航者计划》、《母乳科学研究白皮书》及乳业国家技术创新中心重大科技成果；举行中国（全球）乳业数纽中心、全球乳业高质量数据集工厂建设启动仪式。同时，国际食品科技联盟正式授予呼和浩特“世界乳都”牌匾和奖杯。&lt;/p&gt;&lt;p&gt;　　大会期间，联合国粮农组织、中国食品土畜进出口商会将分别举办行业论坛，汇聚全球业内专家、产业链骨干企业技术负责人，开展前沿技术研讨、行业标准交流、产学研精准对接等系列活动，共同探索可复制、可推广的全球奶业高质量发展新路径。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172627&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172627.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172627.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 2026年世界奶业大会在内蒙古呼和浩特开幕 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172627.html#[04版：要闻] 2026年世界奶业大会在内蒙古呼和浩特开幕</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 一版责编：杨  旭  张帅祯  张宇杰 二版责编：林  琳  祁嘉润  何  彪 三版责编：吴  刚  周  輖  谢佳宁 四版责编：袁振喜  刘静文  张雪妍</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172628.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：杨  旭  张帅祯  张宇杰 二版责编：林  琳  祁嘉润  何  彪 三版责编：吴  刚  周  輖  谢佳宁 四版责编：袁振喜  刘静文  张雪妍 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172628&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172628.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172628.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：杨  旭  张帅祯  张宇杰 二版责编：林  琳  祁嘉润  何  彪 三版责编：吴  刚  周  輖  谢佳宁 四版责编：袁振喜  刘静文  张雪妍 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172628.html#[04版：要闻] 一版责编：杨  旭  张帅祯  张宇杰 二版责编：林  琳  祁嘉润  何  彪 三版责编：吴  刚  周  輖  谢佳宁 四版责编：袁振喜  刘静文  张雪妍</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：新青年] 让兴趣连接更广阔的世界（青年观察·解码青年文化风尚）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172585.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 一份热爱如何既带来相遇与成长，也在主流价值引领下拓展多元视野—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 让兴趣连接更广阔的世界（青年观察·解码青年文化风尚） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  吴储岐&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　第二十二届中国国际动漫节，观众在主会场参加动漫品牌展示交流活动。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  江  汉摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/350d7de0-97e3-4687-b747-c94cef87b834.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　年轻人在陕西西安一家拼豆店玩拼豆。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  邹竞一摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/846f4379-5105-4d9f-b682-2ff0096cb4c0.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/b362ce5b-2462-4f6e-ada1-fd80e86d8e60.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　小含把刚完成的绘画作品发到网上，即收到一条陌生人写下的长评。对方从人物关系谈到情节转折，又细细分析画面的表达。两个人从未见过面，对方却理解了她试图传递的内容。&lt;/p&gt;&lt;p&gt;　　“那个真心不像是假的。”小含说。&lt;/p&gt;&lt;p&gt;　　一幅画、一部音乐剧、一个喜欢的角色，借助互联网，如今都可能成为年轻人建立联系的起点。有人围绕共同爱好交流感受，有人从线上讨论走到线下见面，也有人一起创作、组织活动，从陌生人变成“同好”。数字平台提高了兴趣信息的传播和匹配效率，也一定程度上改变着青年认识彼此的路径。&lt;/p&gt;&lt;p&gt;　　共同兴趣拓展了青年表达自我、认识他人、参与文化生活的空间，也带来一系列值得观察的问题：它为何能够迅速拉近陌生人间的距离，又如何在创作、合作中转化为成长增量？当消费攀比、圈内评价和算法推荐影响选择，怎样以主流价值引领、丰富优质文化供给，帮助青年开阔视野、保持判断，让兴趣真正通向更广阔的生活？&lt;/p&gt;&lt;p&gt;　　共同兴趣，为何成为社交“快捷键”&lt;/p&gt;&lt;p&gt;　　在一篇观演记录中，星星写道，因为喜欢音乐剧，她结识了一些朋友。大家关注的演员并不完全相同，却可以相约看剧、讨论剧情，也会从舞台谈到学习和生活。&lt;/p&gt;&lt;p&gt;　　从剧场到商场，从咖啡店到夜宵店，那一带的路，星星已经熟到不用导航。有人从外地赶来，她们便一起观演、吃饭，原本围绕一场演出开始的交流，渐渐延伸到更多日常话题。&lt;/p&gt;&lt;p&gt;　　星星曾把音乐剧称作生活里的“短效调味剂”。观演带来的愉悦之外，她也会留意投入的时间和节奏。对她而言，音乐剧并非与其他生活隔开的空间，而是与学习、朋友交往和城市体验交织在一起。&lt;/p&gt;&lt;p&gt;　　共同兴趣之所以容易成为交往入口，首先在于它提供了具体话题。面对一个素不相识的人，直接讲述个人经历并不容易；谈一幅画、一段旋律或一个角色，则自然得多。年轻人不必从小心试探和客套寒暄开始，就能较快判断彼此是否有继续交流的基础。&lt;/p&gt;&lt;p&gt;　　中国人民大学学生就业创业指导中心主任丁莉婷把传统社会关系比作年轻人收到的“社交盲盒”。“班级同学、宿舍室友、亲戚同事，大多由既有生活场景带来；基于兴趣建立的关系，则具有更明显的自主选择特点。”她认为，借助互联网，年轻人可以主动寻找拥有相近审美和共同话题的人，也可以根据自身状态决定参与的深浅。&lt;/p&gt;&lt;p&gt;　　小含最初在网上发布作品，愿望并不复杂。画完一幅画，希望有人能看懂；读到一段精彩情节，也想找个人讨论。“闷头画、闷头收藏、闷头买，没人懂，就没什么意思。”她说。&lt;/p&gt;&lt;p&gt;　　她接受约稿时，有客户告诉她：“我特别喜欢你的风格，所以来找你约稿。”在小含看来，这既是一项创作服务，也包含审美上的认同。&lt;/p&gt;&lt;p&gt;　　大一学生盆子把共同兴趣称作人与人之间的一块“破冰石”。在角色扮演活动中，认出对方呈现的人物，或者发现彼此了解同一部较为冷门的作品，往往就能打开话题。“聊着聊着，会谈到课程难不难、考试有没有把握、最近遇到了什么烦心事。”盆子说。&lt;/p&gt;&lt;p&gt;　　不过，盆子也发现，共同爱好不会自动生成稳定关系。他认识过不少“同好”，真正能够长期来往，仍要看彼此的性格、价值观和生活节奏。&lt;/p&gt;&lt;p&gt;　　兴趣提高了相遇的效率，却没有改变人际交往的基本规律。共同话题可以把门打开，一段关系能继续向前，仍要靠相处中的尊重、责任和共同经历。“因兴趣形成的关系与同学、同事、亲友等既有关系并非相互替代，而是共同构成青年社会联系的不同部分。”中国青少年研究中心副研究员汪永涛说。&lt;/p&gt;&lt;p&gt;　　“基于兴趣形成的交往具有距离可调节的特点，年轻人既可以围绕某个话题保持相对轻松的联系，也可能在持续相处中分享更多生活经验。”丁莉婷认为，选择空间增加了，如何识别可靠的关系、理解人与人之间的差异，也成为青年需要学习的内容。&lt;/p&gt;&lt;p&gt;　　一份爱好，如何转化为成长增量&lt;/p&gt;&lt;p&gt;　　开始接受约稿后，小含遇到了新的挑战。&lt;/p&gt;&lt;p&gt;　　面对客户提出的需求，她首先要理解对方希望表达什么，把人物关系、情节和风格转化成画面，再听取反馈、调整细节。构图、配色和软件工具之外，理解需求、按约定完成任务，也成为创作的一部分。&lt;/p&gt;&lt;p&gt;　　最初，小含把作品发到网上，只是希望有人能够看懂。后来，小含在一次次创作和反馈中逐渐形成个人风格，也更加习惯与他人沟通、对作品负责。一份爱好由此从个人表达延伸为一项有要求、有反馈、需要认真完成的具体任务。&lt;/p&gt;&lt;p&gt;　　盆子的变化更多体现在表达和交往上。参与角色扮演活动，需要了解人物特点，准备服装和妆面，也要在现场展示、交流，有时还要向不了解相关作品的人介绍自己的想法。“心态上更自信了，不怯场，也更有胆量展示自己。”盆子说。&lt;/p&gt;&lt;p&gt;　　共同兴趣带来的积极影响，不能只用交友数量来衡量。数字平台和线下活动降低了创作和协作的门槛，一些年轻人由文化产品的观看者，逐渐成为创作者和传播者。&lt;/p&gt;&lt;p&gt;　　丁莉婷认为，围绕兴趣展开的共同创作和协作，本身就是社会生活的一部分。表达观点、接受反馈、与不同性格的人合作、共同推进一项任务，这些在爱好中提升的能力，会作用于学习、工作和公共参与。&lt;/p&gt;&lt;p&gt;　　兴趣有时也会把年轻人带向更深的学习。在角色扮演和服饰展示活动中，古代人物、传统服饰、戏曲形象受到关注。为了更准确地呈现人物，有人会查阅时代背景，了解衣冠形制、纹样寓意和礼仪规范。&lt;/p&gt;&lt;p&gt;　　持续的创作实践，也让小含逐渐看见职业发展的新可能。如今，她在一家网络文学与IP（知识产权）开发企业实习，为相关作品绘制文化衍生品图案。&lt;/p&gt;&lt;p&gt;　　“小时候，我根本不知道还有这样的职业。”小含说。兴趣没有替她预先决定未来，却让她在一次次实践中更加清楚自己的长处，也逐渐走进一个过去并不了解的行业。&lt;/p&gt;&lt;p&gt;　　兴趣参与能够增加成长的可能，但这种可能并不会自然兑现。是停留在观看和消费，还是进一步进入创作、合作和知识积累；是简单追随热门，还是形成相对成熟的审美和判断，都会影响一项爱好最终留下什么。&lt;/p&gt;&lt;p&gt;　　“既不必要求每一份爱好都产生可见成果，也不能让兴趣只剩下重复观看、购买和展示。”丁莉婷说，增加创作分享、知识讲解、合作实践等内容，能够让年轻人拥有更多从接受者走向参与者的机会。&lt;/p&gt;&lt;p&gt;　　让主流价值成为兴趣圈层的鲜明底色&lt;/p&gt;&lt;p&gt;　　丁莉婷把围绕共同兴趣、共同语言和相近参与方式形成的交往网络称为“圈子”或“圈层”。“圈层能帮助青年较快找到伙伴、交流知识，但内部标准一旦越来越单一，也可能把兴趣异化为身份比较。”她说。&lt;/p&gt;&lt;p&gt;　　小含见过一只被炒到两三千元的毛绒玩具。有人因价格高昂选择平价替代品，却被嘲笑“不算真爱”。在一些兴趣群体中，购买数量、花费金额和藏品是否稀缺，有时被赋予了超出消费和热爱本身的意义。&lt;/p&gt;&lt;p&gt;　　有专家认为，当消费金额、藏品稀缺度和参与资历被用来衡量热爱、区分身份，兴趣群体内部就容易出现失序。个人审美被价格取代，平等交流让位于相互比较，一份爱好也可能在从众压力下偏离热爱的本质。&lt;/p&gt;&lt;p&gt;　　另一种值得警惕的倾向，是相似的信息、观点、评价在圈内反复循环，参与者的视野在不知不觉中越收越窄。&lt;/p&gt;&lt;p&gt;　　小含做过一个小实验，专门注册一个几乎没有兴趣记录的新账号，看看没有以往浏览轨迹“指路”时，屏幕上会出现什么。内容果然有了变化。“平台推送的是基于算法推荐的内容，并不等于兴趣世界的全部。”她说。&lt;/p&gt;&lt;p&gt;　　汪永涛认为，算法能够提高信息匹配效率，但相近内容反复出现，也会使部分流行选择被误认为普遍共识。&lt;/p&gt;&lt;p&gt;　　怎样让兴趣既葆有活力，又不被单一标准或算法所局限？&lt;/p&gt;&lt;p&gt;　　首先需要青年自己迈出去。“喜欢音乐剧，不必把所有时间、话题和判断都交给它。”星星在观演记录中这样提醒自己。在她看来，能够倾听不同理解、尊重不同选择，才是兴趣交往应当留下的收获。&lt;/p&gt;&lt;p&gt;　　走出熟悉的圈子，并不是放下爱好，而是让兴趣接上真实生活。一场主题创作，可以把年轻人从屏幕带到博物馆和非遗工坊；一次兴趣交流，也可以延伸到社区服务和志愿活动。有人在展厅里寻找作品背后的历史，有人在共同做事中学习分工、守时和负责，兴趣由此连接起文化传承、社会责任和人与人之间的互助。&lt;/p&gt;&lt;p&gt;　　丁莉婷认为，青年不应只是文化内容的接受者，也可以成为价值的表达者。用绘画呈现中华优秀传统文化，用影像记录普通人的劳动，用文字讲述身边人的奋斗，在共同创作中学会分工、守信和负责，主流价值便会在一次次参与中内化和沉淀。&lt;/p&gt;&lt;p&gt;　　青年主动拓展视野，还需要更加健康、丰富的信息环境。有专家表示，应让优质创作、知识分享、互助合作、跨领域内容得到更多展示，减少对冲突、攀比内容的放大，让青年在获得感兴趣内容的同时，也能接触不同领域和不同观点。&lt;/p&gt;&lt;p&gt;　　主流价值浸润青年兴趣生活，已成为日常。小含把绘画爱好延伸到文化衍生品创作中。抽象的文化理念，正是在一次查阅、一幅作品、一次交流中变得可感可知。&lt;/p&gt;&lt;p&gt;　　汪永涛建议，多用青年熟悉的语言和形式，把国家发展、社会进步、中华优秀传统文化和普通人的奋斗讲得真实可感，让主流价值抵达青年内心，成为青年成长发展的精神坐标。&lt;/p&gt;&lt;p&gt;　　当优质内容不断拓展视野，真实实践不断校准认识，青年便能既珍惜自己的热爱，也不被圈子视域所裹挟，让兴趣真正成为认识社会、增长本领、汇聚力量的支点之一。&lt;/p&gt;&lt;p&gt;　　（文中小含、星星、盆子均为化名，王乐乐参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  吴储岐&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 一份热爱如何既带来相遇与成长，也在主流价值引领下拓展多元视野—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172585&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172585.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172585.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 让兴趣连接更广阔的世界（青年观察·解码青年文化风尚） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172585.html#[05版：新青年] 让兴趣连接更广阔的世界（青年观察·解码青年文化风尚）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：新青年] 心怀热爱  向上生长（记者手记）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172586.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 心怀热爱  向上生长（记者手记） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							吴储岐&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　采访前，我并不完全理解，为什么一些年轻人会为一部音乐剧、一个角色、一幅画投入那么多时间和精力。真正走近他们后，我看到，一份看似小众的爱好，可以帮助青年结识朋友、建立自信、学习创作，甚至打开职业选择的窗口。兴趣不是青春生活的边角，它正在参与塑造青年看待自己和世界的方式。&lt;/p&gt;&lt;p&gt;　　采访中我意识到，兴趣需要热情，也需要边界和方向。如果消费多少成为身份标准，算法又不断推送相似内容，个人审美就容易被价格和流量牵着走，开阔视野也可能被熟悉的声音遮蔽。这样的兴趣不但难以长久，也会削弱它本应带来的创造、交流和成长价值。&lt;/p&gt;&lt;p&gt;　　更愿意看到，主流价值融入青年喜爱的作品和活动，落到他们乐于投入的实践中。在具体而真实的生活里，青年感受劳动、责任、诚信、友善和奉献，视野因优质内容而开阔，判断因社会实践而坚定。个人热爱由此与时代生活相连，转化为向上向善的青春力量。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;吴储岐&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172586&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172586.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172586.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 心怀热爱  向上生长（记者手记） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172586.html#[05版：新青年] 心怀热爱  向上生长（记者手记）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：新青年] 闯“无人区”，做深耕者（青年观）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172587.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 闯“无人区”，做深耕者（青年观） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							刘博通&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　7月23日，第二十一届菲尔兹奖得主名单揭晓。中国青年数学家王虹和邓煜双双获奖，实现了中国籍学者在该奖项零的突破。在获奖后，王虹一句寄语戳中了不少人的内心：“希望大家都鼓起勇气，勇敢地去做自己喜欢做的事情。”&lt;/p&gt;&lt;p&gt;　　儿时与数学结缘，考上北大后通过转专业考试进入数学科学学院，也有过探索中的自我怀疑……回看王虹的成长轨迹，支撑人生突破的，除了兴趣和自身的天赋，还有发自热爱的“长期主义”和勇闯“无人区”的胆识气概。&lt;/p&gt;&lt;p&gt;　　做这个事情有什么意义？学这个专业有什么用处？钻研这项爱好能不能带来收益？当下，一些青年朋友在进行学业、职业等重大抉择时，会遇到“有用无用”的“功利拷问”。事实上，“有用无用”的价值评判，往往要置于更长的时间维度中，才能看得真切。面对一名高中生提出学数学有什么意义的疑问，数学家丘成桐回复：对看似“无用的知识”的追求，会出乎意料地成为“超乎梦想之应用”的源泉。从“人造太阳”EAST创造“亿度千秒”世界纪录，到运载火箭首次实现可控回收，再到人工智能大模型持续升级……近年来的一项项科技创新，背后都蕴藏着数学等基础研究“十年磨一剑”的深层力量。&lt;/p&gt;&lt;p&gt;　　欲筑室者，先治其基。青年时期，无需一味追逐“热门”，不妨大胆地探寻一些“无用之用”，沉下性子多做一些基础性的工作。那些深耕沉淀的岁月，看似无声无息，实则夯实了托举理想向上生长的地基。&lt;/p&gt;&lt;p&gt;　　国家的发展离不开“从0到1”的原始创新，个人的成长离不开敢为人先的闯劲冲劲。中国科学院物理研究所研究员陆雅翔，面对钠离子电池层状氧化物正极材料“怕空气”这一困扰业界多年的难题，与团队成员一道经历无数次失败和推倒重来，终于跨越科研鸿沟。射击奥运冠军盛李豪，穿着10多斤重的射击服一站就是几个小时，在看似枯燥的训练中保持专注，攀登一座座高峰。随着许多领域从跟跑、并跑到领跑，如今的中国青年，更有信心底气平视世界、与各个国家的年轻人同台竞技。更多的“无人区”，呼唤着新时代青年立青春宏志，扬青年心气，以虽千万人吾往矣的锐气和直面失败的韧性，奔赴前人未曾踏足的旷野。&lt;/p&gt;&lt;p&gt;　　志不求易者成，事不避难者进。真正的坚持，包容迷茫、允许折返，在不断尝试、自我审视中锚定内心方向。在攻读硕士期间，王虹一度考虑“转行”，去了一家建筑师事务所实习。经过一段时间的抽离，她决定将自己最具创造力的年华投入数学研究。从事的事业卡壳了，怎么办？坚持梦想不是苦熬，而是重整旗鼓，继续出发。于进退之间守住本心，于张弛转换中积蓄力量，终能在风雨后遇见彩虹。&lt;/p&gt;&lt;p&gt;　　年轻人追逐梦想，实现个人成长与社会发展同频共振，还需社会提供充足养分和成长土壤。近年来，各地践行“投资于人”，加大住房、养老、托育等方面的配套服务，减轻青年干事创业的现实包袱。同时我们也期待，多一些容错机制和支持举措，不唯短期成效、包容试错探索，支持青年敢闯事业“无人区”，让长期深耕、奋勇争先的追梦之路更有底气。&lt;/p&gt;&lt;p&gt;　　今年是“十五五”开局之年，青年建功正当其时。如今的中国，拥有丰富的应用场景、开放的创新生态、完整的产业链条，为广大青年人大展身手提供了广阔的舞台。当青年们坚守心中热爱，在沉淀中增强底气，以日拱一卒的坚持贴近梦想，终究能在时代沃土中成为更美好的自己。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;刘博通&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172587&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172587.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172587.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 闯“无人区”，做深耕者（青年观） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172587.html#[05版：新青年] 闯“无人区”，做深耕者（青年观）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：新青年] 扬州大学有群“田管家”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172588.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 扬州大学有群“田管家” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  尹晓宇&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　江苏省盐城市响水县小尖镇小广村的连片农田里，扬州大学农学院的博士生王建亮正在操作一架无人机巡田。70多岁的种植户王先生眺望着无人机飞行的方向。&lt;/p&gt;&lt;p&gt;　　从无人机巡田跟踪苗情，到利用“处方施肥模型”精准测算出不同地块的施肥量，再到无人植保机实现精准施肥，在扬州大学“田管家”科技助农团队（以下简称“田管家”）的帮助下，这几年，王先生家的田增收明显。“每亩小麦可以多收100多斤。”种植户王先生说。&lt;/p&gt;&lt;p&gt;　　扬州大学农学院教授、“田管家”负责人马斌介绍，“田管家”成立于1986年，目前有56人，其中35周岁以下青年占比87%。&lt;/p&gt;&lt;p&gt;　　“问题从田里来，带到课堂上去学习研究，再到田里去验证实践，把青春的汗水洒在服务乡村全面振兴的田间地头。”马斌说。&lt;/p&gt;&lt;p&gt;　　扬州大学博士生臧宇光本科开始就作为“田管家”成员来到响水的田间地头，他发现农户们在种植水稻的时候，为了获得更高的产量就会多施很多氮肥，结果出现了叶子长得很旺，但是空瘪粒较多的情况，反而达不到预期的产量。臧宇光把这个“水稻滞绿”问题带回学校，在老师的指导下研究，前后跟踪了3年，终于找到了解决方案，这个技术又被他带回到田间帮助农户改进种植方式，获得了不错的效果。如今，他的试验田里正种着麦苗，通过11种栽培方式来研究如何改良土壤、提高氮的利用率、减少碳排放等问题。&lt;/p&gt;&lt;p&gt;　　“田管家”的身影不仅在江苏，还服务了贵州、海南等外省农户。博士生朱昌进在贵州帮助当地改进水稻育秧方法和机插技术，大幅提高当地水稻产量和种植效益；博士生王楚鑫和同学们在海南的扬州大学南繁基地一边做科研，一边帮附近的农户筛选优质水稻品种，还教会他们采用抛秧的方法进行水稻种植。&lt;/p&gt;&lt;p&gt;　　经过近40年的发展，“田管家”参与创立了“水稻籽粒灌浆的生理机理和调控”等15项前沿理论与技术，累计推广应用超3.15亿亩次。近5年来，团队持续为18家大型农场和数百个家庭农场提供技术培训，累计培养高素质农民1.2万余名，有效提升了农户们的技能水平。2025年，“田管家”被评为2025年度江苏省“新时代好青年”。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  尹晓宇&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172588&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172588.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172588.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 扬州大学有群“田管家” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172588.html#[05版：新青年] 扬州大学有群“田管家”</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：新青年] 本版责编：易舒冉</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172589.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：易舒冉 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：张芳曼 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172589&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172589.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172589.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：易舒冉 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172589.html#[05版：新青年] 本版责编：易舒冉</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：国防] 以“第一”之名赴强军之约（强军路上）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172590.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 以“第一”之名赴强军之约（强军路上） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/66866e85-8090-400d-ac30-2b6afefa295e.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　运—20A飞机在飞行中释放干扰弹。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　刘  川摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/66866e85-8090-400d-ac30-2b6afefa295e.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/b8153c98-62ee-4409-82c1-c22f94997d6a.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　火箭军某部官兵正在集结登车。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　刘志词摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/b8153c98-62ee-4409-82c1-c22f94997d6a.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/628e90a4-d8cd-48bd-ba6a-8723503c68f9.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　武警安徽总队合肥支队官兵在进行丛林搜索训练。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　徐  伟摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/628e90a4-d8cd-48bd-ba6a-8723503c68f9.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/173e8560-7159-4afe-a520-34cef647b451.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　海军某部官兵在进行舰载机起降流程训练。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　姜  涛摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/173e8560-7159-4afe-a520-34cef647b451.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/a80f726d-d120-4c0d-af3d-2a9098baa343.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　武警广西总队来宾支队士兵在训练中快速通过低姿网。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　果志远摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/a80f726d-d120-4c0d-af3d-2a9098baa343.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/f328af49-d673-4b22-b25d-76b1d2f011b7.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　陆军某旅官兵在野外进行重机枪实弹射击训练。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　崔获阳摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/f328af49-d673-4b22-b25d-76b1d2f011b7.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/87304c78-2908-4f5a-8d31-ebd3508f6c53.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　火箭军某旅在演训中进行实弹发射。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　刘明松摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/87304c78-2908-4f5a-8d31-ebd3508f6c53.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/bfceefdc-6617-4f7d-b8b2-7d711829afa5.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　我国第一艘国产电磁弹射航母福建舰在首航试验中。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　丁子羽摄（新华社发）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/bfceefdc-6617-4f7d-b8b2-7d711829afa5.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　今年是中国人民解放军建军99周年，也是打好实现建军一百年奋斗目标攻坚战的关键一年。走过九十九载峥嵘岁月，人民军队历经硝烟战火，一路披荆斩棘，付出巨大牺牲，取得一个又一个辉煌胜利，为党和人民建立了伟大的历史功勋。&lt;/p&gt;&lt;p&gt;　　从三湾改编的军魂奠基，到万吨大驱的逐梦远航；从抗美援朝的长空首捷，到大国长剑的战略支撑……岁月长河中，一支支冠以“第一”的功勋荣誉部队敢于斗争、敢于胜利，打出了战史上的赫赫威名；走进新时代，“首支”“首艘”等新域新质力量赓续红色血脉，以过硬本领守护万里山河。&lt;/p&gt;&lt;p&gt;　　大道如砥，行者无疆。本期特别报道，让我们一起走进5支先锋力量，聆听他们紧盯科技之变、战争之变、对手之变，向着实现建军一百年奋斗目标勠力攻坚、奋楫争先的故事。&lt;/p&gt;&lt;p&gt;　　——编  者 &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　陆军第83集团军某旅“红一连”——&lt;/p&gt;&lt;p&gt;　　让红色基因代代相传&lt;/p&gt;&lt;p&gt;　　本报记者  李龙伊&lt;/p&gt;&lt;p&gt;　　“红一连”诞生于1927年秋收起义，三湾改编期间，毛泽东同志在该连队亲自发展了6名党员，建起了我军第一个连队党支部。&lt;/p&gt;&lt;p&gt;　　陆军第83集团军某旅“红一连”连史馆里，一群新战士正围在一座浮雕前，驻足凝视。浮雕上，刻画的是毛泽东同志带着6名新党员举起右拳宣誓。灯光打下来，映照着浮雕上的每张脸庞。&lt;/p&gt;&lt;p&gt;　　从三湾改编时起，“党指挥枪”这4个字就铭刻进“红一连”官兵的骨子里。90多年来，连队始终保持“军魂发源地”的忠诚本色，风风雨雨跟党走，千难万险不回头。&lt;/p&gt;&lt;p&gt;　　去年深秋，一场实兵演习打到最关键的时候，“红一连”奉命穿插敌后。夜黑得像墨汁泼过，山路被雨水泡成了泥浆。出发前，指导员把全连带到那座雕塑前，鼓励大家说：“当年先辈在枪林弹雨里入党，今天我们摸黑走段山路，算什么？”&lt;/p&gt;&lt;p&gt;　　黑夜里，大家奋勇向前。战士刘洋在奔袭途中崴了脚，脚踝肿起来，几次差点跪倒在泥里。班长让他原地待援。刘洋咬着牙摇头：“我能走。”他一瘸一拐地跟着队伍，硬是没掉队。最终，全连提前15分钟抵达穿插点位，为胜利撕开了口子。&lt;/p&gt;&lt;p&gt;　　演习复盘，刘洋说了一句话：“党员在，党支部就在；党支部在，方向就在。”这句话，说出了“红一连”全体官兵心中共同的信念：党在心、枪在手，军旗永随党旗走。&lt;/p&gt;&lt;p&gt;　　每季度，连队都会评选6名优秀共产党员——这个数字，与当年湖南水口叶家祠阁楼上的6名先辈遥相呼应。训练场上，险难课目党员骨干最先上；生活里，每名党员帮带一名新兵；党支部每周开一次“炕头会”——这是战争年代传下来的习惯，不设讲台、不念稿子，坐在床铺上，谁有困难当面说、当面议，推动问题解决。&lt;/p&gt;&lt;p&gt;　　从连史馆出来时，夕阳正把训练场照成一片金黄。战士们跑400米障碍，一个个跃起、翻过、冲刺，呐喊声响在暮色里。&lt;/p&gt;&lt;p&gt;　　晚风吹起，送来“红一连”连歌：“我们在军魂发源的地方，扛起忠诚无畏的担当。让那百战百胜的战旗，永远高高飘扬……”忠诚的基因，深深刻在每一名士兵的骨子里，一代代传下去。&lt;/p&gt;&lt;p&gt;　　（胡瑞智、覃肇朋参与采写）  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　海军南昌舰——&lt;/p&gt;&lt;p&gt;　　在踏浪蹈海中锤炼意志&lt;/p&gt;&lt;p&gt;　　本报记者  金正波&lt;/p&gt;&lt;p&gt;　　南昌舰，舷号101，是我国第一艘自主研制的055型万吨级驱逐舰。迄今为止，人民海军列装的万吨大驱已达到10艘。&lt;/p&gt;&lt;p&gt;　　太平洋某海域，波谲云诡，南昌舰高速犁浪，正在开展实战化对空抗击演练。&lt;/p&gt;&lt;p&gt;　　“不明目标快速向我接近”，舰空导弹控制室内，二级上士乔鹏紧盯目标态势，研判运动轨迹，预先制定打击方案。机会转瞬即逝，乔鹏综合各方信息，瞅准时机按下发射按钮，目标被成功击毁。&lt;/p&gt;&lt;p&gt;　　入列6年来，乔鹏与战友们披荆斩棘，在一次次实战淬火中磨砺硬功，撑起南昌舰戍卫海天的防空网。&lt;/p&gt;&lt;p&gt;　　“我还记得第一次准备打导弹时，手抖得不停，真正打出去反而释然了。”那年，乔鹏刚担任班长，就领受实射多枚舰空导弹的重要任务，他带领平均年龄23岁的团队，夜以继日推演方案，有时吃饭还要念叨几句口令。他知道，责任重千钧，战场上容不得半点马虎。&lt;/p&gt;&lt;p&gt;　　演习当天，乔鹏指挥战友们准确锁定目标，数枚导弹直刺苍穹，精准命中来袭目标。&lt;/p&gt;&lt;p&gt;　　在南昌舰，从上到下仿佛有一种默契，他们习惯用风浪锤炼意志，用“脚板”弥补“短板”。&lt;/p&gt;&lt;p&gt;　　一次夜间训练时，燃机的轰鸣声突然响彻机舱。三级军士长于德刚赶来时，发现燃机箱体有黄色滑油溢出。情况危急，于德刚立即与战友一同全力处置，直至舰艇减速停机。停机后，破损管路没有备件，他便用所学知识加急赶工，弯管、打磨、调整……几个小时后，一个崭新的备件制作安装成功，挽救了舰艇“心脏”，确保任务顺利进行。&lt;/p&gt;&lt;p&gt;　　几年来，于德刚带领班员从基础练起，既要精通理论，又要熟悉装备性能，掌握各项实操本领，处置10余次装备突发事故，不断向胜战打赢冲锋。&lt;/p&gt;&lt;p&gt;　　如今，新一代南昌舰作战系统高度集成、动力系统升级换代，具有强大的综合作战能力。干部池建军说，作为055型万吨大驱首舰，南昌舰一次次驭涛万里，一次次穿越风浪，不断磨砺胜战本领，实战能力持续跃升。&lt;/p&gt;&lt;p&gt;　　（吴頔参与采写）  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　空军“强军先锋飞行大队”——&lt;/p&gt;&lt;p&gt;　　飞别人没有飞过的航线&lt;/p&gt;&lt;p&gt;　　本报记者  任彤彤&lt;/p&gt;&lt;p&gt;　　“强军先锋飞行大队”所在部队前身作为抗美援朝战争中首支取得空战胜利的英雄部队，创下人民空军空战第一捷的辉煌战绩。&lt;/p&gt;&lt;p&gt;　　炎炎烈日，北部战区空军某部机场，数架战机接续升空。多机编队复杂电子对抗演练随即展开，飞行员综合作战能力与技战术水平面临全方位考验。&lt;/p&gt;&lt;p&gt;　　“1951年，在抗美援朝作战一线，时任大队长李汉首战击伤敌机，再战击落敌机。”该部领导表示，“作为一支历史厚重的英雄部队，我们必须加力奋飞，肩负起党和人民赋予的新时代使命任务。”&lt;/p&gt;&lt;p&gt;　　走进飞行一大队荣誉室，一件件展品虽历经岁月洗礼，依然熠熠生辉。&lt;/p&gt;&lt;p&gt;　　新时代以来，该部官兵驾驭战鹰飞远海、越高原，突出实战实训，敢于亮剑争锋，始终是守护祖国空天安全的空中利刃。&lt;/p&gt;&lt;p&gt;　　一次对抗空战竞赛考核中，该部两名飞行员凭借过硬战术素养，从中距对抗阶段便主动前压，持续压缩对手活动空域。“激战”中，一架战机突然被对手“咬尾”锁定，千钧一发之际，另一名飞行员掉转机头与对手迎头对飞，同时“发射导弹”攻击，最终取得了胜利。此次考核，他们以8战全胜的战绩夺得“金头盔”。&lt;/p&gt;&lt;p&gt;　　“战场打不赢，一切等于零，赓续血脉归根结底是要锻造出过硬的打赢本领。”该部参谋葛俊淼说，每次训练归来，飞行员们都会直奔讲评室开展复盘，一起分析数据，探讨飞行动作。&lt;/p&gt;&lt;p&gt;　　“那次返航时，航油警报已亮起红灯。”该部参谋袁文举回忆起一次跨区机动任务，飞行员驾驶战机在陌生机场连续起降，跨越多个地域，面临夜间长航、极限油量等多重困难。&lt;/p&gt;&lt;p&gt;　　“我们凭着一股信念，硬是闯了过来。”袁文举说，那次任务中，他们的训练数据实现全面突破，成为空军当年第一个完成此项训练课目的部队。&lt;/p&gt;&lt;p&gt;　　“要无愧‘先锋’称号，就必须飞别人没有飞过的航线，尝试别人没有尝试的领域。”该部领导表示，要把英雄基因融入血脉，以只争朝夕、时不我待的精神，推进部队高质量发展。&lt;/p&gt;&lt;p&gt;　　（王学峰、李士全参与采写）  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　火箭军“东风第一旅”——&lt;/p&gt;&lt;p&gt;　　将胜战本领练到极致&lt;/p&gt;&lt;p&gt;　　本报记者  任彤彤&lt;/p&gt;&lt;p&gt;　　“东风第一旅”是我军第一支地地战略导弹部队，是执掌大国重器的“硬核”力量。&lt;/p&gt;&lt;p&gt;　　“号手就位！”盛夏时节，导弹阵地上，随着指挥号令响起，一场“战斗”打响。火箭军“东风第一旅”某营官兵迅速冲向战位，依令开展精准操作，展开设备、数据检测、设备安装……演练动作干脆利落，作战流程快速推进。&lt;/p&gt;&lt;p&gt;　　当“发射”进入关键阶段，某仪器设备突发“故障”。这时，专业组长任杰一边仔细关注各项相关数据变化，一边快速下达口令，指挥号手协同开展排故。没过多久，故障成功排除，导弹顺利“点火发射”。&lt;/p&gt;&lt;p&gt;　　“这样复杂的练兵场景，我们早已习以为常。”任杰说，“东风第一旅”是我军第一支地地战略导弹部队。在新中国蹒跚起步的艰难岁月里，他们临危组建，白手起家，开创了战略导弹部队的先河，打出了扬眉吐气的“争气弹”。&lt;/p&gt;&lt;p&gt;　　这些年来，该旅官兵牢记使命，不改初心，先后数十次完成重大演训演练等任务，成为守护祖国和人民的坚强盾牌。&lt;/p&gt;&lt;p&gt;　　一次演练中，号手们需要身穿厚重的防护服，在密闭空间内完成各项操作。&lt;/p&gt;&lt;p&gt;　　几个小时过去，新兵王明浑身被汗水湿透，防毒面具的紧固带在他脸上留下道道勒痕，高强度的跑动让他感到呼吸困难……操作间隙，王明对任杰小声说：“班长，我有点坚持不住了。”任杰一边为他加油打气，一边时刻关注他的身体情况，帮助他逐渐调整好状态。最终，全营官兵凭借强大意志力，克服心理和生理的多重考验，顺利完成任务。&lt;/p&gt;&lt;p&gt;　　“平时练到极致，战时才能不被强敌压制！”该旅领导介绍，他们常态化模拟战时装备受损、号手减员等各类极端情况，每一轮次训练结束后，立即开展复盘，补齐能力短板。面对装备不断升级等现实挑战，广大官兵成立多个专业攻关小组，逐个装备完善操作规程，开展强化训练，跑出备战强能“加速度”，按下战斗力建设“快进键”。&lt;/p&gt;&lt;p&gt;　　（韩知霖、杨元超参与采写）  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　武警北京总队国宾护卫中队——&lt;/p&gt;&lt;p&gt;　　以精湛技术护大国威仪&lt;/p&gt;&lt;p&gt;　　本报记者  李龙伊&lt;/p&gt;&lt;p&gt;　　国宾护卫中队，是我国唯一担负外国元首、政府首脑等国宾摩托车护卫任务的礼仪部队，被誉为“中华第一骑”。&lt;/p&gt;&lt;p&gt;　　7月1日，笔直宽阔的长安街上，21辆礼宾摩托，护卫着载有“七一勋章”获得者的车辆，平稳驶向人民大会堂。骑在摩托车上的国宾护卫中队队员，身着白色礼服，身姿挺拔如松，成为一道流动的“风景线”。&lt;/p&gt;&lt;p&gt;　　一次次惊艳亮相，是日复一日严苛训练换来的。298公斤，是摩托车的重量，也是每名队员必须迎接的挑战。想驾驭这个“铁疙瘩”，得从最笨的功夫练起——推车。要完成推车3公里跑课目，必须找准发力点、平衡操控车辆。“胳膊经常疼得抬不起来，很多战友睡着了还梦见自己在推车。”回忆起训练时的感受，战士许宇鹏记忆犹新。&lt;/p&gt;&lt;p&gt;　　想成为合格的国宾护卫队员，还要经历驾驶准备、基础驾驶、特技驾驶、战术基础、战术应用、编队演练六大模块的艰苦训练，通过严格的“淘汰制”考核。“这个过程，平均需要驾驶摩托车训练行驶2.2万公里，一般需要两年甚至更长时间的训练。”中队长张超介绍，“训练中摩托车轮胎磨损相当严重，中队每年消耗使用轮胎600多条。”&lt;/p&gt;&lt;p&gt;　　“铁心向党，铁骑当先，铁骨铮铮！”每天清晨，张超都会领喊中队的忠诚誓言，以开启一天的训练。最难熬的是盛夏。摩托车表面温度逼近70摄氏度，骑在上面像抱着一团火，头盔密不透风，汗淌下来糊住眼睛，动作不能走样，队形不能散。寒冬也不好受，礼宾服看着笔挺，其实单薄，风像刀子一样往里钻，手冻得发僵，油门和离合的配合却不能差一丝……&lt;/p&gt;&lt;p&gt;　　苦练世上无双技，敢当“中华第一骑”。北京亚太经合组织（APEC）会议、金砖国家领导人厦门会晤、“一带一路”国际合作高峰论坛……年轻的战士们驾驶铁骑，始终保持着任务中“零失误、零差错、零闪失”纪录。“作为国宾护卫队队员，使命光荣，肩头责任也沉甸甸。我们会继续追求极致、力求完美，圆满完成每一次护卫任务。”中队指导员李哲说。&lt;/p&gt;&lt;p&gt;　　（尹博、姬淼参与采写） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172590&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172590.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172590.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 以“第一”之名赴强军之约（强军路上） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172590.html#[06版：国防] 以“第一”之名赴强军之约（强军路上）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：国防] 本版责编：任彤彤</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172591.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：任彤彤 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：蔡华伟 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172591&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172591.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172591.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：任彤彤 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172591.html#[06版：国防] 本版责编：任彤彤</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：人文] 文学创作不再是专业作家独有的领域（人文对话）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172592.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 从鲁迅文学奖看创作新趋势—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 文学创作不再是专业作家独有的领域（人文对话） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  刘  阳&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/52403972-0c43-4e0e-b449-9485c2d72061.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　第九届鲁迅文学奖获得者季栋梁。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/52403972-0c43-4e0e-b449-9485c2d72061.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/63194e32-7583-462d-acb0-e473d6875728.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　第九届鲁迅文学奖获得者艾平。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/63194e32-7583-462d-acb0-e473d6875728.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/752db4bb-6ddf-419d-b595-c45bc6c714e6.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　第九届鲁迅文学奖获得者全勇先。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/752db4bb-6ddf-419d-b595-c45bc6c714e6.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/c342d0e9-6522-4129-9cb7-b5312c87d2bf.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　第九届鲁迅文学奖获奖作品《遵义三日》。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　以上图片均为中国作协提供&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/c342d0e9-6522-4129-9cb7-b5312c87d2bf.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/d3b1f82b-5149-46e9-b338-f86449c8e615.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　第九届鲁迅文学奖获奖作品《低处飞行》。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　常中正摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/d3b1f82b-5149-46e9-b338-f86449c8e615.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　日前，第九届鲁迅文学奖揭晓。作为中国文学的最高荣誉之一，每一届鲁迅文学奖的评选结果都备受关注。而今年，第九届鲁奖的获奖结果实现了破圈传播，成为社会话题，引发广泛反响。&lt;/p&gt;&lt;p&gt;　　第九届鲁迅文学奖的获奖名单是如何产生的？从本届鲁迅文学奖的评选中，可以看到文学创作呈现出怎样的风貌和趋势？本期，我们邀请3位第九届鲁迅文学奖评委，请他们谈谈评奖感受，解答读者疑问，回应社会关切。&lt;/p&gt;&lt;p&gt;　　——编  者 &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　主持人：&lt;/p&gt;&lt;p&gt;　　本报记者  刘  阳&lt;/p&gt;&lt;p&gt;　　对话嘉宾：&lt;/p&gt;&lt;p&gt;　　第九届鲁迅文学奖评委、云南省作家协会主席  范  稳&lt;/p&gt;&lt;p&gt;　　第九届鲁迅文学奖评委、福建师范大学教授  陈培浩&lt;/p&gt;&lt;p&gt;　　第九届鲁迅文学奖评委、大连育明高级中学语文正高级教师  程玉玲&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　评奖机制革新，进一步确保公平公正&lt;/p&gt;&lt;p&gt;　　记者：第九届鲁迅文学奖在评奖机制上有什么特点？与以往相比有哪些不同？如何确保评奖的公平公正？&lt;/p&gt;&lt;p&gt;　　范稳：我认为，本届鲁奖评选在中国作协的领导下，始终秉持大文学观立场，从评委会的构成到评选作品的范围，均体现出海纳百川、紧随时代、贴近生活、公平公正的原则。&lt;/p&gt;&lt;p&gt;　　评委会既有专家评委——作家、评论家、高校文学教授等，也有中学教师、文化传媒等方面的大众评委。我所在的中篇小说评委会里，就有一位来自安徽省淮北市一中的语文教师，他从中学语文教学、学生阅读等角度解析参评作品，为我们带来了不一样的评判视角。多元化的评委会组成也让评选视野更为广阔，评选标准更加严格。5轮评比筛选，每部作品都经过从通读到细读，从细读到精读，反复讨论比选，仔细斟酌剖析。无论是纯文学作品，还是类型文学、网络文学，评委们以文本为基础，对其思想性和艺术性进行研判，努力让评选出来的作品都能体现出新时代文学开拓创新、繁荣发展的新面貌。&lt;/p&gt;&lt;p&gt;　　陈培浩：评奖是否公平公正是人们最关心的问题之一。程序设计和评奖机制对此影响最大。事实上，在集中评审之前，评委们提前一个多月就开始了阅读。集中评奖期间，大家更是心无旁骛，按照工作进度阅读、讨论。&lt;/p&gt;&lt;p&gt;　　就我的感受和观察，本届鲁奖在评奖机制上有这样一些新特点：一是评委根据相关条件从评委库随机抽取，所以这次有很多新面孔，打破了以往社会上关于评奖“圈子化”的质疑。二是大众评委的加入，也是本次评奖机制上的亮点。以往评委全是文学创作及评论界专家，这次语文教育一线的教师及媒体界人士也参与进来。他们的加入优化了评委结构，打破了审美局限，还带来不一样的视角，客观上促进了大文学观在评审中的落实。三是评奖关键阶段手机集中保管制度，让评委们屏蔽了外界干扰，更专心、安静、从容，更有利于公平公正评奖。四是主动借助科技手段对参评作品进行原创性鉴定与把关，遵照评奖条例，郑重、认真、公正对待每一部作品，取得了很好效果。五是增加推荐作品数量、拓展申报渠道，网络首发优秀作品可直接参评等新举措，让更多好作品有机会进入评奖视野，保障推荐环节的公平公正。&lt;/p&gt;&lt;p&gt;　　程玉玲：作为一名高中一线教师，我和其他5位大众评委都是本届评奖机制革新产生的幸运儿。和以往相比，本届鲁奖第一次吸纳了中学一线语文教师。中国作协相关负责同志在电话中对我说：“我们今年的变革就是邀请在语言文字一线深耕，有成绩、有影响的中学老师加入到评审专家队伍。相信你们的专业能力，更重要的是评审需要你们的读者视角，这对于获奖作品的传播会起到很重要的作用。”要我总结今年评奖机制的特点，我觉得是既站在高处也落到实处：评审专家有资深作家、出版专家、大学学者，也有立足教学一线的中学教师。&lt;/p&gt;&lt;p&gt;　　至于如何保证评奖公平公正，我了解到本届鲁奖评奖办公室遴选评委严格落实“无关联”，要求评委与参评作者无关联，与推送单位无关联。评奖工作中严格要求民主开放。评委对作品要认真阅读，形成自己的意见，研讨时大家充分交换意见。评审工作中，我们经常在预定的研讨时间之外临时加早会或晚会，有的作品会经过多轮研讨、多个维度研判，直到达成共识。&lt;/p&gt;&lt;p&gt;　　一场大众均可参与的文学巡礼&lt;/p&gt;&lt;p&gt;　　记者：从本届鲁迅文学奖的获奖作品来看，近年来文学创作和文学队伍呈现出哪些新的特点和趋势？&lt;/p&gt;&lt;p&gt;　　范稳：总体来看，本届鲁奖获奖作品时代特色鲜明，历史书写视角独特，文化底蕴丰厚，艺术探索新颖，风格形式多样。在反映现实、贴近生活、传承文明、钩沉历史诸方面，既有文学高度，也有人间温度，是对近4年来文学队伍的一次集中检阅。老、中、青作家，不同文学类型的作家同台竞技，集中亮相，让我们感受到文学殿堂不再是象牙之塔，而是一场大众均可参与的文学巡礼。每部获奖作品都从不同层面诠释了大文学观视域下的时代特点和蓬勃发展趋势。&lt;/p&gt;&lt;p&gt;　　陈培浩：这些新特点和趋势体现为：一是新大众文艺崛起，既有流量，又有精品，不少作品完成了从新质突围到优质创造的转变，令人期待，予人启发。二是现实主义写作持续走向深化，现实主义观念变得更加辽阔丰富，既有大国重器、乡村振兴、人与自然，也有凡人日常、养老看护、青少年心理危机等。三是资深作家老当益壮、精彩不断，中生代作家中流砥柱、承上启下，青年作家敢为人先、异彩纷呈。&lt;/p&gt;&lt;p&gt;　　程玉玲：百花齐放是我最直观的感受。从作品角度，阅读参赛的报告文学作品让我特别长见识。我最早接触的报告文学作品是魏巍的《谁是最可爱的人》，近些年常教学的是夏衍的《包身工》，所以我心目中的报告文学还是比较“传统”的。阅读参赛的370多部作品，我发现除了传统写法，一些作品有新的写作思路，比如跨文体和非虚构，梁鸿的获奖作品《要有光》就是一部优秀的非虚构作品。从作家角度，深耕文坛的老将老当益壮，新兵头角峥嵘。而有很多非职业作家甚至非中文专业出身的人为文著书，成了一种让人惊喜的趋势。&lt;/p&gt;&lt;p&gt;　　文学与影视合力共生，各有精彩&lt;/p&gt;&lt;p&gt;　　记者：本届鲁迅文学奖的一些提名和获奖作家，也长期深耕影视创作领域，他们的部分文学作品被改编成影视作品，并获得观众喜爱。近年来，文学与影视的关系越来越密切，作品转化越来越多。您怎么看待这种现象？&lt;/p&gt;&lt;p&gt;　　范稳：文学是一切艺术形式之母体。无论是重述历史还是反映现实，文本质量高、基础好的文学作品，都具备影视转换的可能性。&lt;/p&gt;&lt;p&gt;　　优秀的文学作品借助影视，可以扩大知名度，增强社会效应，繁荣社会主义文艺。获得过茅盾文学奖、鲁迅文学奖等国家级奖项的文学作品，影视转换率一般都比较高。比如，路遥的《平凡的世界》、陈忠实的《白鹿原》，以及梁晓声的《人世间》、金宇澄的《繁花》等。前不久，陈彦的《主角》改编的电视剧热播后，吸引更多人阅读原著。现在中短剧盛行，如果说长篇小说是长篇电视连续剧的母本的话，优秀的中短篇小说则为中短剧的发展提供了丰厚的题材资源。文学为影视奠定厚实的基础，影视则为优秀的文学作品装上了一对有声有色的翅膀，让它飞入千家万户。&lt;/p&gt;&lt;p&gt;　　陈培浩：本届获奖作品不少被影视界关注和改编，客观上印证了其艺术魅力和走向更广大读者的潜力。&lt;/p&gt;&lt;p&gt;　　事实上，文学一直为影视源源不断地提供优秀的原创故事、创意和思想。20世纪80年代，张艺谋改编莫言的《红高粱》就风靡一时。后来像苏童、刘震云、刘恒、麦家、梁晓声、陈彦等作家作品的影视改编都很成功。文学和影视是共生体，文学为影视提供创作之源，影视则对文学进行二创，并将其推向更广大的人群。不过，文学和影视有各自的艺术特点，文学也有影视所不具备的艺术优势，并非所有的文学作品都要以影视化为目标。合力共生，又各有精彩，是最佳选择。&lt;/p&gt;&lt;p&gt;　　程玉玲：这个问题恰巧是我在语文课堂教学中常常设置给学生的问题，比如教鲁迅先生的《祝福》，我会给学生看相关的影片，让他们比较影视和文学的不同，以此培养他们的学科素养和审美鉴赏力。我觉得“本立而道生”，文学作品是“本”，没有好的文学作品很难成就出色的影视作品，作品转化是好事儿，能让经典文学作品雅俗共赏、口碑载道。&lt;/p&gt;&lt;p&gt;　　传播破圈引发大众共情共鸣&lt;/p&gt;&lt;p&gt;　　记者：“外卖诗人”王计兵获奖成为媒体和社会关注的热点。事实上，本届鲁迅文学奖在传播上实现了破圈，不仅获得了文学界的关注，也赢得了媒体和更广大群众的关注。在您看来，形成这一现象的原因是什么？&lt;/p&gt;&lt;p&gt;　　范稳：“外卖诗人”王计兵的获奖是本届鲁奖评选彰显大文学观的生动注脚。鲁奖获奖作品在注重专业水准基础上，显得更具亲和力，更有广泛性和代表性。王计兵那些质朴、有温度、有感染力和穿透力的诗行，感动了无数读者。本届鲁奖评委会及时发现这位来自生活一线的“外卖诗人”，用鲁奖奖掖其文学追求和文学成就，是对新大众文艺群体的致敬。王计兵获得鲁奖诗歌奖成为现象级的话题，正说明广大人民群众需要能为他们代言的诗人，时代需要更接地气、更温暖人心的诗歌。&lt;/p&gt;&lt;p&gt;　　陈培浩：本届鲁奖传播破圈，应该说是评奖机制获得了各界认可，获奖作品回应了人民群众的内心关切，审美趣味与更广大群众产生了密切互动和内在共鸣。内在看，跟本届鲁奖评奖以大文学观为统领有关，大文学观回应的正是新时代不断涌现的文学新现象、新类型、新质素。本届鲁奖把它们纳入视野，作出公正肯定和专业加冕，嘉行自有回响。&lt;/p&gt;&lt;p&gt;　　程玉玲：正是因为大批非科班、非专业的普通人走上写作之路，文学创作不再是专业作家独有的领域，这种创作主体层面的圈层突破，自然而然带动了传播层面的破圈。因为当大量普通人的故事与情感被文学化呈现，自然会引发大众的共情与共鸣，本届鲁奖获得各界关注，也是我们生逢盛世的最好注脚。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  刘  阳&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 从鲁迅文学奖看创作新趋势—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172592&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172592.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172592.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 文学创作不再是专业作家独有的领域（人文对话） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172592.html#[07版：人文] 文学创作不再是专业作家独有的领域（人文对话）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：人文] 大地的恩赐（人文茶座）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172593.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 大地的恩赐（人文茶座） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							艾  平&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　我在呼伦贝尔大地上行走，像阅读一本书那样去观察植物、动物，去亲近那些身上带着文化“包浆”的牧人和猎人，也结识了一些有文化的新牧人和草原森林的守护者。我的散文集《天生草原》能够获得第九届鲁迅文学奖散文杂文奖，源于大地母亲的恩赐。&lt;/p&gt;&lt;p&gt;　　我见过老阿爸用冰水埋葬马群时的凝重；我和一位额吉在寒冷的蒙古包里待了一夜，接生下一对双胞胎羊羔；我知道，哈吉鄂温克牧民胸前那三道不同颜色的绸缎，蓝色代表水，黑色代表土地，红色代表火，他们带着对大自然的感恩走过了沧桑岁月；我抚摸驯鹿油润的鹿茸，听一位鄂温克好友讲述驯鹿和人类共生的故事；我了解额尔古纳撒欢儿牧场主人赵红松的故事，他大学毕业返乡，搞旅游生态研学，救治过很多野生小动物，为了保护3000亩野生赤芍不被盗挖，几次被恐吓毒打……我用在地者的眼光看草原、看森林，看时代与这块隐秘之地的互动，常常惊喜交加，深深感动。“变”是最有魅力的，所以我不满足于将文字停留在自然之谜、生态故事的层面上，而是把人的成长、文化间的比照、生态的复苏作为一个有机体来书写。&lt;/p&gt;&lt;p&gt;　　阅读我的新散文集《天生草原》，你会看到——阿爸宁肯冻僵了胳膊，在暴风雪中高举手电筒，也要给知青引路；在《阿哈的金牌》一文中，阿哈（哥哥）和天津知青蔡乐铭在游牧中成为生死之交，分别前，他把自己最宝贵的全国摔跤冠军金牌送给了蔡乐铭，精心保存多年以后，蔡乐铭又将这块金牌送回到草原博物馆；在《阿敦乌拉的天上》，牧民孟和沙舍弃放牧必需的羊羔皮马蹄袖，把死去的羊羔留给养育雏鹰的母鹰；《你就这样把草原交给了我》中，老祖母用学狼叫的方法唤来狼群，保护了刚刚分娩的母狼和狼崽……这些人物“古老”而“年轻”，闪烁着地域文化之光。&lt;/p&gt;&lt;p&gt;　　我知道，散文要引人入胜，需要生动又有诗意的细节来支撑，我正是在生活中发现了这样的细节，才开始动笔的。写《哈拉海进城》，动笔的缘由是自己当年作为工作队员，曾在扎赉特旗四平山二队，和农民一起靠野菜哈拉海充饥度日，到了旅游时代，发现哈拉海竟然成了当地招牌菜。在《阿哈的金牌》一文中，有了生存经验的知青，用腰带把新来的年轻干部吴宝贵与一只牧羊犬系在一起，跌跌撞撞逃出了几十里的暴风雪，当吴宝贵终于进了温暖的蒙古包，接过主人递来的手把肉，饥寒交迫的他没有吃，而是先端给了那只忠诚的牧羊犬……正是这个细节让我追寻到了当年牧民和知青水乳交融的故事。文学的真谛在生活的深处珍藏着，多年以来，我就像一匹老马，在故乡的大地上徐徐而行，每一阵风吹过，我都想知道，风的“缝隙”里有哪些微妙的“异动”。父母一般的呼伦贝尔大地，让我知道生态怎样塑造人类，知道生态对文化和历史不可忽视的影响。&lt;/p&gt;&lt;p&gt;　　文学创作者，应该是文化的建设者，我们需要不断探索万物共生的哲学，需要用新观念和老经验来理解生活，需要用引人深思的文学形象、优美而有锐度的语言来厮守、捍卫我们的大地。因此，深入生活、忠于生活，永远是我写作的着眼点和落脚点，我期望用自己的文字告诉世界，人类曾经如此这般地在草原上走过。&lt;/p&gt;&lt;p&gt;　　（作者为作家、第九届鲁迅文学奖获得者） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;艾  平&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172593&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172593.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172593.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 大地的恩赐（人文茶座） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172593.html#[07版：人文] 大地的恩赐（人文茶座）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：人文] 本版责编：郑海鸥</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172594.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：郑海鸥 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：沈亦伶 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172594&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172594.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172594.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：郑海鸥 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172594.html#[07版：人文] 本版责编：郑海鸥</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 从史料钩沉到史观构建</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172595.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 从史料钩沉到史观构建 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——《二十世纪中国人物画史》的研究拓新 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							冯  远&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/56af0050-fffa-4576-a30b-9c6c36eebd90.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　中国画《说红书》，作者方增先。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/56af0050-fffa-4576-a30b-9c6c36eebd90.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　20世纪是中国人物画历经变革发展和成果最为丰硕的时期。不惟人物画家人数众多，人物画作品数量、质量和学术展览、交流活动举办频次均有大幅提升。作为中国美术史的重要组成部分，20世纪中国人物画是一项值得深入研究、需要如实呈现和书写的重点课题。&lt;/p&gt;&lt;p&gt;　　要完成这项课题并不容易。纵观画史，对于早期绘画的研究，往往续接连贯、持论公允。这是因为越有时间距离的历史，越能达成史识公论的历史，就越容易把握。而时间距离较近，思想解放、观念活跃、艺术形式多元的历史，则因缺乏足够的沉淀和处于未完成的变化过程之中而较难把控，遂成为美术史研究的薄弱环节。20世纪中国人物画史作为一个独立研究领域，此前虽有零星论著，但多为专题性或阶段性研究，缺乏一部真正贯通20世纪、兼顾绘画创作与理论评论的系统性著作。新近再版的裔萼著作《二十世纪中国人物画史》，凭借长达7年的史料研究、作品追踪调查、画家个案访谈，填补了该领域系统性研究的空白，并从治史手法、论史方法等角度为相关研究提供启示。&lt;/p&gt;&lt;p&gt;　　传统的美术史写作，尤其是人物画史的书写，往往以朝代更迭为经、以名家名作为纬，编织出一幅风格演进的图谱。这种写法固然清晰，却容易滑入两个陷阱：一是将复杂的历史压缩为风格的线性更替，二是将人物画窄化为笔墨语言的流变史。事实上，20世纪中国人物画的演进，并非一条通向某种既定“现代”形态的单行道，而是一场围绕“如何以图像回应现代中国之变”展开的多声部对话。这意味着相关研究要关注的不只是风格语言的革新，更是画家面对社会变革时的精神回应、价值抉择与身份重构。&lt;/p&gt;&lt;p&gt;　　《二十世纪中国人物画史》的突破正在于并未将“现代性”当作一个生硬的标签，而是自觉将“现代性”作为贯穿全书的核心分析范畴，并将其处理为一个充满张力的问题讨论场域。作者不仅没有回避那些“不合时宜”的画家与作品，反而将其作为理解主流叙事之形成的重要参照。例如，其对民国时期若干坚守传统文人路径的画家的细致讨论，并非出于怀旧式的补遗心态，反而借此深刻揭示出20世纪中国人物画的“现代性”生成于传承与变革、守成与开新的拉扯中的历史原因。这一叙事策略打破了“进步史观”的单一向度，使整个研究的历史图景呈现复杂而真实的面貌。&lt;/p&gt;&lt;p&gt;　　在史料运用上的开阔视野，推动着20世纪中国人物画史的研究拓新。除传统的美术作品与画家文献外，广泛征引近现代报刊、展览评论、美育文件乃至画家书信日记，将这些以往被视为“边角料”的史料提升为理解艺术作品生成语境的关键证据，有效增强了研究的立体性。这种“以图证史”与“以史解图”的双向互动，使研究在史料层面形成厚实而富有层次的肌理。《二十世纪中国人物画史》正是借助“边角料”对多位此前美术史书写中相对边缘的画家予以重新评价。这绝非刻意翻案，而是建立在对作品细读和史料重勘的坚实基础上。这些个案研究证明了“风格史的演进”与“社会史的变迁”之间存在深刻的同构关系，人物画的形式语言并非纯粹的审美自律之物，而是特定历史境遇中主体精神的艺术结晶。这一观点为长期以来困扰中国美术史学界的“形式与内容二元论”难题提供了富有启发性的回应。&lt;/p&gt;&lt;p&gt;　　如果说治史手法决定了美术史研究的基本格局，那么论史方法则直接关系到论述的说服力。优秀的美术史研究，应是审美分析与文化阐释的有机融合。以《二十世纪中国人物画史》为例，作者在研究中始终将形式分析视为意义探究的起点而非终点。如对蒋兆和《流民图》的讨论，并未停留在对水墨写实技法的技术性阐释，而是深入剖析画家如何通过人物表情的细微刻画、个体之间疏密关系的处理，传达出一种“无声的呐喊”。技法分析在此成为通往理解历史情境的桥梁，作品的形式语言被还原为一种有血有肉的历史见证。&lt;/p&gt;&lt;p&gt;　　面对20世纪多元并存的画派格局，展开多向度的比较研究，不仅可以更好地厘清艺术发展脉络，也有益于在意象并置中拓展新的认知维度。例如，在讨论“新浙派”人物画时，既将方增先、李震坚等人的创作置于与“长安画派”“新金陵画派”的横向比照中，又将其放在文人画传统与新中国现实主义美术发展的纵向源流里，使地域画风的特点在比较中变得更加清晰。&lt;/p&gt;&lt;p&gt;　　在研究中始终保持对“话语权力”的敏锐省察，是许多学者容易忽视的方面。相较于过多、过于鲜明地陈述个人观点，我认为以审慎、有节制的表述，将个人学术观点、判别标准与作品及其历史背景结合，给出分寸得当的评说，并充分呈现各类史料素材，给阅读者留出判断的空间，才是治史应有的学术态度。同时，研究者在史论阐释中，不仅要追问画家画了什么和怎么画的，更要追问为何某些题材和风格在特定时期被推崇，而另一些则被边缘化。这种带有知识社会学性质的自觉追问，能够使美术史研究超越单纯艺术鉴赏的评判性维度，不仅成就一部艺术风格史，更形成一部关于人物画如何被观看、被评判、被塑造的观念史。&lt;/p&gt;&lt;p&gt;　　能否对20世纪中国人物画展开客观、系统、深刻的学术研究，本质上是对撰史者的学术勇气、眼光、基本功和治史态度的考验。《二十世纪中国人物画史》的作者以宏阔的视野驾驭纷繁的史料，以精辟的解析照亮幽微的形式，更以深切的现实关怀赋予历史以当代意义。此书为今天的学者如何书写处于巨大社会转型中的艺术史提供了一个方法论范本。它向我们证明：艺术史研究既不能退守为纯形式的风格鉴赏，也不能简化为社会史的插图式注解，而必须在审美自律与社会回应之间保持一种理性的辩证眼光。&lt;/p&gt;&lt;p&gt;　　如今，当我们再度讨论“中国人物画如何回应时代”这一命题时，《二十世纪中国人物画史》所梳理的那些成功与挫折、突破与困境，无疑是一份珍贵的历史参照。其中，对“写实”与“写意”、“传统”与“现代”、“中国”与“西方”等多重关系的冷静剖析，为我们超越非此即彼的二元对立思维，提供了有益启示。从史料钩沉到史观构建，20世纪中国人物画史的研究还在持续深入，期待更多学者以兼具史学厚度与思想锋芒的著述，为该领域研究开辟新境。&lt;/p&gt;&lt;p&gt;　　（作者为中央文史研究馆副馆长） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;冯  远&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——《二十世纪中国人物画史》的研究拓新 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172595&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172595.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172595.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 从史料钩沉到史观构建 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172595.html#[08版：副刊] 从史料钩沉到史观构建</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 四幅《南昌起义》  廿载苦心琢磨（读画）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172596.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 四幅《南昌起义》  廿载苦心琢磨（读画） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							杨应时&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/a69f3539-07b9-4caf-ae8c-94c15ee7dae2.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　1927年8月1日，南昌城头一声枪响，拉开了中国共产党武装反抗国民党反动派的大幕。这是中国共产党历史上的一个伟大事件，宣告了中国共产党领导的新型人民军队诞生。为纪念南昌起义、弘扬红色精神，不少美术工作者围绕这一主题展开创作，其中尤具代表性的是老一辈油画家、美术教育家黎冰鸿。&lt;/p&gt;&lt;p&gt;　　“吟安一个字，捻断数茎须。”唐代诗人卢延让曾以诗句生动描写苦吟情态。在创作《南昌起义》时，黎冰鸿也如卢延让炼字般苦心琢画。历经近20年打磨，多次创作同题作品，最终，他艺术地定格了这一重大历史时刻。&lt;/p&gt;&lt;p&gt;　　黎冰鸿首次创作油画《南昌起义》是在20世纪50年代后期，系为中国革命博物馆（今中国国家博物馆）而作。这幅高200厘米、宽260厘米的巨制，完成于1959年，以艺术手法生动再现了起义前的夜晚。画面中，周恩来身姿挺拔，立于起义总指挥部——江西大旅社门前，左手叉腰，右手挥动，正在向集结完毕的部队作战前动员。周恩来左侧是担任起义军总指挥的贺龙，他右腿迈出，凝视前方，动作潇洒而坚定。叶挺、朱德、刘伯承等将领或立或坐于二人身后，神态自信沉稳。夜空下，近处暖光灯照，远处人头攒动，起义军旗帜收拢，枪炮锃亮，预示着战斗一触即发。整体来看，画作人物造型结构准确、情态自然生动，严格遵循焦点透视规律，对光的运用十分巧妙，烘托了起义胜利在望的氛围。较高的艺术价值与历史价值，使其作为插图被收入初中历史课本。1960年，黎冰鸿又为中国人民革命军事博物馆创作了一幅与“国博版”《南昌起义》尺寸和构图均相差不大的同名油画。&lt;/p&gt;&lt;p&gt;　　中国美术馆也藏有一幅同名作品（见图）。其尺幅较小（高77厘米、宽100.5厘米），以往常被认为是《南昌起义》的草稿，但从画面情况来看，更像是一幅独立作品——整体画面紧凑凝练，人物刻画真切生动，艺术水准相当高。其内容也与“国博版”“军博版”大不相同。画面中，周恩来面朝战士，左手握拳，右手叉腰，情绪高昂。他身旁坐着的战士左臂打着绷带，暗示战斗已经结束。前景处，弹药箱旁倚放着一些枪支，或许是缴获的战利品。画家还增加了工人纠察队、农民自卫军等形象，诠释了工农阶级是革命力量的基础。更明显的一个变化是，画面右侧队伍中有两面红旗高高飘扬，远处旗帜也隐约可见，似乎在告诉观众起义已经取得胜利。从这幅作品中，既能看到作者对历史时刻的认识在发生改变，也能看到他为体现这种变化而经营画面时的良苦用心。&lt;/p&gt;&lt;p&gt;　　1977年，黎冰鸿为南昌八一起义纪念馆创作油画《南昌起义》，其构图和内容与中国美术馆收藏的版本相近，只是尺幅更大些。据记载，为完成好作品，黎冰鸿先后到南昌、井冈山地区体验生活，走访了老红军及其亲属，收集了当年起义领导者各个时期的照片和资料，画了数十张大小不等的油画习作和速写、素描等。为按时完成作品，他直接在纪念馆里设了一间工作室，每天在那里工作十几个小时。画面中，周恩来的视线转向画外观众，情态更加庄重。在左臂打着绷带的战士身后，新增一位女战士形象，体现了对妇女在革命烽火中奉献牺牲的肯定。画面右侧，高扬的红旗数量增多，胜利的氛围更加浓厚，因此这幅画作又名《欢呼胜利》。&lt;/p&gt;&lt;p&gt;　　廿载苦心琢磨，数版细节调整，不变的是人民军队敢打必胜的精神信念。硝烟远去，薪火永续。今天，这些跨越时光的红色画卷，不仅为强军兴军汇聚强大精神力量，也启示着美术工作者，唯有秉持精益求精的创作态度，才能铸就更多传世之作。&lt;/p&gt;&lt;p&gt;　　（作者为中国美术馆研究部副主任） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;杨应时&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172596&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172596.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172596.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 四幅《南昌起义》  廿载苦心琢磨（读画） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172596.html#[08版：副刊] 四幅《南昌起义》  廿载苦心琢磨（读画）</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 一场跨媒介的艺术共振</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172597.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一场跨媒介的艺术共振 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							潘镜如&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/1ae79ca2-060f-440a-8e83-1f5db4e9d8a8.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　走进中央美术学院美术馆“异质共振”展厅，瓷、数字影像与数字雕塑在这里相遇，共同开启一场跨媒介的传统文化转译之旅。所谓“异质”是指材料、技术、形式和创作路径的差异；“共振”则来自三位青年艺术家对传统文化共同而深入的思考。我们扎根时代沃土，以当代受众可理解、可共情的艺术语言，对传统文化进行艺术阐释与创造性转化，让千年文脉在当代生活中流淌。&lt;/p&gt;&lt;p&gt;　　传统纹样承载着古人对美好生活的向往，凝聚着中华民族独特的审美情趣与哲学观念。我长期深耕传统纹样研究，尤其喜爱北京中轴线古建筑纹样。比如，故宫建筑彩画既具有鲜明视觉特征，也蕴含秩序美，更是礼制规范、自然观念和工艺智慧的共同体现。因此，我尝试从纹样的文化内核出发，理解其对称、连续、围合与中心聚合的构成方式，并将其转化为数字影像的运动逻辑，完成了作品《中轴万花筒》（见图）。它由三组动态影像装置构成，采用方形LED屏错层拼合，外部轮廓借鉴传统花窗和藻井的结构，内容元素则来自梁枋龙纹、宫墙立体花饰和藻井凤纹，青绿、金红、青金等传统纹样色彩在屏幕间流动、重组。借助数字技术，传统纹样从高大的建筑结构中“走出来”，在当代空间焕发新的生命力。&lt;/p&gt;&lt;p&gt;　　如果说《中轴万花筒》注重体现宫廷建筑纹样庄重的秩序感，《蝶变》则聚焦民间纹样质朴的生命力。其创作灵感来自蓝印花布花版技艺。蓝印花布常以蝴蝶、花卉、瓜果等形象构成连续纹样，寄托人们的美好祈愿。我参照传统镂刻方式，制作了一块由蝴蝶纹样围合而成的金属花版。一束光穿过金属花版，看似是在墙上留下清晰投影，实则墙面呈现的是另一幅由人工智能生成的蝴蝶纹图像。实体纹样、真实光影和算法图像的叠合提醒着观众，人工智能时代，我们需要多点耐心去思考手工经验、创作者判断与技术之间的关系。&lt;/p&gt;&lt;p&gt;　　数字技术不仅赋能经典纹样，也重塑着传统民俗符号。石狮是中国古建筑的守护者，历经千年商贸往来、文化交流，其面貌不断演变，最终形成了今天人们常见的文化形象。李文龙的《时狮》借助3D打印与人工智能技术，解构传统石狮的经典形态，生成人们既熟悉又陌生的新石狮形象。在传统手工艺、工业制造技术与智能数字生产的碰撞中，作品引导观众重新审视艺术与技术的关系，思考传统文化在数智时代的创新路径。&lt;/p&gt;&lt;p&gt;　　陶瓷是中华文明的重要名片，蕴藏着“天人合一”的宇宙观。泥土浴火成瓷，是物质蜕变的过程，也象征着生命历经淬炼获得新生。陶瓷坚硬而易碎的属性，则道出生命坚韧与脆弱相依相生的本质。何一沙持续探索陶瓷与生命之间的关系，其《破壳系列》从凤凰涅槃的意象出发，以蛋壳碎片般的薄胎造型，展现生命诞生的瞬间。&lt;/p&gt;&lt;p&gt;　　不同媒介、不同主题的作品同台对话、彼此呼应，构筑起“异质共振”的内核。这种“共振”包含三重维度。一是传统文化内部的共振。传统纹样、石狮与陶瓷虽形态各异，却共同反映着中国人的审美秩序、生命观念与造物智慧。二是材料与技术之间的共振。LED影像、3D打印、人工智能等新技术，使传统文化在不同媒介的转换中显现新形态。三是青年艺术家探索精神的共振。这得益于中央美术学院“广角°——青年实验项目空间”为年轻教师提供的平台。&lt;/p&gt;&lt;p&gt;　　一次次共振，为传统文化与艺术创作注入澎湃活力，也证明着，艺术从不只有一种生长路径，差异、碰撞与对话才是催生新意、成就多元的关键。&lt;/p&gt;&lt;p&gt;　　（作者为中央美术学院设计学院副教授） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;潘镜如&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172597&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172597.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172597.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一场跨媒介的艺术共振 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172597.html#[08版：副刊] 一场跨媒介的艺术共振</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 用画笔为万里海疆立传</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172598.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 用画笔为万里海疆立传 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							李  冬&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202608/02/039a21d8-ea35-4ad3-92de-0be4d88e4c6f.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图为中国画《蓝色旋律》，作者李冬。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/039a21d8-ea35-4ad3-92de-0be4d88e4c6f.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　万里海疆，承载着中华民族向海图强的壮志豪情，见证着人民军队用热血书写忠诚的坚定信仰，更是美术创作中饱含精神力量的重要题材。&lt;/p&gt;&lt;p&gt;　　我青年入伍，加入人民海军，戍守深蓝。数年军旅生涯，让我真切体悟到海疆安宁对于国家繁盛、民族兴旺的重要意义，奠定了我心怀山海的品格底色。退役之后，我始终不忘军人本色，坚守报国初心。真实的戍海经历、深刻的海防认知、丰厚的采风积淀，构筑起我逐梦深蓝的意志与情怀，也让我的中国画创作不止于文人书斋的闲情逸致，成为现实温度与文化厚度相融合的艺术表达。&lt;/p&gt;&lt;p&gt;　　我深耕海洋题材已有数十年。纵观千年中国画发展脉络，传统山水、花鸟、人物画科体系完备、源远流长，浩瀚沧海却一直是传统绘画的薄弱领域，相关创作技法与理论研究相对有限。南宋马远《水图》尽得画水之理、水态之妙，清代袁耀《蓬莱仙境图》通过动势与色泽营造虚幻迷离的海景意境，为少有的深入体察水势、表现沧海气象的传世之作。究其缘由，一方面，海水瞬息万变，画者难以捕捉其形；另一方面，古代画家多居内陆，少有亲睹沧海的机会，导致相关题材在画史中长期处于边缘地位。&lt;/p&gt;&lt;p&gt;　　现当代以来，随着海防事业发展与美术工作者创作视野拓展，海洋题材创作逐渐受到重视并有所突破。先父李海涛从20世纪70年代开始研究用中国画技法表现海洋，成为该领域的开拓者之一。1986年，父亲为创作长卷《海疆万里图》，用5年时间行走于祖国的海岸线和诸多岛屿，行程累计达3万余公里，积累了大量写生素材。其间，我陪同父亲以脚步丈量了祖国万里海疆的大半轮廓。自那以后，我也开始积极收集相关创作资源。从沿海地区的民俗风情，到丰富多样的海洋植物，再到变幻莫测的云霞激浪，我都一一记录，以寻求真实感受下的创作灵感。&lt;/p&gt;&lt;p&gt;　　在海洋题材创作中，首要工作是摸清海浪的规律，对其在不同时间、不同地点呈现的不同形象和背景原因了然于胸——一朵浪花的形成，必先有涌、后有浪，涌浪的形成与海底地质结构、周围环境有着密切关系；各海域海水的颜色不尽相同，这也是由海底的砂岩、植被等因素决定的。通过对大海的深入观察和研究，我不断总结规律，并尝试创新传统笔墨技法，让中国画的精神气度与海洋的博大深邃相融相通。面对千变万化的波涛，我从中提炼出海的“筋、骨、肉”，并融合泼墨泼彩、积墨积彩、飞白皴、洗刷法、冲流法等几十种技法，表现海的层次与神韵，在虚实相生中彰显万里海疆的雄浑与静穆。&lt;/p&gt;&lt;p&gt;　　今天，蛟龙探海、雪龙探极、新型战舰驰骋大洋，蔚蓝国土之上，蓝色梦想随波涛远航。面对日新月异的时代图景，海洋题材美术创作空间空前广阔。如何以中国画特有的方式，抒写属于这个时代的海洋故事？如何让柔性水墨与硬核主题在同一空间内互融共生？这些都需要美术工作者在创作中开辟一条“新航路”，于乘风破浪中书写答卷。&lt;/p&gt;&lt;p&gt;　　（作者为中国美术家协会民族美术艺委会副主任） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;李  冬&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172598&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172598.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172598.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 用画笔为万里海疆立传 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172598.html#[08版：副刊] 用画笔为万里海疆立传</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172599.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/a6e36bb5-9a73-410d-853f-db1a71dd41f1.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　中国画《天山月明》，作者李雪松。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172599&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172599.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172599.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172599.html#[08版：副刊] 图片报道</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 画中消夏</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172600.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 画中消夏 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							周书杨&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202608/02/6e500a19-a4b1-496d-a00d-ef2391234fb2.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　酷热盛夏，何处纳清凉？在没有空调与电扇的漫长岁月里，古人发展出一套消夏智慧，它不限于物理层面的避暑，更延伸至精神世界的营构。这种智慧在绘画中凝结为一个个令人神往的视觉意象，让今人可从中体味丝丝凉意。&lt;/p&gt;&lt;p&gt;　　古人画消夏，注重对空间的精心构设。如元代盛懋《山居纳凉图》中，一位白衣贤士倚坐水榭，四周古树环抱，云雾朦胧。明代沈周《江亭避暑图》则描绘了高士策杖走向江边凉亭的情景。画家们通过留白暗示水汽氤氲，以墨色浓淡变化呈现空气的清透感，让观者仿佛有清风拂面之感。&lt;/p&gt;&lt;p&gt;　　更具深意的是纳凉空间的内向转化。宋代佚名画家的《槐荫消夏图》（见图），在槐荫下构建了一个半封闭的小环境：高士坦腹卧于凉榻，身后屏风直立。这屏风既是画面空间的分割物，也象征心理上的界域，它隔绝外界燥热，自成一方清凉天地。元代刘贯道《消夏图》将这种内向转化推向极致。画中文人卧于榻上，身后有一人物屏风，这人物屏风之中又有一山水屏风。三重空间层层嵌套，引导观者视线由外向内深入，最终抵达洁净、悠远的精神世界。&lt;/p&gt;&lt;p&gt;　　如果说空间营造是消夏画的骨架，那么屏风所承载的图像，则是画作通达心灵的密钥。《槐荫消夏图》中的屏风上，绘有一幅雪景寒林图。夏日炎炎，一屏雪景兀立眼前，这种看似矛盾的组合，恰恰道出中华美学借景移情的智慧。精微的视觉通感，令画面产生不可思议的降温效果。《消夏图》同样借助屏风上的图像展开心理暗示。主屏风上绘有高士坐于书榻的场景，其后屏风上又有山水亭台。在此，消夏已不仅是身体的避暑，更是一种精神的内观，那屏风深处，仿佛回荡着“心静自然凉”的快意。&lt;/p&gt;&lt;p&gt;　　消夏画中，人物的身体姿态与身旁雅物，构成另一重清凉的意指系统。画中人物几乎无一例外情态悠然，或卧于榻上、坦腹露足；或于山水间策杖漫步，这些姿态共同传递出一种闲适的生命状态：不急、不躁、不争。身体从日常劳碌中解放出来，清凉便从心底自然生出。画中陈设更是别具匠心，拂尘、书卷、香炉等既是文人墨客的消夏“搭子”，亦是寄情遣怀的载体。人们不必深入山林，只凭几样清物，便可于一室之内纳清风、遣长夏，将户外灼灼暑气化作案头悠悠诗意。&lt;/p&gt;&lt;p&gt;　　从绘画本体语言来看，画家在技法层面共同追求一种“消暑”的视觉效果。用色上，敷染趋于清淡。《江亭避暑图》以花青、汁绿为主调，薄施淡染，营造出夏日清晨的凉爽之感。《山居纳凉图》亦以石青、石绿的轻敷配合大面积留白，营造水汽氤氲的视觉效果。即使是以工笔见长的《槐荫消夏图》，设色亦追求雅致沉稳，不见燥气。用笔方面，画家多取舒缓从容的节奏。刘贯道的人物线描沉着有力却不见棱角，衣纹流动如清风；沈周的山水皴法疏松淡远，毫无紧迫之感。这种“淡”与“松”，本身就是一种视觉上的清凉剂。&lt;/p&gt;&lt;p&gt;　　盛夏时节，不妨静心读画，感受那一缕来自历史深处的微风。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;周书杨&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172600&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172600.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172600.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 画中消夏 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172600.html#[08版：副刊] 画中消夏</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 本版责编：徐红梅  马苏薇</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172601.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：徐红梅  马苏薇 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年08月02日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本版邮箱：msfk@peopledaily.cn&lt;/p&gt;&lt;p&gt;　　题图设计：赵偲汝 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-08-02 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30172601&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172601.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202608/02/content_30172601.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：徐红梅  马苏薇 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202608/02/content_30172601.html#[08版：副刊] 本版责编：徐红梅  马苏薇</guid>
+      <pubDate>Sun, 02 Aug 2026 07:23:57 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
