@@ -1,0 +1,1042 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 12 Sep 2026 00:23:23 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 文脉赓续记</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180587.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 文脉赓续记 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　我们要加强考古工作和历史研究，让收藏在博物馆里的文物、陈列在广阔大地上的遗产、书写在古籍里的文字都活起来，丰富全社会历史文化滋养。&lt;/p&gt;&lt;p&gt;　　——习近平&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　良渚“寻根”记  &lt;/p&gt;&lt;p&gt;　　本报记者  何  聪  顾  春&lt;/p&gt;&lt;p&gt;　　“你好！”&lt;/p&gt;&lt;p&gt;　　“这是什么？”&lt;/p&gt;&lt;p&gt;　　“这是玉琮王……”&lt;/p&gt;&lt;p&gt;　　9月6日，浙江杭州市民周娴带着上小学的女儿来到良渚博物院，选了AI（人工智能）眼镜当“导游”。&lt;/p&gt;&lt;p&gt;　　轻敲镜腿，识别文物，对答如流，“5000多年前的文明，真酷！”&lt;/p&gt;&lt;p&gt;　　2023年12月3日，习近平总书记向首届“良渚论坛”致贺信时指出：“良渚遗址是中华五千年文明史的实证，是世界文明的瑰宝。”&lt;/p&gt;&lt;p&gt;　　遗址博物馆如何让游客更好感知中华文明的博大精深？&lt;/p&gt;&lt;p&gt;　　“科技赋能，AI眼镜实现了全馆智能导览。”良渚博物院（良渚研究院）文博研究馆员骆晓红说。&lt;/p&gt;&lt;p&gt;　　在古城VR（虚拟现实）空间，戴上眼镜，5000多年前的景象铺展眼前：先民们制玉、做陶、驯兽、治水；从竖起一幢幢草屋，到建起恢宏的莫角山宫殿，一切仿佛历历在目……&lt;/p&gt;&lt;p&gt;　　游客在展厅里寻根，考古人员则不断向历史深处追寻。&lt;/p&gt;&lt;p&gt;　　“AI眼镜输出的每一句话、VR电影的一帧帧画面，都是研究人员在海量馆藏文献、考古报告基础上梳理提炼而成的。”骆晓红介绍。&lt;/p&gt;&lt;p&gt;　　近年来，挖掘研究频现新成果。遗址群的遗存家底、良渚水利系统的完整结构等被摸清，进一步厘清古良渚人口迁徙、物资流通的过程规律。良渚博物院（良渚研究院）执行院长马东峰说：“这大大加深了对良渚社会的理解。”&lt;/p&gt;&lt;p&gt;　　向历史深处寻根，也在现实中护根。&lt;/p&gt;&lt;p&gt;　　162平方公里遗址区，1006个摄像头、5个无人机场，实时监测土体含水量的地面传感器，全部接入“良渚遗址5000+”数智应用平台。&lt;/p&gt;&lt;p&gt;　　工作人员利用平台搭建数字孪生场景，模拟气象灾害，提前制定处置预案，实现从“事后抢修”到“事前预防性保护”。&lt;/p&gt;&lt;p&gt;　　根上发新芽，古老中国与现代中国在良渚汇流。&lt;/p&gt;&lt;p&gt;　　在良渚5000+艺创园，玉琮“跃”上茶杯，成为精美的文化产品；占地11.49万平方米的良渚客厅建设工程，正从图纸走向现实；良渚文化大走廊加速建设……“良渚这一文化IP，生动彰显中华文化的魅力。”马东峰说。&lt;/p&gt;&lt;p&gt;　　近年来，良渚古城通过与英国巨石阵、希腊雅典卫城、西班牙托莱多古城等开展文明对话，搭建起国际人文交流的新桥梁，成为讲好中国故事的新窗口。&lt;/p&gt;&lt;p&gt;　　博物院外，女儿向周娴描述AI眼镜告诉她的故事。这一刻，中华五千年文明史的实证在一个孩子心里扎了根。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　殷墟“识字”记&lt;/p&gt;&lt;p&gt;　　本报记者  张文豪&lt;/p&gt;&lt;p&gt;　　在手机上打开“了不起的甲骨文”小程序，跳出“每日一字”。&lt;/p&gt;&lt;p&gt;　　“猜一猜，这是什么字？”河南安阳市民马鑫笑着说，“从甲骨文到金文、篆书、隶书……几十秒，看尽一个字前世今生的模样。”&lt;/p&gt;&lt;p&gt;　　3000多年前刻在龟甲、兽骨上的文字，借助现代科技，出现在普通人的掌心。&lt;/p&gt;&lt;p&gt;　　2019年11月，习近平总书记致信祝贺甲骨文发现和研究120周年时指出：“甲骨文是迄今为止中国发现的年代最早的成熟文字系统，是汉字的源头和中华优秀传统文化的根脉，值得倍加珍视、更好传承发展。”&lt;/p&gt;&lt;p&gt;　　一张龟甲拓片，刻辞模糊。77岁的中国社会科学院学部委员宋镇豪轻点鼠标，将其上传到甲骨文人工智能协同平台。&lt;/p&gt;&lt;p&gt;　　眨眼工夫，文字识别、字义解释、相关文献、数字摹本，在平台上一一生成。&lt;/p&gt;&lt;p&gt;　　“早些年，为识一个字，往往埋首在厚重典籍中，一页页翻找、一张张比对。”宋镇豪感慨，如今，有了新帮手，效率大大提升。&lt;/p&gt;&lt;p&gt;　　安阳，甲骨文的故乡。安阳师范学院甲骨文信息处理教育部重点实验室里，待缀合的刻辞甲骨碎片，借助新技术，在上万张拓片中快速匹配。&lt;/p&gt;&lt;p&gt;　　科技与人才双向奔赴，为殷墟甲骨文研究赋能。&lt;/p&gt;&lt;p&gt;　　2019年10月，收录上百部甲骨著作、20余万幅甲骨图像的“殷契文渊”大数据平台搭建起来，免费向公众开放。&lt;/p&gt;&lt;p&gt;　　去年10月，实验室联合高校、企业，开发出全球首个甲骨文智能体“殷契行止”：既面向科研人员，部署甲骨文人工智能协同平台，又与大众共享，嵌入手机小程序。&lt;/p&gt;&lt;p&gt;　　活化利用，传承不息。&lt;/p&gt;&lt;p&gt;　　暮色四合，“点亮殷墟”夜游活动开启，光影流转中，甲骨文字故事一遍遍上演。巨幕投影映出龟甲轮廓、刻辞飞舞流动，取材于真实甲骨卜辞的《再现·大邑商》实景演出，带游客踏进历史长河。&lt;/p&gt;&lt;p&gt;　　在中国文字博物馆、殷墟博物馆，创新设置甲骨数字展厅、趣味互动空间，开展甲骨研学等，让观众欣赏到文字之美，也感受中华文化的博大精深。&lt;/p&gt;&lt;p&gt;　　薪火相传，代代守护。3000多年前，先民执刻刀将文字刻进龟甲；3000多年后，今人用键盘把文字敲进电脑。安阳师范学院青年研究员李邦说：“古人用刻刀，我用键盘，我们写的都是汉字。”&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　敦煌“守窟”记&lt;/p&gt;&lt;p&gt;　　本报记者  徐红梅  王锦涛  曾亦辰&lt;/p&gt;&lt;p&gt;　　温度，零下20摄氏度；湿度，30%；小雪，风力4级。&lt;/p&gt;&lt;p&gt;　　在敦煌研究院多场耦合环境模拟实验室，一块甘肃敦煌原生土制成的夯土试样，正在实验舱中经历“戈壁寒冬”。&lt;/p&gt;&lt;p&gt;　　“调节天气、‘加速’时间，模拟一个年周期仅需45天。”敦煌研究院院长郭青林说，“‘预演’文物在自然环境中的老化过程，能为科学施策提供参考。”&lt;/p&gt;&lt;p&gt;　　2019年8月19日，习近平总书记在敦煌研究院座谈时指出：“把莫高窟保护好，把敦煌文化传承好，是中华民族为世界文明进步应负的责任。”&lt;/p&gt;&lt;p&gt;　　守护莫高窟，是一场与时间的赛跑。除了胜利，“守窟人”别无选择。&lt;/p&gt;&lt;p&gt;　　窟内，600多个传感器昼夜“值守”，崖体形变、环境波动的细微变化，被实时捕捉、动态提示。&lt;/p&gt;&lt;p&gt;　　窟顶，草方格、砾石压沙带、沙生植物等梯次防护，层层阻隔流沙侵袭洞窟。&lt;/p&gt;&lt;p&gt;　　“治未病”，过去靠肉眼，现在靠“智”眼。&lt;/p&gt;&lt;p&gt;　　壁画，莫高窟的“灵魂”；空鼓，壁画的致命病害。空鼓一旦加剧，极易导致壁画脱落、“粉身碎骨”。&lt;/p&gt;&lt;p&gt;　　“人工智能深度学习数万张高清壁画底片，实现像素级精准甄别，可提前捕捉细微空鼓隐患。”敦煌研究院保护研究部副部长汪万福说。&lt;/p&gt;&lt;p&gt;　　为实现“永久保存、永续利用”，敦煌研究院为每一个洞窟、每一幅壁画、每一尊彩塑建立数字档案。&lt;/p&gt;&lt;p&gt;　　莫高窟第130窟，顶部呈覆斗形，墙面曲率变化达2米，为采集信息，仅脚手架就搭了8层。&lt;/p&gt;&lt;p&gt;　　31岁的熊业腾，负责数据现场检查及壁面图像后期拼接处理，“工作前少喝水，少去洗手间，就能多工作一会儿。”&lt;/p&gt;&lt;p&gt;　　靠着这股把自己“钉”在脚手架上的拼劲，敦煌研究院文物数字化保护团队已完成323个洞窟的数据采集、16处大遗址的三维重建、227个洞窟的全景漫游制作，形成超过600TB（太字节）的文物数字资源。&lt;/p&gt;&lt;p&gt;　　敦煌“守窟人”，让历史不再遥远。&lt;/p&gt;&lt;p&gt;　　“三兔共耳”香薰礼盒、“九色鹿”盲盒……敦煌研究院文化创意馆，让人们可以把莫高窟“带”回家。&lt;/p&gt;&lt;p&gt;　　在加拿大渥太华的“寻境敦煌——数字敦煌沉浸展”，当地观众戴上虚拟现实设备，“飞”进万里之外的莫高窟第285窟，沉浸式体验敦煌文化。&lt;/p&gt;&lt;p&gt;　　坚守大漠，“守窟人”潜心护宝。因为，“我们的文化在这里啊！是非常文明的、进步的、先进的。将来传下去，还要传五千年，还不止五千年”。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180587&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180587.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180587.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 文脉赓续记 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180587.html#[01版：要闻] 文脉赓续记</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 赓续在物更在心（编辑手记）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180588.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 赓续在物更在心（编辑手记） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							刘  学&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“文运同国运相牵，文脉同国脉相连。”浙江杭州良渚、河南安阳殷墟、甘肃敦煌莫高窟……山河载史，器物传情，听，文物在说话、历史在说话、文化在说话。&lt;/p&gt;&lt;p&gt;　　习近平总书记强调：“着力赓续中华文脉”。“源浚者流长，根深者叶茂。”中华文明源远流长、历久弥新，因其文脉代代相承，精神生生不息。文物和文化遗产承载着中华民族的基因和血脉，是不可再生、不可替代的中华优秀文明资源。守护文物、传承文脉，是秉持敬畏历史、热爱文化之心的必然之举，更是不负时代、不负人民的责任担当。&lt;/p&gt;&lt;p&gt;　　文脉赓续，是物质传承与精神传承的辩证统一，外在护其形，内在传其魂。五千年文明浸润九州山河，积淀出独属于中国的文化标识，这是坚定文化自信、凝聚民族精神的重要精神资源。新征程上，我们要深入学习贯彻习近平文化思想，深挖文物和文化遗产的时代价值，提升研究阐释与传播赋能水平，把中华优秀传统文化一代一代传下去。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;刘  学&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180588&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180588.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180588.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 赓续在物更在心（编辑手记） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180588.html#[01版：要闻] 赓续在物更在心（编辑手记）</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平将赴印度出席金砖国家领导人第十八次会晤</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180589.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平将赴印度出席金砖国家领导人第十八次会晤 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 外交部介绍有关安排和中方期待 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月11日电  （记者李欣怡）应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。外交部发言人毛宁11日在例行记者会上介绍有关安排和中方期待。&lt;/p&gt;&lt;p&gt;　　毛宁说，金砖是当今世界最重要的新兴市场和发展中国家团结合作平台。自成立以来，金砖国家秉持开放包容、合作共赢的金砖精神，致力于捍卫多边主义、维护公平正义、谋求共同发展，已经成为名副其实的全球南方第一方阵。&lt;/p&gt;&lt;p&gt;　　她说，中方高度重视并积极参与金砖合作。本次会晤中，习近平主席将出席会议并发表重要讲话，同各国领导人就当前国际形势、金砖机制发展、深化务实合作等重大问题深入交流，提出中方重要倡议主张，为“大金砖合作”高质量发展定向领航。中方愿同金砖各方一道努力，助力“大金砖合作”行稳致远，为推动构建人类命运共同体作出金砖贡献。&lt;/p&gt;&lt;p&gt;　　在回答相关提问时，毛宁表示，中印双方正在安排习近平主席同印度总理莫迪举行双边会晤。这将是两国领导人继喀山、天津会晤后，连续第三年会晤。中方愿同印方一道，按照两国领导人的战略引领，从战略高度和长远角度把握中印关系，加强沟通，增进合作，妥处分歧，做睦邻友好的朋友、相互成就的伙伴。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 外交部介绍有关安排和中方期待 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180589&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180589.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180589.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平将赴印度出席金砖国家领导人第十八次会晤 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180589.html#[01版：要闻] 习近平将赴印度出席金砖国家领导人第十八次会晤</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 深耕红色沃土  汲取奋进力量（赓续长征精神  奋进复兴征程）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180590.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 福建聚力建好长征国家文化公园—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 深耕红色沃土  汲取奋进力量（赓续长征精神  奋进复兴征程） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  付  文&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　位于长汀县的福建省苏维埃政府旧址。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　朱芳彬摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/12/84bd2b0c-f055-4e3a-a55b-98ec995bc33c.jpg" style="max-width: 100%; white-space: normal;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　9月的福建龙岩市长汀县中复村，山峦叠翠。&lt;/p&gt;&lt;p&gt;　　1934年9月底，红九军团撤出松毛岭战斗后，在中复村召开告别群众大会，之后兵分两路开始战略转移，由此踏上万里长征。&lt;/p&gt;&lt;p&gt;　　2024年10月，习近平总书记在福建考察时强调：“传承弘扬红色文化，建好长汀、宁化长征国家文化公园，深化革命史料和革命文物研究阐释。”&lt;/p&gt;&lt;p&gt;　　深入贯彻落实习近平总书记重要指示精神，福建聚力推进长征国家文化公园（福建段）建设管理工作，累计完成投资55.25亿元，以“长征出发，撤离苏区”为主题定位，已形成以中央红军长征路线为主轴，长征出发地长汀、宁化为主体建设区，长征事件关联区域为延伸拓展区的“一轴两区”格局。&lt;/p&gt;&lt;p&gt;　　保护长征遗存，守护“红色家底”——&lt;/p&gt;&lt;p&gt;　　走进三明市宁化县凤凰山村，只见长度400多米的红军街铺满青石板，两侧是客家古民居，门楼上“红军万岁”四个大字清晰可辨。“当年，我爷爷就是从这条街出发。”村民黄永昌说。&lt;/p&gt;&lt;p&gt;　　作为中央主力红军长征主要出发地之一，宁化对全县各级各类革命文物实施系统性保护，并落实管理巡查制度，遵循“修旧如旧”原则，保护好老街旧址、留住红色印记。&lt;/p&gt;&lt;p&gt;　　“《福建省红色文化遗存保护条例》《福建省革命文物保护利用工程实施方案》等出台，红色文化保护规范性文件体系不断完善。”福建省委宣传部副部长黄逸群介绍，福建建立“国—省—县”三级文保联动机制，龙岩市红色文化遗存的修缮保护率逐年上升，三明市实现对227处长征文物动态监管全覆盖，并建成宁化县革命纪念馆新址等红色场馆。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　挖掘红色资源，传承红色血脉——&lt;/p&gt;&lt;p&gt;　　“我们家一共6人参加红军，后来都牺牲在长征途中。”在中复村红军桥上，村民钟鸣向游客讲述那段岁月，“2.6万名闽西儿女参加长征，到达陕北的仅2000多人。”&lt;/p&gt;&lt;p&gt;　　今年63岁的钟鸣，40多年前就开始收集长征史料并免费讲解，2015年被聘为红色传统教育讲解员。钟鸣多次拜访老红军及后代，还多次前往湘江战役旧址探寻烈士下落。在他的动员下，儿子钟振华也返乡从事讲解工作，父子俩共同挖掘整理出一批动人故事。&lt;/p&gt;&lt;p&gt;　　福建加强长征文物和史料发掘、研究，打造集红色教育、民俗体验等于一体的特色体验地。“近年来，得益于长征国家文化公园建设，我们积极推进文旅融合，先后进行沿街立面改造、环境整治、旅游线路升级。”中复村村委会副主任钟椿源说，去年该村接待游客超30万人次，旅游总收入超1000万元。&lt;/p&gt;&lt;p&gt;　　推进活化利用，凝聚前进力量——&lt;/p&gt;&lt;p&gt;　　中复村的红军文化广场，一个个脚印从稀疏到密集，一直汇聚到“零公里处”。&lt;/p&gt;&lt;p&gt;　　“这些脚印有的赤足、有的很小，可以想见当时穷苦人家孩子踊跃参军的情形。”来自安徽的游客周子强说，“讲解员介绍，村里的红九军团长征出发地陈列馆由红军曾养过伤的7幢客家围屋改造而来，更让人感受到穿越时空的军民鱼水情。”&lt;/p&gt;&lt;p&gt;　　中复村《松毛岭之恋》沉浸式演艺厅内，正演绎着新婚妻子阿妹送别新婚丈夫阿根参加红军的故事。借助现代声光电手段，人们仿佛回到了那个激情燃烧的年代。凤凰山村的“红军井”，由红军战士帮助扩建，村民至今仍在使用。宁化县委党校将包括这口井在内的凤凰山中央红军长征出发地旧址群列为现场教学点，红色文化吸引力和感染力持续增强。&lt;/p&gt;&lt;p&gt;　　弘扬伟大长征精神，福建依托长征国家文化公园资源打造“行见八闽”大思政课研学实践圈，建成市级以上中小学生研学实践教育基地191个、现场教学点200余个。自2022年以来，已累计培训学员33万人次，组织学生开展红色研学实践活动168万余人次，持续深化青少年对革命历史的认知认同。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  付  文&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 福建聚力建好长征国家文化公园—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180590&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180590.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180590.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 深耕红色沃土  汲取奋进力量（赓续长征精神  奋进复兴征程） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180590.html#[01版：要闻] 深耕红色沃土  汲取奋进力量（赓续长征精神  奋进复兴征程）</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 李强主持召开国务院常务会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180591.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李强主持召开国务院常务会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 对加强安全生产工作作出进一步部署，研究算力网建设有关工作，研究全面系统推进老旧水库改造提升有关工作，听取贯彻落实全国教育大会精神加快建设教育强国情况汇报，审议通过《基金会管理条例（修订草案）》 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　新华社北京9月11日电  国务院总理李强9月11日主持召开国务院常务会议，对加强安全生产工作作出进一步部署，研究算力网建设有关工作，研究全面系统推进老旧水库改造提升有关工作，听取贯彻落实全国教育大会精神加快建设教育强国情况汇报，审议通过《基金会管理条例（修订草案）》。&lt;/p&gt;&lt;p&gt;　　会议指出，近段时间一些地方生产安全事故多发，教训极为深刻。习近平总书记多次作出重要指示批示，我们要认真学习领会，坚决贯彻落实。要深入分析事故发生原因，举一反三，针对规章制度落实不严、工程层层转包、安全监管不到位等问题，采取有力措施切实加以解决。要严格属地管理，落实“三管三必须”要求，进一步压紧压实安全生产责任，紧盯重点行业领域深入开展风险隐患排查整治，强化常态化监管执法，严肃追责问责，坚决惩处安全生产违法违规行为，牢牢守住安全生产底线，有效遏制重特大事故发生，切实维护人民群众生命财产安全。&lt;/p&gt;&lt;p&gt;　　会议指出，算力网是人工智能发展的基础支撑。要坚持合理布局、规范有序，进一步完善算力基础设施，积极推进关键技术和装备研发应用，构建多层次网络化算力体系。要推动算电协同、算网融合，加强算力资源监测调度和骨干光纤网络建设，强化算电设施规划衔接，加快绿电直连、源网荷储等项目落地。要更好发挥市场机制作用，支持企业开展科技创新、资源整合和应用推广，促进供需更好匹配。&lt;/p&gt;&lt;p&gt;　　会议指出，水库安全关系防汛抗洪、江河治理和经济社会发展大局，要坚持长短结合、标本兼治、分类施策，严格落实各级责任，全面提高老旧水库安全能力。要增强老旧水库改造提升的针对性有效性，科学优化改造标准，“一库一策”制定改造方案，严把工程质量关，同步提升调度管理、日常管护水平，筑牢水库安全防线。要加强部门协同和要素保障，吸引更多社会资本参与。&lt;/p&gt;&lt;p&gt;　　会议指出，过去一年各地区各部门认真贯彻全国教育大会精神，推动教育强国建设不断取得新成效。要聚焦学龄人口变化合理配置教育资源，统筹做好学位供给、师资调配、经费保障等工作，更好满足各学段渡峰需要。要聚焦国家战略需求培养优秀创新人才，持续优化学科专业布局、教材体系建设和人才培养模式，提高人才自主培养质量。要落实健康第一的教育理念，坚持德智体美劳五育并举、五育融合，促进广大学生身心健康、成长成才。&lt;/p&gt;&lt;p&gt;　　会议指出，要切实加强基金会公信力建设，进一步规范管理、完善制度，健全内部治理机制，强化重点领域信息公开，发挥多部门综合监管作用，促进我国公益慈善事业健康有序发展。&lt;/p&gt;&lt;p&gt;　　会议还研究了其他事项。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 对加强安全生产工作作出进一步部署，研究算力网建设有关工作，研究全面系统推进老旧水库改造提升有关工作，听取贯彻落实全国教育大会精神加快建设教育强国情况汇报，审议通过《基金会管理条例（修订草案）》 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180591&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180591.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180591.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李强主持召开国务院常务会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180591.html#[01版：要闻] 李强主持召开国务院常务会议</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 赵乐际同安哥拉国民议会议长德阿尔梅达会谈</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180592.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 赵乐际同安哥拉国民议会议长德阿尔梅达会谈 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　新华社北京9月11日电  全国人大常委会委员长赵乐际11日在北京人民大会堂同安哥拉国民议会议长德阿尔梅达举行会谈。&lt;/p&gt;&lt;p&gt;　　赵乐际表示，近年来，在习近平主席和洛伦索总统战略引领下，中安关系提升为全面战略合作伙伴关系，各领域合作持续深化、富有成效。中方愿同安方一道，以两国元首重要共识为遵循，赓续传统友谊，加强团结合作，推动中非合作论坛北京峰会成果落地，促进中安关系不断发展，为共筑新时代全天候中非命运共同体作出更大贡献。&lt;/p&gt;&lt;p&gt;　　赵乐际指出，双方要巩固政治互信。中方感谢安方长期恪守一个中国原则，将继续坚定支持安方维护国家主权、安全、发展利益。拓展务实合作，深化农业渔业、工业、能源、矿业等领域合作，在清洁能源、数字技术、人工智能等领域打造合作新亮点。以今年“中非人文交流年”为契机，加强教育、文化、旅游、地方等合作，让中安、中非友好深入人心。加强国际协作，携手践行真正的多边主义，落实好四大全球倡议，推进平等有序的世界多极化、普惠包容的经济全球化。&lt;/p&gt;&lt;p&gt;　　赵乐际强调，中安立法机构合作为增进两国人民友谊、丰富双边关系内涵发挥重要作用。中国全国人大愿同安哥拉国民议会一道，加强各层次、多领域对话交流，为两国互利合作提供法律保障。欢迎安方派员参加中国全国人大面向非洲国家举办的议员研讨班。赵乐际还介绍了中国全国人大立法工作情况，表示双方可以围绕绿色发展、社会治理、民生保障等开展立法经验交流。&lt;/p&gt;&lt;p&gt;　　德阿尔梅达表示，安方衷心感谢中方对安哥拉国家重建和经济社会发展的宝贵支持。中国在自身发展同时，助力全球伙伴共同发展。安哥拉愿同中方加强能源、经贸、投资等各领域合作，深化共建“一带一路”合作，共同维护多边主义，促进世界和平稳定。安国民议会愿加强同中国全国人大的交流，为推动两国合作协议的落实积极发挥立法机构的法律保障作用。&lt;/p&gt;&lt;p&gt;　　会谈后，赵乐际与德阿尔梅达共同签署了中国全国人大与安哥拉国民议会谅解备忘录。&lt;/p&gt;&lt;p&gt;　　蔡达峰参加上述活动。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180592&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180592.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180592.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 赵乐际同安哥拉国民议会议长德阿尔梅达会谈 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180592.html#[01版：要闻] 赵乐际同安哥拉国民议会议长德阿尔梅达会谈</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 王沪宁会见安哥拉国民议会议长德阿尔梅达</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180593.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 王沪宁会见安哥拉国民议会议长德阿尔梅达 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京9月11日电  全国政协主席王沪宁11日在京会见安哥拉国民议会议长德阿尔梅达。&lt;/p&gt;&lt;p&gt;　　王沪宁表示，2024年，习近平主席同访华的洛伦索总统共同宣布将中安关系提升为全面战略合作伙伴关系，为两国关系发展作出了战略指引。中方愿同安方一道，落实两国元首重要共识，赓续传统友谊，深化务实合作，加强多边协调，推动中安关系迈向更高水平。中国全国政协愿为推动中安两国各自实现现代化作出积极贡献。&lt;/p&gt;&lt;p&gt;　　德阿尔梅达表示，安哥拉高度重视发展安中关系，两国元首保持密切交往，各领域合作成果丰硕。安哥拉支持中方提出的系列全球倡议，感谢中方为安哥拉经济社会发展提供的支持，愿深化能源、经贸、交通等领域合作，加强国际协作，促进公正合理的全球治理。&lt;/p&gt;&lt;p&gt;　　胡春华等参加会见。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180593&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180593.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180593.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 王沪宁会见安哥拉国民议会议长德阿尔梅达 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180593.html#[01版：要闻] 王沪宁会见安哥拉国民议会议长德阿尔梅达</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 建设强大的现代化后勤</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180594.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 新时代，联勤保障部队牢记使命嘱托、担当强军重任—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 建设强大的现代化后勤 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  金正波  李龙伊&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　这是历史性的庄严一刻——&lt;/p&gt;&lt;p&gt;　　2016年9月13日，北京，中央军委联勤保障部队成立大会举行。习近平主席向武汉联勤保障基地和无锡、桂林、西宁、沈阳、郑州联勤保障中心授予军旗并致训词，代表党中央和中央军委向联勤保障部队全体指战员致以热烈的祝贺。一支全新的力量，列阵于人民军队的战斗序列。&lt;/p&gt;&lt;p&gt;　　一场关于联战联保的深刻变革，在神州大地的一座座军营里激荡开来。从“区域分散”到“三军一体”，从“定点保障”到“全域联动”，从“人力密集”到“科技赋能”……&lt;/p&gt;&lt;p&gt;　　10年，于浩荡的历史长河中，只是一瞬。然而对于这支在改革大潮中诞生的新型保障力量而言，10年足以写下从无到有、从有到强的豪迈篇章。&lt;/p&gt;&lt;p&gt;　　强国强军，必须强后勤。&lt;/p&gt;&lt;p&gt;　　奋进新征程，在习近平强军思想引领下，联勤保障部队官兵按照“坚决听党指挥、聚焦能打胜仗、锐意改革创新、优质高效保障”的要求，不断加强全面建设、加快转型重塑、加紧能力提升，向着建设一支强大的现代化联勤保障部队阔步前行。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;初心如磐，血脉里流淌忠诚基因&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　2019年6月，在联勤保障部队军师职领导干部理论轮训班上，95岁高龄的中国工程院院士、东部战区总医院原副院长黎介寿真情告白：“我对党的信仰一经确立，就没有动摇过！”&lt;/p&gt;&lt;p&gt;　　一番话，饱含着一位老党员的赤诚初心，也道出联勤保障部队官兵的忠诚信仰。&lt;/p&gt;&lt;p&gt;　　回望我军后勤战线的峥嵘岁月，抗美援朝战场上，志愿军将士用鲜血和生命构筑起“打不烂、炸不断的钢铁运输线”。敌机狂轰滥炸之下，运输线断了修、修了断、断了再修，支撑将士们前赴后继的，是同一个信念：党带领人民军队战斗在哪里，就要保障到哪里。&lt;/p&gt;&lt;p&gt;　　一代代“粮草官”把忠诚刻进骨子里，扎根一线、向战为战，扛起保障打赢的千钧重担。“一切为了前线、一切为了胜利”，始终是鲜明的精神底色。&lt;/p&gt;&lt;p&gt;　　忠诚跨越时空，在血脉传承中历久弥新——&lt;/p&gt;&lt;p&gt;　　人民军队后勤光荣传统薪火相传、底蕴厚重，白求恩精神等跨越时空，始终是滋养官兵初心、指引前行方向的精神根脉。&lt;/p&gt;&lt;p&gt;　　联勤保障部队深耕红色育人、战位铸魂，推动优良传统深度融入联战联保实践，让红色基因在战位上转化为履职尽责的实际行动，激励官兵在新时代联勤保障一线彰显忠诚奉献本色。&lt;/p&gt;&lt;p&gt;　　改革重塑以来，联勤保障部队深挖红色资源、赓续精神血脉，组织专门力量系统梳理后勤优良传统和精神特质，编印我军后勤光荣传统和英模典型故事集，引导广大官兵把弘扬优良传统与履行联战联保使命任务紧密结合，在保障打赢实践中不断赋予传统精神新的时代内涵，把忠诚使命镌刻在祖国大地。&lt;/p&gt;&lt;p&gt;　　忠诚融入实践，在担当使命中接续前行——&lt;/p&gt;&lt;p&gt;　　拉得出、上得去、保得好。&lt;/p&gt;&lt;p&gt;　　在国际维和战场，一支支维和医疗队远赴黎巴嫩、刚果（金）、马里、南苏丹，履行维和使命，为当地和平稳定贡献联勤力量；在2020年初抗击新冠肺炎疫情期间，联勤保障部队迅速抽组医疗队伍、采购防疫物资、组织运输保障，充分展现了后勤体系重塑后我军一体化保障能力……&lt;/p&gt;&lt;p&gt;　　初心如磐，薪火相传。无论哪一个“战场”，只要祖国和人民需要，就有联勤保障部队官兵的身影。&lt;/p&gt;&lt;p&gt;　　忠诚刻进战位，在革命性锻造中愈发坚定——&lt;/p&gt;&lt;p&gt;　　“向战车，敬礼！”重装运输车前，年轻士兵整齐举起右手，向战车庄严致敬，与即将相伴出征的保障装备正式“报到”。&lt;/p&gt;&lt;p&gt;　　在郑州联勤保障中心某汽车运输团，刚下连的士兵正在开展入连教育的“第一课”。官兵身后，“绝对忠诚、绝对纯洁、绝对可靠”标语格外醒目耀眼。&lt;/p&gt;&lt;p&gt;　　庄严的军礼，铿锵的誓言。联勤官兵时刻牢记嘱托，秉持联勤为战、铁心向党的如磐信念，甘于默默坚守，铸就胜战威名。&lt;/p&gt;&lt;p&gt;　　“守大山就是守江山、守库门就是守国门！”深山腹地，仓库官兵以库为家、甘守寂寞；雪域天路，汽车兵车轮不息、信念如磐，在高寒缺氧中闯过生命禁区；烈日荒原，管线兵铁肩扛“油龙”、热血保畅通……放眼联勤保障部队座座军营，广大官兵扎根战位，扛起保障打赢的千钧重担。&lt;/p&gt;&lt;p&gt;　　10年间，联勤保障部队始终坚持党对军队的绝对领导，全面深入贯彻军委主席负责制，持续推进政治建军、深化整训锻造，切实把党的政治优势和组织优势转化为制胜优势。广大官兵持续淬炼政治忠诚，始终坚持正确政治方向，牢牢立起保障打赢的导向。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;向战而行，全域保障图景铺展开来&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　打仗在某种意义上讲就是打保障。后勤保障是战斗力的重要组成部分，直接影响战争进程和结局。&lt;/p&gt;&lt;p&gt;　　中原腹地，某汽车运输团战备值班室内，作战态势图铺满大屏，各要素值班人员键指如飞；楼前车场，满载物资的重装运输车队列阵待命、引擎待发。&lt;/p&gt;&lt;p&gt;　　“接令前出，对某合成旅实施伴随保障！”&lt;/p&gt;&lt;p&gt;　　一声令下，战车轰鸣。复杂路段重装转运、临机特情应急处置……演训场上硝烟弥漫，一条钢铁运输线直抵作战前沿。&lt;/p&gt;&lt;p&gt;　　从单一运输向体系保障转型，从“拉得出”向“打得赢”升级，这个团的练兵足迹，是新型联勤保障体制支撑联合作战的生动缩影。&lt;/p&gt;&lt;p&gt;　　后勤因战而生、为战而建，保障打仗是根本指向，保障打赢是第一要务。&lt;/p&gt;&lt;p&gt;　　新时代以来，联勤保障部队坚持一切工作向保障打赢聚焦，资源配置向实战需求倾斜，保障布局向战略方向优化，信息化建设向为战抓建迈进。&lt;/p&gt;&lt;p&gt;　　实战实训，向联合加速迈进。&lt;/p&gt;&lt;p&gt;　　从雪域高原到南方密林，从东海之滨到西部边陲，放眼座座联勤演训场，一张“全域保障图”正在大江南北铺展开来。&lt;/p&gt;&lt;p&gt;　　“嘟嘟嘟！”急促的哨音骤然响起。某储供基地，一场应急保障训练全面展开。&lt;/p&gt;&lt;p&gt;　　“管线发生泄漏！”特情突至，抢修分队迅即前出。“油料队遭袭出现人员受伤”“仓库供电系统中断”……导调组临机叠加特情，多重考验同步检验综合保障能力。维修分队现场抢修，卫勤分队快速转运“伤员”，各保障要素高效协同、无缝衔接。&lt;/p&gt;&lt;p&gt;　　基地领导一语中的：“现代战场，每个保障要素都是联合作战链条上的关键一环。”&lt;/p&gt;&lt;p&gt;　　联勤保障部队官兵始终保持“先到位、后收场、全程用”的战备状态。从红蓝对抗到“联勤使命”“精武联勤”系列演训，从阅兵场严整列阵到联合演训伴随保障，从高原驻训到海外维和……10年间，官兵持续破除和平积弊与属地保障惯性思维，在实战化硝烟中打磨保障硬功、提升打赢本领。&lt;/p&gt;&lt;p&gt;　　“数智联勤”，融合嵌入作战体系。&lt;/p&gt;&lt;p&gt;　　某部卫勤训练场上，空中无人机盘旋搜寻“伤员”，地面“机器狼”前送急救物资，履带式无人救护车接力转运……这不是电影，而是联勤保障部队官兵的备战日常。&lt;/p&gt;&lt;p&gt;　　近年来，联勤保障部队紧盯科技之变、战争之变、对手之变，推动保障与科技全面融合，壮大新质保障力量。无人机集群高原投送、无人车伴随保障，智慧物流、远程医疗，新质保障力量正在规模化、实战化、体系化发展。&lt;/p&gt;&lt;p&gt;　　这10年，联勤保障覆盖范围、响应速度、保障质效实现新的突破。全域直达、立体投送、随时能保……一声声“保障到位”的指令，成为联勤阵地鲜明的战斗标识。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;体系重塑，三链贯通释放变革势能&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　10年间，两个历史瞬间，定格了一支新型力量的成长轨迹——&lt;/p&gt;&lt;p&gt;　　2019年10月1日，庆祝中华人民共和国成立70周年阅兵仪式上，联勤保障部队方队首次走过天安门广场。这支改革催生的新型力量从幕后走向台前，以崭新姿态接受祖国和人民的检阅。&lt;/p&gt;&lt;p&gt;　　2025年9月3日，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵仪式上，联勤保障部队首次擎起兵种军旗受阅，充分展现改革重塑之后新型保障力量的时代风貌。&lt;/p&gt;&lt;p&gt;　　军旗猎猎，步履铿锵。从列阵亮相到擎旗受阅，这支力量的成长轨迹清晰可见。&lt;/p&gt;&lt;p&gt;　　转型，靠的是体系重塑、科技赋能、人才支撑协同发力。&lt;/p&gt;&lt;p&gt;　　某联勤保障中心智能立体库房内，自动分拣系统高速运转，数百吨战备物资“一键出库、精准配送”；某重装运输营千里机动，公路、铁路、空运、海运多式联运无缝衔接，整建制将主战装备按时投送至预定地域；野战医疗队配属远程诊疗系统，在实战化演训中成功实施战创伤损伤控制手术。&lt;/p&gt;&lt;p&gt;　　军事物流链、联合投送链、战场救治链，三链贯通融合、一体联动，新型联勤保障体系的效能正在加速释放。&lt;/p&gt;&lt;p&gt;　　支撑这条“链”的，是人才。一个个闪光的名字，如同散布在祖国大地上的点点星光，共同照亮联勤保障的奋进之路——&lt;/p&gt;&lt;p&gt;　　申传安，解放军总医院第四医学中心烧伤整形医学部主任。他带领团队紧盯战烧伤救治核心难题持续攻关，研发出适合战场应用的“十倍法补液公式”、饮用水腹腔补液复苏、自体皮肤循环再造技术等多项原创成果，有效降低危重烧伤病死率。更为可贵的是，团队把成果向演训一线下沉，累计培训数千名基层卫勤骨干。&lt;/p&gt;&lt;p&gt;　　蒋新生，联勤保障部队工程大学教授。他牵头研发的油气储输系统高速抑爆灭火系统，荣获军队科技进步奖一等奖。他说：“科研课题从一线来，技术成果到打赢中去。”朴实的话语，道出了院校科研紧贴部队、服务打赢的根本逻辑。&lt;/p&gt;&lt;p&gt;　　张俊凯，某汽车运输旅一级军士长。数十年深耕野战装备维修保障岗位，这位老班长把扳手看得比什么都重。“别看扳手小，连着保障打赢的大底盘。”这是他的心得，也是基层联勤官兵的共同心声。&lt;/p&gt;&lt;p&gt;　　还有全军首位抵达海拔5681米任务点位的女军医张瑛、16次参加重大演训任务的管线尖兵吴勇、27年扎根深山与导弹为伴的“兵专家”李继旭……&lt;/p&gt;&lt;p&gt;　　广大联勤保障部队官兵把使命铭记心底，默默无闻铺就钢铁保障线，共同托举联合作战的胜利之路。&lt;/p&gt;&lt;p&gt;　　10年，是一个重要的时间刻度，更是一个崭新的起点。&lt;/p&gt;&lt;p&gt;　　回望这10年，联勤保障部队在习近平强军思想引领下，在改革强军的浪潮中，完成了从“后勤”到“联勤”、从“保障队”到“战斗队”的跨越。体制重塑、力量重构、能力重生，他们正朝着“建设一支强大的现代化联勤保障部队”的战略目标阔步前行。&lt;/p&gt;&lt;p&gt;　　展望新征程，攻坚冲刺建军一百年奋斗目标的战鼓已经擂响。联勤保障部队广大官兵把忠诚镌刻在战位，把使命熔铸进保障，将“一切为了前线、一切为了胜利”的铿锵誓言，化为大江南北奔涌不息的铁流。&lt;/p&gt;&lt;p&gt;　　征途如虹，惟有奋斗。&lt;/p&gt;&lt;p&gt;　　站在新的历史起点上，这支改革催生的新型力量正以更加昂扬的斗志、更加过硬的本领，在强军兴军新征程上奋力书写联勤保障的崭新篇章，为备战打仗、国家安全和人民利益筑牢坚不可摧的保障支撑。&lt;/p&gt;&lt;p&gt;　　铁流奔涌，为打赢而来，向胜利冲锋！&lt;/p&gt;&lt;p&gt;　　（于正兴参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  金正波  李龙伊&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 新时代，联勤保障部队牢记使命嘱托、担当强军重任—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180594&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180594.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180594.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 建设强大的现代化后勤 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180594.html#[01版：要闻] 建设强大的现代化后勤</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 从快递利润增速看活力（今日谈）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180595.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 从快递利润增速看活力（今日谈） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							余  璇&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　日前，主要快递上市公司相继发布“半年报”，一个亮点引人注目：利润增速普遍“跑赢”件量增速。这意味着快递业正在摆脱“量增利减”局面，展现更加充沛的活力。&lt;/p&gt;&lt;p&gt;　　活力从哪里来？&lt;/p&gt;&lt;p&gt;　　新质生产力落地生根。“汗水快递”变身“智慧快递”，数智转型释放红利。身边的智能设备、企业的智能应用愈发常见，人工智能赋能千行百业，实体经济新增长点不断涌现。&lt;/p&gt;&lt;p&gt;　　经济秩序“放得活”又“管得好”。不止快递业，从钢铁、光伏到汽车、外卖，有效市场和有为政府同向发力，深入整治“内卷式”竞争成效不断显现。&lt;/p&gt;&lt;p&gt;　　发展活力夯实底气。增长的包裹数量折射我国经济韧性持续增强，内需潜力不断释放。依托超大规模市场，回应消费需求变化、优化供需匹配，经营主体发展动能愈发强劲。&lt;/p&gt;&lt;p&gt;　　坚定信心，迎难而上，用好各种机遇和优势，高质量发展的道路上，生机无限、未来可期。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;余  璇&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180595&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180595.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180595.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 从快递利润增速看活力（今日谈） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180595.html#[01版：要闻] 从快递利润增速看活力（今日谈）</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] “大金砖合作”，何以成其大？</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180596.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “大金砖合作”，何以成其大？ &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李建广&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　金秋时节，中国元首外交再启繁忙时刻。中亚、中东之行圆满结束后不久，习近平主席应印度共和国总理莫迪邀请，于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。&lt;/p&gt;&lt;p&gt;　　风云激荡的世界舞台上，金砖占有特别的分量。从研究报告里的一个经济概念，发展成为塑造国际格局的重要力量，金砖合作“看似偶然，但实属历史必然”。&lt;/p&gt;&lt;p&gt;　　历史潮流澎湃向前，20年不凡历程，金砖何以成其大？迈向下一个20年，又将书写怎样的新篇章？&lt;/p&gt;&lt;p&gt;　　浩荡大势中，有这样两个观察的维度。&lt;/p&gt;&lt;p&gt;　　一个是世界发展和国际格局演变的历史进程，一个是金砖国家各自和共同发展的历史进程。两个维度，阐明金砖合作的历史纵深和时代方位。&lt;/p&gt;&lt;p&gt;　　置于国际格局的天平上看，以金砖为代表的新兴市场国家和发展中国家的砝码不断加重。数据印证这份分量和成色：金砖国家人口占世界近一半，经济总量约占世界30%，贸易总额占世界1/5。&lt;/p&gt;&lt;p&gt;　　置身现代化的进程中看，在自主选择的现代化之路上，共同的发展梦想、共同的机遇和挑战，夯筑金砖合作的内生动力，感染着、鼓舞着广大全球南方国家。&lt;/p&gt;&lt;p&gt;　　潮起南方。金砖合作的大气象，映照全球南方群体性崛起的历史进程，昭示全球南方国家共同迈向现代化的勇毅笃行。正如习近平主席引用的诗句：“青山遮不住，毕竟东流去。”&lt;/p&gt;&lt;p&gt;　　携手共进中，有这样一种合作之道。&lt;/p&gt;&lt;p&gt;　　印度新德里，金砖大家庭跨山越海而来。国情有别、禀赋各异，金砖国家缘何能走到一起？&lt;/p&gt;&lt;p&gt;　　“交得其道，千里同好，固于胶漆，坚于金石。”2017年厦门会晤，习近平主席用这句中国古语点明要旨：“金砖合作之所以得到快速发展，关键在于找准了合作之道。”&lt;/p&gt;&lt;p&gt;　　在时代发展的坐标系中探求新的合作之道。“平等相待、求同存异”“务实创新、合作共赢”“胸怀天下、立己达人”，凝结着金砖国家共同的价值追求。&lt;/p&gt;&lt;p&gt;　　道之所在，人心所归。&lt;/p&gt;&lt;p&gt;　　犹记2017年厦门会晤期间，习近平主席创造性提出“金砖+”理念，首次将金砖合作伙伴对象扩大至全球范围。2023年“大金砖合作”启幕之际，金砖国家同50多个国家聚首南非。习近平主席的话语掷地有声：“不是拉谁选边站队，不是搞阵营对抗，而是打造和平发展的大格局。”&lt;/p&gt;&lt;p&gt;　　大格局，大胸怀。在金砖与全球南方携手共进的路上，中国始终是推动者、引领者。&lt;/p&gt;&lt;p&gt;　　13年前，习近平主席作为中国国家元首首次亮相国际多边舞台，就是在金砖。此后，习近平主席多次主持或出席金砖国家领导人会晤。从提出金砖国家合作“四大目标”到倡导金砖精神，从首倡“金砖+”合作模式到提出“五大金砖”为“大金砖合作”聚力赋能……一路风雨兼程，金砖合作发展的每一个关键节点，都留下了鲜明的中国印记。&lt;/p&gt;&lt;p&gt;　　动荡变革中，有这样一份团结之力。&lt;/p&gt;&lt;p&gt;　　当人类社会又一次站在历史的十字路口，是任由世界动荡不安，还是推动其重回和平发展正道？&lt;/p&gt;&lt;p&gt;　　面临关键抉择，习近平主席在2024年喀山会晤上讲了这样一段话：“我想到俄罗斯作家车尔尼雪夫斯基的著作《怎么办？》，书中主人公的坚强意志和奋斗激情，正是当前我们所需要的精神力量。”&lt;/p&gt;&lt;p&gt;　　越是艰难动荡，越显责任担当。&lt;/p&gt;&lt;p&gt;　　共谋发展。金砖新开发银行累计批准贷款总额超420亿美元，成长为国际金融体系中新兴力量和全球南方合作的金字招牌；金砖国家新工业革命伙伴关系深化工业化、数字化、创新等务实合作。&lt;/p&gt;&lt;p&gt;　　共筑安全。金砖国家领导人巴以问题特别视频峰会协调立场、共担大义；中国、巴西关于政治解决乌克兰危机的“六点共识”得到超过110个国家积极回应。&lt;/p&gt;&lt;p&gt;　　共兴文明。中方牵头成立“全球南方”智库合作联盟，金砖数字教育合作倡议、金砖数字教育能力建设计划等，助力金砖人文交流走深走实。&lt;/p&gt;&lt;p&gt;　　共襄治理。“金砖+”模式不断深化拓展，构建起覆盖全球主要区域的合作网络，“大金砖合作”成为推动实现平等有序的世界多极化、普惠包容的经济全球化的重要力量。&lt;/p&gt;&lt;p&gt;　　疾风知劲草，烈火见真金。世界动荡变革之际，一项项金砖主张、金砖行动，为世界注入宝贵的稳定性和正能量。&lt;/p&gt;&lt;p&gt;　　“把金砖打造成促进‘全球南方’团结合作的主要渠道、推动全球治理变革的先锋力量”“推进‘大金砖合作’，携手构建人类命运共同体”。时代的风浪中，一份笃行坚如磐石，一份抉择更显博大气魄。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李建广&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180596&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180596.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180596.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “大金砖合作”，何以成其大？ &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180596.html#[02版：要闻] “大金砖合作”，何以成其大？</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 为构建人类命运共同体贡献“大金砖”力量（大使随笔）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180597.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 为构建人类命运共同体贡献“大金砖”力量（大使随笔） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							徐飞洪&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　应印度共和国总理莫迪邀请，习近平主席于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。此次峰会恰逢金砖合作机制成立20周年。中方将同金砖成员国和伙伴国一道，回顾金砖合作光辉历程，共绘“大金砖”高质量发展新蓝图。&lt;/p&gt;&lt;p&gt;　　金砖合作机制诞生于新兴市场和发展中国家群体性崛起的历史大潮。20年间，世界格局深刻调整，金砖机制坚守初心，与时俱进，在变局中发展，在合作中壮大。如今，金砖国家来自四大洲，人口占世界近一半，经济总量约占世界30%，对世界经济增长的贡献率超过50%，成为全球南方团结合作的“金字招牌”。&lt;/p&gt;&lt;p&gt;　　金砖20年，汇聚的是发展之势。金砖国家集聚“大富矿”“大工厂”“大市场”，资源禀赋各异，产业优势互补。20年来，金砖国家不断拓展经贸财金、科技创新、绿色发展等领域合作，建立健全新开发银行、应急储备安排等合作机制，深化新工业革命伙伴关系，推动各方优势转化为发展合力。截至目前，新开发银行已批准140多个项目，累计融资逾400亿美元。金砖创新基地累计签约138个合作项目，投资额超90亿美元。“大金砖合作”不断走深走实，为南方国家携手实现现代化提供了重要支撑，也为推动更加普惠包容的经济全球化贡献了重要力量。&lt;/p&gt;&lt;p&gt;　　金砖20年，开辟的是治理新局。面对多边和单边、公道和霸道之争，金砖国家始终高举多边主义旗帜，坚定捍卫联合国宪章宗旨和原则，旗帜鲜明反对霸权主义、单边主义、保护主义，推动国际货币金融体系改革，推动构建更加公正合理的国际秩序。面对全球治理赤字，金砖国家围绕气候变化、人工智能治理、粮食能源安全、公共卫生等议题协调发声。面对地缘热点，金砖国家加强沟通协调，倡导通过政治外交途径解决争端、实现和平。在金砖引领下，全球南方不再是“沉默的大多数”，日益成为推动全球治理体系变革的重要力量。&lt;/p&gt;&lt;p&gt;　　金砖20年，彰显的是包容之道。从最初的“金砖四国”到扩员后的金砖大家庭，金砖机制始终秉持开放包容、合作共赢的金砖精神，合作之路越走越宽。开启扩员进程以来，已有6个新成员加入、10国成为伙伴国，越来越多国家期待叩开金砖大门。金砖各国国情不同、制度各异，却始终平等相待、求同存异，相互尊重彼此自主选择的发展道路，在交流互鉴中增进理解，凝聚共识。多年来，各国不断深化青年、教育、文化、智库等领域交流，民心相通的纽带越系越牢，架起跨越山海的友谊桥梁。&lt;/p&gt;&lt;p&gt;　　20年来，中国始终是金砖的重要参与者、建设者、推动者。中共十八大以来，习近平主席以世界眼光把握发展大势，在金砖合作多个关键节点提出一系列重要理念和倡议，为金砖发展壮大注入独特的中国智慧、中国方案。从开创性地提出“金砖+”合作模式，到推动金砖扩员，从提出“‘大金砖合作’高质量发展”重要理念，到构建和平、创新、绿色、公正、人文“五大金砖”合作布局，习近平主席亲力亲为，赋予“大金砖”更加清晰的发展方向。明年，中方将再次担任金砖轮值主席国。在百年变局加速演进、全球性挑战交织叠加的历史关口，国际社会更加期待中方发挥引领作用，推动“大金砖合作”迈上新台阶，为充满不确定的世界注入更多确定性和正能量。&lt;/p&gt;&lt;p&gt;　　金砖合作行稳致远，离不开各方共同参与和接续努力。印度担任今年金砖轮值主席国以来，围绕“建设韧性、创新、合作与可持续发展”主题，举办了300多场活动。印度和中国分别作为今明两年金砖轮值主席国，双方保持良好协作，有利于“大金砖合作”向纵深发展，有利于推动世界多极化和国际关系民主化，有利于更好维护广大发展中国家的共同利益。&lt;/p&gt;&lt;p&gt;　　大道同行，未来可期。站在第三个“金色十年”的起点，中方愿同各方携手同心，砥砺前行，不断开创“大金砖合作”高质量发展新局面，为构建人类命运共同体贡献“大金砖”力量！&lt;/p&gt;&lt;p&gt;　　（作者为中国驻印度大使） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;徐飞洪&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180597&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180597.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180597.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 为构建人类命运共同体贡献“大金砖”力量（大使随笔） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180597.html#[02版：要闻] 为构建人类命运共同体贡献“大金砖”力量（大使随笔）</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 建设强大的现代化后勤</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180598.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 新时代，联勤保障部队牢记使命嘱托、担当强军重任—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 建设强大的现代化后勤 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  金正波  李龙伊&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　这是历史性的庄严一刻——&lt;/p&gt;&lt;p&gt;　　2016年9月13日，北京，中央军委联勤保障部队成立大会举行。习近平主席向武汉联勤保障基地和无锡、桂林、西宁、沈阳、郑州联勤保障中心授予军旗并致训词，代表党中央和中央军委向联勤保障部队全体指战员致以热烈的祝贺。一支全新的力量，列阵于人民军队的战斗序列。&lt;/p&gt;&lt;p&gt;　　一场关于联战联保的深刻变革，在神州大地的一座座军营里激荡开来。从“区域分散”到“三军一体”，从“定点保障”到“全域联动”，从“人力密集”到“科技赋能”……&lt;/p&gt;&lt;p&gt;　　10年，于浩荡的历史长河中，只是一瞬。然而对于这支在改革大潮中诞生的新型保障力量而言，10年足以写下从无到有、从有到强的豪迈篇章。&lt;/p&gt;&lt;p&gt;　　强国强军，必须强后勤。&lt;/p&gt;&lt;p&gt;　　奋进新征程，在习近平强军思想引领下，联勤保障部队官兵按照“坚决听党指挥、聚焦能打胜仗、锐意改革创新、优质高效保障”的要求，不断加强全面建设、加快转型重塑、加紧能力提升，向着建设一支强大的现代化联勤保障部队阔步前行。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;初心如磐，血脉里流淌忠诚基因&lt;/strong&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　2019年6月，在联勤保障部队军师职领导干部理论轮训班上，95岁高龄的中国工程院院士、东部战区总医院原副院长黎介寿真情告白：“我对党的信仰一经确立，就没有动摇过！”&lt;/p&gt;&lt;p&gt;　　一番话，饱含着一位老党员的赤诚初心，也道出联勤保障部队官兵的忠诚信仰。&lt;/p&gt;&lt;p&gt;　　回望我军后勤战线的峥嵘岁月，抗美援朝战场上，志愿军将士用鲜血和生命构筑起“打不烂、炸不断的钢铁运输线”。敌机狂轰滥炸之下，运输线断了修、修了断、断了再修，支撑将士们前赴后继的，是同一个信念：党带领人民军队战斗在哪里，就要保障到哪里。&lt;/p&gt;&lt;p&gt;　　一代代“粮草官”把忠诚刻进骨子里，扎根一线、向战为战，扛起保障打赢的千钧重担。“一切为了前线、一切为了胜利”，始终是鲜明的精神底色。&lt;/p&gt;&lt;p&gt;　　忠诚跨越时空，在血脉传承中历久弥新——&lt;/p&gt;&lt;p&gt;　　人民军队后勤光荣传统薪火相传、底蕴厚重，白求恩精神等跨越时空，始终是滋养官兵初心、指引前行方向的精神根脉。&lt;/p&gt;&lt;p&gt;　　联勤保障部队深耕红色育人、战位铸魂，推动优良传统深度融入联战联保实践，让红色基因在战位上转化为履职尽责的实际行动，激励官兵在新时代联勤保障一线彰显忠诚奉献本色。&lt;/p&gt;&lt;p&gt;　　改革重塑以来，联勤保障部队深挖红色资源、赓续精神血脉，组织专门力量系统梳理后勤优良传统和精神特质，编印我军后勤光荣传统和英模典型故事集，引导广大官兵把弘扬优良传统与履行联战联保使命任务紧密结合，在保障打赢实践中不断赋予传统精神新的时代内涵，把忠诚使命镌刻在祖国大地。&lt;/p&gt;&lt;p&gt;　　忠诚融入实践，在担当使命中接续前行——&lt;/p&gt;&lt;p&gt;　　拉得出、上得去、保得好。&lt;/p&gt;&lt;p&gt;　　在国际维和战场，一支支维和医疗队远赴黎巴嫩、刚果（金）、马里、南苏丹，履行维和使命，为当地和平稳定贡献联勤力量；在2020年初抗击新冠肺炎疫情期间，联勤保障部队迅速抽组医疗队伍、采购防疫物资、组织运输保障，充分展现了后勤体系重塑后我军一体化保障能力……&lt;/p&gt;&lt;p&gt;　　初心如磐，薪火相传。无论哪一个“战场”，只要祖国和人民需要，就有联勤保障部队官兵的身影。&lt;/p&gt;&lt;p&gt;　　忠诚刻进战位，在革命性锻造中愈发坚定——&lt;/p&gt;&lt;p&gt;　　“向战车，敬礼！”重装运输车前，年轻士兵整齐举起右手，向战车庄严致敬，与即将相伴出征的保障装备正式“报到”。&lt;/p&gt;&lt;p&gt;　　在郑州联勤保障中心某汽车运输团，刚下连的士兵正在开展入连教育的“第一课”。官兵身后，“绝对忠诚、绝对纯洁、绝对可靠”标语格外醒目耀眼。&lt;/p&gt;&lt;p&gt;　　庄严的军礼，铿锵的誓言。联勤官兵时刻牢记嘱托，秉持联勤为战、铁心向党的如磐信念，甘于默默坚守，铸就胜战威名。&lt;/p&gt;&lt;p&gt;　　“守大山就是守江山、守库门就是守国门！”深山腹地，仓库官兵以库为家、甘守寂寞；雪域天路，汽车兵车轮不息、信念如磐，在高寒缺氧中闯过生命禁区；烈日荒原，管线兵铁肩扛“油龙”、热血保畅通……放眼联勤保障部队座座军营，广大官兵扎根战位，扛起保障打赢的千钧重担。&lt;/p&gt;&lt;p&gt;　　10年间，联勤保障部队始终坚持党对军队的绝对领导，全面深入贯彻军委主席负责制，持续推进政治建军、深化整训锻造，切实把党的政治优势和组织优势转化为制胜优势。广大官兵持续淬炼政治忠诚，始终坚持正确政治方向，牢牢立起保障打赢的导向。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;向战而行，全域保障图景铺展开来&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　打仗在某种意义上讲就是打保障。后勤保障是战斗力的重要组成部分，直接影响战争进程和结局。&lt;/p&gt;&lt;p&gt;　　中原腹地，某汽车运输团战备值班室内，作战态势图铺满大屏，各要素值班人员键指如飞；楼前车场，满载物资的重装运输车队列阵待命、引擎待发。&lt;/p&gt;&lt;p&gt;　　“接令前出，对某合成旅实施伴随保障！”&lt;/p&gt;&lt;p&gt;　　一声令下，战车轰鸣。复杂路段重装转运、临机特情应急处置……演训场上硝烟弥漫，一条钢铁运输线直抵作战前沿。&lt;/p&gt;&lt;p&gt;　　从单一运输向体系保障转型，从“拉得出”向“打得赢”升级，这个团的练兵足迹，是新型联勤保障体制支撑联合作战的生动缩影。&lt;/p&gt;&lt;p&gt;　　后勤因战而生、为战而建，保障打仗是根本指向，保障打赢是第一要务。&lt;/p&gt;&lt;p&gt;　　新时代以来，联勤保障部队坚持一切工作向保障打赢聚焦，资源配置向实战需求倾斜，保障布局向战略方向优化，信息化建设向为战抓建迈进。&lt;/p&gt;&lt;p&gt;　　实战实训，向联合加速迈进。&lt;/p&gt;&lt;p&gt;　　从雪域高原到南方密林，从东海之滨到西部边陲，放眼座座联勤演训场，一张“全域保障图”正在大江南北铺展开来。&lt;/p&gt;&lt;p&gt;　　“嘟嘟嘟！”急促的哨音骤然响起。某储供基地，一场应急保障训练全面展开。&lt;/p&gt;&lt;p&gt;　　“管线发生泄漏！”特情突至，抢修分队迅即前出。“油料队遭袭出现人员受伤”“仓库供电系统中断”……导调组临机叠加特情，多重考验同步检验综合保障能力。维修分队现场抢修，卫勤分队快速转运“伤员”，各保障要素高效协同、无缝衔接。&lt;/p&gt;&lt;p&gt;　　基地领导一语中的：“现代战场，每个保障要素都是联合作战链条上的关键一环。”&lt;/p&gt;&lt;p&gt;　　联勤保障部队官兵始终保持“先到位、后收场、全程用”的战备状态。从红蓝对抗到“联勤使命”“精武联勤”系列演训，从阅兵场严整列阵到联合演训伴随保障，从高原驻训到海外维和……10年间，官兵持续破除和平积弊与属地保障惯性思维，在实战化硝烟中打磨保障硬功、提升打赢本领。&lt;/p&gt;&lt;p&gt;　　“数智联勤”，融合嵌入作战体系。&lt;/p&gt;&lt;p&gt;　　某部卫勤训练场上，空中无人机盘旋搜寻“伤员”，地面“机器狼”前送急救物资，履带式无人救护车接力转运……这不是电影，而是联勤保障部队官兵的备战日常。&lt;/p&gt;&lt;p&gt;　　近年来，联勤保障部队紧盯科技之变、战争之变、对手之变，推动保障与科技全面融合，壮大新质保障力量。无人机集群高原投送、无人车伴随保障，智慧物流、远程医疗，新质保障力量正在规模化、实战化、体系化发展。&lt;/p&gt;&lt;p&gt;　　这10年，联勤保障覆盖范围、响应速度、保障质效实现新的突破。全域直达、立体投送、随时能保……一声声“保障到位”的指令，成为联勤阵地鲜明的战斗标识。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;体系重塑，三链贯通释放变革势能&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　10年间，两个历史瞬间，定格了一支新型力量的成长轨迹——&lt;/p&gt;&lt;p&gt;　　2019年10月1日，庆祝中华人民共和国成立70周年阅兵仪式上，联勤保障部队方队首次走过天安门广场。这支改革催生的新型力量从幕后走向台前，以崭新姿态接受祖国和人民的检阅。&lt;/p&gt;&lt;p&gt;　　2025年9月3日，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵仪式上，联勤保障部队首次擎起兵种军旗受阅，充分展现改革重塑之后新型保障力量的时代风貌。&lt;/p&gt;&lt;p&gt;　　军旗猎猎，步履铿锵。从列阵亮相到擎旗受阅，这支力量的成长轨迹清晰可见。&lt;/p&gt;&lt;p&gt;　　转型，靠的是体系重塑、科技赋能、人才支撑协同发力。&lt;/p&gt;&lt;p&gt;　　某联勤保障中心智能立体库房内，自动分拣系统高速运转，数百吨战备物资“一键出库、精准配送”；某重装运输营千里机动，公路、铁路、空运、海运多式联运无缝衔接，整建制将主战装备按时投送至预定地域；野战医疗队配属远程诊疗系统，在实战化演训中成功实施战创伤损伤控制手术。&lt;/p&gt;&lt;p&gt;　　军事物流链、联合投送链、战场救治链，三链贯通融合、一体联动，新型联勤保障体系的效能正在加速释放。&lt;/p&gt;&lt;p&gt;　　支撑这条“链”的，是人才。一个个闪光的名字，如同散布在祖国大地上的点点星光，共同照亮联勤保障的奋进之路——&lt;/p&gt;&lt;p&gt;　　申传安，解放军总医院第四医学中心烧伤整形医学部主任。他带领团队紧盯战烧伤救治核心难题持续攻关，研发出适合战场应用的“十倍法补液公式”、饮用水腹腔补液复苏、自体皮肤循环再造技术等多项原创成果，有效降低危重烧伤病死率。更为可贵的是，团队把成果向演训一线下沉，累计培训数千名基层卫勤骨干。&lt;/p&gt;&lt;p&gt;　　蒋新生，联勤保障部队工程大学教授。他牵头研发的油气储输系统高速抑爆灭火系统，荣获军队科技进步奖一等奖。他说：“科研课题从一线来，技术成果到打赢中去。”朴实的话语，道出了院校科研紧贴部队、服务打赢的根本逻辑。&lt;/p&gt;&lt;p&gt;　　张俊凯，某汽车运输旅一级军士长。数十年深耕野战装备维修保障岗位，这位老班长把扳手看得比什么都重。“别看扳手小，连着保障打赢的大底盘。”这是他的心得，也是基层联勤官兵的共同心声。&lt;/p&gt;&lt;p&gt;　　还有全军首位抵达海拔5681米任务点位的女军医张瑛、16次参加重大演训任务的管线尖兵吴勇、27年扎根深山与导弹为伴的“兵专家”李继旭……&lt;/p&gt;&lt;p&gt;　　广大联勤保障部队官兵把使命铭记心底，默默无闻铺就钢铁保障线，共同托举联合作战的胜利之路。&lt;/p&gt;&lt;p&gt;　　10年，是一个重要的时间刻度，更是一个崭新的起点。&lt;/p&gt;&lt;p&gt;　　回望这10年，联勤保障部队在习近平强军思想引领下，在改革强军的浪潮中，完成了从“后勤”到“联勤”、从“保障队”到“战斗队”的跨越。体制重塑、力量重构、能力重生，他们正朝着“建设一支强大的现代化联勤保障部队”的战略目标阔步前行。&lt;/p&gt;&lt;p&gt;　　展望新征程，攻坚冲刺建军一百年奋斗目标的战鼓已经擂响。联勤保障部队广大官兵把忠诚镌刻在战位，把使命熔铸进保障，将“一切为了前线、一切为了胜利”的铿锵誓言，化为大江南北奔涌不息的铁流。&lt;/p&gt;&lt;p&gt;　　征途如虹，惟有奋斗。&lt;/p&gt;&lt;p&gt;　　站在新的历史起点上，这支改革催生的新型力量正以更加昂扬的斗志、更加过硬的本领，在强军兴军新征程上奋力书写联勤保障的崭新篇章，为备战打仗、国家安全和人民利益筑牢坚不可摧的保障支撑。&lt;/p&gt;&lt;p&gt;　　铁流奔涌，为打赢而来，向胜利冲锋！&lt;/p&gt;&lt;p&gt;　　（于正兴参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  金正波  李龙伊&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 新时代，联勤保障部队牢记使命嘱托、担当强军重任—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180598&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180598.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180598.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 建设强大的现代化后勤 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180598.html#[02版：要闻] 建设强大的现代化后勤</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 携手推动“大金砖合作”高质量发展</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180599.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 携手推动“大金砖合作”高质量发展 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  车  斌  苑基荣&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　今年是金砖合作机制成立20周年。20年来，从促进贸易和投资自由化便利化，到逐步深入数字经济、绿色低碳、人工智能等新领域，金砖国家及伙伴国坚持开放共赢，发挥各自优势，深化务实合作，“大金砖合作”枝繁叶茂，不断取得丰硕成果，更多更好惠及各国人民。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“新兴市场国家和发展中国家拓展了贸易和投资空间”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　今年2月9日，中国厦门高崎国际机场，随着一架搭载着89吨出口跨境电商包裹、机械设备和邮包的航班缓缓驶离，中国首条金砖城市跨境电商空运专线（金砖专线）迎来成功运营3年。自2023年2月10日开航以来，这条连接中国厦门与巴西圣保罗的空中“金色长廊”，将中国与巴西乃至南美洲的经贸合作纽带越拉越紧。&lt;/p&gt;&lt;p&gt;　　金砖专线是金砖国家加强经贸往来的缩影。联合国贸发会议发布的《金砖国家内部贸易二十年：趋势、模式与政策》显示，按出口口径计算，金砖国家内部货物贸易额从2003年的842亿美元攀升至2024年的1.17万亿美元，增长超过13倍，年均增速达13.3%，明显快于同期全球贸易增长水平。&lt;/p&gt;&lt;p&gt;　　金砖国家在资源禀赋、产业结构和发展需求上互补性强。来自南非的铬矿石经过中国工厂合金冶炼，变成高端不锈钢板材，出现在印度班加罗尔的精密仪器车间里；中国制造的现代化收割机驰骋在巴西的农田上，而巴西生产的大豆销往全球……依托多层级合作机制，落实《金砖国家经贸合作行动纲领》《金砖国家投资便利化合作纲要》等协议文件，“大金砖合作”互利共赢的故事越来越多。&lt;/p&gt;&lt;p&gt;　　“金砖合作有助于改善成员间的贸易关系。通过扩大成员间市场联系，新兴市场国家和发展中国家拓展了贸易和投资空间。”印度尼西亚商业与经济研究所高级研究员法贾尔·希拉万说。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“更好助力各国实现可持续发展目标”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　今年2月，印度境内一条总长82.15公里的快速铁路走廊全面投入运营。该走廊连接德里国家首都辖区与北方邦的加济阿巴德和密拉特两座城市。过去，由于道路状况差、交通拥堵，高峰时段从德里到密拉特，驾车需要3到4个小时。如今，这一行程的时间缩短至约1小时。该项目资金来源之一是金砖国家新开发银行。&lt;/p&gt;&lt;p&gt;　　“通过与其他多边开发机构及各国国家开发银行建立广泛全球伙伴关系，新开发银行可以更好助力各国实现可持续发展目标，为促进普惠包容发展发挥重要作用。”印度国际经济关系研究委员会教授阿尔皮塔·穆克吉说。&lt;/p&gt;&lt;p&gt;　　支持中国山西太原武宿零碳机场项目，帮助其实现二氧化碳净零排放；投资俄罗斯收费公路网络扩建项目，助力改善当地交通；参与南非德班集装箱码头扩建和现代化项目……一项项实打实的成果，有效促进全球南方国家现代化发展和全球经济增长。&lt;/p&gt;&lt;p&gt;　　新开发银行已成为国际金融治理体系的重要新兴力量。新开发银行行长罗塞芙表示，新开发银行正持续扩大“朋友圈”，强化其作为全球南方国家之间真正合作平台的职能，助力构建具有多边主义和多极化特点的国际金融架构。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“期待金砖合作机制发挥更大作用”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　在马来西亚柔佛州的榴莲种植基地，一套运用计算机断层扫描与人工智能图像识别技术的检测系统正在对“猫山王”等品种榴莲进行分拣。这套由中国企业开发的系统，将水果品质分级准确率提高至98%，比人工检测提升40倍，推动了当地榴莲产业标准化与现代化。&lt;/p&gt;&lt;p&gt;　　近年来，通过建立金砖国家新工业革命伙伴关系创新基地（金砖创新基地）、成立中国—金砖国家人工智能发展与合作中心、成立金砖国家工业能力中国中心、启动中国—金砖国家新质生产力研究中心等，金砖国家及伙伴国在人工智能、数字发展、科技创新、产业升级、绿色转型等领域不断拓展合作广度和深度。&lt;/p&gt;&lt;p&gt;　　法贾尔·希拉万表示，金砖合作推动成员加强产业链协作，通过投资合作、技术转移等方式促进产业升级。&lt;/p&gt;&lt;p&gt;　　金砖创新基地运行5年多来，促成130余项合作项目落地、投资额超620亿元人民币。巴西皮奥伊州战略投资促进局厦门代表处负责人萨乌罗表示：“金砖创新基地为我们打开了通向中国创新生态的大门。”&lt;/p&gt;&lt;p&gt;　　南非约翰内斯堡大学非洲—中国研究中心研究员西佐·恩卡拉表示，中国在金砖框架下推动的科技与产业合作正为全球南方国家创造实实在在的发展机遇。智能制造与数字经济为产业链合作提供新增长极，人工智能技术共享对于赋能发展中国家意义重大，农业技术培训和气象卫星援助助力非洲绿色发展。“期待金砖合作机制发挥更大作用，为金砖成员共同发展注入动力。”&lt;/p&gt;&lt;p&gt;　　在今年8月举行的金砖国家第十六次经贸部长会议上，中国代表表示，中方愿与各成员在贸易投资自由化便利化、数字经济、服务贸易、绿色矿产、人工智能、特殊经济区等领域深化合作，探索推动制度型经贸安排和经贸一体化建设，推动“大金砖合作”高质量发展，维护全球南方的共同利益。&lt;/p&gt;&lt;p&gt;　　（本报记者曹师韵、李墨、郑翔参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  车  斌  苑基荣&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180599&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180599.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180599.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 携手推动“大金砖合作”高质量发展 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180599.html#[02版：要闻] 携手推动“大金砖合作”高质量发展</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 第三次中国—东非执法安全部长级对话举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180600.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 第三次中国—东非执法安全部长级对话举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报南京9月11日电  第三次中国—东非执法安全部长级对话10日在江苏连云港举行，国务委员、公安部部长王小洪与卢旺达内政部部长比鲁塔担任共同主席。&lt;/p&gt;&lt;p&gt;　　王小洪在主旨讲话中指出，中国—东非执法安全部长级对话机制建立以来，中国与东非各国执法部门战略互信稳步提升，务实合作持续深化，执法能力建设成效显著，取得了一系列可喜成果。&lt;/p&gt;&lt;p&gt;　　王小洪表示，中国愿同东非各国一道，积极践行四大全球倡议，围绕“同心应对共同挑战  携手实现共同安全”主题，坚持合作共商、责任共担、成果共享，共同巩固完善对话合作机制，持续提升执法能力水平，合力打击恐怖主义、绑架和非法拘禁、电信网络诈骗等跨国犯罪，共创中国—东非执法安全合作新篇章，为共建新时代全天候中非命运共同体注入新的发展动力。&lt;/p&gt;&lt;p&gt;　　东非警察首长合作组织成员国代表和非盟警察组织执行主任切尔巴在发言中表示，感谢中方长期以来对非洲的支持和帮助，愿同中方携手同行，深化执法安全务实合作，更好促进地区安全稳定。&lt;/p&gt;&lt;p&gt;　　在连云港，王小洪还分别会见了来华出席全球公共安全合作论坛（连云港）2026年大会的几内亚安全和民事保护部部长迪亚洛、蒙古国法律内务部部长阿玛尔赛汗。&lt;/p&gt;&lt;p&gt;　　在会见迪亚洛时，王小洪表示，中方愿同几方落实好两国元首重要共识和中非合作论坛北京峰会成果，深化执法安全领域务实合作，不断丰富中几全面战略合作伙伴关系内涵。迪亚洛表示，愿学习借鉴中方成功经验，不断提高几方执法能力水平。&lt;/p&gt;&lt;p&gt;　　在会见阿玛尔赛汗时，王小洪表示，中方始终重视发展中蒙关系，愿同蒙方密切人员交流交往，加强打击跨国犯罪等领域务实合作，共同推动中蒙执法安全合作再上新台阶。阿玛尔赛汗表示，愿同中方保持密切沟通协调，以有力举措保障在蒙中方人员、机构和项目安全。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180600&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180600.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180600.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 第三次中国—东非执法安全部长级对话举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180600.html#[02版：要闻] 第三次中国—东非执法安全部长级对话举行</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 公布《市场监督管理所条例》</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180601.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 李强签署国务院令 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 公布《市场监督管理所条例》 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京9月11日电  国务院总理李强日前签署国务院令，公布《市场监督管理所条例》（以下简称《条例》），自2026年11月1日起施行。&lt;/p&gt;&lt;p&gt;　　《条例》旨在加强市场监督管理所建设和管理，更好发挥市场监督管理职能作用，服务经济社会高质量发展。《条例》共19条，主要规定了以下内容。&lt;/p&gt;&lt;p&gt;　　一是明确工作基本原则。规定市场监督管理所工作坚持中国共产党的领导，坚持以人民为中心，坚持依法行政、保障安全、服务发展。&lt;/p&gt;&lt;p&gt;　　二是理顺管理体制机制，优化机构人员配置。明确市场监督管理所是县级人民政府市场监管部门的派出机构，履行辖区内个体工商户登记、食品生产经营日常监管、市场监管领域投诉举报处理和违法行为查处等职责。规定市场监督管理所按照经济区域设立，工作人员配备应当适应辖区经济社会发展和履职需要。规定县级人民政府建立健全将市场监督管理所纳入乡镇、街道统一指挥协调的工作机制，在联合监管、投诉举报处理等方面加强与乡镇人民政府、街道办事处的沟通协调。&lt;/p&gt;&lt;p&gt;　　三是规范监管、加强服务，优化营商环境。要求市场监督管理所依法开展监管活动，严格规范公正文明执法，避免或尽量减少对经营主体正常生产经营活动的影响，接受社会监督。规定市场监督管理所应当增强服务意识，加强与辖区内经营主体、消费者的沟通，公开办事制度，提供规范、便利、高效的政务服务。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 李强签署国务院令 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180601&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180601.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180601.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 公布《市场监督管理所条例》 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180601.html#[03版：要闻] 公布《市场监督管理所条例》</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 市场监督管理所条例</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180602.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 市场监督管理所条例 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　中华人民共和国国务院令&lt;/p&gt;&lt;p&gt;　　第846号&lt;/p&gt;&lt;p&gt;　　《市场监督管理所条例》已经2026年8月21日国务院第94次常务会议通过，现予公布，自2026年11月1日起施行。&lt;/p&gt;&lt;p&gt;　　总理  李  强    &lt;/p&gt;&lt;p&gt;　　2026年9月6日&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　第一条  为了加强市场监督管理所建设和管理，更好发挥市场监督管理职能作用，服务经济社会高质量发展，制定本条例。&lt;/p&gt;&lt;p&gt;　　第二条  市场监督管理所工作坚持中国共产党的领导，坚持以人民为中心，坚持依法行政、保障安全、服务发展。&lt;/p&gt;&lt;p&gt;　　第三条  市场监督管理所是县级人民政府市场监督管理部门的派出机构，以县级人民政府市场监督管理部门的名义作出行政行为。县级人民政府市场监督管理部门应当加强对市场监督管理所的领导和管理。&lt;/p&gt;&lt;p&gt;　　第四条  市场监督管理所按照经济区域设立。市场监督管理所的设立和调整，由县级人民政府市场监督管理部门提出方案，按照规定的权限和程序办理。&lt;/p&gt;&lt;p&gt;　　第五条  市场监督管理所在县级人民政府市场监督管理部门的职责范围内，开展辖区内市场监督管理工作，履行下列职责：&lt;/p&gt;&lt;p&gt;　　（一）办理个体工商户、农民专业合作社（联合社）及其分支机构登记相关事项；&lt;/p&gt;&lt;p&gt;　　（二）承担食品生产经营，药品、医疗器械、化妆品经营，特种设备使用以及产品质量日常监督管理工作；&lt;/p&gt;&lt;p&gt;　　（三）承担反不正当竞争、广告、价格、计量等领域日常监督管理工作；&lt;/p&gt;&lt;p&gt;　　（四）处理市场监督管理领域投诉举报，保护消费者、经营主体等的合法权益；&lt;/p&gt;&lt;p&gt;　　（五）查处或者协助查处违反市场监督管理有关法律、法规、规章的行为；&lt;/p&gt;&lt;p&gt;　　（六）宣传市场监督管理有关法律、法规、规章；&lt;/p&gt;&lt;p&gt;　　（七）其他市场监督管理综合行政执法等职责。&lt;/p&gt;&lt;p&gt;　　市场监督管理所具体职责的确定和调整，由县级人民政府市场监督管理部门在前款规定的职责范围内根据实际情况提出方案，按照规定的权限和程序办理，并向社会公告。&lt;/p&gt;&lt;p&gt;　　第六条  市场监督管理所应当建立健全工作制度，依照有关法律、法规、规章的规定，开展市场监督管理活动，严格规范公正文明执法，避免或者尽量减少对经营主体正常生产经营活动的影响，接受社会监督。&lt;/p&gt;&lt;p&gt;　　第七条  市场监督管理所应当增强服务意识，加强与辖区内经营主体、消费者的沟通，公开办事制度，提供规范、便利、高效的政务服务。&lt;/p&gt;&lt;p&gt;　　第八条  县级人民政府有关部门应当在职责范围内，支持市场监督管理所开展工作。&lt;/p&gt;&lt;p&gt;　　第九条  县级人民政府建立健全将市场监督管理所纳入乡镇、街道统一指挥协调的工作机制。&lt;/p&gt;&lt;p&gt;　　市场监督管理所应当在联合监督管理、投诉举报处理等方面加强与乡镇人民政府、街道办事处的沟通协调。&lt;/p&gt;&lt;p&gt;　　第十条  市场监督管理所工作人员的配备应当适应辖区经济社会发展和履行职责的需要。&lt;/p&gt;&lt;p&gt;　　第十一条  市场监督管理所工作人员应当按照规定的权限和程序履行职责，做到清正廉洁、秉公执法。&lt;/p&gt;&lt;p&gt;　　第十二条  县级人民政府市场监督管理部门根据工作需要组织市场监督管理所工作人员参加培训，提升其履行职责的能力。&lt;/p&gt;&lt;p&gt;　　第十三条  县级人民政府市场监督管理部门应当建立健全市场监督管理所工作人员岗位责任制，并对工作人员进行定期考核。&lt;/p&gt;&lt;p&gt;　　第十四条  市场监督管理部门应当加强市场监督管理所标准化、规范化、专业化建设。具体办法由国务院市场监督管理部门规定。&lt;/p&gt;&lt;p&gt;　　第十五条  县级人民政府应当按照有关规定为市场监督管理所开展工作提供保障，提升监督管理信息化、智能化水平。&lt;/p&gt;&lt;p&gt;　　第十六条  市场监督管理所应当使用统一、规范的标识，工作人员履行行政执法职责时应当按照有关规定规范着装。&lt;/p&gt;&lt;p&gt;　　第十七条  市场监督管理所工作人员滥用职权、玩忽职守、徇私舞弊，或者有其他违反本条例规定行为的，依法给予处分；构成犯罪的，依法追究刑事责任。&lt;/p&gt;&lt;p&gt;　　第十八条  市场监督管理部门的专业所、队、站等其他派出机构参照本条例的规定执行。&lt;/p&gt;&lt;p&gt;　　第十九条  本条例自2026年11月1日起施行。《工商行政管理所条例》同时废止。&lt;/p&gt;&lt;p&gt;　　（新华社北京9月11日电） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180602&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180602.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180602.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 市场监督管理所条例 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180602.html#[03版：要闻] 市场监督管理所条例</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 深入贯彻实施民族团结进步促进法  加强宗教事务治理法治化  进一步做好新时代党的民族宗教工作</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180603.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 李干杰在宁夏调研时强调 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 深入贯彻实施民族团结进步促进法  加强宗教事务治理法治化  进一步做好新时代党的民族宗教工作 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报银川9月11日电  9月9日至11日，中共中央政治局委员、中央统战部部长李干杰在宁夏调研时强调，要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻落实党中央重大决策部署，以铸牢中华民族共同体意识为主线，贯彻实施民族团结进步促进法，提升宗教事务治理法治化水平，扎实做好新时代党的民族宗教工作。&lt;/p&gt;&lt;p&gt;　　李干杰来到中卫市、吴忠市、银川市，走进铸牢中华民族共同体意识展示馆、乡村，与少数民族干部群众深入交流，了解民族团结进步促进法学习宣传贯彻和民族团结进步创建情况；深入葡萄种植基地、电商帮扶车间，了解东西部协作助力民族地区特色产业发展和各民族携手创业、团结致富情况；考察北方民族大学，了解教育教学和人才培养情况；走访宗教活动场所，了解系统推进我国宗教中国化、依法加强宗教事务治理情况。&lt;/p&gt;&lt;p&gt;　　调研期间，李干杰主持召开座谈会，围绕进一步做好新时代党的民族宗教工作听取意见建议。李干杰表示，制定出台民族团结进步促进法，是铸牢中华民族共同体意识、推进中华民族共同体建设的重大法治举措，为以中华民族大团结促进中国式现代化提供了法治保障。要加大法律学习宣传贯彻力度，结合民族团结进步宣传周等重大活动，深入做好普法工作，按照增进共同性、尊重和包容差异性原则推进相关工作，确保法律精神落实到民族工作全过程各方面。要着力抓好构筑共有精神家园、促进交往交流交融、推动共同繁荣发展等重点任务落地落实，切实把制度优势、法律优势转化为治理效能。&lt;/p&gt;&lt;p&gt;　　李干杰表示，宗教工作是我们党治国理政必须做好的重大工作。要坚持党的全面领导，坚持我国宗教中国化方向，坚持保护合法、制止非法、遏制极端、抵御渗透、打击犯罪，发挥大统战工作格局优势，压实工作责任，夯实基层基础，深入细致做好宗教界人士和信教群众工作，依法依规解决宗教领域重点难点问题，提升宗教界自我教育、自我管理、自我约束能力和水平，积极引导宗教与社会主义社会相适应，切实维护宗教领域和谐稳定。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 李干杰在宁夏调研时强调 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180603&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180603.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180603.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 深入贯彻实施民族团结进步促进法  加强宗教事务治理法治化  进一步做好新时代党的民族宗教工作 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180603.html#[03版：要闻] 深入贯彻实施民族团结进步促进法  加强宗教事务治理法治化  进一步做好新时代党的民族宗教工作</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 服贸会上探企业“走出去”新动能（探馆服贸会）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180604.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 首设出海服务企业展示区 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 服贸会上探企业“走出去”新动能（探馆服贸会） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							人民网记者  方经纶&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/12/3bd6e6e5-e073-485f-ba88-d43d08f58408.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　出海服务企业展示区。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  张武军摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/12/3bd6e6e5-e073-485f-ba88-d43d08f58408.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　走进2026年服贸会首次设立的出海服务企业展示区，会计审计、人力资源、数字营销等多个领域的参展企业，纷纷亮出新服务、新技术、新解决方案。&lt;/p&gt;&lt;p&gt;　　美国邓白氏公司首次参展服贸会，带来新推出的跨境投资与贸易数据库；数字智能综合服务商长虹佳华重点展示出海数字化解决方案及数字智能营销服务，首发“人工智能视频广告解决方案”实践成果……&lt;/p&gt;&lt;p&gt;　　如何助力企业更好“走出去”？参展商各展所能。&lt;/p&gt;&lt;p&gt;　　“今年二季度起，科技型企业的出海咨询业务显著增多。”彦德国际顾问有限公司市场总经理李莹介绍，围绕大模型出海、算力出海等新业态，公司已打磨出一套全周期合规咨询服务，可帮助出海企业完成合规备案、投资目的地相关业务的落地推进。&lt;/p&gt;&lt;p&gt;　　“当前，出海企业面对的物流难题，已不只是能否运出去，更是能否在需求波动和多国履约差异中，实现成本可控、时效和体验可预期。”菜鸟集团公共事务总监李凤表示，面对企业需求，菜鸟把单一运输升级为“分层时效、全链路协同、履约兜底”，让物流由模糊的过程服务变为可选择、可追踪的确定性服务。&lt;/p&gt;&lt;p&gt;　　“我们今年自研了一款人工智能产品，能够将更多中小媒体的流量集合起来，帮助出海企业更好开展海外营销。”北京蓝色光标数据科技集团股份有限公司副总裁孔晶表示，公司将深化人工智能技术与营销场景的融合，助力出海企业获得切实收益。&lt;/p&gt;&lt;p&gt;　　出海服务企业展示区一旁，是本届服贸会首次搭建的出海服务推介路演区。9月10日下午，“东南亚专场”圆桌论坛结束后，嘉宾、观众仍在交流互动。&lt;/p&gt;&lt;p&gt;　　“今年在服贸会上感受到很多积极变化。”这场圆桌论坛的嘉宾之一、道普瑞绅集团代表黄时颖认为，商业咨询机构的专业人员过去大多处于服务的后端环节，如今通过服贸会能进一步了解出海企业需求，有助于提供更加精准的服务。&lt;/p&gt;&lt;p&gt;　　本届服贸会通过两个首次设立的区域，集中呈现了出海服务企业全链条、专业化的服务能力。其间，来自金融、法律、知识产权等多个领域的出海服务专业机构举办40余场推介路演，分享最新的行业观察，为企业出海提供“一站式”专业服务。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;人民网记者  方经纶&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 首设出海服务企业展示区 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180604&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180604.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180604.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 服贸会上探企业“走出去”新动能（探馆服贸会） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180604.html#[03版：要闻] 服贸会上探企业“走出去”新动能（探馆服贸会）</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 李强主持召开国务院常务会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180605.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李强主持召开国务院常务会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 对加强安全生产工作作出进一步部署，研究算力网建设有关工作，研究全面系统推进老旧水库改造提升有关工作，听取贯彻落实全国教育大会精神加快建设教育强国情况汇报，审议通过《基金会管理条例（修订草案）》 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　新华社北京9月11日电  国务院总理李强9月11日主持召开国务院常务会议，对加强安全生产工作作出进一步部署，研究算力网建设有关工作，研究全面系统推进老旧水库改造提升有关工作，听取贯彻落实全国教育大会精神加快建设教育强国情况汇报，审议通过《基金会管理条例（修订草案）》。&lt;/p&gt;&lt;p&gt;　　会议指出，近段时间一些地方生产安全事故多发，教训极为深刻。习近平总书记多次作出重要指示批示，我们要认真学习领会，坚决贯彻落实。要深入分析事故发生原因，举一反三，针对规章制度落实不严、工程层层转包、安全监管不到位等问题，采取有力措施切实加以解决。要严格属地管理，落实“三管三必须”要求，进一步压紧压实安全生产责任，紧盯重点行业领域深入开展风险隐患排查整治，强化常态化监管执法，严肃追责问责，坚决惩处安全生产违法违规行为，牢牢守住安全生产底线，有效遏制重特大事故发生，切实维护人民群众生命财产安全。&lt;/p&gt;&lt;p&gt;　　会议指出，算力网是人工智能发展的基础支撑。要坚持合理布局、规范有序，进一步完善算力基础设施，积极推进关键技术和装备研发应用，构建多层次网络化算力体系。要推动算电协同、算网融合，加强算力资源监测调度和骨干光纤网络建设，强化算电设施规划衔接，加快绿电直连、源网荷储等项目落地。要更好发挥市场机制作用，支持企业开展科技创新、资源整合和应用推广，促进供需更好匹配。&lt;/p&gt;&lt;p&gt;　　会议指出，水库安全关系防汛抗洪、江河治理和经济社会发展大局，要坚持长短结合、标本兼治、分类施策，严格落实各级责任，全面提高老旧水库安全能力。要增强老旧水库改造提升的针对性有效性，科学优化改造标准，“一库一策”制定改造方案，严把工程质量关，同步提升调度管理、日常管护水平，筑牢水库安全防线。要加强部门协同和要素保障，吸引更多社会资本参与。&lt;/p&gt;&lt;p&gt;　　会议指出，过去一年各地区各部门认真贯彻全国教育大会精神，推动教育强国建设不断取得新成效。要聚焦学龄人口变化合理配置教育资源，统筹做好学位供给、师资调配、经费保障等工作，更好满足各学段渡峰需要。要聚焦国家战略需求培养优秀创新人才，持续优化学科专业布局、教材体系建设和人才培养模式，提高人才自主培养质量。要落实健康第一的教育理念，坚持德智体美劳五育并举、五育融合，促进广大学生身心健康、成长成才。&lt;/p&gt;&lt;p&gt;　　会议指出，要切实加强基金会公信力建设，进一步规范管理、完善制度，健全内部治理机制，强化重点领域信息公开，发挥多部门综合监管作用，促进我国公益慈善事业健康有序发展。&lt;/p&gt;&lt;p&gt;　　会议还研究了其他事项。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 对加强安全生产工作作出进一步部署，研究算力网建设有关工作，研究全面系统推进老旧水库改造提升有关工作，听取贯彻落实全国教育大会精神加快建设教育强国情况汇报，审议通过《基金会管理条例（修订草案）》 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180605&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180605.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180605.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李强主持召开国务院常务会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180605.html#[03版：要闻] 李强主持召开国务院常务会议</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 赵乐际同安哥拉国民议会议长德阿尔梅达会谈</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180606.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 赵乐际同安哥拉国民议会议长德阿尔梅达会谈 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　新华社北京9月11日电  全国人大常委会委员长赵乐际11日在北京人民大会堂同安哥拉国民议会议长德阿尔梅达举行会谈。&lt;/p&gt;&lt;p&gt;　　赵乐际表示，近年来，在习近平主席和洛伦索总统战略引领下，中安关系提升为全面战略合作伙伴关系，各领域合作持续深化、富有成效。中方愿同安方一道，以两国元首重要共识为遵循，赓续传统友谊，加强团结合作，推动中非合作论坛北京峰会成果落地，促进中安关系不断发展，为共筑新时代全天候中非命运共同体作出更大贡献。&lt;/p&gt;&lt;p&gt;　　赵乐际指出，双方要巩固政治互信。中方感谢安方长期恪守一个中国原则，将继续坚定支持安方维护国家主权、安全、发展利益。拓展务实合作，深化农业渔业、工业、能源、矿业等领域合作，在清洁能源、数字技术、人工智能等领域打造合作新亮点。以今年“中非人文交流年”为契机，加强教育、文化、旅游、地方等合作，让中安、中非友好深入人心。加强国际协作，携手践行真正的多边主义，落实好四大全球倡议，推进平等有序的世界多极化、普惠包容的经济全球化。&lt;/p&gt;&lt;p&gt;　　赵乐际强调，中安立法机构合作为增进两国人民友谊、丰富双边关系内涵发挥重要作用。中国全国人大愿同安哥拉国民议会一道，加强各层次、多领域对话交流，为两国互利合作提供法律保障。欢迎安方派员参加中国全国人大面向非洲国家举办的议员研讨班。赵乐际还介绍了中国全国人大立法工作情况，表示双方可以围绕绿色发展、社会治理、民生保障等开展立法经验交流。&lt;/p&gt;&lt;p&gt;　　德阿尔梅达表示，安方衷心感谢中方对安哥拉国家重建和经济社会发展的宝贵支持。中国在自身发展同时，助力全球伙伴共同发展。安哥拉愿同中方加强能源、经贸、投资等各领域合作，深化共建“一带一路”合作，共同维护多边主义，促进世界和平稳定。安国民议会愿加强同中国全国人大的交流，为推动两国合作协议的落实积极发挥立法机构的法律保障作用。&lt;/p&gt;&lt;p&gt;　　会谈后，赵乐际与德阿尔梅达共同签署了中国全国人大与安哥拉国民议会谅解备忘录。&lt;/p&gt;&lt;p&gt;　　蔡达峰参加上述活动。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180606&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180606.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180606.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 赵乐际同安哥拉国民议会议长德阿尔梅达会谈 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180606.html#[03版：要闻] 赵乐际同安哥拉国民议会议长德阿尔梅达会谈</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 深耕红色沃土  汲取奋进力量（赓续长征精神  奋进复兴征程）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180607.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 福建聚力建好长征国家文化公园—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 深耕红色沃土  汲取奋进力量（赓续长征精神  奋进复兴征程） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  付  文&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　位于长汀县的福建省苏维埃政府旧址。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　朱芳彬摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/12/84bd2b0c-f055-4e3a-a55b-98ec995bc33c.jpg" style="max-width: 100%; white-space: normal;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　9月的福建龙岩市长汀县中复村，山峦叠翠。&lt;/p&gt;&lt;p&gt;　　1934年9月底，红九军团撤出松毛岭战斗后，在中复村召开告别群众大会，之后兵分两路开始战略转移，由此踏上万里长征。&lt;/p&gt;&lt;p&gt;　　2024年10月，习近平总书记在福建考察时强调：“传承弘扬红色文化，建好长汀、宁化长征国家文化公园，深化革命史料和革命文物研究阐释。”&lt;/p&gt;&lt;p&gt;　　深入贯彻落实习近平总书记重要指示精神，福建聚力推进长征国家文化公园（福建段）建设管理工作，累计完成投资55.25亿元，以“长征出发，撤离苏区”为主题定位，已形成以中央红军长征路线为主轴，长征出发地长汀、宁化为主体建设区，长征事件关联区域为延伸拓展区的“一轴两区”格局。&lt;/p&gt;&lt;p&gt;　　保护长征遗存，守护“红色家底”——&lt;/p&gt;&lt;p&gt;　　走进三明市宁化县凤凰山村，只见长度400多米的红军街铺满青石板，两侧是客家古民居，门楼上“红军万岁”四个大字清晰可辨。“当年，我爷爷就是从这条街出发。”村民黄永昌说。&lt;/p&gt;&lt;p&gt;　　作为中央主力红军长征主要出发地之一，宁化对全县各级各类革命文物实施系统性保护，并落实管理巡查制度，遵循“修旧如旧”原则，保护好老街旧址、留住红色印记。&lt;/p&gt;&lt;p&gt;　　“《福建省红色文化遗存保护条例》《福建省革命文物保护利用工程实施方案》等出台，红色文化保护规范性文件体系不断完善。”福建省委宣传部副部长黄逸群介绍，福建建立“国—省—县”三级文保联动机制，龙岩市红色文化遗存的修缮保护率逐年上升，三明市实现对227处长征文物动态监管全覆盖，并建成宁化县革命纪念馆新址等红色场馆。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　挖掘红色资源，传承红色血脉——&lt;/p&gt;&lt;p&gt;　　“我们家一共6人参加红军，后来都牺牲在长征途中。”在中复村红军桥上，村民钟鸣向游客讲述那段岁月，“2.6万名闽西儿女参加长征，到达陕北的仅2000多人。”&lt;/p&gt;&lt;p&gt;　　今年63岁的钟鸣，40多年前就开始收集长征史料并免费讲解，2015年被聘为红色传统教育讲解员。钟鸣多次拜访老红军及后代，还多次前往湘江战役旧址探寻烈士下落。在他的动员下，儿子钟振华也返乡从事讲解工作，父子俩共同挖掘整理出一批动人故事。&lt;/p&gt;&lt;p&gt;　　福建加强长征文物和史料发掘、研究，打造集红色教育、民俗体验等于一体的特色体验地。“近年来，得益于长征国家文化公园建设，我们积极推进文旅融合，先后进行沿街立面改造、环境整治、旅游线路升级。”中复村村委会副主任钟椿源说，去年该村接待游客超30万人次，旅游总收入超1000万元。&lt;/p&gt;&lt;p&gt;　　推进活化利用，凝聚前进力量——&lt;/p&gt;&lt;p&gt;　　中复村的红军文化广场，一个个脚印从稀疏到密集，一直汇聚到“零公里处”。&lt;/p&gt;&lt;p&gt;　　“这些脚印有的赤足、有的很小，可以想见当时穷苦人家孩子踊跃参军的情形。”来自安徽的游客周子强说，“讲解员介绍，村里的红九军团长征出发地陈列馆由红军曾养过伤的7幢客家围屋改造而来，更让人感受到穿越时空的军民鱼水情。”&lt;/p&gt;&lt;p&gt;　　中复村《松毛岭之恋》沉浸式演艺厅内，正演绎着新婚妻子阿妹送别新婚丈夫阿根参加红军的故事。借助现代声光电手段，人们仿佛回到了那个激情燃烧的年代。凤凰山村的“红军井”，由红军战士帮助扩建，村民至今仍在使用。宁化县委党校将包括这口井在内的凤凰山中央红军长征出发地旧址群列为现场教学点，红色文化吸引力和感染力持续增强。&lt;/p&gt;&lt;p&gt;　　弘扬伟大长征精神，福建依托长征国家文化公园资源打造“行见八闽”大思政课研学实践圈，建成市级以上中小学生研学实践教育基地191个、现场教学点200余个。自2022年以来，已累计培训学员33万人次，组织学生开展红色研学实践活动168万余人次，持续深化青少年对革命历史的认知认同。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  付  文&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 福建聚力建好长征国家文化公园—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180607&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180607.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180607.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 深耕红色沃土  汲取奋进力量（赓续长征精神  奋进复兴征程） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180607.html#[03版：要闻] 深耕红色沃土  汲取奋进力量（赓续长征精神  奋进复兴征程）</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 推进横琴粤澳深度合作区建设专题会在横琴召开</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180608.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 推进横琴粤澳深度合作区建设专题会在横琴召开 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京9月11日电  推进横琴粤澳深度合作区建设专题会10日在横琴召开。会议深入学习贯彻习近平总书记关于横琴建设的重要指示批示精神，加快推动“深入推进横琴粤澳深度合作区建设一揽子政策举措”落地实施，支持澳门主动对接国家“十五五”规划、落实特区新的五年规划，推进横琴建设再上新台阶，为澳门经济适度多元发展作出新贡献。中央港澳工作办公室主任、国务院港澳事务办公室主任夏宝龙出席会议并讲话。&lt;/p&gt;&lt;p&gt;　　会前，中央有关部委与横琴粤澳深度合作区执行委员会、澳门特区政府签署了支持横琴建设的有关协议。与会人员还对横琴重点项目进行了实地调研。&lt;/p&gt;&lt;p&gt;　　澳门特别行政区行政长官、横琴粤澳深度合作区管理委员会主任岑浩辉，广东省省长、横琴粤澳深度合作区管理委员会主任孟凡利，国家发展改革委负责同志等在会上发言。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180608&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180608.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180608.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 推进横琴粤澳深度合作区建设专题会在横琴召开 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180608.html#[03版：要闻] 推进横琴粤澳深度合作区建设专题会在横琴召开</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 第22届亚洲地区海岸警备机构高官会高级别会议举办</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180609.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 第22届亚洲地区海岸警备机构高官会高级别会议举办 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月11日电  （李龙伊、刘志旭）记者从中国海警局获悉：近日，由中国海警局主办的第22届亚洲地区海岸警备机构高官会高级别会议在浙江杭州举办。&lt;/p&gt;&lt;p&gt;　　会议期间，各方围绕地区海上安全形势、预防与打击海上跨国犯罪、海上搜救协作、海洋生态环境保护、执法信息共享机制及执法能力建设等关键议题开展深入务实研讨，就下阶段合作计划达成初步共识，审议了下届会议申办国等议题，形成《第22届亚洲地区海岸警备机构高官会联合声明》，认可中国海警宣介的“海洋碳汇执法”概念及相关积极实践，并鼓励各方共同建设海上执法合作体、海上安全共同体、海洋治理综合体，以推进海洋可持续发展。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180609&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180609.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180609.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 第22届亚洲地区海岸警备机构高官会高级别会议举办 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180609.html#[03版：要闻] 第22届亚洲地区海岸警备机构高官会高级别会议举办</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 2026中斯媒体合作交流研讨会在科伦坡举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180610.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 2026中斯媒体合作交流研讨会在科伦坡举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报科伦坡9月11日电  （记者孙广勇、赵益普）以“信任与共赢——中斯命运共同体背景下的媒体担当”为主题的2026中斯媒体合作交流研讨会11日在斯里兰卡首都科伦坡举行。来自中国和斯里兰卡政府部门、媒体、智库、高校等领域的80余名嘉宾围绕构建中斯命运共同体、深化中斯战略合作伙伴关系、深化媒体交流合作与中斯民心相通等议题展开研讨。&lt;/p&gt;&lt;p&gt;　　在研讨会圆桌讨论环节，与会嘉宾围绕“携手构建中斯命运共同体的实践与意义”“深化媒体交流合作与中斯民心相通”两大主题展开对话分享。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180610&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180610.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180610.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 2026中斯媒体合作交流研讨会在科伦坡举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180610.html#[03版：要闻] 2026中斯媒体合作交流研讨会在科伦坡举行</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 为特殊孩子筑起温暖港湾</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180611.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 为特殊孩子筑起温暖港湾 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——记二〇二六年“最美教师”刘雪雅 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  丁雅诵&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/12/943b7110-e572-4c61-b4b5-392db272d35d.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图为刘雪雅在教学。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　受访者供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/12/943b7110-e572-4c61-b4b5-392db272d35d.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　清晨，辽宁省辽阳市白塔区启智学校的走廊里，一个孩子双手攥着衣角，不敢进教室。校长刘雪雅快步走过去，轻轻拍了拍孩子的后背，把孩子的小手放进自己的掌心，轻声说道：“别怕，老师在。”&lt;/p&gt;&lt;p&gt;　　这样的清晨，在她职业生涯的35年里经常出现。刘雪雅把最好的时光献给了一群特殊的孩子，用点滴行动诠释着一名特教教师的无私与大爱。&lt;/p&gt;&lt;p&gt;　　1991年，刘雪雅从辽宁省特殊教育师范学校毕业。她走上讲台却发现，现实中的困难远比想象中更大。有人劝她：“教这些孩子，没成绩、没名声，趁早换工作。”&lt;/p&gt;&lt;p&gt;　　刘雪雅委屈过，也动摇过。可老校长的话，她记到了今天：“这些孩子更需要爱，更需要教育。如果我们放弃，他们就真的没希望了。”&lt;/p&gt;&lt;p&gt;　　看着孩子依赖的眼神、家长期盼的目光，她发誓要用爱筑起温暖港湾，一辈子守护这些孩子。&lt;/p&gt;&lt;p&gt;　　启智学校有70多名学生，大多是中、重度智力残疾，生活无法自理、说不清楚话、情绪行为常常失控。刘雪雅被推搡、抓伤是常事，但她不责备、不嫌弃，像母亲一样，接住了孩子们所有的无助和笨拙。&lt;/p&gt;&lt;p&gt;　　一年夏天，学生小娇（化名）不小心把大便拉在裤子里。异味弥漫，孩子们躲闪，刘雪雅看到小娇涨红的脸和满眼的泪水，心疼极了。刘雪雅二话不说抱起孩子，给她清洗身体、换好衣服。小娇抱住她，哭着说：“老师，你像我妈妈！”&lt;/p&gt;&lt;p&gt;　　“孩子们不经意间冒出的一句稚嫩话语，总能让我瞬间红了眼眶，所有的辛苦和委屈，都值了。”刘雪雅说。&lt;/p&gt;&lt;p&gt;　　特殊教育，光有爱不够，还得专业。走上管理岗位后，刘雪雅钻研理论，带领团队做科研，推行个别化、分层次、结构化教学，组建起康复治疗师、心理咨询师、骨干教师团队，把感觉统合训练、言语治疗、应用行为分析等融入日常教学。&lt;/p&gt;&lt;p&gt;　　学生小声（化名）入学时14岁，语言退化，从未开口叫过一声“妈妈”。经过评估，刘雪雅发现孩子具备微弱听力，只是长期缺乏训练，口周肌肉僵硬。她立即制定方案，每天带着孩子做舌肌训练，从“b、p、m”开始，一个音一个音地教。历经无数次引导、重复，刘雪雅从未放弃。终于，小声清晰地喊出了“妈妈”，那一刻，在场的大人都激动不已。&lt;/p&gt;&lt;p&gt;　　孩子毕业能去哪，能做什么？这是家长们很关心的问题，也是刘雪雅一直牵挂的事。“他们只是迟开的花朵，同样有享受阳光、拥抱社会的权利。”刘雪雅明白，让孩子学会生存技能，才是对他们最好的守护。&lt;/p&gt;&lt;p&gt;　　刘雪雅多方奔走，成立残疾人自助互助基地“蜗牛手工制品坊”，构建起“技能实训—产品生产—市场转化”的订单式职教模式。&lt;/p&gt;&lt;p&gt;　　从手工皂制作到工艺品打磨，从材料辨认到成品打包，每一个简单的动作，刘雪雅都细细拆解，手把手带着孩子们反复练习。她还带头拍摄短视频、开展网络直播，拓展手工制品的销售渠道。&lt;/p&gt;&lt;p&gt;　　“通过这种方式，2个残疾人创业项目成功孵化；12名学生掌握了生存技能，能靠自己的劳动获得报酬。此外，235名毕业生中，127名被安置在福利企业就业，22名学生自主择业，成为自食其力的劳动者。”谈起这些，刘雪雅眼里满是自豪。&lt;/p&gt;&lt;p&gt;　　“不让一个残障孩子被遗忘、被放弃”，这是她一生的承诺。未来，刘雪雅仍会牵着这些孩子的手，迎着光，慢慢向前走。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  丁雅诵&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——记二〇二六年“最美教师”刘雪雅 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180611&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180611.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180611.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 为特殊孩子筑起温暖港湾 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180611.html#[04版：要闻] 为特殊孩子筑起温暖港湾</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 公开通报六起地方政府隐性债务追责问责典型案例</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180612.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 中央纪委办公厅  财政部办公厅 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 公开通报六起地方政府隐性债务追责问责典型案例 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月11日电  （记者曲哲涵）为充分发挥警示教育作用，坚决遏制新增地方政府隐性债务（以下简称“隐性债务”），进一步严肃财经纪律，中央纪委办公厅与财政部办公厅联合选取了一批隐性债务追责问责典型案例进行公开曝光，以儆效尤。&lt;/p&gt;&lt;p&gt;　　一是贵州省委原常委、毕节市委原书记吴胜华政绩观严重偏差，新官不理旧账，落实党中央关于防范化解地方债务风险的重大决策部署不力。吴胜华还存在其他严重违纪违法问题，被开除党籍、开除公职，涉嫌犯罪问题被移送检察机关依法审查起诉。二是四川省宜宾市人民政府原党组成员、副市长兰宏彬不正确履行职责，违规决策新增隐性债务。兰宏彬还存在其他严重违纪违法问题，被开除党籍、开除公职，涉嫌犯罪问题被移送检察机关依法审查起诉。三是陕西省渭南市临渭区通过公立医院举债实施公益性项目新增隐性债务1亿元，时任渭南市临渭区卫生健康局党工委书记、局长曹杰等相关责任人被问责。四是安徽省阜阳市界首市隐性债务化解不实1.4亿元，时任界首市城乡建设发展集团有限公司董事长李攀等相关责任人被问责。五是江西省九江经济技术开发区隐性债务化解不实10亿元，时任九江经济技术开发区财政综合服务中心主任游曦等相关责任人被问责。六是宁夏回族自治区银川市隐性债务化解不实18亿元，时任银川滨河黄河大桥管理有限责任公司法定代表人、总经理王荣亚等相关责任人被问责。&lt;/p&gt;&lt;p&gt;　　中央经济工作会议强调，要积极有序化解地方政府债务风险，督促各地主动化债，不得违规新增隐性债务。各地方、各单位要切实增强“四个意识”、坚定“四个自信”、做到“两个维护”，不折不扣落实好党中央、国务院决策部署，巩固拓展树立和践行正确政绩观学习教育成果，不断加强政府债务管理，提升政府债务治理效能，持续筑牢债务安全防线。&lt;/p&gt;&lt;p&gt;　　下一步，中央纪委、财政部将持续加强隐性债务问题查处工作，抓实追责问责，对新增隐性债务和化债不实等违法违规行为，发现一起、查处一起、问责一起，切实严肃财经纪律，推动有效防范化解地方政府债务风险。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 中央纪委办公厅  财政部办公厅 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180612&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180612.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180612.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 公开通报六起地方政府隐性债务追责问责典型案例 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180612.html#[04版：要闻] 公开通报六起地方政府隐性债务追责问责典型案例</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 云霄之上，以胜战作答（最美新时代革命军人）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180613.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 空军航空兵某部飞行大队大队长步佳文—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 云霄之上，以胜战作答（最美新时代革命军人） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  任彤彤&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图为即将开展飞行训练的步佳文。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　杨  盼摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/12/2797b9e4-8659-47ab-8abe-a7063f89425a.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　引擎轰鸣声由远及近，数架战机呼啸而至。空军某项考核现场，战机接连在跑道上稳稳着陆。&lt;/p&gt;&lt;p&gt;　　率先驾机归来的，是空军航空兵某部飞行大队大队长步佳文。入伍18年来，步佳文圆满完成数十次重大演训任务，被中央军委表彰为“全军备战标兵个人”，获评“最美新时代革命军人”，荣立二等功1次、三等功2次。&lt;/p&gt;&lt;p&gt;　　“飞行员的成长，永无止境。”步佳文坚定地说，“一次次突破极限、重塑自我，才能赢得胜机。”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“平时就得在严苛环境中锤炼”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　营区里的空中铁拳广场，是步佳文常去的地方。广场中央，一座古铜色的铁拳雕塑巍然矗立。&lt;/p&gt;&lt;p&gt;　　70多年前，该部前身部队官兵奔赴抗美援朝战场，击落击伤敌机68架，铸就了赫赫有名的“空中铁拳精神”。&lt;/p&gt;&lt;p&gt;　　践行是最好的传承。每次坐进战机座舱，步佳文都会给自己鼓劲：“作为‘空中铁拳精神’的传承者，必须像抗美援朝空战英雄一样有本事、有胆识！”&lt;/p&gt;&lt;p&gt;　　有一年，步佳文接到命令，驾驶战机走出国门，执行联训任务。&lt;/p&gt;&lt;p&gt;　　多国飞机同场竞技，该如何占据上风？以少打多，该如何赢得胜利？诸多难题面前，步佳文静下心来，和战友一起逐项模拟推演，研透平台性能，探寻胜机。&lt;/p&gt;&lt;p&gt;　　在无态势保障、无指挥引导的条件下，步佳文沉着冷静，远距离发现并截获目标，首发击中，对“敌”打出一记“铁拳”。随后，他迅速指挥僚机调整队形，成功“击落”第二架“敌机”。&lt;/p&gt;&lt;p&gt;　　“战争不会专门选在风和日丽的天气。”步佳文常向年轻飞行员说，“平时就得在严苛环境中锤炼，战时才能处变不惊。”这些年，他和战友们一次次上高原、飞大漠、越岛链，他们的航程越飞越远，胜战底气越来越足。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“保持昂扬劲头，跟上装备迭代脚步”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　教—8、歼—7、歼—10……步佳文宿舍的书柜里，一排飞机模型整齐排列。这些都是他飞过的机型，也标记着他从学员到战斗员、指挥员的成长历程。&lt;/p&gt;&lt;p&gt;　　在同批飞行员中，步佳文曾创下多项纪录：首个单飞，率先完成三代机改装、担负战备值班，第一个驾驶单机辗转数千公里在高原机场降落，成为所在部队最年轻的飞行大队大队长……&lt;/p&gt;&lt;p&gt;　　10多年前初入空军航空大学，步佳文开始系统学习航空理论、领航计算、空中战术气象知识等上百门专业课程。同期学员回忆，课余时间经常看到步佳文留在自习室梳理知识点，教材上密密麻麻地写满了笔记。为了熟悉一个复杂机动动作，步佳文曾在模拟器上连续“飞行”几个小时，教员劝他休息，他却说：“不把动作练到位，我觉都睡不踏实。”&lt;/p&gt;&lt;p&gt;　　这股韧劲，伴随他走进了作战部队。&lt;/p&gt;&lt;p&gt;　　“这几年，武器装备和作战理念迭代升级越来越快，稍不留神就会落伍。”步佳文说，“学习的动力其实来自压力，我时常鞭策自己，保持昂扬劲头，跟上装备迭代脚步。”&lt;/p&gt;&lt;p&gt;　　一次单位装备系统更新，他恰好在外执行任务。当他回到单位再次参加对抗训练时，原本的“胜券在握”变成了被对手单方面“碾压”。差距就在眼前，一股紧迫感直抵心头。&lt;/p&gt;&lt;p&gt;　　“想要成为一名优秀的飞行员，必须始终保持冲锋姿态，不断地充实自己。”那些天，步佳文加班加点地拉着战友学习请教，反复演练，终于在阶段训练中再次打出“满堂彩”。&lt;/p&gt;&lt;p&gt;　　身边战友见证着步佳文的成长。大队教导员许军伟说，这些年，年轻飞行员在步佳文的带动下陆续走上战位、逐梦空天，他们的身上也带有同样的气质：较真、好学、不服输。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“强军道路上，永远有人同行”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“为什么选择这个时机转弯？”“如果告警响起，你有没有备份方案？”飞行讲评时，步佳文不断向年轻飞行员抛出问题。&lt;/p&gt;&lt;p&gt;　　“过去，飞行员可能更习惯从个体角度思考空战。”步佳文说，“现在，必须把自己摆进联合制胜的‘大棋盘’。”&lt;/p&gt;&lt;p&gt;　　每一次飞行结束，另一场“战斗”就在复盘室打响。步佳文和战友们逐架次剖析数据，重现战术行动的决策链条，再进行交叉验证与对抗推演。&lt;/p&gt;&lt;p&gt;　　训练间隙，步佳文带领课题研究小组扎进模拟器和数据判读室，深入研究现有装备的技术边界，将演训中积累的经验办法提炼固化为可验证、可复用的战术条令。&lt;/p&gt;&lt;p&gt;　　带教时，步佳文把前舱交给年轻飞行员，自己坐进后舱。飞行员郭静远说，不同于平日里的风风火火，座舱里的步佳文语气温和，讲解技术要领条理清晰，“有他在背后，心里特别踏实。”&lt;/p&gt;&lt;p&gt;　　获评“最美新时代革命军人”，让步佳文和战友们都深受鼓舞。“这份荣誉不只属于个人，更属于常年坚守空防一线、在练兵备战中默默奉献、在战术战法创新中敢为人先的群体。”步佳文说，“强军道路上，永远有人同行。一大批优秀的年轻飞行员，正成长为未来空中指挥的中坚力量。”&lt;/p&gt;&lt;p&gt;　　前不久，步佳文重返母校江西省九江第一中学。面对千余名学弟学妹，他分享了自己的成长故事：“青春最有价值的奋斗，从来不止于追求个人的优秀，更在于把理想融入时代，将青春献给祖国。”&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  任彤彤&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 空军航空兵某部飞行大队大队长步佳文—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180613&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180613.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180613.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 云霄之上，以胜战作答（最美新时代革命军人） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180613.html#[04版：要闻] 云霄之上，以胜战作答（最美新时代革命军人）</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180614.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/12/50622f59-4255-43fb-8b06-f459b63b3ad2.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　近年来，广西桂林市恭城瑶族自治县立足生态优势发展竹笋特色产业，建设笋干加工生产线，拓宽线上线下销售渠道，带动瑶乡群众增收。图为9月11日，在恭城瑶族自治县嘉会镇西南村，村民在整理晾晒的黄笋。&lt;/p&gt;&lt;p&gt;　　刘教清摄（人民视觉） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180614&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180614.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180614.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180614.html#[04版：要闻] 图片报道</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 第六届“携手圆梦——两岸同胞交流研讨活动”在新疆举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180615.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 第六届“携手圆梦——两岸同胞交流研讨活动”在新疆举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报乌鲁木齐9月11日电  （记者韩立群）以“和平发展、守护家园、团结奋斗、共谋复兴”为主题的第六届“携手圆梦——两岸同胞交流研讨活动”，9月11日在新疆维吾尔自治区乌鲁木齐市开幕。海峡两岸有关方面、党派团体负责人和代表，专家学者及台胞台青代表120余人参加活动。&lt;/p&gt;&lt;p&gt;　　中共中央台办、国务院台办主任宋涛在开幕式致辞表示，习近平总书记指出，一个坚强统一的国家始终是包括台湾同胞在内的全体中华儿女的命运所系。两岸同胞要铸牢中华民族共同体意识，坚持一个中国原则和“九二共识”，坚决反对“台独”分裂和外来干涉，把国家、民族的前途命运牢牢掌握在中国人自己手中，同心共创民族复兴美好未来。岛内爱国统一力量心系祖国，坚守大义，为守护共同家园添砖加瓦、为实现国家统一贡献力量，伟大祖国永远是岛内爱国统一力量的坚强后盾。&lt;/p&gt;&lt;p&gt;　　新疆维吾尔自治区党委书记陈小江在致辞中表示，在以习近平同志为核心的党中央引领推动下，新疆与台湾交流合作不断向更高水平、更宽领域、更深层次迈进。新疆将深入贯彻新时代党解决台湾问题的总体方略和党中央对台工作决策部署，秉持“两岸一家亲”，落实惠台利民政策措施，深化各领域务实合作，促进台湾同胞和新疆各族群众交流交往交融，为深化两岸融合发展、推进祖国统一大业作出更多贡献。&lt;/p&gt;&lt;p&gt;　　中国国民党前主席、中华青雁和平教育基金会董事长洪秀柱和台湾劳动党主席吴荣元、两岸青年代表在致辞中表示，两岸同属一个中国，神州大地是两岸同胞共同的家园，和平统一是台湾长治久安的康庄大道。要守护两岸同胞共同的历史文化与血脉亲情，坚定“台湾人就是中国人”的身份认同，反对“台独”和“去中国化”，反对外部势力的挑拨与利用，推动两岸协商、和平统一。要扎根民间、深入群众，汇聚起守护共同家园、共谋民族复兴的力量。&lt;/p&gt;&lt;p&gt;　　本届活动由海峡两岸关系研究中心与台湾爱国统一团体联合举办。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180615&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180615.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180615.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 第六届“携手圆梦——两岸同胞交流研讨活动”在新疆举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180615.html#[04版：要闻] 第六届“携手圆梦——两岸同胞交流研讨活动”在新疆举行</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] “核心价值观百场讲坛”第172场在江西瑞金举办</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180616.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “核心价值观百场讲坛”第172场在江西瑞金举办 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 宣讲中国共产党领导红军长征的光辉历程和伟大意义 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报瑞金9月11日电  （记者杨颜菲）由中宣部宣教局、光明日报社共同主办的“核心价值观百场讲坛”第172场活动11日在江西瑞金举办。此次活动以“中国共产党领导红军长征的光辉历程和伟大意义”为主题，中国人民大学中共党史党建研究院院长杨凤城作宣讲报告。&lt;/p&gt;&lt;p&gt;　　宣讲中，杨凤城回顾了中国工农红军在中国共产党领导下进行长征的伟大历程，结合血战湘江、遵义会议、四渡赤水、飞夺泸定桥、爬雪山过草地等重要事件和英雄壮举，解读了伟大长征精神的丰富内涵和时代价值，阐释了中国共产党的领导是中国革命、建设、改革不断取得胜利最根本的保证。&lt;/p&gt;&lt;p&gt;　　杨凤城表示，伟大长征精神是中国共产党人精神谱系的重要组成部分，是社会主义核心价值观的丰富滋养，已深深融入中华民族的血脉和灵魂，成为鼓舞和激励中国人民不断攻坚克难、从胜利走向胜利的强大精神动力。新征程是新的长征，我们必须大力弘扬伟大长征精神，以坚定信仰信念信心走好新的长征路，以实际行动把革命先辈开创的伟大事业继续推向前进。&lt;/p&gt;&lt;p&gt;　　本场活动由江西省委宣传部、光明网承办，赣州市委宣传部和瑞金市委、瑞金市人民政府协办。光明日报客户端、光明网对活动进行了现场直播。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 宣讲中国共产党领导红军长征的光辉历程和伟大意义 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180616&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180616.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180616.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “核心价值观百场讲坛”第172场在江西瑞金举办 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180616.html#[04版：要闻] “核心价值观百场讲坛”第172场在江西瑞金举办</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 甘肃省委原常委、省政府原副省长雷思维严重违纪违法被开除党籍和公职</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180617.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 甘肃省委原常委、省政府原副省长雷思维严重违纪违法被开除党籍和公职 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月11日电  （记者史一棋）经中共中央批准，中央纪委国家监委对甘肃省委原常委、省政府原副省长雷思维严重违纪违法问题进行了立案审查调查。&lt;/p&gt;&lt;p&gt;　　经查，雷思维丧失理想信念，忘却初心使命，对组织不忠诚不老实，对抗组织审查；违反中央八项规定精神，接受可能影响公正执行公务的宴请；违反组织原则，在组织函询时不如实说明问题，在干部选拔任用、职工录用等工作中为他人谋取利益；廉洁底线失守，违规收受礼金，利用职权或者职务上的影响为特定关系人谋取利益，搞权色交易；目无法纪，搞权钱交易，利用职务便利为他人在资源勘探、采矿权审批、环境监测、职务调整等方面谋利，并非法收受巨额财物。&lt;/p&gt;&lt;p&gt;　　雷思维严重违反党的政治纪律、组织纪律和廉洁纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中共中央批准，决定给予雷思维开除党籍处分；由国家监委给予其开除公职处分；终止其甘肃省第十四次党代会代表资格；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180617&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180617.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180617.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 甘肃省委原常委、省政府原副省长雷思维严重违纪违法被开除党籍和公职 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180617.html#[04版：要闻] 甘肃省委原常委、省政府原副省长雷思维严重违纪违法被开除党籍和公职</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 新疆生产建设兵团原党委常委、副司令员李旭严重违纪违法被开除党籍和公职</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180618.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 新疆生产建设兵团原党委常委、副司令员李旭严重违纪违法被开除党籍和公职 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月11日电  （记者史一棋）经中共中央批准，中央纪委国家监委对新疆生产建设兵团原党委常委、副司令员李旭严重违纪违法问题进行了立案审查调查。&lt;/p&gt;&lt;p&gt;　　经查，李旭丧失理想信念，背弃初心使命，搞政治投机，结交政治骗子，长期搞迷信活动；无视中央八项规定精神，接受可能影响公正执行公务的宴请，无偿接受私营企业主提供的车辆和司机服务，将应当由本人支付的费用由他人支付；违反组织原则，不按规定报告个人有关事项，在职务提拔、职工录用等工作中为他人谋取利益，在组织函询时不如实说明问题；廉洁底线失守，违规收受礼品、礼金；目无法纪，贪婪无度，将公权力异化为谋取私利的工具，利用职务便利为他人在设备采购、工程项目承揽、土地性质变更等方面谋利，并非法收受巨额财物。&lt;/p&gt;&lt;p&gt;　　李旭严重违反党的政治纪律、组织纪律、廉洁纪律和生活纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中共中央批准，决定给予李旭开除党籍处分；由国家监委给予其开除公职处分；终止其新疆维吾尔自治区第十次党代会代表、新疆生产建设兵团第八次党代会代表、新疆生产建设兵团第九师第八次党代会代表资格；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180618&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180618.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180618.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 新疆生产建设兵团原党委常委、副司令员李旭严重违纪违法被开除党籍和公职 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180618.html#[04版：要闻] 新疆生产建设兵团原党委常委、副司令员李旭严重违纪违法被开除党籍和公职</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 一版责编：杨  旭  张帅祯  张宇杰  二版责编：吴  刚  周  輖  谢佳宁  三版责编：林  琳  蒋雪婕  郭雪岩  四版责编：袁振喜  刘  念  崔  斌</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180619.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：杨  旭  张帅祯  张宇杰  二版责编：吴  刚  周  輖  谢佳宁  三版责编：林  琳  蒋雪婕  郭雪岩  四版责编：袁振喜  刘  念  崔  斌 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180619&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180619.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180619.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：杨  旭  张帅祯  张宇杰  二版责编：吴  刚  周  輖  谢佳宁  三版责编：林  琳  蒋雪婕  郭雪岩  四版责编：袁振喜  刘  念  崔  斌 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180619.html#[04版：要闻] 一版责编：杨  旭  张帅祯  张宇杰  二版责编：吴  刚  周  輖  谢佳宁  三版责编：林  琳  蒋雪婕  郭雪岩  四版责编：袁振喜  刘  念  崔  斌</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 习近平主席推动金砖合作金句</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180620.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 国家主席习近平出席金砖国家领导人第十八次会晤 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平主席推动金砖合作金句 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/12/3d827a06-bb1d-47ff-a8a3-f0203980d7cd.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　践行多边主义  捍卫公平正义&lt;/p&gt;&lt;p&gt;　　历史昭示我们，多边主义是人心所向、大势所趋，是世界和平与发展的重要依靠。&lt;/p&gt;&lt;p&gt;　　——2025年9月8日，在金砖国家领导人线上峰会的讲话&lt;/p&gt;&lt;p&gt;　　我们要做维护和平的稳定力量，加强全球安全治理，探索标本兼治的热点问题解决之道。我提出全球安全倡议，得到各方积极响应，已经在维护地区稳定等多个领域取得重要收获。&lt;/p&gt;&lt;p&gt;　　——2024年10月24日，在“金砖+”领导人对话会上的讲话&lt;/p&gt;&lt;p&gt;　　历史告诉我们，和平是人类共同事业，需要各方共同争取和维护。只有人人都珍爱和平、维护和平，只有人人都记取战争的惨痛教训，和平才有希望。面对动荡不安的世界，我们要不忘联合国宪章初心，牢记守护和平使命。&lt;/p&gt;&lt;p&gt;　　——2022年6月22日，在金砖国家工商论坛开幕式上的主旨演讲&lt;/p&gt;&lt;p&gt;　　面对多边和单边、公道和霸道之争，金砖国家要坚定维护国际公平正义，高举多边主义旗帜，捍卫联合国宪章宗旨和原则，维护以联合国为核心的国际体系，维护以国际法为基础的国际秩序。&lt;/p&gt;&lt;p&gt;　　——2020年11月17日，在金砖国家领导人第十二次会晤上的讲话&lt;/p&gt;&lt;p&gt;　　中国古人说：“交得其道，千里同好，固于胶漆，坚于金石。”金砖合作之所以得到快速发展，关键在于找准了合作之道。这就是互尊互助，携手走适合本国国情的发展道路；秉持开放包容、合作共赢的精神，持之以恒推进经济、政治、人文合作；倡导国际公平正义，同其他新兴市场国家和发展中国家和衷共济，共同营造良好外部环境。&lt;/p&gt;&lt;p&gt;　　——2017年9月4日，在金砖国家领导人厦门会晤大范围会议上的讲话&lt;/p&gt;&lt;p&gt;　　世界多极化、经济全球化、文化多样化、社会信息化深入发展，弱肉强食的丛林法则、你输我赢的零和游戏不再符合时代逻辑，和平、发展、合作、共赢成为各国人民共同呼声。&lt;/p&gt;&lt;p&gt;　　——2017年9月3日，在金砖国家工商论坛开幕式上的讲话&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　坚持开放共赢  凝聚发展合力&lt;/p&gt;&lt;p&gt;　　经济全球化是不可阻挡的历史潮流。各国发展离不开开放合作的国际环境，谁也不能退回到自我封闭的孤岛。无论国际形势如何变化，我们都要坚定不移推动构建开放型世界经济，在开放中分享机遇、实现共赢。&lt;/p&gt;&lt;p&gt;　　——2025年9月8日，在金砖国家领导人线上峰会的讲话&lt;/p&gt;&lt;p&gt;　　“全球南方”为发展而起，因发展而兴。我们要做共同发展的中坚力量，积极参与和引领全球经济治理体系改革，推动把发展置于国际经贸议程中心地位。&lt;/p&gt;&lt;p&gt;　　——2024年10月24日，在“金砖+”领导人对话会上的讲话&lt;/p&gt;&lt;p&gt;　　金砖国家要做发展振兴道路上的同行者，反对“脱钩断链”、经济胁迫。要聚焦务实合作，特别是数字经济、绿色发展、供应链等领域，促进经贸和财金领域往来与交流。&lt;/p&gt;&lt;p&gt;　　——2023年8月23日，在金砖国家领导人第十五次会晤上的讲话&lt;/p&gt;&lt;p&gt;　　“泰山不让土壤，故能成其大；河海不择细流，故能就其深。”包容普惠、互利共赢才是人间正道。我们要坚持开放包容，拆除一切阻碍生产力发展的藩篱，引导推动全球化健康发展，让资金和技术自由流动，让创新和智慧充分涌现，汇聚世界经济增长合力。&lt;/p&gt;&lt;p&gt;　　——2022年6月22日，在金砖国家工商论坛开幕式上的主旨演讲&lt;/p&gt;&lt;p&gt;　　开放合作是科技进步和生产力发展的必然逻辑。贸易战不可取，因为不会有赢家。经济霸权主义更要不得，因为这将损害国际社会共同利益，最终也将搬起石头砸自己的脚。&lt;/p&gt;&lt;p&gt;　　——2018年7月25日，在金砖国家工商论坛上的讲话&lt;/p&gt;&lt;p&gt;　　新兴市场国家和发展中国家的发展，不是要动谁的奶酪，而是要努力把世界经济的蛋糕做大。我们要合力引导好经济全球化走向，提供更多先进理念和公共产品，推动建立更加均衡普惠的治理模式和规则，促进国际分工体系和全球价值链优化重塑。&lt;/p&gt;&lt;p&gt;　　——2017年9月3日，在金砖国家工商论坛开幕式上的讲话&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　深化人文交流  促进文明互鉴&lt;/p&gt;&lt;p&gt;　　多样文明是世界的本色。我们要做文明互鉴的促进力量，增进沟通对话，支持彼此走符合本国国情的现代化道路。我提出全球文明倡议，就是要推动建设美美与共的世界文明百花园。&lt;/p&gt;&lt;p&gt;　　——2024年10月24日，在“金砖+”领导人对话会上的讲话&lt;/p&gt;&lt;p&gt;　　金砖国家汇聚了深厚的历史和璀璨的文化。我们要积极倡导不同文明包容共存，加强治国理政经验交流，挖掘教育、体育、艺术等领域合作潜力，让不同文明交相辉映，照亮金砖前行之路。&lt;/p&gt;&lt;p&gt;　　——2024年10月23日，在金砖国家领导人第十六次会晤上的讲话&lt;/p&gt;&lt;p&gt;　　文明多姿多彩、发展道路多元多样，这是世界应有的样子。人类历史不会终结于一种文明、一种制度。金砖国家要弘扬海纳百川的精神，倡导不同文明和平共处、和合共生，尊重各国自主选择的现代化道路。&lt;/p&gt;&lt;p&gt;　　——2023年8月23日，在金砖国家领导人第十五次会晤上的讲话&lt;/p&gt;&lt;p&gt;　　一朵鲜花打扮不出美丽的春天，百花齐放才能让世界春色满园。多姿多彩是人类文明的本色。正因为各国历史、文化、制度不尽相同，才需要交流互鉴、取长补短、共同进步。蓄意鼓噪所谓“民主和威权”、“自由和专制”的二元对立，只能造成世界割裂、文明冲突。&lt;/p&gt;&lt;p&gt;　　——2023年8月22日，在2023年金砖国家工商论坛闭幕式上的致辞&lt;/p&gt;&lt;p&gt;　　人类社会发展史是一部多元文明共生并进的历史。不同国家、地区、民族，不同历史、宗教、习俗，彼此交相辉映、相因相生，共同擘画出这个精彩纷呈的世界。&lt;/p&gt;&lt;p&gt;　　——2019年11月14日，在金砖国家领导人巴西利亚会晤公开会议上的讲话&lt;/p&gt;&lt;p&gt;　　我们应该发挥人文交流纽带作用，把各界人士汇聚到金砖合作事业中来，打造更多像文化节、电影节、运动会这样接地气、惠民生的活动，让金砖故事传遍大街小巷，让我们五国人民的交往和情谊汇成滔滔江河，为金砖合作注入绵绵不绝的动力。&lt;/p&gt;&lt;p&gt;　　——2017年9月3日，在金砖国家工商论坛开幕式上的讲话&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　加强团结合作  完善全球治理&lt;/p&gt;&lt;p&gt;　　金砖国家人口占世界近一半，经济总量约占世界30%，贸易总额占世界五分之一，集聚“大富矿”、“大工厂”、“大市场”。金砖国家合作越紧密，应对外部风险挑战的底气就越足、办法就越多、效果就越好。&lt;/p&gt;&lt;p&gt;　　——2025年9月8日，在金砖国家领导人线上峰会的讲话&lt;/p&gt;&lt;p&gt;　　无论国际形势如何变化，中国始终心系“全球南方”、扎根“全球南方”，支持更多“全球南方”国家以正式成员、伙伴国、“金砖+”等形式加入金砖事业，汇聚“全球南方”磅礴力量，共同推动构建人类命运共同体。&lt;/p&gt;&lt;p&gt;　　——2024年10月24日，在“金砖+”领导人对话会上的讲话&lt;/p&gt;&lt;p&gt;　　时代的风浪越大，我们越要勇立潮头，以坚韧不拔之志、敢为人先之勇、识变应变之谋，把金砖打造成促进“全球南方”团结合作的主要渠道、推动全球治理变革的先锋力量。&lt;/p&gt;&lt;p&gt;　　——2024年10月23日，在金砖国家领导人第十六次会晤上的讲话&lt;/p&gt;&lt;p&gt;　　加强全球治理是国际社会共享发展机遇、应对全球性挑战的正确选择。国际规则要依据联合国宪章宗旨和原则，由大家共同书写、共同维护，不能谁的胳膊粗、嗓门大，谁就说了算。更不能拉帮结伙，把自己的“家法帮规”包装成国际规则。&lt;/p&gt;&lt;p&gt;　　——2023年8月23日，在金砖国家领导人第十五次会晤上的讲话&lt;/p&gt;&lt;p&gt;　　一箭易断，十箭难折。我们应该发挥自身优势和影响力，促进南南合作和南北对话，汇聚各国集体力量，联手应对风险挑战。我们应该扩大金砖合作的辐射和受益范围，推动“金砖+”合作模式，打造开放多元的发展伙伴网络，让更多新兴市场国家和发展中国家参与到团结合作、互利共赢的事业中来。&lt;/p&gt;&lt;p&gt;　　——2017年9月3日，在金砖国家工商论坛开幕式上的讲话&lt;/p&gt;&lt;p&gt;　　真金不怕火炼。伙伴的意义和价值，不仅在于顺境中共襄盛举，更在于逆境时携手前行。只要我们坚定信心、加强协调，我们的合作就一定能乘风破浪、穿云破雾，让世界对金砖国家的成色有新的认识。&lt;/p&gt;&lt;p&gt;　　——2015年11月15日，在金砖国家领导人非正式会晤上的发言&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 国家主席习近平出席金砖国家领导人第十八次会晤 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180620&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180620.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180620.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平主席推动金砖合作金句 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180620.html#[05版：特别报道] 习近平主席推动金砖合作金句</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 本版责编：邹志鹏  张慧中  褚  君</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180621.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：邹志鹏  张慧中  褚  君 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：沈亦伶 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180621&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180621.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180621.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：邹志鹏  张慧中  褚  君 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180621.html#[05版：特别报道] 本版责编：邹志鹏  张慧中  褚  君</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：广告] 润泽科技  深耕智能算力  赋能千行百业</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180622.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 润泽科技  深耕智能算力  赋能千行百业 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 稳定·安全·可靠·绿色 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/12/d14a8209-0cee-4e70-9d03-2f1bac8267ed.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　润泽科技是国内领先的算力基础设施与智能算力服务商，专注于为我国人工智能产业提供规模化、绿色化、智能化先进算力基础设施与智能算力服务，已成功布局9个AIDC（人工智能算力中心）产业集群，深度赋能千行百业数智化转型升级。&lt;/p&gt;&lt;p&gt;　　数据来源：润泽智算科技集团股份有限公司&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 稳定·安全·可靠·绿色 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180622&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180622.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180622.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 润泽科技  深耕智能算力  赋能千行百业 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180622.html#[06版：广告] 润泽科技  深耕智能算力  赋能千行百业</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：广告] 蓝芩喉糖  清爽好厉害！</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180623.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 蓝芩喉糖  清爽好厉害！ &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/12/0ce0b306-57ff-447b-85ed-f7b10fce3bad.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180623&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180623.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180623.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 蓝芩喉糖  清爽好厉害！ &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180623.html#[07版：广告] 蓝芩喉糖  清爽好厉害！</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 北纬53度，最北最冷的这片热土（我与一座城）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180681.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 北纬53度，最北最冷的这片热土（我与一座城） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							马元春&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　53，是一个数字，但对于漠河来说有着特别的意义。这里有北纬53度的中国最北地理极点，也留存零下53摄氏度的极端极寒纪录。雪期最长、夏季最凉、区位最北，是这片土地独有的底气。&lt;/p&gt;&lt;p&gt;　　与一座城的缘分，始于懵懂相逢，成于半生相守，归于一世深情。于我而言，漠河，这座伫立在祖国版图最北端的边城，收纳了我整整50年的人生光阴。我的成长轨迹，始终与这座极北小城的更迭、涅槃、发展同频共振。&lt;/p&gt;&lt;p&gt;　　漠河的风、漠河的雪、漠河的林海星河，滋养了我的童年，磨砺了我的性情，成就着我的初心。我与漠河的故事，是个人与土地的深情相拥，更是边疆林海之城浴火重生、逐光振兴的时代缩影。&lt;/p&gt;&lt;p&gt;　　年少时，我随父辈奔赴北疆林区拓荒建设，我的北疆情就缘起于那段林海拓荒岁月。我跟随投身林区建设的父亲落户彼时的古莲区。初来时，踏足小学校园，日日徜徉在那时被称作“风景林”的一片苍松古木之间。林间清风拂面，四季松影常青，满目安宁清幽，林子里还有多种山野果和各色山花。然而，年少懵懂的我，只知身在林海、乐享岁月，全然不知这片朝夕相伴的土地，正是地理课本上庄严标定的祖国极北之地。&lt;/p&gt;&lt;p&gt;　　儿时琅琅读书声犹在耳畔：我们的祖国多么辽阔，南到曾母暗沙，北到黑龙江漠河。山河形胜，疆域辽阔，深深烙印在我的心底。可那时的我，始终无法将眼前静谧的林海小城，与课本中意义非凡的极北坐标相联。1981年，经国务院正式批复，漠河建县。地名已定、版图在册，可年幼的我浑然不觉，不知自己栖身之处正是神州北极。待到日后真正读懂这片土地，已是经历了岁月沉淀，更是苦难淬炼的结果。&lt;/p&gt;&lt;p&gt;　　1987年，一场特大森林火灾席卷林海。彼时正在读书的我和万千父老乡亲一样，目睹故土历经重创、林海遭遇劫难。然而，劫后余生的漠河，没有沉沦、没有止步。全城人民同心聚力、重建家园，在焦土之上再造林海、重塑新城。这座坚韧不屈的城，完成了一场震撼人心的浴火重生。也正是从这座城的伤痛与崛起里，我开始正视脚下的土地，读懂了北疆山河的分量。&lt;/p&gt;&lt;p&gt;　　年岁渐长，心志渐明。我从做青年工作起步，而后深耕宣传文化战线。回望童年懵懂，方才恍然醒悟：我生活、成长、热爱的这片土地，正是祖国最北端的神圣疆域。半生浸润、朝夕相守，我愈发理解诗人艾青在《我爱这土地》里那句深情的告白：“为什么我的眼里常含泪水？因为我对这土地爱得深沉……”我常叩问内心，这份深沉的热爱是否早已入骨？答案，藏在每一次深情的讲述里。多年来，我向八方游客讲述漠河的拓荒往事、重生历程与山河风光。许多远方来客初识漠河，皆源于这些真诚的推介与讲解。听者一句句由衷的赞叹，更让我深深感到：漠河的美，值得被看见、被听见、被珍藏。&lt;/p&gt;&lt;p&gt;　　半世弹指一挥间。几十年来，我见证了一座边陲小城的华丽蝶变。儿时记忆里的漠河，偏远辽阔、车马迟缓，仅有一趟绿皮火车连通外界，如今山河换新颜。省城直达列车每日多次对开，林海交通四通八达。2008年漠河机场顺利通航，彻底打开了这座北疆城市对外开放的崭新格局。年少时不敢想象的图景，如今尽数落地成真。&lt;/p&gt;&lt;p&gt;　　小城振兴，硕果丰盈。得天独厚的寒地黑土与原始森林，孕育出独有的林下珍产。漠河冰蓝莓和北极冰酒凭借上乘品质，成为叫响全国的北疆生态名片。优质极地寒泉资源，让天然泉水从林海深处走向全国各地。立足得天独厚的极寒禀赋，这里发展起“双寒产业”，一方面做强寒地测试产业，为汽车、电子、新材料提供极寒试验场景；一方面发展北药种植，抚育赤芍、金莲花等寒地龙药道地药材。极寒的自然禀赋被转化为富民兴城的发展动能。&lt;/p&gt;&lt;p&gt;　　历经风雨洗礼的漠河，笃定走生态发展之路，成为“绿水青山就是金山银山”“冰天雪地也是金山银山”理念的鲜活实践地。知名边城，静立林海，泼水成冰的冰雪盛景，曾经的苦寒边塞已然变为人们向往、奔赴的诗和远方。八方来客奔赴至此，追光遇星河，观星净本心，嬉雪悦流年，在极致纯粹的北极风光里安放心灵、遇见美好。&lt;/p&gt;&lt;p&gt;　　半生栖居北极地，一腔深情付边城。我与这座城早已血脉相融、命运与共。我见过它拓荒创业的清贫、历经劫难的伤痛，更亲历它涅槃重生的昂扬、蓬勃奋进的今朝。&lt;/p&gt;&lt;p&gt;　　岁月无言，山河有信。漠河，城虽不大，却予我滋养、予我成全、予我万般温暖。虽地处最北边陲，却是我心底魂牵梦萦的热土。往后余生，我愿扎根在这片祖国最北的沃土，守望极北山河，讲好漠河生态的故事、发展的故事、振兴的故事。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;马元春&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180681&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180681.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180681.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 北纬53度，最北最冷的这片热土（我与一座城） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180681.html#[08版：副刊] 北纬53度，最北最冷的这片热土（我与一座城）</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 地理与文心（文思）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180682.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 地理与文心（文思） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							刘大先&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　江左清绮、河朔贞刚，骏马西风塞北、杏花烟雨江南，北人学问渊综广博、南人学问清通简要……一说起地域文化差异，这些高度凝练的词句，就会不由自主地跃入脑海之中。它们成为描述南北文化差异的意象化外显。&lt;/p&gt;&lt;p&gt;　　山林皋壤、水泽大川、荒野朔漠、戈壁雪原，孕育出不同的地理美学，人们凭借对水土风气之异的本能体察，产生不同的抒情达意方式。“岁有其物，物有其容；情以物迁，辞以情发”，人们得自然的气候、物产与景色助力，于是产生了风貌丰富的审美观念，也就有了《诗经》与《离骚》这样不同的南北文学传统。&lt;/p&gt;&lt;p&gt;　　然而，自然并不是直接作用于文学，而是通过不同的人文风俗中介发生作用。《礼记》中说，“因天地寒暖燥湿，广谷大川异制。民生其间者异俗”。所谓“风俗”，古人的看法是“土地水泉，气有缓急，声有高下，谓之风焉；人居此地，习以成性，谓之俗焉”。古人采诗，也是为了察势观风，了解民情民俗民心。&lt;/p&gt;&lt;p&gt;　　风俗的主体是民众，也就是说，文化的根底与文学的底蕴无论外显为何等壮丽山川或者时尚风气，内在都是人民心声的表达。它们构成了情感的依托、认同的基础与精神的凝聚。人民永远是生生不息的存在，充满了无尽的潜能，人民的文学也因此成为无限的风景。&lt;/p&gt;&lt;p&gt;　　前现代时期，关于自然与文学书写天人合一式的比附，在缓慢的农耕时代，形成稳定的集体记忆积淀，以至于人们一提起文风，往往会有上述直观的印象。但是，这一切也通过游学、致仕、经商、贸易、战争、移民而潜移默化，一位强有力的书写者即便从某种风土中生长出来，也从来不会被那块土地所囿限。近现代以来，社会变革的速度、人口与信息的流动都加快了，已经很难将某种民俗与性格同某个地域捆绑在一起，事实上地域文化自身也在不断吐故纳新，生发出与时代相应的特征。&lt;/p&gt;&lt;p&gt;　　曾经听过一位研究西域的学者讲中国历史地理的特点，说是“东西交通、南北对抗”。大致是从夏商周到秦以东西融通为主，核心区域是以洛阳为中心的关中与华北平原一带；汉到明清以南北竞争为主。不过，所谓东、西、南、北的地理分割也都是相对而移动的，随着历史的前行而不断演进。&lt;/p&gt;&lt;p&gt;　　南北差异之外，从长时段来看，中华文化的总体趋势是东移南迁。南宋可以作为中国古代都城变迁的分界线，之前是中原期，政治中心基本上是在关中平原至中州平原一带；之后是近海期，从开封推移到了杭州，元明清移都南京、北京一线，这是一种东移背景下的南北波动。长城内外、东海西域皆成中国人的故乡。&lt;/p&gt;&lt;p&gt;　　文化上积习良久，时至今日已经成为某种无意识式的存在，尤其是在文学上，南北风格的不同，以意象化的方式直观地呈现出来。当代文学“地方性写作”风潮中，极为醒目的一个是“新南方”，一个是“新东北”——即便在交通如此便捷、人员与信息往来如此频繁与密切的情形下，它们仍然显示出风采卓异的美学，那些过往留下的记忆与遗产，仍然以怀旧的方式成为建构地方文化形象与身份的有效资源。还有“新边地”“新北京”“新浙派”以及“新乡土”，都是立足于文脉传统基础上的守正创新。&lt;/p&gt;&lt;p&gt;　　晚清词人况周颐在《蕙风词话》中说：“吾听风雨，吾览江山，常觉风雨江山外有万不得已者在”，我以为，那个“万不得已者”就是“文心”。自然、风俗、人民交织在“文心”之中，让人们对看上去在这个时代里影响力减弱的文学，依然怀揣信心——它们移形换位、古木新芽，以别样的面目出现在互联网语境之中，构成了新时代文艺的无限风景。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;刘大先&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180682&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180682.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180682.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 地理与文心（文思） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180682.html#[08版：副刊] 地理与文心（文思）</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 母亲·婴儿</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180683.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 母亲·婴儿 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——写给《黄河母亲》雕像 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							杨建仁&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　当我触摸到您&lt;/p&gt;&lt;p&gt;　　砂岩之躯怦怦的脉搏时&lt;/p&gt;&lt;p&gt;　　整条河流正从指缝间&lt;/p&gt;&lt;p&gt;　　蜿蜒成波澜壮阔的画卷&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　九曲十八弯的荡气回肠&lt;/p&gt;&lt;p&gt;　　漫过青铜时代&lt;/p&gt;&lt;p&gt;　　您以沉积的姿势俯身&lt;/p&gt;&lt;p&gt;　　让每个漩涡都成为摇篮&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　泥沙在血管里结晶成星群&lt;/p&gt;&lt;p&gt;　　开始发光发亮&lt;/p&gt;&lt;p&gt;　　胎动从河床深处拱出&lt;/p&gt;&lt;p&gt;　　鲜活的第一缕霞光&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　我曾是您肋间游走的小鱼&lt;/p&gt;&lt;p&gt;　　用鳃吞吐湛蓝的畅想&lt;/p&gt;&lt;p&gt;　　而此刻从花岗岩中&lt;/p&gt;&lt;p&gt;　　溢出的热气腾腾的奶水&lt;/p&gt;&lt;p&gt;　　是喂养整个山河&lt;/p&gt;&lt;p&gt;　　最纯正的米汤&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　母亲  您宁静如山&lt;/p&gt;&lt;p&gt;　　怀揣磅礴  满目慈祥&lt;/p&gt;&lt;p&gt;　　始终习惯哺育的侧卧&lt;/p&gt;&lt;p&gt;　　使整个高原倾向大海&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　当候鸟一次次衔来&lt;/p&gt;&lt;p&gt;　　入海口咸涩的消息&lt;/p&gt;&lt;p&gt;　　新生的支流正从您肩胛&lt;/p&gt;&lt;p&gt;　　奔向不再遥远的地平线&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　今夜  借着万里长风&lt;/p&gt;&lt;p&gt;　　我听见石头上浪涛拍天&lt;/p&gt;&lt;p&gt;　　看到每一寸肌肤里&lt;/p&gt;&lt;p&gt;　　都辉映出和黄河&lt;/p&gt;&lt;p&gt;　　一样古老的月光&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　五千年的潮起潮落&lt;/p&gt;&lt;p&gt;　　镌刻出的母亲形象&lt;/p&gt;&lt;p&gt;　　体温的磁盘里&lt;/p&gt;&lt;p&gt;　　永远储存着&lt;/p&gt;&lt;p&gt;　　婴儿第一声滚烫的啼哭 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;杨建仁&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——写给《黄河母亲》雕像 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180683&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180683.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180683.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 母亲·婴儿 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180683.html#[08版：副刊] 母亲·婴儿</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] “吸铁石”（遇见）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180684.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “吸铁石”（遇见） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							朱宜尧&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　老石正在车底作业。我蹲下来，看着他。他抻着脖子，目光在侧架和车底之间逡巡，一点一点扫描转向架、制动梁、各部零件。锤落声起，耳朵收纳锤击各部零件的声音。检车作业执行得一丝不苟。&lt;/p&gt;&lt;p&gt;　　我听过老石的经验介绍。那次，他穿着一身藏蓝色工作服，感觉刚从现场回来，就匆忙上台了，也不知道讲啥，一旁的主任替他解了围：“就谈你是咋工作！”&lt;/p&gt;&lt;p&gt;　　老石打开了话匣子，从工作服谈起。“你们谁知道新人到列检，工作服哪个地方最费？”在台下的新入职人员，有人说“袖头”，有人说是“衣领”“衣襟”。答案都不对。我鼓起勇气说：“工作服的后背。”老石说：“对了！”那年我在客车大库实习检车作业，钻入车底时后背不小心剐出了三角口，第二天上工点名，口子还没缝，后排学员大笑不止。不按套路出牌的老石，就讲自己的工作方法——检车“三法”，“扫描眼”“听声耳”“猿猴身”。我一下子记住了他。&lt;/p&gt;&lt;p&gt;　　老石的外号叫“吸铁石”。暑天货车练功场气温高达五六十摄氏度，人家间歇休息，他却像上了发条似的，从车上到车下包括车底，像被吸在了车上。汗珠子顺着脸爬，后背湿了一大块。工友们就给他起了这个绰号。技能比武当天，他是唯一一个10项故障都发现的检车员，有的故障特别隐蔽。老石的名气也因此大了起来。&lt;/p&gt;&lt;p&gt;　　我还听过另一件事。领导让老石担任车间技术员，以“师带徒”的方式把好货车检修的技术关，他不愿去。这可是转干的机会。后来领导又想让他负责全段的职教工作，他还是不去。机会找人的美差，老石这两次都放弃了。没人能理解这块“愚木顽石”。&lt;/p&gt;&lt;p&gt;　　采访老石的当天，下雨，没办法看他作业。等天晴了，老石回家看母亲去了。我和他母亲有过一面之缘。那年我住铁路宿舍，见一个妇女来看孩子，左腿膝盖以下截了肢。她是骑自行车来的，自行车右侧脚镫有一根麻绳，用来固定右脚，以方便蹬车。她蹬车时肩膀左一耸右一耸，很吃力。听人说，那是老石的母亲。&lt;/p&gt;&lt;p&gt;　　后来终于和老石一起来到班组，跟着他作业。干了一阵子，有人喊：“师父，值班主任叫你。”老石走了，我就跟他徒弟聊天，眼前是老石第三十二个签过师徒合同的徒弟。俗话说“教会徒弟饿死师父”，老石却倾囊相授。他的徒弟有当副段长的，有当技术专职的，有当教育专职的，做技术员、工长的更多。&lt;/p&gt;&lt;p&gt;　　老石回来后，我问起他当年提职的事。老石感慨，那年家里出了车祸，父亲离世，母亲躺在医院，家里很大一部分开销落在他肩上。赶在冬运的节骨眼儿，发现故障，段里有奖励，一个月顶两个月的工资，比当技术员多。&lt;/p&gt;&lt;p&gt;　　这些年随着技术改进，作业模式也发生了变化，有的检车员去了工务段、列车段，老石靠着技能守住了岗位。如今，孩子考上了一所不错的大学，爱人新开了家政公司，母亲身体还算硬朗，生活一切向好。说起这些，老石神采飞扬。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;朱宜尧&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180684&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180684.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180684.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “吸铁石”（遇见） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180684.html#[08版：副刊] “吸铁石”（遇见）</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180685.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/12/3bec377e-3927-4acd-9a86-6115ba9bd7fb.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　中国画《秋鹜》，作者林风眠，中国美术馆藏。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180685&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180685.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180685.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180685.html#[08版：副刊] 图片报道</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 小店的表情</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180686.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 小店的表情 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							肖复兴&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　我家附近有好多小店。说是小店，真都不大，卖水果蔬菜或冷饮面包之类，也有几个理发洗衣的小店，方便了住在小区里人们的日常生活。&lt;/p&gt;&lt;p&gt;　　这些小店，最近几年，有的关张，有的坚持，有的新开，起起落落不间断。看小店，能看出经济形势和人们的心情起伏。这不仅从小店本身折射出来，从进出小店人们的菜篮子和脸上，以及彼此交谈的三言两语中，也能感觉到。可以说，小店是小区人们的客厅，也是人们的表情包。&lt;/p&gt;&lt;p&gt;　　这些小店，我常去两家。两家都在小区里面。一家菜店，一家面包店，开得都有些年头了。&lt;/p&gt;&lt;p&gt;　　菜店的年头更久，河北来的姐弟俩经营，姐夫在湖北工作，姐姐为帮助弟弟开店，特意留在北京。小店人气一直很旺，店里菜品齐全，而且新鲜。一般小店里很少有的南方应季蔬菜，如菱角、鸡头米、折耳根之类，也会进货。这让它区别于周围的超市。&lt;/p&gt;&lt;p&gt;　　面包店，前店后厂，说是厂，其实就是烘焙面包的一间小屋。小店由一个年轻姑娘经营，雇了一个师傅，负责烘焙。小店的面包品种不多，但质地不错，对我的口味。尤其是一种青稞面包，风味独特。还有一种橙子味儿的曲奇，姑娘特别向我推荐，说一小罐曲奇要用4个橙子做成。小店每天傍晚5点后打折。我常到那里买面包，和姑娘渐渐熟了起来。&lt;/p&gt;&lt;p&gt;　　前几年的春天，面包店关了。这让我有些失落。面包店关门后，那个地方一直空着。前不久，才有人接手，开了一家美容店，但远不如面包店红火。&lt;/p&gt;&lt;p&gt;　　菜店一直坚持开着。只是，如今改了章程，不再卖菜，只卖水果和海鲜了。水果主要是榴莲、山竹、凤梨之类的南方水果，海鲜主要是螃蟹、大虾和生蚝。而且，全部团购，小店和小区里的人都是通过微信联系，店里先把要进的货物图片和短视频挂在朋友圈，根据大家微信上订货数量进货，到货后通知大家取货，没有积压。原来人来人往热热闹闹的小店，现在只有弟弟一个人忙里忙外。说是忙，订货、进货、卖货，通过一部手机，就可以大功告成，比原来卖菜要简单轻便多了，连收银台都免了。弟弟告诉我，姐姐的女儿上高中，明年要考大学了，姐姐回湖北和家人团聚了。&lt;/p&gt;&lt;p&gt;　　身边的小店，就是这样开着、关着，关了不少，开着的更多，还有新开的，“前赴后继”。小区的边上，一家小店是新开的。原来这里走马灯一样，开过服装店、食品店、预制鱼肉品店、房屋中介、儿童绘画班。门前原来的招牌拆除了，没有挂新招牌，大门敞开着，如姜太公钓鱼。&lt;/p&gt;&lt;p&gt;　　我有些好奇，进店看看究竟。店里只有一个小姑娘，柜台上下摆放一些日常的油盐酱醋矿泉水。才知道是几个年轻人经营了一个小型农场，就是在农村租一块地，自己种菜，自产自销。小店新租不久，每周四网上订货，周六从农场开车把货定量送来，大家到小店付款取货。姑娘从筐里拿出几个西红柿、一根黄瓜、两个尖椒，免费让我尝尝。他们只种这三种菜，只卖这三种菜。&lt;/p&gt;&lt;p&gt;　　三种菜，都尝过了。味道不错，特别是西红柿，比超市里卖的水果西红柿和普罗旺斯西红柿，都更有西红柿味儿。虽然价钱比超市里贵一些，但买的人不少。&lt;/p&gt;&lt;p&gt;　　每周六这一天，小店生气勃勃，像一场好看的戏上演一样。取货时，小店里人来人往，都夸他们能干，夸他们这三种菜好。如果有事来晚了，小姑娘也会一直等待。小店里亮着灯，橘黄色的灯光闪动着，很暖。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;肖复兴&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180686&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180686.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180686.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 小店的表情 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180686.html#[08版：副刊] 小店的表情</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 豌豆饸饹面</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180687.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 豌豆饸饹面 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							马毅杰&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“老板娘，加份面！”“好嘞！”&lt;/p&gt;&lt;p&gt;　　“老板娘，给我也再来一份。”“马上好！”&lt;/p&gt;&lt;p&gt;　　这家专做豌豆饸饹面的餐馆，铺面不大，由一对中年夫妇经营。妻子热情干练，丈夫朴实沉稳，把小店打理得干净、利落。&lt;/p&gt;&lt;p&gt;　　山西是面食之乡，面馆比比皆是，可专做豌豆面的餐馆并不多见。当年在吕梁山里插队当知青时，我就在老乡家吃过豌豆面。豌豆是黄土高原传统的小杂粮，磨好的豌豆面，质地紧实、色泽微黄，略有粗糙之感。它膳食纤维丰富，富含多种矿物质，但豌豆面黏性不足，很难做成细细长长的面条。为此，厨娘变换花样，将它做成身段较短的“抿尖”“擦尖”之类的面食，或在铁鏊子上焙成“厚馍馍”，出门当干粮。几十年过去，我仍能回味起豌豆面的味道。&lt;/p&gt;&lt;p&gt;　　老板娘热情招呼，说有浇卤的、干拌的、肉炒的、素烩的，哪样都好吃。我和老伴都选了招牌肉卤面，不贵，一大碗13元。&lt;/p&gt;&lt;p&gt;　　不一会儿，肉卤面上桌。碗里细长圆润、根根分明的金黄色面食，被酱红色的汤汁浸润，面上铺满肥瘦相间的猪肉丁，点缀几片青菜。这碗豌豆饸饹面筋道爽滑，本想细嚼慢尝，却不由得大口吃起，一大碗面不知不觉下了肚。&lt;/p&gt;&lt;p&gt;　　这时，老板娘走过来问：“您二位还要加面吗？”我说不用，吃饱了。她又挨桌去问其他顾客。加面不另收钱。&lt;/p&gt;&lt;p&gt;　　她家的这碗豌豆饸饹面坚持面条现和现压、浇头现炒现熬。文火慢炖，一碗一碗来。吃过一次，回味悠长。于是隔三差五，总想着那碗豌豆饸饹面。每回来，也都能见到面孔熟悉的回头客。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;马毅杰&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180687&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180687.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180687.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 豌豆饸饹面 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180687.html#[08版：副刊] 豌豆饸饹面</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 征文启事</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180688.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 征文启事 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　金秋时节，山河锦绣。国庆期间，人民日报大地副刊拟在“大地风华”系列中推出“我们的国庆故事”专版，诚邀广大读者用散文、随笔或诗歌等形式，描绘神州大地国庆期间的新风景、新生活、新体验。&lt;/p&gt;&lt;p&gt;　　来稿要求人物和故事真实、动人，有文学性和趣味性，题材不限，篇幅1200字以内为宜。来稿请发至本版邮箱dadi@peopledaily.cn，并注明“国庆故事投稿”。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180688&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180688.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180688.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 征文启事 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180688.html#[08版：副刊] 征文启事</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 本版责编：周舒艺</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180689.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：周舒艺 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月12日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　欢迎广大读者来稿。来稿要求为原创首发，非一稿多投。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-12 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180689&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180689.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/12/content_30180689.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：周舒艺 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/12/content_30180689.html#[08版：副刊] 本版责编：周舒艺</guid>
+      <pubDate>Sat, 12 Sep 2026 08:23:23 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
