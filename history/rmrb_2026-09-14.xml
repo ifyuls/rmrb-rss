@@ -1,0 +1,843 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 13 Sep 2026 00:04:03 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180703.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。习近平发表题为《共担时代责任  勇做先锋力量》的重要讲话。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  燕  雁摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/53718392-9aef-4b88-8173-51e2bbe8f4cb.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。会议期间，金砖国家领导人集体合影。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  王  晔摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/ceb0f065-b0dc-4eff-8528-9337bf54b8db.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　■ 今年是金砖国家合作20周年。20年来，金砖合作机制不断发展壮大，展现出蓬勃生机活力，成为当今世界最具影响力的新兴市场和发展中国家合作平台。这是自立自强的20年，金砖国家积极探索符合自身国情的发展道路，成为新兴市场和发展中国家联合自强的典范。这是风雨同舟的20年，金砖国家携手应对国际金融危机、新冠疫情、气候变化等挑战，坚定维护全球南方共同利益，为世界提供稳定性和正能量。这是成果丰硕的20年，金砖国家实现历史性扩员，建立起全方位、多层次合作架构，迈入“大金砖合作”高质量发展新阶段&lt;/p&gt;&lt;p&gt;　　■ 当前，世界百年变局加速演进，全球南方卓然壮大，世界多极化不可阻挡。与此同时，单边主义、强权政治逆流涌动，多边主义和国际秩序受到冲击，和平赤字、发展赤字、安全赤字、治理赤字有增无减。金砖国家要坚定站在历史正确一边，勇做时代先锋，引领国际秩序朝着更加公正合理的方向发展，携手推动构建人类命运共同体。一要做促进创新发展的先锋。二要做维护和平稳定的先锋。三要做推动文明互鉴的先锋。四要做改革完善全球治理的先锋&lt;/p&gt;&lt;p&gt;　　■ 二十年风雨兼程，团结合作始终是金砖事业发展的力量之源。要坚持坦诚相待、求同存异，尊重彼此核心关切，以沟通对话增进相互理解、妥处矛盾分歧，确保金砖合作行稳致远。中国将于明年接任金砖主席国，主办金砖国家领导人第十九次会晤。中方愿同各方凝聚共识、开创未来，开启金砖合作第三个“金色十年”，共创繁荣进步的光明前景&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　本报新德里9月12日电  （记者陈振凯、巩晗）当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。&lt;/p&gt;&lt;p&gt;　　俄罗斯总统普京、南非总统拉马福萨、伊朗总统佩泽希齐扬、埃及总统塞西、印度尼西亚总统普拉博沃、埃塞俄比亚总理阿比、阿联酋阿布扎比王储哈立德和巴西外长等出席，印度总理莫迪主持会议。&lt;/p&gt;&lt;p&gt;　　习近平发表题为《共担时代责任  勇做先锋力量》的重要讲话。&lt;/p&gt;&lt;p&gt;　　习近平指出，今年是金砖国家合作20周年。20年来，金砖合作机制不断发展壮大，展现出蓬勃生机活力，成为当今世界最具影响力的新兴市场和发展中国家合作平台。这是自立自强的20年，金砖国家积极探索符合自身国情的发展道路，成为新兴市场和发展中国家联合自强的典范。这是风雨同舟的20年，金砖国家携手应对国际金融危机、新冠疫情、气候变化等挑战，坚定维护全球南方共同利益，为世界提供稳定性和正能量。这是成果丰硕的20年，金砖国家实现历史性扩员，建立起全方位、多层次合作架构，迈入“大金砖合作”高质量发展新阶段。&lt;/p&gt;&lt;p&gt;　　习近平强调，当前，世界百年变局加速演进，全球南方卓然壮大，世界多极化不可阻挡。与此同时，单边主义、强权政治逆流涌动，多边主义和国际秩序受到冲击，和平赤字、发展赤字、安全赤字、治理赤字有增无减。金砖国家要坚定站在历史正确一边，勇做时代先锋，引领国际秩序朝着更加公正合理的方向发展，携手推动构建人类命运共同体。&lt;/p&gt;&lt;p&gt;　　一要做促进创新发展的先锋。牢牢把握主动权，加强人工智能合作，鼓励开源开放、合作共享，推动务实合作向新而行、向高攀登。欢迎金砖各国积极参与世界人工智能合作组织。中方提出金砖国家人工智能赋能新型工业化倡议，愿同各方共同打造更多研发和应用成果，深化产业链供应链合作。&lt;/p&gt;&lt;p&gt;　　二要做维护和平稳定的先锋。秉持共同、综合、合作、可持续的安全观，反对冷战思维和阵营对抗，反对侵犯别国主权、干涉别国内政，建设性参与热点问题解决，为寻求标本兼治之道作出金砖独特贡献。中方愿同金砖成员一道，为实现中东海湾地区和平安宁发挥应有作用。&lt;/p&gt;&lt;p&gt;　　三要做推动文明互鉴的先锋。弘扬全人类共同价值，倡导文明交流互鉴、和合共生。办好金砖国家人文交流论坛，分享治国理政经验，为国与国关系稳定发展汇聚正能量。深化文化、旅游、教育等合作，加强青年交流，促进民众常来常往、相知相亲。&lt;/p&gt;&lt;p&gt;　　四要做改革完善全球治理的先锋。顺应国际关系民主化大势，推动构建更加公正合理的全球治理体系，维护联合国权威。支持以世界贸易组织为核心的多边贸易体制，抵制一切形式的保护主义措施。引领网络、外空、深海等新疆域全球治理，提升全球南方国家话语权。&lt;/p&gt;&lt;p&gt;　　习近平强调，二十年风雨兼程，团结合作始终是金砖事业发展的力量之源。要坚持坦诚相待、求同存异，尊重彼此核心关切，以沟通对话增进相互理解、妥处矛盾分歧，确保金砖合作行稳致远。中国将于明年接任金砖主席国，主办金砖国家领导人第十九次会晤。中方愿同各方凝聚共识、开创未来，开启金砖合作第三个“金色十年”，共创繁荣进步的光明前景。（全文见第二版）&lt;/p&gt;&lt;p&gt;　　与会各国领导人就金砖合作和国际地区问题深入交换意见。&lt;/p&gt;&lt;p&gt;　　各方高度评价金砖成立20年来取得的发展成就，表示金砖机制具有广泛代表性，拥有巨大发展潜力。面对地缘冲突加剧、单边主义抬头，金砖国家有责任为全球南方发声，捍卫多边主义，支持联合国核心作用，维护各国主权平等，遵守国际法，反对干涉别国内政，支持自由贸易，共同应对全球性挑战。各方应该秉持金砖精神，深化各领域合作，增强经济韧性，推动形成更加公平包容的国际秩序，建设一个安全繁荣的多极世界。各方赞赏中国为金砖机制发展壮大作出的重要贡献，支持中国作为明年主席国办好金砖国家领导人第十九次会晤，共同推动金砖合作迈上新台阶。&lt;/p&gt;&lt;p&gt;　　会议通过《金砖国家领导人第十八次会晤新德里宣言》。&lt;/p&gt;&lt;p&gt;　　会议期间，金砖国家领导人参观了金砖成立20周年图片展，共同植树并集体合影。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅等参加上述活动。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180703&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180703.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180703.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180703.html#[01版：要闻] 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平会见印度总理莫迪</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180704.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平会见印度总理莫迪 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间九月十二日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  王  晔摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/f041f0fb-76bc-47f7-ab0a-e3b171b6dd19.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报新德里9月12日电  （记者任彦、韩晓萌）当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。&lt;/p&gt;&lt;p&gt;　　习近平指出，中方始终从战略高度和长远角度看待和发展中印关系。近两年，我同莫迪总理两次会晤，引领中印关系从“再出发”实现“再提升”。两国机制性交往逐步恢复，合作清单不断拉长，双边贸易额再创新高。这一局面来之不易，值得珍惜。中印两国国情不同，完全可以取长补短、相互支持、彼此成就、共同发展。面对变乱交织的国际形势，中国和印度作为世界上人口最多的两个国家和全球南方重要成员，肩负重要责任。双方要以人类前途为怀、以人民福祉为念，携手推动“大金砖合作”高质量发展，为促进世界和平稳定和发展繁荣提供更多正能量。&lt;/p&gt;&lt;p&gt;　　习近平就推动中印关系行稳致远谈了4点看法。第一，以客观理性的战略认知校准方向。中印两国是合作伙伴而不是对手，互为发展机遇而不是威胁。这是基于两国所处发展阶段和国际环境作出的战略判断，符合两国和两国人民共同利益。第二，以合作共赢理念相互成就。双方应聚焦发展这个最大公约数，加强友好交往和互利合作。拓展人文、直航等合作，有效改善两国关系民意基础。平衡解决彼此经贸关切，推动两国经贸关系健康稳定发展。第三，以互尊互谅的政治智慧排除干扰。致力于双边关系和边界问题双轨并进、相互促进，维护边境地区和平安宁。第四，以开放包容的多边协作兼济天下。相互支持彼此担任金砖主席国，加强在联合国、上海合作组织、二十国集团等多边框架内协作，同舟共济应对全球性挑战，旗帜鲜明捍卫国际公平正义。&lt;/p&gt;&lt;p&gt;　　莫迪表示，我同习近平主席多次举行富有成效的会晤，引领印中关系朝着积极方向发展，这符合两国28亿多人民的共同利益。印中两大文明几千年来交流互鉴、携手并进。印方始终从战略高度和长远角度看待印中关系，愿同中国做伙伴而不是对手，将彼此发展视为机遇而非挑战。印方坚持独立自主的外交政策，发展对华关系不受第三方影响。印方在台湾、涉藏问题上的政策和立场没有改变，不允许任何势力在印度从事反华活动。印方愿在相互尊重、相互信任基础上，同中方保持高层交往，加强战略沟通，促进互利合作，密切人文交流，推动两国关系得到更大发展。双方要共同努力，维护边境地区的和平安宁。印方感谢中方支持印度举办金砖国家领导人会晤，将全力支持中国明年担任金砖主席国。印方愿同中方密切协调和配合，共同推动加强全球南方合作，促进世界多极化和经济增长，做动荡世界中的稳定进步力量。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅等参加会见。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180704&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180704.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180704.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平会见印度总理莫迪 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180704.html#[01版：要闻] 习近平会见印度总理莫迪</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平抵达新德里</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180705.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 离京赴新德里出席金砖国家领导人第十八次会晤 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平抵达新德里 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/13/ff267e4a-df91-4726-a34e-0ac452f08748.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间九月十二日中午，国家主席习近平乘专机抵达新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。习近平抵达新德里帕拉姆空军基地时，印度政府高级官员热情迎接。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  谢环驰摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/ff267e4a-df91-4726-a34e-0ac452f08748.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　本报新德里9月12日电  （记者李建广、李婕）当地时间9月12日中午，国家主席习近平乘专机抵达新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。&lt;/p&gt;&lt;p&gt;　　习近平抵达新德里帕拉姆空军基地时，印度政府高级官员热情迎接。礼兵分列红毯两侧致敬。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅等陪同人员同机抵达。&lt;/p&gt;&lt;p&gt;　　中国驻印度大使徐飞洪也到机场迎接。&lt;/p&gt;&lt;p&gt;　　习近平乘车从机场赴下榻饭店途中，当地华侨华人和中资企业代表挥舞中印两国国旗，热烈欢迎习近平到访。&lt;/p&gt;&lt;p&gt;　　本报北京9月12日电  9月12日上午，国家主席习近平乘专机赴新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。&lt;/p&gt;&lt;p&gt;　　陪同习近平出访的有：中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅等。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 离京赴新德里出席金砖国家领导人第十八次会晤 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180705&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180705.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180705.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平抵达新德里 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180705.html#[01版：要闻] 习近平抵达新德里</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 共担时代责任  勇做先锋力量</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180706.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 共担时代责任  勇做先锋力量 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——在金砖国家领导人第十八次会晤第一阶段会议的讲话&lt;br/&gt;（2026年9月12日，新德里） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							中华人民共和国主席  习近平&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;尊敬的莫迪总理，&lt;/p&gt;&lt;p&gt;各位同事：&lt;/p&gt;&lt;p&gt;　　很高兴同大家相聚在新德里，感谢莫迪总理和印度政府的周到安排。&lt;/p&gt;&lt;p&gt;　　今年是金砖国家合作20周年。20年来，金砖合作机制不断发展壮大，展现出蓬勃生机活力，成为当今世界最具影响力的新兴市场和发展中国家合作平台。&lt;/p&gt;&lt;p&gt;　　这是自立自强的20年。金砖国家作为全球南方第一方阵，坚持独立自主，积极探索符合自身国情的发展道路，成为新兴市场和发展中国家联合自强的典范。&lt;/p&gt;&lt;p&gt;　　这是风雨同舟的20年。金砖国家不畏艰难、砥砺前行，携手应对国际金融危机、新冠疫情、气候变化等挑战，坚定维护全球南方共同利益，为世界提供稳定性和正能量。&lt;/p&gt;&lt;p&gt;　　这是成果丰硕的20年。金砖国家实现历史性扩员，建立起全方位、多层次合作架构，不断深化贸易、投资、金融、科技等合作，迈入“大金砖合作”高质量发展新阶段。&lt;/p&gt;&lt;p&gt;　　当前，世界百年变局加速演进，全球南方卓然壮大，世界多极化不可阻挡。与此同时，单边主义、强权政治逆流涌动，多边主义和国际秩序受到冲击，和平赤字、发展赤字、安全赤字、治理赤字有增无减。我提出全球发展倡议、全球安全倡议、全球文明倡议、全球治理倡议，就是为了破解这些赤字，推动建设一个更加美好的世界。金砖国家要坚定站在历史正确一边，勇做时代先锋，引领国际秩序朝着更加公正合理的方向发展，携手推动构建人类命运共同体。&lt;/p&gt;&lt;p&gt;　　第一，金砖国家要做促进创新发展的先锋。以人工智能为代表的新一轮科技革命和产业变革加速突破，深刻影响世界发展格局。金砖国家要牢牢把握主动权，加强人工智能合作，鼓励开源开放、合作共享，推动务实合作向新而行、向高攀登。不久前，中方携手各方推动成立了世界人工智能合作组织，并面向金砖国家等建设国际人工智能应用合作中心，为全球尤其是全球南方国家加强人工智能合作搭建了重要平台，欢迎金砖各国积极参与。在此，我提出金砖国家人工智能赋能新型工业化倡议，愿同各方共同打造更多研发和应用成果，深化产业链供应链合作。事实必将证明，“脱钩断链”阻碍不了我们的发展进程，“小院高墙”只会禁锢自己、割裂世界。&lt;/p&gt;&lt;p&gt;　　第二，金砖国家要做维护和平稳定的先锋。当今世界很不太平，变和乱的一面更加突出。归根到底是战后国际秩序发生动摇，联合国宪章宗旨和原则没有得到有效遵守。金砖国家应该站稳立场、主持公道，为消弭战乱、维护和平而努力。要秉持共同、综合、合作、可持续的安全观，反对冷战思维和阵营对抗，反对侵犯别国主权、干涉别国内政，建设性参与热点问题解决，为寻求标本兼治之道作出金砖独特贡献。&lt;/p&gt;&lt;p&gt;　　中东海湾局势仍在复杂演变。这场战事给地区各国人民造成严重损失，也不符合国际社会共同利益。我提出维护和促进中东和平稳定的4点主张，旨在呼吁缓局降温、止战促和。有关各方要坚持政治解决方向，推动实现永久全面停火。要重视解决根源性问题，重建地区国家互信，构建安全新架构。巴勒斯坦问题始终是中东问题的核心，其根本出路是落实“两国方案”、实现巴以和平共处。中方愿同金砖成员一道，为实现中东海湾地区和平安宁发挥应有作用。&lt;/p&gt;&lt;p&gt;　　第三，金砖国家要做推动文明互鉴的先锋。和羹之美，在于合异。金砖国家传承古老文明、孕育多元文化，应当成为不同文明包容共存的百花园。要弘扬全人类共同价值，倡导文明交流互鉴、和合共生。要办好金砖国家人文交流论坛，分享治国理政经验，为国与国关系稳定发展汇聚正能量。深化文化、旅游、教育等合作，加强青年交流，促进民众常来常往、相知相亲。&lt;/p&gt;&lt;p&gt;　　第四，金砖国家要做改革完善全球治理的先锋。构建什么样的全球治理体系，决定着人类社会前途命运。金砖国家要顺应国际关系民主化大势，推动构建更加公正合理的全球治理体系，维护联合国权威，反对退群毁约和另起炉灶。支持以世界贸易组织为核心的多边贸易体制，推动世界贸易组织改革，反对滥施关税，抵制一切形式的保护主义措施。引领网络、外空、深海等新疆域全球治理，提升全球南方国家话语权。&lt;/p&gt;&lt;p&gt;　　各位同事！&lt;/p&gt;&lt;p&gt;　　二十年风雨兼程，团结合作始终是金砖事业发展的力量之源。我们要坚持坦诚相待、求同存异，尊重彼此核心关切，以沟通对话增进相互理解、妥处矛盾分歧，确保金砖合作行稳致远。&lt;/p&gt;&lt;p&gt;　　中国将于明年接任金砖主席国，主办金砖国家领导人第十九次会晤。中方愿以此为契机，同各方凝聚共识、开创未来，开启金砖合作第三个“金色十年”，共创繁荣进步的光明前景。&lt;/p&gt;&lt;p&gt;　　谢谢大家！&lt;/p&gt;&lt;p&gt;　　（新华社新德里9月12日电）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;中华人民共和国主席  习近平&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——在金砖国家领导人第十八次会晤第一阶段会议的讲话&lt;br&gt;（2026年9月12日，新德里） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180706&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180706.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180706.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 共担时代责任  勇做先锋力量 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180706.html#[02版：要闻] 共担时代责任  勇做先锋力量</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 金砖国家领导人第十八次会晤新德里宣言（摘要）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180707.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 金砖国家领导人第十八次会晤新德里宣言（摘要） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　金砖国家领导人重申秉持互尊互谅、主权平等、团结民主、开放包容、深化合作、协商一致的金砖精神。在过去20年金砖合作基础上，进一步强化扩员后的金砖政治安全、经贸财金、人文交流“三轮驱动”合作。通过促进和平，构建更具代表性、更加公平的国际秩序，重振和改革多边体系，推动实现可持续发展和包容性增长，深化金砖战略伙伴关系，造福各国人民。&lt;/p&gt;&lt;p&gt;　　赞赏金砖伙伴国为金砖国家合作作出的宝贵贡献。坚信金砖国家通过增强与新兴市场和发展中国家的伙伴关系，将进一步加强团结，促进真正普惠的国际合作。重申致力于同伙伴国构建包容、互利、以发展为导向的伙伴关系。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;包容的全球治理和加强多边主义&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　金砖国家合作20周年之际，金砖国家领导人重申致力于改革和完善全球治理，本着共商共建共享原则，推动构建一个更加公正、公平、敏捷、有效、高效、反应迅速、更具代表性、合法性、民主、负责任的国际和多边体系。为使现有国际关系架构更好适应当代现实的需要，金砖国家领导人重申对多边主义和推进多极化的庄严承诺，以平衡和包容方式维护国际法，全面完整遵守作为其不可或缺基石的联合国宪章宗旨和原则，维护联合国在国际体系中的核心作用。尊重各国国情、国家制度多样性和发展道路多样性，在互利合作基础上，构建人类命运共同体。&lt;/p&gt;&lt;p&gt;　　重申致力于确保新兴市场和发展中国家，特别是非洲、拉丁美洲和加勒比地区及最不发达国家，能够更广泛、更具实质意义地参与全球决策过程和机制。谴责通过蓄意拒缴摊款等方式单方面破坏全球多边机构工作、妨碍其履行各自授权的企图。&lt;/p&gt;&lt;p&gt;　　金砖国家一致认为，在当今世界多极化的现实背景下，发展中国家加强对话与协商至关重要，以构建更加公平公正的全球治理，促进国家间实现互利互惠。认识到多极化进程能让新兴市场和发展中国家享受普惠、包容、可持续、公平的经济全球化与合作。强调全球南方是推动积极变革的重要力量。金砖国家将继续发挥关键作用，就全球南方的关切与优先事项发声，并在遵循国际法的基础上，推动构建更加公正、可持续、包容、更具代表性、稳定的国际秩序。&lt;/p&gt;&lt;p&gt;　　认识到《金砖国家领导人第十五次会晤约翰内斯堡宣言》，重申支持对联合国包括其安理会进行全面改革，使之更加民主，更具代表性、效力和效率，增加发展中国家在安理会成员中的代表性，以应对普遍的全球性挑战。支持包括金砖国家在内的非洲、亚洲、拉美的新兴和发展中国家在国际事务中尤其是在联合国包括其安理会发挥更大作用的正当愿望。认可“埃祖尔韦尼共识”和《锡尔特宣言》反映的非洲国家正当愿望。强调联合国安理会改革应扩大全球南方的发言权。忆及在《金砖国家领导人第十四次会晤北京宣言》和《金砖国家领导人第十五次会晤约翰内斯堡宣言》中，中国和俄罗斯作为联合国安理会常任理事国，重申支持巴西和印度在联合国及其安理会发挥更大作用的愿望。&lt;/p&gt;&lt;p&gt;　　重申将持续不懈努力，依照各国国内政策法规，以平衡全面的方式推动落实2030年可持续发展议程及其影响深远、以人民为中心的各项目标。认识到消除一切形式的贫困，是最大的全球挑战，也是实现可持续发展不可或缺的要求。认识到要秉持创新、协调、绿色、开放、共享的发展理念，推动落实2030年可持续发展议程相关工作。&lt;/p&gt;&lt;p&gt;　　忆及1955年在印度尼西亚万隆举行的亚非会议。该会议宣布了包括平等、独立、不干涉内政和互利在内的普遍原则。强调万隆精神在追求更加公平、更具包容性和更具代表性的多边体系方面具有参照意义。&lt;/p&gt;&lt;p&gt;　　国际经济治理体系改革始终是金砖国家关注的优先领域。重申迫切需要对布雷顿森林机构进行改革，使之更加敏捷、有效、可信、包容、符合目标、公正、负责、具有代表性，提升其合法性。新兴市场和发展中经济体在布雷顿森林体系中的话语权与代表性，必须与其在全球经济中的相对地位相匹配。&lt;/p&gt;&lt;p&gt;　　重申需要一个以份额为基础、资源充足的国际货币基金组织为核心的强劲的全球金融安全网，以有效支持其成员，特别是最脆弱成员。敦促第16次份额总检查中商定的份额增资尽快生效，并呼吁尽早在第17次份额总检查中制定有意义的份额调整方案，反映各国在全球经济中的相对地位，提高新兴市场和发展中经济体的份额和投票权。&lt;/p&gt;&lt;p&gt;　　重申坚定不移地支持世界贸易组织（WTO）改革，支持加强以WTO为核心的非歧视、开放、公平、透明、公正、包容、可预期和基于规则的多边贸易体制，同时维护最惠国待遇和发展中成员特别是最不发达国家的特殊和差别待遇等基本原则。金砖国家将建设性参与WTO改革，以增强WTO的权威性、有效性、包容性和相关性，构建开放型世界经济。必须为诸边倡议对接WTO法律框架明确适当路径。强烈主张立即恢复可及、有效、全面运作的两级审理的WTO争端解决机制，并不再拖延任命新的上诉机构成员。赞赏中国对53个非洲建交国全面实施零关税举措。&lt;/p&gt;&lt;p&gt;　　各类贸易限制措施激增，无论是滥施关税和非关税措施，还是以环保为幌子的贸易保护主义，都可能导致全球贸易进一步萎缩，破坏全球供应链，加剧国际经济贸易不确定性，对世界经济发展前景产生负面影响。对单边关税和非关税措施的上升表示严重关切，这些措施扭曲贸易并违反WTO规则。&lt;/p&gt;&lt;p&gt;　　谴责实施违背国际法的单边强制措施。重申这些措施尤其是单边经济制裁和次级制裁，对受害国普通民众的发展权、健康权、粮食安全等人权产生深远负面影响，对贫困和弱势群体的影响尤甚，并加深数字鸿沟、加剧环境挑战。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;国际和地区和平安全&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　对中东西亚地区紧张局势持续升级深表关切，呼吁各方保持最大限度的克制，避免采取任何可能进一步恶化局势的行动。敦促各方全面完整遵守联合国宪章宗旨和原则，保护平民和民用基础设施，尊重该地区国家主权和领土完整。鼓励各方加强对话和外交努力，达成有利于该地区持久和平、安全和稳定的长期共识。我们强调，应根据相关国际法确保全球贸易、供应链和能源畅通。&lt;/p&gt;&lt;p&gt;　　呼吁国际社会通过政治外交手段应对挑战及相关安全威胁，降低冲突风险，强调需致力于冲突预防，包括解决冲突的根源问题。强调秉持安全不可分割原则，坚持通过对话协商和外交途径以和平方式解决国家间的分歧和争端。鼓励地区组织在预防和解决冲突中发挥积极作用，支持一切有利于和平解决危机的努力。着重指出应依照联合国宪章宗旨和原则，将预防性外交与调解作为避免危机、防止局势升级的重要手段。&lt;/p&gt;&lt;p&gt;　　对当前全球军费开支激增、严重挤占发展中国家的发展资金的趋势表示担忧。对企图将安全问题同气候变化议程挂钩表示严重关切。&lt;/p&gt;&lt;p&gt;　　对日益增长的核危险和核冲突风险表示关切。重申需振兴裁军、军控和防扩散体系，维护其完整性和有效性，争取全球稳定和世界和平安全。&lt;/p&gt;&lt;p&gt;　　对古巴遭受单边封锁持续升级深表关切。这些举措对古巴经济和能源供应造成不利影响，对古巴人民造成人道主义伤害。重申必须根据联合国大会第80/4号决议，终止对古巴的经济、商业和金融措施。&lt;/p&gt;&lt;p&gt;　　赞赏金砖国家遥感卫星星座在利用空间技术应对全球挑战和促进社会经济发展方面取得的成就。认识到和平探索和利用外空国际合作的重要性。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;全球可持续和包容性的经济增长&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　注意到当前全球挑战复杂交织，阻碍各国经济增长和可持续发展，同时加剧了各国和各地区之间长期存在的发展差距。重申可持续发展和包容性增长在联合国议程中的特殊重要意义。&lt;/p&gt;&lt;p&gt;　　欢迎深化全球卫生合作，并重申致力于通过有韧性、包容和以人民为中心的方式推进全民健康覆盖。重申致力于加强以人民为中心的数字医疗体系合作。&lt;/p&gt;&lt;p&gt;　　认识到能源安全是社会和经济发展、国家安全及各国福祉的重要基础。有必要按照共同但有区别的责任及各自能力原则，结合各国国情，推动公正、有序、公平和包容的能源转型。&lt;/p&gt;&lt;p&gt;　　重申支持新工业革命伙伴关系框架下各工作组正在开展的工作。赞赏金砖国家新工业革命伙伴关系创新中心在2026年举办的金砖国家新工业革命伙伴关系论坛等活动。&lt;/p&gt;&lt;p&gt;　　肯定金砖国家工业渠道7个专门工作组的工作，肯定智能制造和机器人工作组在智能工厂发展、解决方案共享、标准合作和人才培养等方面所做努力。&lt;/p&gt;&lt;p&gt;　　认可金砖国家中小企业论坛对加强中小微企业间合作、促进包容性增长所作贡献，支持举办第二届中小企业论坛。&lt;/p&gt;&lt;p&gt;　　赞赏与联合国工业发展组织合作设立的金砖国家工业能力中心投入运作，该平台推动就人工智能等新兴技术赋能新型工业化开展有针对性的交流。注意到金砖国家工业能力中国中心发布金砖国家产业合作案例集倡议。&lt;/p&gt;&lt;p&gt;　　强调科技创新合作作为推动经济社会可持续发展关键动力的重要性，重申致力于推动可持续发展，发展新质生产力，促进更具韧性和高质量的增长，提升社会包容性，并推动创新和技术助力改善金砖国家人民福祉和生活质量。&lt;/p&gt;&lt;p&gt;　　认识到金砖国家海缆基础设施是国际数字互联互通的重要基础。支持金砖国家在自愿基础上，根据各国国情和优先事项，继续开展对话与合作。&lt;/p&gt;&lt;p&gt;　　认识到未来网络研发对促进金砖国家数字化转型和互联互通具有重要意义，鼓励所有金砖成员国提名金砖未来网络研究院国别分支机构。注意到中国建立金砖国家数字生态合作网络的建议，包括提议设立相关信息门户。&lt;/p&gt;&lt;p&gt;　　认识到人工智能为促进经济增长和实现可持续发展提供了巨大机遇。指出利用人工智能促进经济增长和社会福祉，对于推动各国特别是全球南方国家实现公正、公平、平等和繁荣的未来至关重要。肯定上海世界人工智能大会暨人工智能全球治理高级别会议，认可其在加强人工智能国际合作、智能向善方面的贡献。&lt;/p&gt;&lt;p&gt;　　重申开展合作以确保全球价值链具有韧性、高效、可预期、高产、透明、安全、公平、稳定和包容的重要性。探索相互通过加强政策协调，提高金砖国家间贸易潜力。&lt;/p&gt;&lt;p&gt;　　愿意共同挖掘金砖国家特殊经济区合作潜力，通过提供良好的营商环境、高效的基础设施、简化的监管手续以及其他便利化措施为企业经营提供便利。&lt;/p&gt;&lt;p&gt;　　鼓励金砖国家支付工作组继续讨论，推动形成金砖国家之间跨境支付的务实解决方案，实现支付快速、低成本、更可及、高效、透明和安全的目标。&lt;/p&gt;&lt;p&gt;　　期待及时完成第九次应急储备安排演练、就接纳新成员开展讨论。重视已表达意愿的金砖新成员加入应急储备安排。&lt;/p&gt;&lt;p&gt;　　认识到金砖国家财金智库网络在政策研究和智力资源共享方面的作用，欢迎其利用金融科技促进包容性发展，并为韧性基础设施建设提供融资。&lt;/p&gt;&lt;p&gt;　　重申坚持多边主义，呼吁《联合国气候变化框架公约》和《巴黎协定》所有缔约方继续履行现有承诺，维持和加大应对气候变化的努力。进一步重申为实现《联合国气候变化框架公约》目标，通过加强全面和有效落实《巴黎协定》以应对气候变化，体现公平和共同但有区别的责任以及各自能力原则。&lt;/p&gt;&lt;p&gt;　　反对不符合国际法的单边、惩罚性、歧视性和保护主义措施，包括碳边境调节机制，并且对这些措施可能削弱各国、特别是发展中国家为应对气候变化带来的负面影响、提高适应能力和韧性的努力表示关切。&lt;/p&gt;&lt;p&gt;　　赞赏中国设立昆明生物多样性基金及所作贡献，认可该基金在支持发展中国家保护其生物多样性方面发挥的重要作用。注意到《昆明—蒙特利尔全球生物多样性框架》实施倡议。敦促发达国家确保向发展中国家提供充足、有效、可预测、及时且容易获得的资金。&lt;/p&gt;&lt;p&gt;　　认识到当前面临的严峻环境挑战，致力于对山水林田湖草沙一体化保护与系统化治理，以此实现全域生态系统的整体修复。&lt;/p&gt;&lt;p&gt;　　在新开发银行开启高质量发展的第二个“金色十年”之际，认识到并支持其在满足新兴市场与发展中经济体发展优先事项和基础设施需求方面日益重要的角色。重申支持新开发银行进一步扩员。&lt;/p&gt;&lt;p&gt;　　认可金砖国家标准化机构之间的合作，欢迎中国举办以“标准共建、贸易共融”为主题的金砖国家经贸活动论坛。&lt;/p&gt;&lt;p&gt;　　强调知识产权在促进高质量发展中的关键作用，鼓励金砖国家知识产权机构之间开展实质性合作。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;促进文化合作和人文交流&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　呼吁进一步尊重文化多样性，高度重视传承、创新和创造，共同倡导活跃的国际人文交流与合作，同时回顾联合国大会通过的第78/286号关于设立“文明对话国际日”的决议。&lt;/p&gt;&lt;p&gt;　　欢迎金砖国家妇女部长会议成果，倡导妇女全面发展。&lt;/p&gt;&lt;p&gt;　　高度认可金砖国家职业教育联盟在搭建多边平台、促进信息交流、推动职业教育发展方面发挥的重要作用。&lt;/p&gt;&lt;p&gt;　　全力支持中国担任2027年金砖主席国并在中国主办金砖国家领导人第十九次会晤。&lt;/p&gt;&lt;p&gt;　　（新华社新德里9月12日电）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180707&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180707.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180707.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 金砖国家领导人第十八次会晤新德里宣言（摘要） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180707.html#[02版：要闻] 金砖国家领导人第十八次会晤新德里宣言（摘要）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180708.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。习近平发表题为《共担时代责任  勇做先锋力量》的重要讲话。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  燕  雁摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/53718392-9aef-4b88-8173-51e2bbe8f4cb.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。会议期间，金砖国家领导人集体合影。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  王  晔摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/ceb0f065-b0dc-4eff-8528-9337bf54b8db.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　■ 今年是金砖国家合作20周年。20年来，金砖合作机制不断发展壮大，展现出蓬勃生机活力，成为当今世界最具影响力的新兴市场和发展中国家合作平台。这是自立自强的20年，金砖国家积极探索符合自身国情的发展道路，成为新兴市场和发展中国家联合自强的典范。这是风雨同舟的20年，金砖国家携手应对国际金融危机、新冠疫情、气候变化等挑战，坚定维护全球南方共同利益，为世界提供稳定性和正能量。这是成果丰硕的20年，金砖国家实现历史性扩员，建立起全方位、多层次合作架构，迈入“大金砖合作”高质量发展新阶段&lt;/p&gt;&lt;p&gt;　　■ 当前，世界百年变局加速演进，全球南方卓然壮大，世界多极化不可阻挡。与此同时，单边主义、强权政治逆流涌动，多边主义和国际秩序受到冲击，和平赤字、发展赤字、安全赤字、治理赤字有增无减。金砖国家要坚定站在历史正确一边，勇做时代先锋，引领国际秩序朝着更加公正合理的方向发展，携手推动构建人类命运共同体。一要做促进创新发展的先锋。二要做维护和平稳定的先锋。三要做推动文明互鉴的先锋。四要做改革完善全球治理的先锋&lt;/p&gt;&lt;p&gt;　　■ 二十年风雨兼程，团结合作始终是金砖事业发展的力量之源。要坚持坦诚相待、求同存异，尊重彼此核心关切，以沟通对话增进相互理解、妥处矛盾分歧，确保金砖合作行稳致远。中国将于明年接任金砖主席国，主办金砖国家领导人第十九次会晤。中方愿同各方凝聚共识、开创未来，开启金砖合作第三个“金色十年”，共创繁荣进步的光明前景&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　本报新德里9月12日电  （记者陈振凯、巩晗）当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。&lt;/p&gt;&lt;p&gt;　　俄罗斯总统普京、南非总统拉马福萨、伊朗总统佩泽希齐扬、埃及总统塞西、印度尼西亚总统普拉博沃、埃塞俄比亚总理阿比、阿联酋阿布扎比王储哈立德和巴西外长等出席，印度总理莫迪主持会议。&lt;/p&gt;&lt;p&gt;　　习近平发表题为《共担时代责任  勇做先锋力量》的重要讲话。&lt;/p&gt;&lt;p&gt;　　习近平指出，今年是金砖国家合作20周年。20年来，金砖合作机制不断发展壮大，展现出蓬勃生机活力，成为当今世界最具影响力的新兴市场和发展中国家合作平台。这是自立自强的20年，金砖国家积极探索符合自身国情的发展道路，成为新兴市场和发展中国家联合自强的典范。这是风雨同舟的20年，金砖国家携手应对国际金融危机、新冠疫情、气候变化等挑战，坚定维护全球南方共同利益，为世界提供稳定性和正能量。这是成果丰硕的20年，金砖国家实现历史性扩员，建立起全方位、多层次合作架构，迈入“大金砖合作”高质量发展新阶段。&lt;/p&gt;&lt;p&gt;　　习近平强调，当前，世界百年变局加速演进，全球南方卓然壮大，世界多极化不可阻挡。与此同时，单边主义、强权政治逆流涌动，多边主义和国际秩序受到冲击，和平赤字、发展赤字、安全赤字、治理赤字有增无减。金砖国家要坚定站在历史正确一边，勇做时代先锋，引领国际秩序朝着更加公正合理的方向发展，携手推动构建人类命运共同体。&lt;/p&gt;&lt;p&gt;　　一要做促进创新发展的先锋。牢牢把握主动权，加强人工智能合作，鼓励开源开放、合作共享，推动务实合作向新而行、向高攀登。欢迎金砖各国积极参与世界人工智能合作组织。中方提出金砖国家人工智能赋能新型工业化倡议，愿同各方共同打造更多研发和应用成果，深化产业链供应链合作。&lt;/p&gt;&lt;p&gt;　　二要做维护和平稳定的先锋。秉持共同、综合、合作、可持续的安全观，反对冷战思维和阵营对抗，反对侵犯别国主权、干涉别国内政，建设性参与热点问题解决，为寻求标本兼治之道作出金砖独特贡献。中方愿同金砖成员一道，为实现中东海湾地区和平安宁发挥应有作用。&lt;/p&gt;&lt;p&gt;　　三要做推动文明互鉴的先锋。弘扬全人类共同价值，倡导文明交流互鉴、和合共生。办好金砖国家人文交流论坛，分享治国理政经验，为国与国关系稳定发展汇聚正能量。深化文化、旅游、教育等合作，加强青年交流，促进民众常来常往、相知相亲。&lt;/p&gt;&lt;p&gt;　　四要做改革完善全球治理的先锋。顺应国际关系民主化大势，推动构建更加公正合理的全球治理体系，维护联合国权威。支持以世界贸易组织为核心的多边贸易体制，抵制一切形式的保护主义措施。引领网络、外空、深海等新疆域全球治理，提升全球南方国家话语权。&lt;/p&gt;&lt;p&gt;　　习近平强调，二十年风雨兼程，团结合作始终是金砖事业发展的力量之源。要坚持坦诚相待、求同存异，尊重彼此核心关切，以沟通对话增进相互理解、妥处矛盾分歧，确保金砖合作行稳致远。中国将于明年接任金砖主席国，主办金砖国家领导人第十九次会晤。中方愿同各方凝聚共识、开创未来，开启金砖合作第三个“金色十年”，共创繁荣进步的光明前景。（全文见第二版）&lt;/p&gt;&lt;p&gt;　　与会各国领导人就金砖合作和国际地区问题深入交换意见。&lt;/p&gt;&lt;p&gt;　　各方高度评价金砖成立20年来取得的发展成就，表示金砖机制具有广泛代表性，拥有巨大发展潜力。面对地缘冲突加剧、单边主义抬头，金砖国家有责任为全球南方发声，捍卫多边主义，支持联合国核心作用，维护各国主权平等，遵守国际法，反对干涉别国内政，支持自由贸易，共同应对全球性挑战。各方应该秉持金砖精神，深化各领域合作，增强经济韧性，推动形成更加公平包容的国际秩序，建设一个安全繁荣的多极世界。各方赞赏中国为金砖机制发展壮大作出的重要贡献，支持中国作为明年主席国办好金砖国家领导人第十九次会晤，共同推动金砖合作迈上新台阶。&lt;/p&gt;&lt;p&gt;　　会议通过《金砖国家领导人第十八次会晤新德里宣言》。&lt;/p&gt;&lt;p&gt;　　会议期间，金砖国家领导人参观了金砖成立20周年图片展，共同植树并集体合影。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅等参加上述活动。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180708&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180708.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180708.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180708.html#[02版：要闻] 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 习近平会见印度总理莫迪</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180709.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平会见印度总理莫迪 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间九月十二日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  王  晔摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/f041f0fb-76bc-47f7-ab0a-e3b171b6dd19.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报新德里9月12日电  （记者任彦、韩晓萌）当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。&lt;/p&gt;&lt;p&gt;　　习近平指出，中方始终从战略高度和长远角度看待和发展中印关系。近两年，我同莫迪总理两次会晤，引领中印关系从“再出发”实现“再提升”。两国机制性交往逐步恢复，合作清单不断拉长，双边贸易额再创新高。这一局面来之不易，值得珍惜。中印两国国情不同，完全可以取长补短、相互支持、彼此成就、共同发展。面对变乱交织的国际形势，中国和印度作为世界上人口最多的两个国家和全球南方重要成员，肩负重要责任。双方要以人类前途为怀、以人民福祉为念，携手推动“大金砖合作”高质量发展，为促进世界和平稳定和发展繁荣提供更多正能量。&lt;/p&gt;&lt;p&gt;　　习近平就推动中印关系行稳致远谈了4点看法。第一，以客观理性的战略认知校准方向。中印两国是合作伙伴而不是对手，互为发展机遇而不是威胁。这是基于两国所处发展阶段和国际环境作出的战略判断，符合两国和两国人民共同利益。第二，以合作共赢理念相互成就。双方应聚焦发展这个最大公约数，加强友好交往和互利合作。拓展人文、直航等合作，有效改善两国关系民意基础。平衡解决彼此经贸关切，推动两国经贸关系健康稳定发展。第三，以互尊互谅的政治智慧排除干扰。致力于双边关系和边界问题双轨并进、相互促进，维护边境地区和平安宁。第四，以开放包容的多边协作兼济天下。相互支持彼此担任金砖主席国，加强在联合国、上海合作组织、二十国集团等多边框架内协作，同舟共济应对全球性挑战，旗帜鲜明捍卫国际公平正义。&lt;/p&gt;&lt;p&gt;　　莫迪表示，我同习近平主席多次举行富有成效的会晤，引领印中关系朝着积极方向发展，这符合两国28亿多人民的共同利益。印中两大文明几千年来交流互鉴、携手并进。印方始终从战略高度和长远角度看待印中关系，愿同中国做伙伴而不是对手，将彼此发展视为机遇而非挑战。印方坚持独立自主的外交政策，发展对华关系不受第三方影响。印方在台湾、涉藏问题上的政策和立场没有改变，不允许任何势力在印度从事反华活动。印方愿在相互尊重、相互信任基础上，同中方保持高层交往，加强战略沟通，促进互利合作，密切人文交流，推动两国关系得到更大发展。双方要共同努力，维护边境地区的和平安宁。印方感谢中方支持印度举办金砖国家领导人会晤，将全力支持中国明年担任金砖主席国。印方愿同中方密切协调和配合，共同推动加强全球南方合作，促进世界多极化和经济增长，做动荡世界中的稳定进步力量。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅等参加会见。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180709&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180709.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180709.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平会见印度总理莫迪 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180709.html#[02版：要闻] 习近平会见印度总理莫迪</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 文商旅体展深度融合（探馆服贸会）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180710.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 首钢园推出74项配套活动—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 文商旅体展深度融合（探馆服贸会） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  潘俊强&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　9月9日—13日，2026年中国国际服务贸易交易会在位于北京市石景山区的首钢园举办。服贸会开幕以来，入园客流达71.40万人次。&lt;/p&gt;&lt;p&gt;　　百年工业遗存邂逅现代服务贸易盛会，热烈氛围充溢全园。除了参会逛展，不少人还收到了“首钢园探索档案”，服贸会期间游玩首钢园有了引导指南。&lt;/p&gt;&lt;p&gt;　　服贸会旁有惊喜。今年服贸会期间，首钢园促进文商旅体展深度融合，推出74项配套活动，涵盖消费市集、文艺演出、体育赛事、互动体验、科创展演等多种类型。今年是服贸会与首钢园携手同行的第六年。近年来，首钢园着力打造能办展、能游玩、能购物、能住宿的复合型城市空间，好看、好玩、好逛逐渐成为市民游客的共识。&lt;/p&gt;&lt;p&gt;　　在首钢园，多元消费业态借服贸会持续升温。&lt;/p&gt;&lt;p&gt;　　来到位于石景山下、永定河畔、首钢园西的永定河集，不少人从服贸会展区来此打卡休闲，感受沉浸式山水漫游体验，解锁丰富多彩的河畔游玩方式。“在永定河集，河岸不再只是单纯的观景绿地，更是集消费、社交等于一体的复合生活场域。”永定河集负责人张莉说。&lt;/p&gt;&lt;p&gt;　　走进智小厨机器人餐厅，扫码点餐后，烹饪菜品、制作咖啡、做冰激凌、摊煎饼等均由机器人来完成。等位时，下棋机器人、陪伴机器人等可以陪食客度过等待的时光。“我们机器人餐厅提供人工智能赋能的就餐体验，推动前沿科技走出展厅、走进生活、走向大众。”店长崔理笑说，服贸会期间，参会客商来此体验，不仅可以享受机器人制作的美食，也促成购买机器人的订单。&lt;/p&gt;&lt;p&gt;　　夜幕降临，在永定河集旁，首钢园冷却塔灯光秀上演，冷却塔变身巨型裸眼3D屏幕，首钢炉火、永定河碧波、城市蝶变等画面依次铺展，带来沉浸式裸眼3D视觉体验，让工业遗产焕发新活力。&lt;/p&gt;&lt;p&gt;　　在首钢园，服贸会不只是一场专业客商的交流，还是人们可感可触的城市嘉年华。&lt;/p&gt;&lt;p&gt;　　来到首钢滑雪大跳台南侧，深受年轻人喜爱的创造者乐园热闹非凡。在这里，2026动漫美食节让传统味道、动漫IP（知识产权）、文化品牌与城市空间融合在一起；2026中国非遗文创设计展通过大师展览、非遗工坊、技艺展示等形式，让公众近距离感受传统技艺背后的文化温度……从白天的服贸会展览展示，到创造者乐园中的非遗、餐饮，再到夜幕降临后的虚拟现实体验、数字人演出，创造者乐园正在进一步延长服贸会的消费链条。“首钢园如今正承载新的文化内容、消费场景和城市生活方式。”创造者乐园负责人何雨轩说，未来乐园也将常态化运营，吸引更多人来此感受首钢园的魅力。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  潘俊强&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 首钢园推出74项配套活动—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180710&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180710.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180710.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 文商旅体展深度融合（探馆服贸会） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180710.html#[02版：要闻] 文商旅体展深度融合（探馆服贸会）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 开启金砖合作第三个“金色十年”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180711.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 开启金砖合作第三个“金色十年” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——国际社会热切期待中国明年接任金砖主席国 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“中国将于明年接任金砖主席国，主办金砖国家领导人第十九次会晤。”当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议时宣布，中方愿以此为契机，同各方凝聚共识、开创未来，开启金砖合作第三个“金色十年”，共创繁荣进步的光明前景。接受本报记者采访的外国专家学者等表示，习近平主席提出一系列重大理念和举措，为金砖合作机制发展壮大指明方向；期待以中国接任金砖主席国为契机，推动“大金砖合作”高质量发展。&lt;/p&gt;&lt;p&gt;　　俄罗斯亚太地区研究中心主任谢尔盖·萨纳科耶夫表示，过去10多年来，习近平主席顺应时代发展大势，为深化金砖务实合作提出一系列极具建设性的中国智慧和中国方案，为发展壮大金砖合作机制发挥重要引领作用。相信明年中国将同全球南方国家一道，把开放包容、合作共赢的金砖精神持续转化为更多“大金砖合作”成果，为全球南方共同发展汇聚更强大力量。&lt;/p&gt;&lt;p&gt;　　“从金砖精神到‘金砖+’合作模式，再到‘大金砖合作’，金砖合作机制已成为当今世界最具影响力的新兴市场和发展中国家合作平台。”马来西亚雪兰莪州议员、区域策略研究所执行董事蔡伟杰表示，“期待明年担任金砖主席国期间，中国推动金砖国家实现更务实、更高质量的合作，助力全球南方在国际金融体系、贸易规则及全球治理中拥有更公平的代表性和更大话语权，引领国际秩序朝着更加公正合理的方向发展。”&lt;/p&gt;&lt;p&gt;　　埃及苏伊士运河大学贸易学院院长穆罕默德·巴阿表示：“中国已经三次担任金砖主席国，推动达成了丰富的务实合作成果。期待站在金砖合作第三个‘金色十年’的新起点，金砖国家加强团结合作，让合作成果更多惠及各国人民。”&lt;/p&gt;&lt;p&gt;　　泰国正大管理学院中国—东盟研究中心主任汤之敏认为，中国有能力在推进数字基础设施建设、人工智能应用、能源转型等领域发挥关键作用，引领金砖国家为国际社会提供更多公共产品。“相信中国担任金砖主席国期间，将进一步推动‘大金砖合作’高质量发展，携手各方确保金砖合作行稳致远。”&lt;/p&gt;&lt;p&gt;　　巴西圣保罗州立大学政治经济学教授马科斯·皮雷斯表示，习近平主席提出四大全球倡议，为包括金砖国家在内的各国共同推动建设一个更加美好的世界提供了重要指引。“中国在人工智能、清洁能源等领域具有显著优势，期待以中国接任金砖主席国为契机，金砖国家进一步拓展创新合作，携手应对全球性挑战。”&lt;/p&gt;&lt;p&gt;　　“今年是金砖国家合作20周年。20年来，金砖合作机制不断发展壮大，展现出蓬勃生机活力。”印度ITV新闻网创始人艾西瓦娅·潘迪特·沙尔玛说，“我确信，明年在中国主办的金砖国家领导人第十九次会晤上，各方将进一步凝聚合作共识。”&lt;/p&gt;&lt;p&gt;　　埃塞俄比亚政策研究所高级顾问巴鲁·德米西表示，习近平主席在2017年厦门会晤上创造性提出“金砖+”合作模式，将金砖合作伙伴扩大至全球范围。期待各方以中国明年接任金砖主席国为契机，进一步深化贸易投资、数字转型、发展融资及人文交流等领域务实合作，维护全球南方共同利益。&lt;/p&gt;&lt;p&gt;　　“中国此前三次担任金砖主席国，都为金砖合作带来创新议题与务实举措。”南非驻印度高级专员、南非前金砖国家事务协调人阿尼尔·苏克拉尔表示，期待中国明年接任金砖主席国后，进一步深化金砖国家在科技等领域合作，为全球南方特别是非洲国家加快发展创造更多机遇。&lt;/p&gt;&lt;p&gt;　　金砖电视台非洲频道负责人阿扬达·霍洛说，金砖国家拥有多元文明底蕴。期待在中国明年担任金砖主席国期间，各方加强对话合作和交流互鉴，不断厚植金砖合作民意根基，为应对全球性挑战提供更多金砖智慧，推动构建更加公正合理的全球治理体系。&lt;/p&gt;&lt;p&gt;　　埃及中国问题专家德拉比克说：“期待中国明年担任金砖主席国期间，各方进一步凝聚共识，推动在经济发展、科技创新、人工智能、绿色发展等领域取得更多务实成果，让金砖合作更好服务全球南方发展振兴。”&lt;/p&gt;&lt;p&gt;　　阿联酋安瓦尔·加尔加什外交学院讲师穆罕默德·扎鲁尼表示，中国此前三次担任金砖主席国，为凝聚各方共识、完善合作机制、深化务实合作作出了重要贡献。“期待金砖国家进一步加强团结协作，将资源、产业、市场和创新等各领域互补优势转化为更多务实成果，推动‘大金砖合作’提质升级。”&lt;/p&gt;&lt;p&gt;　　金砖国家工商理事会技能发展工作组俄方负责人阿丽娜·辛格表示，金砖国家实现历史性扩员，建立起了全方位、多层次合作架构，不断深化贸易、投资、金融、科技等领域合作。相信明年中国接任金砖主席国后，将携手各方深挖新兴领域合作潜力，为金砖国家现代化带来新机遇。&lt;/p&gt;&lt;p&gt;　　阿联酋趋势研究中心主任穆罕默德·阿里期待中国2027年担任金砖主席国期间，推动“大金砖合作”进一步走深走实，将美好愿景转化为切实行动，携手开辟和平与繁荣的未来。&lt;/p&gt;&lt;p&gt;　　（本报记者车斌、任彦、强薇、陈振凯、孟祥麟、苑基荣、张朋辉、钱一彬、林子涵、黄培昭、张志文、时元皓、肖新新、杨一、王旭琛、郑翔、李墨、沈小晓） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——国际社会热切期待中国明年接任金砖主席国 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180711&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180711.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180711.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 开启金砖合作第三个“金色十年” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180711.html#[03版：要闻] 开启金砖合作第三个“金色十年”</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 勇做时代先锋  展现金砖担当（寰宇平）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180712.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 勇做时代先锋  展现金砖担当（寰宇平） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　中国在金砖合作机制的每一个关键节点都发挥了关键作用，留下了厚重的中国印记&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　当地时间9月12日下午，习近平主席在印度新德里出席金砖国家领导人第十八次会晤第一阶段会议。习近平主席总结金砖合作机制20年发展成就，深刻阐释金砖国家要坚定站在历史正确一边，勇做时代先锋，引领国际秩序朝着更加公正合理的方向发展，携手推动构建人类命运共同体。&lt;/p&gt;&lt;p&gt;　　今年是金砖国家合作20周年。金砖国家走到一起，是基于共同的发展追求，顺应了世界和平与发展的大势。从最初的“金砖四国”到“金砖五国”，再到历史性扩员，从“金砖+”合作模式创新到伙伴国机制日臻完善，金砖合作始终秉持开放包容、合作共赢的金砖精神，金砖国家已成长为全球南方的第一方阵。今天的金砖大家庭，总人口超过世界一半，经济总量约占世界三成，对世界经济增长贡献率超过50%，是国际舞台上护和平、促发展、守正义的中坚力量。金砖国家实现历史性扩员，建立起全方位、多层次合作架构，迈入“大金砖合作”高质量发展新阶段。&lt;/p&gt;&lt;p&gt;　　当前，世界百年变局加速演进，单边主义、强权政治逆流涌动，多边主义和国际秩序受到冲击，和平赤字、发展赤字、安全赤字、治理赤字有增无减。但绝大多数国家并不认同强权政治，不希望冲突对抗，不愿意封闭落后，而是期待通过自身发展和国际合作，在世界舞台上平等拥有一席之地。近年来，全球南方卓然壮大，推动国际力量对比深刻调整，世界多极化不可阻挡。形势越是复杂严峻，越需要中流砥柱；全球南方越是发展壮大，越需要引领力量。作为新兴市场和发展中国家联合自强的典范，金砖国家肩负更大责任、承载更高期待，更应在引领全球南方团结合作方面展现更大作为，为推动世界走向和平、安全、繁荣、进步的光明前景贡献金砖力量。&lt;/p&gt;&lt;p&gt;　　中国始终是金砖合作的推动者、建设者。从2017年金砖国家领导人厦门会晤开创性提出“金砖+”合作模式，到2022年金砖“中国年”推动启动金砖扩员进程，再到2024年喀山会晤提出“大金砖合作”高质量发展重要理念，倡导建设和平金砖、创新金砖、绿色金砖、公正金砖、人文金砖，中国在金砖合作机制的每一个关键节点都发挥了关键作用，留下了厚重的中国印记。一系列中国主张已转化为实实在在的合作成果，充分彰显了中国作为金砖合作中坚力量、全球南方核心成员的重要作用。在此次会议上，习近平主席提出金砖国家要做促进创新发展的先锋、维护和平稳定的先锋、推动文明互鉴的先锋、改革完善全球治理的先锋，这一引领金砖合作行稳致远的中国方案，将为变乱交织的世界注入更多确定性、稳定性、正能量。&lt;/p&gt;&lt;p&gt;　　应对全球性挑战，金砖行动务实有力。全球性挑战离不开全球性应对，团结才是正道。发展是解决一切问题的总钥匙。金砖国家积极深化经贸、金融、科技、工业等领域合作，维护产业链供应链稳定畅通；积极应对能源和粮食安全挑战，推动相关问题去政治化、去武器化，加强战略性矿产资源合作，维护产供链稳定畅通；建好用好金砖国家疫苗研发中心，携手提升发展中国家公共卫生能力。绿色转型是大势所趋，金砖国家秉持共同但有区别的责任原则，不断深化清洁能源和气候行动合作。未来，各方应加强合作，推动发展议题重回国际议程的中心位置，为全球南方提供更多急需的公共产品。&lt;/p&gt;&lt;p&gt;　　破解安全困局，金砖共识独具价值。共同、综合、合作、可持续的安全观，是破解安全困境的钥匙，为实现普遍安全指明了方向。在热点问题上，金砖国家始终坚持政治解决方向，积极探讨对话协商解决争端的有效方式。各成员国秉持客观公正立场积极劝和促谈：中国促成沙伊历史性和解，中国同巴西等国共同发起乌克兰危机“和平之友”小组，金砖各方一致呼吁加沙停火止战、支持一切有利于缓和冲突的斡旋努力，积累了不谋私利、客观公正、综合施策的斡旋经验，走出了一条不同于西方阵营对抗的安全治理路径。中方愿同金砖成员一道，为实现中东海湾地区和平安宁发挥应有作用。金砖国家汇聚多元文明，坚持以文明交流超越文明隔阂、以文明互鉴超越文明冲突、以文明共存超越文明优越，在治国理政交流和民心相通中增进战略互信，为持久和平筑牢文明根基。&lt;/p&gt;&lt;p&gt;　　捍卫国际秩序，金砖国家当仁不让。面对国际规则屡遭破坏、公平正义受到侵害的现实，金砖国家应高举多边主义旗帜，坚定捍卫联合国宪章宗旨和原则，维护以联合国为核心的国际体系、以国际法为基础的国际秩序，旗帜鲜明反对单边主义、保护主义，反对搞“合则用、不合则弃”的双重标准。金砖国家要敢于主持公道、伸张正义，推动国际关系民主化，尊重各国自主选择的社会制度与发展道路，推进国际金融架构改革，提升发展中国家代表性和发言权，保障全球南方国家更加充分参与全球治理与规则制定，为平等有序的世界多极化注入强劲动能。&lt;/p&gt;&lt;p&gt;　　改革完善全球治理，金砖智慧不可或缺。网络、外空、深海等新疆域不断拓展，治理规则却远未成形。少数发达国家试图垄断规则制定、筑起技术壁垒，挤压发展中国家发展空间。金砖国家主张趋利避害、包容普惠：一方面密切跟踪技术前沿，拓展人工智能、数字经济合作，推动形成具有广泛共识的治理框架和标准规范，提升技术的安全性、可靠性、可控性、公平性；另一方面坚定支持以联合国为主渠道推进网络空间和数字治理，推动《全球数字契约》落地，制定网络空间共同规则，弥合数字鸿沟、智能鸿沟，确保发展中国家平等参与、平等受益。&lt;/p&gt;&lt;p&gt;　　2027年，中国将接任金砖主席国，主办金砖国家领导人第十九次会晤。中方愿同各方凝聚共识、开创未来，开启金砖合作第三个“金色十年”，推动“大金砖合作”不断迈上新台阶。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180712&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180712.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180712.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 勇做时代先锋  展现金砖担当（寰宇平） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180712.html#[03版：要闻] 勇做时代先锋  展现金砖担当（寰宇平）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “金砖国家在维护多边主义方面发挥着重要作用”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180713.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “金砖国家在维护多边主义方面发挥着重要作用” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ​——访巴西金砖国家政策研究中心研究员费尔南德斯 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  时元皓&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“20年来，金砖国家通过领导人会晤、各领域部长级会议及相关工作组会议等机制，将政府、高校、智库、企业、社会组织等广泛连接起来，覆盖金融、贸易、卫生、教育、科技等领域，持续不断推动对话与知识共享，形成发展合作共识。”巴西金砖国家政策研究中心研究员玛尔塔·费尔南德斯日前在接受本报记者采访时表示。&lt;/p&gt;&lt;p&gt;　　费尔南德斯认为，作为金砖国家最具代表性的合作成果之一，新开发银行拓宽了新兴市场和发展中国家在基础设施及可持续发展项目方面的融资渠道。这是全球南方国家联合自强的创举，也符合改革完善全球治理的历史潮流。&lt;/p&gt;&lt;p&gt;　　“金砖国家在全球治理中代表性的提升也是重要成就之一。”费尔南德斯说，金砖国家的一项特殊贡献，在于其成员国发展道路的多样性。金砖吸引力持续增强，让更多志同道合的国家汇聚起推动和平与发展的力量。&lt;/p&gt;&lt;p&gt;　　今年7月，巴西作为创始成员国签署《关于成立世界人工智能合作组织的协定》。费尔南德斯说，中国的经验表明，更开放、更高效、更低成本的人工智能模型可以降低大学、企业和公共机构参与前沿创新的门槛。金砖国家不仅可以帮助各国扩大人工智能的应用领域，也可以帮助提升人工智能治理水平，在基础设施、人才培养、联合科研、开源模型等方面开展合作。中方成立中国—金砖国家人工智能发展与合作中心、推动成立世界人工智能合作组织等，将帮助缩小技术鸿沟，加强各国能力建设。&lt;/p&gt;&lt;p&gt;　　“金砖国家在维护多边主义方面发挥着重要作用。”费尔南德斯说，作为全球南方重要成员，巴西和中国为捍卫多边主义发挥积极作用，让全球南方在全球治理中拥有更大的话语权和影响力。&lt;/p&gt;&lt;p&gt;　　“中国在推动金砖合作机制不断发展的进程中发挥了关键作用。”费尔南德斯说，中国自身的发展具有重要示范意义，证明发展并不存在唯一的模式，全球南方可以自主选择发展道路。作为金砖国家中最大的经济体，中国不断推动金砖合作聚焦具体行动，在贸易、投融资等领域为发展中国家提供了更多机遇。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  时元皓&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ​——访巴西金砖国家政策研究中心研究员费尔南德斯 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180713&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180713.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180713.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “金砖国家在维护多边主义方面发挥着重要作用” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180713.html#[03版：要闻] “金砖国家在维护多边主义方面发挥着重要作用”</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180714.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社莫斯科9月12日电  （记者侯鸣）9月9日至12日，中共中央政治局委员，全国人大常委会副委员长，中俄友好、和平与发展委员会中方主席李鸿忠在莫斯科出席第七届中俄中小企业实业论坛开幕式并致辞；与俄罗斯联邦委员会主席马特维延科，国家杜马第一副主席梅利尼科夫，中俄友好、和平与发展委员会俄方主席季托夫会见，并访问伊尔库茨克州。&lt;/p&gt;&lt;p&gt;　　李鸿忠表示，在习近平主席和普京总统战略引领下，中俄新时代全面战略协作伙伴关系保持高水平发展。中方愿与俄方一道，全面落实两国元首重要共识，推动中俄关系迈向更高质量、更快发展、更有作为的新阶段。中国全国人大愿同俄联邦委员会、国家杜马保持密切交往，加强经验交流。今年是中国“十五五”开局之年，中国高质量发展将为包括俄罗斯在内的各国中小企业来华发展提供新机遇。委员会要继续发挥民间交往主渠道作用，推动中小企业互利合作提质增效，不断增进两国人民友谊，赓续中俄世代友好。&lt;/p&gt;&lt;p&gt;　　俄方表示，普京总统和习近平主席引领俄中关系达到历史最好水平，两国政治、经济和民间交往蓬勃开展。俄方愿与中方共同努力，深化立法机构交流，丰富务实合作内涵，推动各领域互利合作迈向更高阶段。&lt;/p&gt;&lt;p&gt;　　访俄期间，李鸿忠参访了中国共产党第六次全国代表大会会址。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180714&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180714.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180714.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180714.html#[03版：要闻] 李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 团结推动公共安全治理  为动荡世界注入稳定力量</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180715.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 团结推动公共安全治理  为动荡世界注入稳定力量 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——全球公共安全合作论坛（连云港）2026年大会综述 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  张天培&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　一埠牵陆海，万里共潮生。全球公共安全合作论坛（连云港）2026年大会近日在江苏连云港举行，来自139个国家、地区和国际组织的2100余名代表齐聚一堂，围绕“团结推动公共安全治理  为动荡世界注入稳定力量”主题，共商全球安全治理大计，共话国际合作前景。中外与会代表纷纷表示，中国在引领全球治理变革方面体现了大国担当，此次大会汇聚全球执法力量，融通各方治理智慧，为深化全球公共安全治理注入动能。&lt;/p&gt;&lt;p&gt;　　此次大会参会嘉宾地域代表性更强、涉及领域更多，广泛凝聚了各方共识。&lt;/p&gt;&lt;p&gt;　　“全球公共安全合作论坛（连云港）历经多年持续深耕，形成稳定、长效的公共安全交流机制，为全球安全议题搭建持续性专业对话平台。”中国人民警察大学教授郭永良说。&lt;/p&gt;&lt;p&gt;　　老挝公安部部长万通·贡玛尼表示：“全球公共安全合作论坛（连云港）已成为一个重要的信息交流平台，汇聚了各国在公共安全领域的丰富信息以及各领域科学研究成果，为我们研究制定本国公共安全治理措施提供有益参考。”&lt;/p&gt;&lt;p&gt;　　聚焦当前全球公共安全治理的现实需求，本次大会设置主论坛及移民管理合作、国际禁毒合作、网络安全、国际警察教育合作等领域的8场分论坛，并组织参会代表参观第三届公共安全科技装备展。分论坛各有侧重，紧扣现实。&lt;/p&gt;&lt;p&gt;　　“国际警察教育合作分论坛有助于分享实践经验、对接机构资源、探寻有效路径，持续提升警务教育培训质效。”越南人民警察学院副院长阮寿登说。&lt;/p&gt;&lt;p&gt;　　走进公共安全科技装备展展馆，一批科技感十足的公共安全技术装备让人眼前一亮。“这个展览令人震撼！人工智能机器人等智能警务装备协助勘查犯罪现场，大幅提升了警务侦查工作效率。”阿森诺家族基金会驻华代表处联合禁毒项目副主任、新西兰警察总署原助理总监马浩明说：“中国有不少应用于警务实战的新技术，值得各国研究借鉴。”&lt;/p&gt;&lt;p&gt;　　大会期间，“团结”“多元”“创新”成为高频热词，与会代表围绕全球公共安全治理的现实挑战展开深度交流。&lt;/p&gt;&lt;p&gt;　　10日上午，国际打击电信网络诈骗联盟成立大会在连云港举行。会上，各方高度赞赏中国发起成立国际打击电信网络诈骗联盟的责任担当，高度评价联盟成立对维护全球公共安全的重大意义，对联盟遏制电信网络诈骗全球蔓延充满信心和期待。“今年论坛最突出的成果之一，就是在推动打击电信网络诈骗国际执法合作方面取得重大进展。”全球公共安全合作论坛（连云港）大会主席曾伟雄表示。&lt;/p&gt;&lt;p&gt;　　该联盟的成立受到与会嘉宾一致认可。“电信网络诈骗是一个国际问题，有这样的平台汇聚各方合力打击电诈十分必要。”巴基斯坦总理中国事务特别代表、巴基斯坦“读懂中国”论坛理事长扎法尔说。&lt;/p&gt;&lt;p&gt;　　肯尼亚内政和国家行政部内阁秘书基普楚巴·穆尔科门表示：“随着技术快速发展，越来越多的犯罪活动借助通信系统与数字平台跨国实施，这要求我们必须提升技术本领，提高对借助通信系统与数字平台实施犯罪的研判和处置能力。”&lt;/p&gt;&lt;p&gt;　　多位外国代表表示，本次大会为不同发展阶段、不同地域的国家搭建平等对话的平台，既倾听发达国家的治理经验，也充分吸纳发展中国家的现实诉求，真正做到兼容并蓄、集思广益。“通过本次大会，我们希望向世界传递更加明确的信号，即互相支持、团结合作才是解决全球公共安全问题的正确路径，才能为不确定的世界注入更多稳定性。”曾伟雄说。&lt;/p&gt;&lt;p&gt;　　中方提出的凝聚稳定共识、汇聚稳定力量、夯实稳定基础、保障稳定发展4点建议，得到与会各方积极响应。俄罗斯联邦副总检察长彼得·格罗多夫表示，许多案件往往涉及多个国家，任何国家都不能单独应对，各国应该加强协作，共同解决问题。国际刑警组织主席菲利普说：“借此次大会机会，国际刑警组织将同各成员一起推动安全治理、防范化解安全风险。” &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  张天培&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——全球公共安全合作论坛（连云港）2026年大会综述 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180715&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180715.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180715.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 团结推动公共安全治理  为动荡世界注入稳定力量 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180715.html#[03版：要闻] 团结推动公共安全治理  为动荡世界注入稳定力量</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “新质生产力：中国实践与世界意义”国际研讨会举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180716.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “新质生产力：中国实践与世界意义”国际研讨会举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月12日电  （记者于景浩、关皓宇）由习近平外交思想研究中心主办的“新质生产力：中国实践与世界意义”国际研讨会近日在京举行。60多个国家的驻华使节及中方学者齐聚一堂，共同探讨新质生产力的时代内涵与全球价值。&lt;/p&gt;&lt;p&gt;　　习近平外交思想研究中心秘书长、中国国际问题研究院院长陈波表示，发展新质生产力有助于中国持续发挥世界经济增长的重要引擎作用，有助于为各国创新合作提供新的机遇，有助于为全球可持续发展提供新范式。发展新质生产力正从中国行动转化为全球发展新动力，既有利于发达国家经济提质升级，也有助于发展中国家在创新浪潮中实现跨越式发展。&lt;/p&gt;&lt;p&gt;　　约旦驻华大使胡萨姆·侯赛尼表示，新质生产力是人工智能、绿色能源、生物技术等前沿领域融合催生的面向未来的生产力。中国的生动实践为各国探索现代化路径提供了可借鉴的方案。&lt;/p&gt;&lt;p&gt;　　尼日利亚驻华大使丹巴藻表示，中国提出发展新质生产力正当其时。当今世界正面临气候变化、数字变革、供应链重构等挑战，所需要的正是以创新为驱动，绿色、高效的生产力。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180716&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180716.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180716.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “新质生产力：中国实践与世界意义”国际研讨会举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180716.html#[03版：要闻] “新质生产力：中国实践与世界意义”国际研讨会举行</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中国代表团参加粮农组织渔业委员会第三十七届会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180717.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国代表团参加粮农组织渔业委员会第三十七届会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报罗马9月12日电  （记者谢亚宏）联合国粮食及农业组织渔业委员会第三十七届会议9月7日至11日在意大利首都罗马召开，中国代表团参加此次会议。&lt;/p&gt;&lt;p&gt;　　会议期间，中方和粮农组织共同主办“推动水产养殖创新，共促绿色可持续发展”边会，围绕技术创新、区域合作与发展、投资赋能与多方参与等开展讨论。新西兰、印度、南非、亚太水产养殖中心网等国家和国际组织代表发言。中方在主旨报告中指出，2025年中国水产养殖产量6326万吨，占水产品总产量83%。中国坚持高质量水产养殖理念，实施水产种业振兴和养殖科技攻关，发展稻渔综合种养等新模式，将可持续新要求写入新修订的《中华人民共和国渔业法》，同时深度参与水产养殖的南南合作，助力相关国家创新发展。&lt;/p&gt;&lt;p&gt;　　同期，中方受邀参加粮农组织主办的《港口国措施协定》生效10周年高级别活动。活动邀请全球7个重点渔业国家发言，中方是亚洲地区唯一代表。活动上，中方介绍了自2025年4月正式加入协定以来的各项进展措施，包括严格港口准入、公布第一批23个指定港口、规范开展船舶检查、建立履约信息平台、强化履约培训和能力提升等。&lt;/p&gt;&lt;p&gt;　　此外，中方布设长江十年禁渔主题展示角，集中介绍中国长江十年禁渔和水生生物保护的实践与成效。2021至2025年，长江流域累计监测到土著鱼类351种，比禁渔前增加43种；长江江豚野外种群由最低的1012头恢复至1426头，水生生物完整性指数持续提升。&lt;/p&gt;&lt;p&gt;　　粮农组织渔业委员会是全球渔业和水产养殖领域重要政府间平台，此次参会是中方积极参与全球渔业治理、深化国际渔业合作的重要实践。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180717&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180717.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180717.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国代表团参加粮农组织渔业委员会第三十七届会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180717.html#[03版：要闻] 中国代表团参加粮农组织渔业委员会第三十七届会议</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中国对尼泊尔第五批紧急援助物资运抵加德满都</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180718.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国对尼泊尔第五批紧急援助物资运抵加德满都 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报加德满都9月12日电  （记者李墨）当地时间9月11日下午，中国对尼泊尔第五批紧急援助物资由中国空军运—20大型运输机运抵尼泊尔首都加德满都的特里布万国际机场。&lt;/p&gt;&lt;p&gt;　　中国驻尼泊尔大使张茂明同尼泊尔科学、技术和创新部部长马哈比尔·普恩出席援助物资交接仪式。&lt;/p&gt;&lt;p&gt;　　随着救灾工作持续推进，本批援助物资紧扣尼方当前最迫切需求，主要包括柴油发电机、医用防护口罩、太平柜、DNA检测设备及试剂、水域救援装备等，将为尼方开展后续工作提供有力保障。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180718&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180718.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180718.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国对尼泊尔第五批紧急援助物资运抵加德满都 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180718.html#[03版：要闻] 中国对尼泊尔第五批紧急援助物资运抵加德满都</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 一汪古井鉴初心（赓续长征精神  奋进复兴征程·记者再走长征路）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180719.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 福建长汀治山护河、造福乡亲—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一汪古井鉴初心（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  刘晓宇&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/13/0e6da953-1c43-4bb1-b4ec-19fab9dbc50d.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　研学团队在长汀长征国家文化公园开展研学活动。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　朱芳彬摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/0e6da953-1c43-4bb1-b4ec-19fab9dbc50d.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　清晨，薄雾散去，福建省龙岩市长汀县卧龙山脚，一口老古井藏在青砖黛瓦间。青石井台留下了汲水磨出的深痕，方形井栏围着一汪活水，天光落处微澜轻动。井侧一方青碑镌刻着八个字：毛主席最牵挂的井。&lt;/p&gt;&lt;p&gt;　　一泓清水之间，留存90余年不变的初心。&lt;/p&gt;&lt;p&gt;　　1932年，毛泽东同志在长汀福音医院休养，当时这口古井，是附近数百户人家唯一的取水处。经年累月，井底淤积厚泥，水体时常浑浊，旱季取水格外困难。见乡亲们取水不便，毛泽东同志便领着警卫员修整井台、疏通泉眼。一番劳作后，古井重涌清泉。在此期间，毛泽东同志经常与前来古井挑水洗衣的群众亲切交谈，了解当地社情民意。&lt;/p&gt;&lt;p&gt;　　新时代，长汀把红色资源、生态优势转变为富民路径，既守护绿水青山，更办好民生实事、做强乡村产业，让老区群众共享发展红利——以老古井为起点，推出福音医院至福建省苏维埃政府旧址红色研学线路，打造现场教学点，使其成为党员干部锤炼初心的鲜活课堂。在中复村，红军街、战地医院等红色旧址陆续修缮，不少村民当上讲解员、开起农家乐。&lt;/p&gt;&lt;p&gt;　　昔日红军踏上漫漫长征路，今天长汀人接续攻坚，在治山护河、造福乡亲的工作中传承红色精神。&lt;/p&gt;&lt;p&gt;　　沿着汀江亲水步道缓步前行，可见林木沿着江岸绵延，澄澈江面上不时掠过白鹭。&lt;/p&gt;&lt;p&gt;　　三洲村村民黄金养，亲历过这片红土地往日的困境。回想早年，连片山体都是光秃秃的。2000年，黄金养承包300多亩水土流失严重的荒山，顺着山势开挖水平沟，在赤红坡地栽种茶苗。几场大雨过后，新植苗木连同表层红土被山洪冲走，前期投入几乎落空。&lt;/p&gt;&lt;p&gt;　　他没有就此放弃。日复一日扛锄上山、补植苗木、加固坡面，秃山慢慢生出绿意。当地干部群众一起行动，封山育林、坡面固土、河道清淤一起抓，红土地渐渐披上青绿，沉淀出闻名全国的长汀经验。&lt;/p&gt;&lt;p&gt;　　生态修复之后，当地发展林下经济、生态农业，做大河田鸡、槟榔芋等特色乡村产业，万千农户嵌入产业链条，民生福祉持续改善。&lt;/p&gt;&lt;p&gt;　　如今的黄金养，是长汀县出了名的致富能手，水果、苗木种植收入不断增多。“日子越来越有奔头！”黄金养常带笑意。&lt;/p&gt;&lt;p&gt;　　长汀县水土保持中心主任岳辉介绍，当地始终恪守底线：先守护原生山水，再适度开发资源。所有文旅项目依托自然本底打造，让数十年治理积淀的潜绩，切实转化为群众增收的显绩。&lt;/p&gt;&lt;p&gt;　　古井清泉不竭，汀江碧水长流。闽西红土地，在接续奋斗里永葆生机。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  刘晓宇&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 福建长汀治山护河、造福乡亲—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180719&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180719.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180719.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一汪古井鉴初心（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180719.html#[04版：要闻] 一汪古井鉴初心（赓续长征精神  奋进复兴征程·记者再走长征路）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 山绿了，日子越过越美（身边的净土保卫战）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180720.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 重庆市梁平区竹山镇猎神村—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 山绿了，日子越过越美（身边的净土保卫战） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							林云高&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/13/63e20fae-4995-4b24-b823-9238c894afd5.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　青山环抱的猎神村。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　向成国摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/63e20fae-4995-4b24-b823-9238c894afd5.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　我叫林云高，今年54岁，是重庆市梁平区竹山镇猎神村人。大半辈子，我都没离开过这片山。&lt;/p&gt;&lt;p&gt;　　年轻时，靠山吃山。从十八九岁开始，我跟着大人砍竹子、造纸，后来又挖煤、挖石膏，前前后后干了近20年。&lt;/p&gt;&lt;p&gt;　　挖矿这碗饭，吃得不容易。&lt;/p&gt;&lt;p&gt;　　石膏矿怕透水，煤矿怕瓦斯，哪一样都要命。人在井下干活，说不准什么时候会出状况。我们常说，那是把脑袋别在裤腰带上挣钱。&lt;/p&gt;&lt;p&gt;　　矿挖得久了，村子的样子也变了。有的房子因为采矿爆破震出了裂缝，村里灰尘到处飘，地下水越挖越少……&lt;/p&gt;&lt;p&gt;　　2017年，村里关停所有石膏矿。&lt;/p&gt;&lt;p&gt;　　一开始，我很着急。家里靠矿上挣钱，矿一关，收入从哪里来？但静下来想想，我也明白这矿不能再挖了，否则子孙后代怎么办？&lt;/p&gt;&lt;p&gt;　　那段时间，镇上、村里的干部经常来家里做工作，一边讲政策，一边帮我们想出路。需要场地，帮着协调；缺资金，帮着联系低息贷款。&lt;/p&gt;&lt;p&gt;　　我以前开过饭馆，想着干脆开个农家乐。矿关停后，村里的环境好起来了，游客越来越多，农家乐生意也越来越好。&lt;/p&gt;&lt;p&gt;　　现在我的店一次能同时接待十几桌、一百五六十人。旺季月营业额有6万元左右，一年净收入二三十万元。我基本天天开门，有时候哪怕刮风下雨，也有客人专门赶来。&lt;/p&gt;&lt;p&gt;　　店里的菜，大多是自家种的。南瓜、丝瓜、茄子、萝卜、白菜，各式各样。游客来了，尝一尝地道农家菜，再到竹林、湿地里走一走，惬意得很。&lt;/p&gt;&lt;p&gt;　　这些年，村里发生很多变化，让我心里美滋滋的。&lt;/p&gt;&lt;p&gt;　　以前堆石膏的堆码场，现在成了湿地公园；废弃矿坑变成水塘、梯田湿地。山上的树重新长起来了，小时候常见的萤火虫也回来了。&lt;/p&gt;&lt;p&gt;　　村前还是这座山，但我们过的已经是另一种享受自然的美好生活。&lt;/p&gt;&lt;p&gt;　　只要身体还行，我就想把这个店一直开下去。在家门口，有事情做，也有收入，我觉得挺好。&lt;/p&gt;&lt;p&gt;　　从开矿到关矿、修复矿山、发展旅游，我们猎神村这条路走得并不轻松。但回过头看，路走对了。&lt;/p&gt;&lt;p&gt;　　还是靠山吃山，但要先把山养好、护好。山绿了，水清了，游客来了，我们的日子也越过越美。&lt;/p&gt;&lt;p&gt;　　（作者为重庆市梁平区竹山镇猎神村村民，本报记者王欣悦采访整理） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;林云高&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 重庆市梁平区竹山镇猎神村—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180720&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180720.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180720.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 山绿了，日子越过越美（身边的净土保卫战） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180720.html#[04版：要闻] 山绿了，日子越过越美（身边的净土保卫战）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 生态修复，打开绿色发展新路（记者手记）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180721.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 生态修复，打开绿色发展新路（记者手记） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							王欣悦&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　矿山关停那天，林云高心里有些“不舒服”。几年后，他守着自家的农家乐，看游客漫步竹林、听湿地流水潺潺，感慨矿关对了，“路走对了”。&lt;/p&gt;&lt;p&gt;　　猎神村曾经炮声隆隆、粉尘漫天，地下水渗漏、山体受损。这样的发展，眼前有收益，却不可持续。打好净土保卫战，要敢于动真碰硬：该关的矿坚决关，该治的污染彻底治，欠下的生态账及时还。&lt;/p&gt;&lt;p&gt;　　生态修复，修的是山水，也是发展根基。当地的资源没有变，利用资源的方式变了：过去向山索取，如今把山养好。生态环境变好，产业也就发展起来了。&lt;/p&gt;&lt;p&gt;　　从“挖山”到“养山”，体现的是发展观之变。净土保卫战不是不要发展，而是摆脱透支资源的老路，打开绿色发展的新路。把生态修复做到位，把产业转型接上去，把群众生计托起来，绿水青山才能真正成为造福一方的金山银山。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;王欣悦&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180721&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180721.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180721.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 生态修复，打开绿色发展新路（记者手记） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180721.html#[04版：要闻] 生态修复，打开绿色发展新路（记者手记）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 把论文写在大地上</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180722.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 把论文写在大地上 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——记二〇二六年“最美教师”张福锁 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  丁雅诵&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/13/53a26c95-0973-49b1-891d-1ed095946dde.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　张福锁（中）在云南大理市古生村查看水稻样本。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　赵  渝摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/53a26c95-0973-49b1-891d-1ed095946dde.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　顶着草帽，裤脚沾泥，皮肤黝黑，笑容质朴——这是中国工程院院士、中国农业大学教授张福锁的模样。&lt;/p&gt;&lt;p&gt;　　教书育人40余年，他开创的“科技小院”育人模式把众多研究生送到生产一线。他说：“我最大的幸福和追求，是做一名好老师，培养人才，服务国家，服务人民，那样是活得最自在的。”&lt;/p&gt;&lt;p&gt;　　2009年春天，河北省曲周县的麦苗刚刚返青，张福锁带着团队在田里做试验。旁边的地里，有农民抓起一把化肥，伸舌头舔了舔，自言自语道：“这肥，真不真？”&lt;/p&gt;&lt;p&gt;　　那一刻，张福锁愣住了。几百公里外，中国农业大学实验室里，学生们早就能测算肥力、辨析成分，可在这片土地上，老乡鉴别化肥还是靠土办法。更大的反差是，在中国农大曲周实验站里，庄稼长势喜人；而农民地里的庄稼，常出现倒伏等问题，产量也较低。&lt;/p&gt;&lt;p&gt;　　深夜，张福锁辗转难眠：“我们团队在重要学术期刊上发表的那些论文，能给老乡们带来什么？实验室里的成果、书本上的知识，有多少能用到田间地头？”于是，他决定带着团队待下来，与乡亲们一起，用实践回答这些问题。&lt;/p&gt;&lt;p&gt;　　随着时间推移，张福锁团队不断把科技知识和成果带进农家院。老乡们干脆提议：“咱这里就叫科技小院吧。”&lt;/p&gt;&lt;p&gt;　　务实效，是张福锁创办科技小院的初心。他把这份初心，凝练成两个字，并作了自己的解释：“实、思。实，就是‘头’戴一顶‘草帽’，下去老老实实帮老百姓解决问题，帮一家算一家；思，就是把农民的‘田’放在‘心’上，一心为民。”&lt;/p&gt;&lt;p&gt;　　张福锁平均每年要在农村待200多天，时常和农民一起吃饭、一起下地。17年来，科技小院也从曲周的“一粒种子”发展成遍布全国的“兴农森林”：200多所高校参与，5000多家科技小院登记备案，数以万计的研究生扎根生产一线。&lt;/p&gt;&lt;p&gt;　　治学问，张福锁同样脚踏实地。他带领团队突破关键技术，集成六大区域绿色增产增效模式，累计推广5.66亿亩。2023年，他又在曲周发起“绿色吨半粮”行动，锚定目标：粮食周年亩产1.5吨、耕地质量提升1级、产能增20%、减排增效30%、收入增1倍。&lt;/p&gt;&lt;p&gt;　　“2024年，千亩示范方创下亩产1522公斤纪录；2025年秋收，尽管遭遇旱涝等灾情，仍达1557.4公斤。”张福锁说，“下一步，我们要推动人工智能、大数据、物联网与农业深度融合，让智慧农业支撑粮食稳产增产。”&lt;/p&gt;&lt;p&gt;　　育英才，张福锁更看重“让年轻人自己拿主意”。谈到科技小院的研究生，他满脸自豪：“学生在小院，要帮乡亲们解决实际问题，要琢磨地方产业怎么发展，要学会跟农民打交道。一段时间下来，就能独当一面，眼神都变得更明亮有光了。”&lt;/p&gt;&lt;p&gt;　　他主讲的“大国三农  农业绿色发展”在线通识课，吸引462所院校27万人次选学；开设资源环境科学本科生拔尖创新班，打造多学科交叉培养体系；推动科技小院“出海”，分享中国农业绿色发展经验……在张福锁的带领下，一批批师生正走向农业一线，成为强农兴农的生力军。&lt;/p&gt;&lt;p&gt;　　曾有人问：“是什么造就了今天的张福锁？”他的回答朴实动人：“我没有什么特别的，我是农民的儿子，能用所学为农民做实事，我觉得很光荣、很幸福。” &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  丁雅诵&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——记二〇二六年“最美教师”张福锁 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180722&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180722.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180722.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 把论文写在大地上 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180722.html#[04版：要闻] 把论文写在大地上</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 荒凉沙漠里，苗木长势旺（党旗在基层一线高高飘扬·科研攻关）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180723.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 新疆维吾尔自治区林业科学院治沙研究所党支部探索极干旱区造林 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 荒凉沙漠里，苗木长势旺（党旗在基层一线高高飘扬·科研攻关） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  尚嵘峥&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　9月，塔克拉玛干沙漠东北缘，白天温度依然不低。新疆维吾尔自治区林业科学院治沙研究所党支部书记王蕾放心不下沙漠里种的6200多株苗子，戴上遮阳帽，前往沙漠试验基地查看苗木长势。&lt;/p&gt;&lt;p&gt;　　“沙拐枣长势不错。”风猛烈地拍在脸上，王蕾使劲儿扯大了嗓门，声音才压过风声。&lt;/p&gt;&lt;p&gt;　　2025年起，新疆林科院在巴音郭楞蒙古自治州尉犁县境内的塔克拉玛干沙漠东北缘建起试验基地，种植梭梭、柽柳、沙拐枣、白刺等耐旱作物，进行极干旱区近自然造林技术的科研攻关。&lt;/p&gt;&lt;p&gt;　　“刚种时浇一次水，让植物有劲儿把根扎到湿沙层，之后再也不浇水，植物靠汲取湿沙层的水分自己活下去。”治沙研究所党支部副书记罗青红解释，极干旱区近自然造林技术直面防沙治沙工作中的缺水难题，力争用最少的水种出最顽强的苗。&lt;/p&gt;&lt;p&gt;　　如今绿意盎然的试验基地，去年却是另一番景象，作物成活率只有约20%。&lt;/p&gt;&lt;p&gt;　　“第一反应是现场找原因，种植时间节点选择、种植方式、管理方式，到底哪里出了问题，需要从头到尾复盘和反思。”王蕾说，党员们顶着烈日扎在沙漠，看根系是否腐烂、是否扎进了湿沙层，一株株深挖、一遍遍找原因。&lt;/p&gt;&lt;p&gt;　　发现根系没有生长痕迹，说明苗木刚种下就死了，为啥？“去年我们买的幼苗中，有的适应不了塔克拉玛干沙漠的极端气候，有的可能在运输过程中根系就已经失水或者损伤了。”罗青红说，找准症结，才能对症下药。&lt;/p&gt;&lt;p&gt;　　“外面买的苗子不行，我们就自己培育！”老党员罗青红主动扛起了育苗重任，在试验基地附近的沙地里建起育苗大棚，让幼苗慢慢适应沙漠生长环境。今年种植的6200多株苗子，全是团队自主培育的幼苗，平均成活率超过70%。&lt;/p&gt;&lt;p&gt;　　天刚蒙蒙亮，团队成员、预备党员李胜辉拿上卷尺和试验记录本，早早来到试验基地，测量记录植株高度等数据。&lt;/p&gt;&lt;p&gt;　　“51.2，42.1，23.2……”一株株测量、一个个记录，不知不觉间，李胜辉已徒步翻越一个又一个沙丘，长长的影子渐渐缩短，紫外线愈加强烈。中午休整后，这样的工作还要干到晚上10点。“植株生长数据观测只能靠人工，没什么捷径。”李胜辉说。&lt;/p&gt;&lt;p&gt;　　李胜辉是名95后，毕业后来到新疆林科院治沙研究所工作，“日常工作中，我发现只要有困难，党员们永远冲在最前线，党员的先锋模范作用在一次次攻坚克难中具象化了。”&lt;/p&gt;&lt;p&gt;　　入职不久，李胜辉就递交了入党申请书，2025年成为预备党员。也是在这一年，他走出乌鲁木齐的办公室，选择驻扎在沙漠边缘的试验基地，每天要在沙漠里走一两万步，试验记录本记得密密麻麻。&lt;/p&gt;&lt;p&gt;　　“老师在这种环境里坚持下来都不容易，更别说来做试验的学生。”王蕾说，个别学生来了不久就想走，但更多人坚持了下来，“党支部把思想引领融入学生的日常学习和试验，学生也在老师的言传身教中积极向党组织靠拢，很多人递交了入党申请书。”&lt;/p&gt;&lt;p&gt;　　荒凉的沙漠里，随党旗一同飘扬的，还有一株株治沙植物。科研攻关还在继续，新疆林科院治沙研究所党支部正用实践把论文写在祖国大地上。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  尚嵘峥&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 新疆维吾尔自治区林业科学院治沙研究所党支部探索极干旱区造林 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180723&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180723.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180723.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 荒凉沙漠里，苗木长势旺（党旗在基层一线高高飘扬·科研攻关） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180723.html#[04版：要闻] 荒凉沙漠里，苗木长势旺（党旗在基层一线高高飘扬·科研攻关）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180724.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/03c0f340-7cca-48e0-a04b-51800bf81a50.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　9月11日，由中铁建工集团承建的中央绿谷基础配套设施工程项目通过竣工验收，正式对外开放。项目落地河北雄安新区启动区核心板块，建成后将增强园区休闲游憩与公共服务功能，助力中央绿谷打造雄安生态核心、城市客厅与文化地标，为新区民生提质与城市高质量发展提供坚实支撑。&lt;/p&gt;&lt;p&gt;　　图为俯瞰雄安新区中央绿谷园区。&lt;/p&gt;&lt;p&gt;　　本报记者  张武军摄 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180724&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180724.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180724.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180724.html#[04版：要闻] 图片报道</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] “红通人员”曾能贵被引渡回国</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180725.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “红通人员”曾能贵被引渡回国 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京9月12日电  近日，在中央反腐败协调小组国际追逃追赃工作办公室统筹协调下，经国际执法司法合作，“红通人员”、外逃职务犯罪嫌疑人曾能贵被引渡回国。&lt;/p&gt;&lt;p&gt;　　曾能贵，男，1962年9月生，江西省瑞金市原扶贫和移民办主任，涉嫌在扶贫项目中收受贿赂，2024年1月外逃。2024年8月，瑞金市监委对其立案调查。2026年1月，国际刑警组织对其发布红色通报。经与有关国家执法司法部门密切协作，曾能贵在境外落网并于2026年9月被引渡回国。&lt;/p&gt;&lt;p&gt;　　中央追逃办负责人表示，曾能贵是群众身边不正之风和腐败问题的典型，其归案是纪检监察机关落实二十届中央纪委五次全会精神，深入开展“天网2026”行动和集中整治群众身边腐败问题的重要成果。将持续深化反腐败国际合作，不断织密追逃追赃“天网”，提高反跨境腐败工作能力，为打赢反腐败斗争攻坚战持久战总体战提供有力支撑。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180725&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180725.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180725.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “红通人员”曾能贵被引渡回国 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180725.html#[04版：要闻] “红通人员”曾能贵被引渡回国</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 一版责编：杨  旭  张帅祯  栾心怡  二版责编：林  琳  郭雪岩  陈  震  三版责编：吴  刚  周  輖  谢佳宁  四版责编：袁振喜  刘  念  崔  斌</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180726.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：杨  旭  张帅祯  栾心怡  二版责编：林  琳  郭雪岩  陈  震  三版责编：吴  刚  周  輖  谢佳宁  四版责编：袁振喜  刘  念  崔  斌 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180726&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180726.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180726.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：杨  旭  张帅祯  栾心怡  二版责编：林  琳  郭雪岩  陈  震  三版责编：吴  刚  周  輖  谢佳宁  四版责编：袁振喜  刘  念  崔  斌 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180726.html#[04版：要闻] 一版责编：杨  旭  张帅祯  栾心怡  二版责编：林  琳  郭雪岩  陈  震  三版责编：吴  刚  周  輖  谢佳宁  四版责编：袁振喜  刘  念  崔  斌</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：新青年] 山野有风  青春向远（青年观察·解码青年文化风尚）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180690.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 登高望远、近郊徒步、城市骑行、轻装露营，越来越多的年轻人爱上户外运动—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 山野有风  青春向远（青年观察·解码青年文化风尚） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  易舒冉&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　江苏省连云港市枫树湾丛林乐园，家长和孩子参加探险活动。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　王健民摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/a7d6c032-2461-41ec-95b2-f052272d76e6.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　年轻人在浙江省宁波市海曙区集士港镇科创智谷运动营地体验动力冲浪。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　胡学军摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/a4c8e275-2be7-4d18-bd4a-17a133eac9c3.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　自行车运动爱好者在安徽省芜湖市繁昌区峨溪河畔骑行。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　肖本祥摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/9d39c7fa-1b48-45e3-a523-81e9a62febb5.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　“爬山治愈一切。”晚上7点半，90后燕子（化名）发了一条微信朋友圈，配图是她站在江苏南京紫金山山顶俯瞰暮色中的金陵城。爬山，是燕子微信朋友圈中的高频动态，置顶相册里，几乎都是她一年四季爬山时拍下的照片。&lt;/p&gt;&lt;p&gt;　　登高望远、近郊徒步、城市骑行、轻装露营……近年来，越来越多年轻人爱上了户外运动。哪怕只是去公园晒晒太阳，叫上几位好友野餐一顿，也像是给快节奏的城市生活“充满电”。国家体育总局发布的《中国户外运动产业发展报告（2024—2025）》显示，我国户外运动参与人数突破4亿人。从消费人群看，中青年群体成为户外运动主要消费者，其中25—34岁群体占比最高，普遍受教育程度较高。&lt;/p&gt;&lt;p&gt;　　户外运动为何持续吸引年轻人？这种热潮背后，是年轻一代生活方式与理念的转变。户外运动对于他们来说，不仅是对身体能力的训练，更是一种安放情绪、自我疗愈的方式。&lt;/p&gt;&lt;p&gt;　　打卡户外热门地，邂逅自然新体验&lt;/p&gt;&lt;p&gt;　　北京东三环的亮马河畔，每到周末，别有一番热闹图景。桨板、皮划艇、露营野餐……当下流行的各类新潮户外玩法，在这里都能看见年轻人的身影。&lt;/p&gt;&lt;p&gt;　　近年来，上海、深圳、广州、武汉等众多城市，都悄然涌现出一批户外热门地。去打卡、去体验，成为一些年轻人走出家门、拥抱自然的动力之一。&lt;/p&gt;&lt;p&gt;　　95后小林（化名）的户外生活，便始于一场打卡之行。“以前周末我喜欢一个人宅在家里看综艺，饿了就点外卖。后来有一段时间，身边的朋友纷纷晒露营地的照片，看得我心痒痒，就约了几个朋友一起去打卡。”小林说，她陆续买了各式各样的露营装备，去的次数多了，慢慢爱上了户外生活。&lt;/p&gt;&lt;p&gt;　　跟风凑热闹的心态褪去，小林开始寻找人少景美的郊野点位。现在，每到周五，小林就会提前规划周末的出行路线。“出去走走，晒晒太阳、吹吹风，感觉周末过得更充实了。”小林说。&lt;/p&gt;&lt;p&gt;　　北京大学物理学院2022级本科生菅博皓，将自己与户外活动的初见形容为“不期而遇”。&lt;/p&gt;&lt;p&gt;　　2023年大学社团招新期间，菅博皓的课余生活还大多泡在图书馆看书、自习，社交圈子比较小。“我想找点新鲜事儿干，恰好看见了徒步爱好者协会在招新，就参加了。”在菅博皓看来，户外类社团不像器乐、美术类社团需要长期坚持练习，只要身体条件允许、愿意出发就行。现在，徒步和越野跑是菅博皓的最爱，他也成了社团的主要领队，组织过多场户外活动。&lt;/p&gt;&lt;p&gt;　　从小林松弛随性的近郊露营，到菅博皓深耕山野的徒步越野，户外活动正以不同的模样嵌入年轻人的生活。有人偏爱独行，循着山路梳理内心情绪；有人热衷结伴，和志趣相投的伙伴并肩上路。值得注意的是，无论是何种出行方式，年轻人愈发看重行走途中自然赋予身心的真实感受。“有一段时间，我沉迷于买户外装备，从用具到服饰，花了不少钱。后来发现，户外的快乐并不在于装备齐全、高级，而是来自在运动过程中的真实感受。”小林说。&lt;/p&gt;&lt;p&gt;　　北京师范大学体育与运动学院副院长、教授王兆红表示，户外热反映了当代青年生活方式与精神需求发生的变化，消费层面，年轻人逐步从实物消费转向体验式消费，愿意为自然体验、情绪价值买单；年轻人的健康理念也在不断升级，愈发关注自身的身体素质，明白自己才是身体的主人，寻找更加健康的生活方式；同时，在数字化时代，长期沉浸网络容易产生虚无感，年轻人渴望从屏幕走向旷野，在真实自然的环境中看见自我、与朋友真实交往。&lt;/p&gt;&lt;p&gt;　　既解压又有成就感，在行走中疗愈自我&lt;/p&gt;&lt;p&gt;　　户外为何持续吸引年轻人？不少人给出的答案指向同一个感受：解压。&lt;/p&gt;&lt;p&gt;　　“连续忙碌一周后，我又一次爬上了紫金山。踩着石板路登上山顶，风吹起了被汗水浸湿的头发，突然觉得心中的焦虑也被吹散了，人从紧绷的状态里解脱出来。”燕子这样描述自己户外时的解压瞬间。燕子说，爬山时双腿酸胀、呼吸急促，体力不断消耗，心渐渐放空，这种反差感让人回味。&lt;/p&gt;&lt;p&gt;　　菅博皓也对“户外解压”深有同感。2025年初春，菅博皓和朋友们一起去山西爬五台山，两天走了60公里的山路，对体能的考验非常大。&lt;/p&gt;&lt;p&gt;　　“北方初春，山间寒冷，一路上食宿条件简陋，但爬完后，我感觉内心非常轻松。回到北京后，感觉整个人的状态都更好了，学业上遇到的困惑也找到了答案。”菅博皓说，正是这次体验，让他对户外“上瘾”了。&lt;/p&gt;&lt;p&gt;　　除了情绪上的解压，户外持续吸引年轻人的另一重原因，是一种成就感。&lt;/p&gt;&lt;p&gt;　　有一次，燕子挑战位于安徽省马鞍山市博望区与江苏省南京市江宁区交界的横山，前半段路程相对平坦，之后却遇到了2000多级石阶，抬眼望不到尽头。起初她心里直打退堂鼓，中途几次腿酸得抬不起来，最终还是凭借意志力爬到了山顶。站在山巅回望时，没有狂喜，只有一股“我能行”的成就感落进心里。“多迈一步就近一步，这种成就感比美景更吸引人。”燕子说。&lt;/p&gt;&lt;p&gt;　　在菅博皓看来，多数年轻人奔赴户外并不是为了征服自然，而是想在一场场可量化的挑战里，感知自身的潜力和能量。&lt;/p&gt;&lt;p&gt;　　武汉科技大学辅导员裴林茹是一名户外爱好者，在长期的学生工作中，她直观感受到年轻人对户外运动的热情变化，也见证了户外运动带给年轻人的多重成长。&lt;/p&gt;&lt;p&gt;　　裴林茹认为，户外运动最直观的改变是身体素质的提升，不少原本体测跑1000米都十分吃力的学生，在养成户外运动的习惯后状态大有改观。更深层的改变在于心理韧性的塑造。“户外运动是一种健康有效的情绪出口，可以避免负面情绪长期积压。就像骑车会遇到逆风，爬山会遇到陡坡，徒步会遇到恶劣天气，这种在真实困境中坚持到底的体验，是未来面对生活风浪时宝贵的财富。”裴林茹说。&lt;/p&gt;&lt;p&gt;　　裴林茹同时提到，对于年轻人来说，职场与学业中的努力，往往反馈周期长、结果充满不确定性，而户外运动的目标清晰，付出能在相对确定的时间内看到成效，由此逐步提升年轻人的自我效能感，成为应对压力的隐性心理支撑。&lt;/p&gt;&lt;p&gt;　　热潮更需冷思考，敬畏自然守住安全底线&lt;/p&gt;&lt;p&gt;　　户外热潮之下，安全风险也逐渐显现。近年来，年轻人户外遇险的新闻屡见不鲜：一些人受社交平台“网红野线”吸引，贸然踏入未开发、无管护的区域，低估了山野的复杂性，遭遇险情；部分民间户外团队资质参差不齐，领队缺乏应急救援能力，进一步放大了出行隐患。&lt;/p&gt;&lt;p&gt;　　采访中，年轻人在回忆过去的户外经历时，纷纷提到了要敬畏自然。“有一些路线虽然很美，但危险系数高，更适合专业户外人士体验，‘业余选手’亲近自然，敬畏需先行。”东南大学户外协会副会长、吴健雄学院本科生庄晟涛说。&lt;/p&gt;&lt;p&gt;　　去年冬天，庄晟涛前往南太行山区徒步。当时刚下过雪，太阳出来后，路面变得非常滑，稍有不慎可能就会跌入山谷。他套上冰爪，尽量贴着山体缓慢前行。“南太行山区有些路线经常发生险情，现在回想起来还是挺后怕的。后来我在行程规划和路线选择上变得更谨慎了，安全第一。”庄晟涛说。&lt;/p&gt;&lt;p&gt;　　王兆红建议，加快健全行业规范，推动建立领队技能考核、急救认证常态化机制，区分休闲徒步、高风险山野线路对应的从业门槛，杜绝无证带队；规范线上宣传，严禁过度渲染网红野路，整治夸大宣传、低价诱导等营销行为。“高校、行业协会要发挥正向引导作用，面向青年普及户外安全知识，加强青年参与者风险教育；提醒年轻人理性辨别户外服务，不盲目挑战未开发线路，主动甄别领队资质，摒弃盲目‘跟风打卡’的心态。”王兆红说。&lt;/p&gt;&lt;p&gt;　　裴林茹建议，年轻人出发之前，务必向家人或朋友报备行程，去哪、和谁去、什么时候回来——这三条信息至少让一位“不在场”的人知晓。不要被“一个人也能出发”之类的语言误导，不要独自进山或走陌生野路。同时，可提前购买户外运动保险，对自己和家人有一份责任和保障。&lt;/p&gt;&lt;p&gt;　　“年轻人往往有种‘不服输’的劲头，或抱着‘来都来了’的心态，但如果在户外运动过程中出现心慌、头晕恶心、腿脚发软，这是身体在发出‘叫停信号’，应立刻停下休息或及时返回。”裴林茹说。&lt;/p&gt;&lt;p&gt;　　（曾海萌、张鑫源参与采写）&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　记者手记&lt;/p&gt;&lt;p&gt;　　向外走  向内观&lt;/p&gt;&lt;p&gt;　　采访多位热爱户外运动的年轻人，我真切感受到，投身户外并非简单的休闲消遣，更是当代青年安放情绪、寻找自我的生活选择。爬山时身体疲惫，内心却得以舒展；翻过陡坡、登上顶峰，收获“我能行”的自我肯定。年轻人从屏幕前走向大自然，既释放了学业与职场带来的压力，又收获了独属于自己的快乐与成就感。&lt;/p&gt;&lt;p&gt;　　这股户外热潮，更折射出青年群体社交方式的转变。年轻人不再满足于网络空间里的虚拟互动，更看重面对面相处以及与自然的真实联结。抛开滤镜包装的碎片化图景，用脚步感知世界，在与好友结伴同行中收获情感共鸣。&lt;/p&gt;&lt;p&gt;　　热潮之下，风险亦如影随形。网红野线暗藏隐患，盲目跟风潜藏危机。亲近自然，更要敬畏自然。奔赴户外，既要怀揣对远方的热爱，也要把安全意识装进行囊。愿更多年轻人既能感受山野有风的美好，也守好安全底线，从容奔赴心中远方。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  易舒冉&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 登高望远、近郊徒步、城市骑行、轻装露营，越来越多的年轻人爱上户外运动—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180690&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180690.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180690.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 山野有风  青春向远（青年观察·解码青年文化风尚） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180690.html#[05版：新青年] 山野有风  青春向远（青年观察·解码青年文化风尚）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：新青年] 在实践中，看见更大的世界（青年观）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180691.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 在实践中，看见更大的世界（青年观） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							文  阳&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　手把手教老乡短视频剪辑技巧，打造乡村小学“会生长”的校园美育空间，在社区开展反诈宣传等志愿服务……刚刚过去的夏天，万千学子走出校园，在田间地头、社区街巷、工厂车间开展暑期社会实践。超越书本的方寸天地，踏入社会的广阔课堂，青年看见了更大的世界，也在实践中重新认识自己。&lt;/p&gt;&lt;p&gt;　　在基层一线，可以看见什么？&lt;/p&gt;&lt;p&gt;　　看见山河，也看见家国。青年的家国担当与理想信念，从来不是空洞的口号，而是在亲身体悟中愈发坚定的价值追求。新疆农业大学暑期社会实践团跋涉几千公里，将课堂设在国境线上，在广袤天地间读懂家国责任；北京多所高校学生重走红色旧址、追溯革命足迹，在红色文脉浸润中感悟初心使命……走过的路，让书本上的历史更加鲜活。年轻人在“行走的思政课”中读懂国情社情、厚植家国情怀，理想信念在心里扎根。&lt;/p&gt;&lt;p&gt;　　看见需求，也读懂学习的意义。读书治学，终究要回答“为何求学”的问题。青年成长成才，既离不开课堂理论的滋养，也需要社会实践的锤炼。深入基层、走近群众，才能看清真实需求，找准奋斗的价值坐标。&lt;/p&gt;&lt;p&gt;　　上海交通大学“AI赋能乡村振兴”实践团走进江苏省泰兴市新街镇，发现村里不少老人子女常年在外，想凑齐一张完整的全家福并不容易。实践团用AI为村民制作“心愿写真”——向往了一辈子北京的退伍老兵，终于在天安门前留下“合影”；腿脚不便的九旬老人重新“站了起来”，与儿子肩并肩定格笑容；金婚夫妇弥补了年轻时的遗憾，拥有了紫藤花海中的结婚照……一张张“人生照片”的背后，是一个个朴素的愿望。实践团团长、上海交通大学博士生赵晨媛说，看着老人们的笑容，她感到技术不再是屏幕上的新鲜事物，AI距离乡村生活并不遥远。当所学所长能够回应人民现实需要，知识便有了温度，努力也有了更清晰的方向。&lt;/p&gt;&lt;p&gt;　　看见真问题，也在解决真问题中练就真本领。基层不是一张平整的答卷，许多问题没有现成答案，需要青年将所学知识带到一线检验。&lt;/p&gt;&lt;p&gt;　　北京理工大学探索“地方出题、青年作答”机制，面向基层征集现实问题，通过实践“双选会”鼓励学生“揭榜挂帅”。“传统除草，一亩地要四个人干一整天，用我们的机器人，两小时就能完成！”在内蒙古赤峰市，“禾光智能”团队揭榜当地农业合作社的“真题”，将通信原理、机械设计等知识融入田间解决方案，机器人综合除草效率提升21.3%，方案被企业直接采纳。实践的真谛，在于青年成长与社会发展的双向奔赴——青年为乡村全面振兴、基层治理注入青春动能，基层这所“大课堂”也以复杂多样的真实课题锻造青年的实干能力。&lt;/p&gt;&lt;p&gt;　　当然，现实中依然有部分社会实践把下乡变成“到此一游”，匆匆走访、拍照打卡便结束；有的项目仅在暑期开展得轰轰烈烈，开学后调研成果便束之高阁。开展社会实践，应少一些“完成任务”的心态，多一些“解决问题”的主动，让实践更“实”。《教育发展“十五五”规划》提出，“在高校全面开设新时代实践教育课程和大学生社会实践专门课程”“促进思政课堂和社会课堂有效融合”。在真实场景中发现问题、在具体实践中寻找答案，青年更加读懂学以致用、知行合一的内涵，真正做到受教育、长才干、做贡献。&lt;/p&gt;&lt;p&gt;　　纸上得来终觉浅，绝知此事要躬行。那么，就到基层一线去，到群众身边去。愿更多青年在实践中拓宽视野、增长才干，让青春在扎根大地、服务人民的火热实践中绽放更加动人的光彩。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;文  阳&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180691&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180691.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180691.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 在实践中，看见更大的世界（青年观） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180691.html#[05版：新青年] 在实践中，看见更大的世界（青年观）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：新青年] 以热忱暖邻里（青春日记）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180692.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 以热忱暖邻里（青春日记） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							郭富强&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　10年前的冬天，我从安徽阜阳奔赴上海，成为一名外卖配送员。刚开始做众包，后来做专送。如今，我从一名普通骑手成长为淘宝闪购中原路站站长，也深刻体会到，我们不只是城市配送的奔跑者，更是基层治理的“青春合伙人”。&lt;/p&gt;&lt;p&gt;　　刚接手站点时，只有18名骑手，我第一次担任站长没经验，只能靠一股韧劲往前冲。每天早上7点到岗，夜里12点才能休息，派单、调度、协调纠纷、照顾骑手，什么都扛在身上。最难忘的是有一年春节，整个站点就我一个人值班。那天下着大雪，我从早跑到晚，连一口饭都没吃上，但只要把订单准时送到，我心里就特别踏实。&lt;/p&gt;&lt;p&gt;　　现在，站点已达到近150人的规模，队伍大了，就得考虑如何稳定发展。我紧盯站点出勤率、留存率、安全事故率等重要指标，针对新入职的骑手，坚持手把手传帮带，线上抓安全培训，线下演示车辆安检、餐箱消毒、接单流程等，把配送全程的风险要点讲透。我当过骑手，深知大家的辛苦与不易。日常相处中，我默默记下每位骑手的状态、性格和生活难处，遇事多帮扶，慢慢成了大家信赖的“郭哥”。&lt;/p&gt;&lt;p&gt;　　这些年，最让我暖心的是我们骑手被看见、被尊重。街道对我们十分关心，夏天“送清凉”，冬天“送温暖”，平时还组织暖“新”专场、微心愿认领等活动，送给我们的护膝、充电宝、防水手机袋等，都是用得上的实在东西。在街道的帮助下，我们也有了自己的组织，我有幸担任长海路街道外卖快递行业工会联合会工会主席。&lt;/p&gt;&lt;p&gt;　　作为一名90后站长，我身边有一批95后、00后的年轻骑手，大家朝气蓬勃、敢闯敢干，坚持文明骑行、规范配送，守护城市文明。如今，越来越多骑手加入各类志愿服务队，大家利用跑单间隙化身“移动探头”，看到井盖松动、路灯损坏等安全隐患，会随手拍、及时报；送餐遇到老人，会帮忙顺手扔掉垃圾，有时也会代买药品。不久前，我们的站点成为特色街区的“悦动合伙人”，我们也从“城市奔跑者”变成了“基层治理参与者”。&lt;/p&gt;&lt;p&gt;　　从独自跑单到凝聚队伍，再到带动青年服务社区，我在平凡的岗位上读懂了奋斗的意义。今年，我成为一名入党积极分子，在我的带动下，还有两名骑手也递交了入党申请书，积极向党组织靠拢。今后，我将继续坚守初心、笃行实干，带领团队为基层治理贡献力量，书写新就业群体的青春担当。&lt;/p&gt;&lt;p&gt;　　（作者为上海市杨浦区长海路街道淘宝闪购中原路站站长，杨昊、贾倩采访整理） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;郭富强&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180692&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180692.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180692.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 以热忱暖邻里（青春日记） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180692.html#[05版：新青年] 以热忱暖邻里（青春日记）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：新青年] 本版责编：杨  昊</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180693.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：杨  昊 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：张芳曼 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180693&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180693.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180693.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：杨  昊 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180693.html#[05版：新青年] 本版责编：杨  昊</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：广告] 武汉厚植开放创新生态  聚力建设区域科创中心</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180694.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 武汉厚植开放创新生态  聚力建设区域科创中心 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/fcdfba22-8e92-4c63-8f51-4b74e19219c5.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　大江奔涌，科创扬帆。&lt;/p&gt;&lt;p&gt;　　高水平建设武汉区域科技创新中心，为湖北“支点”建设打造强力引擎。作为中部超大城市，湖北省武汉市立足自身科教与产业优势，承担区域科创极核的职责，持续巩固在全国科技创新版图中的地位。&lt;/p&gt;&lt;p&gt;　　当前，武汉正加快构建“一城三廊多带”创新空间布局，深入实施激发产业创新活力的“锦鲤计划”，统筹推进科技创新、产业创新、金融创新、区域创新、开放创新、治理创新，充分释放创新“乘数效应”。&lt;/p&gt;&lt;p&gt;　　从实验室里的硬核技术突破，到老厂房蝶变而成的科创沃土，从存量空间的产业焕新，到跨域协同的开放格局，一幅以创新驱动高质量发展的壮阔画卷，正在江城大地徐徐铺展。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　向科研“无人区”掘进，锻造创新策源硬核力量&lt;/p&gt;&lt;p&gt;　　武汉大学卫星导航定位技术研究中心内，一枚指甲盖大小的器件静静陈列在展柜之中，这是全球体积最小的芯片原子钟，3万多年才会产生1秒误差。从原理突破到实现在轨应用，武汉大学团队跑完一场漫长的科研马拉松，实现微型时频器件国产化，为低轨卫星星座装上自主“守时心脏”。&lt;/p&gt;&lt;p&gt;　　这是武汉向着科研“无人区”掘进的缩影。&lt;/p&gt;&lt;p&gt;　　在今年全市科技创新大会上，武汉集中发布“365”重大科技创新成果，武汉大学“高精度染色体级别DNA复制工具”、华中科技大学“颅内生理信号无线监测超声传感器”、湖北江城实验室“面向大模型推理芯片的超高密度多晶圆集成技术”等15项基础研究成果实现多维度原始创新，推动相关领域实现国产替代、国际领跑。&lt;/p&gt;&lt;p&gt;　　41家全国重点实验室、8家湖北实验室、7个建成及在建重大科技基础设施错落布局，12家产业创新联合实验室聚合100余家产学研单位、近4000名科研人员，构筑起梯次完备的战略科技力量矩阵。&lt;/p&gt;&lt;p&gt;　　武汉体系化布局高能级创新载体，整合大科学装置、重点实验室与企业创新力量，重构创新要素组织方式，让基础研究有人攻坚、中试瓶颈有平台突破、产业转化有企业接力。&lt;/p&gt;&lt;p&gt;　　向存量空间挖潜，“一城三廊多带”重构创新场景&lt;/p&gt;&lt;p&gt;　　在洪山区广埠屯，一座改造后的老厂房内部灯火通明，人工智能初创团队正在调试新一代算法模型。&lt;/p&gt;&lt;p&gt;　　这里是武汉“锦鲤计划”首发项目广埠屯·锦鲤项目。项目将八成以上空间留给科创研发，搭建从创客工位到加速器的全周期载体体系。依托周边武汉大学、武汉理工大学等18所高校优势学科，项目重点布局新材料、人工智能两大赛道，现已储备师生创业、OPC（一人公司）以及各类科创项目100余个，一期将于今年10月开园。&lt;/p&gt;&lt;p&gt;　　从“大园区、大厂房、大征地”的传统路径回归盘活城市中心存量空间，打造开放街区，用城市活力滋养创新，武汉以“一城三廊多带”布局，在城市土地上结出创新果实。&lt;/p&gt;&lt;p&gt;　　武汉挖掘城市存量空间，现已优化低效科创空间147万平方米；环大学创新发展带串联近80家高校院所，集聚2.7万家科创企业，高校周边高新技术企业超4000家，校区、园区、社区彼此融通，打通从基础研究到产业应用的快速链路。&lt;/p&gt;&lt;p&gt;　　硚口区将老柴油机厂、床单厂改造为汉江湾人工智能产业园，新洲区利用废弃砖瓦厂建成昆虫蛋白循环经济科创基地，一批老旧厂房摇身变为概念验证中心、中试平台，专业化科创载体焕新生长。&lt;/p&gt;&lt;p&gt;　　物理空间的重塑，畅通了实验室与生产线之间的连接通道，源源不断的科研成果走出校园、进入车间，从一纸方案变成市场产品。&lt;/p&gt;&lt;p&gt;　　向中试环节发力，创新链与产业链双向共振&lt;/p&gt;&lt;p&gt;　　湖北九峰山实验室洁净中试车间内，8英寸晶圆缓缓从设备中送出。这枚高通量DNA测序芯片已完成全流程流片验证，作为跨界半导体与生命科学的“超级读码器”，将补齐国内基因测序上游传感芯片的关键短板。&lt;/p&gt;&lt;p&gt;　　作为集成电路领域唯一的国家级制造业中试平台，湖北九峰山实验室搭建起晶圆厂级验证环境，面向化合物半导体领域经营主体开放共享。&lt;/p&gt;&lt;p&gt;　　单点平台的突破，源自武汉体系化布局中试载体的持续发力。目前，全市已建成2家国家级制造业中试平台、40家省级制造业中试平台，市级备案中试平台达210家，覆盖光电子、新材料、生物医药、汽车装备等重点赛道，把中试熟化的能力铺到产业最前沿，降低广大科研团队与科技型中小企业、创新型中小企业的试错成本，为原始创新打通工程化落地的关键关口。&lt;/p&gt;&lt;p&gt;　　一条条创新走廊之上，创新链与产业链双向共振，成果转化的故事正在各处次第上演。&lt;/p&gt;&lt;p&gt;　　在光谷科技创新大走廊，中试平台承接化合物半导体、光通信前沿技术；在车谷产业创新大走廊，大军山成果转化中心搭建起车规级芯片、固态电池中试生产线；在滨江数创大走廊，老城片区也孕育出新的产业化增量。&lt;/p&gt;&lt;p&gt;　　基础研究、技术攻关、中试验证、产业落地的链条环环扣紧，超高速光模块、车载芯片、人形动作大模型、新型不锈钢化学品船……一项项“实验室构想”正被锻造为“大国重器”“市场产品”。&lt;/p&gt;&lt;p&gt;　　向内外全域借力，放大区域创新能级&lt;/p&gt;&lt;p&gt;　　9月4日，武汉东湖高新区与鄂州市正式签署协议，光谷泛半导体产业园建设正式启动。&lt;/p&gt;&lt;p&gt;　　一条清晰的产业链路在这里铺展开来：一颗芯片自葛店出发，20分钟直达光谷链主企业，1小时送上花湖国际机场货机，72小时即可送达《区域全面经济伙伴关系协定》（RCEP）成员国。&lt;/p&gt;&lt;p&gt;　　一组时间数据，勾勒出武汉开放创新的速度与广度。&lt;/p&gt;&lt;p&gt;　　高水平建设武汉区域科技创新中心，既要练好内功，也要敞开大门。武汉都市圈九市科技部门今年签署合作事项书，打造科创共同体，将单个城市的创新优势整合为区域整体竞争优势。这不只是物理空间的互通，更是人才、资本、技术、资源的双向奔涌。&lt;/p&gt;&lt;p&gt;　　开放创新，集聚人才势能。当下，武汉都市圈人才投身科创主战场，这方汇聚全球资源的强磁场，让人才愿意来、留得住。&lt;/p&gt;&lt;p&gt;　　金融创新，激活资本活水。今年，武汉环大学创新发展带天使投资联盟在武汉市洪山区揭牌，首期签约60亿元落地基金，形成“实验室输出技术+政府耐心资本前置+社会资本接续投入”的常态化开放创新模式。&lt;/p&gt;&lt;p&gt;　　区域创新，拓宽技术飞地。7座离岸科创飞地建成投用，231家创新主体实现“研发在汉、转化在外”。&lt;/p&gt;&lt;p&gt;　　治理创新，流转数据资源。“汉数通”平台汇聚千余项数据产品，覆盖交通、工业制造等多个赛道，公共数据赋能产业创新，产业实践反哺数据生态。&lt;/p&gt;&lt;p&gt;　　立足中部、联通全国、面向全球，武汉正全力打造具有全球竞争力的开放创新生态，向着高水平建设武汉区域科技创新中心的目标阔步前行。&lt;/p&gt;&lt;p&gt;　　数据来源：中共武汉市委宣传部&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180694&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180694.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180694.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 武汉厚植开放创新生态  聚力建设区域科创中心 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180694.html#[06版：广告] 武汉厚植开放创新生态  聚力建设区域科创中心</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：广告] 江西抚州  版权工作赋能民间文艺焕新彩</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180695.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 江西抚州  版权工作赋能民间文艺焕新彩 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/35f34cf3-deda-4d67-84b0-d8d5be071e44.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　一个活灵活现的蛋雕、一曲韵味悠长的唱段、一件精巧别致的银器……在江西省抚州市，丰富多彩的民间文艺既是地方文化的鲜活载体，也正成为文化产业发展的重要资源。&lt;/p&gt;&lt;p&gt;　　抚州素有“才子之乡、文化之邦”美誉，民间文艺资源丰富。近年来，作为全国首批民间文艺版权保护与促进试点城市，抚州大力推进民间文艺版权引领、创造、保护、促进“四大工程”，从摸清文化家底、强化版权保护，到培育传承人才、推动成果转化，让散落民间的传统技艺逐渐从文化资源变成发展资源。&lt;/p&gt;&lt;p&gt;　　截至目前，全市民间文艺版权登记量达2.4万件，傩面具、工艺陶瓷等版权文创产品年营收超10亿元，民间文艺保护传承和产业发展互促的良性循环正加速形成。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　健全工作链条，加强民间文化版权保护&lt;/p&gt;&lt;p&gt;　　确权，是版权保护的第一步。2023年，抚州开展首次民间文艺资源普查，确认木雕、剪纸、戏曲、傩舞等10大类别205项民间文艺项目。南丰傩面具、临川篾编、乐安蛋雕、资溪竹烙画……一个个散落民间的文化珍宝被重新发现、记录和整理。&lt;/p&gt;&lt;p&gt;　　为解决民间艺人版权意识不强、登记渠道不够便利等问题，抚州挂牌成立民间文艺版权保护服务站，推行“上门办、面对面办”等服务，并成立民间文艺版权保护与促进中心，逐步完善版权登记、保护、服务体系，版权登记量实现跨越式增长。&lt;/p&gt;&lt;p&gt;　　在文昌里历史文化街区，抚州市民间文艺版权博览馆成为集中展示民间文艺的重要窗口。博览馆展出1600余件民间文艺版权精品，集版权登记、作品维权、创作展示、教育传承、研究交流等功能于一体。通过集中展示，既让更多人看到抚州的民间文艺作品，也让民间艺人有了交流、学习的平台。版权博览馆现已累计接待中外游客超50万人次，成为城市文化新地标。&lt;/p&gt;&lt;p&gt;　　确权之后是维权。抚州不断完善民间文艺版权保护机制，制定民间文艺版权纠纷行政调解流程，由市中级人民法院牵头设立抚州市民间文艺版权司法保护站，并在临川、东乡、南城等区县挂牌成立知识产权巡回审判庭。&lt;/p&gt;&lt;p&gt;　　从资源普查到版权登记，再到司法保护，抚州逐步构建起覆盖民间文艺创作、登记、保护、维权的工作链条，让更多“老手艺”获得清晰的权利边界和更有力的保护。&lt;/p&gt;&lt;p&gt;　　建立培育机制，促进民间文艺传承创新&lt;/p&gt;&lt;p&gt;　　抚州采茶戏的群众基础比较好，受到百姓欢迎。旭东戏社是江西省、抚州市文联与江西省剧协重点帮扶的民营抚州采茶戏剧团。在各方支持下，戏社创作推出大型舞台剧目《梦回乡村》，由新一代抚州采茶戏市级传承人担纲主角。薪火相传，抚州采茶戏的传承有了年轻一代接棒。&lt;/p&gt;&lt;p&gt;　　在版权保护与开发的“保驾护航”下，接过衣钵的抚州采茶戏艺人也开始尝试创新表演形式，不仅表演传统剧目，还根据时代特色编创了不少新剧目，开设抖音号进行直播，很受年轻观众欢迎。&lt;/p&gt;&lt;p&gt;　　民间艺术“活”起来，关键在人。近年来，抚州着力挖掘民间文艺传承工匠，开展老艺人“传帮带”，通过专家培训、创作采风、竞赛评优，60余名德艺双馨的民间艺人脱颖而出，成为精品创作和文创开发的行家里手，其中33人设立工作室。近3年，全市新增市级民间文艺家协会会员280人、省级协会会员30人、国家级协会会员17人，全市各级民间文艺家协会会员总数超过400人。抚州依托本地院校设立技能大师工作室，构建“院校培育、大师传承”模式，累计培育各类技艺人才1万余人。&lt;/p&gt;&lt;p&gt;　　民间艺术的传承人是“手艺人”，更是“守艺人”。在临川区嵩湖乡下聂村，白浒窑陶瓷技艺非遗传承人工坊采用“传习所+基地”模式，由老艺人带徒传授拉坯、施釉等12道传统工序。20年来，工坊培养了183名村民，其中27人获评市级工艺师；传习所免费向留守儿童传授制瓷技艺，每年暑假约100名孩子参与。与此同时，非遗进校园、进社区、进景区、进乡村蔚然成风：抚州各中小学推广戏曲广播体操，宜黄组建宜黄戏传习所和禾杠舞兴趣班，乐安县将傩舞编成健身操在中小学推广……民间文艺传承教育正活跃在各个场合。&lt;/p&gt;&lt;p&gt;　　拓宽转化路径，推动民间文艺走向市场&lt;/p&gt;&lt;p&gt;　　点开“抚观天下”客户端的民间文艺版权板块，檀木手机挂件、木雕小葫芦、黎川油画等各类文创商品琳琅满目。抚州市通过上线民间文艺版权数字化交易平台打造“抚州民间文艺网上集市”，目前在售商品百余种、累计成交额超120万元；平台通过数字化资源库集中展示民间文艺作品，并运用数字水印、加密等方式加强版权保护。&lt;/p&gt;&lt;p&gt;　　民间文艺，先要被看见，方能被热爱。借助“版权+”赋能，抚州民间文艺不断拓展发展空间。今年5月，第二十二届中国（深圳）国际文化产业博览交易会上，江西（抚州）民间文艺版权展馆人气高涨，木雕、剪纸、傩面具、古琴、蛋雕等版权精品集中展出，近百件版权佳作搭配2000余件文创产品集中亮相，所有参展艺术品均配有版权登记证书，展会现场作品销售金额达30余万元。&lt;/p&gt;&lt;p&gt;　　更远的路，通向海外。在深耕本土技艺传习的同时，抚州民间文艺版权保护成果亮相2024中拉文明对话、2025年日本大阪世博会、2026民间文艺版权保护与促进国际研讨会、第十届中国国际版权博览会等国内外重要平台，让更多人看到抚州民间文艺的独特魅力，也展示了抚州民间文艺版权保护与促进的探索成果。&lt;/p&gt;&lt;p&gt;　　在抚州，大批民间文艺作品正实现从展品到商品、从单一作品开发向产业化发展的转变。抚州推动传统民间文艺与现代产业跨界融合：黎川油画画师牵手陶瓷企业，把油画艺术融入陶瓷设计；临川木雕、篾编等“老手艺”持续开发文创衍生品。目前全市已培育陶瓷、傩面具、木雕、油画、灯芯草等一批特色民间文艺产业，相关产业规模已近百亿元。&lt;/p&gt;&lt;p&gt;　　夜色中的文昌里，灯火可亲。博览馆里精品琳琅，傩面具的色彩在灯光下愈发明艳，戏社里响起悠扬的唱腔。让传统文化被看见、被保护、被传承，更让优秀作品走进市场、走向更广阔的舞台。如今，随着版权保护与促进体系不断完善，抚州正推动更多民间文艺资源加速释放发展新动能。&lt;/p&gt;&lt;p&gt;　　数据来源：中共抚州市委宣传部&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180695&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180695.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180695.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 江西抚州  版权工作赋能民间文艺焕新彩 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180695.html#[07版：广告] 江西抚州  版权工作赋能民间文艺焕新彩</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] “十送红军”的视觉回响（征程如画·红军长征故事）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180696.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “十送红军”的视觉回响（征程如画·红军长征故事） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							何红舟&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/27fe1d11-eec6-4453-a960-a4c57fa318e2.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　2019年，习近平总书记在“不忘初心、牢记使命”主题教育工作会议上强调：“前几天，我去了江西于都，参观中央红军长征出发地，目的是缅怀当年党中央和中央红军在苏区浴血奋战的峥嵘岁月，牢记红色政权是从哪里来的、新中国是怎么建立起来的，不忘历史、不忘初心。”&lt;/p&gt;&lt;p&gt;　　于都，是中央红军长征集结出发地，被人们称为“长征源”。1934年，第五次反“围剿”失败后，中央红军主力集结于都河畔，踏上战略转移的漫漫征程。为确保中央红军主力顺利转移，当地群众自发将家中的床板、门板拆下来送给红军以架浮桥，一位大爷还执意把给自己准备的“寿木”捐献出来。在30万于都人民的帮助下，中央红军主力星夜渡河，开启一场伟大征程。红军长征出发时军民依依惜别的历史瞬间，被写进歌曲《十送红军》唱遍中华大地，也成为新中国主题性美术创作历久弥新的经典画题。&lt;/p&gt;&lt;p&gt;　　在相关美术创作中，代表性作品有靳尚谊油画《送别》（见图）、施绍辰油画《依依亲人泪  茫茫赣水长》以及吴宪生中国画《十送红军》等。这些创作于不同历史时期的画作，虽聚焦同一主题，但因时代语境、创作理念和媒介特性不同，赋予这一感人故事多元艺术表达，丰富并深化着人们对历史的认知和理解。&lt;/p&gt;&lt;p&gt;　　长征是一次开创新局的伟大远征，“艰难中蕴含希望”正是靳尚谊于1959年创作的油画《送别》所极力传达的。他立足真实历史情境，充分发挥油画语言优势，采用情节化的叙事手法，定格红军与于都父老乡亲告别的瞬间。画面上，微露的晨光既还原河畔拂晓的清冷氛围，又暗含革命光明的未来。晨光之下，红军战士肩扛长枪朝着于都河行进，枪杆倾斜的动势，烘托出行军的急促感，也点明队伍前行的方向。前景处，画家精心设计多组人物形象来强化情感表达：有母送子，有妻送夫，还有受伤战士挥手告别即将远征的战友……画家通过鲜活的人物情态刻画，把军民同心之谊转化为直观可感的动人故事，让具象的视觉叙事承载起厚重的时代情感。这种以人物情节带动历史叙事的方式，成为新中国早期红色主题美术创作的重要路径。&lt;/p&gt;&lt;p&gt;　　同样聚焦离别情思，时隔20余年，在江西工作、生活多年的施绍辰完成油画《依依亲人泪  茫茫赣水长》。他以双联画形式，构建出军民离别时相望的情感空间：左联刻画为红军送行的于都百姓，右联塑造整装待发的红军将士。前景中的百姓与将士，更像是一家人——妻子与丈夫、母亲与儿子，他们两两相望，深沉地传递出军民难分难舍之情。画面后方，百姓与红军战士或相互凝望，或直视画外，与观者形成情感交流。人物视线的多重交织，正是画家独具匠心的巧思。画作没有情节性叙事，却将人物内心的期盼、牵挂与嘱托以眼神传递给今天的观者。伫立画前，我们不再仅仅是旁观一段过往，更是在承接历史投来的目光，并展开一场跨越时空的精神对话。&lt;/p&gt;&lt;p&gt;　　时光荏苒，“十送红军”这一经典画题，在一代代美术工作者笔下不断获得新的艺术生命。纪念红军长征胜利80周年之际，吴宪生创作的中国画《十送红军》，不再捕捉离别时刻的某一片段，而是以长卷叙事的方式描绘军民惜别、长征出发的场景，呈现出革命浪漫主义基调。房东老大娘与红军首长告别，赤卫队员安抚受伤留下的战士，小女孩手捧热茶送行，红军战士运输辎重、挥师启程……画面中的人物相互顾盼，情绪层层递进。前行队伍中翻卷的红旗更象征着革命必胜的信念。在这件作品里，中国画的材料特质及其叙事方式，可以说直接影响了画家对于表现形式的选择，让同一历史题材产生不一样的艺术面貌。&lt;/p&gt;&lt;p&gt;　　从纪实性描绘到跨时空对话，再到长卷叙事，这些经典作品既留存下红军长征出发的集体记忆，也为新时代主题性美术创作带来启示：既要筑牢历史根基，敬畏历史真实；也要做好叙事转化，将宏大叙事落回到人的情感与命运之上，用可视可感的艺术语言，搭建起红色历史与普通大众对话的桥梁，让红色记忆看得见、能共情、易传播。&lt;/p&gt;&lt;p&gt;　　艺术图像是人们触摸历史、感悟精神的一把钥匙。纪念红军长征胜利90周年之际，重读这些经典作品，既可在回望来时路中感悟伟大长征精神，也能够从中汲取奋进力量，走好新的长征路。&lt;/p&gt;&lt;p&gt;　　（作者为中国美术家协会国家重大题材美术创作艺术委员会委员）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;何红舟&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180696&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180696.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180696.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “十送红军”的视觉回响（征程如画·红军长征故事） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180696.html#[08版：副刊] “十送红军”的视觉回响（征程如画·红军长征故事）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 一场“艺术长征”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180697.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一场“艺术长征” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							刘欲晓&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/13/0b0be5f8-1389-43d7-ae97-c657bc71e9fe.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　沈尧伊水粉画《延安宝塔山》。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/0b0be5f8-1389-43d7-ae97-c657bc71e9fe.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　在长征题材美术创作中，沈尧伊先生着力尤多、尤为持久。正在国家大剧院艺术馆举办的“红飘带之行——沈尧伊长征路写生作品展”，甄选近200幅水粉、丙烯、油画等类别作品，其中包含首度对外公开的沈尧伊1975年、1977年两次重走长征路期间完成的写生原稿，系统呈现了其历时50余年深耕长征题材的创作脉络，为观者打开一扇阅读历史之窗。&lt;/p&gt;&lt;p&gt;　　艺术的真实，根植于不懈的寻访；历史的厚重，源自现场的体悟。特别是对于红色题材美术创作而言，其打动人心的力量，更多源于创作者在触摸历史本真基础上的艺术提炼与精神升华。回望20世纪七八十年代，部分长征题材美术创作多依托文献推演或借鉴影视画面，难以完全呈现长征的艰险壮阔与蕴藏其中的精神伟力。在中央美术学院求学期间，沈尧伊便谨记导师李桦先生的谆谆教诲——“要画你眼睛里看到的”，确立了“无踏勘不落笔、无史实不创作”的创作准则。他始终坚信，历史绘画一旦脱离现场，便会失去灵魂与温度。由此，他摒弃套路化叙事与主观虚构，坚持以实地考据支撑每一处笔墨细节。&lt;/p&gt;&lt;p&gt;　　深知影像叙事的缺失可能造成红色记忆的弱化与断裂，沈尧伊以高度的艺术自觉，将补全长征视觉谱系、还原真实革命图景立为毕生使命。为追寻真实历史现场，青年时期的他毅然走出画室，奔赴万里长征路。1975年，他从赣南红色原点启程，沿红军行军轨迹一路北上，历时3个月跋山涉水，寻访亲历者、记录沿途风貌。1977年，他再度重走长征路，查漏补缺、完善素材，以质朴的素描、水粉忠实描绘泸定铁索、雪山草地、雄关古道等，捕捉真切的历史细节，定格大量无可复刻的现场图景。&lt;/p&gt;&lt;p&gt;　　此次展出的百余幅水粉写生尤为引人关注，这批尘封了约半个世纪的作品，如今首度铺展于观众面前，给人带来审美与情感双重震撼。为便于在长途跋涉中携带，这批作品皆为小幅，但见万千气象。作品色彩明丽、冷暖相彰，笔触挥洒自如、气韵生动，尽显画家娴熟驾驭外光写生的深厚功力。晨光中的红土瑞金、暮色里的娄山雄关、怒涛翻涌的金沙江等，皆于尺幅之间凝练成光影流动、色韵和鸣的视觉交响诗。历经数十年山河巨变，诸多当年写生记录的旧址早已风貌不复。这批写生作品，由此超越普通习作范畴，成为珍贵的视觉资料，有效填补了长征历史影像稀缺的空白。&lt;/p&gt;&lt;p&gt;　　依托扎实的现场踏勘与海量写生积累，沈尧伊数十年来潜心耕耘、层层拓维，先后创作出《革命理想高于天》《而今迈步从头越》《遵义会议》《瓦窑堡会议》等诸多经典油画，并完成大型连环画《地球的红飘带》，逐步构建起体系完备、脉络贯通、叙事立体的长征主题图像谱系。&lt;/p&gt;&lt;p&gt;　　纵观沈尧伊革命题材美术创作，存在着两条交相辉映的艺术路径：其一如作品《飞夺泸定桥》《血战湘江》般，以凝重笔调正面刻画战斗场景，人物凛然、气势磅礴；其二则是将长征队伍化入天地之间，如其最新完成的《疾进腊子山》《张家界的红军路》《翻越雪山》等6幅油画，人物与山河融为一体，个体与永恒相互映照——这种浪漫主义的艺术手法，或许更贴近画家精神世界的底色：人在天地间行走，精神在历史中镌刻，最终都化为山河间永不磨灭的印记。&lt;/p&gt;&lt;p&gt;　　“一个人如果能把一件事情做好就不错了，我做这件事情就是希望为长征留下影像史。”这是沈尧伊对自己艺术征程的回答。他以半生步履践行艺术初心，以考古式考据精神深耕红色叙事，不仅完成了属于自己的一场“艺术长征”，更为后人留下一笔宝贵的精神财富。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;刘欲晓&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180697&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180697.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180697.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一场“艺术长征” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180697.html#[08版：副刊] 一场“艺术长征”</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 用青春之笔勾画未来</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180698.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 用青春之笔勾画未来 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							李垚辰&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/13/f0c8aac8-a291-477c-aafc-94b1ca293278.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　李思思漆画《风帆竞航》。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/f0c8aac8-a291-477c-aafc-94b1ca293278.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　近年来，青年美术创作人才培养是业界讨论颇多的话题。近日，“绽放——第三届全国大学生美术作品展览（进京展）”在中央美术学院美术馆和今日美术馆同时展出，从8个分展区参展作品中遴选出的400余件展品，涵盖中国画、油画、雕塑、数字艺术、实验艺术等，成为观察当代青年美术创作与高等美术教育发展的重要切口。&lt;/p&gt;&lt;p&gt;　　大学生是宝贵的人才资源，激发其创作潜能和创新活力是全国大学生美术作品展览举办的初衷。从2017年首届4个美术门类参展到本届21个美术门类参展，全国大学生美术作品展览不断创新机制，已发展成为连接校园与社会、促进高等美术教育交流互鉴的艺术窗口，以及青年艺术家迈向专业领域的关键平台。&lt;/p&gt;&lt;p&gt;　　透过展览，可以看到大学生的创作视野从对个体的关注转向更广阔的空间。他们从自身对时代的感受出发，用艺术表达着对社会发展与个体成长的思考。许多作品聚焦当代智能生活、青年返乡创业、大国工程建设等主题，从不同视角描绘时代精神风貌。一些环境艺术设计和工业设计作品，则以大胆的设计想象回应现实需求。尤令人欣慰的是，不少作品将中华美学精神融入当代艺术语言，展现出强烈的文化自信。&lt;/p&gt;&lt;p&gt;　　朝气是青春最鲜明的标识，在大学生美术创作中则体现为活跃的艺术思维。一方面，创作者在艺术语言上大胆探索，比如充分挖掘陶瓷、金属、大漆、纤维等材质美感，拓展审美新境；另一方面，充分利用数字技术等辅助手段，探索新的视觉形式和跨媒介表达方式。丰富的实践使作品呈现多元面貌，也为艺术创作打开更多空间。&lt;/p&gt;&lt;p&gt;　　在注重个人探索、拥抱新技术的同时，一些问题也值得关注和研判：一是制作化倾向明显。当下，图像资源和技术手段丰富，为创作带来便利，很多青年创作者过于依赖图像资源而忽视对内容与形式相统一的深入思考，导致作品虽技巧娴熟、形式完整、图式唯美，却表达苍白。二是艺术转化能力不足。一些创作者未能准确把握继承与创新的关系。继承不是对前辈的因因相袭，而是在深研其艺术精髓基础上，创新形成自己的艺术语言。产生这些问题的根源，主要在于创作者深入生活不够、对创作对象认识不足、研究艺术本体不深，未能将真情实感以恰当的艺术语言表达出来，这也是高等美术教育需要深思的课题。&lt;/p&gt;&lt;p&gt;　　回顾中国绘画史，很多美术经典出自画家的青年时期，远的如宋代王希孟中国画《千里江山图》，近的如詹建俊油画《狼牙山五壮士》等。这些经典的产生，皆源于创作者对现实生活的认真体察和对艺术本体的深刻研究。艺术终究是情感的表达，而不是技巧的比拼。技术不能替代情感，视觉真实也不等于艺术真实，青年创作者应该勇于迈向广阔天地，在真实行走中捕捉触动心灵的图景，在心眼手联动中完成拥有个人风格的艺术创造。期望广大艺术学子以此展为镜，立足时代生活、立足艺术本体，踏实耕耘、大胆创新，用青春之笔勾画未来。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;李垚辰&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180698&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180698.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180698.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 用青春之笔勾画未来 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180698.html#[08版：副刊] 用青春之笔勾画未来</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 烟峦入卷  秋色入怀（读画）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180699.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 烟峦入卷  秋色入怀（读画） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							尹  丹&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/8642ea7e-26a2-43c9-b6ea-e945431f2be5.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/13/2b76c5bd-93fc-4e91-adb6-db0d59279285.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　扫描二维码，观看相关视频。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/2b76c5bd-93fc-4e91-adb6-db0d59279285.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　草木凝珠，秋意渐浓。中国人喜欢将秋写入诗文、绘于纸素，在于它体现着丰饶与萧瑟同在、喜悦与感怀交织，元代赵孟頫名作《鹊华秋色图》（局部见图）便传递出这样的意蕴。&lt;/p&gt;&lt;p&gt;　　此画作于元贞元年（1295年），主流观点认为是赵孟頫为慰藉友人周密思乡之情即兴而作。周密祖籍为山东济南，因种种缘由他一生从未踏足故土，乡愁始终萦绕心间。赵孟頫曾任职济南，他凭记忆在画中描绘出鹊山、华不注山及周边水泽之景。多重情感交织，让画中秋意更多了几分韵味。&lt;/p&gt;&lt;p&gt;　　从艺术角度而言，《鹊华秋色图》无疑是“复古开新”及“以书入画”的典范，对文人画创作有着深远影响。作为元代画坛领袖，赵孟頫对“复古”和“书画同源”的追求，与他认定的文化使命相关。他师法晋唐，提倡使用书法之笔来表现物象，是希望以此来改善南宋以来绘画、书法的颓靡之势，“石如飞白木如籀，写竹还于八法通”也成为后世文人画家的创作准则。在《鹊华秋色图》中，赵孟頫用花青杂以石青来描绘左侧鹊山、右侧华不注山，力图再现唐代青绿山水的高古之风，又以少许朱砂、赭石、藤黄等色来画树木房屋，营造出盎然秋意。用笔上，赵孟頫大量使用披麻皴来描绘鹊山及低矮坡岸，用荷叶皴和解索皴来表现华不注山嶙峋之姿，用篆籀笔法刻画树木，尤其是画面中部那几株老树，既见书法的凝练沉着，又得树木的苍润古朴。此画与赵孟頫《秀石疏林图》等作品成为“以书入画”的里程碑之作，深刻影响着中国画的品评标准，不断丰盈着中国画的美学表达。&lt;/p&gt;&lt;p&gt;　　《鹊华秋色图》看似信手拈来，实则画面空间关系营造暗含深意。这是一幅体现平远法的典型作品。徐徐打开画卷，先看到高耸的华不注山，随后是水泊树丛和烟岚环绕的房屋、羊群，最后是圆润浑朴的鹊山。一片辽阔水域，配上红叶青山，让人心旷神怡。从构图上讲，这种横向展开的平远之景遵循着清晰的三段式结构——华不注山、坡岸汀渚、鹊山，但赵孟頫又不断使用破墨法营造烟雨迷蒙之感，使三段式构图更显和谐。此种通过分段来营造空间感的方法可以追溯到更早。五代宋初，山水画营造空间感的普遍模式是将前、中、远景安排在三层分离而平行的纵向平面上，较具代表性的有董源《寒林重汀图》、范宽《溪山行旅图》。《鹊华秋色图》虽是横向三段式构图，但营造空间感的方式无疑与它们是相似的。&lt;/p&gt;&lt;p&gt;　　著名艺术史家方闻曾认为此作代表着新的空间表达方式：地面连续向后延伸，空间具体可测，从而再现出较前代更为真实的空间纵深感。然而，《鹊华秋色图》的空间营造并不全都“真实”，画面中还有诸多不合常理的大小比例。比较夸张的是画面中部坡岸右侧的船夫太过渺小，甚至比远处的山羊还要小很多，与之相比其身边的树木与坡岸显得太过巨大。其缘由何在？或许，这种失真正是赵孟頫有意向晋唐时期山水画中的稚拙感致敬。&lt;/p&gt;&lt;p&gt;　　一卷秋色，万千情思。身处历史洪流中的赵孟頫，将自然之景、文人情怀和自身心境全都藏进这卷山水之中，给后世留下诸多想象。&lt;/p&gt;&lt;p&gt;　　（作者为四川美术学院教授） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;尹  丹&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180699&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180699.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180699.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 烟峦入卷  秋色入怀（读画） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180699.html#[08版：副刊] 烟峦入卷  秋色入怀（读画）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180700.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/13/9e9fe26f-31b4-4d22-af1e-c9765500c4d0.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　金秋太行色正浓（中国画） &lt;/p&gt;&lt;p&gt;　　徐卫国 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180700&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180700.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180700.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180700.html#[08版：副刊] 图片报道</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 把创造美的能力留在乡村（艺坛走笔）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180701.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 把创造美的能力留在乡村（艺坛走笔） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							田  雪&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　在湖北省大悟县熊畈村，一所闲置的乡村小学经中国农业大学美育团队改造，变身为融美术教学、陶艺体验等功能于一体的工作室，成了村民乐于驻留的“文化客厅”。近年来，这样的实践并不鲜见，它们共同折射出艺术乡建正从“送美下乡”转向“育美于乡”。&lt;/p&gt;&lt;p&gt;　　从开展墙绘到举办艺术节，从乡村建筑改造到创建村史馆，越来越多美术工作者用艺术助力乡村全面振兴。这些多元探索既为乡村发展带来新机遇，也存在一些不足：有的重视觉美化、轻内在赋能；有的重公共空间落成、轻持续发展运营；有的套用网红模板，使艺术未能真正激发当地活力。这些问题令人深思：艺术赋美乡村，应当为乡村留下什么？&lt;/p&gt;&lt;p&gt;　　艺术乡建不仅要塑形，更要铸魂，“人的建设”是重点。这意味着要让美的创造与乡村社会结构、生产生活方式、礼俗文化等深度连接，以提升村民的审美力和创造力，强化他们对家园的归属感和文化认同感。比如在熊畈村，美育团队常年驻村深耕，调查村史，与村民一起策划展览、提升村容村貌，让村民在实际参与中形成审美判断。在浙江省宁海县葛家村，艺术团队引导村民自己动手设计文创产品、共享空间，使村民成为带不走的“乡建艺术家”。这些实践推动着村民从旁观者变为参与者，使其能够主动发挥自己的力量去建设美好家园。&lt;/p&gt;&lt;p&gt;　　只有唤醒村民自身的审美力与创造力，乡村价值的重塑才有坚实根基。当然，乡村价值重塑并非单一维度的美育行动，而要扎根本土文脉，融入乡村产业发展、文化传承、生态保护等全链条。如今，越来越多的实践者以更广阔的视野推行“农艺共融”，让艺术深度嵌入乡村日常生产生活。多年的探索沉淀，不仅为艺术如何更好赋美乡村积累了鲜活的田野经验，也推动学界对乡村艺术从何而来、由谁创造、怎样回应当代转型等问题展开理论建构。&lt;/p&gt;&lt;p&gt;　　从实践转型到理论探索，一个清晰的事实是，艺术赋美乡村不是表面美化而是深度激活，要把创造美的能力留在乡村。谁在创造、谁能受益、谁来延续？艺术乡建回答好这些问题，才能激发乡村内生动力。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;田  雪&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180701&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180701.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180701.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 把创造美的能力留在乡村（艺坛走笔） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180701.html#[08版：副刊] 把创造美的能力留在乡村（艺坛走笔）</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 本版责编  吴艳丽  马苏薇</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180702.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编  吴艳丽  马苏薇 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月13日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本版邮箱  msfk@peopledaily.cn &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-13 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30180702&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180702.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/13/content_30180702.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编  吴艳丽  马苏薇 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/13/content_30180702.html#[08版：副刊] 本版责编  吴艳丽  马苏薇</guid>
+      <pubDate>Sun, 13 Sep 2026 08:04:03 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
