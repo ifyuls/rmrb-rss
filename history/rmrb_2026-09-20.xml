@@ -1,0 +1,1002 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 19 Sep 2026 00:25:49 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 绿水青山、冰天雪地都是金山银山</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181971.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 绿水青山、冰天雪地都是金山银山 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——黑龙江省漠河市深入践行“两山”理念透视 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  崔  佳  祝大伟  戴林峰&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“绿水青山是金山银山，黑龙江的冰天雪地也是金山银山。”&lt;/p&gt;&lt;p&gt;　　——习近平  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　“家住大兴安岭林区，夏天满眼绿水青山，冬天到处冰天雪地。可是，多少年来，我们漠河人谁都没想过把绿水青山、冰天雪地结合起来。”黑龙江省大兴安岭地区漠河市北极村村民史瑞娟感慨，“是习近平总书记10年前的一席话，点醒了漠河人。”&lt;/p&gt;&lt;p&gt;　　“绿水青山是金山银山，黑龙江的冰天雪地也是金山银山。”2016年3月，习近平总书记在参加十二届全国人大四次会议黑龙江代表团审议时一语中的。&lt;/p&gt;&lt;p&gt;　　总书记的话让漠河人深思，越想越觉得醍醐灌顶：过去习惯于将绿水青山和冰天雪地分开讲，而把两者结合起来，实现有机统一，区位劣势竟成发展优势！&lt;/p&gt;&lt;p&gt;　　北纬53度，漠河位于祖国版图的“金鸡之冠”，是我国纬度最高的地方。&lt;/p&gt;&lt;p&gt;　　零下53摄氏度，漠河冬季气温创下我国有气象记录以来的最低温度极值。&lt;/p&gt;&lt;p&gt;　　克服极北、极寒挑战，漠河以新思想激扬新思路，以新思路牵引新发展。&lt;/p&gt;&lt;p&gt;　　走进北极村，一座巨型指北针雕塑迎面矗立。这是地理坐标，也标记了新时代奋斗者的人生坐标。北极村党支部与联建共建的驻地新兴领域党组织有49名党员，其中，外来创业者13名，返乡创业者7名。&lt;/p&gt;&lt;p&gt;　　新老北极村人扎根最北最冷的这片创业热土，让曾经“因北而困”的边陲小村“因北而兴”。2025年，北极村接待游客272.88万人次，实现旅游花费25.65亿元。今年7月，党中央授予北极村党支部“全国先进基层党组织”称号。&lt;/p&gt;&lt;p&gt;　　2023年9月6日，习近平总书记在漠河考察期间走进史瑞娟家的民宿小院。“发展旅游业是推动高质量发展的重要着力点。把大兴安岭森林护好，旅游业才有吸引力。”总书记寄望殷切。&lt;/p&gt;&lt;p&gt;　　真理之光照亮发展之路。漠河人校准思想坐标、找准行动坐标、瞄准发展坐标，绿水青山、冰天雪地交相辉映，金山银山可感可见、可触可及。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　校准思想坐标&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　无论析困境之因，还是求振兴之道，都要从思想、思路层面破题&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　返乡创业15年，史瑞娟开办了3家民宿，店名朴实无华又饱含深意，她的小女儿扬手一指门前招牌，稚嫩童声念得朗朗上口，“绿水阁、清山居、雪人木屋”。&lt;/p&gt;&lt;p&gt;　　“顾名思义，我家民宿就是‘两山’理念落地生根的小小注脚。”史瑞娟忆起往事，“同样是‘掘金’，过去凿山采矿、伐木淘金，如今林下生金、冰雪生金。”&lt;/p&gt;&lt;p&gt;　　步入村史馆，“千里黑龙江金镶边”的盛景跃然眼前。北极村因掘金而兴，清末在此设立运金驿站，寒来暑往，车水马龙。上世纪末，漠河跻身全国黄金年产量“万两县”，粗放式开采也给山林留下疮疤，砂石成堆、污水直排。大兴安岭可采成过熟林蓄积量，由上世纪60年代开发初期的4.6亿立方米锐减至2008年的0.21亿立方米。&lt;/p&gt;&lt;p&gt;　　靠山吃山岂是坐吃山空？大兴安岭地区痛定思痛，2005年全面禁止持续百年的砂金开采，2014年全面停止持续半个世纪的天然林商业性采伐。&lt;/p&gt;&lt;p&gt;　　不挖矿、不砍树，日子咋过？“不少乡亲外出打工。”史瑞娟18岁辞别父母，南下山东青岛一家外企当学徒。&lt;/p&gt;&lt;p&gt;　　漠河一隅折射东北一域，全国首批12个资源枯竭城市，东北地区占6个。&lt;/p&gt;&lt;p&gt;　　东北发展，无论析困境之因，还是求振兴之道，都要从思想、思路层面破题。&lt;/p&gt;&lt;p&gt;　　进入新时代，新发展理念像小树苗一样，慢慢在漠河的土地上扎下根。&lt;/p&gt;&lt;p&gt;　　“经济发展不是耗尽资源‘竭泽而渔’，生态保护也不能贫守青山‘缘木求鱼’。”北极村党支部书记高威一度急在心里。&lt;/p&gt;&lt;p&gt;　　咋让乡亲们在家门口端稳就业饭碗？村两委下决心转型搞旅游，大兴安岭技师学院送课下乡，为村民量身定制旅游管理专业两年制函授班。&lt;/p&gt;&lt;p&gt;　　那时已是预备党员的史瑞娟，报名成为首批20名学员之一，还把老宅改造成家庭旅馆。&lt;/p&gt;&lt;p&gt;　　“思想认识转变不是一蹴而就的。”史瑞娟的旅馆开办之初不温不火，客流扎堆在暑期，漫长的冬季冷冷清清。&lt;/p&gt;&lt;p&gt;　　天寒地冻不能干熬苦等，发展突围要靠思想破冰。&lt;/p&gt;&lt;p&gt;　　“绿水青山是金山银山，黑龙江的冰天雪地也是金山银山。”10年前的那个春天，习近平总书记这句话，让史瑞娟迎来了事业发展的春天。&lt;/p&gt;&lt;p&gt;　　“早些年，哪敢主动提漠河的冷？生怕极寒天气吓退游客！”史瑞娟在党支部党员大会上自我剖析，“心里把冰天雪地当包袱，眼里便看不见金山银山。”&lt;/p&gt;&lt;p&gt;　　“反反复复琢磨总书记的话，脑袋里的思想坚冰逐渐融化了。”史瑞娟冒着严寒走出家门，举起手机做直播，既拍莽莽雪岭冰峰，也拍自家的冻梨冻柿子，向网友们发出诚挚邀请，很多网友被吸引而来。&lt;/p&gt;&lt;p&gt;　　蹚出新路子，带动一大片，越来越多村民像史瑞娟一样打拼。2017年，北极村景区门票收入达1880万元，同比增加80%。&lt;/p&gt;&lt;p&gt;　　唤醒沉睡的“冷资源”，漠河北极滑雪场自2017年起连续3年成为全国最早开滑的滑雪场。&lt;/p&gt;&lt;p&gt;　　从“怕冷”到“盼冷”，思路一变天地宽，漠河的冬天不再落寞。2020年，北极村建成2.2万平方米的寒地测试基地。2025—2026冰雪季，75家车企、2400多名技术人员入驻漠河，北汽福田汽车工程师林志强是其中之一。&lt;/p&gt;&lt;p&gt;　　“冬天来了，我就像候鸟一样‘飞’到北极村旅居。”林志强连续3年赴漠河试车，经常在北极红色驿站参加主题党日。在驿站，游客中打卡留念的党员累计逾5.9万人。&lt;/p&gt;&lt;p&gt;　　3年前的金秋，习近平总书记在北极村考察时强调，“森林是集水库、粮库、钱库、碳库于一身的大宝库。要树立增绿就是增优势、护林就是护财富的理念”，为漠河发展进一步指明方向。&lt;/p&gt;&lt;p&gt;　　山深秋来早，一簇簇蓝莓凝霜挂枝。成熟的果实咋不摘？“霜打的果子比蜜甜。”史瑞娟递给记者一颗，蓝莓入口甘甜冰爽。&lt;/p&gt;&lt;p&gt;　　大兴安岭的野生蓝莓储量占全国的90%、世界的30%。鲜果论斤卖价格低，咋提高附加值？漠河市引进企业建成北极冰蓝莓酒庄，以霜冻野生蓝莓酿制冰酒，去年摘得布鲁塞尔国际葡萄酒大奖赛金奖。&lt;/p&gt;&lt;p&gt;　　“绿水青山孕育蓝莓，冰天雪地酿成琼浆。”史瑞娟不仅代销冰酒，自家晾晒的蓝莓干、手工熬制的蓝莓酱也颇受游客青睐。&lt;/p&gt;&lt;p&gt;　　从孤立看到统筹抓，漠河牢牢把握资源优势，全市蓝莓产业综合产值去年达4.5亿元，人工繁育蓝莓逾40万株。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　找准行动坐标&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　像保护生态环境一样保护营商环境，让创业者如鸟儿一样愿意飞来“筑巢”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　窗外，鸳鸯戏水碧波漾；屋内，旋律悠扬歌连歌。&lt;/p&gt;&lt;p&gt;　　8月下旬，北极村拾叶知悠民宿音乐会迎来多对新婚夫妇，他们从山西、辽宁等地远道而来，在第三届“北极之恋”集体婚礼上喜结连理。北极村打造“一北字，一辈子”文旅IP，今年以来已有32对外地游客在“最北婚姻登记处”领证，是2024年的两倍。&lt;/p&gt;&lt;p&gt;　　生态好不好，鸟儿最知道。北极村不仅吸引鸳鸯等180多种野生候鸟落脚栖息，还汇聚了200余名外地创业就业者。拾叶知悠民宿负责人邱小允、邱晓旭两口子，便是从福建“南雁北飞”的新村民。从2017年赴漠河度蜜月到如今定居北极村，他们累计投资1000余万元打造民宿综合体。&lt;/p&gt;&lt;p&gt;　　邱小允是酷爱旅行的背包客，30岁前走过31个省份。向往说走就走的自由生活，咋选择在边疆北陲驻足扎根？&lt;/p&gt;&lt;p&gt;　　“最美的风景是人！”邱小允脱口而出，漠河虽冷，人心很暖。初来时，她徒步进山捡拾树杈做手工，途中与一名老乡擦肩而过。尽管素不相识，对方仍折返近1公里追回来，嘱咐树杈上的野果可能有毒，千万别吃。&lt;/p&gt;&lt;p&gt;　　北极村的暖，焐热了两颗年轻的心，小两口一拍即合，在村里租下一座老屋，改造成青年旅舍，两年赚了40万元。眼见生意日渐红火，邱小允拿出积蓄进一步装修升级。&lt;/p&gt;&lt;p&gt;　　不承想，意外突如其来，心血付之一炬。2019年5月11日凌晨2点，电线短路燃起熊熊大火，熟睡中的邱小允、邱晓旭被浓烟呛醒时，400多平方米的老屋已陷入火海，所幸二人及时逃离。&lt;/p&gt;&lt;p&gt;　　5月的北极村乍暖还寒，闻讯赶到的乡亲们为他们披上厚棉衣。站在废墟前，邱小允欲哭无泪，待在原地。凌晨5点，天蒙蒙亮，一位身着迷彩服的长者风尘仆仆赶来，迎面第一句话是：“姑娘，还认得我吗？你可能忘记了，我之前来过。”&lt;/p&gt;&lt;p&gt;　　邱小允有点蒙，经村干部提醒才意识到，站在面前的是时任漠河市市长，他正巧下乡调研，前一晚夜宿北极村。&lt;/p&gt;&lt;p&gt;　　这份“我虽不认得你，却被牵肠挂肚”的温暖，让刚经历了火灾的邱小允百感交集。&lt;/p&gt;&lt;p&gt;　　无事不打搅，有难一起扛。事发当天，时任漠河市委书记等也于清晨6点多驱车抵达现场。&lt;/p&gt;&lt;p&gt;　　面对一片废墟，邱小允打过退堂鼓，但面对各界爱心人士送来的捐款，面对北极村派出所民警主动上门帮忙清理废墟……邱小允逐渐重拾信心，民宿当年12月即恢复营业。&lt;/p&gt;&lt;p&gt;　　民宿浴火重生，旺季一房难求，邱小允想扩大规模，却在选址时犯了难，市里干部驾车载着小两口四处勘址。2024年，1.7万平方米的拾叶知悠民宿综合体建成投用。近3年来，北极村新增民宿（宾馆）130余家、床位2600余张。&lt;/p&gt;&lt;p&gt;　　“为什么说绿水青山就是金山银山？‘鱼逐水草而居，鸟择良木而栖。’”习近平总书记深刻指出。&lt;/p&gt;&lt;p&gt;　　“像保护生态环境一样保护营商环境，让创业者如鸟儿一样愿意飞来‘筑巢’。”大兴安岭地委委员、漠河市委书记金广丹介绍，漠河市将营商环境监测纳入领导责任、工作推进、督导检查、考核评价“四个体系”工作机制，去年“听劝”落实经营主体各项建议142件。&lt;/p&gt;&lt;p&gt;　　“今年是我来漠河创业的第十个年头，历经3任市委书记，他们一张蓝图绘到底，给创业者满满的确定性。”邱小允的故乡远在福建泉州，父母曾善意提醒，“投资不过山海关”，但邱小允选择相信自己的经历与所见。&lt;/p&gt;&lt;p&gt;　　“投资过了山海关，还投到了最北方。”邱小允如此打趣。连续3年，她随漠河市有关部门赴南方招商引资，在双向奔赴中架起沟通桥梁。近3年，漠河市引进招商项目25个，总投资额12.92亿元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　瞄准发展坐标&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　坚持林下经济和旅游业两业并举，锚定双向赋能的融合点&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　从锅炉工到设计师，95后江西小伙彭楚涵在北极村找到了职业发展方向，也见证“两山”理念在这里落地生根。2018年，他偶然看到拾叶知悠民宿的招聘帖后怦然心动，只身一人北上漠河。&lt;/p&gt;&lt;p&gt;　　千里迢迢抵达北极村，彭楚涵才意识到，漠河的取暖期长达8个月。“冬季家家点火、户户冒烟”，他每天烧完锅炉后，耳朵和鼻孔里都是黑灰。&lt;/p&gt;&lt;p&gt;　　发展旅游离不开好生态，有暖气还得有好空气，既要“暖洋洋”也要“天蓝蓝”。2023年起，北极村投资3100余万元推广节能环保集中供暖，去年底实现全村覆盖。&lt;/p&gt;&lt;p&gt;　　天蓝、雪净、屋暖，空气源热泵机等绿色装备相继引入，彭楚涵也从烧锅炉的繁琐工作中“解放”出来。他萌生了设计一组森林风文创产品的想法，与邱小允不谋而合。&lt;/p&gt;&lt;p&gt;　　松塔香薰、灵芝冰箱贴、桦树皮笔记本……俯拾皆是的一草一木，化作匠心独具的伴手礼。如今拾叶知悠系列文创产品已近300种，年销售额200余万元。今年6月，拾叶知悠民宿与哈尔滨商业大学药学院签订“龙江中药文创系列产品”技术开发合同，致力于让更多森林好物走出大兴安岭。&lt;/p&gt;&lt;p&gt;　　文化是旅游的灵魂，旅游是文化的载体。徜徉于拾叶知悠民宿，每间房的名字都有故事。“灵感源于漠河籍作家迟子建的文学作品。”邱小允娓娓道来，如撮罗星帐，意为鄂伦春人在林间观星的帐篷；又如图拉之歌，象征额尔古纳河的潺潺水声……迟子建生于北极村，今年适逢她的小说《北极村童话》发表40年。&lt;/p&gt;&lt;p&gt;　　跟着文学去旅行，邱小允以此为契机举办多场森林读书会，还带领文学迷们进山拾松针、采蘑菇、摘野菜，沉浸式体验林区人家的生活方式。创新实践“人文经济学”，邱小允牵头成立大兴安岭地区旅游协会民宿分会并任会长，向创业者提供品牌打造、装潢设计、文创开发等公益服务。“我是共产党员经营户，我爱人去年在北极村入党，我俩要带着乡亲们一起干。”邱小允介绍，北极村民宿数量已超过300家。&lt;/p&gt;&lt;p&gt;　　习近平总书记在北极村考察时指出，“坚持林下经济和旅游业两业并举”。&lt;/p&gt;&lt;p&gt;　　在“并”字上做文章，漠河锚定双向赋能的融合点。&lt;/p&gt;&lt;p&gt;　　循着浓浓饭菜香，走进北极村张仲景养生院餐厅，美味佳肴映入眼帘：天冬扒猴头菇、铁锅炖杂蘑、人参煨猪肚……企业负责人张涛如数家珍，药膳全部就地取材。&lt;/p&gt;&lt;p&gt;　　践行大食物观，森林“粮库”丰富“中国饭碗”，也吸引仲景宛西制药股份有限公司来漠河设厂，年产蓝莓、红豆原汁1万吨；同时投资1.5亿元建设张仲景养生院，去年接待游客2万余人次。&lt;/p&gt;&lt;p&gt;　　林区经济转型发展怎么样，林区生态保护怎么样，林场职工生活怎么样，习近平总书记牵挂于心。&lt;/p&gt;&lt;p&gt;　　10年前，总书记在黑龙江考察调研时叮嘱：“林区经济转型发展是一项艰巨任务，要广开思路、多策并举。”&lt;/p&gt;&lt;p&gt;　　10年后，大兴安岭林区交出成绩单：全域生态产品总值突破8000亿元，生态家底越来越厚，致富路子越走越宽。&lt;/p&gt;&lt;p&gt;　　更让人振奋的是，来自福建泉州的90后“夫妻党员”邱小允、邱晓旭事业有成，2024年儿子出生，在漠河“扎”下根。&lt;/p&gt;&lt;p&gt;　　漠河，祖国这块最北最冷之地，“这片热土”，越来越让人心向往之。&lt;/p&gt;&lt;p&gt;　　“身在最北方  心向党中央”，矗立在神州北极广场的这句标语，是漠河人民的心声。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  崔  佳  祝大伟  戴林峰&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——黑龙江省漠河市深入践行“两山”理念透视 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181971&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181971.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181971.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 绿水青山、冰天雪地都是金山银山 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181971.html#[01版：要闻] 绿水青山、冰天雪地都是金山银山</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 持续做大做强先进制造业</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181972.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 持续做大做强先进制造业 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							金社平&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　现代化产业体系，中国经济的战略依托；先进制造业，现代化产业体系的骨干。&lt;/p&gt;&lt;p&gt;　　“完整准确全面贯彻新发展理念，统筹高质量发展和高水平安全”“加快构建以先进制造业为骨干的现代化产业体系，巩固壮大实体经济根基，为推进中国式现代化提供有力支撑”。习近平总书记近日就发展先进制造业作出重要指示，为新征程上持续做大做强先进制造业提供了根本遵循和行动指南。&lt;/p&gt;&lt;p&gt;　　9月16日至17日，全国先进制造业大会在北京召开，充分彰显了以习近平同志为核心的党中央对先进制造业的高度重视。我们要凝心聚力、真抓实干，认真学习领会、坚决贯彻落实习近平总书记重要指示精神，持续做大做强先进制造业，把现代化产业体系的“骨干”挺起来。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　（一）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记指出，党的十八大以来，我国先进制造业不断发展壮大，创新力、竞争力、综合实力显著增强，制造强国建设迈出坚实步伐。&lt;/p&gt;&lt;p&gt;　　“我国是个大国，必须发展实体经济，不断推进工业现代化、提高制造业水平”；&lt;/p&gt;&lt;p&gt;　　“立足实体经济这个根基，做大做强先进制造业，积极推进新型工业化”；&lt;/p&gt;&lt;p&gt;　　“以科技创新为引领，统筹推进传统产业升级、新兴产业壮大、未来产业培育”；&lt;/p&gt;&lt;p&gt;　　…………&lt;/p&gt;&lt;p&gt;　　习近平总书记站在推进强国建设、民族复兴伟业的战略高度，就发展先进制造业作出一系列重要论述，指引新时代中国加快建设制造强国。&lt;/p&gt;&lt;p&gt;　　全球每卖出3辆汽车，就有1辆中国造。超前部署、换道超车、加速进化，2013年以来中国新能源汽车销量增长930多倍，渗透率提升590多倍，一个万亿元级战略性新兴产业强势崛起。&lt;/p&gt;&lt;p&gt;　　制造业增加值连续16年稳居全球第一、占全球比重接近30%，光伏、通信、高铁、造船等优势领域实现全球领跑，机器人、人工智能、创新药方兴未艾，新质生产力起势成势，先进制造业动能澎湃。&lt;/p&gt;&lt;p&gt;　　山一程，水一程。发展先进制造业，我们基础坚实，任务艰巨。“十五五”时期，世界百年变局和产业变革交织演进，我国经济进入转型升级关键阶段，持续做大做强先进制造业的意义更加凸显、任务也更为紧迫。&lt;/p&gt;&lt;p&gt;　　“十五五”规划建议把建设现代化产业体系摆在各项战略任务的第一条。“是经过深思熟虑的”，习近平总书记在今年“开年第一课”上给出了原因，“这些年我国经济顶风破浪、保持强大韧性和活力，战略依托就是完整的产业体系。”&lt;/p&gt;&lt;p&gt;　　新征程上，持续做大做强先进制造业，对“不断增强我国发展的确定性和可持续性”具有重大而深远的战略意义。&lt;/p&gt;&lt;p&gt;　　这是应对外部挑战、在国际竞争中赢得主动的必然选择。&lt;/p&gt;&lt;p&gt;　　当今世界，单边主义、保护主义上升，人工智能、量子科技等新领域新赛道国际竞争空前激烈，先进制造业成为主战场。&lt;/p&gt;&lt;p&gt;　　如何把发展进步的命运牢牢掌握在自己手中？统筹高质量发展和高水平安全，提升产业链自主可控水平。坚持把国家和民族发展放在自己力量的基点上，持续增强自主创新能力，我们方能在全球创新版图重构中站稳脚跟、赢得主动。&lt;/p&gt;&lt;p&gt;　　这是巩固壮大实体经济根基、发展新质生产力的关键之举。&lt;/p&gt;&lt;p&gt;　　先进制造业技术密集度高、价值创造力强、引领带动面广，是新质生产力的典型代表，在现代化产业体系中处于枢纽地位。&lt;/p&gt;&lt;p&gt;　　“十五五”时期，把因地制宜发展新质生产力摆在更加突出的战略位置，要求我们紧紧抓住先进制造业这个关键，切实增强产业体系完整性、先进性、安全性，“经过不断转型升级、提质换代，一步一步往上走。”&lt;/p&gt;&lt;p&gt;　　这是稳经济、促发展的现实需要。&lt;/p&gt;&lt;p&gt;　　近10年，高技术制造业、装备制造业增加值分别年均增长10%、超过8%……中国经济持续向新向优向好发展，先进制造业是重要力量。&lt;/p&gt;&lt;p&gt;　　全面转入高质量发展轨道，中国经济的发展动能、产业结构等正面临深刻调整。推进新旧动能平稳接续转换，重要抓手就是大力发展先进制造业、培育壮大新质生产力，促进新动能积厚成势、传统动能焕新升级。&lt;/p&gt;&lt;p&gt;　　发展先进制造业，挑战不小，机遇更多。工业体系完备，应用场景广阔，资源能源供应稳定，产业链供应链韧性强，诸多机遇、优势和有利条件叠加，机遇大于挑战。&lt;/p&gt;&lt;p&gt;　　坚定信心、迎难而上，先进制造业的发展潜能将源源释放，中国式现代化的物质技术基础将更加坚实。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　（二）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记指出：“坚持智能化、绿色化、融合化方向，持续做大做强先进制造业”。&lt;/p&gt;&lt;p&gt;　　一片钢箔，照见先进制造业的生动模样。&lt;/p&gt;&lt;p&gt;　　压延、清洗、光亮、拉矫、纵切、包装，山西太钢不锈钢精密带钢有限公司车间内，一卷卷“手撕钢”经过自动化工序相继下线。从0.02毫米到0.015毫米，从研发到生产再到量产，“百炼钢做成了绕指柔”，最高端产品的价格堪比黄金。&lt;/p&gt;&lt;p&gt;　　持续做大做强先进制造业，就要因时应势、紧盯前沿，在“先进”二字上下功夫，推动制造业向微笑曲线两端延伸、向价值链上游攀升。&lt;/p&gt;&lt;p&gt;　　向“智”跃迁，塑造“中国智造”新优势。&lt;/p&gt;&lt;p&gt;　　习近平总书记指出，“要抓住难得的历史性机遇，鼓励开源开放、合作共享，全面促进人工智能科技创新、产业发展、场景应用”。&lt;/p&gt;&lt;p&gt;　　拥抱新技术，我国建成5.6万余家基础级、9000余家先进级、500余家卓越级智能工厂，培育15家领航级智能工厂，人工智能、大数据、云计算等新一代信息技术体系居全球前列。&lt;/p&gt;&lt;p&gt;　　当前，全球人工智能技术创新进入前所未有的活跃期。聚焦智能化，以新一代智能制造为主攻方向，纵深推进“人工智能+制造”行动，推动更多行业和企业全面数智化转型，“中国智造”名片将更加亮丽。&lt;/p&gt;&lt;p&gt;　　向“绿”而行，让绿色转型成为增长新动能。&lt;/p&gt;&lt;p&gt;　　新质生产力本身就是绿色生产力，绿色是先进制造业的鲜明底色。&lt;/p&gt;&lt;p&gt;　　经过多年发展，国家绿色工厂已超8000家，光伏、动力电池、节能环保装备等不少绿色产业实现“换道领跑”。&lt;/p&gt;&lt;p&gt;　　“十五五”时期是绿色技术变革、规则博弈、碳达峰攻坚的关键时期。锚定绿色化，坚定不移走生态优先、绿色发展之路，一体推进绿色改造与技术创新、产业升级，我国绿色产业竞争优势将更加凸显。&lt;/p&gt;&lt;p&gt;　　向“融”发力，培育更多产业发展新增长点。&lt;/p&gt;&lt;p&gt;　　跨界融合是先进制造业发展的重要驱动力。一副人工智能眼镜，搭载人工智能、传感器、无线通信等技术，集成翻译、导航、语音识别等服务；一座安徽合肥骆岗公园，汇聚观光文旅、高速巡检等10多类典型场景，让新技术有了“用武之地”……近年来，信息技术、新材料、生物技术等不同领域技术多点突破、交叉应用，催生出一批集成度高的创新产品、综合性强的创新场景。&lt;/p&gt;&lt;p&gt;　　把握产业大势，融合千行百业。发力融合化，促进先进制造业与现代服务业深度融合，推动更多新技术新产品新场景相继涌现，不仅将助力制造业全链增值、向价值链高端跃升，也将撬动各行各业耦合共生、活力迸发。&lt;/p&gt;&lt;p&gt;　　锚定目标、逐新向高，坚持智能化、绿色化、融合化方向，先进制造业将不断展露新模样、洋溢新生机。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　（三）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记强调：“提升产业链自主可控水平，加快构建以先进制造业为骨干的现代化产业体系”。&lt;/p&gt;&lt;p&gt;　　持续做大做强先进制造业是一项系统工程，要综合施策、精准发力，推动各项部署任务取得实实在在的成效。&lt;/p&gt;&lt;p&gt;　　创新引领，点燃先进制造业创新引擎。&lt;/p&gt;&lt;p&gt;　　现代制造业离不开科技赋能，“先进”的根本动力在于创新。基础研究，整个科学体系的源头，所有技术问题的总机关。今年4月，习近平总书记在加强基础研究座谈会上强调，“要以更大力度、更实举措加强基础研究，提升我国原始创新能力”。优化布局、加大投入，增强基础研究和原始创新能力，创新后劲将更足。&lt;/p&gt;&lt;p&gt;　　科技创新和产业创新，发展新质生产力的基本路径。强化关键核心技术攻关，深化科技成果转化应用，更多新技术新应用将走出实验室、走进车间、走向市场，加速转化为现实生产力。&lt;/p&gt;&lt;p&gt;　　统筹推进，促进先进制造业扩容提质。&lt;/p&gt;&lt;p&gt;　　先进制造业根植于各行各业，既涵盖新技术催生的新兴产业，也包括改造提升后的传统产业。面向未来，我们既要支持技术研发、推动场景培育、加快规模应用，做大新兴产业这个增量，也要前瞻谋划和布局，培育未来产业这个变量，还要改进工艺技术、优化产品结构，做优传统产业这个存量。&lt;/p&gt;&lt;p&gt;　　传统产业“发新芽”，新兴产业“长成林”，未来产业“扎下根”，先进制造业将在新故相推中生生不息。&lt;/p&gt;&lt;p&gt;　　系统施策，优化先进制造业发展环境。&lt;/p&gt;&lt;p&gt;　　发展先进制造业，离不开千千万万的企业。如何发挥各类主体的积极性创造性，进一步增强发展动能？坚持有效市场和有为政府相结合，完善体制机制，让财税、金融、产业、科技等方面政策协同发力，让资金、人才、数据等各类优质要素向先进制造业集聚，让市场化、法治化、国际化的营商环境为产业发展营造良好生态。&lt;/p&gt;&lt;p&gt;　　龙头企业“顶天立地”，专精特新“小巨人”、独角兽等优质企业和初创企业“铺天盖地”，先进制造业就会生机勃发、奔驰向前。&lt;/p&gt;&lt;p&gt;　　习近平总书记强调，振兴制造业特别是先进制造业，短期看是实现经济良性循环的关键，长期看是国家经济命脉。&lt;/p&gt;&lt;p&gt;　　建设现代化产业体系，发展先进制造业，责任重大、任务艰巨。让我们进一步把思想和行动统一到习近平总书记重要指示精神和党中央决策部署上来，锐意进取、勇攀高峰，加快发展先进制造业、建设制造强国，为实现第二个百年奋斗目标作出新的更大贡献！&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;金社平&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181972&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181972.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181972.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 持续做大做强先进制造业 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181972.html#[01版：要闻] 持续做大做强先进制造业</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 李强主持召开国务院常务会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181973.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李强主持召开国务院常务会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 听取老龄工作情况汇报，研究推动体育赛事健康发展有关工作，部署实施医疗康复护理扩容提升工程，审议通过《中医药传统知识保护条例（草案）》，讨论《〈中华人民共和国突发事件应对法〉等15部法律的修正案（草案）》 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　新华社北京9月18日电  国务院总理李强9月18日主持召开国务院常务会议，听取老龄工作情况汇报，研究推动体育赛事健康发展有关工作，部署实施医疗康复护理扩容提升工程，审议通过《中医药传统知识保护条例（草案）》，讨论《〈中华人民共和国突发事件应对法〉等15部法律的修正案（草案）》。&lt;/p&gt;&lt;p&gt;　　会议指出，要全面客观认识人口老龄化带来的影响，深入实施积极应对人口老龄化国家战略，推动老龄事业全面发展进步。要着力提升老年人服务保障水平，在养老服务、健康促进、社会保障等方面持续用力，健全多层次多支柱养老保险体系，打通居家、社区、机构养老服务联动渠道，扩大普惠养老服务。要针对老年群体特征，丰富银发产品和服务，培育银发消费新场景，更好满足老年人消费需求，实现民生福祉与内需扩容双向促进。&lt;/p&gt;&lt;p&gt;　　会议指出，体育赛事对于满足群众多元化生活需求、提高人民生活品质具有重要意义。要增加高质量体育赛事供给，盘活用好各类体育场地设施和赛事资源，统筹发展竞技体育赛事、职业赛事和群众赛事。要推动体育赛事与文化、旅游、商务等融合发展，加快新技术运用，提升观赛体验，放大综合效应。要提高赛事管理保障能力，培育一批专业化赛事运营主体，健全场地、人员和机构管理制度，促进各类赛事安全发展。&lt;/p&gt;&lt;p&gt;　　会议指出，要以基层为重点建强医疗康复护理服务体系，推动康复护理资源向社区、家庭延伸，增强城乡居民康复护理服务可及性。要依靠科技创新提升医疗康复护理水平，开发更多智能康复技术和设备，优化新技术新产品审评审批，丰富服务场景。要强化医疗康复护理支持保障，动态调整康复医疗、长期照护服务项目目录，深化医疗康复护理服务价格改革，完善人才培养政策，不断增强职业吸引力。&lt;/p&gt;&lt;p&gt;　　会议指出，中医药理论、技术和方药是我国自主创新的重要资源，要全面加强中医药传统知识保护管理，守护好中医药生存发展根基。要统筹做好中医药资源保护和利用，持续深化对中医药基础理论、诊疗规律、作用机理的研究阐释，加大中医药传统知识推广应用力度，加强对外交流合作，在互学互鉴中提升我国传统医药国际影响力。&lt;/p&gt;&lt;p&gt;　　会议讨论并原则通过《〈中华人民共和国突发事件应对法〉等15部法律的修正案（草案）》，决定将草案提请全国人大常委会审议。&lt;/p&gt;&lt;p&gt;　　会议还研究了其他事项。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 听取老龄工作情况汇报，研究推动体育赛事健康发展有关工作，部署实施医疗康复护理扩容提升工程，审议通过《中医药传统知识保护条例（草案）》，讨论《〈中华人民共和国突发事件应对法〉等15部法律的修正案（草案）》 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181973&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181973.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181973.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李强主持召开国务院常务会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181973.html#[01版：要闻] 李强主持召开国务院常务会议</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 赵乐际、王沪宁分别会见埃及参议长法里德</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181974.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 赵乐际、王沪宁分别会见埃及参议长法里德 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京9月18日电  全国人大常委会委员长赵乐际、全国政协主席王沪宁18日在北京分别会见埃及参议长法里德。&lt;/p&gt;&lt;p&gt;　　赵乐际在会见时表示，本月初习近平主席对埃及成功进行历史性访问，两国元首一致同意推进中埃命运共同体建设，为新形势下双边关系发展擘画了新蓝图。中方愿同埃方一道，落实两国元首达成的重要共识，赓续传统友谊，夯实政治互信，深化务实合作，共同开创中埃关系更加美好的未来。中国全国人大愿同埃及议会加强各层级、多领域交往，深入开展民主法治建设经验交流，助力中埃命运共同体建设。&lt;/p&gt;&lt;p&gt;　　法里德表示，埃中全面战略伙伴关系在各领域取得务实成果。埃方坚定恪守一个中国原则，愿与中方共同把两国元首达成的重要共识落到实处。埃参议院愿与中国全国人大加强交流合作，为两国发展提供保障。&lt;/p&gt;&lt;p&gt;　　王沪宁在会见时表示，前不久习近平主席对埃及成功进行历史性访问，两国元首达成广泛共识，为双边关系发展进一步指明方向。中方愿同埃方一道，全力落实好两国元首重要共识，赓续传统友谊，拓展互利合作，推进中埃命运共同体建设。中国全国政协愿进一步加强同埃方的交流交往，为推动中埃全面战略伙伴关系发展贡献力量。&lt;/p&gt;&lt;p&gt;　　法里德表示，70年来，埃中两国关系保持健康稳定发展，合作成果丰硕。埃及坚定恪守一个中国原则，愿积极参与“一带一路”建设，加强与中方在经贸、科技等领域合作。埃参议院愿与中国全国政协加强交流，积极参加中国经济社会论坛等活动，服务两国经济社会发展。&lt;/p&gt;&lt;p&gt;　　穆虹、王东峰等参加有关会见。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181974&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181974.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181974.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 赵乐际、王沪宁分别会见埃及参议长法里德 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181974.html#[01版：要闻] 赵乐际、王沪宁分别会见埃及参议长法里德</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 多元赋能，体育强国建设步入快车道（“十五五”开好局起好步）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181975.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 多元赋能，体育强国建设步入快车道（“十五五”开好局起好步） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李  硕  孙龙飞&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　秋高气爽，运动健身风尚为城乡带来活力；各地“城超”“村超”火热开展，体育消费持续升温；亚运备战紧锣密鼓，我国体育健儿全力冲刺……“十五五”开局之年，新时代体育事业蓬勃发展的鲜活画卷正徐徐铺展。&lt;/p&gt;&lt;p&gt;　　“体育承载着国家强盛、民族振兴的梦想。”习近平总书记指出：“建设体育强国，是全面建设社会主义现代化国家的一个重要目标。”&lt;/p&gt;&lt;p&gt;　　“十五五”规划纲要明确提出加快建设体育强国。今年7月，《体育强国建设“十五五”规划》与《全民健身计划（2026—2030年）》发布。其中，《体育强国建设“十五五”规划》立足开局之年，明确五大目标：到2030年，我国人均体育场地面积达到4平方米左右，经常参加体育锻炼人数比例达到40%左右，国民体质优良率提升至31.1%，获得世界冠军数量位居前列，体育产业总规模突破7万亿元。&lt;/p&gt;&lt;p&gt;　　锚定蓝图，坚守以人民为中心，体育事业高质量发展蹄疾步稳。&lt;/p&gt;&lt;p&gt;　　全民健身公共服务体系提质增效，为健康中国夯实体育之基。&lt;/p&gt;&lt;p&gt;　　“我几乎每天都来长者运动健康之家锻炼，身体更硬朗，生活更充实。”70岁的上海市民苏君兴曾是上海和平公园露天健身的常客。&lt;/p&gt;&lt;p&gt;　　随着长者运动健康之家在上海各个社区建立，家门口的运动场地解决了银发族“健身去哪儿”的难题。“体质测试、科学指导、慢病运动干预、健康科普和休闲社交等服务一应俱全，让老年人敢练、会练、愿意练。”尚体乐活长者运动健康之家创始人王海龙介绍，截至2026年8月，上海累计建成超200家，全国范围内建成超300家，服务人次超过10万。&lt;/p&gt;&lt;p&gt;　　场地更普惠、指导更专业，群众赛事愈发接地气、贴民心。“出门就能参加省级比赛！”湖北省随州市曾都区涢水街道居民姜民说。立足基层群众健身需求，2024年以来湖北省创新打造“百镇千村”“百街千巷”全民健身系列赛事活动，每站进行1场综合运动会、1场环村健康跑或社区大讲堂、3场冠军校园行、1场体测惠万家。截至2026年9月9日，全省累计在76站举办赛事活动1016场，带动1900余个乡村社区，19万群众直接参与，150万群众现场观赛。&lt;/p&gt;&lt;p&gt;　　完善竞技体育新型举国体制，构建多元开放的人才培养生态。&lt;/p&gt;&lt;p&gt;　　6月25日，国家壁球队入驻在四川成都落成的新基地，22片国际认证的标准场地和专业体能康复中心，为国家队提供训练、食宿、康复一站式服务。“队员们的心更定了，团队凝聚力更强了。”领队周捷说。&lt;/p&gt;&lt;p&gt;　　壁球、板球是2028年洛杉矶奥运会新增项目，国家体育总局开展试点工作，委托四川省和浙江省体育局分别承办。总局与地方两手托举、合力攻坚，创新模式结出硕果。在爱知—名古屋亚运会上，中国壁球队将首次全项目参赛，中国女子板球队时隔12年重返亚运。&lt;/p&gt;&lt;p&gt;　　北京郑常庄足球公园绿茵场，“百队杯”足球赛竞争激烈。竞技组U17小将王义晨连进两球，为队伍最终获胜建功。“百队杯”足球赛走过40多个年头，一批批足球少年以赛会友，很多好苗子以此为起点走上专业道路。如今，这一促进青少年全面健康发展的标杆赛事，成为北京市深化体教融合、夯实竞技体育后备人才基础的生动实践。&lt;/p&gt;&lt;p&gt;　　从“省办国家队”“校队市办”等模式取得成效，到赛事体系建设、以赛育才机制不断健全，政府主导下多元主体参与的竞技体育新发展模式日趋完善。“十四五”时期，我国竞技体育共取得世界冠军665个，创世界纪录91次，奖牌数量与项目覆盖面均创新高。&lt;/p&gt;&lt;p&gt;　　今年以来，我国竞技体育捷报频传：米兰冬奥会创造境外参赛历史最好成绩，举重、攀岩、射击等项目接连刷新世界纪录，世乒赛再度包揽男、女团双冠，吴宜泽成为斯诺克世锦赛史上首位00后冠军……体育健儿用拼搏书写新辉煌。&lt;/p&gt;&lt;p&gt;　　主动融入国家经济社会发展大局，推动体育产业高质量发展。&lt;/p&gt;&lt;p&gt;　　去年火爆出圈的“苏超”，今年又有新动作：比赛期间，106条跨区域主题文旅线路让球迷游客“跟着苏超游江苏”；各市联动推出“票根+”系列惠民举措，消费跟着赛事一起红火。江苏A级旅游景区接待游客数、全省重点监测的商贸流通企业销售额和客流量同比均实现增长。&lt;/p&gt;&lt;p&gt;　　广受年轻人欢迎的户外运动产业掀起新高潮。曾经，游客到四川瓦屋山“看一眼桌山、拍张照就走”。如今，这里成为户外运动爱好者的胜地，各类赛事活动持续引流。2026年“村BA”带动消费2300万元；今年前7个月，当地游客达70万人次，增长势头不减。&lt;/p&gt;&lt;p&gt;　　供给端与消费端同步升温，内需与外贸双向发力，“赛事流量”助推“产业增量”。今年以来，文体休闲服务类零售额保持较快增长，规模以上体育业企业营业收入持续增长。&lt;/p&gt;&lt;p&gt;　　“体育产业是朝阳产业、绿色产业、幸福产业。”在北京体育大学管理学院院长黄海燕看来，要继续推动体育产业提质扩容升级，为扩大内需、稳定增长、促进就业作出更大贡献，让体育产业真正成为人民美好生活的新载体、赋能经济社会发展。&lt;/p&gt;&lt;p&gt;　　体育强则中国强，国运兴则体育兴。国家体育总局党组书记、局长高志丹表示，我们将锚定体育强国建设总体目标，坚持以人民为中心，落实高质量发展要求，统筹做好全民健身、竞技体育、体育产业等各项工作，充分发挥体育综合价值和多元功能，扎实办好群众身边体育实事，全力激活体育消费内需潜力，奋力推动“十五五”体育事业起步稳健、开局向好，为经济社会高质量发展注入强劲体育动能。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李  硕  孙龙飞&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181975&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181975.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181975.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 多元赋能，体育强国建设步入快车道（“十五五”开好局起好步） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181975.html#[01版：要闻] 多元赋能，体育强国建设步入快车道（“十五五”开好局起好步）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181976.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/b5f69636-fdc3-4f8b-bb9e-118c65332d11.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　9月18日，西康（陕西西安至安康）高铁牛背梁站、柞水西站、镇安西站、安康西站四座新建客站完成竣工验收。投运后，两地通行时间将由目前的约3小时缩短至1小时以内。&lt;/p&gt;&lt;p&gt;　　图为位于陕西商洛市的牛背梁站。&lt;/p&gt;&lt;p&gt;　　张  远摄（影像中国） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181976&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181976.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181976.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181976.html#[01版：要闻] 图片报道</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 调水新增每秒四立方米，如何支撑平陆运河通航（读者点题·共同关注）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181977.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 调水新增每秒四立方米，如何支撑平陆运河通航（读者点题·共同关注） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  韩  鑫  邓剑洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　平陆运河近日通航。有报道称，运河的建设运营将替代原有调水工程，调水流量将在每秒20立方米基础上再加每秒4立方米，这一水量如何保障5000吨级船舶安全通行？调水会不会挤占下游沿线生产生活用水？&lt;/p&gt;&lt;p&gt;　　——人民网网友  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　运河通航，水是关键。&lt;/p&gt;&lt;p&gt;　　作为新中国成立以来建设的首条通江达海的大运河，平陆运河北起广西南宁平塘江口，跨越分水岭，经钦州灵山县，沿钦江干流进入北部湾。网友提到的每秒4立方米调水，是在原有引郁入钦调水工程每秒20立方米基础上增加的基础补水流量。&lt;/p&gt;&lt;p&gt;　　要读懂每秒4立方米的分量，先得从钦江流域的水情说起。&lt;/p&gt;&lt;p&gt;　　钦江年径流量约20.3亿立方米，看似不少，时空分布却极不均衡——汛期占全年流量的83%，枯水期仅占17%，再加上源短流急、调蓄能力弱，天然来水远不足以支撑高等级航道通航。&lt;/p&gt;&lt;p&gt;　　早在平陆运河规划之前，为解决钦州沿海工业和城市供水缺口，广西就建成了引郁入钦调水工程，在钦江来水不足时，从郁江向钦江调水，设计最大调水流量每秒20立方米。这一工程运行多年，已成为当地供水的“生命线”。&lt;/p&gt;&lt;p&gt;　　钦江天然来水不足叠加分水岭段无河流汇入，航道水位要维持最低通航水深，外部补水势在必行。&lt;/p&gt;&lt;p&gt;　　新增每秒4立方米，够吗？&lt;/p&gt;&lt;p&gt;　　答案是肯定的。&lt;/p&gt;&lt;p&gt;　　按照内河Ⅰ级航道标准、5000吨级船舶通行量测算，近期运河航运用水需求约每秒24立方米，水利部门批复的调水量也正是这一数字。这意味着，在既有调水规模基础上，仅需新增每秒4立方米，就能满足运河通航基本需求。&lt;/p&gt;&lt;p&gt;　　每秒24立方米，相当于年调水总量约7亿立方米，虽属大型调水规模，但相较于郁江干流天然流量占比并不高。&lt;/p&gt;&lt;p&gt;　　“小流量”何以支撑“大通航”？&lt;/p&gt;&lt;p&gt;　　这背后，有一套省水“绝技”。&lt;/p&gt;&lt;p&gt;　　平陆运河全线水位落差约65米，设有马道、企石、青年三大梯级枢纽。传统船闸每过一次船，就要将一闸室的水全部放入下游，不仅耗水量大，关键是在现有调水规模下保证不了通航。&lt;/p&gt;&lt;p&gt;　　破解之道在于省水池创新设计。马道、企石枢纽采用全球规模最大的三级叠合式省水船闸。当船舶从上游下行时，闸室的水不会直接排入下游，而是通过输水廊道逐级存入省水池；待船舶从下游上行时，再将省水池储存的水回补闸室。一存一用之间，超过60%的调节用水实现循环利用。三大枢纽协同运行，年节水量超10亿立方米。&lt;/p&gt;&lt;p&gt;　　这背后，有一盘统筹“大棋”。&lt;/p&gt;&lt;p&gt;　　每秒24立方米的调水指标，有一整套流域水资源联合调度体系在托底。&lt;/p&gt;&lt;p&gt;　　郁江干流上，多个大型水库梯级分布，总调节库容数十亿立方米。平陆运河的用水保障，正是依托这些水库的统一调度，兼顾实现发电、航运等多重目标。&lt;/p&gt;&lt;p&gt;　　有人担心，从郁江调水，会不会影响流域下游珠江三角洲的用水与生态？工程充分利用已有调水工程的设施能力，恪守水量分配的红线——守住西江干流生态流量底线，保障下游防洪等综合需求。可以说，新增每秒4立方米调水量，是多重约束条件下的最优解。&lt;/p&gt;&lt;p&gt;　　运河运行不是单纯“消耗水”，而是实现“一水多用”。通过拉直、拓宽、加深河道，平陆运河沟通郁江和钦江水系，打通南向直通入海泄洪通道，有力提升区域泄洪能力。对引郁入钦调水工程任务的替换，兼顾了钦州城区及运河沿线的用水需求，实现水资源综合利用。&lt;/p&gt;&lt;p&gt;　　每秒4立方米，背后是新时代重大工程的思路革新——不再走“大引大调、资源换发展”的老路，而是以最小资源消耗换取最大发展效益。&lt;/p&gt;&lt;p&gt;　　随着调度体系不断完善，在科学治水支撑下，平陆运河将更好发挥西部陆海新通道骨干作用，书写西南地区通江达海的时代新篇。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  韩  鑫  邓剑洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181977&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181977.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181977.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 调水新增每秒四立方米，如何支撑平陆运河通航（读者点题·共同关注） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181977.html#[01版：要闻] 调水新增每秒四立方米，如何支撑平陆运河通航（读者点题·共同关注）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 加快构建房地产发展新模式（权威发布·开局起步“十五五”）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181978.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 房地产市场进入存量阶段，供求关系发生重大变化 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 加快构建房地产发展新模式（权威发布·开局起步“十五五”） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李心萍&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　住房城乡建设一头连着民生、一头连着发展。“十四五”时期，1100多万套保障性住房和安置房惠及3000多万群众，178万多户农村低收入群体危房得到改造，人民群众住房条件进一步改善。&lt;/p&gt;&lt;p&gt;　　“十五五”时期，现代化人民城市怎么建？房地产市场将迎来哪些变化？城市更新工作如何开展？9月18日，国务院新闻办举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进住房城乡建设事业高质量发展有关情况。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　建设“好房子”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　提升人民群众居住水平&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“好房子”什么样？&lt;/p&gt;&lt;p&gt;　　住房城乡建设部副部长陈绍旺介绍了4个关键词：安全、舒适、绿色、智慧。&lt;/p&gt;&lt;p&gt;　　“具体而言，人民群众觉得好的标准就是‘好房子’的标准。”陈绍旺表示，住房城乡建设部认真听取群众关于改善居住条件的意见，从14个方面提高住房品质要求。&lt;/p&gt;&lt;p&gt;　　先看住宅“身高”。最新版《住宅项目规范》将层高标准从原来的2.8米提高到3米。&lt;/p&gt;&lt;p&gt;　　再看住宅“配置”。以前是7层及以上需设电梯，最新版《住宅项目规范》改为4层及以上住宅都要加装电梯。&lt;/p&gt;&lt;p&gt;　　此外，针对儿童安全防护的问题，最新版《住宅项目规范》还把阳台、外廊等所有临空处护栏高度，统一提高到不低于1.2米。&lt;/p&gt;&lt;p&gt;　　当前，各地正在积极探索“好房子”建设。有的项目实行“管线分离”，即水、暖、电和主体结构分离，解决维修和装修的开墙打洞问题；有的项目设计可变、可调整居室，既可增加收纳空间，也为后期改造预留空间。&lt;/p&gt;&lt;p&gt;　　“好房子”怎么建？&lt;/p&gt;&lt;p&gt;　　“从好标准、好设计、好材料、好建造、好运维全链条全生命周期去推进。”陈绍旺说。&lt;/p&gt;&lt;p&gt;　　一是把新房子建好。“我们将全链条提升住房的标准、设计、材料、建造和运维水平。”住房城乡建设部总工程师李晓龙说，推动智能建造、绿色建造、绿色建材、模块化的建筑在“好房子”建设中应用，打造人民满意的“好房子”。&lt;/p&gt;&lt;p&gt;　　二是把老旧房屋改好。“老旧房屋改造有两种方式。”李晓龙介绍，一种是原拆原建，特别是像D级危房必须拆除重建，通过原拆原建的方式，在面积变动不大的基础上实现结构、功能优化；另一种是改造、维修、局部提升。&lt;/p&gt;&lt;p&gt;　　三是把服务做好。“好房子”必须得有“好服务”。一方面，住房城乡建设部将以“好房子”为基础，统筹好小区、好社区、好城区建设，补齐养老、托幼、用餐等服务，更好体现“好房子”价值。另一方面，将加快建立全生命周期的房屋安全管理制度。&lt;/p&gt;&lt;p&gt;　　“我们还将实施物业服务质量提升行动。”李晓龙介绍，建立社区党组织领导下的居委会、业委会、物业服务企业协调运行新模式，为居民提供多样化的居住服务，让房子不仅建得好，更要管得好、住得好。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　实现更高水平的住有所居&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　统筹防风险和促转型，统筹惠民生和稳增长&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　房地产事关人民群众切身利益，事关经济社会发展大局，社会十分关心。&lt;/p&gt;&lt;p&gt;　　住房城乡建设部房地产市场监管司司长张雪涛介绍，当前，房地产市场出现了两个转变。一是房地产市场供求关系发生了重大变化，二是房地产市场进入存量阶段。&lt;/p&gt;&lt;p&gt;　　数据显示，我国二手房的交易占比已从2020年的27%提高到2025年的46%。今年前8月，国家统计局数据显示，二手房交易占比已达52%，超过50%的标志线。&lt;/p&gt;&lt;p&gt;　　“‘十五五’时期，我们将积极适应房地产的新形势、新变化和新要求，统筹防风险和促转型，统筹惠民生和稳增长，加快构建房地产发展新模式。”张雪涛说。&lt;/p&gt;&lt;p&gt;　　何为房地产发展新模式？&lt;/p&gt;&lt;p&gt;　　一个目标，即牢牢抓住让人民群众安居这一基点，实现更高水平的住有所居；&lt;/p&gt;&lt;p&gt;　　两个体系，即完善保障和市场两个体系，形成定位清晰、功能互补、有效满足居民住房需求的供应格局；&lt;/p&gt;&lt;p&gt;　　三项制度，以项目公司制、主办银行制和现房销售制三项制度为重点，改革完善房地产基础性制度；&lt;/p&gt;&lt;p&gt;　　四大要素，即推动“人房地钱”四要素联动，实现以人定房、以房定地、以房定钱，促进要素的合理配置。&lt;/p&gt;&lt;p&gt;　　截至目前，房地产三项基础性制度已全部出台。&lt;/p&gt;&lt;p&gt;　　在房地产开发上，做实项目公司制。一个房地产项目对应一家项目公司，项目公司依法行使独立法人的权利，严禁企业总部违规抽挪项目公司的资金。&lt;/p&gt;&lt;p&gt;　　在房地产融资上，推行主办银行制。一个项目确定一家银行或者银团作为它的主办银行，项目的开发、建设、销售资金要全部存入主办银行，由主办银行提供项目的融资服务，满足项目的合理融资需求。&lt;/p&gt;&lt;p&gt;　　在商品房销售上，推行现房销售制。通过实现“所见即所得”，从根本上防范交付风险。“今后，房地产开发新项目要优先选择现房销售。”张雪涛表示，实行预售的要完善预售资金监管，切实保障购房人的合法权益。&lt;/p&gt;&lt;p&gt;　　此外，在保障性住房方面，张雪涛表示，将进一步完善以配租型保障房和配售型保障房为主的住房保障体系，坚持租赁补贴和实物保障相结合，以需定建、以需定购。&lt;/p&gt;&lt;p&gt;　　特别是，对城镇低保、住房困难家庭要应保尽保，发挥兜底保障作用；对新市民、青年人和住房困难且收入不高的城镇工薪群体坚持宜配租则配租、宜配售则配售，因地制宜、因城施策满足其基本住房需求。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　高质量推进城市更新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　全国将新开工改造11.5万个城镇老旧小区&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　城市更新是现阶段城市工作的重要抓手。《城市更新“十五五”规划》提出10项发展指标、23项重点任务和14项重大工程，相关工作如何开展？&lt;/p&gt;&lt;p&gt;　　先看民生工程。“十五五”时期，全国将新开工改造11.5万个城镇老旧小区，在5000个社区实施完整社区建设改造，更新和加装住宅电梯57.5万台，建设改造城市绿地5万公顷，新增1.5万个口袋公园，建设改造2万公里城市绿道，通过“四好”建设的系统推进，为居民营造高品质的生活空间。&lt;/p&gt;&lt;p&gt;　　再看发展工程。“十五五”时期，将实施1500个老旧街区厂区改造提升，通过存量资源的盘活利用，为城市发展注入新动能。此外，“十五五”时期，还将修缮提升新一批国家历史文化名城，改造提升300片历史文化街区。&lt;/p&gt;&lt;p&gt;　　最后看安全工程。“十五五”时期，将建设改造城市地下管网约77万公里，其中燃气管网约20万公里、排水管网约17.5万公里、供水管网约17.5万公里、污水管网约10万公里、供热管网约12万公里。同时，因地制宜推进地下综合管廊建设，投资规模超过5万亿元。&lt;/p&gt;&lt;p&gt;　　如何确保城市更新工作扎实推进？&lt;/p&gt;&lt;p&gt;　　“我们将建立城市体检与城市更新一体化推进机制，把体检出来的问题作为城市更新的重点；建立城市更新和历史文化保护有机融合机制，让历史文化与现代生活相得益彰。”住房城乡建设部城市管理监督局局长张强说。&lt;/p&gt;&lt;p&gt;　　资源保障方面，张强表示将建立可持续的城市更新投融资机制，既加大政府投入力度，又更好地发挥市场力量作用。同时，将加快推动城市更新立法，完善标准体系，为高质量推进城市更新工作夯实制度支撑。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李心萍&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 房地产市场进入存量阶段，供求关系发生重大变化 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181978&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181978.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181978.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 加快构建房地产发展新模式（权威发布·开局起步“十五五”） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181978.html#[02版：要闻] 加快构建房地产发展新模式（权威发布·开局起步“十五五”）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 十大类生产性服务业首次全覆盖（权威发布）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181979.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 广交会将举办，向新、向智、更专更优 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 十大类生产性服务业首次全覆盖（权威发布） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王  珂&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　第140届中国进出口商品交易会（广交会）将于10月15日至11月4日分3期在广东广州举办。9月18日，国务院新闻办举行新闻发布会，介绍有关情况。&lt;/p&gt;&lt;p&gt;　　商务部部长助理张力说，今年以来，我国外贸延续良好增长态势，广交会作为中国外贸的“晴雨表”和“风向标”，呈现向新、向智、更专更优等特点。&lt;/p&gt;&lt;p&gt;　　本届广交会3.2万家参展企业中，专精特新、单项冠军等优质企业超过1.1万家。64%的参展企业应用工业互联网、人工智能等新技术。展出的新产品和绿色产品占比分别达23.2%、26%，都创下历史新高。&lt;/p&gt;&lt;p&gt;　　今年以来，人工智能产品进出口保持快速增长势头。本届广交会将人工智能、大数据等技术深度嵌入办展全过程，首次推出22个智慧应用场景和16项人工智能特色应用，将实现全馆展位级导航和展位增强现实信息展示，提升参展体验。&lt;/p&gt;&lt;p&gt;　　当前，外贸企业正从“拿订单、卖产品”向“建体系、优服务”转型，呈现货物与服务融合、贸易投资一体化发展的新趋势。本届广交会的贸易服务展区提质，首次实现十大类生产性服务业全覆盖，36.5%的参展企业实施“产品+服务”的模式转型。&lt;/p&gt;&lt;p&gt;　　招商精准化、服务差异化、运营数智化，本届广交会推出新的招商举措。“已有196个国家和地区超21万名采购商预登记，其中专业采购商占比近八成，共建‘一带一路’国家采购商报名踊跃。”中国对外贸易中心主任朱咏介绍。&lt;/p&gt;&lt;p&gt;　　做好服务保障，将展会流量转化为城市吸引力和产业增量。广东省人民政府副秘书长郭亦乐说，广东推出29项提质升级举措，在白云机场等重点口岸设置广交会专用通道，落实240小时过境免签，推行“专人专窗、即到即办”；推动展品备案、申报、预约通关全流程线上办理，让展品流转更加高效。广州市人民政府副市长胡浩介绍，多家航司推出专属优惠，机场、琶洲口岸开设专属通道，公交、地铁划定专用时刻表，每天调度超2000辆出租车、网约车，让客商出行更加顺畅。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王  珂&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 广交会将举办，向新、向智、更专更优 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181979&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181979.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181979.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 十大类生产性服务业首次全覆盖（权威发布） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181979.html#[02版：要闻] 十大类生产性服务业首次全覆盖（权威发布）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 前8月全国一般公共预算收入同比增5.7%</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181980.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 前8月全国一般公共预算收入同比增5.7% &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月18日电  （记者王观）财政部18日发布数据显示：1—8月，全国一般公共预算收入15.66万亿元，同比增长5.7%。其中，全国税收收入12.91万亿元，增长6.6%。&lt;/p&gt;&lt;p&gt;　　分税种看，国内增值税增长5.9%，主要是工业和服务业持续增长、工业生产者出厂价格上行等带动；进口货物增值税、消费税增长12.6%，主要是外贸进口较快增长；企业所得税增长7.3%；个人所得税增长14.5%；证券交易印花税增长82%，主要是股市成交金额增长；出口货物退增值税、消费税1.65万亿元，同比多退707亿元，支持外贸出口增长。分区域看，东部、中部、西部、东北地区收入分别增长3.2%、1.4%、4.6%、2.1%，多数地区收入保持增长。&lt;/p&gt;&lt;p&gt;　　全国一般公共预算支出继续保持增长。1—8月，全国一般公共预算支出18.15万亿元，同比增长1.2%。全国主要支出领域中，投资于人相关支出增长较快。其中，社会保障和就业支出增长6.5%；教育支出增长0.7%；卫生健康支出增长9.2%，主要是发放育儿补贴等增加；科学技术支出增长2.2%；住房保障支出增长3.6%。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181980&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181980.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181980.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 前8月全国一般公共预算收入同比增5.7% &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181980.html#[02版：要闻] 前8月全国一般公共预算收入同比增5.7%</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 绿水青山、冰天雪地都是金山银山</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181981.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 绿水青山、冰天雪地都是金山银山 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——黑龙江省漠河市深入践行“两山”理念透视 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  崔  佳  祝大伟  戴林峰&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“绿水青山是金山银山，黑龙江的冰天雪地也是金山银山。”&lt;/p&gt;&lt;p&gt;　　——习近平  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　“家住大兴安岭林区，夏天满眼绿水青山，冬天到处冰天雪地。可是，多少年来，我们漠河人谁都没想过把绿水青山、冰天雪地结合起来。”黑龙江省大兴安岭地区漠河市北极村村民史瑞娟感慨，“是习近平总书记10年前的一席话，点醒了漠河人。”&lt;/p&gt;&lt;p&gt;　　“绿水青山是金山银山，黑龙江的冰天雪地也是金山银山。”2016年3月，习近平总书记在参加十二届全国人大四次会议黑龙江代表团审议时一语中的。&lt;/p&gt;&lt;p&gt;　　总书记的话让漠河人深思，越想越觉得醍醐灌顶：过去习惯于将绿水青山和冰天雪地分开讲，而把两者结合起来，实现有机统一，区位劣势竟成发展优势！&lt;/p&gt;&lt;p&gt;　　北纬53度，漠河位于祖国版图的“金鸡之冠”，是我国纬度最高的地方。&lt;/p&gt;&lt;p&gt;　　零下53摄氏度，漠河冬季气温创下我国有气象记录以来的最低温度极值。&lt;/p&gt;&lt;p&gt;　　克服极北、极寒挑战，漠河以新思想激扬新思路，以新思路牵引新发展。&lt;/p&gt;&lt;p&gt;　　走进北极村，一座巨型指北针雕塑迎面矗立。这是地理坐标，也标记了新时代奋斗者的人生坐标。北极村党支部与联建共建的驻地新兴领域党组织有49名党员，其中，外来创业者13名，返乡创业者7名。&lt;/p&gt;&lt;p&gt;　　新老北极村人扎根最北最冷的这片创业热土，让曾经“因北而困”的边陲小村“因北而兴”。2025年，北极村接待游客272.88万人次，实现旅游花费25.65亿元。今年7月，党中央授予北极村党支部“全国先进基层党组织”称号。&lt;/p&gt;&lt;p&gt;　　2023年9月6日，习近平总书记在漠河考察期间走进史瑞娟家的民宿小院。“发展旅游业是推动高质量发展的重要着力点。把大兴安岭森林护好，旅游业才有吸引力。”总书记寄望殷切。&lt;/p&gt;&lt;p&gt;　　真理之光照亮发展之路。漠河人校准思想坐标、找准行动坐标、瞄准发展坐标，绿水青山、冰天雪地交相辉映，金山银山可感可见、可触可及。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　校准思想坐标&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　无论析困境之因，还是求振兴之道，都要从思想、思路层面破题&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　返乡创业15年，史瑞娟开办了3家民宿，店名朴实无华又饱含深意，她的小女儿扬手一指门前招牌，稚嫩童声念得朗朗上口，“绿水阁、清山居、雪人木屋”。&lt;/p&gt;&lt;p&gt;　　“顾名思义，我家民宿就是‘两山’理念落地生根的小小注脚。”史瑞娟忆起往事，“同样是‘掘金’，过去凿山采矿、伐木淘金，如今林下生金、冰雪生金。”&lt;/p&gt;&lt;p&gt;　　步入村史馆，“千里黑龙江金镶边”的盛景跃然眼前。北极村因掘金而兴，清末在此设立运金驿站，寒来暑往，车水马龙。上世纪末，漠河跻身全国黄金年产量“万两县”，粗放式开采也给山林留下疮疤，砂石成堆、污水直排。大兴安岭可采成过熟林蓄积量，由上世纪60年代开发初期的4.6亿立方米锐减至2008年的0.21亿立方米。&lt;/p&gt;&lt;p&gt;　　靠山吃山岂是坐吃山空？大兴安岭地区痛定思痛，2005年全面禁止持续百年的砂金开采，2014年全面停止持续半个世纪的天然林商业性采伐。&lt;/p&gt;&lt;p&gt;　　不挖矿、不砍树，日子咋过？“不少乡亲外出打工。”史瑞娟18岁辞别父母，南下山东青岛一家外企当学徒。&lt;/p&gt;&lt;p&gt;　　漠河一隅折射东北一域，全国首批12个资源枯竭城市，东北地区占6个。&lt;/p&gt;&lt;p&gt;　　东北发展，无论析困境之因，还是求振兴之道，都要从思想、思路层面破题。&lt;/p&gt;&lt;p&gt;　　进入新时代，新发展理念像小树苗一样，慢慢在漠河的土地上扎下根。&lt;/p&gt;&lt;p&gt;　　“经济发展不是耗尽资源‘竭泽而渔’，生态保护也不能贫守青山‘缘木求鱼’。”北极村党支部书记高威一度急在心里。&lt;/p&gt;&lt;p&gt;　　咋让乡亲们在家门口端稳就业饭碗？村两委下决心转型搞旅游，大兴安岭技师学院送课下乡，为村民量身定制旅游管理专业两年制函授班。&lt;/p&gt;&lt;p&gt;　　那时已是预备党员的史瑞娟，报名成为首批20名学员之一，还把老宅改造成家庭旅馆。&lt;/p&gt;&lt;p&gt;　　“思想认识转变不是一蹴而就的。”史瑞娟的旅馆开办之初不温不火，客流扎堆在暑期，漫长的冬季冷冷清清。&lt;/p&gt;&lt;p&gt;　　天寒地冻不能干熬苦等，发展突围要靠思想破冰。&lt;/p&gt;&lt;p&gt;　　“绿水青山是金山银山，黑龙江的冰天雪地也是金山银山。”10年前的那个春天，习近平总书记这句话，让史瑞娟迎来了事业发展的春天。&lt;/p&gt;&lt;p&gt;　　“早些年，哪敢主动提漠河的冷？生怕极寒天气吓退游客！”史瑞娟在党支部党员大会上自我剖析，“心里把冰天雪地当包袱，眼里便看不见金山银山。”&lt;/p&gt;&lt;p&gt;　　“反反复复琢磨总书记的话，脑袋里的思想坚冰逐渐融化了。”史瑞娟冒着严寒走出家门，举起手机做直播，既拍莽莽雪岭冰峰，也拍自家的冻梨冻柿子，向网友们发出诚挚邀请，很多网友被吸引而来。&lt;/p&gt;&lt;p&gt;　　蹚出新路子，带动一大片，越来越多村民像史瑞娟一样打拼。2017年，北极村景区门票收入达1880万元，同比增加80%。&lt;/p&gt;&lt;p&gt;　　唤醒沉睡的“冷资源”，漠河北极滑雪场自2017年起连续3年成为全国最早开滑的滑雪场。&lt;/p&gt;&lt;p&gt;　　从“怕冷”到“盼冷”，思路一变天地宽，漠河的冬天不再落寞。2020年，北极村建成2.2万平方米的寒地测试基地。2025—2026冰雪季，75家车企、2400多名技术人员入驻漠河，北汽福田汽车工程师林志强是其中之一。&lt;/p&gt;&lt;p&gt;　　“冬天来了，我就像候鸟一样‘飞’到北极村旅居。”林志强连续3年赴漠河试车，经常在北极红色驿站参加主题党日。在驿站，游客中打卡留念的党员累计逾5.9万人。&lt;/p&gt;&lt;p&gt;　　3年前的金秋，习近平总书记在北极村考察时强调，“森林是集水库、粮库、钱库、碳库于一身的大宝库。要树立增绿就是增优势、护林就是护财富的理念”，为漠河发展进一步指明方向。&lt;/p&gt;&lt;p&gt;　　山深秋来早，一簇簇蓝莓凝霜挂枝。成熟的果实咋不摘？“霜打的果子比蜜甜。”史瑞娟递给记者一颗，蓝莓入口甘甜冰爽。&lt;/p&gt;&lt;p&gt;　　大兴安岭的野生蓝莓储量占全国的90%、世界的30%。鲜果论斤卖价格低，咋提高附加值？漠河市引进企业建成北极冰蓝莓酒庄，以霜冻野生蓝莓酿制冰酒，去年摘得布鲁塞尔国际葡萄酒大奖赛金奖。&lt;/p&gt;&lt;p&gt;　　“绿水青山孕育蓝莓，冰天雪地酿成琼浆。”史瑞娟不仅代销冰酒，自家晾晒的蓝莓干、手工熬制的蓝莓酱也颇受游客青睐。&lt;/p&gt;&lt;p&gt;　　从孤立看到统筹抓，漠河牢牢把握资源优势，全市蓝莓产业综合产值去年达4.5亿元，人工繁育蓝莓逾40万株。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　找准行动坐标&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　像保护生态环境一样保护营商环境，让创业者如鸟儿一样愿意飞来“筑巢”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　窗外，鸳鸯戏水碧波漾；屋内，旋律悠扬歌连歌。&lt;/p&gt;&lt;p&gt;　　8月下旬，北极村拾叶知悠民宿音乐会迎来多对新婚夫妇，他们从山西、辽宁等地远道而来，在第三届“北极之恋”集体婚礼上喜结连理。北极村打造“一北字，一辈子”文旅IP，今年以来已有32对外地游客在“最北婚姻登记处”领证，是2024年的两倍。&lt;/p&gt;&lt;p&gt;　　生态好不好，鸟儿最知道。北极村不仅吸引鸳鸯等180多种野生候鸟落脚栖息，还汇聚了200余名外地创业就业者。拾叶知悠民宿负责人邱小允、邱晓旭两口子，便是从福建“南雁北飞”的新村民。从2017年赴漠河度蜜月到如今定居北极村，他们累计投资1000余万元打造民宿综合体。&lt;/p&gt;&lt;p&gt;　　邱小允是酷爱旅行的背包客，30岁前走过31个省份。向往说走就走的自由生活，咋选择在边疆北陲驻足扎根？&lt;/p&gt;&lt;p&gt;　　“最美的风景是人！”邱小允脱口而出，漠河虽冷，人心很暖。初来时，她徒步进山捡拾树杈做手工，途中与一名老乡擦肩而过。尽管素不相识，对方仍折返近1公里追回来，嘱咐树杈上的野果可能有毒，千万别吃。&lt;/p&gt;&lt;p&gt;　　北极村的暖，焐热了两颗年轻的心，小两口一拍即合，在村里租下一座老屋，改造成青年旅舍，两年赚了40万元。眼见生意日渐红火，邱小允拿出积蓄进一步装修升级。&lt;/p&gt;&lt;p&gt;　　不承想，意外突如其来，心血付之一炬。2019年5月11日凌晨2点，电线短路燃起熊熊大火，熟睡中的邱小允、邱晓旭被浓烟呛醒时，400多平方米的老屋已陷入火海，所幸二人及时逃离。&lt;/p&gt;&lt;p&gt;　　5月的北极村乍暖还寒，闻讯赶到的乡亲们为他们披上厚棉衣。站在废墟前，邱小允欲哭无泪，待在原地。凌晨5点，天蒙蒙亮，一位身着迷彩服的长者风尘仆仆赶来，迎面第一句话是：“姑娘，还认得我吗？你可能忘记了，我之前来过。”&lt;/p&gt;&lt;p&gt;　　邱小允有点蒙，经村干部提醒才意识到，站在面前的是时任漠河市市长，他正巧下乡调研，前一晚夜宿北极村。&lt;/p&gt;&lt;p&gt;　　这份“我虽不认得你，却被牵肠挂肚”的温暖，让刚经历了火灾的邱小允百感交集。&lt;/p&gt;&lt;p&gt;　　无事不打搅，有难一起扛。事发当天，时任漠河市委书记等也于清晨6点多驱车抵达现场。&lt;/p&gt;&lt;p&gt;　　面对一片废墟，邱小允打过退堂鼓，但面对各界爱心人士送来的捐款，面对北极村派出所民警主动上门帮忙清理废墟……邱小允逐渐重拾信心，民宿当年12月即恢复营业。&lt;/p&gt;&lt;p&gt;　　民宿浴火重生，旺季一房难求，邱小允想扩大规模，却在选址时犯了难，市里干部驾车载着小两口四处勘址。2024年，1.7万平方米的拾叶知悠民宿综合体建成投用。近3年来，北极村新增民宿（宾馆）130余家、床位2600余张。&lt;/p&gt;&lt;p&gt;　　“为什么说绿水青山就是金山银山？‘鱼逐水草而居，鸟择良木而栖。’”习近平总书记深刻指出。&lt;/p&gt;&lt;p&gt;　　“像保护生态环境一样保护营商环境，让创业者如鸟儿一样愿意飞来‘筑巢’。”大兴安岭地委委员、漠河市委书记金广丹介绍，漠河市将营商环境监测纳入领导责任、工作推进、督导检查、考核评价“四个体系”工作机制，去年“听劝”落实经营主体各项建议142件。&lt;/p&gt;&lt;p&gt;　　“今年是我来漠河创业的第十个年头，历经3任市委书记，他们一张蓝图绘到底，给创业者满满的确定性。”邱小允的故乡远在福建泉州，父母曾善意提醒，“投资不过山海关”，但邱小允选择相信自己的经历与所见。&lt;/p&gt;&lt;p&gt;　　“投资过了山海关，还投到了最北方。”邱小允如此打趣。连续3年，她随漠河市有关部门赴南方招商引资，在双向奔赴中架起沟通桥梁。近3年，漠河市引进招商项目25个，总投资额12.92亿元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　瞄准发展坐标&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　坚持林下经济和旅游业两业并举，锚定双向赋能的融合点&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　从锅炉工到设计师，95后江西小伙彭楚涵在北极村找到了职业发展方向，也见证“两山”理念在这里落地生根。2018年，他偶然看到拾叶知悠民宿的招聘帖后怦然心动，只身一人北上漠河。&lt;/p&gt;&lt;p&gt;　　千里迢迢抵达北极村，彭楚涵才意识到，漠河的取暖期长达8个月。“冬季家家点火、户户冒烟”，他每天烧完锅炉后，耳朵和鼻孔里都是黑灰。&lt;/p&gt;&lt;p&gt;　　发展旅游离不开好生态，有暖气还得有好空气，既要“暖洋洋”也要“天蓝蓝”。2023年起，北极村投资3100余万元推广节能环保集中供暖，去年底实现全村覆盖。&lt;/p&gt;&lt;p&gt;　　天蓝、雪净、屋暖，空气源热泵机等绿色装备相继引入，彭楚涵也从烧锅炉的繁琐工作中“解放”出来。他萌生了设计一组森林风文创产品的想法，与邱小允不谋而合。&lt;/p&gt;&lt;p&gt;　　松塔香薰、灵芝冰箱贴、桦树皮笔记本……俯拾皆是的一草一木，化作匠心独具的伴手礼。如今拾叶知悠系列文创产品已近300种，年销售额200余万元。今年6月，拾叶知悠民宿与哈尔滨商业大学药学院签订“龙江中药文创系列产品”技术开发合同，致力于让更多森林好物走出大兴安岭。&lt;/p&gt;&lt;p&gt;　　文化是旅游的灵魂，旅游是文化的载体。徜徉于拾叶知悠民宿，每间房的名字都有故事。“灵感源于漠河籍作家迟子建的文学作品。”邱小允娓娓道来，如撮罗星帐，意为鄂伦春人在林间观星的帐篷；又如图拉之歌，象征额尔古纳河的潺潺水声……迟子建生于北极村，今年适逢她的小说《北极村童话》发表40年。&lt;/p&gt;&lt;p&gt;　　跟着文学去旅行，邱小允以此为契机举办多场森林读书会，还带领文学迷们进山拾松针、采蘑菇、摘野菜，沉浸式体验林区人家的生活方式。创新实践“人文经济学”，邱小允牵头成立大兴安岭地区旅游协会民宿分会并任会长，向创业者提供品牌打造、装潢设计、文创开发等公益服务。“我是共产党员经营户，我爱人去年在北极村入党，我俩要带着乡亲们一起干。”邱小允介绍，北极村民宿数量已超过300家。&lt;/p&gt;&lt;p&gt;　　习近平总书记在北极村考察时指出，“坚持林下经济和旅游业两业并举”。&lt;/p&gt;&lt;p&gt;　　在“并”字上做文章，漠河锚定双向赋能的融合点。&lt;/p&gt;&lt;p&gt;　　循着浓浓饭菜香，走进北极村张仲景养生院餐厅，美味佳肴映入眼帘：天冬扒猴头菇、铁锅炖杂蘑、人参煨猪肚……企业负责人张涛如数家珍，药膳全部就地取材。&lt;/p&gt;&lt;p&gt;　　践行大食物观，森林“粮库”丰富“中国饭碗”，也吸引仲景宛西制药股份有限公司来漠河设厂，年产蓝莓、红豆原汁1万吨；同时投资1.5亿元建设张仲景养生院，去年接待游客2万余人次。&lt;/p&gt;&lt;p&gt;　　林区经济转型发展怎么样，林区生态保护怎么样，林场职工生活怎么样，习近平总书记牵挂于心。&lt;/p&gt;&lt;p&gt;　　10年前，总书记在黑龙江考察调研时叮嘱：“林区经济转型发展是一项艰巨任务，要广开思路、多策并举。”&lt;/p&gt;&lt;p&gt;　　10年后，大兴安岭林区交出成绩单：全域生态产品总值突破8000亿元，生态家底越来越厚，致富路子越走越宽。&lt;/p&gt;&lt;p&gt;　　更让人振奋的是，来自福建泉州的90后“夫妻党员”邱小允、邱晓旭事业有成，2024年儿子出生，在漠河“扎”下根。&lt;/p&gt;&lt;p&gt;　　漠河，祖国这块最北最冷之地，“这片热土”，越来越让人心向往之。&lt;/p&gt;&lt;p&gt;　　“身在最北方  心向党中央”，矗立在神州北极广场的这句标语，是漠河人民的心声。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  崔  佳  祝大伟  戴林峰&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——黑龙江省漠河市深入践行“两山”理念透视 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181981&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181981.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181981.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 绿水青山、冰天雪地都是金山银山 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181981.html#[02版：要闻] 绿水青山、冰天雪地都是金山银山</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181982.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/0010b3c0-03a9-4df2-924e-49b685e7175d.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　金秋时节，云南普洱景迈山古茶林叠翠，吸引八方游客。图为16日，游客在景迈山翁基古寨游玩。&lt;/p&gt;&lt;p&gt;　　新华社记者  陈欣波摄 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181982&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181982.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181982.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181982.html#[02版：要闻] 图片报道</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 调水新增每秒四立方米，如何支撑平陆运河通航（读者点题·共同关注）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181983.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 调水新增每秒四立方米，如何支撑平陆运河通航（读者点题·共同关注） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  韩  鑫  邓剑洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　平陆运河近日通航。有报道称，运河的建设运营将替代原有调水工程，调水流量将在每秒20立方米基础上再加每秒4立方米，这一水量如何保障5000吨级船舶安全通行？调水会不会挤占下游沿线生产生活用水？&lt;/p&gt;&lt;p&gt;　　——人民网网友  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　运河通航，水是关键。&lt;/p&gt;&lt;p&gt;　　作为新中国成立以来建设的首条通江达海的大运河，平陆运河北起广西南宁平塘江口，跨越分水岭，经钦州灵山县，沿钦江干流进入北部湾。网友提到的每秒4立方米调水，是在原有引郁入钦调水工程每秒20立方米基础上增加的基础补水流量。&lt;/p&gt;&lt;p&gt;　　要读懂每秒4立方米的分量，先得从钦江流域的水情说起。&lt;/p&gt;&lt;p&gt;　　钦江年径流量约20.3亿立方米，看似不少，时空分布却极不均衡——汛期占全年流量的83%，枯水期仅占17%，再加上源短流急、调蓄能力弱，天然来水远不足以支撑高等级航道通航。&lt;/p&gt;&lt;p&gt;　　早在平陆运河规划之前，为解决钦州沿海工业和城市供水缺口，广西就建成了引郁入钦调水工程，在钦江来水不足时，从郁江向钦江调水，设计最大调水流量每秒20立方米。这一工程运行多年，已成为当地供水的“生命线”。&lt;/p&gt;&lt;p&gt;　　钦江天然来水不足叠加分水岭段无河流汇入，航道水位要维持最低通航水深，外部补水势在必行。&lt;/p&gt;&lt;p&gt;　　新增每秒4立方米，够吗？&lt;/p&gt;&lt;p&gt;　　答案是肯定的。&lt;/p&gt;&lt;p&gt;　　按照内河Ⅰ级航道标准、5000吨级船舶通行量测算，近期运河航运用水需求约每秒24立方米，水利部门批复的调水量也正是这一数字。这意味着，在既有调水规模基础上，仅需新增每秒4立方米，就能满足运河通航基本需求。&lt;/p&gt;&lt;p&gt;　　每秒24立方米，相当于年调水总量约7亿立方米，虽属大型调水规模，但相较于郁江干流天然流量占比并不高。&lt;/p&gt;&lt;p&gt;　　“小流量”何以支撑“大通航”？&lt;/p&gt;&lt;p&gt;　　这背后，有一套省水“绝技”。&lt;/p&gt;&lt;p&gt;　　平陆运河全线水位落差约65米，设有马道、企石、青年三大梯级枢纽。传统船闸每过一次船，就要将一闸室的水全部放入下游，不仅耗水量大，关键是在现有调水规模下保证不了通航。&lt;/p&gt;&lt;p&gt;　　破解之道在于省水池创新设计。马道、企石枢纽采用全球规模最大的三级叠合式省水船闸。当船舶从上游下行时，闸室的水不会直接排入下游，而是通过输水廊道逐级存入省水池；待船舶从下游上行时，再将省水池储存的水回补闸室。一存一用之间，超过60%的调节用水实现循环利用。三大枢纽协同运行，年节水量超10亿立方米。&lt;/p&gt;&lt;p&gt;　　这背后，有一盘统筹“大棋”。&lt;/p&gt;&lt;p&gt;　　每秒24立方米的调水指标，有一整套流域水资源联合调度体系在托底。&lt;/p&gt;&lt;p&gt;　　郁江干流上，多个大型水库梯级分布，总调节库容数十亿立方米。平陆运河的用水保障，正是依托这些水库的统一调度，兼顾实现发电、航运等多重目标。&lt;/p&gt;&lt;p&gt;　　有人担心，从郁江调水，会不会影响流域下游珠江三角洲的用水与生态？工程充分利用已有调水工程的设施能力，恪守水量分配的红线——守住西江干流生态流量底线，保障下游防洪等综合需求。可以说，新增每秒4立方米调水量，是多重约束条件下的最优解。&lt;/p&gt;&lt;p&gt;　　运河运行不是单纯“消耗水”，而是实现“一水多用”。通过拉直、拓宽、加深河道，平陆运河沟通郁江和钦江水系，打通南向直通入海泄洪通道，有力提升区域泄洪能力。对引郁入钦调水工程任务的替换，兼顾了钦州城区及运河沿线的用水需求，实现水资源综合利用。&lt;/p&gt;&lt;p&gt;　　每秒4立方米，背后是新时代重大工程的思路革新——不再走“大引大调、资源换发展”的老路，而是以最小资源消耗换取最大发展效益。&lt;/p&gt;&lt;p&gt;　　随着调度体系不断完善，在科学治水支撑下，平陆运河将更好发挥西部陆海新通道骨干作用，书写西南地区通江达海的时代新篇。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  韩  鑫  邓剑洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181983&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181983.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181983.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 调水新增每秒四立方米，如何支撑平陆运河通航（读者点题·共同关注） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181983.html#[02版：要闻] 调水新增每秒四立方米，如何支撑平陆运河通航（读者点题·共同关注）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 走进人民城市  读懂中国之治</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181984.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 走进人民城市  读懂中国之治 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							​本报记者  崔  寅  季觉苏  王伟健&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“走进人民城市：中国之治与全球互鉴”驻华使节地方行活动近日举行。来自西班牙、孟加拉国、白俄罗斯等20个国家的30名驻华使节和外交官赴上海市和江苏省苏州市、南京市实地考察人民城市建设实践成果与基层治理经验，从城市发展样本读懂中国之治。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　问计于民彰显人民城市初心&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“人民城市人民建，人民城市为人民。这不是一句空洞的口号，而是中国城市高质量发展的重要动力。”纳米比亚驻华大使托纳塔·埃姆武拉表示。&lt;/p&gt;&lt;p&gt;　　实地走访中，驻华使节们感受到人民城市重要理念的实践力量。上海市杨浦区是人民城市理念首提地，曾汇集上海的水厂、电厂等工业设施，承载着近代上海工业的发展记忆。通过修旧如旧、微更新等方式，上海活化工业遗存，老旧厂房、仓库变身为公共文化空间与便民驿站。上海人民城市实践展示馆，便是遗产活化利用的典型成果。&lt;/p&gt;&lt;p&gt;　　从城市空间蝶变、产业迭代升级，到顶层制度设计、民生兜底保障，上海精细化、系统化的治理体系引发使节们的关注。在上海市人大常委会会议厅，围绕人口老龄化、旧区改造、规划编制等治理议题，使节们频频提问。&lt;/p&gt;&lt;p&gt;　　塞浦路斯驻华大使库拉·索菲亚努关注上海应对人口老龄化的政策和立法安排。上海市人大常委会副主任陈靖介绍，当地以居家、社区养老为主体，通过适老化改造、家庭医生签约、社区助餐服务等细化民生举措，同时依托地方立法，筑牢老年人权益保障底线。上海在本市“十五五”规划编制中，征集群众意见，将养老、育儿、旧改等民生诉求全面纳入规划。兼顾长远布局与民生细节、问计于民的治理模式，获得使节们高度认可。&lt;/p&gt;&lt;p&gt;　　中国浦东干部学院教授宋蕾以普陀区宜川路街道泰山人民坊片区举例说，这片建于上世纪七八十年代的工人新村曾被人字形道路和围墙割裂，3个小区互通不畅、出行不便、公共空间杂乱。当地充分征集3000余户居民意见，通过城市微更新打通空间阻隔、盘活闲置资源，将无人管理的人字形道路转化为连通民生资源的活力主轴，围绕主轴建设社区服务中心、长者食堂、便民集市。片区绿化、商户管理等公共事务均由居民共商共治。改造后，片区民生活力与商业人气显著提升。&lt;/p&gt;&lt;p&gt;　　曾数次到访上海的孟加拉国驻华大使纳兹穆尔深有感触：“上海在交通治理、垃圾处置、公共卫生、民生服务等超大城市治理领域成效显著，众多小微民生项目始终坚持问需于民、问计于民，精准破解群众急难愁盼。这种公众深度参与、务实惠民的治理模式极具借鉴意义，孟加拉国希望结合本土实际学习相关经验，增进民众福祉。”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　绣花功夫改善居民日常生活&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　在苏州太湖之滨，苏州云圣千里低空产业运营有限公司的无人机从全自动机场自主起飞，完成悬停、转向等动作，大屏幕上同步显示回传的高清画面。该公司的母公司云圣智能将工业无人机、无人机自动机场、地面机器人、物联网云平台有机融合，提供空网云一体化解决方案。纳兹穆尔说，这为孟加拉国将新兴技术融入城市治理提供了参考。&lt;/p&gt;&lt;p&gt;　　在苏州工业园区展示中心，一组组照片、一段段视频串联起园区30多年的发展历程，一系列明星产品展陈让使节们感受到园区产业转型和创新发展的步伐。夜幕降临，使节们走进拙政园，水榭曲廊倒映水面，古典园林在夜色中呈现别样韵味。泰国驻华大使馆参赞丘玲环感叹：“不论传统还是现代，苏州都很美。”&lt;/p&gt;&lt;p&gt;　　在城市治理创新主题座谈会上，使节们与苏州市相关部门负责人围绕生态保护与可持续发展、数字赋能城市治理、历史文脉与城市更新等话题互动交流。&lt;/p&gt;&lt;p&gt;　　苏州市住房和城乡建设局副局长钱毓静说，苏州的“15分钟生活圈”实践，为以市民为中心的城市规划提供范例。据统计，“十四五”时期以来，苏州全市累计改造老旧小区608个，改造面积约2035万平方米，惠及居民约20万户。小到街角的菜场，大到社区的养老托育设施，都在更新范围之内。苏州正以绣花功夫，一针一线地织就一幅“人产城”融合、人与自然和谐共生的现代版“姑苏繁华图”。&lt;/p&gt;&lt;p&gt;　　索菲亚努说，此次走访启发她思考城市发展、公共空间与生活质量的关系。“城市如何在应对变化的同时保持自身特色，并回应社区的需求？”她说，苏州让她看到了文化遗产、科技创新与面向未来的城市规划如何共存。&lt;/p&gt;&lt;p&gt;　　在南京，使节团一行参观了南京夫子庙—秦淮风光带、江苏国际数据港、玄武大模型工厂。在江苏国际数据港，使节们详细了解了江苏数据交易所如何从公共数据和企业数据“两类增量”协同发力，着力破解供给难题，服务社会治理。江苏数据交易所相关负责人介绍，该所现已落地全省公共数据产品775个，一批优质的数据产品已实现场内实质性交易。在医疗、交通、农业等领域，公共数据从“可交易”走向“真应用”，在服务实体经济、社会治理中实现价值释放。纳兹穆尔说，中国将创新融入城市发展的具体工作中，将促进发展与改善居民生活体验相结合。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　中国实践赋能全球城市发展&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“中国长期规划、精准施策的能力，日益成熟的治理体系和经验令人印象深刻。”埃姆武拉表示，“纳米比亚正在推进城市转型、践行以人民为中心的智慧城市战略，我们将立足本国国情并充分借鉴中国经验，走出以人民为中心的城市发展道路，建设包容可持续的繁荣城市。”&lt;/p&gt;&lt;p&gt;　　中国城市治理没有现成模板。通过立足国情、务实创新，中国形成了独具特色的现代化城市治理路径。白俄罗斯驻华大使切尔维亚科夫·亚历山大表示，此行极大深化了他对中国发展理念与治理模式的认知。使节们表示，中国的城市治理是务实高效的实践体系，为全球城市可持续发展提供了可资借鉴的样本。&lt;/p&gt;&lt;p&gt;　　沪苏之行，使节们从城市更新、基层共治的细微切口，读懂“人民至上”的治理内核。中国温暖务实、精准有效的城市治理实践，成为中外文明互鉴、治理共鉴的鲜活样本，为全球城市可持续发展注入新的思路与活力。纳兹穆尔说，回顾此次参访，一条脉络贯穿其中——良好的城市治理本质是以人为本的，“无论是培养高素质干部，发展全过程人民民主，还是提供更贴近本地及外国居民需求的公共服务，其背后的理念都是一致的——人民城市人民建，人民城市为人民。中国矢志笃行，不断推进，取得了斐然成果。”&lt;/p&gt;&lt;p&gt;　　今年以来，外交部升级“驻华使节地方行”品牌活动，推出“启航‘十五五’：中国发展与全球机遇”等主题活动，搭建中外发展互鉴桥梁。纳兹穆尔称赞，中国以开放包容的姿态主动分享发展经验，让世界看见了一个真实、立体、全面的中国。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;​本报记者  崔  寅  季觉苏  王伟健&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181984&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181984.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181984.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 走进人民城市  读懂中国之治 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181984.html#[03版：要闻] 走进人民城市  读懂中国之治</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 共享3.0机遇，中国开放红利持续释放（和音）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181985.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 共享3.0机遇，中国开放红利持续释放（和音） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　透过一场场盛会，国际社会看到了中国扩大高水平对外开放的坚定步伐，真切感受到了中国新质生产力为全球增长注入的强劲动能&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　9月17日，第二十三届中国—东盟博览会暨中国—东盟商务与投资峰会在广西南宁开幕。榴莲、咖啡、红木等东盟特色产品琳琅满目，参观者络绎不绝；平陆运河专题展区里，来自东盟各国的客商仔细了解这条通江达海的“黄金通道”；“AI大卖场”里，70多家企业带来500多款消费类AI（人工智能）产品，可现场体验、下单……热闹非凡的会场，正是本届东博会“共享3.0机遇，共创美好生活”主题的鲜活注脚。中国机遇的“含金量”，正在转化为中国和东盟双方人民的“获得感”。&lt;/p&gt;&lt;p&gt;　　今年是中国—东盟建立全面战略伙伴关系5周年、中国—东盟建立对话关系35周年。35年来，从建立对话关系到构建更为紧密的中国—东盟命运共同体，双方关系实现跨越式发展，带动双方全方位合作持续扩容提质。中国连续17年保持东盟第一大贸易伙伴地位，东盟连续6年成为中国第一大贸易伙伴。今年前8个月，中国与东盟贸易总值达5.95万亿元人民币，同比增长20.6%，双方互利共赢的蛋糕不断做大做优，实实在在惠及双方20多亿民众。本届东博会恰逢世纪工程平陆运河建成通航。这条新中国成立以来第一条通江达海的人工运河，是区域“硬联通”的重大突破，被外媒形容为中国与东盟之间一条新的“物流生命线”。展会“黄金平台”和运河“黄金通道”的机遇叠加，推动中国与东盟的双向奔赴跑出加速度。&lt;/p&gt;&lt;p&gt;　　今年也是中国—东盟自贸区3.0版升级议定书签署后加快落地实施的关键一年。紧扣中国—东盟自贸区3.0版新机遇，本届东博会重点升级数字经济和绿色低碳展区，新增“AI+金融”特色展区，首次设立“AI大卖场”，首次举办中国—东盟人工智能供需对接会，AI眼镜、AI家用机器人、光伏清洁机器人等高新科技产品成为展会“新宠”。当前，数字经济、绿色经济、蓝色经济、AI等领域合作高度契合东盟国家发展转型需求，正在成为中国—东盟合作的新亮点。据中国汽车工业协会统计数据，2026年上半年中国新能源汽车出口235.5万辆，同比增长1.2倍，其中东盟市场需求旺盛、表现强劲；中国算力基础设施和人工智能服务加快走向东盟，助力当地企业降低应用门槛……中国高质量发展、高水平开放的红利持续释放，不断为中国—东盟合作打开新空间、积累新动能。&lt;/p&gt;&lt;p&gt;　　9月以来，中国对外开放的盛会一场接一场：第二十一届中国国际中小企业博览会在广东广州举办，聚焦“人工智能赋能中小企业”，为中外中小企业提供具有针对性的供需对接平台；第二十六届中国国际投资贸易洽谈会在福建厦门收官，129个国家和地区的客商齐聚，共商扩大双向投资，共促全球发展；2026年中国国际服务贸易交易会在北京落幕，200多项新成果集中发布、100多项首发首秀、200场论坛会议和洽谈推介次第展开，见证“中国服务”品牌国际影响力的持续攀升。透过一场场盛会，国际社会看到了中国扩大高水平对外开放的坚定步伐，真切感受到了中国新质生产力为全球增长注入的强劲动能。&lt;/p&gt;&lt;p&gt;　　当前国际形势变乱交织，越是风浪迭起，各方越要拉紧合作纽带，推动普惠包容的经济全球化。中国以实际行动向世界传递清晰信号：中国将持续推动高质量发展，扩大高水平对外开放，同世界各国共享机遇、共创繁荣。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181985&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181985.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181985.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 共享3.0机遇，中国开放红利持续释放（和音） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181985.html#[03版：要闻] 共享3.0机遇，中国开放红利持续释放（和音）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 以共赢精神推动“大金砖合作”走深走实（国际论坛）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181986.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 以共赢精神推动“大金砖合作”走深走实（国际论坛） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							狄伯杰&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/ce372547-7669-49d7-8ab8-42c9da4ebf92.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　在印度首都新德里举行的金砖国家领导人第十八次会晤是“大金砖合作”迈入高质量发展阶段后的又一次重要会晤。当前，世界百年变局加速演进，国际形势变乱交织，单边主义、保护主义逆流涌动，不仅拖累了全球经济增长，也暴露出全球治理体系的薄弱之处。在重重压力考验下，金砖合作机制展现出强大韧性与活力，汇聚起维护多边主义、改革完善全球治理的积极力量。&lt;/p&gt;&lt;p&gt;　　全球南方群体性崛起，成为推动世界多极化进程的关键动力，是世界大变局的鲜明标志。然而，既有全球治理体系未能充分体现全球南方国家的代表性和发言权，部分全球南方国家亦面临冲突动荡、发展不均衡等多重挑战，迫切需要发出集体声音、谋求共同发展。顺应世界格局演变的历史趋势，金砖合作机制应运而生，开启了全球南方国家团结协作的新篇章。伴随金砖的正式扩员和伙伴国的加入，今天的金砖大家庭，总人口超过世界一半，经济总量占全球近三成，对世界经济增长贡献率超过50%，已成为促进全球南方团结合作的重要平台、推动全球治理体系变革的重要力量。&lt;/p&gt;&lt;p&gt;　　金砖合作机制之所以能够凝聚全球南方力量，关键在于其始终将发展置于合作的中心位置，让全球南方国家公平参与国际合作、共享发展成果。新开发银行是金砖国家合作的标志性成果之一，是金砖国家引领全球南方共同发展的切实举措。作为首个由新兴市场国家和发展中国家创立并主导的多边开发机构，截至2025年年底，新开发银行已批准139个项目，融资总额约430亿美元，在促进金砖国家及其他全球南方国家基础设施建设、清洁能源开发等领域发挥了重要作用。以新开发银行融资合作为牵引，金砖合作的广度与深度持续拓展。各方一致维护以世界贸易组织为核心的多边贸易体制，在贸易投资自由化便利化、数字经济等领域深化合作，持续夯实金砖国家共同发展的基础，增强全球南方发展韧性、拓展发展空间。&lt;/p&gt;&lt;p&gt;　　秉持开放包容、合作共赢的金砖精神，中国始终是金砖合作的建设者和贡献者。中国与其他金砖成员国一同建立新开发银行和应急储备安排，推动形成政治安全、经贸财金、人文交流“三轮驱动”格局，开创“金砖+”合作新模式，携手有关各方推动金砖国家历史性扩员，为“大金砖合作”不断注入新动力。着眼于普惠包容的全球发展，中国同其他金砖国家一道落实全球发展倡议，推进高质量共建“一带一路”，分享绿色技术、人工智能、数字支付、电子商务等领域创新成果和发展经验，以自身发展为金砖合作创造更多机遇，以务实行动助力全球南方国家增强自主发展能力。&lt;/p&gt;&lt;p&gt;　　印度和中国互为重要邻国，同为发展中大国和新兴经济体代表。双方在金砖国家等多边框架下密切战略沟通、拓展互惠合作、深化多边协作，有助于共同促进全球南方团结自强。双方应进一步扩大贸易投资规模，深化产业链供应链互联互通与科技创新协作，切实将经济互补优势转化为共同发展的持久动力。这不仅符合两国人民根本利益，也契合全球南方国家的普遍期待、顺应时代发展的潮流。&lt;/p&gt;&lt;p&gt;　　一个多极化的世界，应是平等有序、普惠包容的世界。金砖国家的合作实践充分表明，政治制度、发展道路的差异不是团结合作的阻碍，各方完全可以围绕共同发展目标，开展高效务实的协作。踏上新征程，金砖国家继续秉持开放包容、合作共赢精神，牢牢聚焦发展主题，持续推进务实合作，就能不断提升凝聚力、影响力和行动力，为推动国际秩序朝着更加公正合理的方向发展作出更大贡献。&lt;/p&gt;&lt;p&gt;　　（作者为印度尼赫鲁大学中国与东南亚研究中心教授） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;狄伯杰&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181986&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181986.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181986.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 以共赢精神推动“大金砖合作”走深走实（国际论坛） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181986.html#[03版：要闻] 以共赢精神推动“大金砖合作”走深走实（国际论坛）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181987.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/42b1a270-2249-44db-9721-56e4c90ead9b.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　由中国路桥工程有限责任公司承建的塞内加尔姆布尔—考拉克高速公路日前通车。该高速公路连接塞内加尔西部沿海城市姆布尔与中部城市考拉克，全长99.2公里，双向四车道，设计最高时速130公里。图为建成后的姆布尔—考拉克高速公路。&lt;/p&gt;&lt;p&gt;　　中国路桥供图 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181987&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181987.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181987.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181987.html#[03版：要闻] 图片报道</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 美国向中方返还64件（套）文物艺术品和古生物化石</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181988.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 美国向中方返还64件（套）文物艺术品和古生物化石 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报华盛顿9月18日电  （记者李志伟）中国国家文物局当地时间16日和17日在华盛顿、纽约分别接收美国国土安全调查局、纽约曼哈顿区检察官办公室向中国返还的两批次共计64件（套）文物艺术品和古生物化石。&lt;/p&gt;&lt;p&gt;　　文化和旅游部副部长、国家文物局局长饶权代表中方与美方签署返还接收确认书，接收上述文物艺术品和古生物化石。中国驻美国大使谢锋、中国驻纽约总领事陈立，以及美国国务院、国土安全调查局、纽约曼哈顿区检察官办公室等机构代表分别出席返还接收仪式。&lt;/p&gt;&lt;p&gt;　　中方在致辞中表示，此次两国政府部门依据防止中国文物非法入境美国的政府间谅解备忘录开展的返还合作，是中美两国在文化遗产领域共同贯彻落实中美元首北京会晤共识的最新成果，也是“中美建设性战略稳定关系”在人文领域的具体体现。此次合作展现了双方对历史的负责、对文明的尊重、对正义的坚守，将进一步促进中美人文交流，推动两国民心相通，也再次证明中美合作可以办成许多大事、实事、好事，造福两国、惠及世界。&lt;/p&gt;&lt;p&gt;　　美方表示，文物艺术品和化石都承载着深厚的历史和文化信息，中美文物返还合作体现了两国间的友谊和相互尊重。希望通过双方共同努力，确保中国的历史与文化遗产得到安全保护和妥善保存，惠及各方。&lt;/p&gt;&lt;p&gt;　　此次美方返还的文物艺术品和古生物化石，包括天龙山第17窟西壁北侧菩萨身躯，造像、陶俑以及恐龙骨架化石、鱼类化石、恐龙蛋化石等，均为美国执法部门在工作中查获。国家文物局会同中国驻美国使领馆与美方密切协作，成功实现美国国土安全调查局9个分支机构返还中国流失文物艺术品和古生物化石，纽约曼哈顿区检察官办公室第五次向中方返还文物艺术品。&lt;/p&gt;&lt;p&gt;　　2009年1月14日中美两国首次签署防止中国文物非法入境美国的政府间谅解备忘录，此后连续三次续签。依据谅解备忘录，两国政府部门积极开展返还合作，实现多批次流失美国的中国文物回归祖国。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181988&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181988.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181988.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 美国向中方返还64件（套）文物艺术品和古生物化石 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181988.html#[03版：要闻] 美国向中方返还64件（套）文物艺术品和古生物化石</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 李强主持召开国务院常务会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181989.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李强主持召开国务院常务会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 听取老龄工作情况汇报，研究推动体育赛事健康发展有关工作，部署实施医疗康复护理扩容提升工程，审议通过《中医药传统知识保护条例（草案）》，讨论《〈中华人民共和国突发事件应对法〉等15部法律的修正案（草案）》 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　新华社北京9月18日电  国务院总理李强9月18日主持召开国务院常务会议，听取老龄工作情况汇报，研究推动体育赛事健康发展有关工作，部署实施医疗康复护理扩容提升工程，审议通过《中医药传统知识保护条例（草案）》，讨论《〈中华人民共和国突发事件应对法〉等15部法律的修正案（草案）》。&lt;/p&gt;&lt;p&gt;　　会议指出，要全面客观认识人口老龄化带来的影响，深入实施积极应对人口老龄化国家战略，推动老龄事业全面发展进步。要着力提升老年人服务保障水平，在养老服务、健康促进、社会保障等方面持续用力，健全多层次多支柱养老保险体系，打通居家、社区、机构养老服务联动渠道，扩大普惠养老服务。要针对老年群体特征，丰富银发产品和服务，培育银发消费新场景，更好满足老年人消费需求，实现民生福祉与内需扩容双向促进。&lt;/p&gt;&lt;p&gt;　　会议指出，体育赛事对于满足群众多元化生活需求、提高人民生活品质具有重要意义。要增加高质量体育赛事供给，盘活用好各类体育场地设施和赛事资源，统筹发展竞技体育赛事、职业赛事和群众赛事。要推动体育赛事与文化、旅游、商务等融合发展，加快新技术运用，提升观赛体验，放大综合效应。要提高赛事管理保障能力，培育一批专业化赛事运营主体，健全场地、人员和机构管理制度，促进各类赛事安全发展。&lt;/p&gt;&lt;p&gt;　　会议指出，要以基层为重点建强医疗康复护理服务体系，推动康复护理资源向社区、家庭延伸，增强城乡居民康复护理服务可及性。要依靠科技创新提升医疗康复护理水平，开发更多智能康复技术和设备，优化新技术新产品审评审批，丰富服务场景。要强化医疗康复护理支持保障，动态调整康复医疗、长期照护服务项目目录，深化医疗康复护理服务价格改革，完善人才培养政策，不断增强职业吸引力。&lt;/p&gt;&lt;p&gt;　　会议指出，中医药理论、技术和方药是我国自主创新的重要资源，要全面加强中医药传统知识保护管理，守护好中医药生存发展根基。要统筹做好中医药资源保护和利用，持续深化对中医药基础理论、诊疗规律、作用机理的研究阐释，加大中医药传统知识推广应用力度，加强对外交流合作，在互学互鉴中提升我国传统医药国际影响力。&lt;/p&gt;&lt;p&gt;　　会议讨论并原则通过《〈中华人民共和国突发事件应对法〉等15部法律的修正案（草案）》，决定将草案提请全国人大常委会审议。&lt;/p&gt;&lt;p&gt;　　会议还研究了其他事项。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 听取老龄工作情况汇报，研究推动体育赛事健康发展有关工作，部署实施医疗康复护理扩容提升工程，审议通过《中医药传统知识保护条例（草案）》，讨论《〈中华人民共和国突发事件应对法〉等15部法律的修正案（草案）》 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181989&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181989.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181989.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李强主持召开国务院常务会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181989.html#[03版：要闻] 李强主持召开国务院常务会议</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 多元赋能，体育强国建设步入快车道（“十五五”开好局起好步）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181990.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 多元赋能，体育强国建设步入快车道（“十五五”开好局起好步） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李  硕  孙龙飞&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　秋高气爽，运动健身风尚为城乡带来活力；各地“城超”“村超”火热开展，体育消费持续升温；亚运备战紧锣密鼓，我国体育健儿全力冲刺……“十五五”开局之年，新时代体育事业蓬勃发展的鲜活画卷正徐徐铺展。&lt;/p&gt;&lt;p&gt;　　“体育承载着国家强盛、民族振兴的梦想。”习近平总书记指出：“建设体育强国，是全面建设社会主义现代化国家的一个重要目标。”&lt;/p&gt;&lt;p&gt;　　“十五五”规划纲要明确提出加快建设体育强国。今年7月，《体育强国建设“十五五”规划》与《全民健身计划（2026—2030年）》发布。其中，《体育强国建设“十五五”规划》立足开局之年，明确五大目标：到2030年，我国人均体育场地面积达到4平方米左右，经常参加体育锻炼人数比例达到40%左右，国民体质优良率提升至31.1%，获得世界冠军数量位居前列，体育产业总规模突破7万亿元。&lt;/p&gt;&lt;p&gt;　　锚定蓝图，坚守以人民为中心，体育事业高质量发展蹄疾步稳。&lt;/p&gt;&lt;p&gt;　　全民健身公共服务体系提质增效，为健康中国夯实体育之基。&lt;/p&gt;&lt;p&gt;　　“我几乎每天都来长者运动健康之家锻炼，身体更硬朗，生活更充实。”70岁的上海市民苏君兴曾是上海和平公园露天健身的常客。&lt;/p&gt;&lt;p&gt;　　随着长者运动健康之家在上海各个社区建立，家门口的运动场地解决了银发族“健身去哪儿”的难题。“体质测试、科学指导、慢病运动干预、健康科普和休闲社交等服务一应俱全，让老年人敢练、会练、愿意练。”尚体乐活长者运动健康之家创始人王海龙介绍，截至2026年8月，上海累计建成超200家，全国范围内建成超300家，服务人次超过10万。&lt;/p&gt;&lt;p&gt;　　场地更普惠、指导更专业，群众赛事愈发接地气、贴民心。“出门就能参加省级比赛！”湖北省随州市曾都区涢水街道居民姜民说。立足基层群众健身需求，2024年以来湖北省创新打造“百镇千村”“百街千巷”全民健身系列赛事活动，每站进行1场综合运动会、1场环村健康跑或社区大讲堂、3场冠军校园行、1场体测惠万家。截至2026年9月9日，全省累计在76站举办赛事活动1016场，带动1900余个乡村社区，19万群众直接参与，150万群众现场观赛。&lt;/p&gt;&lt;p&gt;　　完善竞技体育新型举国体制，构建多元开放的人才培养生态。&lt;/p&gt;&lt;p&gt;　　6月25日，国家壁球队入驻在四川成都落成的新基地，22片国际认证的标准场地和专业体能康复中心，为国家队提供训练、食宿、康复一站式服务。“队员们的心更定了，团队凝聚力更强了。”领队周捷说。&lt;/p&gt;&lt;p&gt;　　壁球、板球是2028年洛杉矶奥运会新增项目，国家体育总局开展试点工作，委托四川省和浙江省体育局分别承办。总局与地方两手托举、合力攻坚，创新模式结出硕果。在爱知—名古屋亚运会上，中国壁球队将首次全项目参赛，中国女子板球队时隔12年重返亚运。&lt;/p&gt;&lt;p&gt;　　北京郑常庄足球公园绿茵场，“百队杯”足球赛竞争激烈。竞技组U17小将王义晨连进两球，为队伍最终获胜建功。“百队杯”足球赛走过40多个年头，一批批足球少年以赛会友，很多好苗子以此为起点走上专业道路。如今，这一促进青少年全面健康发展的标杆赛事，成为北京市深化体教融合、夯实竞技体育后备人才基础的生动实践。&lt;/p&gt;&lt;p&gt;　　从“省办国家队”“校队市办”等模式取得成效，到赛事体系建设、以赛育才机制不断健全，政府主导下多元主体参与的竞技体育新发展模式日趋完善。“十四五”时期，我国竞技体育共取得世界冠军665个，创世界纪录91次，奖牌数量与项目覆盖面均创新高。&lt;/p&gt;&lt;p&gt;　　今年以来，我国竞技体育捷报频传：米兰冬奥会创造境外参赛历史最好成绩，举重、攀岩、射击等项目接连刷新世界纪录，世乒赛再度包揽男、女团双冠，吴宜泽成为斯诺克世锦赛史上首位00后冠军……体育健儿用拼搏书写新辉煌。&lt;/p&gt;&lt;p&gt;　　主动融入国家经济社会发展大局，推动体育产业高质量发展。&lt;/p&gt;&lt;p&gt;　　去年火爆出圈的“苏超”，今年又有新动作：比赛期间，106条跨区域主题文旅线路让球迷游客“跟着苏超游江苏”；各市联动推出“票根+”系列惠民举措，消费跟着赛事一起红火。江苏A级旅游景区接待游客数、全省重点监测的商贸流通企业销售额和客流量同比均实现增长。&lt;/p&gt;&lt;p&gt;　　广受年轻人欢迎的户外运动产业掀起新高潮。曾经，游客到四川瓦屋山“看一眼桌山、拍张照就走”。如今，这里成为户外运动爱好者的胜地，各类赛事活动持续引流。2026年“村BA”带动消费2300万元；今年前7个月，当地游客达70万人次，增长势头不减。&lt;/p&gt;&lt;p&gt;　　供给端与消费端同步升温，内需与外贸双向发力，“赛事流量”助推“产业增量”。今年以来，文体休闲服务类零售额保持较快增长，规模以上体育业企业营业收入持续增长。&lt;/p&gt;&lt;p&gt;　　“体育产业是朝阳产业、绿色产业、幸福产业。”在北京体育大学管理学院院长黄海燕看来，要继续推动体育产业提质扩容升级，为扩大内需、稳定增长、促进就业作出更大贡献，让体育产业真正成为人民美好生活的新载体、赋能经济社会发展。&lt;/p&gt;&lt;p&gt;　　体育强则中国强，国运兴则体育兴。国家体育总局党组书记、局长高志丹表示，我们将锚定体育强国建设总体目标，坚持以人民为中心，落实高质量发展要求，统筹做好全民健身、竞技体育、体育产业等各项工作，充分发挥体育综合价值和多元功能，扎实办好群众身边体育实事，全力激活体育消费内需潜力，奋力推动“十五五”体育事业起步稳健、开局向好，为经济社会高质量发展注入强劲体育动能。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李  硕  孙龙飞&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181990&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181990.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181990.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 多元赋能，体育强国建设步入快车道（“十五五”开好局起好步） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181990.html#[03版：要闻] 多元赋能，体育强国建设步入快车道（“十五五”开好局起好步）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 学深悟透用好习近平关于基层工作方法的重要论述  坚持不懈大抓基层为民造福</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181991.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 石泰峰在学习贯彻习近平关于基层工作方法的重要论述座谈会上强调 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 学深悟透用好习近平关于基层工作方法的重要论述  坚持不懈大抓基层为民造福 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月18日电  （记者孟祥夫）学习贯彻习近平关于基层工作方法的重要论述座谈会18日在京召开。中共中央政治局委员、中央组织部部长石泰峰出席会议并讲话，强调要深入学习贯彻习近平新时代中国特色社会主义思想特别是习近平党建思想，学深悟透用好习近平关于基层工作方法的重要论述，坚定拥护“两个确立”、坚决做到“两个维护”，扎实做好新时代基层工作，不断巩固党的执政根基，夯实中国式现代化的基层基础。&lt;/p&gt;&lt;p&gt;　　石泰峰表示，习近平关于基层工作方法的重要论述是中国共产党人关于基层工作方法理论和实践的智慧结晶，为做好新时代基层工作提供了重要遵循和行动指南。要加强学习培训，深化研究阐释，推动学以致用，切实转化为大抓基层、为民造福的生动实践。要坚持党的全面领导和党中央集中统一领导，完善党全面领导基层治理制度，确保基层工作沿着正确方向推进。要坚持人民至上，巩固拓展树立和践行正确政绩观学习教育成果，走好新时代党的群众路线，用心用情解决群众急难愁盼问题。要大力弘扬求真务实、真抓实干的作风，大兴调查研究，按客观规律办事，深入整治形式主义为基层减负。要压紧压实管党治党政治责任，统筹推进各领域基层党组织建设，加强党员干部教育管理监督，持续推动全面从严治党向基层延伸。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 石泰峰在学习贯彻习近平关于基层工作方法的重要论述座谈会上强调 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181991&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181991.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181991.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 学深悟透用好习近平关于基层工作方法的重要论述  坚持不懈大抓基层为民造福 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181991.html#[04版：要闻] 学深悟透用好习近平关于基层工作方法的重要论述  坚持不懈大抓基层为民造福</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 勿忘九一八撞钟鸣警仪式在沈阳举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181992.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 勿忘九一八撞钟鸣警仪式在沈阳举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报沈阳9月18日电　 （记者胡婧怡、刘佳华）九一八事变发生95周年之际，勿忘九一八撞钟鸣警仪式18日上午在辽宁省沈阳市“九·一八”历史博物馆残历碑广场举行。中共中央政治局委员、全国人大常委会副委员长李鸿忠出席仪式并讲话。&lt;/p&gt;&lt;p&gt;　　上午9时许，仪式开始。全场高唱国歌。9时18分，李鸿忠等领导同志和群众代表神情凝重地推动钟槌击响“警世钟”。14响钟声，寓意着中国人民14年艰苦卓绝的抗战历程。沈阳全城拉响防空警报，火车、轮船、汽车鸣笛。&lt;/p&gt;&lt;p&gt;　　李鸿忠讲话指出，95年前，日本侵略者悍然发动震惊中外的九一八事变。在中国共产党领导下，中国人民取得近代以来反抗外敌入侵的第一次完全胜利。以史为鉴、昭示未来，我们要毫不动摇坚持党的全面领导，推进中国式现代化建设，推动构建人类命运共同体。在以习近平同志为核心的党中央坚强领导下，中华民族伟大复兴的壮阔征程必将一往无前。&lt;/p&gt;&lt;p&gt;　　李鸿忠等领导同志还同各界群众代表一道参观了“真相：日本侵略中国东北铁证展”。&lt;/p&gt;&lt;p&gt;　　王小洪、张升民、邵鸿出席仪式。青年学生代表在仪式上发言。在辽参加过抗日战争的老战士老同志代表，抗战烈士遗属代表，中央党政军群有关部门和辽宁省、吉林省、黑龙江省负责同志，北部战区有关负责同志，各界群众代表等约1000人参加仪式。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181992&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181992.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181992.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 勿忘九一八撞钟鸣警仪式在沈阳举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181992.html#[04版：要闻] 勿忘九一八撞钟鸣警仪式在沈阳举行</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181993.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/378e6fcf-c624-47a5-8bde-b2e0b3613bd9.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　九月十八日，全国多地举行活动，铭记历史，缅怀先烈，祈愿和平。图为侵华日军南京大屠杀遇难同胞纪念馆，人们在防空警报声中肃立默哀。&lt;/p&gt;&lt;p&gt;　　苏  阳摄（新华社发） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181993&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181993.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181993.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181993.html#[04版：要闻] 图片报道</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 缅怀先烈  珍爱和平</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181994.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 多地举行活动铭记九一八 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 缅怀先烈  珍爱和平 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　九一八事变发生95周年之际，多地举行活动，铭记历史、缅怀先烈，珍爱和平、开创未来。&lt;/p&gt;&lt;p&gt;　　9月18日，中国人民抗日战争纪念馆举行系列主题活动，传承和弘扬伟大抗战精神。上午9时18分，首都高校师生和抗战馆干部职工代表等近200人在抗战馆序厅整齐列队，奏唱中华人民共和国国歌，向在中国人民抗日战争中英勇牺牲的烈士们默哀，随后依次向抗战英烈敬献鲜花，表达对抗战英烈的无限追思与崇高敬意。&lt;/p&gt;&lt;p&gt;　　活动现场，依托《为了民族解放与世界和平》主题展览，讲解员详细讲解了九一八事变的历史背景与深刻影响，带领青年学生感悟中华儿女救亡图存的不屈精神。当天上午，中国人民抗日战争纪念馆还与辽宁沈阳“九·一八”历史博物馆联动，以“山河共鉴  抗战记忆”为主题，跨地域联动开展九一八事变95周年特别直播，两地同上一堂云端思政课。&lt;/p&gt;&lt;p&gt;　　18日，黑龙江省暨哈尔滨市青少年“勿忘九一八”爱国主义教育省级示范活动在侵华日军第七三一部队罪证陈列馆举办。共青团黑龙江省委员会、黑龙江省退役军人事务厅、共青团哈尔滨市委员会等有关负责同志出席活动，机关、学校、消防、医护、国企、铁路等领域青少年代表400余人参加活动。&lt;/p&gt;&lt;p&gt;　　活动采取仪式教育与实景研学相结合形式开展。纪念仪式设置“警钟长鸣·勿忘国耻”“山河回响·缅怀忠魂”“少年砥志·强国有我”三个篇章。活动同步设置“国防教育”“民族苦难历史”实景研学环节，青少年代表走进侵华日军第七三一部队罪证陈列馆，参观国防教育主题新闻摄影展，沉浸式感悟历史、砥砺初心。&lt;/p&gt;&lt;p&gt;　　18日上午，江苏南京社会各界代表齐聚侵华日军南京大屠杀遇难同胞纪念馆，参加升国旗、唱国歌、撞响和平大钟仪式，以此铭记历史，缅怀先烈。&lt;/p&gt;&lt;p&gt;　　上午9时，全体人员整齐肃立、齐声高唱国歌。国歌唱毕，全体人员向南京大屠杀的无辜死难者、惨遭日本侵略者杀戮的死难同胞、为中国人民抗日战争胜利献出生命的革命先烈和民族英雄、同中国人民携手抗击日本侵略者而献出生命的国际战士和国际友人默哀。&lt;/p&gt;&lt;p&gt;　　随后，南京艺术学院大学生代表深情朗诵抗战诗歌，讴歌中国人民英勇不屈的抗战精神。学生张博翔表示，作为青年一代，应当牢记历史，肩负起国家的使命。&lt;/p&gt;&lt;p&gt;　　18日上午，在位于江西南昌西湖区的新四军军部旧址陈列馆园林广场，社会各界代表、在校学生、青年志愿者等100余人整齐列队，肃立默哀，并向革命先辈铜像敬献花篮花束，深情追忆先辈们浴血奋战的峥嵘岁月，寄托对英烈的崇高敬意与深切哀思。&lt;/p&gt;&lt;p&gt;　　除主题纪念仪式外，陈列馆还举办“长征砺初心  红土育忠魂——江西大地走出的雨花英烈”专题展。展览依托125张珍贵历史图片史料、25件（套）实物展品，系统梳理江西籍及曾在赣从事革命活动的雨花英烈的光辉事迹，再现英烈们艰苦卓绝的斗争历程。&lt;/p&gt;&lt;p&gt;　　“国泰民安的盛世景象源自无数先烈的流血牺牲，和平岁月来之不易。”市民万恬表示，作为新时代青年，要以青春之力扛起时代责任，守护好先辈用生命捍卫的家国。&lt;/p&gt;&lt;p&gt;　　（综合本报记者王昊男、方圆、尹晓宇、周欢报道） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 多地举行活动铭记九一八 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181994&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181994.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181994.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 缅怀先烈  珍爱和平 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181994.html#[04版：要闻] 缅怀先烈  珍爱和平</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 变化的是岗位，不变的是初心（权威发布）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181995.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 四名退役军人代表与中外记者交流 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 变化的是岗位，不变的是初心（权威发布） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李龙伊&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　9月18日，国务院新闻办举行“新征程上的奋斗者”中外记者见面会，邀请4名退役军人代表围绕“永葆军人本色  退役再续荣光”与中外记者见面交流。&lt;/p&gt;&lt;p&gt;　　退役军人是党和国家的宝贵财富。他们退役后在不同岗位施展才华、发光发热，有的守护一方安宁，驻守国门安全；有的讲述英烈故事，传承红色精神；有的矢志创新，为国家科技发展添砖加瓦，展现了退役军人昂扬向上、奋发有为的精神风貌。&lt;/p&gt;&lt;p&gt;　　忠诚担当，把部队锤炼的本领转化为履职本领。&lt;/p&gt;&lt;p&gt;　　“基层警务没有轰轰烈烈，更多的是烟火琐事。我始终把群众的小事当成天大的事。”曾服役于“杨根思连”的河南省临颍县皇帝庙派出所指导员陈晓磐扎根农村21年，累计骑行巡逻15万余公里，走遍全乡8948户群众院落，写下走访笔记90多本……当地群众口口相传着一句话：“有困难找晓磐，找到晓磐不作难。”&lt;/p&gt;&lt;p&gt;　　北京出入境边防检查总站执勤七大队副队长李健平把部队锤炼出的严谨务实、敢打硬仗的作风带到国门岗位。她带领团队圆满完成150余场重大涉外活动安保任务。&lt;/p&gt;&lt;p&gt;　　这种从部队带出来的作风，也带动了青年民警——队伍里涌现出80后“十大国门卫士”、荣立一等功的90后民警，“老兵带新人，好作风代代相传”。“身份可以变，岗位可以变，但我坚守初心不会变。”李健平说。&lt;/p&gt;&lt;p&gt;　　从军营到地方、从战场到市场，东方航天港（山东）发展集团有限公司董事长、总经理高中前曾服役24年。转业后，他参与并见证了我国首个海上发射母港——东方航天港的建设。&lt;/p&gt;&lt;p&gt;　　“项目建设之初，没有产业基础、没有项目资金、没有人才储备。”高中前带领团队从零起步，发扬部队不畏艰难、攻坚克难的传统和作风，大胆实践、勇于创新，攻克了海上常态发射的核心技术，形成了陆海协同、高频常态、广域机动的海上发射新能力。截至目前，东方航天港已实施28次海上发射任务，将175颗卫星精准送入太空，发发成功、次次圆满。&lt;/p&gt;&lt;p&gt;　　守好红色阵地，当好红色基因的传承者。&lt;/p&gt;&lt;p&gt;　　辽宁省大连市普兰店区唐房革命烈士陵园管理员、讲解员张勇，已经在这个岗位工作了20年。讲解之余，他一直挂念着陵园里没有找到亲人的烈士，走访18个省份，辗转2万余公里，先后为340多名英烈找到亲人。&lt;/p&gt;&lt;p&gt;　　“作为退役军人、英烈讲解员，我始终牢记宣讲这个主责主业，坚持‘走出去、请进来’相结合，讲好本土本地的红色故事，带动全社会特别是青年一代，传承红色基因，缅怀革命前辈。”张勇说。&lt;/p&gt;&lt;p&gt;　　扎根基层、奋斗奉献，4名退役军人代表正把部队锤炼出的忠诚、担当与坚韧，化作新征程上继续冲锋的力量。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李龙伊&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 四名退役军人代表与中外记者交流 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181995&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181995.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181995.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 变化的是岗位，不变的是初心（权威发布） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181995.html#[04版：要闻] 变化的是岗位，不变的是初心（权威发布）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 全国人大常委会举办2026年第4期全国人大代表学习班</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181996.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人大常委会举办2026年第4期全国人大代表学习班 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报武汉9月18日电  全国人大常委会9月16日至18日在湖北省武汉市举办2026年第4期全国人大代表学习班。来自31个选举单位的224名全国人大代表围绕深入学习贯彻习近平生态文明思想，全面贯彻实施生态环境法典，加快推进美丽中国建设开展履职学习。&lt;/p&gt;&lt;p&gt;　　全国人大常委会代表工委负责同志在开班式上表示，建设美丽中国是全面建设社会主义现代化国家的重要目标。人大代表要持续深入学习贯彻习近平生态文明思想，全面贯彻实施生态环境法典，充分发挥人大代表桥梁作用，全面深入了解群众所盼所愿、收集一线声音，为贯彻实施好生态环境法典贡献基层智慧；立足本职岗位，依托代表联络站等平台深入开展法治宣传教育，推动形成学法用法良好氛围，为加快推进美丽中国建设贡献力量。&lt;/p&gt;&lt;p&gt;　　学习班安排了6场专题报告，邀请中央党史和文献研究院、全国人大环资委、全国人大常委会法工委、国家发展改革委、自然资源部、生态环境部等部门有关负责同志围绕相关主题进行授课。学习班还安排了现场教学，并组织开展履职交流。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181996&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181996.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181996.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人大常委会举办2026年第4期全国人大代表学习班 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181996.html#[04版：要闻] 全国人大常委会举办2026年第4期全国人大代表学习班</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] “一村红”迈向“片区兴”（赓续长征精神  奋进复兴征程·记者再走长征路）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181997.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “一村红”迈向“片区兴”（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  孙  超&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/19/0a069270-3a98-4872-8040-32292374166a.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　位于沙洲村的“半条被子的温暖”专题陈列馆内，讲解员在为游客讲解历史。 &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　朱桂花摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/0a069270-3a98-4872-8040-32292374166a.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　1934年11月，红军长征路过湖南郴州市汝城县文明瑶族乡沙洲瑶族村，3位红军女战士在村民徐解秀家借宿。临走时，她们把仅有的一条被子剪下一半留下。从此，“半条被子”的故事流传至今。近日，记者走进沙洲村，恰逢当地正在举行郴州市纪念红军长征胜利90周年健步走活动。&lt;/p&gt;&lt;p&gt;　　汇入人流，踏上游步道，走过产业路。这一走，就走出了沙洲村。在相邻的文市村，瑶寨山墙上“等你在沙洲”的标语被鲜花簇拥。沙洲的名字，怎么挂到文市村来了？&lt;/p&gt;&lt;p&gt;　　“现在，大家都说‘大沙洲’了。”文市村村干部罗凯明笑着答道。2023年开始，当地统筹推动环沙洲“十村一社区”联动发展，实施底线固守、产业培育、增收共富、环境提升、基础升级、乡村治理六大工程，建设环沙洲乡村振兴共同富裕示范区。&lt;/p&gt;&lt;p&gt;　　带动，首先靠人气的外溢。&lt;/p&gt;&lt;p&gt;　　今年“五一”假期，文市瑶寨接待游客超3万人次。沙洲火了，文市近水楼台，民宿如雨后春笋般开张。瑶寨深处，豆香扑鼻，“文明豆腐”传承人张献华正在制作油豆腐，“过去是家庭作坊，一个帮手也没请。”沙洲火了后，豆腐供不应求，用工规模增加到50多人。最近他正打算把豆腐工坊搬进景区，让游客有更好的体验。&lt;/p&gt;&lt;p&gt;　　“单一景点吸引力不大，联动起来才有‘化学反应’。”湖南旅游发展有限公司驻沙洲红色旅游景区总经理陈敏说。&lt;/p&gt;&lt;p&gt;　　联动，离不开产业的延伸。&lt;/p&gt;&lt;p&gt;　　五一村里，长征元素不少。老房子的外墙上，张贴着长征时期的革命宣传单——《出路在哪里》。村子过去没什么产业，是个贫困村。得益于示范区联动发展，2024年，村里建起“出路在哪里”陈列馆，被纳入“我的沙洲行”红色研学路线，吸引游客2万多人次。今年，算上景区租金，村集体经济收入可达40多万元。&lt;/p&gt;&lt;p&gt;　　抱团，还得解决思路问题。&lt;/p&gt;&lt;p&gt;　　在韩田村党支部书记张有发看来，推进乡村全面振兴的“长征路”上，抱团发展才有后劲。韩田村舞起非遗香火龙，秀水村办起民宿集群……环沙洲片区内，“一村一景点”错位发展，近3年吸引游客逾430万人次，“十村一社区”集体经济收入从村均11.54万元增长到34.87万元，“一村红”，正在迈向“片区兴”。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  孙  超&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181997&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181997.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181997.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “一村红”迈向“片区兴”（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181997.html#[04版：要闻] “一村红”迈向“片区兴”（赓续长征精神  奋进复兴征程·记者再走长征路）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 持续做大做强先进制造业</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181998.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 持续做大做强先进制造业 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							金社平&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　现代化产业体系，中国经济的战略依托；先进制造业，现代化产业体系的骨干。&lt;/p&gt;&lt;p&gt;　　“完整准确全面贯彻新发展理念，统筹高质量发展和高水平安全”“加快构建以先进制造业为骨干的现代化产业体系，巩固壮大实体经济根基，为推进中国式现代化提供有力支撑”。习近平总书记近日就发展先进制造业作出重要指示，为新征程上持续做大做强先进制造业提供了根本遵循和行动指南。&lt;/p&gt;&lt;p&gt;　　9月16日至17日，全国先进制造业大会在北京召开，充分彰显了以习近平同志为核心的党中央对先进制造业的高度重视。我们要凝心聚力、真抓实干，认真学习领会、坚决贯彻落实习近平总书记重要指示精神，持续做大做强先进制造业，把现代化产业体系的“骨干”挺起来。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　（一）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记指出，党的十八大以来，我国先进制造业不断发展壮大，创新力、竞争力、综合实力显著增强，制造强国建设迈出坚实步伐。&lt;/p&gt;&lt;p&gt;　　“我国是个大国，必须发展实体经济，不断推进工业现代化、提高制造业水平”；&lt;/p&gt;&lt;p&gt;　　“立足实体经济这个根基，做大做强先进制造业，积极推进新型工业化”；&lt;/p&gt;&lt;p&gt;　　“以科技创新为引领，统筹推进传统产业升级、新兴产业壮大、未来产业培育”；&lt;/p&gt;&lt;p&gt;　　…………&lt;/p&gt;&lt;p&gt;　　习近平总书记站在推进强国建设、民族复兴伟业的战略高度，就发展先进制造业作出一系列重要论述，指引新时代中国加快建设制造强国。&lt;/p&gt;&lt;p&gt;　　全球每卖出3辆汽车，就有1辆中国造。超前部署、换道超车、加速进化，2013年以来中国新能源汽车销量增长930多倍，渗透率提升590多倍，一个万亿元级战略性新兴产业强势崛起。&lt;/p&gt;&lt;p&gt;　　制造业增加值连续16年稳居全球第一、占全球比重接近30%，光伏、通信、高铁、造船等优势领域实现全球领跑，机器人、人工智能、创新药方兴未艾，新质生产力起势成势，先进制造业动能澎湃。&lt;/p&gt;&lt;p&gt;　　山一程，水一程。发展先进制造业，我们基础坚实，任务艰巨。“十五五”时期，世界百年变局和产业变革交织演进，我国经济进入转型升级关键阶段，持续做大做强先进制造业的意义更加凸显、任务也更为紧迫。&lt;/p&gt;&lt;p&gt;　　“十五五”规划建议把建设现代化产业体系摆在各项战略任务的第一条。“是经过深思熟虑的”，习近平总书记在今年“开年第一课”上给出了原因，“这些年我国经济顶风破浪、保持强大韧性和活力，战略依托就是完整的产业体系。”&lt;/p&gt;&lt;p&gt;　　新征程上，持续做大做强先进制造业，对“不断增强我国发展的确定性和可持续性”具有重大而深远的战略意义。&lt;/p&gt;&lt;p&gt;　　这是应对外部挑战、在国际竞争中赢得主动的必然选择。&lt;/p&gt;&lt;p&gt;　　当今世界，单边主义、保护主义上升，人工智能、量子科技等新领域新赛道国际竞争空前激烈，先进制造业成为主战场。&lt;/p&gt;&lt;p&gt;　　如何把发展进步的命运牢牢掌握在自己手中？统筹高质量发展和高水平安全，提升产业链自主可控水平。坚持把国家和民族发展放在自己力量的基点上，持续增强自主创新能力，我们方能在全球创新版图重构中站稳脚跟、赢得主动。&lt;/p&gt;&lt;p&gt;　　这是巩固壮大实体经济根基、发展新质生产力的关键之举。&lt;/p&gt;&lt;p&gt;　　先进制造业技术密集度高、价值创造力强、引领带动面广，是新质生产力的典型代表，在现代化产业体系中处于枢纽地位。&lt;/p&gt;&lt;p&gt;　　“十五五”时期，把因地制宜发展新质生产力摆在更加突出的战略位置，要求我们紧紧抓住先进制造业这个关键，切实增强产业体系完整性、先进性、安全性，“经过不断转型升级、提质换代，一步一步往上走。”&lt;/p&gt;&lt;p&gt;　　这是稳经济、促发展的现实需要。&lt;/p&gt;&lt;p&gt;　　近10年，高技术制造业、装备制造业增加值分别年均增长10%、超过8%……中国经济持续向新向优向好发展，先进制造业是重要力量。&lt;/p&gt;&lt;p&gt;　　全面转入高质量发展轨道，中国经济的发展动能、产业结构等正面临深刻调整。推进新旧动能平稳接续转换，重要抓手就是大力发展先进制造业、培育壮大新质生产力，促进新动能积厚成势、传统动能焕新升级。&lt;/p&gt;&lt;p&gt;　　发展先进制造业，挑战不小，机遇更多。工业体系完备，应用场景广阔，资源能源供应稳定，产业链供应链韧性强，诸多机遇、优势和有利条件叠加，机遇大于挑战。&lt;/p&gt;&lt;p&gt;　　坚定信心、迎难而上，先进制造业的发展潜能将源源释放，中国式现代化的物质技术基础将更加坚实。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　（二）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记指出：“坚持智能化、绿色化、融合化方向，持续做大做强先进制造业”。&lt;/p&gt;&lt;p&gt;　　一片钢箔，照见先进制造业的生动模样。&lt;/p&gt;&lt;p&gt;　　压延、清洗、光亮、拉矫、纵切、包装，山西太钢不锈钢精密带钢有限公司车间内，一卷卷“手撕钢”经过自动化工序相继下线。从0.02毫米到0.015毫米，从研发到生产再到量产，“百炼钢做成了绕指柔”，最高端产品的价格堪比黄金。&lt;/p&gt;&lt;p&gt;　　持续做大做强先进制造业，就要因时应势、紧盯前沿，在“先进”二字上下功夫，推动制造业向微笑曲线两端延伸、向价值链上游攀升。&lt;/p&gt;&lt;p&gt;　　向“智”跃迁，塑造“中国智造”新优势。&lt;/p&gt;&lt;p&gt;　　习近平总书记指出，“要抓住难得的历史性机遇，鼓励开源开放、合作共享，全面促进人工智能科技创新、产业发展、场景应用”。&lt;/p&gt;&lt;p&gt;　　拥抱新技术，我国建成5.6万余家基础级、9000余家先进级、500余家卓越级智能工厂，培育15家领航级智能工厂，人工智能、大数据、云计算等新一代信息技术体系居全球前列。&lt;/p&gt;&lt;p&gt;　　当前，全球人工智能技术创新进入前所未有的活跃期。聚焦智能化，以新一代智能制造为主攻方向，纵深推进“人工智能+制造”行动，推动更多行业和企业全面数智化转型，“中国智造”名片将更加亮丽。&lt;/p&gt;&lt;p&gt;　　向“绿”而行，让绿色转型成为增长新动能。&lt;/p&gt;&lt;p&gt;　　新质生产力本身就是绿色生产力，绿色是先进制造业的鲜明底色。&lt;/p&gt;&lt;p&gt;　　经过多年发展，国家绿色工厂已超8000家，光伏、动力电池、节能环保装备等不少绿色产业实现“换道领跑”。&lt;/p&gt;&lt;p&gt;　　“十五五”时期是绿色技术变革、规则博弈、碳达峰攻坚的关键时期。锚定绿色化，坚定不移走生态优先、绿色发展之路，一体推进绿色改造与技术创新、产业升级，我国绿色产业竞争优势将更加凸显。&lt;/p&gt;&lt;p&gt;　　向“融”发力，培育更多产业发展新增长点。&lt;/p&gt;&lt;p&gt;　　跨界融合是先进制造业发展的重要驱动力。一副人工智能眼镜，搭载人工智能、传感器、无线通信等技术，集成翻译、导航、语音识别等服务；一座安徽合肥骆岗公园，汇聚观光文旅、高速巡检等10多类典型场景，让新技术有了“用武之地”……近年来，信息技术、新材料、生物技术等不同领域技术多点突破、交叉应用，催生出一批集成度高的创新产品、综合性强的创新场景。&lt;/p&gt;&lt;p&gt;　　把握产业大势，融合千行百业。发力融合化，促进先进制造业与现代服务业深度融合，推动更多新技术新产品新场景相继涌现，不仅将助力制造业全链增值、向价值链高端跃升，也将撬动各行各业耦合共生、活力迸发。&lt;/p&gt;&lt;p&gt;　　锚定目标、逐新向高，坚持智能化、绿色化、融合化方向，先进制造业将不断展露新模样、洋溢新生机。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　（三）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记强调：“提升产业链自主可控水平，加快构建以先进制造业为骨干的现代化产业体系”。&lt;/p&gt;&lt;p&gt;　　持续做大做强先进制造业是一项系统工程，要综合施策、精准发力，推动各项部署任务取得实实在在的成效。&lt;/p&gt;&lt;p&gt;　　创新引领，点燃先进制造业创新引擎。&lt;/p&gt;&lt;p&gt;　　现代制造业离不开科技赋能，“先进”的根本动力在于创新。基础研究，整个科学体系的源头，所有技术问题的总机关。今年4月，习近平总书记在加强基础研究座谈会上强调，“要以更大力度、更实举措加强基础研究，提升我国原始创新能力”。优化布局、加大投入，增强基础研究和原始创新能力，创新后劲将更足。&lt;/p&gt;&lt;p&gt;　　科技创新和产业创新，发展新质生产力的基本路径。强化关键核心技术攻关，深化科技成果转化应用，更多新技术新应用将走出实验室、走进车间、走向市场，加速转化为现实生产力。&lt;/p&gt;&lt;p&gt;　　统筹推进，促进先进制造业扩容提质。&lt;/p&gt;&lt;p&gt;　　先进制造业根植于各行各业，既涵盖新技术催生的新兴产业，也包括改造提升后的传统产业。面向未来，我们既要支持技术研发、推动场景培育、加快规模应用，做大新兴产业这个增量，也要前瞻谋划和布局，培育未来产业这个变量，还要改进工艺技术、优化产品结构，做优传统产业这个存量。&lt;/p&gt;&lt;p&gt;　　传统产业“发新芽”，新兴产业“长成林”，未来产业“扎下根”，先进制造业将在新故相推中生生不息。&lt;/p&gt;&lt;p&gt;　　系统施策，优化先进制造业发展环境。&lt;/p&gt;&lt;p&gt;　　发展先进制造业，离不开千千万万的企业。如何发挥各类主体的积极性创造性，进一步增强发展动能？坚持有效市场和有为政府相结合，完善体制机制，让财税、金融、产业、科技等方面政策协同发力，让资金、人才、数据等各类优质要素向先进制造业集聚，让市场化、法治化、国际化的营商环境为产业发展营造良好生态。&lt;/p&gt;&lt;p&gt;　　龙头企业“顶天立地”，专精特新“小巨人”、独角兽等优质企业和初创企业“铺天盖地”，先进制造业就会生机勃发、奔驰向前。&lt;/p&gt;&lt;p&gt;　　习近平总书记强调，振兴制造业特别是先进制造业，短期看是实现经济良性循环的关键，长期看是国家经济命脉。&lt;/p&gt;&lt;p&gt;　　建设现代化产业体系，发展先进制造业，责任重大、任务艰巨。让我们进一步把思想和行动统一到习近平总书记重要指示精神和党中央决策部署上来，锐意进取、勇攀高峰，加快发展先进制造业、建设制造强国，为实现第二个百年奋斗目标作出新的更大贡献！&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;金社平&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181998&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181998.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181998.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 持续做大做强先进制造业 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181998.html#[04版：要闻] 持续做大做强先进制造业</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 一版责编：杨  旭  栾心怡  赵川博 二版责编：林  琳  张安宇  陈  震 三版责编：韩晓明  姜  波  关皓宇 四版责编：袁振喜  白之羽  韩春瑶</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181999.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：杨  旭  栾心怡  赵川博 二版责编：林  琳  张安宇  陈  震 三版责编：韩晓明  姜  波  关皓宇 四版责编：袁振喜  白之羽  韩春瑶 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181999&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181999.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181999.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：杨  旭  栾心怡  赵川博 二版责编：林  琳  张安宇  陈  震 三版责编：韩晓明  姜  波  关皓宇 四版责编：袁振喜  白之羽  韩春瑶 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181999.html#[04版：要闻] 一版责编：杨  旭  栾心怡  赵川博 二版责编：林  琳  张安宇  陈  震 三版责编：韩晓明  姜  波  关皓宇 四版责编：袁振喜  白之羽  韩春瑶</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 奔赴赛场，中国体育健儿加油（亚运纵横）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181956.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 第二十届亚运会19日开幕 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 奔赴赛场，中国体育健儿加油（亚运纵横） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月3日，中国体操队在北京进行亚运会实战测验。图为邹敬园在双杠测试中。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  陶相安摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/0b6bc97b-ce73-4afe-85f5-bd05eae4dc2e.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月17日，中国队球员李晴潼（左一）在亚运会女足小组赛中拼抢。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  贾浩成摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/8c9475bf-f226-47af-9f44-7305fdfc6914.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月18日，中国队球员陈厚羽（上）在亚运会女排小组赛中进攻。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  王  菲摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/bc70230c-7372-440a-8faf-be1fd04fbf17.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/482fca96-2d8d-4961-ba0e-aba638f2061d.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　数据来源：新华社&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/4e5e2b0a-f97f-4e20-8018-9f35e8e27afb.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　第二十届亚运会将于9月19日晚在日本名古屋开幕，中国体育代表团各项备赛工作有条不紊地进行中。18日，多支队伍已抵达比赛场馆，以不同方式进行赛前冲刺。&lt;/p&gt;&lt;p&gt;　　适应场地，提升临场能力&lt;/p&gt;&lt;p&gt;　　9月18日上午，中国羽毛球队来到比赛场馆一宫市综合体育馆，各项目组在热身场、训练馆和比赛馆等有序开展赛前适应性训练。球队负责人介绍，球馆面积不大，光线还可以，顺逆风向比较明显，队伍将利用赛前官方安排时间积极投入训练，尽快适应场地，把竞技状态调整到最佳。&lt;/p&gt;&lt;p&gt;　　9月17日上午8点，中国乒乓球队从驻地出发，来到本届亚运会的乒乓球比赛场地丰田天空体育馆，开始了第一次的赛前训练。球队于16日抵达名古屋。队中的3名奥运冠军都身兼三项，他们对本届亚运之旅有不同的期待。孙颖莎表示，要享受每场比赛，一点点拼出好状态。王曼昱说，面对密集赛程，要保证好身体，打出封闭训练的质量。王楚钦的目标很坚定：“做好面对马拉松式赛程的准备，勇敢迎接困难挑战，争取赢下每一分。”&lt;/p&gt;&lt;p&gt;　　本届亚运会，中国武术队共派出高晓彬等12名运动员参加全部15个项目中的12项比拼。此前在国内集训时，队伍已进行多轮模拟测验，帮助提升临场发挥能力和心理抗压能力，希望队员尽快进入大赛节奏。9月17日，中国武术队进行了亚运会的首堂训练课，以恢复性体能训练为主，通过低强度有氧、动态拉伸和专项柔韧等练习，帮助队员调整时差、适应环境。随后，全队前往比赛场馆进行了赛前实战模拟演练，提前了解检录、入场、比赛、退场等流程。&lt;/p&gt;&lt;p&gt;　　模拟测验，及时复盘总结&lt;/p&gt;&lt;p&gt;　　“动作细节处理还不够”“水花效果欠缺一些”“双人节奏出了点问题”……日前，中国跳水队在北京举行队内测验，赛后采访时队员们纷纷以“自我批评”开场，不放过每一个复盘总结的机会。&lt;/p&gt;&lt;p&gt;　　大赛前开展队内测验，进行查漏补缺和最后的调整冲刺，是中国跳水队的传统。自1974年德黑兰亚运会参赛以来，中国跳水队已连续13届斩获所有项目金牌。9月26日至30日，本届亚运会跳水比赛将在东京水上运动中心举行，中国队派出12名运动员参加全部10个项目的争夺。已4次夺得女子十米台世锦赛冠军的陈芋汐，仍在每一次训练和比赛后细抠动作和入水效果。测验让她明确了调整的方向，利用赛前时间继续改进。“还是放平心态，去拼每一场、每一跳。”她说。&lt;/p&gt;&lt;p&gt;　　本届亚运会的摔跤比赛将在9月30日展开。在4月的亚锦赛上，中国摔跤队收获5金1银8铜，中国女子摔跤队在全部10个级别中均登上领奖台，共夺得5金1银4铜，获得团体总分第一。赛前，队伍有针对性地开展了模拟对抗训练，教练员扮演裁判，帮助运动员在比赛中正确面对判罚，避免情绪影响技术发挥。“近期备赛的训练强度一再突破极限，让我们基础更扎实，能更好适应更多情况。”队员龙佳说。&lt;/p&gt;&lt;p&gt;　　中国花样游泳队将在本届亚运会集体自由自选项目中带来全新作品《时间》，期待用婉约的东方韵味和深刻的思想表达打动评委与观众。“我们力争拿出来的作品都是精品。”主教练张晓欢介绍。花样游泳比赛将于9月26日至28日在静冈县滨松市举行。“继续精细化每一个难点动作的完成，同时注意伤病防控，引导队员们把高强度的训练转化到更有针对性的比赛模拟中去。”张晓欢说。&lt;/p&gt;&lt;p&gt;　　以赛带练，调整竞技状态&lt;/p&gt;&lt;p&gt;　　9月13日，攀岩世界杯贵阳站落幕，中国攀岩队收获3金3银1铜。中国队选手邓丽娟以6秒14夺得女子速度个人赛金牌。作为巴黎奥运会该项目银牌得主，邓丽娟近两年受到伤病影响以及更改攀爬动作的挑战，这枚金牌及时为她提振了信心。在亚运会赛场，邓丽娟将面对亚洲纪录保持者、印度尼西亚队选手德莎克等强手，她表示，将全力以赴、迎难而上。&lt;/p&gt;&lt;p&gt;　　亚运会高尔夫球比赛将于9月30日至10月3日进行。中国队选手殷若宁在8月底举行的FM锦标赛中夺冠，在亚运会前展现出良好的竞技状态。中国高尔夫球队共派出男、女各3名运动员，参加个人和团体全部4个小项的比赛。据中国高尔夫球协会奥运保障部部长李际海介绍，协会于7月安排运动员提前试场，获取亚运会比赛球场性能数据并进行专项分析，为队员们备赛提供了数据支持，有助于他们更好发挥水平。&lt;/p&gt;&lt;p&gt;　　9月19日，中国女篮将迎来本届亚运会小组赛首个对手泰国队，力争向亚运会三连冠发起冲击。在此之前，中国女篮刚刚经历2026年国际篮联女篮世界杯的锻炼，并顺利晋级八强。在球队主教练宫鲁鸣看来，世界杯的锻炼让球队更加团结，大家相互支持，为接下来的比赛打下良好的基础。&lt;/p&gt;&lt;p&gt;　　（本报记者李硕、孙龙飞、陶相安、孔庆元）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 第二十届亚运会19日开幕 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181956&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181956.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181956.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 奔赴赛场，中国体育健儿加油（亚运纵横） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181956.html#[05版：特别报道] 奔赴赛场，中国体育健儿加油（亚运纵横）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 目标笃定  专注前行（亚运观澜）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181957.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 目标笃定  专注前行（亚运观澜） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							马国英&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　从杭州到名古屋，时隔3年，亚洲体育即将开启新的一页。&lt;/p&gt;&lt;p&gt;　　本届亚运会，中国代表团派出815名运动员，参加38个大项、369个小项的角逐。对于中国代表团而言，金牌数量不是衡量参赛结果唯一的标尺，运动员赛场拼搏、突破自我，特别是新人的出现与成长，才是更为重要的看点。&lt;/p&gt;&lt;p&gt;　　中国代表团815名运动员中，有548张亚运新面孔，运动员平均年龄24岁，05后占运动员总人数27％，共有36名奥运冠军出战，可谓活力满满又星光熠熠。这样的人员结构，展现出接力传承的期望，也传递出中国体育迎接2028年洛杉矶奥运会、面向长远的谋篇布局。&lt;/p&gt;&lt;p&gt;　　站在新奥运周期，中国代表团将本届亚运会作为一次“期中考”。赛前集训各支队伍全方位对标备战，成效将在亚运赛场上得到检验。以中国乒乓球队为例。近期，球队在上海崇明体育训练基地进行了24天的封闭集训。在人员安排上，此次亚运会国乒派出10人参赛，3名奥运冠军王楚钦、孙颖莎、王曼昱都是第三次参加亚运会，其余7人是首次参赛。奥运冠军向新人传授经验，新人用激情带动奥运冠军发挥。立足2028年洛杉矶奥运会，布局2032年布里斯班奥运会，期待这样的“传帮带”发挥独特作用。&lt;/p&gt;&lt;p&gt;　　没有十拿九稳的赢，只有毫无保留的拼。所谓布局，是着眼未来的角度谋划，而每场比赛都有不可替代的价值，一步一步、久久为功，才能让规划布局成为现实。正如多名运动员在赛前集训时所说，要努力追求更有含金量的成绩。更有含金量，意味着跳出大赛看成绩、站在世界看自己，本届亚运会的成绩也将在直面未来的挑战中得以印证。&lt;/p&gt;&lt;p&gt;　　布局需要锚定目标，调兵遣将、充分准备，而具体实施最终还是要落到运动员的每场比赛上。&lt;/p&gt;&lt;p&gt;　　赛场上，最让人印象深刻的就是运动健儿全身心投入，这种专注的力量无声却动人。它是一种忘我的追求，也是对赛事、规则、队友和对手的尊重。在比赛中出现惊喜或遗憾，都是竞技体育魅力的生动注脚。期待赛场内外，运动员和观众都能因专注而获得更加纯粹和美好的亚运记忆。&lt;/p&gt;&lt;p&gt;　　走向亚运舞台，对于中国健儿来说，金牌和奖牌自然重要，但他们说得更多的是：顽强拼搏、为国争光的目标始终不变。为中国体育健儿加油！目标不变，且更从容。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;马国英&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181957&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181957.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181957.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 目标笃定  专注前行（亚运观澜） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181957.html#[05版：特别报道] 目标笃定  专注前行（亚运观澜）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 中国体育代表团亮相亚运会欢迎仪式</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181958.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国体育代表团亮相亚运会欢迎仪式 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/c1f76fe1-99ad-4ba7-a353-3e6c8a122a44.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　本报名古屋9月18日电  （记者陈晨曦、人民网记者胡雪蓉）17日，在名古屋花园码头富士广场举行的第二十届亚运会欢迎仪式上，中国体育代表团正式亮相（见图，新华社记者贾宇辰摄）。&lt;/p&gt;&lt;p&gt;　　亚运会欢迎仪式从9月16日起开始举办，仪式依次进行代表团入场、代表团介绍、文艺表演、欢迎致辞、升旗仪式、纪念礼品赠送、集体合影等环节。每日设置3个场次，每场约3至6个代表团亮相。与中国体育代表团共同亮相的，还有中国香港体育代表团和中国澳门体育代表团。&lt;/p&gt;&lt;p&gt;　　9月19日将迎来首场比赛的中国女篮运动员刘禹彤、唐子婷、孙宇、贾赛琪等出现在欢迎仪式上。升旗仪式结束后，刘禹彤表示，这是她首次参加亚运会欢迎仪式，很兴奋。对于即将进行的比赛，她说：“将全力以赴投入比赛，以饱满的精神状态迎接每一个对手。”&lt;/p&gt;&lt;p&gt;　　本届亚运会女篮比赛已于9月17日开赛，上届冠军中国队与印度尼西亚队、泰国队同处A组。中国女篮将于19日对阵泰国队。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181958&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181958.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181958.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国体育代表团亮相亚运会欢迎仪式 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181958.html#[05版：特别报道] 中国体育代表团亮相亚运会欢迎仪式</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 男曲、女排中国队双双取胜</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181959.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 亚运会部分项目提前开赛 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 男曲、女排中国队双双取胜 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报名古屋9月18日电  （记者刘硕阳、范佳元）18日，亚运会开幕前一天，篮球等8个项目已展开争夺。中国队在男子曲棍球、女子排球项目中发挥出色，战胜各自对手。&lt;/p&gt;&lt;p&gt;　　18日上午，亚运会男子曲棍球项目比赛正式打响。首轮小组赛面对阿曼队，中国队发挥稳健，在抵挡住对手开局的攻势后，由高杰生通过短角球得分取得领先。进入下半场，杜世豪在第三节抓住短角球机会再入一球，最终中国队以2∶0战胜阿曼队取得开门红。&lt;/p&gt;&lt;p&gt;　　共有12支球队参加本届亚运会男子曲棍球项目的争夺，中国队同巴基斯坦队、马来西亚队、乌兹别克斯坦队、泰国队和阿曼队在B组。小组单循环赛后，小组前两名晋级半决赛。中国队教练安东尼表示，非常高兴能够拿下这场胜利，球队将继续努力向领奖台发起冲击。&lt;/p&gt;&lt;p&gt;　　当日下午，中国女排在冈崎中央综合公园体育馆迎来了小组赛的第二个对手哈萨克斯坦女排。此前中国队已经提前锁定本届亚运会的八强席位，不过本场比赛队员们并未松懈，干净利落地以3∶0战胜对手，取得两连胜。队员庄宇珊赛后表示，面对两天后的1/4决赛，将根据对手做相应准备。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 亚运会部分项目提前开赛 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181959&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181959.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181959.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 男曲、女排中国队双双取胜 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181959.html#[05版：特别报道] 男曲、女排中国队双双取胜</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 跨越山海  因体育而相聚</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181960.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 跨越山海  因体育而相聚 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  陈晨曦&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　9月18日，距离亚运会开启第一个正式比赛日还有两天，可记者们已经犯了难。根据赛程，20日上午，本届亚运会首金将在铁人三项男子个人、公路自行车女子个人计时赛、武术男子长拳、现代五项女子个人及团体等项目中产生。打开地图，铁人三项比赛地在距名古屋市区近60公里的爱知县蒲郡市，公路自行车的赛场更远，在距离名古屋大约90公里的新城市。&lt;/p&gt;&lt;p&gt;　　首金的采访该如何取舍，成了记者们这两天必须作答的选择题。&lt;/p&gt;&lt;p&gt;　　相较于往届亚运会场馆集中、全城沸腾的热烈氛围，即将启幕的本届亚运会，呈现不同的样貌：名古屋街头，许多地方亚运元素并不醒目。竞赛场馆星罗棋布于爱知、岐阜、静冈等县的多个城市以及东京市区内。同样打破常规的，还有驻地模式。本届赛事未设亚运村，代表团分散入住城市酒店、海上邮轮及临时宿舍。住宿接待、交通保障等方面在开赛前不时出现问题与纰漏。&lt;/p&gt;&lt;p&gt;　　当然，空间上的距离与路途上的奔波，并未稀释亚运的温度。来自亚洲各地的健儿跨越山海，因体育而相聚，因热爱而相逢。这几日的训练场上，到处都是运动员争分夺秒提升竞技状态的繁忙身影。亚运启幕之后，分散的赛场将成为他们竞技的舞台。&lt;/p&gt;&lt;p&gt;　　一场体育盛会从不止于赛场上的输赢，更彰显拼搏与交流的意义。每一次奔赴，每一场拼搏，都将成为亚洲体育相融共生的生动写照。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  陈晨曦&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181960&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181960.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181960.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 跨越山海  因体育而相聚 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181960.html#[05版：特别报道] 跨越山海  因体育而相聚</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 吴愉、胡明轩担任亚运会开幕式中国代表团旗手</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181961.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 吴愉、胡明轩担任亚运会开幕式中国代表团旗手 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报名古屋9月18日电  （记者陈晨曦）中国体育代表团16日公布了第二十届亚运会开幕式旗手人选，女子拳击运动员吴愉、男子篮球运动员胡明轩将在9月19日举行的亚运会开幕式上共擎五星红旗入场。&lt;/p&gt;&lt;p&gt;　　31岁的吴愉出生于贵州，先后赢得世锦赛、杭州亚运会金牌。在2024年巴黎奥运会拳击女子50公斤级比赛中，她为中国队夺得金牌。&lt;/p&gt;&lt;p&gt;　　胡明轩出生于新疆，现年28岁，参加过男篮世界杯、亚洲杯、亚运会等国际大赛。他在2025年亚洲杯决赛中表现优异，助力中国队获得亚军，取得参加该赛事近10年来的最好成绩。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181961&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181961.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181961.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 吴愉、胡明轩担任亚运会开幕式中国代表团旗手 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181961.html#[05版：特别报道] 吴愉、胡明轩担任亚运会开幕式中国代表团旗手</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 本版责编：罗  彦  史  哲  曹继炜</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181962.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：罗  彦  史  哲  曹继炜 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：张丹峰 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181962&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181962.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181962.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：罗  彦  史  哲  曹继炜 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181962.html#[05版：特别报道] 本版责编：罗  彦  史  哲  曹继炜</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：广告] 月升东方  万家灯和</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181963.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 月升东方  万家灯和 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/d7666450-49c9-4ba4-9d9d-9ae006084bc9.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　一盏灯、一轮月、一桌饭——足以演绎“家”的深意，是归途有人等，是天涯共此时，是人间小团圆。今年中秋，保利发展控股集团股份有限公司（简称“保利发展”）以“万家灯和”为主题，走进各地社区开展“万家灯和宴”“业主中秋晚会”等活动，落地“三好保利，用心生活”品牌主张。&lt;/p&gt;&lt;p&gt;　　依托“万家灯和”“和乐中国”等既有品牌IP，保利发展持续打造特色社群品牌活动，拾取和留存美好生活的片段：有青春追梦的初来乍到，有三代同堂的天伦之乐，有邻里相约的灯影婆娑，有文化传承的好戏连台。这些细微而真实的故事，正是“小家”热气腾腾、“大家”蒸蒸日上的生动注脚，也是保利发展对“家文化”的温柔表达。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　万·万千生活&lt;/p&gt;&lt;p&gt;　　城市很大，生活很小。在一个个保利发展运营的社区里，烟火日常都有万千姿态：有人在舞台上绽放光彩，有人在绿道上骑行追风，有人在一碗凉茶里品咂岁月，有人在一只萌宠身边结下友情……这些看似寻常的片段，拼成了万千生活的生动底色。&lt;/p&gt;&lt;p&gt;　　业主春晚：一场“我是主角”的邻里汇演&lt;/p&gt;&lt;p&gt;　　在保利海南2026业主春晚的舞台上，隔壁楼栋的老邻居、对门住的年轻人都是聚光灯下的“主角”。“友趣中国年”主题灯光缓缓流转，台下座席整齐，掌声与笑声融成一片。歌舞、曲艺等节目由业主自编自导自演，表演者对舞台的认真与热忱，把年味烘托得暖意融融。这一夜的舞台承载了社区热闹的晚会，也装下了邻里之间真挚的新春问候。&lt;/p&gt;&lt;p&gt;　　绿道追风：周末的另一种打开方式&lt;/p&gt;&lt;p&gt;　　每逢周末，保利物业“保利周末”骑行队伍准时出发。车队穿行在城市绿道与园区林荫间。骑行队伍成员年龄不等，骑行也不为竞速，只为慢下来看一看风从哪片树林间穿过，聊一聊谁家的孩子又长高了。车轮碾过树影，队伍成为一条流动的风景线。一个普通的周末，因为有了邻居同行而多了几分趣味。&lt;/p&gt;&lt;p&gt;　　社区非遗：下楼就能喝一碗非遗凉茶&lt;/p&gt;&lt;p&gt;　　仲夏时节，保利发展旗下保利（广州）健康产业投资有限公司联合广东省凉茶博物馆，把国家级非遗项目凉茶搬进了社区。非遗传承人手把手教业主辨识原材料、配伍熬制。一口凉茶，神清气爽。老人们端着碗讲古，年轻人举着手机记录，孩子们好奇地睁大眼睛——保利发展借一碗凉茶，把典籍里的非遗端到了邻里的桌上，让传统文化来到业主的家门口，走进邻里围坐闲谈的夏日傍晚。&lt;/p&gt;&lt;p&gt;　　以宠为媒：“遛”出来的邻里情&lt;/p&gt;&lt;p&gt;　　在保利发展上海光合TOD社区的广场上，几只猫狗撒着欢，宠物主人聊着养宠心得，其乐融融、妙趣横生。科普展板旁，有人在认真记录文明养宠的约定；草坪上，两条小狗追逐嬉闹，主人也跟着熟络起来。宠物成为陌生人之间的“破冰者”，社区的氛围因萌宠而更加温馨。小小的活动场地，盛满了邻里温情。&lt;/p&gt;&lt;p&gt;　　家·家有温度&lt;/p&gt;&lt;p&gt;　　家是什么？是毕业后第一间亲手布置的小屋，是三代同堂围坐的一顿团圆饭，是孩子奔向自然时那一声雀跃的呼喊，也是一桌螃蟹宴里升腾的烟火气息。保利发展所理解的“家”，不只是一间屋子、一扇门，更是门后那一段段真实的人生。&lt;/p&gt;&lt;p&gt;　　第一间小屋：租来的房子也是自己的家&lt;/p&gt;&lt;p&gt;　　毕业那年，林女士租下了广州保利和寓（万博店）的一间小屋，两只小猫成了她的新家人。忙碌一天后推开门，小猫蹭着腿围过来，心里的疲惫便散了大半。房间不大，窗帘是自己挑的，摆件是慢慢添的，每一平方米都有着开始独立生活的痕迹。房子是租来的，但家不是。在这里，林女士从一个刚走出校园的学生，长成了能从容安排自己生活的大人。这间小屋，是她与城市相拥的开始，也是万家灯火中独属于她的一盏。&lt;/p&gt;&lt;p&gt;　　从天津到北京：一碗热汤就是团圆的温度&lt;/p&gt;&lt;p&gt;　　3年前，家住天津的王阿姨夫妇作出一个重要决定：搬到北京，和儿子、儿媳、孙子同城生活，趁身体还硬朗，帮孩子们搭把手，也让晚年生活多些儿孙绕膝的热闹。2025年，一家人看中了北京保利嘉华天珺：江南韵味的下沉庭院、2300平方米的多功能会所、精巧雅致的室内空间，构成全家心仪的居所。从“津门”到“京城”，改变的是坐标，不变的是那碗热汤，有着团圆的温度。&lt;/p&gt;&lt;p&gt;　　家住“六千树”：孩子的自然课就在楼下&lt;/p&gt;&lt;p&gt;　　这是一个热爱自然的海南三口之家。女儿小柠檬满月后，父母就常常带她往户外跑。女儿上幼儿园时，环岛漫游成了家里的日常休闲选择，山川风物悄悄在小柠檬心里种下对自然的热爱。女儿上了小学，寒暑假便可随父母驱车出岛，看山河辽阔。一家人在寻觅新家时选中了海口保利“六千树”——爸爸钟爱的山林飞鸟，妈妈向往的阳光通透，孩子畅想的童话世界，都在这一片树影里。奔赴自然，收集美好，一家人的理想生活就落在了这里。&lt;/p&gt;&lt;p&gt;　　一桌螃蟹宴：日子踏实安稳，小家热气腾腾&lt;/p&gt;&lt;p&gt;　　20年前，吴彩彩和丈夫从一间小厂房起步，慢慢做起自己的定制家居品牌。如今，两个儿子绕膝，日子越过越踏实。今年中秋临近，他们早早预订了石家庄保利天曜的螃蟹宴。期待着团圆饭，经营着幸福家，吴彩彩望着窗外渐次亮起的灯火感叹：“小家热气腾腾，就是稳稳的幸福。”&lt;/p&gt;&lt;p&gt;　　灯·灯映团圆&lt;/p&gt;&lt;p&gt;　　中秋的夜，灯火璀璨。社区步道上的一排灯笼，邻里手中的一盏花灯，长桌宴上的一串灯影，融入家家户户的明亮灯光，把“团圆”两个字，氤氲成满溢人间的温柔。&lt;/p&gt;&lt;p&gt;　　灯影成河：夜色里的中秋&lt;/p&gt;&lt;p&gt;　　夜色降临，广州保利花园社区的灯光一盏接一盏地亮了起来。大红灯笼沿着步道错落悬挂，主题灯组点缀在景观装置上，暖黄光晕柔柔地漫开，与楼宇里透出的住宅灯火遥相呼应。从一盏灯到一片灯，中秋的团圆意境，就这样一寸寸亮起。&lt;/p&gt;&lt;p&gt;　　灯会漫步：一场光影之约&lt;/p&gt;&lt;p&gt;　　佛山保利天珺邻里灯会这天，业主们携家带口，沿着社区步道缓步而行。传统花灯挂满了整条动线，灯光映着人影，笑语伴着晚风。沿途的互动灯组、民俗小铺，让赏灯成了一段走走停停的旅程。偶遇老友，便驻足聊两句；邂逅美景，就举起手机拍一张。团圆的味道，就在这悠然漫步中，悄然漫上心头。&lt;/p&gt;&lt;p&gt;　　长桌宴开：邻里即家人&lt;/p&gt;&lt;p&gt;　　上海保利叶上海中秋家宴的长桌，从这头一直排到那头。暖光灯笼依次点亮，家常菜肴摆满桌面，邻里围坐，举杯闲话，饭菜的热气和满桌的笑声交织。保利物业的工作人员穿梭其间，添茶、递筷，像招待自家人一样忙碌。灯光融着月色，长桌宴开，品味“邻里即家人”的浓情。&lt;/p&gt;&lt;p&gt;　　和·和乐中国&lt;/p&gt;&lt;p&gt;　　一盏灯照亮一户人家，一束光点亮一方舞台。18年来，保利发展“和乐中国”品牌把舞台搭进社区，让传统文化在邻里的掌声中、孩子的唱腔里代代传承。&lt;/p&gt;&lt;p&gt;　　家乡非遗秀：社区里的文化舞台&lt;/p&gt;&lt;p&gt;　　第十八届“和乐中国”福建站以“家乡非遗秀”为主题，福建本土的国家级、省级非遗项目轮番登台，老师傅带着看家本事走进社区，业主不出大门便享受了一场原汁原味的文化盛宴。“和乐中国”十八载，始终扎根传统文化土壤，将非遗请上业主楼下的舞台。&lt;/p&gt;&lt;p&gt;　　童声有戏：小主角的高光舞台&lt;/p&gt;&lt;p&gt;　　保利发展联合保利文化集团股份有限公司、北京广播电视台文艺频道，共同推出“童声有戏”少年文化展演。小主角们依次登台，童声清亮，唱腔稚嫩却认真。专业的舞台灯光打在孩子们脸上，那是属于他们的高光时刻。作为第十八届“和乐中国”北京站的重要活动，“童声有戏”搭起一座艺术之桥——童年不只有课本，还有一盏为孩子而亮的舞台灯光、一段被掌声包裹的成长记忆。&lt;/p&gt;&lt;p&gt;　　川人川戏：“老艺术”遇上“新玩法”&lt;/p&gt;&lt;p&gt;　　第十八届“和乐中国”四川站以“川人川戏，好戏当潮”为主题，把金沙文化与传统川剧搬上舞台。变脸一刹，掌声雷动；唱腔悠扬，满场静赏；潮玩互动环节，让年轻人乐在其中……“老艺术”遇上“新玩法”，加速迸发新活力。“和乐中国”守正创新，一直在寻找传统文化的当代表达，既保留历史的厚重，也融入时尚的鲜活。&lt;/p&gt;&lt;p&gt;　　十八载同行：“一束光”聚成“万家灯”&lt;/p&gt;&lt;p&gt;　　18年来，“和乐中国”已从一场活动成长为覆盖多座城市的社区文化IP。从非遗传承到艺术展演，从少年成长到长者文娱，文化的微光从一个个社区升起，汇聚成“万家灯和”的温暖图景。18年的陪伴，“和乐中国”的价值早已超越活动本身，成为保利发展与业主之间情感联结的重要桥梁。以文化筑和乐，与万家共长明——这是“和乐中国”的愿景，也是“万家灯和”的答案。&lt;/p&gt;&lt;p&gt;　　中秋在望，明月高悬；万家灯火，温暖人间。保利发展2026业主中秋晚会即将举办，以“月升东方·万家灯和”为主题，祝小家团圆、大家和乐，愿年年中秋、月圆人圆。&lt;/p&gt;&lt;p&gt;　　一盏灯连着一盏灯，晕染月华如水的夜色；一扇窗挨着一扇窗，透出热气腾腾的生活。保利发展愿与万千业主一道，把这份团圆和乐，写进每一个寻常日子，融入每一程美好生活。&lt;/p&gt;&lt;p&gt;　　数据来源：保利发展&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181963&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181963.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181963.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 月升东方  万家灯和 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181963.html#[06版：广告] 月升东方  万家灯和</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：广告] 月升东方  万家灯和</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181964.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 月升东方  万家灯和 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/97275db1-5716-49d1-967f-6be431a2dd95.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　一盏灯、一轮月、一桌饭——足以演绎“家”的深意，是归途有人等，是天涯共此时，是人间小团圆。今年中秋，保利发展控股集团股份有限公司（简称“保利发展”）以“万家灯和”为主题，走进各地社区开展“万家灯和宴”“业主中秋晚会”等活动，落地“三好保利，用心生活”品牌主张。&lt;/p&gt;&lt;p&gt;　　依托“万家灯和”“和乐中国”等既有品牌IP，保利发展持续打造特色社群品牌活动，拾取和留存美好生活的片段：有青春追梦的初来乍到，有三代同堂的天伦之乐，有邻里相约的灯影婆娑，有文化传承的好戏连台。这些细微而真实的故事，正是“小家”热气腾腾、“大家”蒸蒸日上的生动注脚，也是保利发展对“家文化”的温柔表达。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　万·万千生活&lt;/p&gt;&lt;p&gt;　　城市很大，生活很小。在一个个保利发展运营的社区里，烟火日常都有万千姿态：有人在舞台上绽放光彩，有人在绿道上骑行追风，有人在一碗凉茶里品咂岁月，有人在一只萌宠身边结下友情……这些看似寻常的片段，拼成了万千生活的生动底色。&lt;/p&gt;&lt;p&gt;　　业主春晚：一场“我是主角”的邻里汇演&lt;/p&gt;&lt;p&gt;　　在保利海南2026业主春晚的舞台上，隔壁楼栋的老邻居、对门住的年轻人都是聚光灯下的“主角”。“友趣中国年”主题灯光缓缓流转，台下座席整齐，掌声与笑声融成一片。歌舞、曲艺等节目由业主自编自导自演，表演者对舞台的认真与热忱，把年味烘托得暖意融融。这一夜的舞台承载了社区热闹的晚会，也装下了邻里之间真挚的新春问候。&lt;/p&gt;&lt;p&gt;　　绿道追风：周末的另一种打开方式&lt;/p&gt;&lt;p&gt;　　每逢周末，保利物业“保利周末”骑行队伍准时出发。车队穿行在城市绿道与园区林荫间。骑行队伍成员年龄不等，骑行也不为竞速，只为慢下来看一看风从哪片树林间穿过，聊一聊谁家的孩子又长高了。车轮碾过树影，队伍成为一条流动的风景线。一个普通的周末，因为有了邻居同行而多了几分趣味。&lt;/p&gt;&lt;p&gt;　　社区非遗：下楼就能喝一碗非遗凉茶&lt;/p&gt;&lt;p&gt;　　仲夏时节，保利发展旗下保利（广州）健康产业投资有限公司联合广东省凉茶博物馆，把国家级非遗项目凉茶搬进了社区。非遗传承人手把手教业主辨识原材料、配伍熬制。一口凉茶，神清气爽。老人们端着碗讲古，年轻人举着手机记录，孩子们好奇地睁大眼睛——保利发展借一碗凉茶，把典籍里的非遗端到了邻里的桌上，让传统文化来到业主的家门口，走进邻里围坐闲谈的夏日傍晚。&lt;/p&gt;&lt;p&gt;　　以宠为媒：“遛”出来的邻里情&lt;/p&gt;&lt;p&gt;　　在保利发展上海光合TOD社区的广场上，几只猫狗撒着欢，宠物主人聊着养宠心得，其乐融融、妙趣横生。科普展板旁，有人在认真记录文明养宠的约定；草坪上，两条小狗追逐嬉闹，主人也跟着熟络起来。宠物成为陌生人之间的“破冰者”，社区的氛围因萌宠而更加温馨。小小的活动场地，盛满了邻里温情。&lt;/p&gt;&lt;p&gt;　　家·家有温度&lt;/p&gt;&lt;p&gt;　　家是什么？是毕业后第一间亲手布置的小屋，是三代同堂围坐的一顿团圆饭，是孩子奔向自然时那一声雀跃的呼喊，也是一桌螃蟹宴里升腾的烟火气息。保利发展所理解的“家”，不只是一间屋子、一扇门，更是门后那一段段真实的人生。&lt;/p&gt;&lt;p&gt;　　第一间小屋：租来的房子也是自己的家&lt;/p&gt;&lt;p&gt;　　毕业那年，林女士租下了广州保利和寓（万博店）的一间小屋，两只小猫成了她的新家人。忙碌一天后推开门，小猫蹭着腿围过来，心里的疲惫便散了大半。房间不大，窗帘是自己挑的，摆件是慢慢添的，每一平方米都有着开始独立生活的痕迹。房子是租来的，但家不是。在这里，林女士从一个刚走出校园的学生，长成了能从容安排自己生活的大人。这间小屋，是她与城市相拥的开始，也是万家灯火中独属于她的一盏。&lt;/p&gt;&lt;p&gt;　　从天津到北京：一碗热汤就是团圆的温度&lt;/p&gt;&lt;p&gt;　　3年前，家住天津的王阿姨夫妇作出一个重要决定：搬到北京，和儿子、儿媳、孙子同城生活，趁身体还硬朗，帮孩子们搭把手，也让晚年生活多些儿孙绕膝的热闹。2025年，一家人看中了北京保利嘉华天珺：江南韵味的下沉庭院、2300平方米的多功能会所、精巧雅致的室内空间，构成全家心仪的居所。从“津门”到“京城”，改变的是坐标，不变的是那碗热汤，有着团圆的温度。&lt;/p&gt;&lt;p&gt;　　家住“六千树”：孩子的自然课就在楼下&lt;/p&gt;&lt;p&gt;　　这是一个热爱自然的海南三口之家。女儿小柠檬满月后，父母就常常带她往户外跑。女儿上幼儿园时，环岛漫游成了家里的日常休闲选择，山川风物悄悄在小柠檬心里种下对自然的热爱。女儿上了小学，寒暑假便可随父母驱车出岛，看山河辽阔。一家人在寻觅新家时选中了海口保利“六千树”——爸爸钟爱的山林飞鸟，妈妈向往的阳光通透，孩子畅想的童话世界，都在这一片树影里。奔赴自然，收集美好，一家人的理想生活就落在了这里。&lt;/p&gt;&lt;p&gt;　　一桌螃蟹宴：日子踏实安稳，小家热气腾腾&lt;/p&gt;&lt;p&gt;　　20年前，吴彩彩和丈夫从一间小厂房起步，慢慢做起自己的定制家居品牌。如今，两个儿子绕膝，日子越过越踏实。今年中秋临近，他们早早预订了石家庄保利天曜的螃蟹宴。期待着团圆饭，经营着幸福家，吴彩彩望着窗外渐次亮起的灯火感叹：“小家热气腾腾，就是稳稳的幸福。”&lt;/p&gt;&lt;p&gt;　　灯·灯映团圆&lt;/p&gt;&lt;p&gt;　　中秋的夜，灯火璀璨。社区步道上的一排灯笼，邻里手中的一盏花灯，长桌宴上的一串灯影，融入家家户户的明亮灯光，把“团圆”两个字，氤氲成满溢人间的温柔。&lt;/p&gt;&lt;p&gt;　　灯影成河：夜色里的中秋&lt;/p&gt;&lt;p&gt;　　夜色降临，广州保利花园社区的灯光一盏接一盏地亮了起来。大红灯笼沿着步道错落悬挂，主题灯组点缀在景观装置上，暖黄光晕柔柔地漫开，与楼宇里透出的住宅灯火遥相呼应。从一盏灯到一片灯，中秋的团圆意境，就这样一寸寸亮起。&lt;/p&gt;&lt;p&gt;　　灯会漫步：一场光影之约&lt;/p&gt;&lt;p&gt;　　佛山保利天珺邻里灯会这天，业主们携家带口，沿着社区步道缓步而行。传统花灯挂满了整条动线，灯光映着人影，笑语伴着晚风。沿途的互动灯组、民俗小铺，让赏灯成了一段走走停停的旅程。偶遇老友，便驻足聊两句；邂逅美景，就举起手机拍一张。团圆的味道，就在这悠然漫步中，悄然漫上心头。&lt;/p&gt;&lt;p&gt;　　长桌宴开：邻里即家人&lt;/p&gt;&lt;p&gt;　　上海保利叶上海中秋家宴的长桌，从这头一直排到那头。暖光灯笼依次点亮，家常菜肴摆满桌面，邻里围坐，举杯闲话，饭菜的热气和满桌的笑声交织。保利物业的工作人员穿梭其间，添茶、递筷，像招待自家人一样忙碌。灯光融着月色，长桌宴开，品味“邻里即家人”的浓情。&lt;/p&gt;&lt;p&gt;　　和·和乐中国&lt;/p&gt;&lt;p&gt;　　一盏灯照亮一户人家，一束光点亮一方舞台。18年来，保利发展“和乐中国”品牌把舞台搭进社区，让传统文化在邻里的掌声中、孩子的唱腔里代代传承。&lt;/p&gt;&lt;p&gt;　　家乡非遗秀：社区里的文化舞台&lt;/p&gt;&lt;p&gt;　　第十八届“和乐中国”福建站以“家乡非遗秀”为主题，福建本土的国家级、省级非遗项目轮番登台，老师傅带着看家本事走进社区，业主不出大门便享受了一场原汁原味的文化盛宴。“和乐中国”十八载，始终扎根传统文化土壤，将非遗请上业主楼下的舞台。&lt;/p&gt;&lt;p&gt;　　童声有戏：小主角的高光舞台&lt;/p&gt;&lt;p&gt;　　保利发展联合保利文化集团股份有限公司、北京广播电视台文艺频道，共同推出“童声有戏”少年文化展演。小主角们依次登台，童声清亮，唱腔稚嫩却认真。专业的舞台灯光打在孩子们脸上，那是属于他们的高光时刻。作为第十八届“和乐中国”北京站的重要活动，“童声有戏”搭起一座艺术之桥——童年不只有课本，还有一盏为孩子而亮的舞台灯光、一段被掌声包裹的成长记忆。&lt;/p&gt;&lt;p&gt;　　川人川戏：“老艺术”遇上“新玩法”&lt;/p&gt;&lt;p&gt;　　第十八届“和乐中国”四川站以“川人川戏，好戏当潮”为主题，把金沙文化与传统川剧搬上舞台。变脸一刹，掌声雷动；唱腔悠扬，满场静赏；潮玩互动环节，让年轻人乐在其中……“老艺术”遇上“新玩法”，加速迸发新活力。“和乐中国”守正创新，一直在寻找传统文化的当代表达，既保留历史的厚重，也融入时尚的鲜活。&lt;/p&gt;&lt;p&gt;　　十八载同行：“一束光”聚成“万家灯”&lt;/p&gt;&lt;p&gt;　　18年来，“和乐中国”已从一场活动成长为覆盖多座城市的社区文化IP。从非遗传承到艺术展演，从少年成长到长者文娱，文化的微光从一个个社区升起，汇聚成“万家灯和”的温暖图景。18年的陪伴，“和乐中国”的价值早已超越活动本身，成为保利发展与业主之间情感联结的重要桥梁。以文化筑和乐，与万家共长明——这是“和乐中国”的愿景，也是“万家灯和”的答案。&lt;/p&gt;&lt;p&gt;　　中秋在望，明月高悬；万家灯火，温暖人间。保利发展2026业主中秋晚会即将举办，以“月升东方·万家灯和”为主题，祝小家团圆、大家和乐，愿年年中秋、月圆人圆。&lt;/p&gt;&lt;p&gt;　　一盏灯连着一盏灯，晕染月华如水的夜色；一扇窗挨着一扇窗，透出热气腾腾的生活。保利发展愿与万千业主一道，把这份团圆和乐，写进每一个寻常日子，融入每一程美好生活。&lt;/p&gt;&lt;p&gt;　　数据来源：保利发展&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181964&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181964.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181964.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 月升东方  万家灯和 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181964.html#[07版：广告] 月升东方  万家灯和</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 长征文物，照见胜利之源</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181965.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 长征文物，照见胜利之源 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							黄  黎&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　泸定桥的铁索链。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/3551095b-2b1b-48b8-ae67-7883f66e448f.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　川陕苏区叁串布币。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/16998e0d-c6aa-43b4-b1b2-435b17030385.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　红二十五军政治委员吴焕先使用过的毛毯。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/ddba36f8-cf50-4b3f-b8eb-a39262dee41c.jpg" style="max-width: 100%; white-space: normal;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　陈毅《游击战争纪实》即《赣南游击词》20世纪60年代修改手稿。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　以上图片均为中国国家博物馆提供&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/d1b5cff7-eb15-4a9b-bd89-084d5d6174e2.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　中国国家博物馆的展柜中，几件革命文物静静陈列。90年前那场震撼世界的远征，硝烟早已散尽，而这几件烽火岁月留存下来的寻常旧物，从不同维度拼接起长征的壮阔图景。&lt;/p&gt;&lt;p&gt;　　铁索链&lt;/p&gt;&lt;p&gt;　　十三根铁索，通向新生&lt;/p&gt;&lt;p&gt;　　这是一段泸定桥的铁索链，1959年入藏中国革命博物馆（现中国国家博物馆）。&lt;/p&gt;&lt;p&gt;　　十三根铁索，一端是绝境，一端是新生。铁索的冰冷与战士的热血在那一刻融为一体——当一支部队敢于在没有桥面的铁索上发起冲锋时，它面前就没有过不去的天险。&lt;/p&gt;&lt;p&gt;　　1935年5月，中央红军长征到达大渡河畔。大渡河水流湍急，两岸崇山峻岭，只有泸定桥可以通过。此时桥上木板已被敌军拆除，仅剩十三根粗大的铁索高悬于咆哮的河面之上。对岸，敌军重兵把守，机枪火力点密布。&lt;/p&gt;&lt;p&gt;　　5月29日晨，红一方面军第一军团第二师第四团在团长王开湘、政委杨成武率领下，奉命一昼夜急行240余里，抵达泸定桥西岸。下午4时，总攻开始。22名红军战士组成突击队，由二连连长廖大珠率领，在火力掩护下，手持冲锋枪或短枪，背挎马刀，腰缠手榴弹，手扶铁索栏，踏着铁索向对岸冲去。当突击队接近东桥头时，敌人引燃木板，桥头瞬间被大火包围。突击队队员穿过熊熊火焰，最终夺取泸定桥。战斗中，4名英雄永远长眠于此。&lt;/p&gt;&lt;p&gt;　　叁串布币&lt;/p&gt;&lt;p&gt;　　母子一诺，十五寒暑&lt;/p&gt;&lt;p&gt;　　叁串布币记录的则是另一种长征——后方亲人的漫长守望。川陕苏区叁串布币，是川陕根据地物资匮乏背景下印制的布质流通货币，也被称作“红军票”。1935年春，为策应中央红军长征，红四方面军发起嘉陵江战役向西转战，时年12岁的红军战士杨世才拒绝母亲劝归，将作为津贴的这枚布币留给母亲充作回乡路费，毅然奔赴长征征途。此后他历经长征、抗日战争与解放战争，与家人长期音讯隔绝。母亲将布币细心珍藏十五载。1950年四川解放，母子终于重逢。1975年，为纪念长征胜利40周年，杨世才将布币无偿捐献给中国革命博物馆。&lt;/p&gt;&lt;p&gt;　　一枚布币，不曾走过二万五千里，从儿子的衣兜到母亲的手心，从墙缝到展柜，它走了15年。真正支撑这场远征的，不只是雪山草地的行军意志，更是无数个像杨世才母亲这样的普通人，在后方替战士守着家的灯火。她们不识字，不懂战略，不知道陕北在哪里，但她们相信儿子说的那句话——等我们胜利了，我就回家。长征的力量，深埋于千千万万个家庭最朴素的等待之中。&lt;/p&gt;&lt;p&gt;　　坚定的革命理想和信念，在杨世才那里，是12岁少年的一句“我要革命到底”；在母亲那里，是15年不曾花掉的一枚布币。&lt;/p&gt;&lt;p&gt;　　灰色毛毯&lt;/p&gt;&lt;p&gt;　　一毯之暖，一军之魂&lt;/p&gt;&lt;p&gt;　　灰色毛毯记录的是战友之间的另一种守望。中国国家博物馆珍藏了一条红二十五军政治委员吴焕先使用过的毛毯，纵215厘米，横115厘米。长征途中，吴焕先看到战士张波负伤而衣服单薄，当即将自己的毛毯拿来盖在他身上。张波感动不已，一直珍藏着这条毛毯，直到1962年将其捐赠给中国革命博物馆。&lt;/p&gt;&lt;p&gt;　　红二十五军是一支“娃娃军”，全军平均年龄不足18岁。长征途中，吴焕先身先士卒，独树镇战斗中带头冲入敌阵，挥舞大刀高喊“共产党员跟我来”；行军路上，他把战马让给伤员，把粮食留给战士。一条毛毯送给受伤战士的举动，不过是他关爱士兵的日常一角。1935年8月21日，红二十五军在甘肃泾川县四坡村渡河时遭敌袭击，吴焕先指挥部队抢占制高点时中弹牺牲，年仅28岁。&lt;/p&gt;&lt;p&gt;　　当一支军队的政委在战场上带头冲锋、在行军途中把自己的毛毯让给伤员的时候，这支军队就有了无坚不摧的凝聚力。&lt;/p&gt;&lt;p&gt;　　修改手稿&lt;/p&gt;&lt;p&gt;　　一纸墨痕，两种记忆&lt;/p&gt;&lt;p&gt;　　陈毅《游击战争纪实》即《赣南游击词》20世纪60年代修改手稿是国家一级文物。稿纸上毛笔字迹层叠，圈点、增删痕迹历历可见。&lt;/p&gt;&lt;p&gt;　　1934年10月中央红军开启长征，项英、陈毅奉命率领部分武装留守南方，服从党中央的战略部署，转入粤赣山林开展三年游击战争，成为长征伟业重要的战略侧翼。&lt;/p&gt;&lt;p&gt;　　这12首《赣南游击词》采用《忆江南》词牌，跳出个人悲欢，忠实记录游击队伍的斗争实况：写粮食封锁下水煮野菜的窘迫，写山林露宿风雨侵衣的苦寒，写敌我周旋的游击战术，更写下军民休戚与共的血肉联系。“靠人民，支援永不忘”，在敌人推行“移民并村”、严密封锁的白色恐怖之下，当地百姓冒着杀身之祸，想方设法给深山里的游击队输送粮食、食盐。&lt;/p&gt;&lt;p&gt;　　90多年过去了。牺牲、信念、团结、依靠群众，这些伟大长征精神的核心内涵，沉淀在一件件具体的旧物之上。物件在时光中老去，精神却在凝视中重现。展柜前的每一次驻足，都是后来者对那段征途的致敬与回望。读懂文物背后的故事，便是与90年前的先辈完成一次跨越时空的对话，将那段征途赋予的精神力量转化为前行的动力。走好新时代的长征路，不仅是最好的告慰，更是后来者义不容辞的责任。&lt;/p&gt;&lt;p&gt;　　（作者单位：中国国家博物馆）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;黄  黎&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181965&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181965.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181965.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 长征文物，照见胜利之源 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181965.html#[08版：文化遗产] 长征文物，照见胜利之源</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 以“琮”为谱观文明气象（上新了）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181966.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 以“琮”为谱观文明气象（上新了） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							叶晨曦&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　“琮谱——良渚遗址发现九十周年特展”展出的玉琮。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　叶晨曦供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/a15e943d-1984-4122-af8b-45a45e6c2844.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　9月12日，良渚博物院重磅推出大展“琮谱——良渚遗址发现九十周年特展”。来自国内及海外收藏机构共39家单位的124件琮及琮式器，跨越山海汇聚于此，回到玉琮的精神故土。这场展览，以一种器物为线索，铺展开一部绵延5000余年的文明谱系，也为良渚遗址发现90周年献上一份厚重的文化答卷。&lt;/p&gt;&lt;p&gt;　　“古老礼器”从历史深处走来，成为当代文化符号和东方审美的延续，完成了古老文物的时代新生。玉琮“内圆外方”的独特造型，源源不断为当代设计提供文化灵感。从杭州亚运会火炬“薪火”的“上方下圆”结构，到融入亚运会奖牌、场馆建筑等的玉琮造型，5000年前的文化基因转化为现代城市独特的文化标识。而更多时候，它以亲切的面貌走进寻常百姓生活：冰箱贴、联名黄酒与青瓷茶具，甚至城市绿化和路灯柱上的琮形装饰，琮的艺术化表达随处可见。在良渚论坛等国际文明对话场域，玉琮充当着中外文明交流互鉴的重要媒介，不断厚植文化认同感。&lt;/p&gt;&lt;p&gt;　　玉琮究竟是一件怎样的器物？这是所有故事的起点。&lt;/p&gt;&lt;p&gt;　　1973年，江苏吴县草鞋山遗址的考古发掘首次证实，这类器物为良渚文化时期的遗物。此后，良渚遗址反山、瑶山等贵族墓地的发掘，系统揭示了玉琮在良渚社会礼制中的核心地位。学者普遍认为，玉琮是良渚先民首创的祭祀天地神灵的法器，也是良渚已进入早期国家和文明社会的重要物证。玉琮内圆外方，中孔贯通，器表雕琢着神秘的神人兽面纹，是良渚先民的通神礼器。器身转角处的那个头戴羽冠、驾驭猛兽的“神徽”，是整个良渚社会共同尊崇的神灵形象，是维系早期国家信仰体系的精神纽带。&lt;/p&gt;&lt;p&gt;　　随着良渚文明的衰落，玉琮开始了跨越千山万水的“旅行”。进入龙山时代，玉琮开始大范围的扩散和流变。西北地区的齐家文化成为素面玉琮的兴盛之地。商周时期高等级贵族墓葬中所见的各类玉琮，是史前礼玉的余绪。战国至汉代的片状琮器物出现，则已是礼玉传统的最后回响。到了两宋，以琮为原型的琮式瓶进入文人案头，成为清供雅玩；明清时期，它又成为景德镇御窑的经典仿古陈设器。在这个展览中，我们将它的“旅行路径”系统呈现。&lt;/p&gt;&lt;p&gt;　　有意思的是，清代乾隆皇帝虽痴迷于收藏这些方筒形古玉，却始终不知其名，甚至误以为是车舆部件“扛头”，留下题诗10余首。直到晚清学者吴大澂在《古玉图考》中以文献与实物互证，才最终为这件器物“找回了名字”。从礼器到文玩，从“名实分离”到近代正名，玉琮的形制不断更迭，功能持续演变，但“器以载道”的精神内核却始终延续。&lt;/p&gt;&lt;p&gt;　　今年是良渚遗址发现90周年。1936年，年轻的施昕更在良渚镇一个干涸的池塘底部，发现了“黑色有光的陶片”。他或许不曾想到，这些陶片背后，埋藏着一座实证中华5000多年文明的史前都邑。90年来，一代代考古工作者接续发掘，反山、瑶山、莫角山、良渚古城、外围水利系统逐一揭示，不断刷新着我们对早期中国的认识。而玉琮，正是串起这段探索历程的核心密钥。&lt;/p&gt;&lt;p&gt;　　一件器物，照见文明万千气象。5000年来，琮之演化与流播彰显中华文明多元一体、兼收并蓄的恢弘气象。展览取名“琮谱”，意在梳理玉琮从诞生、鼎盛，到流转、重构的完整生命脉络，以4个叙事单元串联起不同时代、不同地域的琮类文物，还原器物背后文明交流交融的鲜活图景。&lt;/p&gt;&lt;p&gt;　　回顾琮史，梳理琮谱，不只是回望一件玉器的前世今生，更是回望90年来良渚遗址从发现到传承的求索之路。展览并不止步于回溯过往，更致力于从文明源头汲取精神滋养，启迪今天与未来。&lt;/p&gt;&lt;p&gt;　　（作者单位：良渚博物院）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;叶晨曦&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181966&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181966.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181966.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 以“琮”为谱观文明气象（上新了） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181966.html#[08版：文化遗产] 以“琮”为谱观文明气象（上新了）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 我家毗邻阳明祠（我家门口有文物）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181967.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;我家毗邻阳明祠（我家门口有文物）&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							谢亚鹏&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　阳明祠。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　谢亚鹏供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/e3eda88f-7f10-4152-b809-44263abaf7c0.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　10多年前，我搬到贵阳市东山路居住，家就在扶风山麓的阳明祠边上。这座承载着黔中文脉的古祠始建于明嘉靖十三年（1534年），后几经迁改。清嘉庆十九年（1814年），人们在扶风山另建新祠，到光绪年间又加以大规模修缮增拓，与旁边的尹道真祠、扶风寺一道，构成如今这组完整的古建筑群落。&lt;/p&gt;&lt;p&gt;　　刚住过来的时候，我常沿着祠外小路散步，看院内草木葱茏，回廊曲折，只把它当成家附近一处环境清幽的城市园林。2023年贵州实施“四大文化工程”，其中就有阳明文化转化运用工程。作为出版人，我们邀请南京师范大学郦波教授撰写《心学的诞生》，在参与书稿打磨的过程中，我慢慢读懂王阳明的人生际遇与思想脉络。自此以后我便常常走进这一墙之隔的古祠，院墙之内，一碑一石、一瓦一木，都沉淀着500年的黔中文脉，藏着先贤的精神风骨。&lt;/p&gt;&lt;p&gt;　　很多人都知道，王阳明贬谪贵州，在龙场悟道，创立影响深远的阳明心学。贵阳阳明祠集中留存了许多与王阳明相关的古代碑刻，是纪念和传承阳明文脉重要且保存完整的一处古迹。和不少后世新建纪念场所不同，这里的一块块石刻，都是代代保存下来的实物，默默记录着王阳明在贵州讲学传道的过往。&lt;/p&gt;&lt;p&gt;　　最初路过，只觉得庭院安安静静。等对阳明心学有了一定理解，再细细寻访，才发现祠里藏着不少珍贵文物。享堂是整座祠堂的核心，堂内的一尊雕像和一方画像碑尤其难得。享堂主间竖有王阳明谪居贵州的汉白玉雕像一尊，身着燕服，面容清癯，凝神静坐，不见封侯显贵之气，唯有谪居士人内观自省的沉静；享堂内次间，是王阳明朝服大像碑，刻的是王阳明受封新建侯后的官服形象，气度庄重，尽显一代名臣的担当。&lt;/p&gt;&lt;p&gt;　　享堂墙壁上嵌有一通《追赠新建侯敕文碑》，古意厚重。碑文转录明穆宗追封王阳明为新建侯的敕令，由清代贵州本地名家重新书丹上石，字迹端谨，是后世对王阳明“立德、立功、立言”历史功绩的重要实物佐证。&lt;/p&gt;&lt;p&gt;　　庭院四周的碑廊，是古祠的精华所在，也是我最爱驻足细看的地方。上百方明清碑刻依次排开，历经岁月，笔墨神采依旧。&lt;/p&gt;&lt;p&gt;　　一块块带着风化痕迹的石碑，是可以触摸的历史；碑上的一行行文字，是可以接续的思想智慧。这些年，文物修缮、日常管护、文化宣讲工作持续开展，细致的保护，让古老建筑与碑刻得以安稳留存。这座老祠堂，承载着厚重的文化记忆，一砖一石都在默默滋养着城市的文化品格。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;谢亚鹏&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181967&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181967.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181967.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;我家毗邻阳明祠（我家门口有文物）&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181967.html#[08版：文化遗产] 我家毗邻阳明祠（我家门口有文物）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] “大塔”的温情陪伴（我家门口有文物）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181968.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “大塔”的温情陪伴（我家门口有文物） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张腾达&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/19/0d410aa2-9e72-42d3-aaa9-9c498a7f22fd.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　明福寺塔。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　张腾达供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/0d410aa2-9e72-42d3-aaa9-9c498a7f22fd.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　我在河南滑县老城西南隅的一个小村落长大，村旁静静矗立着一座古塔——明福寺塔。可我们几乎不喊它的“大名”，从小到大，都跟着村里老人一起，亲切地唤它“大塔”。它是全国重点文物保护单位，对我来说却更像一位沉默温和的玩伴，自我记事起就默默陪着我长大，藏着我儿时的温暖回忆。&lt;/p&gt;&lt;p&gt;　　小时候，每天最期待的就是跑到塔下玩耍。我总揣着粉笔、弹珠等小玩意儿，一头扎进小伙伴的嬉闹里。蒙眼摸瞎子时，会故意往大塔方向摸索，靠它稳住身形；跳房子时，大塔的影子落在格子里，仿佛陪着我蹦跳；蹲在地上弹弹珠，也总爱贴着塔脚。绕着塔基疯跑时，清脆的笑声撞在塔身又轻弹回来。散场时，我们把玩具藏在塔脚的石缝里，还不忘叮嘱：“大塔，帮我们看好哦。”风一吹，塔顶24枚铜铃叮当作响，像是轻声应和。&lt;/p&gt;&lt;p&gt;　　有时玩累了，我会凑到塔边，抚摸塔身冰凉粗糙的砖石。仰头望去，塔壁嵌着数不清的佛龛造像，虽经千年风雨变得模糊，在我眼里却新奇无比。我会踮着脚尖凑近打量，分辨着佛像的模样——或合掌诵经，或静坐沉思，仿佛下一秒就会开口说话。后来得知，这些佛像有50多类1234尊，大塔也因此被称作“千佛塔”。乡人常顺时针绕塔而行，祈愿平安福佑。&lt;/p&gt;&lt;p&gt;　　随着年岁渐长，我才知晓大塔的来历。它因修于明福寺而得名，晚唐宰相白敏中《滑州明福寺新修浮图记》记载，唐宝历二年（826年），义成军节度使李听主持修建了它。这座八角七层楼阁式砖塔，高约40米，底径11米，青石塔基沉稳坚实，塔身以70余种灰砖及造像砖砌就，层层出檐、叠涩内收，每层角隅饰以莲花砖雕，线条庄重又柔和。听老人说，大塔原本有9层，民国时部分坍塌，乡亲们舍不得这位“老伙计”，便自发集资修缮至7层，塔顶改成桃状。桃状顶的大塔，少了几分威严，多了几分亲切，像一位历经风霜却依旧温和的老人。早些年可沿塔内梯道盘旋而上，爬到塔顶，能将整个滑县旧城尽收眼底。&lt;/p&gt;&lt;p&gt;　　如今我读书求学，远离家乡已有七八年。可无论走多远，只要想起家乡，心头最先浮现的，始终是那座静静矗立的大塔。&lt;/p&gt;&lt;p&gt;　　假期在家时，晚饭后一句“走啊，去大塔转一圈”，早已成为我和家人的习惯。塔旁夜市飘香，儿童游乐设施里满是孩子们的欢声笑语，像极了当年我们玩闹的场景。塔下有个相亲角，老人们说，“明福”二字藏着善良与庇佑，大塔能为有情人牵线结缘。傍晚的塔下最是动人：广场舞的音乐轻快悠扬，大人牵着孩童漫步嬉闹，还有人围坐在一起下棋、打牌，欢声笑语萦绕在大塔周围。&lt;/p&gt;&lt;p&gt;　　而大塔，温柔地注视着一切，一如从前陪伴我的模样。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;张腾达&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181968&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181968.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181968.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “大塔”的温情陪伴（我家门口有文物） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181968.html#[08版：文化遗产] “大塔”的温情陪伴（我家门口有文物）</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 破译文物的“时间密码”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181969.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 碳十四测年—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 破译文物的“时间密码” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							陈相龙&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/19/d38b935c-64e7-47ac-b493-8be32a740736.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　为保证测年样品不被污染，实验人员将装有样品的石英玻璃管接入真空系统，抽真空之后烧融玻璃管上段，完成密封。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　中国社会科学院科技考古与文化遗产保护重点实验室供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/19/d38b935c-64e7-47ac-b493-8be32a740736.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　年代是理解考古与历史问题的根基。在众多年代学研究方法中，碳十四测年技术的精度最高，能够对距今约5.5万年以内含碳样品进行精确定年。碳十四测年技术的发明与推广，为构建史前年代框架与历史时序提供了关键科学支撑，也使学者得以摆脱单纯依赖地层学与类型学重建考古学文化史的局限，把更多精力投入全面复原古代社会的深度研究。考古学由此迈入了全新的发展阶段。&lt;/p&gt;&lt;p&gt;　　碳十四测年技术由芝加哥大学的威拉德·利比教授发明。1949年，利比教授成功对古埃及法老棺木、古赫梯王国房屋地板等遗存进行了年代测定。这被视作碳十四测年技术发明的标志，利比教授也因此荣获了1960年诺贝尔化学奖。碳十四测年技术的迅速推广产出了大量关键数据，重塑了欧洲史前史。&lt;/p&gt;&lt;p&gt;　　中国也紧随其后。1955年，时任中国科学院考古研究所副所长的夏鼐撰文系统介绍了碳十四测年技术，并于1959年引进核物理专家仇士华、蔡莲珍筹建碳十四测年实验室。历经6年时间，中国首家碳十四测年实验室于1965年冬建成。此后，在仇士华等人的帮助下，中国科学院地质研究所、北京大学等多家单位陆续建成碳十四测年实验室。&lt;/p&gt;&lt;p&gt;　　碳十四是怎么给文物“算年龄”的呢？碳元素有好几种“兄弟”，最常见的是碳十二和碳十三，物理性质稳定，不会随时间变化；而碳十四是个“急性子”，自带放射性，每隔5730年就要衰变掉一半。高空中的氮十四被宇宙射线中的热中子撞一下，就会“变身”为碳十四，然后迅速和氧气结合，形成含碳十四的二氧化碳，通过大气循环遍布全球。植物通过光合作用“吸”进这些二氧化碳，动物吃了植物，人吃了动物或植物，碳十四就这样进入所有生物的身体。甚至钟乳石、石笋、古建筑的白灰面，都能“抓住”大气中的碳十四。大气圈和生物圈的碳十四，不断衰变的同时又不断得到补充，其比值保持相对恒定。可生物一旦死亡，就“断供”了——其体内的碳十四不再获得新的补给，却仍在按固定速度持续衰变、越来越少。考古学家只需测出遗存里剩下的碳十四含量，和生物体存活时的初始值一比，就能精确算出它死了多少年。&lt;/p&gt;&lt;p&gt;　　碳十四测年技术发明之初，科学家只能靠检测样品每分钟的“衰变次数”来推算，效率低、需要的样品量大。到上世纪70年代末，加速器质谱技术成功运用，科学家不用再等碳十四衰变，而是直接检测样品里还剩多少碳十四原子。目前，这项技术已成为“标配”，检测效率大幅提升，所需样品量从克级降至毫克甚至微克级，即便是半粒炭化稻米也可以实现精确定年。&lt;/p&gt;&lt;p&gt;　　从人类起源、农业起源到文明起源，碳十四测年技术均发挥了关键作用。&lt;/p&gt;&lt;p&gt;　　东亚地区作为人类起源研究的关键区域，在探究现代人起源问题上具有重要地位。对相关遗址人骨与动物骨骼样本开展的碳十四测年，为研究提供了关键数据。研究结果表明，东亚地区现代人起源的过程比预想的更为复杂，即使是早期现代人，也可能经历了两个或者更多波次的传播。&lt;/p&gt;&lt;p&gt;　　农业起源是人类从采集渔猎向农业生产转变的关键节点，这一过程涉及农作物的驯化、栽培技术的出现以及与之相关的聚落形态和社会组织的变革，准确的年代框架是理解这些复杂过程的基础。通过对考古出土水稻、粟、黍等炭化谷物及伴出遗存的碳十四测年，可以确定，距今1万年前长江下游与冀北山地已经出现了定居与半定居的生活方式，与之相伴的有稻米、粟与黍这些早期栽培作物。人骨碳十四测年显示，大约距今7800年至7500年，西辽河流域兴隆洼文化先民食物结构中，粟与黍这类农作物的比重已可达70%左右，这为论证旱作农业社会初步确立提供了关键证据。&lt;/p&gt;&lt;p&gt;　　碳十四测年赋予考古遗存精准的时间坐标，为考古研究注入了可量化的科学基因。随着测量精度的提升、样品需求量的减少以及校正方法的优化，其应用将愈发广泛深入。未来，碳十四将继续为破解人类历史未知谜团提供更多可靠支撑。&lt;/p&gt;&lt;p&gt;　　（作者单位：中国社会科学院考古研究所） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;陈相龙&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 碳十四测年—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181969&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181969.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181969.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 破译文物的“时间密码” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181969.html#[08版：文化遗产] 破译文物的“时间密码”</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 本版责编  周飞亚  赵偲汝</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181970.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编  周飞亚  赵偲汝 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月19日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本版邮箱  ysbjs@peopledaily.cn &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-19 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30181970&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181970.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/19/content_30181970.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编  周飞亚  赵偲汝 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/19/content_30181970.html#[08版：文化遗产] 本版责编  周飞亚  赵偲汝</guid>
+      <pubDate>Sat, 19 Sep 2026 08:25:49 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
