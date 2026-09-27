@@ -1,0 +1,1000 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 26 Sep 2026 00:41:43 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 习近平和彭丽媛同美国总统特朗普夫妇茶叙</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183099.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平和彭丽媛同美国总统特朗普夫妇茶叙 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/26/61fea251-eb85-4dec-9d76-01749ffd29b0.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  姚大伟摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/61fea251-eb85-4dec-9d76-01749ffd29b0.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/26/78034038-5d6f-44f3-99c7-a50518b2af5e.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。茶叙之后，习近平和彭丽媛在特朗普和梅拉尼娅陪同下参观美国国家档案馆。 &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  李  响摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/78034038-5d6f-44f3-99c7-a50518b2af5e.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　本报华盛顿9月25日电  （记者李晓宏、王洲）当地时间9月25日上午，国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。两国元首同意进一步丰富中美关系定位的内涵，共同构建“基于尊重、公平、对等的建设性战略稳定关系”。&lt;/p&gt;&lt;p&gt;　　习近平指出，这是我时隔11年再次到访华盛顿，对美国进行国事访问。这次访问我们又丰富了中美关系定位的内涵，同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”，经贸领域也取得互惠互利的成果，将受到两国人民和国际社会的欢迎。&lt;/p&gt;&lt;p&gt;　　习近平强调，中美关系的前途是光明的，这是历史大势。同时，通往光明的道路往往是曲折的，总会有各种困难和挑战，这也符合事物发展的规律。我愿同特朗普总统一道，以对历史负责的勇气和担当，共同在中美关系发展史上写下浓墨重彩的一笔。&lt;/p&gt;&lt;p&gt;　　特朗普表示，习近平主席此次对美国的国事访问是一次富有建设性、非常成功的访问。双方就美中关系和重大国际地区问题深入沟通，取得很多积极成果，对两国都有益。期待同习近平主席继续保持密切沟通，共同引领美中关系发展。&lt;/p&gt;&lt;p&gt;　　茶叙之后，习近平和彭丽媛在特朗普和梅拉尼娅陪同下前往美国国家档案馆。两国元首夫妇一同步入档案馆中央大厅，听取对档案馆和主要陈列品的介绍。&lt;/p&gt;&lt;p&gt;　　习近平表示，档案承载着先人的智慧，蕴含着对未来的启迪。250年来，美国人民追寻美国梦，在北美大陆上建设了富强国家和美丽家园。中国人民继承中华民族五千年文化传统，在实现中华民族伟大复兴中国梦的新征程上不断取得新成绩。中国和美国是两个各具特色的国家，尽管两国历史文化、社会制度、发展道路不同，但两国人民对美好生活的向往是相通的。承认和尊重彼此的不同，相互理解、相互借鉴，找到最大公约数，拉长合作清单，妥善管控分歧，两国关系就能行稳致远。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183099&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183099.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183099.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平和彭丽媛同美国总统特朗普夫妇茶叙 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183099.html#[01版：要闻] 习近平和彭丽媛同美国总统特朗普夫妇茶叙</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183100.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/26/50cdb7f6-3657-4e60-be21-8a8248eea07b.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间九月二十四日晚，美国总统特朗普和夫人梅拉尼娅为中国国家主席习近平和夫人彭丽媛在白宫举行欢迎国宴。这是习近平致辞。 &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  谢环驰摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/50cdb7f6-3657-4e60-be21-8a8248eea07b.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　本报华盛顿9月24日电  （记者张梦旭、马菲）当地时间9月24日晚，美国总统特朗普和夫人梅拉尼娅为中国国家主席习近平和夫人彭丽媛在白宫举行欢迎国宴。&lt;/p&gt;&lt;p&gt;　　习近平和彭丽媛抵达白宫时，特朗普和梅拉尼娅热情迎接。两国元首夫妇合影，并同参加宴会的来宾见面。&lt;/p&gt;&lt;p&gt;　　宴会开始后，习近平和特朗普分别致辞。&lt;/p&gt;&lt;p&gt;　　习近平向所有关心、支持中美关系发展的美国各界人士致以诚挚问候和中秋佳节的良好祝愿。&lt;/p&gt;&lt;p&gt;　　习近平指出，今年5月，特朗普总统成功访华。短短不到半年，中美两国元首实现互访，创造了两国交往的历史。这次访问又达成很多新的共识，丰富了中美建设性战略稳定关系的内涵，为中美关系提供了新的战略指引。&lt;/p&gt;&lt;p&gt;　　习近平强调，200多年前，美国独立伊始，便将目光投向中国。中美双方互通有无、优势互补，开启了贸易往来。80多年前，中美两国人民并肩作战，抗击日本军国主义侵略者，这份血与火锻造的友谊必将世代相传。50多年前，乒乓外交叩开了尘封已久的交往大门，中美老一辈政治家以“小球转动大球”的政治智慧，开启了中美关系正常化的伟大进程。20多年前，一位名叫赛考斯的美国人资助中国治沙人殷玉珍种树，他们的故事感动了许多中国民众，也是中美两国人民友好交往的范例。中美人文交流有利于促进两国人民心灵沟通，为中美友好合作厚植了民意基础。&lt;/p&gt;&lt;p&gt;　　习近平指出，今天，中美关系又站在新的历史起点上。特朗普总统提出让美国再次伟大，中国正致力于实现中华民族伟大复兴。这两个目标都很宏伟，完全可以相互成就。双方应当展现大国担当，顺应人民期盼和时代大势，探索一条大国正确相处的新路。历史长河奔流不息，中美两国人民友好事业前景广阔。双方要携手并进，共同浇灌中美友谊的美丽花朵，共同书写中美友好的崭新篇章。&lt;/p&gt;&lt;p&gt;　　特朗普表示，我今年5月访华时，中国人民的热情友好给我留下深刻和美好印象。今晚两国各界人士欢聚一堂，共同庆祝美中之间跨越万里、绵延上百年的友谊。美中两国都有悠久文化，两国人民长期友好交往。虽然彼此制度不同，但美中友好历久弥坚。我愿同习近平主席一道，坚持相互尊重，继续培育两国友好，为子孙后代带来持久繁荣和安全。&lt;/p&gt;&lt;p&gt;　　宴会气氛友好热烈。席间，美国艺术家表演了精彩的文艺节目。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅、何立峰等出席宴会。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183100&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183100.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183100.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183100.html#[01版：要闻] 习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平圆满结束对美国的国事访问</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183101.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平圆满结束对美国的国事访问 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报华盛顿9月25日电  （记者巩晗、王梓）当地时间9月25日下午，国家主席习近平结束对美国的国事访问返回北京。&lt;/p&gt;&lt;p&gt;　　离开华盛顿时，美国政府高级官员到机场送行。机场鸣放21响礼炮。&lt;/p&gt;&lt;p&gt;　　前往机场途中，华侨华人和留学生代表在道路两旁挥舞中美两国国旗，热烈祝贺习近平主席访问圆满成功。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183101&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183101.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183101.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平圆满结束对美国的国事访问 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183101.html#[01版：要闻] 习近平圆满结束对美国的国事访问</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 明月亘古  发展弥新（今日谈）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183102.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 明月亘古  发展弥新（今日谈） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							常  晋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　又到一年月圆时。950年前，苏轼望月抒怀，遥问“天上宫阙”；而今，我们能收到来自“天宫”的祝福，正在中国空间站执行任务的神舟二十三号航天员乘组，遥祝全国人民中秋快乐、阖家幸福。千里共婵娟，神州神舟同心相连。&lt;/p&gt;&lt;p&gt;　　今人再望明月，心中万般情愫，更有可接近的实感。中国探月工程被命名为“嫦娥工程”，首辆月球车取名“玉兔”，嫦娥三号着陆区域被称为“广寒宫”……以新型举国体制攻克关键核心技术，那些耳熟能详的神话故事，正从传说变为传奇。科技自立自强，赋予我们更深厚的文化自信。&lt;/p&gt;&lt;p&gt;　　同一轮明月，同一个世界。北京天文馆“问月”展览，观众久久驻足，凝望来自38万公里外的珍贵月壤。维也纳联合国总部，各国代表排起长队，参观中国赠予的月背月壤样品。敞开胸怀、打开大门，我们始终以开放的气度，推动科学成果全球共享。&lt;/p&gt;&lt;p&gt;　　明月不变，变的是望月人的脚步，是中国发展的刻度。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;常  晋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183102&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183102.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183102.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 明月亘古  发展弥新（今日谈） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183102.html#[01版：要闻] 明月亘古  发展弥新（今日谈）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] ​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183103.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; ​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  何  聪  江  南  窦瀚洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“无人超市”里，机器人售货员正学习自动识别、抓取、结算商品；模拟昏暗矿道内，机器人矿工在进行障碍物探测；农业采摘训练区里，仿真灵巧手控制力道，练习采摘动作……&lt;/p&gt;&lt;p&gt;　　前不久，浙江杭州，国家人工智能应用中试基地（具身智能）围绕应急救援、家庭服务、农业采摘场景发布了首批“揭榜挂帅”课题，攻关具身智能场景下高质量多模态数据集建设。&lt;/p&gt;&lt;p&gt;　　今年7月，习近平总书记在国家科学技术奖励大会、中国科学院第二十二次院士大会和中国工程院第十八次院士大会、中国科学技术协会第十一次全国代表大会上强调：“要推动科技创新和产业创新深度融合，打通科技加速向现实生产力转化的通道。”在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上，习近平总书记强调：“抓住难得的历史性机遇，鼓励开源开放、合作共享，全面促进人工智能科技创新、产业发展、场景应用”。“十五五”规划纲要提出，“推进国家人工智能创新高地建设”。&lt;/p&gt;&lt;p&gt;　　深入贯彻落实习近平总书记重要指示精神和党中央决策部署，杭州坚持创新策源、生态培育、场景开放协同推进，加速打通人工智能生产力转化通道，努力在人工智能科技创新、产业发展和赋能应用上实现新突破。&lt;/p&gt;&lt;p&gt;　　抓创新、强产业——&lt;/p&gt;&lt;p&gt;　　聚焦具身智能赛道，杭州率先发力。&lt;/p&gt;&lt;p&gt;　　走进传化集团新安化工总部智能园区，包装机器人稳稳抓取、精准打包；巡检机器人定时检查、排除隐患。人工智能深度嵌入制造全流程，园区生产效率较过去提高超三成。&lt;/p&gt;&lt;p&gt;　　“从中试基地测试到线下实战，我们联合上游算力、中游整机，打造一条基于制造和物流场景的具身智能应用产业链。”传化集团副总裁姚晨蓬介绍。&lt;/p&gt;&lt;p&gt;　　从模型和算力，到硬件和整机，再到中试验证和实际应用，杭州以专业化分工、地区间协作，促进具身智能产业聚链成群。目前，杭州已集聚众多具身智能机器人与其他智能终端产业集群企业，2025年，集群规上工业产值突破1000亿元，四足机器人、人形机器人的国内市场份额稳居高位。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　坚持统筹发展和安全，《杭州市促进具身智能机器人产业发展条例》于今年5月施行，着力激发各类主体创新活力的同时，促进行业安全有序发展。&lt;/p&gt;&lt;p&gt;　　建生态、引人才——&lt;/p&gt;&lt;p&gt;　　杭州西湖区紫金港科技城云谷中心，人工智能大模型开源社区“魔搭社区”的开发者中心坐落于此。在这个超1万平方米的线下空间里，开发者们交流创意、碰撞思想火花。&lt;/p&gt;&lt;p&gt;　　“一个工位月租仅300元，办公环境舒适整洁。”从“魔搭社区”的线上活跃用户，到入驻线下社区的一人公司创业者，陈晖正在开发人工智能招聘软件，“在这里可以找到志同道合的‘搭子’。”&lt;/p&gt;&lt;p&gt;　　杭州聚力开展开源模型攻关、开源社区建设和开源商业模式培育。今年，杭州计划支持“魔搭社区”汇聚全球开发者超3000万人，培育开源创新企业100家，力争全年实现人工智能核心产业营收规模超5500亿元。“十五五”时期，杭州将大力支持通义千问、深度求索等开源模型迭代升级，加快培育新的开源基础大模型。&lt;/p&gt;&lt;p&gt;　　育场景、广赋能——&lt;/p&gt;&lt;p&gt;　　小程序下单，10分钟取餐。位于拱墅区中国杭州人力资源服务产业园的快鳄·未来食堂，颠勺“大厨”是智能炒菜机器，出菜快、口感好。&lt;/p&gt;&lt;p&gt;　　“人工智能算法助力，大厨拿手菜转化为‘数字菜谱’，放进新鲜食材即可‘无人化’制作。”快鳄（杭州）科技有限公司负责人严湖斌介绍，得益于拱墅区“科技驱动+场景牵引”发展规划，公司计划年内落地20家门店，为更多顾客提供健康饮食服务。&lt;/p&gt;&lt;p&gt;　　深入实施“人工智能+”行动，杭州以场景牵引技术创新，以应用带动产业发展。&lt;/p&gt;&lt;p&gt;　　2025年以来，杭州已累计发布人工智能领域场景机会488个、场景能力923个。2026年起，围绕先进制造业集群、城市治理、民生服务等重点领域，杭州力争每年培育和开放高质量场景资源200个以上，逐渐形成“首试验证—首用场景—首发品牌—首秀传播”的新技术新产品全链条应用生态。&lt;/p&gt;&lt;p&gt;　　牢记习近平总书记殷殷嘱托，杭州正奋力建设一流创新生态、打造优质营商环境，推动人工智能产业发展不断取得新突破。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  何  聪  江  南  窦瀚洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183103&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183103.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183103.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; ​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183103.html#[01版：要闻] ​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 全国建成一刻钟便民生活圈9156个</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183104.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国建成一刻钟便民生活圈9156个 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月25日电  （记者王珂）记者从商务部获悉：目前全国超过90%的地级以上城市因地制宜开展了便民生活圈建设，全域推进先行区试点稳步推进，形成了一批可复制推广的典型经验，全国建成一刻钟便民生活圈9156个。&lt;/p&gt;&lt;p&gt;　　城市一刻钟便民生活圈试点工作推进会近日在湖北荆州召开。会议要求，要壮大社区线下消费，推动实体商业转型升级，塑造惠民利民的新定位，挖掘现场体验的新价值，培育贴近生活的新优势。要正确处理线上线下关系，统筹效率与公平，支持实体商业发展。要坚持“问需于民”，补齐业态短板，完善服务功能。&lt;/p&gt;&lt;p&gt;　　为加力推动城市一刻钟便民生活圈建设，商务部等8部门近日公布第三批30个城市一刻钟便民生活圈全域推进先行区试点名单，将利用2年左右时间，实现便民生活圈对试点城市主城区和有条件的县城社区全覆盖。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183104&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183104.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183104.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国建成一刻钟便民生活圈9156个 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183104.html#[01版：要闻] 全国建成一刻钟便民生活圈9156个</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 在美国总统特朗普举行的欢迎宴会上的祝酒辞</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183105.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 在美国总统特朗普举行的欢迎宴会上的祝酒辞 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; （2026年9月24日，华盛顿） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							中华人民共和国主席  习近平&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;尊敬的特朗普总统和梅拉尼娅女士，&lt;/p&gt;&lt;p&gt;女士们，先生们，朋友们：&lt;/p&gt;&lt;p&gt;　　感谢特朗普总统和梅拉尼娅女士给予我和我夫人的热情接待和周到安排。总统先生和夫人为这次访问做了很多特殊安排，处处都体现出细致和用心，让我们感到宾至如归。在此，我谨向所有关心、支持中美关系发展的美国各界人士致以诚挚问候！此时此刻，中国人民正在欢度中秋节。在中国传统里，中秋节是团圆的佳节。在此，祝大家中秋快乐、阖家幸福！&lt;/p&gt;&lt;p&gt;　　今年5月，特朗普总统应我的邀请成功访华，我们同意构建中美建设性战略稳定关系。当时，特朗普总统热情邀请我访美，现在我如约而至。短短不到半年，中美两国元首实现互访，创造了两国交往的历史。今天我同特朗普总统进行了坦诚深入交流，达成很多新的共识，丰富了中美建设性战略稳定关系的内涵，为中美关系提供了新的战略指引。&lt;/p&gt;&lt;p&gt;　　不久前，美国隆重庆祝独立250周年。我代表中国政府和中国人民表达了祝贺。这200多年的历史，见证了中美两国人民的友好交往。&lt;/p&gt;&lt;p&gt;　　200多年前，美国独立伊始，便将目光投向中国，中美双方互通有无、优势互补，开启了贸易往来，华盛顿总统就购买、收藏了大量中国瓷器。&lt;/p&gt;&lt;p&gt;　　80多年前，中美两国人民并肩作战，抗击日本军国主义侵略者，开辟了著名的驼峰航线。抗日战争期间，中国军民营救了数百名美国飞行员，付出数十万生命的代价。这份血与火锻造的友谊必将世代相传。&lt;/p&gt;&lt;p&gt;　　50多年前，中美两国的乒乓外交叩开了尘封已久的交往大门。毛泽东主席和尼克松总统等老一辈政治家，以“小球转动大球”的政治智慧，开启了中美关系正常化的伟大进程。当年尼克松总统赠送的特殊国礼——红杉树，就种植在我曾工作过的浙江省。&lt;/p&gt;&lt;p&gt;　　20多年前，一位名叫赛考斯的美国人资助中国治沙人殷玉珍种树。不久前，这位老人回到中国，亲眼看到当年的沙漠已经变成一片郁郁葱葱的森林。这个故事感动了许多中国民众，也是中美两国人民友好交往的范例。&lt;/p&gt;&lt;p&gt;　　中美人文交流有利于促进两国人民心灵沟通，为中美友好合作厚植了民意基础。&lt;/p&gt;&lt;p&gt;　　女士们、先生们、朋友们！&lt;/p&gt;&lt;p&gt;　　温故而知新。今天，中美关系又站在新的历史起点上。特朗普总统提出让美国再次伟大，带领美国人民取得了重要发展成就。中国正致力于实现中华民族伟大复兴，中国式现代化建设不断开创了新局面。这两个目标都很宏伟，完全可以相互成就。我们应当展现大国担当，顺应人民期盼和时代大势，探索一条大国正确相处的新路。&lt;/p&gt;&lt;p&gt;　　历史长河奔流不息，中美两国人民友好事业前景广阔。让我们携手并进，共同浇灌中美友谊的美丽花朵，共同书写中美友好的崭新篇章。&lt;/p&gt;&lt;p&gt;　　我提议：&lt;/p&gt;&lt;p&gt;　　为特朗普总统和梅拉尼娅女士健康，&lt;/p&gt;&lt;p&gt;　　为中美两国繁荣进步，&lt;/p&gt;&lt;p&gt;　　为两国人民友谊，&lt;/p&gt;&lt;p&gt;　　干杯！&lt;/p&gt;&lt;p&gt;　　（新华社华盛顿9月24日电）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;中华人民共和国主席  习近平&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; （2026年9月24日，华盛顿） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183105&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183105.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183105.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 在美国总统特朗普举行的欢迎宴会上的祝酒辞 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183105.html#[02版：要闻] 在美国总统特朗普举行的欢迎宴会上的祝酒辞</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 为中美关系提供新的战略指引</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183106.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 为中美关系提供新的战略指引 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——国际社会高度评价习近平主席美国之行 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　9月23日至25日，国家主席习近平对美国进行国事访问。这是习近平主席时隔11年再次对美国进行国事访问，也是继今年5月中美元首北京会晤之后，两国领导人再次会晤。访问期间，两国元首进行了坦诚深入交流，达成很多新的共识，丰富了中美建设性战略稳定关系的内涵，为中美关系提供了新的战略指引。&lt;/p&gt;&lt;p&gt;　　此次国事访问牵动全球目光。接受本报记者采访的国际人士认为，习近平主席此次访美是举世瞩目的历史性时刻。两国元首共同为中美关系这艘大船领航掌舵，拓展中美各领域交流合作空间，为两国人民增进福祉，为世界和平增添希望。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“走出一条两个大国的正确相处之道”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　国际社会普遍认为，中美元首在半年内实现互访，具有历史性、里程碑意义。双方同意进一步丰富中美关系定位的内涵，共同构建“基于尊重、公平、对等的建设性战略稳定关系”，是迈向两国正确相处之道的重要一步，为世界注入稳定性和确定性。&lt;/p&gt;&lt;p&gt;　　美国艾奥瓦州友人、马斯卡廷对华合作委员会主席丹·斯坦表示：“作为世界前两大经济体，美中通过元首外交促进务实合作、传递和平善意，为美中关系校准航向，为全球和平发展注入动力。此次会晤充分说明，大国坚持相互尊重、求同存异，完全可以通过对话管控分歧，通过合作实现共赢，走出一条两个大国的正确相处之道。”&lt;/p&gt;&lt;p&gt;　　美国艾奥瓦州友人盖瑞·德沃切克认为，美中两国元首保持常态化沟通，有助于为双边关系建立更加稳定的框架，这不仅具有重要外交意义，也带来更稳定预期，有利于两国更好作出长期规划和决策，让两国人民获得实实在在的好处。&lt;/p&gt;&lt;p&gt;　　得知习近平主席提及自己资助中国治沙人殷玉珍种树的故事，赛考斯激动不已。“期待美中之间进一步加强民间交往与交流。”赛考斯表示，习近平主席宣布，未来5年，中方将邀请10万名美国青少年来华交流学习。从“5年5万”到“5年10万”，倡议促进了美中青少年深化交流。“此次元首会晤丰富了美中建设性战略稳定关系的内涵。如果我们多关注彼此的共同点，而非分歧，世界将会变得更好，两国年轻人也将拥有更加光明的未来。”赛考斯说。&lt;/p&gt;&lt;p&gt;　　巴基斯坦《今日巴基斯坦报》新闻部主任米安·阿布拉尔表示，在全球不确定性增多、地缘政治局势紧张的当下，元首外交对维护世界和平稳定起到重要作用。习近平主席强调中美要加强沟通、真诚合作、和平共处，从多个维度为中美管控分歧、良性竞争、互利共赢指明方向。&lt;/p&gt;&lt;p&gt;　　墨西哥大都会自治大学副教授爱德华多·齐利—阿潘戈表示，两国元首在半年内实现互访，双方在互动中展现的友谊与善意，让世界看到中美在保持稳定关系、持续推动合作方面的努力。中美构建建设性战略稳定关系的新定位，成为全球安全稳定的重要锚点，也为全球经济发展带来信心。&lt;/p&gt;&lt;p&gt;　　意大利金砖国家研究会主席维托·彼得罗切利表示，构建中美建设性战略稳定关系新定位是中美迈向正确相处之道的重要一步。中美合作将促进全球和平、稳定与发展。&lt;/p&gt;&lt;p&gt;　　西班牙IE大学中国研究中心主任菲利克斯·巴尔迪维索表示，两国元首在如此短的时间内实现互访，表明双方都认可保持直接沟通的重要性。中美建设性战略稳定关系是一种更加可预期的关系，这不仅有利于两国民众，也将为世界其他国家稳定发展带来更多信心。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“各方要推动元首共识转化为实际行动”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　在中美元首会晤前夕，双方经贸团队举行新一轮磋商，达成了一份新的联合安排。受访国际人士赞赏称，中美双方相向而行，坚持互利共赢导向，将推动中美经贸关系持续稳定向好发展。&lt;/p&gt;&lt;p&gt;　　美国国际问题专家劳伦斯·弗里曼表示，作为世界前两大经济体，美中维护经贸关系稳定发展，扩大经济合作，既有利于两国自身发展，也有助于为世界经济增添稳定性。“美中合作早已超越双边范畴，双方发挥各自优势，在促进全球经济增长、减少贫困等方面加强合作，可为推动全球发展作出积极贡献。”他说。&lt;/p&gt;&lt;p&gt;　　卢旺达“非中评论”网站创始人杰拉尔德·姆班达表示，全球南方国家发展需要稳定的贸易环境、开放的市场以及可靠的产供链，“中美经贸关系稳定符合全球南方的共同利益”。&lt;/p&gt;&lt;p&gt;　　“中美两国长期持续的经贸合作是推动经济全球化的重要力量。”齐利—阿潘戈表示，“稳定的中美关系有利于两国经贸合作与全球经济发展。这是全球共识。”&lt;/p&gt;&lt;p&gt;　　“美中元首会晤为双边关系发展指明方向，各方要推动元首共识转化为实际行动。”美国库恩基金会主席罗伯特·劳伦斯·库恩认为，美中两国都处于人工智能发展的前沿，继续开展人工智能对话，既符合双方共同利益，也有助于为人工智能全球治理贡献力量。&lt;/p&gt;&lt;p&gt;　　斯里兰卡凯拉尼亚大学社会科学学院大众传播系主任马诺伊·吉纳达萨说，作为两个重要大国，中美和平相处、合作共赢，为稳定世界局势注入信心，为全球经济增长创造空间。他表示，中美两国都是人工智能大国，彼此存在竞争，也有巨大合作空间。双方保持对话，加强合作，将共同推动全球人工智能向上向善发展，更好造福全人类。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“稳定的中美关系将造福世界”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　中美两国的合作不仅关乎两国人民的福祉，也对世界的和平与发展具有深远影响。此次会晤中，两国元首就关乎两国关系和世界局势的重大问题深入交流，就中东局势、乌克兰危机、朝鲜半岛等重大国际和地区问题交换了意见，确认将相互支持办好2026年亚太经合组织领导人非正式会议和二十国集团领导人峰会。&lt;/p&gt;&lt;p&gt;　　“稳定的中美关系将造福世界。”斯里兰卡科伦坡大学管理与金融学院教授蒂萨·拉温达·佩雷拉说，两国元首以战略智慧和眼光处理双边关系，不仅能促成双方在经贸、文化、教育等领域开展更多合作，也让国际社会对和平稳定的未来抱有更大期待。&lt;/p&gt;&lt;p&gt;　　韩国东亚研究所所长、韩中全球协会会长禹守根表示，中美两国元首持续面对面沟通，在妥善管控分歧的同时，积极探索务实合作。“当中美将彼此发展视为机遇而非威胁时，不仅助益两国关系发展，世界也将迎来更多和平与繁荣空间。”他说。&lt;/p&gt;&lt;p&gt;　　“大国的影响力越大，承担的责任也就越大。”巴西外贸商会联合会副主席马尔科·库纳说，中美两国拥有巨大经济规模、强大科研能力以及广泛合作潜力，双方积极开展合作，将为应对全球性挑战提供切实可行的解决方案。&lt;/p&gt;&lt;p&gt;　　姆班达表示，中国和美国将分别主办2026年亚太经合组织领导人非正式会议和二十国集团领导人峰会，为双方加强协调，促进世界经济增长、完善全球治理提供了重要契机。非洲国家期待中美共同维护开放合作的国际经济环境，为发展中国家扩大贸易投资、推进工业化、实现可持续发展创造更有利条件。&lt;/p&gt;&lt;p&gt;　　肯尼亚国际关系学者卡文斯·阿德希尔说，中美构建建设性战略稳定关系，拓展双方共同利益，在全球贸易、气候变化、公共卫生等全球治理领域开展合作，“不仅能巩固双边关系，也有助于营造可持续、包容性环境，惠及全球”。&lt;/p&gt;&lt;p&gt;　　（本报北京、华盛顿、伊斯兰堡、墨西哥城、罗马、马德里、约翰内斯堡、首尔、里约热内卢、内罗毕9月25日电  记者龚鸣、张梦旭、宋亦然、李志伟、包晗、赵益普、程是颉、谢亚宏、颜欢、戴楷然、莽九晨、时元皓、黄炜鑫）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——国际社会高度评价习近平主席美国之行 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183106&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183106.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183106.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 为中美关系提供新的战略指引 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183106.html#[02版：要闻] 为中美关系提供新的战略指引</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 把中美建设性战略稳定关系从愿景转化为行动（钟声）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183107.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 把中美建设性战略稳定关系从愿景转化为行动（钟声） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　中美两国应当也完全可以在务实合作中互利共赢，在良性竞争中彼此成就，在求同存异中妥处分歧，在累积互信中构筑和平，让中美建设性战略稳定关系更好惠及两国人民和世界各国人民&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　9月23日至25日，习近平主席应美国总统特朗普邀请对美国进行国事访问。这是一次传承友谊之旅、拓展合作之旅、增进两国人民福祉之旅。两国元首就关乎两国关系和世界局势的重大问题坦诚深入交流，达成很多新的共识，丰富了中美建设性战略稳定关系的内涵，为中美关系提供了新的战略指引。国际社会普遍认为中美元首华盛顿会晤“向世界释放了确定性信号”，不仅有利于增进两国人民福祉，更为世界和平发展增添了希望。&lt;/p&gt;&lt;p&gt;　　中美两国元首在不到半年时间里实现互访，在两国关系史上是前所未有的。习近平主席与特朗普总统长期交往、彼此尊重，成为中美关系最宝贵的战略资产。过去一年多来，两国元首通过各种方式保持沟通，共同为中美关系这艘大船领航掌舵。今年5月，特朗普总统成功访华，两国元首一致同意构建中美建设性战略稳定关系。这一新定位反映了中美关系的现实，也体现了对未来的期许，是迈向两国正确相处之道的重要一步，受到两国人民和国际社会广泛欢迎。此次访美期间，习近平主席指出“要把这一愿景转化为行动”，明确中美两国应当也完全可以在务实合作中互利共赢，在良性竞争中彼此成就，在求同存异中妥处分歧，在累积互信中构筑和平，让中美建设性战略稳定关系更好惠及两国人民和世界各国人民。这一重要论述，为把中美建设性战略稳定关系从愿景转化为行动明确了路径，也为两国关系长远发展注入了新的动力。&lt;/p&gt;&lt;p&gt;　　中美两国利益深度交融，合作空间十分广阔。合作是双行道，中美经贸关系的稳定既需要拉长合作清单，也需要压缩问题清单。此次中美元首会晤前夕，双方经贸团队举行新一轮磋商，达成了一份新的联合安排，对两国产业界、老百姓乃至全球经济都是好消息。这再次印证，中美经贸关系的本质是互利共赢，面对分歧和摩擦，平等协商是唯一正确选择。只要秉持平等、尊重、互惠的精神，双方就能找到解决问题的出路，从而推动中美经贸关系持续稳定向好发展。&lt;/p&gt;&lt;p&gt;　　明确原则底线，是中美构建建设性战略稳定关系的重要前提。台湾问题是中国核心利益中的核心，是中美关系第一条不可逾越的红线。世界上只有一个中国，台湾是中国领土不可分割的一部分。中方维护国家统一和领土完整的立场是很清楚的。希望美方坚持反对“台独”的正确立场，慎重处理台湾问题，为中美战略合作和两国关系发展奠定坚实基础。&lt;/p&gt;&lt;p&gt;　　面对当今世界之变、时代之变、历史之变，中美两个大国肩负着促进人类发展进步的历史重任。在人工智能领域，习近平主席指出，中美都是人工智能大国，双方有竞争，更可以合作，应该各展所长而不是相互设防。双方可以继续开展人工智能对话，就其风险和收益进行交流，共同防范人工智能被滥用恶用。要保持人类对人工智能技术的管控，秉持以人为本、向上向善理念，让人工智能为人类的进步服务。特朗普总统表示，人工智能关乎人类未来，美中应就此保持对话，加强合作。&lt;/p&gt;&lt;p&gt;　　会谈中，两国元首确认将相互支持办好2026年亚太经合组织领导人非正式会议和二十国集团领导人峰会，为携手应对全球性挑战、完善全球治理注入更多正能量。中美携手多办一些有利于两国和世界的大事、实事、好事，正是推动构建中美建设性战略稳定关系的应有之义。&lt;/p&gt;&lt;p&gt;　　今年是中美各自发展的关键之年，中美关系又站在新的历史起点。双方应当展现大国担当，顺应人民期盼和时代大势，共同落实好两国元首重要共识，把中美建设性战略稳定关系从愿景转化为行动，朝着合作为主、竞争有度、分歧可控、和平可期的方向努力，走出一条两个大国在这个星球上的正确相处之道。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183107&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183107.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183107.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 把中美建设性战略稳定关系从愿景转化为行动（钟声） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183107.html#[02版：要闻] 把中美建设性战略稳定关系从愿景转化为行动（钟声）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] “稳定的经贸关系为美中带来实实在在的利益”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183108.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “稳定的经贸关系为美中带来实实在在的利益” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——访美中贸易全国委员会会长谭森 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李志伟&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/3840d204-301d-432b-8dec-513e75226d30.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　“美中两国元首在不到半年时间内实现互访，不仅有助于巩固双边关系稳定发展的势头，也向工商界释放出积极信号。”美中贸易全国委员会会长谭森日前在接受本报记者采访时说。&lt;/p&gt;&lt;p&gt;　　今年5月，习近平主席同特朗普总统在北京举行历史性会晤，共同确立了构建中美建设性战略稳定关系的两国关系新定位，明确两国朝着合作为主、竞争有度、分歧可控、和平可期的方向携手努力，探索新时代大国正确相处之道。谭森表示，元首外交对保持双边关系稳定具有战略引领作用。美中元首北京会晤明确了双方推动两国关系保持稳定、向前发展的共同意愿。无论是面对面会晤，还是通话、互致信函，两国领导人保持沟通都有助于增进了解、稳定预期。“美中是全球前两大经济体，双方保持沟通、维护关系稳定十分重要。”他表示，工商界期待此次元首会晤进一步巩固双方稳定发展双边关系的共识。&lt;/p&gt;&lt;p&gt;　　稳定的双边关系为两国经贸合作提供重要支撑。谭森表示，美国企业高度重视中国市场，一些关于“美国企业不愿再同中国做生意”“美国企业正在普遍撤离中国”的说法，都不符合事实。今年7月底，应美中贸易全国委员会邀请，中国贸促会组织中国企业家代表团访问美国盐湖城、芝加哥、华盛顿特区，同美国工商界开展交流，美国企业积极参与。美国工商界人士期待继续深耕中国市场，加强贸易投资合作。“美国企业仍然十分看重中国市场，也希望继续同中国企业开展合作。”谭森说。&lt;/p&gt;&lt;p&gt;　　在谭森看来，中国市场的吸引力不仅仅在于市场规模。“中国在技术创新、产业体系和供应链领域形成的优势，不只服务于中国市场。”谭森说，美国企业通过参与中国市场竞争、加强同中国伙伴合作，可以提升自身创新能力和经营效率，“这不仅有助于美国企业增强在中国市场的竞争力，也有助于提升其全球竞争力”。&lt;/p&gt;&lt;p&gt;　　经贸合作应继续成为中美关系的压舱石和推进器。谭森表示，美中两国经济体量大、市场规模大，企业之间长期形成了广泛而深入的联系。“稳定的经贸关系为美中带来实实在在的利益。”谭森说，良性的贸易往来能让两国都实现更好发展，富有成效的双向投资也会让双方受益。他表示，美中经贸合作的意义已经超越双边范畴。两国加强贸易投资合作，不仅有利于各自经济增长，也有助于为全球经济发展创造更加稳定、有利的环境。&lt;/p&gt;&lt;p&gt;　　“美中两国元首保持沟通、双方继续拓展商业合作，符合两国工商界的共同期待。”谭森表示，“我们期待此次会晤进一步稳定双边关系，为美中两国开展更多务实合作创造条件。” &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李志伟&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——访美中贸易全国委员会会长谭森 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183108&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183108.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183108.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “稳定的经贸关系为美中带来实实在在的利益” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183108.html#[02版：要闻] “稳定的经贸关系为美中带来实实在在的利益”</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 平陆运河首条外贸航线首艘货船抵达越南芹苴港</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183109.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 平陆运河首条外贸航线首艘货船抵达越南芹苴港 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　据新华社越南芹苴/南宁9月24日电  （记者邹学冕、朱丽莉）平陆运河首条外贸航线“中国南宁港至越南芹苴港”航线货船抵港仪式24日在芹苴市举行，中越业内人士共同迎接首艘抵达芹苴港的国际江海联运集装箱船舶“北港南宁博润”轮。&lt;/p&gt;&lt;p&gt;　　“北港南宁博润”轮本月16日从南宁港六景作业区出发，经平陆运河进入北部湾海域，23日抵达芹苴港。货轮共装载252个标准集装箱，主要货物包括木板、元明粉和汽车配件等，货源是中国川渝等西部地区。&lt;/p&gt;&lt;p&gt;　　北部湾港集团党委书记、董事长胡华平在仪式上说，航线顺利通航是中越双方抢抓平陆运河通航机遇、共建国际陆海贸易新通道的标志性成果。北部湾港集团将与芹苴港及各方共同培育双向货源、完善服务体系，提升两地物流互联互通水平。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183109&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183109.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183109.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 平陆运河首条外贸航线首艘货船抵达越南芹苴港 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183109.html#[02版：要闻] 平陆运河首条外贸航线首艘货船抵达越南芹苴港</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 第十四届“感知中国”内蒙古文化周活动在蒙古国举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183110.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 第十四届“感知中国”内蒙古文化周活动在蒙古国举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报乌兰巴托9月25日电  （记者张朋辉）第十四届“感知中国”内蒙古文化周25日在蒙古国首都乌兰巴托落下帷幕。本届文化周由中国内蒙古自治区人民政府新闻办公室、中国驻蒙古国大使馆、蒙古国文化体育旅游与青年部共同主办，主题为“共享开放新机遇  共筑草原新丝路”。&lt;/p&gt;&lt;p&gt;　　据悉，本届文化周内容丰富、形式多元、覆盖面广，共设置中国（内蒙古）自由贸易试验区建设推介、文旅资源推介、主题综合展览、专场文艺演出等12大类23项系列活动。&lt;/p&gt;&lt;p&gt;　　主办方表示，“感知中国”内蒙古文化周已连续举办14届，是中蒙两国常态化、品牌化、标志性的人文交流重要平台。“感知中国”内蒙古文化周为深化两国民心相通、夯实友好根基发挥了积极作用。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183110&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183110.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183110.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 第十四届“感知中国”内蒙古文化周活动在蒙古国举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183110.html#[02版：要闻] 第十四届“感知中国”内蒙古文化周活动在蒙古国举行</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 中国—东南亚国家海洋合作论坛在泰国曼谷举办</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183111.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国—东南亚国家海洋合作论坛在泰国曼谷举办 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　据新华社曼谷9月25日电  （记者林淑婷、万后德）第九届中国—东南亚国家海洋合作论坛24日至25日在泰国曼谷举办。多国专家在论坛上分享了气候预测、海洋防灾减灾等领域的最新研究成果，展现了科学家跨国交流惠及民众的现实意义。&lt;/p&gt;&lt;p&gt;　　本次论坛由中国自然资源部与泰国自然资源和环境部共同主办。来自中国、泰国及其他多个东南亚国家的40余家涉海管理部门、科研院所与高校的200余名代表参会，围绕区域海洋合作与发展路径展开研讨。&lt;/p&gt;&lt;p&gt;　　泰国自然资源和环境部长特别顾问达丽卡·萨鲁尼亚加特致辞表示，本次论坛彰显了中国与东南亚国家共同推动海洋合作、让海洋惠及地区民众的决心。“区域合作比以往任何时候都更为重要。”她说，“希望本次活动能够搭建宝贵平台，促成务实合作，并发掘出全新的合作领域。” &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183111&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183111.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183111.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国—东南亚国家海洋合作论坛在泰国曼谷举办 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183111.html#[02版：要闻] 中国—东南亚国家海洋合作论坛在泰国曼谷举办</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 生物制造为未来产业发展打造新引擎</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183112.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 生物制造为未来产业发展打造新引擎 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							金  轩&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　生物制造是当前全球科技创新和产业创新重要前沿，是“十五五”时期重点发展的未来产业新赛道。它将微小的细胞当作“生产车间”，通过绿色、低碳、可持续的生物合成方式，把糖类、秸秆甚至二氧化碳等原料，转化为生产生活所需的药品、食品、化工、能源等重要产品，具有重塑传统物质生产方式的巨大潜力，可为更好保障国家粮食和能源安全、增进人民健康福祉、加快发展全面绿色转型提供重要支撑。&lt;/p&gt;&lt;p&gt;　　牢牢把握当前新一轮科技革命和产业变革的重大战略机遇，要充分发挥我国生物资源丰富、产业体系完备、市场空间广阔的综合优势，加快发展生物制造产业。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　我国生物制造产业发展正跑出加速度&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　当前，我国生物制造产业发展正跑出加速度、显现新优势。今年以来，生物制造与医药、化工、能源、食品、农业等千行百业加速融合，创新成果不断涌现，产业发展活力持续迸发。&lt;/p&gt;&lt;p&gt;　　医药领域是生物制造大显身手的“主战场”。今年我国生物医药发展进一步提速，仅上半年就有17款生物创新药上市、达到去年全年的七成以上；在全部获批的新药中，占比从去年的三成提升到约五成。可以说，生物制造正在赋能我国医药创新换挡提速、成为世界上新药研发的重要策源地，为增进我国乃至全球人民健康福祉提供更多可能。&lt;/p&gt;&lt;p&gt;　　化工和能源领域也在发生一场“由黑到绿”的重要变革。我国已发布新版生物降解塑料购物袋国家标准，将降解率门槛提高到90%，进一步加快生物基材料在包装、医疗等领域对化石基材料的替代步伐。与此同时，“地沟油”也正变废为宝、飞上蓝天。目前全国已有9家机场完成可持续航空燃料（SAF）保障设施改造并通过认证，北京大兴、郑州新郑等4家机场实现常态化加注，累计服务保障超12万架次航班“低碳飞行”。&lt;/p&gt;&lt;p&gt;　　越来越多的生物制造健康新食品正逐步走进日常生活。延续去年快速增长态势，今年上半年，我国已有4款基于生物发酵的新食品原料获批上市，在健康糖、菌丝蛋白、婴儿益生菌等领域实现国产自主，不少产品已进入规模化生产，在“零卡”饮品、配方奶粉等细分市场加速应用，满足全社会日益多元的营养健康需求。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　生物制造将向广阔领域加速渗透&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　未来，随着生命科学和生物技术持续进步，生物制造将从当前“点上”的应用突破，全面向工农业生产和衣食住行的广阔领域加速渗透，支撑构建更加绿色低碳可持续、更具“想象空间”的未来社会新图景。&lt;/p&gt;&lt;p&gt;　　生物制造将推动社会生产方式发生新变革。在人工智能技术赋能下，生物制造创新模式将加速迭代、研发生产效率将大幅提升，未来许多工厂可能以“细胞工厂”的形态呈现，实现传统生产方式的绿色化升级。秸秆被微生物“吃进去”，“吐出”各类可自然降解的新材料；废物废气废水通过生物发酵，“酿”成高价值的航空煤油、生物柴油等绿色燃料；像写代码一样编辑基因、改造细胞，产出更多特效药物，让一大批当下还“无药可医”的重大疾病实现有效治愈。&lt;/p&gt;&lt;p&gt;　　生物制造将引领社会生活方式焕发新风尚。未来的餐桌上，高标准发酵车间“种”出来的蛋白食品将成为寻常美味，而新型代糖则让甜味更健康、无负担；未来的商场里，从购物袋、包装盒到衣帽鞋袜，生物可降解材料将更大程度普及；未来出门旅行，无论选择坐飞机还是开车自驾，绿色环保的生物燃料都将为我们“保驾护航”。&lt;/p&gt;&lt;p&gt;　　“十五五”时期，我国生物制造产业迎来加快发展、塑造优势的机遇。从前沿趋势看，全球生物科技创新将更加活跃，人工智能技术与生物制造加速融合、颠覆性生物技术持续涌现，深刻重塑生命科学研究、生物技术开发和产业发展范式，为产业发展提供了“换道超车”的重大机遇。从发展基础看，我国生物制造发展的有利条件持续积累，高端要素供给更充沛、投资生产消费循环更加畅通、内生发展动能更加强劲，产业优势将向上下游高附加值环节加速拓展。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　加快将生物制造产业打造成新的经济增长点&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　生物制造关乎当下，更关乎未来。“十五五”时期，发展生物制造前景广阔、大有可为，要着力夯实基础、补齐短板，发挥优势、抢抓主动，加快将生物制造产业打造成我国新的经济增长点。&lt;/p&gt;&lt;p&gt;　　加强政策协同，完善行业治理。推动生物制造产业政策与科技、财政、金融、人才政策协调联动、同向发力。持续完善审批程序，加快推动生物创新药、生物材料、生物燃料、生物新食品和新饲料原料等上市，进一步畅通循环、激发活力。引导各地立足自身生物资源、技术和场景优势，因地制宜选择发展方向、实现错位互补，构建布局合理的体系化发展格局。&lt;/p&gt;&lt;p&gt;　　加大自主创新，夯实创新底座。加强生物制造领域基础研究和原始创新，布局建设一批重大创新平台，在基本原理、关键工艺、重大产品等方面产出更多“从0到1”的原创成果。聚焦高端生物试剂、科研仪器、核心菌种等关键底层技术工具，集中力量持续推进攻关迭代，着力构建自主可控的技术体系。&lt;/p&gt;&lt;p&gt;　　加快产业应用，实现提质扩容。聚焦生物医药、生物化工和能源、生物农业和新食品等重点领域，加快新技术新工艺验证放大、标杆产品研发和应用推广，以标志性重大产品带动全产业链集成突破。充分用好国内超大规模市场优势，加快打通场景壁垒、畅通应用渠道、实现商业闭环，加速生物制造新技术从样品走向产品、从试点走向规模。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;金  轩&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183112&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183112.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183112.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 生物制造为未来产业发展打造新引擎 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183112.html#[03版：要闻] 生物制造为未来产业发展打造新引擎</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “不再只问新技术，更关注问题解决”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183113.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “不再只问新技术，更关注问题解决” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——在第五届数贸会看见人工智能未来 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  窦瀚洋  罗珊珊&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　9月23日至27日，第五届全球数字贸易博览会在浙江杭州举行。本届数贸会设17万平方米展区，汇聚2008家参展企业及超1.2万名国际客商，呈现人工智能赋能下的数字贸易新图景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　人工智能应用全面开花&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　人工智能展区内，各种造型的机器人让现场充满未来感。&lt;/p&gt;&lt;p&gt;　　宇树科技的量产载人变形机甲GD01，以红色金属涂装搭配驾驶舱，近3米高的“大家伙”引来观众排队体验。“它依托高精密伺服驱动系统与变形控制算法，能在不同形态间稳定切换，为文旅展演、特种作业提供全新方案。”宇树科技股份有限公司市场经理陈嘉欣介绍。&lt;/p&gt;&lt;p&gt;　　星物种机器人的展台还原了公共卫生间一角，一台搭载人工智能技术的清洁机器人正挥舞着机械臂演示清洁作业。参加了3届数贸会的公司联合创始人周勇介绍：“第一次带原型机参展，第二次签下意向订单，今年带来成熟的机器人产品，希望达成更多合作。”&lt;/p&gt;&lt;p&gt;　　从工业生产到日常生活，本届数贸会的人工智能技术应用在各领域全面开花。&lt;/p&gt;&lt;p&gt;　　美妆品牌花西子首次参加数贸会，带来了自研的多维全息人工智能感官行为研究系统，能实时采集和处理感官数据，为了解消费者反馈和推进产品研发提供数据支撑。在中建三局展台，未来工地摆在观众眼前，数字工地地图综合管理平台实现人员、设备、风险区域全场景定位预警，提升现场管理效率。&lt;/p&gt;&lt;p&gt;　　在数智出行展区的滴滴自动驾驶展台上，工作人员拉开后排车门邀请记者体验，“车内装配了计算平台，图形处理器算力超2000TOPS（每秒处理万亿次），能在真实路况中迭代无人驾驶能力，今年1月交付，已在广东广州黄埔、北京亦庄运营。”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　大模型与数据要素加速释放&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　本届数贸会紧扣算力、数据、模型三大关键要素，展现算力与数据深度融合、驱动行业智变的新动向。&lt;/p&gt;&lt;p&gt;　　看算力，硬核基础设施向深空与前沿延伸。地卫二空间技术（杭州）有限公司把“太空算力”搬到展会现场，展台上一台1∶1还原的高光谱算力卫星模型矗立，展示其通过“太空智能体组网”开展星载实时计算的最新成果。“将算力部署于太空，在遥感感知等场景实现数据‘天感地算’至‘天感天算’。”现场技术人员介绍。&lt;/p&gt;&lt;p&gt;　　看数据，高质量开源与验证范式加速构建。数搭国际数据开源社区连接科研机构、人工智能企业、技术专家、开发者社区与产业伙伴，对接研究问题、产业需求与专业资源，让数据建设更贴近模型能力演进和实际应用需要。“真正有价值的数据，需要具备质量、专业性和可验证性。”现场负责人张国钰说，第一次参加数贸会，他们希望为开源数据提供共建、共同验证的新范式。&lt;/p&gt;&lt;p&gt;　　看模型，行业大模型正在深入生产治理一线。在每日互动股份有限公司展台的大屏上，城市路网动态仿真画面吸引不少人驻足——车辆轨迹连续流动，信号灯配时随流量变化动态调整，背后的支撑是公司的城市交通大模型。现场技术人员介绍，结合卫星遥感影像与路口、车辆特征等地面数据，静态数据被还原为连续动态的交通流，成为一手治理依据。&lt;/p&gt;&lt;p&gt;　　第四次参加数贸会的每日互动董事长方毅说：“最大的变化是大家不再只问新技术，更关注问题解决。”在他看来，大模型本质上是一种新的生产工具，关键要在安全可控边界内让数据真正用起来。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　重塑数字供应链生态&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　走进丝路电商展区，50余款人工智能产品形成全球贸易的工具矩阵，数智技术让外贸环节实现全流程重塑。&lt;/p&gt;&lt;p&gt;　　在物产中大云商有限公司展区“数字云”平台上，板块业务数据实时更新。现场工作人员介绍，这套数智供应链体系有利于打通跨国贸易的信息壁垒，让供需对接、货物流转、通关结算、风险管控等环节可视、可管、可追溯。&lt;/p&gt;&lt;p&gt;　　公司总经理胡云龙表示，人工智能把算力、数据转化为实打实的产业服务能力，重构了跨境供需匹配模式、贸易服务链路。&lt;/p&gt;&lt;p&gt;　　在谦寻（杭州）控股有限责任公司展台，自研系统基于10年直播交易数据打造算法模型，助力直播选品精准化、数据自动化；杭州遥望网络科技有限公司通过调度人与人工智能协同执行、追踪经营结果，让人工智能进一步赋能企业经营。&lt;/p&gt;&lt;p&gt;　　作为数字贸易的重要业态，今年以来，浙江跨境电商进出口延续良好发展态势，1至8月进出口2641.9亿元，同比增长14.6%。&lt;/p&gt;&lt;p&gt;　　除传统货物贸易的数智化升级，文化与服务产品借助数贸会“组网出海”，展现数字供应链的全新内涵。在数智文娱展区，杭州容量互娱科技有限公司带来覆盖在线创作、可视化成片、智能迭代的智能平台。公司副总裁胡朝清认为，人工智能让数字内容跨越语言与审美的差异，以更轻盈精准的方式抵达全球受众。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  窦瀚洋  罗珊珊&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——在第五届数贸会看见人工智能未来 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183113&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183113.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183113.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “不再只问新技术，更关注问题解决” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183113.html#[03版：要闻] “不再只问新技术，更关注问题解决”</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 人工智能加速走向应用（记者手记）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183114.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 人工智能加速走向应用（记者手记） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							窦瀚洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　逛遍数贸会各大展区，最直观的感受是，人工智能正加速走向沉浸式应用，在生产、治理与经营一线深耕。&lt;/p&gt;&lt;p&gt;　　人工智能的生命力，在于与千行百业深度融合：“人机协作”重塑传统工种作业形态，专属大模型正精准嵌入各大企业的关键环节。多个行业对人工智能技术的理解从对通用大模型的试用，转向对专属大模型的打造——解决具体产业痛点，将算力与数据转化为实打实的生产力。&lt;/p&gt;&lt;p&gt;　　加速融合的同时，人工智能在各行业落地仍面临挑战。以数贸会为契机，进一步打通场景开放、数据激活与生态共建的通道，我们将开辟出实体经济与数字经济深度融合的广阔空间。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;窦瀚洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183114&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183114.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183114.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 人工智能加速走向应用（记者手记） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183114.html#[03版：要闻] 人工智能加速走向应用（记者手记）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 技能让文化交融交流（走进世界技能大赛）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183115.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 技能让文化交融交流（走进世界技能大赛） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  黄晓慧&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　中秋佳节，国家会展中心（上海）5.2号馆人气正旺。第48届世界技能大赛举办期间，世界技能博览会同步开展。这是本届世赛的创新之举，把匠人切磋技艺、技能文化交融的“技能博物馆”搬到比赛现场，让观众在观赛之余沉浸式体验各国技能文化。&lt;/p&gt;&lt;p&gt;　　步入展馆，远远就能看到醒目的“中国红”——位于“全球共识”展区中心位置的中国馆。约800平方米的空间里，展览以造纸术、印刷术、指南针、火药四大发明起笔，再转向北斗导航、航天火箭、智能制造、人工智能、6G通信，以及新时代技能人才队伍建设等场景。&lt;/p&gt;&lt;p&gt;　　“一省一技”板块将我国天南地北的传统技艺与工匠绝活，在同一展厅集中呈现。一位来自纳米比亚的外宾听说中国裁缝手艺好、价格公道，便决定在上海展台定制一套西装，两三天后就能拿到。&lt;/p&gt;&lt;p&gt;　　此次技能博览会举办的初衷是让人们用技能这门语言无障碍地交流。在中国展台，传统工艺的现场演示让观众频频驻足。山西展台前，古建模型梁枋交错，讲解员一句“不用钉、不用胶”，引得外宾忍不住伸手触摸，感受中国木作“以木制木”的巧劲。江西展台前，转盘轻旋，泥团在指尖立起成型，景德镇拉坯技艺让人惊叹。黑龙江把松花江的冰块搬进展厅，经巧手雕琢，化作本届世赛的吉祥物“能能”与“巧巧”。新疆沙粒画、红铜器具摆开，丝路匠意扑面而来。&lt;/p&gt;&lt;p&gt;　　中国展台讲究“一技傍身，巧夺天工”，德国、丹麦、瑞典等国家的展台则用展板和作品讲述各自的技能文化，通过设置转轮盘、拼接工业电路等小游戏与观众互动。加拿大展台前排起长队，观众用彩色木片拼出加拿大地图即可获得一枚纪念章。&lt;/p&gt;&lt;p&gt;　　此次技能博览会还设置了“百工集”技能市集、职业规划驿站等板块。观众不只能看比赛，还能上手焊一小段电路板、做一枚中式盘扣、用螺钿工艺镶一枚胸针、在木工站完成轻量化木作小件，或者操控机器人、3D打印一件小作品。来自不同国家和地区的人们，认真看认真学，用技能这门语言交流。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  黄晓慧&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183115&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183115.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183115.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 技能让文化交融交流（走进世界技能大赛） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183115.html#[03版：要闻] 技能让文化交融交流（走进世界技能大赛）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 马铃薯产业助增收</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183116.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 马铃薯产业助增收 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/7c736327-39ca-4117-8796-f75b4449863e.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　近期，内蒙古武川县马铃薯开始收获。来自四川凉山彝族自治州、甘肃临夏回族自治州、云南西双版纳傣族自治州的务工人员以村庄、家庭为单位，组团来到这里从事马铃薯收获工作。当地成熟、规模化的马铃薯产业为许多家庭带来增收机会。图为9月23日，在武川县三圣太村，务工人员在装马铃薯。&lt;/p&gt;&lt;p&gt;　　新华社记者  连  振摄 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183116&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183116.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183116.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 马铃薯产业助增收 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183116.html#[03版：要闻] 马铃薯产业助增收</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 京港高铁雄商段等4条高铁将开通</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183117.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 京港高铁雄商段等4条高铁将开通 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月25日电  （记者李心萍）全国铁路28日将迎来通车节点，京港高铁雄安至商丘段、哈尔滨至伊春高铁、西渝高铁西安至安康段、宜昌至兴山高铁4条高铁新线集中开通运营。&lt;/p&gt;&lt;p&gt;　　作为国家“八纵八横”高铁网的核心纵向主干线，京港高铁雄商段的通车，将补齐京港高铁北段的短板，打通华北连通中原、华东的快速通道。&lt;/p&gt;&lt;p&gt;　　该线路北起雄安站，南至商丘站，正线全长552公里，设计时速350公里，全线布设16座车站，10余座新建车站落地县域，让任丘、肃宁、郓城等县市告别无高铁历史。通车后，雄安至商丘最快2小时27分钟即可抵达。&lt;/p&gt;&lt;p&gt;　　哈伊高铁为我国最北端的高速铁路，线路全长318公里，设计时速250公里，全线设9座车站。&lt;/p&gt;&lt;p&gt;　　线路开通后，哈尔滨至伊春最快1小时46分钟可达，绥化、伊春正式接入全国高铁网络，持续扩容哈尔滨2小时交通圈。&lt;/p&gt;&lt;p&gt;　　西渝高铁西安至安康段的通车，架起关中与陕南的快速走廊。线路全长171公里，设计时速350公里，全线新建多座山区车站，让柞水、镇安、安康等地迈入高铁时代。&lt;/p&gt;&lt;p&gt;　　通车后，西安至安康最快仅需45分钟，关中平原与秦巴山区实现高效互通，为秦巴山区乡村全面振兴、陕南区域经济发展搭建了全新交通骨架。&lt;/p&gt;&lt;p&gt;　　宜昌至兴山高铁的开通，搭建起沪渝蓉高铁与郑渝高铁的联动纽带，将使武汉至重庆最快通行时间从4小时56分钟压缩至3小时54分钟。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183117&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183117.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183117.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 京港高铁雄商段等4条高铁将开通 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183117.html#[03版：要闻] 京港高铁雄商段等4条高铁将开通</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] ​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183118.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; ​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  何  聪  江  南  窦瀚洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“无人超市”里，机器人售货员正学习自动识别、抓取、结算商品；模拟昏暗矿道内，机器人矿工在进行障碍物探测；农业采摘训练区里，仿真灵巧手控制力道，练习采摘动作……&lt;/p&gt;&lt;p&gt;　　前不久，浙江杭州，国家人工智能应用中试基地（具身智能）围绕应急救援、家庭服务、农业采摘场景发布了首批“揭榜挂帅”课题，攻关具身智能场景下高质量多模态数据集建设。&lt;/p&gt;&lt;p&gt;　　今年7月，习近平总书记在国家科学技术奖励大会、中国科学院第二十二次院士大会和中国工程院第十八次院士大会、中国科学技术协会第十一次全国代表大会上强调：“要推动科技创新和产业创新深度融合，打通科技加速向现实生产力转化的通道。”在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上，习近平总书记强调：“抓住难得的历史性机遇，鼓励开源开放、合作共享，全面促进人工智能科技创新、产业发展、场景应用”。“十五五”规划纲要提出，“推进国家人工智能创新高地建设”。&lt;/p&gt;&lt;p&gt;　　深入贯彻落实习近平总书记重要指示精神和党中央决策部署，杭州坚持创新策源、生态培育、场景开放协同推进，加速打通人工智能生产力转化通道，努力在人工智能科技创新、产业发展和赋能应用上实现新突破。&lt;/p&gt;&lt;p&gt;　　抓创新、强产业——&lt;/p&gt;&lt;p&gt;　　聚焦具身智能赛道，杭州率先发力。&lt;/p&gt;&lt;p&gt;　　走进传化集团新安化工总部智能园区，包装机器人稳稳抓取、精准打包；巡检机器人定时检查、排除隐患。人工智能深度嵌入制造全流程，园区生产效率较过去提高超三成。&lt;/p&gt;&lt;p&gt;　　“从中试基地测试到线下实战，我们联合上游算力、中游整机，打造一条基于制造和物流场景的具身智能应用产业链。”传化集团副总裁姚晨蓬介绍。&lt;/p&gt;&lt;p&gt;　　从模型和算力，到硬件和整机，再到中试验证和实际应用，杭州以专业化分工、地区间协作，促进具身智能产业聚链成群。目前，杭州已集聚众多具身智能机器人与其他智能终端产业集群企业，2025年，集群规上工业产值突破1000亿元，四足机器人、人形机器人的国内市场份额稳居高位。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　坚持统筹发展和安全，《杭州市促进具身智能机器人产业发展条例》于今年5月施行，着力激发各类主体创新活力的同时，促进行业安全有序发展。&lt;/p&gt;&lt;p&gt;　　建生态、引人才——&lt;/p&gt;&lt;p&gt;　　杭州西湖区紫金港科技城云谷中心，人工智能大模型开源社区“魔搭社区”的开发者中心坐落于此。在这个超1万平方米的线下空间里，开发者们交流创意、碰撞思想火花。&lt;/p&gt;&lt;p&gt;　　“一个工位月租仅300元，办公环境舒适整洁。”从“魔搭社区”的线上活跃用户，到入驻线下社区的一人公司创业者，陈晖正在开发人工智能招聘软件，“在这里可以找到志同道合的‘搭子’。”&lt;/p&gt;&lt;p&gt;　　杭州聚力开展开源模型攻关、开源社区建设和开源商业模式培育。今年，杭州计划支持“魔搭社区”汇聚全球开发者超3000万人，培育开源创新企业100家，力争全年实现人工智能核心产业营收规模超5500亿元。“十五五”时期，杭州将大力支持通义千问、深度求索等开源模型迭代升级，加快培育新的开源基础大模型。&lt;/p&gt;&lt;p&gt;　　育场景、广赋能——&lt;/p&gt;&lt;p&gt;　　小程序下单，10分钟取餐。位于拱墅区中国杭州人力资源服务产业园的快鳄·未来食堂，颠勺“大厨”是智能炒菜机器，出菜快、口感好。&lt;/p&gt;&lt;p&gt;　　“人工智能算法助力，大厨拿手菜转化为‘数字菜谱’，放进新鲜食材即可‘无人化’制作。”快鳄（杭州）科技有限公司负责人严湖斌介绍，得益于拱墅区“科技驱动+场景牵引”发展规划，公司计划年内落地20家门店，为更多顾客提供健康饮食服务。&lt;/p&gt;&lt;p&gt;　　深入实施“人工智能+”行动，杭州以场景牵引技术创新，以应用带动产业发展。&lt;/p&gt;&lt;p&gt;　　2025年以来，杭州已累计发布人工智能领域场景机会488个、场景能力923个。2026年起，围绕先进制造业集群、城市治理、民生服务等重点领域，杭州力争每年培育和开放高质量场景资源200个以上，逐渐形成“首试验证—首用场景—首发品牌—首秀传播”的新技术新产品全链条应用生态。&lt;/p&gt;&lt;p&gt;　　牢记习近平总书记殷殷嘱托，杭州正奋力建设一流创新生态、打造优质营商环境，推动人工智能产业发展不断取得新突破。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  何  聪  江  南  窦瀚洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183118&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183118.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183118.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; ​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183118.html#[03版：要闻] ​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 10部门推出促进房车消费措施</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183119.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 打通堵点、释放潜力 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 10部门推出促进房车消费措施 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月25日电  （记者王珂）国务院办公厅近日转发文化和旅游部、国家发展改革委、工业和信息化部等10部门《关于促进房车消费的若干措施》。若干措施坚持问题导向，着力打通房车（旅居车、旅居挂车、宿营车）消费堵点，释放房车消费潜力，更好满足人民日益增长的美好生活需要。&lt;/p&gt;&lt;p&gt;　　若干措施提出提升房车供给质量，优化房车登记、报废和驾驶人培训考试管理，保障房车通行和停靠，加强房车营地建设，强化房车旅游产品供给和管理服务，完善房车租赁服务，加大金融支持力度，实施房车消费促进行动，落实安全管理责任等9条政策举措，覆盖房车消费全链条。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 打通堵点、释放潜力 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183119&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183119.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183119.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 10部门推出促进房车消费措施 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183119.html#[03版：要闻] 10部门推出促进房车消费措施</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 传承团圆文脉  厚植家国情怀（我们的节日·中秋）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183120.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 传承团圆文脉  厚植家国情怀（我们的节日·中秋） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/26/f1ac935a-2213-497c-9493-492327cbdaf1.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月25日，在江苏省海安市墩头镇宝祥村，居民们欢聚一堂共庆中秋。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　周  强摄（新华社发）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/f1ac935a-2213-497c-9493-492327cbdaf1.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　新华社北京9月25日电  （记者杨湛菲）在中秋节到来之际，中宣部文明实践局、民政部社会事务司、文化和旅游部非物质文化遗产司、共青团中央宣传部、全国妇联宣传部、中国文联文艺志愿服务中心联合举办“我们的节日·中秋”主题文化活动，旨在深入挖掘中秋节文化内涵，积极弘扬爱国爱家、团圆幸福、和谐美满的价值理念，生动展示中秋节日的丰厚历史文化和独特人文魅力，厚植家国情怀，凝聚奋进力量。&lt;/p&gt;&lt;p&gt;　　全国五地组织开展中秋主题文化示范活动，掀起活动热潮。在北京昌平居庸关，一场以文学对谈为特色的中秋晚会引人入胜，嘉宾们围绕“致此刻、致牵挂、致征程”谈诗谈月谈故乡；在山西晋城皇城相府，古堡建筑群间，舞蹈《斗拱之间》演绎古建之美，高平鼓书《谷子好》诉说太行乡土情怀，现场观众沉浸式感受传统节日焕发的时代光彩；吉林延边海兰台，“月满边疆·榴花共圆”活动紧扣铸牢中华民族共同体意识主线，结合朝鲜族秋夕节传统，多彩民俗活动目不暇接；江苏镇江的主场活动将传统祭月等民俗与本地诗词文化、非遗深度融合，再现古人临江望月、诗意栖居的中秋意境；山东潍坊诸城是《水调歌头·明月几时有》诞生地，一场兼具千年文脉、家国温情与时代新风的中秋文化盛宴精彩纷呈……&lt;/p&gt;&lt;p&gt;　　此外，各地立足实际组织“我在新时代文明实践中心过中秋”等活动，举办“花好月圆”赛诗会、茶话会、故事会，组织美食分享、才艺表演、文创市集，开展做月饼、捏泥塑、绘团扇等活动，增强节日感染力影响力，更好凝聚群众、温暖人心。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183120&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183120.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183120.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 传承团圆文脉  厚植家国情怀（我们的节日·中秋） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183120.html#[04版：要闻] 传承团圆文脉  厚植家国情怀（我们的节日·中秋）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 三代接力，从一个人到一群人（赓续长征精神  奋进复兴征程·记者再走长征路）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183121.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 重庆市綦江区石壕镇推动红色精神薪火相传 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 三代接力，从一个人到一群人（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  姜  峰&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/26/1e48ed62-98e6-477b-9e8c-36197cf0e9cd.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　群众瞻仰石壕红军烈士纪念碑。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　重庆綦江区委宣传部供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/1e48ed62-98e6-477b-9e8c-36197cf0e9cd.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　秋到渝黔交界，大娄山脉更显苍翠。&lt;/p&gt;&lt;p&gt;　　重庆市綦江区，红一军团司令部旧址所在的石壕镇，街上“六六顺”饭店的90后女店主刘云倩不光烧得一手好菜，更是对长征故事“如数家珍”，“吃点东西，我带你上山找赵老师！”&lt;/p&gt;&lt;p&gt;　　记者跟随刘云倩来到苗儿山，爬上数百级台阶。在石壕红军烈士纪念碑前，赵福乾正给前来研学的师生们讲课，大家听得格外入神。从石壕镇综合文化服务中心主任岗位上退休后，老赵组建了“石壕红魂讲解团”，为大家讲述红色故事。今年8月，赵福乾获评“中国好人”。&lt;/p&gt;&lt;p&gt;　　——这里有一份三代接力的执着坚守。&lt;/p&gt;&lt;p&gt;　　“91年前，红军到我爷爷经营的小饭馆借厨具做饭，归还时总洗得干干净净，还会帮忙把水缸挑满、柴劈好。”赵福乾回忆，有红军战士牺牲后被就近安葬，“爷爷终生守护、祭扫无名英烈墓。我父亲也受此感召，毅然参军，复员返乡后接续守墓20多年。”&lt;/p&gt;&lt;p&gt;　　随着烈士墓迁移集中保护，一直在家乡工作的赵福乾扛起了担子，走访、挖掘、整理石壕镇长征遗迹和故事，“留住口口相传的红色记忆，时不我待！”&lt;/p&gt;&lt;p&gt;　　全镇20个村、社区，赵福乾逐一拜访见过红军的耄耋老者，记录口述历史、寻找遗址线索。&lt;/p&gt;&lt;p&gt;　　一把镰刀、一支电筒，老赵走遍石壕山山水水。胶鞋跑坏了20多双，资料写满了60个工作笔记本，寻得了“司务长血染茅坝坪”“李树清冒死救伤员”的故事；罗昌岩警戒哨口、槽头关隘休整处、邱石坝宿营地……由老赵重新发现、核实确认的红军长征遗迹有50多处。&lt;/p&gt;&lt;p&gt;　　——这是从一个人到一群人的赓续传承。&lt;/p&gt;&lt;p&gt;　　既挖掘保护，也活态传承。在各级部门支持下，赵福乾牵头组建“石壕红魂讲解团”，先后培育50多名宣讲员、300余名“红色小讲解员”，让石壕长征故事触达更多人。&lt;/p&gt;&lt;p&gt;　　石壕镇新时代文明实践服务中心90后工作人员熊斯斯，如今是团队顶梁柱。今年，她和贵州桐梓县尧龙山镇中心学校的孩子们在石壕镇携手，一同讲述长征故事。&lt;/p&gt;&lt;p&gt;　　红色铸魂，赋能农文旅融合。宣讲员之一、返乡创业青年张其林，带领周边村民在响水村种植高山大米、经营稻田养鱼，讲起响水洞战斗遗址的故事也绘声绘色。&lt;/p&gt;&lt;p&gt;　　“游客们慕名而来，不仅能够品尝农家饭、采买特产，还丰富了精神世界，都说不虚此行。”不久前担任响水村党总支书记的张其林说。&lt;/p&gt;&lt;p&gt;　　“我们还围绕红一军团司令部旧址、石壕红军烈士墓等核心点位，打造红色参观学习环线，开发沉浸式红色教育课程，形成更多红色打卡点。”石壕镇党委书记孙振营介绍，当地已经形成“红色文化+乡村旅游”发展模式，2025年接待游客突破12万人次。&lt;/p&gt;&lt;p&gt;　　离别前赵福乾告诉记者，他主编的《红色石壕讲解资料汇编》即将在10月出版，“传之后人，让长征精神浩然长存”。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  姜  峰&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 重庆市綦江区石壕镇推动红色精神薪火相传 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183121&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183121.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183121.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 三代接力，从一个人到一群人（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183121.html#[04版：要闻] 三代接力，从一个人到一群人（赓续长征精神  奋进复兴征程·记者再走长征路）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 共同创造更加繁荣稳定、公平正义的世界</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183122.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 共同创造更加繁荣稳定、公平正义的世界 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——中国法治国际论坛（二〇二六）综述 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  金  歆&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　9月22日至23日，由中国法学会主办的中国法治国际论坛（2026）在广东深圳举行。来自38个国家和7个国际组织的法学法律界人士，围绕“深化国际法治交流与合作，为构建人类命运共同体提供法治保障”主题展开交流对话。与会嘉宾表示，要开展务实高效的国际法治合作与交流，坚持以法治凝聚共识、推动发展、保障稳定、实现善治，共同创造更加繁荣稳定、公平正义的世界。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　推动世界法治文明交流互鉴&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　人类法治文明因多样而交流，因交流而互鉴，因互鉴而发展。这是本次论坛嘉宾们的重要共识。&lt;/p&gt;&lt;p&gt;　　中国法学会党组书记、常务副会长王洪祥表示，国际社会对中国声音、中国方案的期待前所未有，“近年来，中国法学会不断深化对外法学交流，通过讲好新时代中国法治故事，展现可信、可爱、可敬的中国形象。”&lt;/p&gt;&lt;p&gt;　　“交流互鉴并非一味模仿。”斯里兰卡总统顾问纳林·阿贝苏里亚说，中国的法治实践强调既要借鉴其他法律文明的优秀成果，又要结合本国国情，“这一原则非常重要。”&lt;/p&gt;&lt;p&gt;　　最高人民法院党组成员、副院长高晓力表示，中国法院立足中国、面向世界、拥抱未来，既传承中华优秀法治文明基因，又吸纳人类优秀法治成果，以公正司法筑牢文明根基。&lt;/p&gt;&lt;p&gt;　　智利国家检察长安赫尔·巴伦西亚表示，有组织犯罪团伙日益呈现出跨国化、适应性强、技术手段复杂的特点，各国相关部门之间应当加强信息交流、开展密切合作。&lt;/p&gt;&lt;p&gt;　　王洪祥表示，中国法学会将继续加强中国法治国际论坛等重要平台建设，建立起常态化的法治对话机制，推动各国的法治文明成果译介传播。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　深化国际经贸法律合作&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　论坛闭幕式上，《中国法治国际论坛（2026）深圳宣言》发布，提出“支持各方维护以世贸组织为核心的多边贸易体制”“平等保护内外当事人合法权益”。&lt;/p&gt;&lt;p&gt;　　“一带一路”法律服务联盟副主席李大进表示，共建“一带一路”进入高质量发展新阶段，法治保障的重要性日益凸显。&lt;/p&gt;&lt;p&gt;　　摩洛哥穆罕默德五世大学非洲研究中心执行主任萨马尔·哈姆利希表示，跨国投资需要法律保护，法律确定性、合同稳定性、完善的争议解决机制等，都不可或缺。&lt;/p&gt;&lt;p&gt;　　宁德时代新能源科技股份有限公司法务总监孙明岩分享了企业出海的思考：“从遵守规则走向参与制定规则，需要跟进重点市场的立法动态和执法趋势，主动参与国际标准研讨、行业标准共建。”&lt;/p&gt;&lt;p&gt;　　国际调解院秘书长郑若骅阐述了调解在国际商事争议中的重要作用。他表示，调解能探讨出双方都能接受的解决方案，有利于长期合作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　提升数字领域法治协作水平&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　数字技术、人工智能快速发展，国际数字、科技等领域法治合作变得尤为重要。&lt;/p&gt;&lt;p&gt;　　“数字化转型蕴藏着巨大的机遇，但技术也带来法律与伦理难题。”尼泊尔最高法院首席大法官马诺吉·夏尔马表示，解决问题不能仅凭一国之力，而是需要各国司法机关、立法者、法律从业者、技术专家等持续开展对话合作。&lt;/p&gt;&lt;p&gt;　　司法部法治大数据与智能装备重点实验室副主任刘庄表示，与其被动面对冲击，不如主动把人工智能纳入法院治理体系和审判工作体系，通过一系列措施推动人工智能在司法领域实现安全可控的应用。&lt;/p&gt;&lt;p&gt;　　北京知识产权法院党组书记、院长李艳红分享了对数字时代知识产权司法发展趋势的观察。她表示，数字技术加速迭代，技术事实与法律判断的关系愈发紧密，提升技术事实查明能力已成为数字时代知识产权司法的迫切需求。&lt;/p&gt;&lt;p&gt;　　网络是跨国界的空间，治理离不开各国共同努力。英国谢菲尔德大学教授尼古拉斯·萨古里亚斯表示，加强网络空间法治，需要各国积极阐明自身法律立场，进一步发展可适用的国际法，建立更有力的实施与问责机制。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  金  歆&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——中国法治国际论坛（二〇二六）综述 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183122&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183122.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183122.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 共同创造更加繁荣稳定、公平正义的世界 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183122.html#[04版：要闻] 共同创造更加繁荣稳定、公平正义的世界</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 基础大项、优势项目多点开花</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183123.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 亚运会开幕后第六个比赛日 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 基础大项、优势项目多点开花 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　当地时间9月25日，名古屋亚运会进入开幕后第六个比赛日。游泳项目在东京水上运动中心结束全部赛程。中国游泳队收获30金13银11铜的成绩，金牌数超过上届杭州亚运会，并首次获得7个接力项目全部金牌，创造了亚运会参赛历史最好成绩。&lt;/p&gt;&lt;p&gt;　　当日，19岁小将张展硕夺得男子400米自由泳金牌，并打破赛会纪录。他在本届亚运会参加短、中、长距离自由泳及接力等8个项目，共获7枚金牌，成为目前所有项目中获得金牌数最多的运动员。女子4×100米混合泳接力决赛，由彭旭玮、唐钱婷、张雨霏和余依婷组成的中国队夺得冠军，并刷新赛会纪录。&lt;/p&gt;&lt;p&gt;　　在女子铅球决赛中，中国选手宋佳媛和张林茹包揽了金银牌。此外，牛春格夺得了女子撑竿跳高的银牌。&lt;/p&gt;&lt;p&gt;　　在皮划艇静水项目上，中国队在参加的3个项目中全部夺冠。女子500米四人皮艇决赛中，由俞诗梦、殷梦蝶、王楠和沈思宇组成的中国队夺得冠军；季博文在男子500米单人划艇决赛中率先冲过终点；中国组合孙梦雅/马亚男夺得女子500米双人划艇冠军。&lt;/p&gt;&lt;p&gt;　　在体操、举重、射击等优势项目上中国队也有优异的表现。体操项目25日迎来收官，邹敬园获得男子双杠金牌，田昊获得男子单杠金牌，邱祺缘获得女子平衡木银牌，张怡涵获得女子自由体操铜牌。本届亚运会，中国体操队最终取得7金2银4铜的成绩。&lt;/p&gt;&lt;p&gt;　　女子举重61公斤级，杨柳月获得金牌，其中抓举和总成绩刷新该级别世界纪录。射击男子50米步枪三姿，中国队张常鸿、刘宇坤、盛李豪以1766环获团体金牌；刘宇坤以360.5环破亚运会纪录获个人金牌，张常鸿以360.2环获银牌。&lt;/p&gt;&lt;p&gt;　　女子重剑团体和男子山地自行车项目上也有金牌入账。由刘畅、余思涵、唐君瑶、杨静雯组成的中国队先后战胜越南队、哈萨克斯坦队闯入决赛，并在决赛中以45∶28战胜韩国队赢得金牌，这是中国代表团本届亚运会击剑项目首金。山地自行车越野赛，袁金伟以1小时25分15秒夺得金牌，中国队实现该项目亚运会四连冠。&lt;/p&gt;&lt;p&gt;　　（本报记者范佳元、孙龙飞、王美华、刘硕阳、李硕、陶相安、高佶，人民网记者胡雪蓉） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 亚运会开幕后第六个比赛日 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183123&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183123.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183123.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 基础大项、优势项目多点开花 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183123.html#[04版：要闻] 基础大项、优势项目多点开花</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 陈妤颉夺冠打破田径女子100米亚运会纪录</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183124.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 陈妤颉夺冠打破田径女子100米亚运会纪录 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202609/26/4db175a4-e466-4f4e-a1d0-0e10bcf1adec.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图为陈妤颉夺冠后身披国旗庆祝。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  陶相安摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/4db175a4-e466-4f4e-a1d0-0e10bcf1adec.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　本报名古屋9月25日电  （记者刘硕阳、陶相安）当地时间9月25日22时10分，在本届亚运会田径女子100米决赛中，17岁的陈妤颉以11秒06的成绩率先撞线，大幅提升了11秒15的原亚运会纪录。曾在杭州亚运会传递火炬的14岁小姑娘，在3年后的名古屋亚运会田径赛场上已成为最闪耀的明星之一。&lt;/p&gt;&lt;p&gt;　　陈妤颉已代表中国队参加了2025年东京世锦赛和两届世界接力赛，目前保有女子100米的亚洲青年纪录和女子100米、200米的亚洲少年纪录，并在去年全运会中夺得了女子100米、200米的双冠王。&lt;/p&gt;&lt;p&gt;　　“这枚金牌是我年底18岁生日最好的成人礼！”在赛场上，陈妤颉堪比经验丰富的名将。走下赛道，她的身上马上又充满了活泼、俏皮的青春气息。年龄小、成绩出众，也让她收获了“小孩姐”的绰号。“这个称呼来自大家对我的喜爱。”陈妤颉说，“相信随着祖国的不断发展，各行各业都会出现更多优秀的新人。” &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183124&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183124.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183124.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 陈妤颉夺冠打破田径女子100米亚运会纪录 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183124.html#[04版：要闻] 陈妤颉夺冠打破田径女子100米亚运会纪录</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 运动健儿送上中秋祝福</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183125.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 拼搏作答寄相思 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 运动健儿送上中秋祝福 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　中秋月圆，千里寄情。佳节之际，亚运健儿以拼搏作答，送上来自赛场的中秋祝福。&lt;/p&gt;&lt;p&gt;　　“比赛期间，不会想着给自己过节，哪怕是过生日也不会分心。”中国女拳手吴愉坦言，于她而言，节日最特别的礼物，常常是一堂高质量的强度训练课。此刻，吴愉最挂念的是刚刚做完手术的外婆，“感觉忽略家里太多了，从小是外婆把我带大的，我想跟她说一句中秋节快乐，请她照顾好自己，等我打完比赛马上回去看她。”&lt;/p&gt;&lt;p&gt;　　本届亚运会游泳项目于当地时间9月25日圆满收官，中国游泳队奋勇拼搏，创下亚运会参赛历史最好成绩。李冰洁本次出战5个项目，取得5枚金牌，她开心地展示全部金牌，由衷感慨：“中秋节，圆满了！”&lt;/p&gt;&lt;p&gt;　　体操选手张博恒记忆里的中秋，是一家人围坐聚餐的温暖画面，耳边是妈妈的催促：“还不出来，都在等你，吃饭了！”说起这个瞬间，他的语调有些低沉，“我很想念那个场景。”亚运会落幕之后，世锦赛任务接踵而至，张博恒依旧难与家人团圆。“还要以比赛为主。”他笑着对观众说，“中秋节祝大家平安快乐，大家记得要吃月饼！”&lt;/p&gt;&lt;p&gt;　　海上生明月，天涯共此时。名古屋的月色映照健儿们坚守的身影。他们的拼搏，是这个中秋最动人的风景，也诠释着体育最纯粹、最温暖的力量。&lt;/p&gt;&lt;p&gt;　　（本报记者陈晨曦、刘硕阳、李硕、高佶、孙龙飞、王美华，人民网记者胡雪蓉） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 拼搏作答寄相思 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183125&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183125.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183125.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 运动健儿送上中秋祝福 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183125.html#[04版：要闻] 运动健儿送上中秋祝福</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 热闹集市看振兴</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183126.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 热闹集市看振兴 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							武雯婧  高映雪&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　今年9月23日是第九个“中国农民丰收节”，“聚力兴村·驻村第一书记故事汇”交流活动当日在北京举行。40多名来自各地的驻村第一书记，带来了各自村庄的农特产品，摆起了“驻村好物集市”。&lt;/p&gt;&lt;p&gt;　　露天集市上，人员往来穿梭。不少顾客在摊位前问价、尝鲜，与驻村第一书记互留联系方式，好不热闹。&lt;/p&gt;&lt;p&gt;　　贵州黔东南苗族侗族自治州从江县谷坪乡高武村第一书记兰伟涵，笑着剥开摊位上仅剩的几颗黄金百香果，递到顾客手里，“货卖完了，您要想买，我们安排快递邮寄。”对面，北京门头沟区妙峰山镇上苇甸村的松果花摊位前挤挤挨挨。一枚枚松果拼成的花形装饰，吸引了顾客的目光。&lt;/p&gt;&lt;p&gt;　　摊挨着摊，货挨着货。每样“好物”的来头，驻村第一书记们都能娓娓道来。&lt;/p&gt;&lt;p&gt;　　板桥豆干摊位前，湖北十堰市郧西县羊尾镇板桥村第一书记陈腾忙着推荐：“板桥豆干制作是非遗技艺，一块一块手工制作，头一天中午做好带来北京的。”&lt;/p&gt;&lt;p&gt;　　钩针小包的摊位吸引了不少年轻姑娘。花朵形状的毛线钩织产品，售价不到10元，可以扣在纽扣上当装饰。重庆丰都县双路镇楠木村第一书记陶学梅说，这些产品是村里老人一针一线做的。&lt;/p&gt;&lt;p&gt;　　几盒蓝莓果冻，原本仅仅作为样品展示，不少人想要购买。四川凉山彝族自治州昭觉县解放沟镇火普村第一书记严菲拗不过大家，样品也悉数售罄。&lt;/p&gt;&lt;p&gt;　　物是窗口，人是桥梁。除了推介产品，驻村第一书记们还忙着与来往的顾客互加好友。“新朋友会是未来的回头客。”一名驻村第一书记这样说。&lt;/p&gt;&lt;p&gt;　　露天集市上人声鼎沸，会议室里“故事汇”思想碰撞。&lt;/p&gt;&lt;p&gt;　　驻村第一书记、专家学者、平台代表围坐一堂，分享交流推动乡村产业发展的经验。大家加入群聊，相约一起为村庄谋划更多发展路径。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，全国累计选派300多万名第一书记和驻村干部。如今，全国15万支工作队、近50万名驻村第一书记和工作队员坚守在乡村一线。&lt;/p&gt;&lt;p&gt;　　回望驻村历程，陕西安康市汉阴县涧池镇五坪村第一书记周磊感慨：“驻村，就是和乡亲们一起，把资源、人心和希望，一缕一缕织成乡村全面振兴的锦绣华章。”&lt;/p&gt;&lt;p&gt;　　农特产品变成抢手货，老手艺焕发新生机，村民在家门口实现增收。集市上热销的百香果、出圈的工艺品、备受青睐的豆干，正是制度落地结出的丰硕果实。&lt;/p&gt;&lt;p&gt;　　夜幕降临，摊位上的“好物”售卖一空，驻村第一书记助力乡村全面振兴的脚步永不停歇。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;武雯婧  高映雪&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183126&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183126.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183126.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 热闹集市看振兴 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183126.html#[04版：要闻] 热闹集市看振兴</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 一版责编：杨  旭  胡安琪  赵  政  二版责编：吴  刚  周  輖  谢佳宁  三版责编：林  琳  吕  莉  张安宇  四版责编：白之羽  刘  念  刘静文</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183127.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：杨  旭  胡安琪  赵  政  二版责编：吴  刚  周  輖  谢佳宁  三版责编：林  琳  吕  莉  张安宇  四版责编：白之羽  刘  念  刘静文 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183127&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183127.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183127.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：杨  旭  胡安琪  赵  政  二版责编：吴  刚  周  輖  谢佳宁  三版责编：林  琳  吕  莉  张安宇  四版责编：白之羽  刘  念  刘静文 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183127.html#[04版：要闻] 一版责编：杨  旭  胡安琪  赵  政  二版责编：吴  刚  周  輖  谢佳宁  三版责编：林  琳  吕  莉  张安宇  四版责编：白之羽  刘  念  刘静文</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：假日生活] 水月同框迎中秋（文化中国行）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183128.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt;水月同框迎中秋（文化中国行）&lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　中秋时节，游客骑着骆驼在甘肃敦煌大漠赏月。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　张晓亮摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/28ce2613-7c26-4b05-817a-6691fc91064e.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　新疆喀纳斯月亮湾美景。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　张福新摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/bc8d2c69-f08d-4127-bcbc-8bf9ece59679.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　俯瞰内蒙古阿拉善盟腾格里月亮湖。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　阿拉善盟委宣传部供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/40521c4a-dbb2-46fe-904a-cbf951c26948.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　又是一年中秋至，圆月东升，清辉遍洒。本报记者来到三处以“月”为名的水边——敦煌月牙泉，大漠环抱一泓清泉，千百年来沙不掩泉，登高望月，别有苍茫；喀纳斯月亮湾，雪山之下河湾如月，天上圆月、水中弯月交相辉映；腾格里月亮湖，沙海之中篝火燃起，游客与家人围坐湖畔，看月升、听民歌，自在团圆。&lt;/p&gt;&lt;p&gt;　　三地相隔千里，月色却一样动人。愿这轮明月，照亮归途，也照亮每一个团圆夜。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　甘肃敦煌月牙泉——&lt;/p&gt;&lt;p&gt;　　玉盘银辉照大漠沙泉&lt;/p&gt;&lt;p&gt;　　本报记者  宋朝军&lt;/p&gt;&lt;p&gt;　　大漠戈壁，一湾“月牙”，千载澄澈，沙不掩泉。&lt;/p&gt;&lt;p&gt;　　每逢中秋夜，在甘肃敦煌鸣沙山环抱中，月牙泉“三月同框”的奇景令人沉醉——天上一轮明月，泉中一弯倒影，泉身又是一弯新月。一轮圆月从鸣沙山的脊线上缓缓升起，有人比喻其为“万顷黄沙托玉盘”，洒下的银辉落入那一弯月牙般的清泉。月轮圆满，泉如银钩，有人称赞这是“昔夜月牙今夜满”。敦煌当地群众至今保留着月圆之夜“登高望月”的传统习俗，游客可随当地群众登上鸣沙山山巅，俯瞰月牙泉，赏大漠明月。&lt;/p&gt;&lt;p&gt;　　月牙泉形似新月，故名“月牙”。其历史悠久，汉代时这里称“沙井”，唐代称“药泉”，清代始称月牙泉。其水质甘洌，清澄如镜，宛如沙海中一颗晶莹的翡翠，镶嵌在沙山群峰之中，波微沙荡，水色悠悠，“月泉晓澈”被誉为敦煌八景之一。&lt;/p&gt;&lt;p&gt;　　月牙泉最令人称奇之处，在于沙泉共生、沙水共存的独特地貌——泉在流沙中，流沙与泉水之间仅隔数十米，千百年来虽遇烈风而泉不被流沙淹没，地处戈壁而泉水不浊不涸。&lt;/p&gt;&lt;p&gt;　　从科学角度看，月牙泉四周沙山环抱、地势低洼，形成环形山洼，东西两侧形成天然风道；风进入泉区后，受地形抬升产生上升气流，将泉周流沙裹挟至南北两侧山巅或抛向山峰背面，从而造就了“绵历千古，沙不填之”的神奇景象。&lt;/p&gt;&lt;p&gt;　　泉边芦苇丛生，水中鱼儿自在，胡杨、沙枣绿树成荫，亭台楼榭古香古色。月牙泉内产有珍稀的铁背鱼和中药材七星草，连同鸣沙山的五色沙，被当地人称为“月牙泉三宝”。&lt;/p&gt;&lt;p&gt;　　近年来，鸣沙山月牙泉景区持续以“瀚海邀明月  千里共婵娟”为主题，推出一系列中秋赏月文化活动。演职人员扮作“七仙女”，身着华服，携游客提灯巡游，踏歌而行，穿行于芦花丛中，流连于驼队之间，并在沙丘之上挂灯祈福，寄托团圆之愿；夜幕降临，“嫦娥”与“七仙女”翩然起舞，穿行于人群之中，令游客恍若置身古时西域。&lt;/p&gt;&lt;p&gt;　　2026年，景区继续推出中秋赏月系列活动。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　新疆喀纳斯月亮湾——&lt;/p&gt;&lt;p&gt;　　一湾碧水映双月奇观&lt;/p&gt;&lt;p&gt;　　本报记者  李亚楠&lt;/p&gt;&lt;p&gt;　　在新疆阿勒泰地区，阿尔泰山深处，喀纳斯河蜿蜒穿行于莽莽林海，在群山环抱间折出一道温柔婉转的月牙形河湾，这便是享誉世间的喀纳斯月亮湾。&lt;/p&gt;&lt;p&gt;　　相较于诸多赏月胜地，喀纳斯月亮湾的赏月景致有着独特的意境。夜幕降临，深山中没有光污染，星河澄澈、月色皎洁，一轮明月悬于雪山之巅，清辉倾泻而下，铺满蜿蜒的河道。天上圆月、水中弯月交相辉映，碧绿河水泛着银辉，被月色清晰勾勒，两侧原始寒温带针叶林墨色如黛，雪山剪影朦胧悠远，流水潺潺为静谧月夜伴奏，山河、月色、星河、林海融为一体，空灵静谧，宛若仙境。&lt;/p&gt;&lt;p&gt;　　月亮湾的得名，源于大自然的神奇。远古冰川侵蚀造就深邃的U形河谷，历经河水侧向冲刷、山体自然沉降，奔腾的喀纳斯河在此骤然放缓，顺势勾勒出完美的弧度，如一弯新月静静镶嵌在苍翠峡谷之中，月亮湾由此得名。&lt;/p&gt;&lt;p&gt;　　河床两处天然形成的浅水草滩，轮廓酷似巨型脚掌，是山体堰塞、水流沉淀造就的独特地貌景观，也为这片山水蒙上了神秘面纱。四季流转间，河水随光线、水位变幻色彩，春日澄澈碧绿，盛夏通透深邃，秋日倒映彩林，冬日冰封映雪，四时月色、四时风光，各不相同。&lt;/p&gt;&lt;p&gt;　　月亮湾河谷水草丰茂、水源充沛，是当地牧民转场放牧的传统通道。牧民途经河湾，不翻越护栏近水、不踩踏河滩草木、不污染河道流水，这份刻在骨子里的敬畏，既是原始的生态保护理念，也让这片河湾始终保持着原始清澈的面貌。&lt;/p&gt;&lt;p&gt;　　中秋恰逢牧民夏牧场转场收尾，当地牧民多会准备咸奶茶、包尔萨克、奶疙瘩等美食，围坐木屋庭院赏月闲谈；暮色四合，牧民围坐木屋灯火旁，讲述山河传说、共话岁月安好，晚风、月色、林海、水声相伴，构成喀纳斯最温柔的烟火意境。&lt;/p&gt;&lt;p&gt;　　若想在月亮湾赏月，游客可搭乘区间车抵达月亮湾，在景区闭园、班车停运前，观赏月亮从阿尔泰山山头缓缓升起，欣赏“天上圆月、水中弯月”的双月奇景，之后搭乘末班区间车返回村落。&lt;/p&gt;&lt;p&gt;　　阿勒泰地区今年夏秋规划了300余场文旅活动，其中包括喀纳斯丝路美食大巴扎夜间演艺，游客可以在游览月亮湾之后，前往哈纳斯村、美食大巴扎，观看民族歌舞、器乐表演等演出，也可在民宿小院围坐，品尝特色奶食、茶饮，继续赏月活动。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　内蒙古腾格里月亮湖——&lt;/p&gt;&lt;p&gt;　　篝火围炉欢乐共团圆&lt;/p&gt;&lt;p&gt;　　本报记者  赵景锋&lt;/p&gt;&lt;p&gt;　　晚上8点，银盘般的月亮缓缓越过沙丘，静静悬挂在布满繁星的夜空。时近中秋，内蒙古阿拉善盟，腾格里沙漠腹地的月亮湖景区，迎来一年中的热闹时刻。湖面上，许多相互依偎的倒影，在月光的映衬下，显得格外温馨浪漫。&lt;/p&gt;&lt;p&gt;　　“快看，这里有两轮月亮，一轮弯的，一轮圆的！”来自内蒙古鄂尔多斯市东胜区的四年级学生王梓赫兴奋地喊起来。两只稚嫩的小手，一会儿朝向天空，一会儿指向地面，脸上满是惊喜与好奇。王梓赫口中的“两轮月亮”，一轮是高悬于夜空的满月，另一轮则是铺展于沙海的“月亮湖”。&lt;/p&gt;&lt;p&gt;　　“月亮湖的名称，源于其独特的形状。”腾格里沙漠月亮湖生态旅游区负责人张小兵说，从东边望去，湖泊宛如一钩弯月静卧在沙漠之中，“月亮湖”因此得名。&lt;/p&gt;&lt;p&gt;　　月亮湖的形成，是大自然漫长演化过程中留下的印记。张小兵介绍，大约一亿年前，这里曾是一片汪洋大海。后来，由于地质变化，地面抬升，形成了阿拉善高原。因为地处内陆深处，平均年降水量不足200毫米，而蒸发量却高达3000毫米，经过漫长演化，最终形成了沙漠。随着海洋的消失，残留下丰富的地下水以及月亮湖等零零散散的湖泊。&lt;/p&gt;&lt;p&gt;　　月亮湖的湖面面积约2000亩，水深2—4米，南北长2公里，东西宽1公里。湖泊周围生长着红柳、柠条、沙拐枣、梭梭等灌木林草。在不同的天气状况下，湖水呈现出蓝、绿、紫等多种颜色，与周围的黄沙、绿草相映成趣。&lt;/p&gt;&lt;p&gt;　　因为别具特色的沙漠绿洲风光，当地以月亮湖为中心，打造了腾格里沙漠月亮湖生态旅游区，面积达150平方公里。游客可以乘坐越野车在起伏的沙丘中驰骋，也可以体验徒步穿越沙漠的刺激，夜晚还可以感受沙漠露营的乐趣。&lt;/p&gt;&lt;p&gt;　　吸引游客的，不仅有多元化的玩法，还有多种充满温情的活动。“沙海共赏一轮月”，便是月亮湖景区围绕月亮精心策划的一项重要活动。王梓赫的爸爸王新伟，从网上浏览到相关信息后，被景区的自然风光和活动安排深深吸引，提前一个月订下机票住宿，专程携家人来此赏月。&lt;/p&gt;&lt;p&gt;　　傍晚时分，王新伟一家乘坐越野车驶入沙丘深处，随着夕阳缓缓落下，车辆停驻在月亮湖旁。夜幕降临，月亮湖畔，篝火燃起，马头琴声悠扬悦耳，游客三三两两围坐在湖边，一边品尝特色美食，一边聆听当地民歌。“既能玩沙，还能和家人游湖赏月，体验好极了！希望孩子能走出书本，实地感受大漠风光，留下一段不一样的记忆。”王新伟说。&lt;/p&gt;&lt;p&gt;　　凌晨，月亮湖畔的笑声渐渐散去，那轮明月，仍然在夜空高悬，静静等待着黎明的曙光……&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183128&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183128.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183128.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt;水月同框迎中秋（文化中国行）&lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183128.html#[05版：假日生活] 水月同框迎中秋（文化中国行）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：假日生活] 中秋夜，圆圆的月亮该咋拍？（小贴士）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183129.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中秋夜，圆圆的月亮该咋拍？（小贴士） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  伊  霄&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　中秋赏月，只赏不拍总觉得少了点啥。可月亮又圆又亮，随手一拍，往往只能拍出一圈白色光晕。下面几条拍月亮的小技巧或许能帮到你——&lt;/p&gt;&lt;p&gt;　　第一，手要稳。要想拍出清晰的月亮，通常需要用到相机或手机的长焦镜头，很容易因为“手抖”而拍糊。可以适当调高快门速度，或者借助三脚架来稳定相机。如果手边没有三脚架，可以靠在窗台、栏杆上借个力。&lt;/p&gt;&lt;p&gt;　　第二，压低曝光。月亮在夜空里亮得扎眼，用相机自动测光模式很容易过曝，可以选择“点测光”，将月亮上较亮的部分作为测光点。如果是用手机拍摄，对焦锁住月亮后，可以把曝光往下拉一拉。宁可暗一点，也别白成一片。&lt;/p&gt;&lt;p&gt;　　第三，赶早不赶晚。月亮初升时又大又低，还裹着一层金红色，此时天空还没完全变暗，正是拍月亮的好时刻。可以提前查好月出时间，找个视野开阔的地方等一场“月出”。&lt;/p&gt;&lt;p&gt;　　第四，巧用前景。光秃秃一个月亮，拍得再清楚也单调。可以找树梢、屋檐当前景，或者选择水面等有倒影的地方增加意境，把家人拍进画面里也是不错的选择。月亮总是那个月亮，但此刻与你一同赏月的人，才是最值得记录的好光景。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  伊  霄&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183129&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183129.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183129.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中秋夜，圆圆的月亮该咋拍？（小贴士） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183129.html#[05版：假日生活] 中秋夜，圆圆的月亮该咋拍？（小贴士）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：假日生活] 月饼怎么选、怎么吃才健康（信息服务台）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183130.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 月饼怎么选、怎么吃才健康（信息服务台） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							健康时报记者  乔靖芳&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　中秋节到来，月饼集中上市。广式、苏式、京式、滇式等传统月饼与流心、冰皮、桃山皮、杂粮等新式月饼同台竞争，不少消费者陷入选择纠结：传统月饼高糖高油，是否会影响慢病指标？新式月饼真的低脂养生、可以放心多吃吗？月饼究竟该怎么挑、怎么吃才健康？记者采访了北京大学第一医院临床营养科主任医师窦攀。&lt;/p&gt;&lt;p&gt;　　“市面上月饼品类繁多，消费者无需纠结月饼品牌的优劣。包装上的配料表与营养成分表，才是客观可靠的选购标准。”窦攀介绍。&lt;/p&gt;&lt;p&gt;　　配料表中原料按照添加量从高到低排序，若白砂糖、麦芽糖浆、植物油、黄油、猪板油等位列配料表前三位，说明这款月饼以糖、油为主要基底，属于高油高糖食品，建议谨慎选购。从馅料来看，蛋黄、火腿、鲜肉、莲蓉、枣泥月饼普遍高油高糖；低糖的纯豆沙、配比规范的五仁月饼，油和糖含量相对低一些。&lt;/p&gt;&lt;p&gt;　　食品营养成分表旧版执行“1+4”（能量、蛋白质、脂肪、碳水化合物、钠）强制标示，新版国标升级为“1+6”，新增饱和脂肪（酸）、糖两项指标，将于2027年3月正式强制执行。目前市场新旧标签并存。窦攀提醒，选购月饼时，要仔细对照营养成分表，同为100克（如包装标注不是每100克，需要自行换算），优先选择能量较低的产品，再重点关注脂肪、钠、糖3项指标。尽量挑选脂肪、钠含量偏低的产品，如果是新版标签，还可进一步留意总脂肪项下的饱和脂肪。鲜肉、火腿月饼钠含量往往更高，摄入过多容易造成水肿，也不利于血压管控；糖的指标仅新版标签会强制展示，广式甜口月饼糖水平普遍偏高，挑选时需多加留意。&lt;/p&gt;&lt;p&gt;　　近年来，无糖、杂粮、冰皮、药食同源等品类被不少消费者当作养生之选。在窦攀看来，新式月饼大多只是口感升级，营养层面并未真正实现低脂低糖，部分养生宣传存在夸大成分。&lt;/p&gt;&lt;p&gt;　　市面上热销的“无糖月饼”，多数使用糖醇类甜味剂替代白砂糖，升糖幅度、总热量会有所下降。但饼皮与馅料当中的淀粉依旧可以转化为葡萄糖，带来血糖上升风险，糖尿病患者以及减重人群需严格控制食用量；杂粮月饼中杂粮添加占比普遍偏低，基底仍以精制面粉为主，基本达不到代餐减脂的效果；冰皮月饼以精制糯米粉搭配白砂糖制成，升糖速度较快；流心、奶黄月饼添加大量炼乳、奶油，饱和脂肪含量较高；水果月饼馅料大多由果酱、香精调配而成，含糖量不少。&lt;/p&gt;&lt;p&gt;　　针对备受追捧的养生概念，窦攀特别提醒，添加人参、石斛等药食同源原料的月饼，功能性成分添加量极低。月饼属于节令偶尔食用的食品，不能指望其产生保健功效。&lt;/p&gt;&lt;p&gt;　　“月饼不宜当作普通零食，食用时需替代部分主食，避免在正餐之外额外加餐。”窦攀提示，中秋期间建议每日月饼摄入量不超过50克，吃一小块月饼，就要适当减少米饭、馒头等主食量。&lt;/p&gt;&lt;p&gt;　　血糖偏高及糖尿病患者，应避开高糖款流心、冰皮、水果月饼，如需食用，务必严格控制摄入量，且不要单独食用月饼，可以搭配蔬菜延缓糖分吸收；减脂、高血脂人群尽量不吃酥皮、蛋黄、火腿月饼；慢性胃肠炎人群慎食添加麦芽糖醇等糖醇的无糖月饼，易致腹胀；容易过敏人群，食用月饼前需留意包装上的过敏原提示，明确自身禁忌，规避食用风险。&lt;/p&gt;&lt;p&gt;　　食用月饼可搭配菊花茶、淡乌龙茶等饮品解腻，佐以绿叶蔬菜、低糖水果、鸡蛋、无糖酸奶等食物，延缓糖分吸收、减轻油腻感，均衡一餐膳食结构。切忌与甜饮料、油炸食品、精制主食一同食用，加重胃肠道消化负担。&lt;/p&gt;&lt;p&gt;　　食用月饼当天，三餐饮食建议少油、少糖、少盐，优先选择清蒸、水煮、凉拌的烹饪方式，尽量避开红烧、油炸、爆炒菜肴。可根据自身情况安排30分钟左右的中等强度运动，循序渐进即可，通过快走、慢跑等方式消耗多余热量，让传统节令美食适配现代健康生活，做到过节、养生两不误。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;健康时报记者  乔靖芳&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183130&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183130.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183130.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 月饼怎么选、怎么吃才健康（信息服务台） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183130.html#[05版：假日生活] 月饼怎么选、怎么吃才健康（信息服务台）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：假日生活] 本版责编：孟  扬  唐中科  徐  阳</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183131.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：孟  扬  唐中科  徐  阳 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：沈亦伶 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183131&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183131.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183131.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：孟  扬  唐中科  徐  阳 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183131.html#[05版：假日生活] 本版责编：孟  扬  唐中科  徐  阳</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：广告] 宝宝巴士点读笔  让古诗在音乐里鲜活起来</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183132.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 宝宝巴士点读笔  让古诗在音乐里鲜活起来 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/273ff075-713a-41e5-8bb5-45c35febc1bf.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　宝宝巴士创新童书阅读体验，联合专业民乐团、弦乐团，为绘本量身配乐，通过真实乐器演奏，烘托场景氛围，传递丰富情感。孩子用点读笔轻点书页，即可唤醒文本朗读、配乐播放功能，让阅读从静态翻阅变为视听结合的体验。宝宝巴士致力于帮助孩子在看、听、触的互动中，更立体地理解故事、感受音乐之美，收获丰富而温暖的阅读体验。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183132&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183132.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183132.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 宝宝巴士点读笔  让古诗在音乐里鲜活起来 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183132.html#[06版：广告] 宝宝巴士点读笔  让古诗在音乐里鲜活起来</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：广告] AI助力补能技术革新  吉利智充为消费者提供快充新选择</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183133.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; AI助力补能技术革新  吉利智充为消费者提供快充新选择 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/fff56e7c-e944-4f0c-af54-f00924594555.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　今年是“十五五”开局之年，加强水网、新型电网、算力网等“六张网”规划建设是当前经济工作的重要内容。智慧开放、快慢互补的充电基础设施网络，是新型电网与算力网协同落地的重要应用场景，也是拉动新能源汽车消费、助力能源转型的关键支撑。同时，随着新能源汽车快速普及，车主对高效、安全、便捷补能的需求持续攀升。&lt;/p&gt;&lt;p&gt;　　围绕重大项目与行业痛点、用户需求，2026年9月23日，吉利汽车集团正式发布新一代补能技术——吉利智充，以全域AI技术与全域安全体系为支撑，与阶跃星辰联合开发全域能源大模型——星睿PowerMind能源大脑，全面融入了吉利WAM世界行为模型，以星睿智算中心为算力载体，构建“人、车、桩、云、网、储”一体化协同架构，不仅适配用户出行场景、充电习惯，还能实时掌握电池健康状态，并了解充电场站现场情况，进行智慧调度、实现桩车协同，推动补能进入AI赋能的安全快充新阶段。依托星睿PowerMind能源大脑，吉利智充将体系化AI能力应用于补能领域，从底层技术逻辑上进行系统性重构，实现补能技术在安全、速度、智能、便捷4个维度的全方位突破，有效解决快充不安全、伤电池等行业痛点，为用户带来更快更好更安全的吉利智充解决方案。&lt;/p&gt;&lt;p&gt;　　针对“快充易高温、高温降功率、速度与安全难兼顾”等技术难题，吉利智充凭借创新推出的AI温控技术和全链路五端液冷方案，主动调节充电温度，改变电池硬扛高温的传统模式，确保充电状态下电池平均充电温度不超55摄氏度、最高充电温度始终保持在65摄氏度以下，实现快速充电与安全温控的双向平衡。经中汽研汽车检验中心（天津）有限公司实测，搭载专利智充技术的领克10车型从10%到97%的快充过程中，在峰值充电功率达1093千瓦的情况下，电池充电温度低于55摄氏度的时长占比57%，全程最高温度也仅64摄氏度，比国标推荐的65摄氏度还低1度，把电池温度牢牢控制在安全标准之内。&lt;/p&gt;&lt;p&gt;　　在安全的前提下，吉利智充进一步刷新了补能速度，新一代吉利智充站实现单枪峰值充电功率2250千瓦，支持AI极速充功能。经常温实测，领克10车型SOC从10%到70%平均仅需4分30秒，SOC从10%到97%平均仅需8分40秒，实现补能速度跨越式提升，同时全程充电平均温度不超55摄氏度，补能更快更安全，有效缓解用户长途出行、应急补能的续航焦虑。&lt;/p&gt;&lt;p&gt;　　补能速度的提升，也离不开电池技术支撑。吉利9月23日同步发布了全新一代“神盾金砖电池超短刀系列”，尺寸缩短到395毫米和370毫米。其中，领克10车型搭载了395毫米的“神盾金砖电池超短刀系列”，最高充电倍率达到12C。370毫米的神盾金砖电池超短刀系列，将把峰值充电倍率提高到6C，率先搭载于全新吉利银河E5车型，实测常温下SOC从10%到70%充电仅需8分25秒，精准匹配不同用户、不同场景的用车需求。&lt;/p&gt;&lt;p&gt;　　不止于更快、更安全的补能体验，吉利智充技术跳出“单纯补能”的单一思维，聚焦用户关心的电池健康问题，提供了更健康的充电模式——“AI智慧充”，依托星睿PowerMind能源大脑的电池寿命预测，可以做到千车千策电池健康管理，再加上创新开发的锂离子脉冲修复技术等多项健康充电技术，可实现边充边保养，让电池更健康、循环寿命提升20%以上，满足用户“既要快充又要电池健康”的补能需求。&lt;/p&gt;&lt;p&gt;　　在补能技术突破的基础上，吉利智充还针对充电操作繁琐等用户补能场景痛点，推出“AI自动充”功能，简化繁琐的充电流程，吉利智充机器人能根据设定的电量值自动充电。吉利将陆续推出20千瓦快充和7千瓦家充两款全新家用自动充电机器人产品，叠加原有的1.5兆瓦极充机器人，满足不同用户需求，全程由机器人自动完成充电，为用户带来更加便捷省心的智慧补能体验。&lt;/p&gt;&lt;p&gt;　　技术创新落地离不开基础设施的全域支撑，补齐充电网络短板是破解新能源汽车补能焦虑、推动产业普惠发展的关键一环。在“一个吉利”战略指引下，吉利浩瀚能源已融合极氪、领克、银河的“充电地图”，并面向全社会新能源车主开放。截至目前，吉利已布局了超2500座充电站、超1.2万把充电枪，覆盖了232个城市，其中超快充站超1500座、快充枪超7000把，稳居行业第一梯队。到2027年底，吉利计划建成超22000座充电站、超10万把充电枪，其中吉利智充站超15000座、智充枪超5万把，实现“县县通”。同时，吉利也将携手行业伙伴为用户提供一张覆盖所有县级市场的补能网络。未来，吉利浩瀚能源规划布局超15万座充电站、超60万把充电枪，其中吉利智充站超10万座，让吉利智充触手可及。&lt;/p&gt;&lt;p&gt;　　从功率突破、安全护航，到电池养护、便捷充电，吉利智充致力于精准满足当前新能源汽车车主对补能速度、安全性、电池寿命、便捷度等的重点需求，努力以自主技术创新赋能产业升级，以贴合民生需求的创新技术方案优化用户出行体验，赋能新能源汽车补能技术革新，更深入落实“六张网”建设战略部署，为我国新能源汽车产业高质量发展、智慧出行生态持续完善注入强劲动力。&lt;/p&gt;&lt;p&gt;　　数据来源：吉利汽车集团&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183133&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183133.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183133.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; AI助力补能技术革新  吉利智充为消费者提供快充新选择 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183133.html#[07版：广告] AI助力补能技术革新  吉利智充为消费者提供快充新选择</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 大地秋韵·千里共婵娟</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183134.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 大地秋韵·千里共婵娟 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　一轮圆月，无疑是中秋夜空中的主角。这枚曾被人类仰望过无数次的天体，在中华民族这个特殊的日子里，被赋予了更加瑰丽的遐想与深远的情感寄托。&lt;/p&gt;&lt;p&gt;　　皓月当空，光华洒落处，有科学，有人文，有历史，有亲情，有诗意，有烟火……其实，关于月亮的故事，属于月亮，更属于人世间。今日“大地秋韵”，我们与读者分享关于月亮的回忆与随想，愿这些文字也能如中秋的月光，照彻内心的某个地方。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183134&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183134.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183134.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 大地秋韵·千里共婵娟 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183134.html#[08版：副刊] 大地秋韵·千里共婵娟</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 我与月亮的故事</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183135.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt;我与月亮的故事&lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							欧阳自远&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　左图：地球上能看到的全月球正面图。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　右图：月球主要演化事件年代分布图。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　以上图片均为作者提供&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/5d6b50f3-02e6-45fa-ac68-2a2eac93092c.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　“嫦娥奔月”的传说，在民间流传至今。西王母赠给嫦娥的丈夫后羿一颗仙丹，当后羿外出时，他的徒弟逄蒙到嫦娥家抢夺仙丹。嫦娥情急之下吞食仙丹，从地面飞向月球的广寒宫。&lt;/p&gt;&lt;p&gt;　　据说月亮上还有一只玉兔和一只蟾蜍。嫦娥和它们共同居住在广寒宫里。从人眼能看到的全月球图上可以清晰发现，右侧是一只活泼可爱的小兔子，左侧是一只癞蛤蟆的上半身。吴刚在广寒宫砍伐桂树，永远砍不断伐不完。人们看到的月球表面恒久不变，可见“吴刚伐桂”的想象也是有来由的。古人的智慧深深地打动了我，在研究着陆在地球上的小天体也就是各类陨石之后，开始研究月球的起源与演化过程。&lt;/p&gt;&lt;p&gt;　　中国的月球探测经历了近10年的科学论证，我向专家组依次报告了“中国开展月球探测的必要性与可行性”“中国开展月球探测的发展战略与实施方案”“中国首次月球探测的科学目标”等课题，都得到专家组一致支持。2004年我被任命为中国探月工程首任首席科学家。&lt;/p&gt;&lt;p&gt;　　2007年嫦娥一号发射，我提出来凡是别人做过的，如果我们也要做的话，一定要比他们做得好；另外一定要有一到两项探测目标是别人没有做过的，是中国开创的，我们才能稳步实现赶超！&lt;/p&gt;&lt;p&gt;　　嫦娥一号与二号是绕月探测，我们编制了精细的全月球影像图。嫦娥三号与四号是落月探测，开展着陆器就位探测与月球车巡视探测，对着陆区的地形地貌类型、月壤与岩石的分布特征进行精细探测。嫦娥五号与六号是取样返回，提供了月球演化历史上“最古老”与“最年轻”的科学证据。&lt;/p&gt;&lt;p&gt;　　美国6次阿波罗载人登月，全部着陆在月球正面，一共取回381.7千克月球土壤与岩石样品。苏联的月球号无人采样返回地面，也取回一些月球样品。&lt;/p&gt;&lt;p&gt;　　中国的嫦娥五号，我们希望取回月球历史上最后一次火山喷发形成的玄武岩，它见证了月球演化的关键终点。我们用计算机将月球全部表面划分出不同面积的正方格，400平方公里、200平方公里、100平方公里、60平方公里和20平方公里，统计方格内撞击坑的数目与分布密度。月球表面直径大于1公里的撞击坑有100多万个，撞击坑密集，表明这片区域裸露在月球表面的时间长；撞击坑稀少，则表明其裸露在月球表面的时间短。最后选择出嫦娥五号的着陆点在月球风暴洋北部、吕姆克山麓。&lt;/p&gt;&lt;p&gt;　　样品取回后，测定出月球最后一次火山喷发是在20亿年前。这表明在20亿年前月球内力活动能量已耗尽，再也没有新的岩浆侵入与火山爆发。月球只是在外力作用下自转与绕地球公转。&lt;/p&gt;&lt;p&gt;　　嫦娥六号则是人类首次在月球背面一个大盆地内的撞击坑最密集区域取回样品，测定岩石年龄为42.5亿年，取得了月球演化历史中“一老”和“一新”的科学证据。&lt;/p&gt;&lt;p&gt;　　阿波罗6次载人登月一共带回381.7千克月球样品返回地球。中国的嫦娥五号和六号共带回约3.6千克月球样品，虽不及他们的1%，我们却解决了月球演化的“一老与一新”核心问题。&lt;/p&gt;&lt;p&gt;　　其间，我主导编制了250万分之一的精细月球地质图，成为全世界了解月球、研究月球、开发利用月球的综合性科学依据。&lt;/p&gt;&lt;p&gt;　　当今科学界比较公认的月球起源学说认为，地球诞生于距今46亿年前，45亿年前一颗小行星撞击地球，撞击出一大块地球岩石，粉碎的岩石碎块与粉尘在地球附近聚集形成了月亮。大家知道，儿女都是母亲身上的一块肉，月亮是地球的女儿。&lt;/p&gt;&lt;p&gt;　　月亮，我深深地爱上了您！&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;欧阳自远&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183135&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183135.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183135.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt;我与月亮的故事&lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183135.html#[08版：副刊] 我与月亮的故事</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 明月照人来（文思）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183136.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 明月照人来（文思） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							余同友&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“月出皎兮，佼人僚兮”，有人说，自《诗经》中这句诗起，月亮便进入了中国文学的审美系统。&lt;/p&gt;&lt;p&gt;　　是呀，翻开中国文学史，总有一个月亮不时闪耀在字里行间，“星垂平野阔，月涌大江流”“明月松间照，清泉石上流”“明月照高楼，流光正徘徊”……怕是从月出东山吟到月落西窗，也念不完关于月亮的诗词。这大概是中国文学对世界文学史的独特贡献，也是独属于中国人的一份浪漫。&lt;/p&gt;&lt;p&gt;　　一颗悬挂于夜空的星体，为什么引得中国古人如此挂念？这当然有各种各样的解释，但吟咏着“月出皎兮，佼人僚兮”，我有一个发现：正如这句诗里的两个关键字“月”和“人”所提示的，中国文学里的月亮，似乎总是和人相关。“深林人不知，明月来相照”，由人而月；“我寄愁心与明月，随君直到夜郎西”，由月而人；“人攀明月不可得，月行却与人相随”，写的是月伴人、人伴月。在中国人心里，月是媒介，人才是那个永远放不下的牵挂。&lt;/p&gt;&lt;p&gt;　　说到中国文学史上的“月与人”，我第一个想到的便是李白。他一生以月为友，那轮明月便顺着他的笔，汇入了中国文学的长河，从此一代代地影响着后来人。这让我突然想起前不久到安徽当涂县李白墓园，听那里的讲解员谷常新先生讲的一件往事。&lt;/p&gt;&lt;p&gt;　　谷常新自出生起就住在李白墓边，他们家世代为李白守墓，他本人从1985年起就开始在墓园工作，兼护墓和讲解。30多年前一个中秋节的下午，他接待了一批来华学习中文的外国师生。参观讲解结束后，带队的教授向谷常新提出了一个“不情之请”：能不能晚上中秋月升起来后，允许他带着学生月下再来拜谒李白先生。&lt;/p&gt;&lt;p&gt;　　看到谷常新面露难色，这位研究李白的教授从包里拿出一本中文版的《李白诗选》，翻到《月下独酌》：“花间一壶酒，独酌无相亲。举杯邀明月，对影成三人。”他说，第一次读到这首诗时，就想象着那个醉人的场景，像一幅画，像一首歌，李白简直是世界上最伟大的诗人！那时他就有一个梦想，有朝一日能到诗人墓前，陪着诗人举杯邀月。&lt;/p&gt;&lt;p&gt;　　一番话，说动了谷常新。那晚，他破例在夜晚打开了太白祠的门。中秋圆月当空，谷常新和教授一行在太白墓前席地而坐，一起吟诵：“床前明月光，疑是地上霜”“月既不解饮，影徒随我身”“明月出天山，苍茫云海间”……月光如水，每一个人的眼里都闪着别样的光。浸润在那样的月光和诗意里，谁的心里不会感受到柔软与温暖呢？&lt;/p&gt;&lt;p&gt;　　这样的明月，也曾照彻过一位远行的中国青年。1927年，23岁的巴金乘船赴法国留学。夜航船上，海阔天高，波涌月出，年轻的巴金激动地写道：“悬挂在天空的月轮月月依然，年年如此。而我们这些旅客，在这海上却只是暂时的过客罢了。”这与李白“今人不见古时月，今月曾经照古人”的叹息，同声相应。那夜，海风轻拂，明月高悬，我想，青年巴金一定在心里一遍遍想象着李白举杯邀明月的动作。&lt;/p&gt;&lt;p&gt;　　又到中秋了。“但愿人长久，千里共婵娟”，千年来，苏轼的这枚柔软与温暖的中秋月，被无数人寄予同样的深情。这便是中国文化的力量——月亮里凝结着代代传递的信息，不管你身在何方，不管你生在何时，只要你抬头望见那轮明月，你就和千年前的诗人，和千里外的故人，沐浴在同一条文脉江河里。而那轮明月，也就这样一直照着，照着中华大地上每一个抬头望月的人，把散落天涯的你我，紧紧拢在了同一片清辉里。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;余同友&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183136&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183136.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183136.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 明月照人来（文思） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183136.html#[08版：副刊] 明月照人来（文思）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183142.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　中国画《桂花月兔图》，作者李世倬，故宫博物院藏。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202609/26/4362cb6d-5476-4bea-b7a8-8c25c8a4692d.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183142&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183142.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183142.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183142.html#[08版：副刊] 图片报道</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 中复村的八月十四（寻访）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183137.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中复村的八月十四（寻访） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							刘晓宇&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　中秋前，去福建长汀县的中复村。9月的闽西，稻子刚抽穗，风里带着泥土和草木的气息。这个闽西山区的村庄，有一种说不出的安静。&lt;/p&gt;&lt;p&gt;　　这里是红军长征的重要出发地之一。红军桥的木梁被岁月雕琢，手摸上去，木纹粗糙。桥柱上那道浅浅的刻痕还在，离地大约1.5米高。当年红军招兵，身高够着这道线，才能扛枪上路。有的孩子身高不够，就悄悄地在鞋底垫上稻草、棉絮，只为能够参加红军。我站在桥边看了许久，想象当年有的年轻人也许身高才刚刚跨过这道线，就头也不回地加入了革命的队伍。&lt;/p&gt;&lt;p&gt;　　中复村的中秋，比别处早一天。当地村民恪守着一项延续90余年的特殊习俗——八月十四过团圆节。&lt;/p&gt;&lt;p&gt;　　1934年秋，有情报说，敌人要趁八月十五中秋夜发动突袭。通知下发到周边村子：八月十四提前过中秋，八月十五迎击敌人。那年的八月十四，乡亲们把仅有的糍粑、米酒端出来，塞到红军战士手里。没有热闹喜庆的节日氛围，甚至没有人高声说笑，大家心里都清楚，这顿团圆饭吃完，红军战士们就要上战场，很多人怕是回不来了。&lt;/p&gt;&lt;p&gt;　　第二天，松毛岭战斗打响。几天几夜的激战，山上的树被炮火削光，泥土被血水浸染，战士们用生命阻挡了进犯的敌人。战斗结束后，幸存的部队在观寿公祠集结，踏上了长征路。&lt;/p&gt;&lt;p&gt;　　从那以后，中复村就把中秋定在了八月十四。每到中秋时节，村委会副主任钟椿源都要忙前忙后：“八月十四团圆，八月十五祭扫，这个雷打不动。”&lt;/p&gt;&lt;p&gt;　　钟鸣是烈士的后代，家里6位亲人参加革命，全都没回来。见到钟鸣的时候，他正站在红军桥边给游客讲这段往事。他头发花白，皮肤黝黑，说话声音不高，但每一句都铿锵有力。&lt;/p&gt;&lt;p&gt;　　“我们家八月十四吃饭，桌上永远多摆一副碗筷。那副碗筷，是给没回来的亲人留的。我爷爷那辈摆，我爹摆，到我这辈还摆。”钟鸣跟我说这话时，我们正沿着村道走。他的语气很平静，可我站在旁边，鼻子一阵发酸。90多年了，那副碗筷年年摆，等的人再也没回来。&lt;/p&gt;&lt;p&gt;　　谢小芬是村里的年轻讲解员，二十出头，扎着利落的马尾辫。她带我走了一遍红色线路，一路上没有套话，全是动人的故事。赖二妹送新婚丈夫上战场，苦守30年；罗云然老人送了6个儿子参军，无一归家；为了支援前线，村民把老房子门板拆走……“我以前也觉得这些事离自己很远。”谢小芬说。后来天天讲，一遍遍讲，这些故事不知不觉就走进了她心里。其中，八月十四过中秋的故事必讲。每次讲到这段故事，她尤为动情。&lt;/p&gt;&lt;p&gt;　　如今的中复村，八月十四依旧热闹。打糍粑的石臼摆在祠堂门口，糯米热气腾腾，糯米饭被捶得又黏又软。孩子们手里拿着糍粑，在人群里钻来钻去。到了八月十五当天，村民则自发带着糍粑、果品去松毛岭祭扫。&lt;/p&gt;&lt;p&gt;　　傍晚，站在松毛岭上，风从山谷里吹过来，带着松脂的香气。山下的中复村，炊烟升起来了。这里的中秋月，似乎比别处早一天圆。这里的中秋，从来不只有团圆，更有一份沉甸甸的敬畏与惦念。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;刘晓宇&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183137&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183137.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183137.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中复村的八月十四（寻访） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183137.html#[08版：副刊] 中复村的八月十四（寻访）</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 明月馈赠</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183138.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 明月馈赠 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							羌人六&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　中秋，月不再孤单&lt;/p&gt;&lt;p&gt;　　漂泊的蒲公英&lt;/p&gt;&lt;p&gt;　　暂时退出劳碌&lt;/p&gt;&lt;p&gt;　　在各自角落&lt;/p&gt;&lt;p&gt;　　用簸箕大小的风&lt;/p&gt;&lt;p&gt;　　擦亮一小块天空&lt;/p&gt;&lt;p&gt;　　看明月皎洁&lt;/p&gt;&lt;p&gt;　　似精美玉盘&lt;/p&gt;&lt;p&gt;　　银辉四溅，引领着&lt;/p&gt;&lt;p&gt;　　乡愁、祝福与慰藉&lt;/p&gt;&lt;p&gt;　　羽毛似的缓缓下坠&lt;/p&gt;&lt;p&gt;　　夜，如此梦幻唯美&lt;/p&gt;&lt;p&gt;　　远离家乡的蒲公英&lt;/p&gt;&lt;p&gt;　　向月亮学艺、拜师——&lt;/p&gt;&lt;p&gt;　　无处不在也无所不至&lt;/p&gt;&lt;p&gt;　　趁秋天过半，探访&lt;/p&gt;&lt;p&gt;　　露水湿透的村庄&lt;/p&gt;&lt;p&gt;　　灯火阑珊的故乡 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;羌人六&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183138&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183138.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183138.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 明月馈赠 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183138.html#[08版：副刊] 明月馈赠</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 月亮母亲</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183139.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 月亮母亲 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							许  岚&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　母亲在走之前&lt;/p&gt;&lt;p&gt;　　把炊烟，种在房顶&lt;/p&gt;&lt;p&gt;　　把我的乳名，种在胥家坝&lt;/p&gt;&lt;p&gt;　　把胥家坝，种在我的血液里&lt;/p&gt;&lt;p&gt;　　把爱，种在我来回的路上&lt;/p&gt;&lt;p&gt;　　最后，母亲&lt;/p&gt;&lt;p&gt;　　还把她自己&lt;/p&gt;&lt;p&gt;　　种在我的心坎上&lt;/p&gt;&lt;p&gt;　　像月亮 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;许  岚&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183139&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183139.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183139.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 月亮母亲 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183139.html#[08版：副刊] 月亮母亲</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 月是故乡明，饼是故乡甜</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183140.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt;月是故乡明，饼是故乡甜&lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							盛  慧&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　在广东，月亮常常不叫作月亮。月亮在这里有很多别称。广府地区和客家地区称之为“月光”，潮汕地区称之为“月娘”，粤西吴川一带，则称之为“月奶”。对于月亮，他们无比敬畏。潮汕地区小朋友从小就知道，不能用手指月亮，否则耳朵就会被月亮割掉，如果不小心指了，就要马上向月亮赔罪，请它原谅。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　和全国其他地方一样，每年中秋，广东各地都会拜月亮、吃月饼。不过，这里的月饼与别处是大有不同的。&lt;/p&gt;&lt;p&gt;　　广府地区最经典的是莲蓉蛋黄月饼。饼皮刷过蛋液，经过烘焙，色泽金黄，香气怡人。切开之后，莲蓉细腻温润，如同羊脂美玉，中间的咸蛋黄烘烤后起沙流油，橙红透亮，光彩照人，看一眼就会让人口水横流。&lt;/p&gt;&lt;p&gt;　　潮汕人中秋节吃的是朥饼。“朥”在潮州话中是猪油的意思，饼皮和馅料中均要用到。最常见的馅料有绿豆沙、乌豆沙和芋泥，口感细滑，香甜沁心。饼皮极其酥脆，吃的时候，碎屑会像花瓣一样簌簌落下。&lt;/p&gt;&lt;p&gt;　　客家人中秋节最怀念的味道是月光饼。月光饼的主要原料是糯米粉和白砂糖，它朴实无华，香脆松软，口感清甜，与云片糕颇有几分相似。&lt;/p&gt;&lt;p&gt;　　我吃过的最大的月饼来自粤西吴川，比脸还大。最受当地人欢迎的馅料是五仁金腿。入口咀嚼，火腿的咸香与果仁的脆香在舌尖交响。这种月饼不是一个人吃的，而是一家人共同享用的。&lt;/p&gt;&lt;p&gt;　　化州人中秋节喜食“拖罗饼”。此饼之所以叫这个奇怪的名字，据说是源于唐贞观年间，有一个叫罗兴的卖饼人，每天边敲锣边卖饼，声音拖得特别长。“拖罗饼”的馅料以椰丝为主，五仁为辅，吃完之后，满嘴都是椰丝的清香。&lt;/p&gt;&lt;p&gt;　　除了月饼，芋头、柚子、菱角和田螺也是必备的美食。“芋头”在粤语中与“护头”同音，有辟邪消灾之意。有意思的是，破皮的芋头在这里更受欢迎，当地人认为这是芋头在笑，是很好的寓意。柚子的“柚”与“佑”谐音，代表护佑全家。而且柚子酸甜可口，可以解月饼的油腻。菱角的“菱”与“伶”谐音，寓意孩子聪明伶俐。紫苏炒田螺也是中秋节当晚必不可少的美食。这个时节的田螺最为肥美，当地人认为，在月光下咀螺，眼睛会像月色一样清亮。&lt;/p&gt;&lt;p&gt;　　在潮汕地区，中秋节是极其隆重的，民间有“八月十五小过年”的说法。我的太太是潮汕人，我曾陪她在娘家过了几次中秋。天黑之后，圆月高悬，家家户户都在门口摆放供桌，桌上摆满贡品，循环播放着《十五的月亮》，就像赶集一样热闹。大人们守在一旁喝工夫茶，孩子们提着灯笼走街串巷，大家有说有笑，其乐融融，一直到夜深时分方才散去。&lt;/p&gt;&lt;p&gt;　　太太告诉我，每年中秋，她最想念的是老嬷。老嬷在世的时候，曾饱受别离之苦，每次拜月娘，总会对着月亮诉说心事，盼望侨居泰国的丈夫早日归来，这一等就等了40年。&lt;/p&gt;&lt;p&gt;　　月是故乡明，饼是故乡甜。广东的海外侨胞人数众多，以前交通不便，侨胞们总会在中秋节前寄回侨批，向家人报一声平安，家人们也会给他们寄上故乡的月饼。江海万里，明月寄情。不管身处何地，只要中秋的月亮升起，他们就会按照家乡的风俗拜月，将自己对故土的无限思念托付给这一轮朗朗明月。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;盛  慧&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183140&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183140.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183140.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt;月是故乡明，饼是故乡甜&lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183140.html#[08版：副刊] 月是故乡明，饼是故乡甜</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 本版责编  张  健  马  涌  周舒艺  张珊珊  程  红</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183141.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编  张  健  马  涌  周舒艺  张珊珊  程  红 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年09月26日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本版邮箱 dadi@peopledaily.cn&lt;/p&gt;&lt;p&gt;　　版式设计：蔡华伟&lt;/p&gt;&lt;p&gt;　　欢迎广大读者来稿。来稿要求为原创首发，非一稿多投。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-09-26 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30183141&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183141.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202609/26/content_30183141.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编  张  健  马  涌  周舒艺  张珊珊  程  红 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202609/26/content_30183141.html#[08版：副刊] 本版责编  张  健  马  涌  周舒艺  张珊珊  程  红</guid>
+      <pubDate>Sat, 26 Sep 2026 08:41:43 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
