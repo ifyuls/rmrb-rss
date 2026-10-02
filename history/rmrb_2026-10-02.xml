@@ -1,0 +1,909 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 01 Oct 2026 01:20:48 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 庆祝中华人民共和国成立77周年招待会在京举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184023.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 庆祝中华人民共和国成立77周年招待会在京举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 习近平发表重要讲话&lt;/p&gt;&lt;p&gt;李强主持  赵乐际王沪宁蔡奇丁薛祥李希韩正出席 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月30日晚，庆祝中华人民共和国成立77周年招待会在北京人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  谢环驰摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/c294701e-51f5-47e6-a52f-107fa4139e17.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月30日晚，庆祝中华人民共和国成立77周年招待会在北京人民大会堂举行。习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等党和国家领导人与中外人士欢聚一堂，共庆中华人民共和国华诞。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  燕  雁摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/9fa91d97-a45b-4aca-9aeb-8ad0b071b06f.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报北京9月30日电  庆祝中华人民共和国成立77周年招待会30日晚在人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。（讲话全文见第二版）他强调，经过长期探索和实践，中国特色社会主义制度展现出巨大优势，我国国家治理体系和治理能力现代化水平不断提高，实现中华民族伟大复兴势不可挡。只要我们坚定信心、锚定目标，一步一步扎实往前走，成功就一定属于伟大的中国共产党、伟大的中国人民、伟大的中华人民共和国。&lt;/p&gt;&lt;p&gt;　　李强主持招待会，赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正出席招待会。约800名中外人士欢聚一堂，共庆中华人民共和国华诞。&lt;/p&gt;&lt;p&gt;　　人民大会堂宴会厅华灯璀璨，洋溢着喜庆热烈的节日氛围。主席台上方高悬着庄严的国徽，“1949—2026”大字年号在鲜艳红旗映衬下格外醒目。&lt;/p&gt;&lt;p&gt;　　17时30分许，在欢快的《迎宾曲》中，习近平等党和国家领导人步入宴会厅，全场响起热烈掌声。&lt;/p&gt;&lt;p&gt;　　招待会开始。全场起立，高唱中华人民共和国国歌，雄壮的《义勇军进行曲》在大厅回荡。&lt;/p&gt;&lt;p&gt;　　习近平发表重要讲话。他首先代表党中央和国务院，向全国各族人民、向中国人民解放军指战员和武警部队官兵、向各民主党派和无党派人士致以节日祝贺，向香港特别行政区同胞、澳门特别行政区同胞、台湾同胞和海外侨胞致以诚挚问候，向长期以来关心支持中国建设事业的友好国家和国际友人致以衷心感谢。&lt;/p&gt;&lt;p&gt;　　习近平指出，77年来，我们党团结带领人民不懈奋斗，创造了经济快速发展和社会长期稳定两大奇迹，实现了全面建成小康社会的第一个百年奋斗目标，正朝着全面建成社会主义现代化强国的第二个百年奋斗目标奋勇前进。此时此刻，我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。&lt;/p&gt;&lt;p&gt;　　习近平强调，今年以来，全党全国上下锐意进取、奋力拼搏，编制实施“十五五”规划，扎实推进各方面工作，我国经济顶压前行、向新向优、展现出强大韧性和活力，党和国家事业取得新进展新成效。我们要坚持稳中求进工作总基调，完整准确全面贯彻新发展理念，加快构建新发展格局，进一步深化改革开放，更好统筹发展和安全，推动经济持续向新向优向好发展，切实保障和改善民生，努力完成全年目标任务，实现“十五五”良好开局。&lt;/p&gt;&lt;p&gt;　　习近平指出，我们要坚定不移贯彻“一国两制”、“港人治港”、“澳人治澳”、高度自治方针，支持香港、澳门更好融入和服务国家发展大局，保持长期繁荣稳定。要深化两岸交流合作，坚决打击“台独”分裂势力，反对外部势力干涉，推动两岸关系和平发展，推进祖国统一大业。&lt;/p&gt;&lt;p&gt;　　习近平强调，我们要坚持独立自主的和平外交政策，推动落实四大全球倡议，推动构建人类命运共同体，为变乱交织的世界注入更多确定性和正能量。&lt;/p&gt;&lt;p&gt;　　在欢快的乐曲声中，中外宾朋举杯共贺中华人民共和国成立77周年，祝福中国繁荣昌盛、人民幸福安康，祝愿中国人民和世界各国人民友谊长存。&lt;/p&gt;&lt;p&gt;　　出席招待会的还有：在京中共中央政治局委员、中央书记处书记、中央军委副主席、全国人大常委会副委员长、国务院副总理、国务委员、国家监察委员会主任、最高人民法院院长、最高人民检察院检察长、全国政协副主席和从领导职务上退下来的同志，以及曾担任中央军委委员的同志。&lt;/p&gt;&lt;p&gt;　　中央党政军群有关部门和北京市负责人，各民主党派中央、全国工商联负责人和无党派人士代表，在京功勋荣誉表彰奖励获得者代表，全国劳动模范和先进人物代表，为民族地区稳定、发展、团结作出重要贡献的少数民族代表人士，在京部分香港特别行政区人士、澳门特别行政区人士、台湾同胞和华侨、华人代表，各国驻华使节、各国际组织驻华代表、部分外国专家等也出席了招待会。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 习近平发表重要讲话&lt;/p&gt;&lt;p&gt;李强主持  赵乐际王沪宁蔡奇丁薛祥李希韩正出席 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184023&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184023.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184023.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 庆祝中华人民共和国成立77周年招待会在京举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184023.html#[01版：要闻] 庆祝中华人民共和国成立77周年招待会在京举行</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184025.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正出席 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月30日上午，党和国家领导人习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等来到北京天安门广场，出席烈士纪念日向人民英雄敬献花篮仪式。这是习近平整理花篮上的缎带。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  谢环驰摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/f34b43e3-39ac-41df-bd0e-efea26ae5606.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月30日上午，党和国家领导人习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等来到北京天安门广场，出席烈士纪念日向人民英雄敬献花篮仪式。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  谢环驰摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/c0bd4df9-b402-4b46-b56d-e823ee8bf2a9.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报北京9月30日电  致敬英烈荣光，凝聚复兴伟力。烈士纪念日向人民英雄敬献花篮仪式30日上午在北京天安门广场隆重举行。党和国家领导人习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等，同各界代表一起出席仪式。&lt;/p&gt;&lt;p&gt;　　庄严的天安门广场上，鲜艳的五星红旗迎风飘扬，人民英雄纪念碑巍然耸立。广场中央，“祝福祖国”巨型花篮表达着对祖国繁荣昌盛的美好祝愿。纪念碑北侧，两组花坛上白菊等鲜花组成的18个花环，寄托着全体中华儿女对英烈的深情追思。&lt;/p&gt;&lt;p&gt;　　临近10时，习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等党和国家领导人来到天安门广场，出席向人民英雄敬献花篮仪式。&lt;/p&gt;&lt;p&gt;　　中国人民解放军军乐团小号手吹响《烈士纪念日号角》，深沉悠远的号声激荡人心。&lt;/p&gt;&lt;p&gt;　　“礼兵就位！”随着号令，三军仪仗兵迈着铿锵有力的步伐，正步行进到纪念碑前持枪伫立。&lt;/p&gt;&lt;p&gt;　　10时整，向人民英雄敬献花篮仪式正式开始。军乐团奏响《义勇军进行曲》，全场齐声高唱中华人民共和国国歌。&lt;/p&gt;&lt;p&gt;　　国歌唱毕，全场肃立，向为中国人民解放事业和共和国建设事业英勇献身的烈士默哀。&lt;/p&gt;&lt;p&gt;　　默哀毕，手持鲜花的少年儿童面向人民英雄纪念碑高唱《我们是共产主义接班人》，并致少年先锋队队礼。&lt;/p&gt;&lt;p&gt;　　方阵前，以中共中央，全国人大常委会，国务院，全国政协，中央军委，各民主党派、全国工商联和无党派爱国人士，各人民团体和各界群众，老战士、老同志和烈士亲属，中国少年先锋队名义敬献的9个大型花篮一字排开，花篮红色缎带上书写的“人民英雄永垂不朽”格外醒目。&lt;/p&gt;&lt;p&gt;　　军乐团奏响深情的《献花曲》，18名礼兵抬起花篮，缓步走向人民英雄纪念碑，将花篮摆放在纪念碑基座上。&lt;/p&gt;&lt;p&gt;　　习近平等党和国家领导人登上纪念碑基座，在花篮前驻足凝视。鲜艳挺拔的红掌、芬芳吐蕊的百合、轻盈绽放的文心兰，寄托着对人民英雄的深切缅怀和崇高敬意。&lt;/p&gt;&lt;p&gt;　　习近平迈步上前，仔细整理花篮缎带。随后，习近平等党和国家领导人缓步绕行，瞻仰人民英雄纪念碑。&lt;/p&gt;&lt;p&gt;　　今年是中国共产党成立105周年、中国工农红军长征胜利90周年。走在新时代的长征路上，在以习近平同志为核心的党中央坚强领导下，全党全军全国各族人民传承弘扬伟大建党精神、伟大长征精神，正壮志满怀、团结一心，为以中国式现代化全面推进强国建设、民族复兴伟业而不懈奋斗。&lt;/p&gt;&lt;p&gt;　　少年儿童和各界代表也依次走到纪念碑前，献上鲜花并瞻仰纪念碑。&lt;/p&gt;&lt;p&gt;　　敬献花篮仪式由中共中央政治局委员、北京市委书记尹力主持。&lt;/p&gt;&lt;p&gt;　　在京中共中央政治局委员、中央书记处书记，中央军委副主席，部分全国人大常委会副委员长，国务委员，最高人民法院院长，最高人民检察院检察长，部分全国政协副主席出席仪式。&lt;/p&gt;&lt;p&gt;　　中央党政军群有关部门和北京市主要负责同志，各民主党派中央、全国工商联负责人和无党派人士代表，在京老战士、老同志和烈士亲属代表，在京功勋荣誉表彰奖励获得者代表，全国少数民族参观团成员，首都各界群众代表等参加仪式。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正出席 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184025&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184025.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184025.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184025.html#[01版：要闻] 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184024.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京9月30日电  9月30日，国家主席习近平同文莱苏丹哈桑纳尔互致贺电，庆祝两国建交35周年。&lt;/p&gt;&lt;p&gt;　　习近平指出，中文传统友谊源远流长、历久弥坚，两国在携手现代化进程中树立了大小国家相互尊重、平等相待、共同发展的典范。建交35年来，中文政治互信不断深化，各领域合作成果丰硕，人文交流更加密切。去年哈桑纳尔苏丹对中国进行国事访问，双方就共建中文命运共同体达成重要共识，引领两国关系进入新的历史发展阶段。&lt;/p&gt;&lt;p&gt;　　习近平强调，我高度重视中文关系发展，愿同哈桑纳尔苏丹一道努力，以两国建交35周年为契机，赓续传统友谊，加强发展战略对接，持续深化互利合作，推动中文命运共同体建设不断走深走实，更好造福两国人民，为地区繁荣稳定作出更大贡献。&lt;/p&gt;&lt;p&gt;　　哈桑纳尔表示，建交35年来，文中两国始终相互信任、相互尊重、相互理解。2025年，两国就构建命运共同体达成重要共识。我期待以文中建交35周年为契机，进一步拉紧两国关系纽带，深化经贸投资、国防、人文等领域交流合作，携手实现两国繁荣进步，更好惠及两国人民。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184024&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184024.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184024.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184024.html#[01版：要闻] 习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 在庆祝中华人民共和国成立77周年招待会上的讲话</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184026.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 在庆祝中华人民共和国成立77周年招待会上的讲话 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; （2026年9月30日） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							习近平&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;女士们，先生们，&lt;/p&gt;&lt;p&gt;同志们，朋友们：&lt;/p&gt;&lt;p&gt;　　今天，我们欢聚一堂，庆祝中华人民共和国成立77周年。首先，我代表党中央和国务院，向全国各族人民，向中国人民解放军指战员和武警部队官兵，向各民主党派和无党派人士，致以节日祝贺！向香港特别行政区同胞、澳门特别行政区同胞、台湾同胞和海外侨胞，致以诚挚问候！向长期以来关心支持中国建设事业的友好国家和国际友人，致以衷心感谢！&lt;/p&gt;&lt;p&gt;　　77年来，我们党团结带领人民不懈奋斗，创造了经济快速发展和社会长期稳定两大奇迹，实现了全面建成小康社会的第一个百年奋斗目标，正朝着全面建成社会主义现代化强国的第二个百年奋斗目标奋勇前进。此时此刻，我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。&lt;/p&gt;&lt;p&gt;　　同志们、朋友们！&lt;/p&gt;&lt;p&gt;　　今年以来，全党全国上下锐意进取、奋力拼搏，编制实施“十五五”规划，扎实推进各方面工作，有效应对各种风险挑战，我国经济顶压前行、向新向优、展现出强大韧性和活力，党和国家事业取得新进展新成效。&lt;/p&gt;&lt;p&gt;　　面对错综复杂的国际国内形势，我们要坚持稳中求进工作总基调，完整准确全面贯彻新发展理念，加快构建新发展格局，进一步深化改革开放，更好统筹发展和安全，推动经济持续向新向优向好发展，切实保障和改善民生，努力完成全年目标任务，实现“十五五”良好开局。&lt;/p&gt;&lt;p&gt;　　我们要坚定不移贯彻“一国两制”、“港人治港”、“澳人治澳”、高度自治方针，支持香港、澳门更好融入和服务国家发展大局，保持长期繁荣稳定。要深化两岸交流合作，坚决打击“台独”分裂势力，反对外部势力干涉，推动两岸关系和平发展，推进祖国统一大业。&lt;/p&gt;&lt;p&gt;　　我们要坚持独立自主的和平外交政策，推动落实四大全球倡议，推动构建人类命运共同体，为变乱交织的世界注入更多确定性和正能量。&lt;/p&gt;&lt;p&gt;　　同志们、朋友们！&lt;/p&gt;&lt;p&gt;　　经过长期探索和实践，中国特色社会主义制度展现出巨大优势，我国国家治理体系和治理能力现代化水平不断提高，实现中华民族伟大复兴势不可挡。只要我们坚定信心、锚定目标，一步一步扎实往前走，成功就一定属于伟大的中国共产党、伟大的中国人民、伟大的中华人民共和国！&lt;/p&gt;&lt;p&gt;　　现在，我提议：&lt;/p&gt;&lt;p&gt;　　为中华人民共和国成立77周年，&lt;/p&gt;&lt;p&gt;　　为中国繁荣富强和全国各族人民幸福安康，&lt;/p&gt;&lt;p&gt;　　为中国人民同世界各国人民的友谊和合作，&lt;/p&gt;&lt;p&gt;　　为在座各位来宾、各位同志、各位朋友的健康，&lt;/p&gt;&lt;p&gt;　　干杯！&lt;/p&gt;&lt;p&gt;　　（新华社北京9月30日电）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;习近平&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; （2026年9月30日） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184026&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184026.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184026.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 在庆祝中华人民共和国成立77周年招待会上的讲话 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184026.html#[02版：要闻] 在庆祝中华人民共和国成立77周年招待会上的讲话</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 加强普惠性、基础性、兜底性民生建设</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184027.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 《求是》杂志发表习近平总书记重要文章 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 加强普惠性、基础性、兜底性民生建设 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京9月30日电  10月1日出版的第19期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。&lt;/p&gt;&lt;p&gt;　　文章强调，中国式现代化，民生为大。人民对美好生活的向往，就是我们的奋斗目标。我们的目标很宏伟，也很朴素，归根到底就是让老百姓过上更好的日子。必须坚持在发展中保障和改善民生，鼓励共同奋斗创造美好生活，不断实现人民对美好生活的向往。&lt;/p&gt;&lt;p&gt;　　文章指出，要坚持以人民为中心，加强普惠性、基础性、兜底性民生建设，实现好、维护好、发展好最广大人民根本利益，着力解决好人民群众急难愁盼问题，健全基本公共服务体系，提高公共服务水平，增强均衡性和可及性，扎实推进共同富裕。坚守底线、突出重点、完善制度、引导预期，统筹做好教育、收入分配、就业、社会保障、医疗卫生、住房等方面的工作，不断推动幼有所育、学有所教、劳有所得、病有所医、老有所养、住有所居、弱有所扶取得新进展，不断促进社会公平正义，使人民获得感、幸福感、安全感更加充实、更有保障、更可持续。对各类困难群众，要格外关注、格外关爱、格外关心，时刻把他们的安危冷暖放在心上，关心他们的疾苦，千方百计帮助他们排忧解难。&lt;/p&gt;&lt;p&gt;　　文章指出，民生工作直接同老百姓见面、对账，来不得半点虚假，承诺了的就要兑现，要一件事情接着一件事情办，一年接着一年干。坚持尽力而为、量力而行，统筹需要和可能，把保障和改善民生建立在经济发展和财力可持续的基础之上。引导广大群众树立通过勤劳致富改善生活的理念，使改善民生既是党和政府工作的方向，也是人民群众自身奋斗的目标。&lt;/p&gt;&lt;p&gt;　　文章强调，发展经济的根本目的是更好保障和改善民生，抓民生也是抓发展。要把发展经济和改善民生有机统一起来，制定经济发展政策同步嵌入改善民生的要求，制定民生政策同步考虑促进经济发展的效应，使民生改善和经济发展有效对接、相得益彰。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 《求是》杂志发表习近平总书记重要文章 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184027&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184027.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184027.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 加强普惠性、基础性、兜底性民生建设 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184027.html#[02版：要闻] 加强普惠性、基础性、兜底性民生建设</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 在新的伟大征程上接续奋斗再创辉煌（社论）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184028.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 在新的伟大征程上接续奋斗再创辉煌（社论） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——热烈庆祝中华人民共和国成立七十七周年 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　金风送爽，山河锦绣。&lt;/p&gt;&lt;p&gt;　　奋进新征程、开局“十五五”，我们迎来中华人民共和国成立77周年纪念日，这是普天同庆的重大节日。&lt;/p&gt;&lt;p&gt;　　77年来，中国共产党团结带领全国各族人民，创造了经济快速发展和社会长期稳定两大奇迹，书写了世界现代化进程中最恢宏的中国式现代化史诗，迎来了中华民族伟大复兴前所未有的光明前景。&lt;/p&gt;&lt;p&gt;　　“到本世纪中叶，我们要全面建成社会主义现代化强国、实现第二个百年奋斗目标。时间不等人！历史不等人！”今年“七一”，习近平总书记发出“奋力创造新的历史辉煌”的伟大号召。&lt;/p&gt;&lt;p&gt;　　接续奋斗、再创辉煌，我们信心十足、壮志在胸。&lt;/p&gt;&lt;p&gt;　　今天的中国，持续向新向优向好发展，牢牢把握历史主动。&lt;/p&gt;&lt;p&gt;　　今年以来，我国经济顶压前行，呈现动能向新、结构向优的发展态势，展现出强大韧性和活力。&lt;/p&gt;&lt;p&gt;　　人工智能赋能千行百业，人形机器人出货量领跑全球，新能源汽车产销量稳步增长……以高水平科技自立自强引领发展新质生产力，“中国智造”已成为中国式现代化的又一亮丽名片。&lt;/p&gt;&lt;p&gt;　　从“一辆拖拉机都不能造”，到“工业门类最齐全的世界制造业第一大国”，我国发展的物质技术基础更加坚实，“这条路是走对了！”&lt;/p&gt;&lt;p&gt;　　今天的中国，在乱云飞渡中保持战略定力，不断拓展发展空间。&lt;/p&gt;&lt;p&gt;　　“九章四号”刷新光量子信息技术世界纪录，在世界上唯一同时掌握海陆两类火箭回收技术……“从全球科技参与者、贡献者向开拓者、引领者加速转变”，我国成为创新力上升最快的国家之一。&lt;/p&gt;&lt;p&gt;　　新中国成立以来第一条通江达海的大运河平陆运河建成通航，粮食、能源“两个饭碗”端稳端牢，现代化产业体系“筋骨”强劲、“脉络”畅通，东西部协作迈向互利共赢、共同发展。发挥战略叠加效应，加快构建新发展格局，我国发展蓄能向前。&lt;/p&gt;&lt;p&gt;　　“一步一步坚定走”，中国式现代化壮阔无垠、气象万千。&lt;/p&gt;&lt;p&gt;　　今天的中国，紧紧依靠人民创造美好生活，持续厚植民生福祉。&lt;/p&gt;&lt;p&gt;　　从老旧小区改造惠及全国上亿人，到消费品以旧换新带动绿色智能产品走进千家万户，再到世界规模最大的民生保障网越织越密……&lt;/p&gt;&lt;p&gt;　　高质量发展和高品质生活双向奔赴，新时代“民生答卷”温暖人心。&lt;/p&gt;&lt;p&gt;　　以树立和践行正确政绩观学习教育为契机，广大党员、干部拧紧干事创业“总开关”，坚持为人民出政绩、以实干出政绩。&lt;/p&gt;&lt;p&gt;　　在党的坚强领导下，中国人民把国家发展进步的命运牢牢掌握在自己手中。&lt;/p&gt;&lt;p&gt;　　今天的中国，站在创造人类文明的前沿，引领时代、引领未来。&lt;/p&gt;&lt;p&gt;　　“十五五”规划既是中国自身的发展蓝图，也是面向世界的合作清单。&lt;/p&gt;&lt;p&gt;　　光伏发电装机容量首次超过煤电，国产开源大模型累计下载量登顶全球，“中国机遇2.0”为全球提供越来越多的“创新红利”。&lt;/p&gt;&lt;p&gt;　　以“四个坚持”引领上合组织凝心聚力、行稳致远，以“四大先锋”为金砖国家合作明确历史使命、提升战略定位……&lt;/p&gt;&lt;p&gt;　　“以人类前途为怀、以人民福祉为念”，中国始终是世界经济增长的重要引擎和稳定锚，是构建人类命运共同体的倡导者和行动派。&lt;/p&gt;&lt;p&gt;　　时间是常量，也是奋进者的变量。&lt;/p&gt;&lt;p&gt;　　今天，一个亘古亘今、日新又新的中国以更加雄伟的身姿屹立于世界东方，中国人民正以自信、自立、自强的姿态阔步迈向更加美好的未来，中华民族正以势不可挡的步伐迈向伟大复兴。&lt;/p&gt;&lt;p&gt;　　有外国政要感慨，“中国的成功也就是中国共产党的成功”。&lt;/p&gt;&lt;p&gt;　　105年来，党团结带领人民不断铸就辉煌，根本在于具有矢志追求真理、深深植根人民、勇担历史使命、顺应发展潮流、敢于善于斗争、注重强健自身等优秀特质。&lt;/p&gt;&lt;p&gt;　　新时代以来，党和人民赢得了强党强国的历史主动，从根本上确保了中华民族伟大复兴的历史大势不可阻挡，正是因为“两个确立”。&lt;/p&gt;&lt;p&gt;　　今年是红军长征胜利90周年。&lt;/p&gt;&lt;p&gt;　　“新征程是新的长征。”进入关键时期，改革发展稳定任务艰巨繁重，前进道路上还有许多拦路虎、绊脚石，必须夺取具有许多新的历史特点的伟大斗争新胜利，确保基本实现社会主义现代化取得决定性进展。&lt;/p&gt;&lt;p&gt;　　坚持和加强党的全面领导是推进中国式现代化的根本保证。即将召开的党的二十届五中全会，研究持之以恒推进全面从严治党若干重大问题，旨在把我们党建设得更加坚强有力。&lt;/p&gt;&lt;p&gt;　　新长征路上，我们要坚定必胜信念，深刻认识、牢牢把握我国发展具有的诸多优势和战略性有利条件，保持道不变、志不改的定力，做到不畏浮云遮望眼、乘风破浪不迷航。勇于攻坚克难，激扬压倒一切困难而不为困难所压倒的决心和勇气，敢于斗争，善于创造，在研究新情况、解决新问题上下功夫、出经验。矢志团结奋斗，始终坚持以人民为中心的发展思想，充分激发亿万人民的积极性主动性创造性，汇聚推进中国式现代化的磅礴力量，把宏伟蓝图变为美好现实。&lt;/p&gt;&lt;p&gt;　　“一起为梦想奋斗、为幸福打拼”。让我们更加紧密地团结在以习近平同志为核心的党中央周围，全面贯彻习近平新时代中国特色社会主义思想，深刻领悟“两个确立”的决定性意义，坚决做到“两个维护”，锐意进取、开拓创新，奋力谱写中国式现代化更加壮丽的华章。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——热烈庆祝中华人民共和国成立七十七周年 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184028&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184028.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184028.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 在新的伟大征程上接续奋斗再创辉煌（社论） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184028.html#[02版：要闻] 在新的伟大征程上接续奋斗再创辉煌（社论）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 努力在服务新时代国家战略中当先锋作表率</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184029.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 努力在服务新时代国家战略中当先锋作表率 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——习近平总书记给四川大学全体师生的回信激励广大教育工作者和青年学生矢志奋斗 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  丁雅诵  王永战&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　四川大学前身为1896年创建的四川中西学堂，是我国西南地区成立最早的高等教育机构。在四川大学建校130周年之际，习近平总书记给四川大学全体师生回信，向全体师生员工、广大校友表示祝贺，勉励大家努力在服务新时代国家战略中当先锋作表率。&lt;/p&gt;&lt;p&gt;　　情真意切的关怀和嘱托，令广大教育工作者和青年学生倍感振奋。大家表示，要牢记习近平总书记嘱托，赓续红色血脉，为建设教育强国、科技强国、人才强国作出积极贡献。&lt;/p&gt;&lt;p&gt;　　金秋时节，四川大学校园内洋溢着喜庆氛围。“总书记的回信饱含对四川大学的深切关怀与殷切期望，让全体师生员工和广大校友备受鼓舞。”四川大学党委书记甘霖说，“胸怀家国、扎根西部、兴学育才，是川大的好传统，我们将继续发扬优良传统，传承红色基因，坚定不移落实好立德树人根本任务，一体推进教育科技人才发展，努力书写兴学育才新的灿烂篇章。”&lt;/p&gt;&lt;p&gt;　　百卅川大，文脉绵延，薪火相传，一代代川大人始终把治学求真与家国担当紧密相连。&lt;/p&gt;&lt;p&gt;　　“国家需求在哪，我们的攻关方向就在哪，不仅攻得出，更要用得上。”中国工程院院士、四川大学学术委员会主任谢和平说，要坚守科研报国初心使命，立足学科特色优势，做真学问、做大学问，聚力“从0到1”原始创新，努力将高校的科研优势转化为国家竞争力。&lt;/p&gt;&lt;p&gt;　　“求真学问、练真本领，才能争当先锋表率。”四川大学文学院中国现当代文学专业博士生孙旭江表示，要把学问做得更扎实、把专业钻得更深入、把脚步迈得更坚实，既沉潜案头、探求学理，也走向田野、观照现实，在学习实践中努力成长为勇挑重担、能担重任的时代新人。&lt;/p&gt;&lt;p&gt;　　海水直接制氢技术理论体系、高分子材料阻燃系列新原理与新技术、无铬生态皮革制造关键材料技术……近年来，四川大学涌现出一系列科技创新成果。&lt;/p&gt;&lt;p&gt;　　“习近平总书记的重要要求，让我们更加明确奋进的方向。”四川大学化学工程学院化学工程系党支部书记汪伟表示，将聚焦化工领域前沿和行业难题，发挥学科交叉融合优势，在磷化工、化工分离、能源化工、医药化工等领域持续攻关，为教育强国、科技强国、人才强国建设作出更大贡献。&lt;/p&gt;&lt;p&gt;　　“求学期间，学校教育我们要注重专业知识的积累，关注国家需求，矢志自主创新。”四川大学校友、陕西西安蓝晓科技新材料股份有限公司总经理寇晓康深耕吸附分离材料行业数十载，曾两次获国家科技进步奖二等奖。他表示，将坚定走学以致用、产业报国之路，努力把基础理论转化为产业实效，专注新材料自主研发，在精细新材料领域勇攀高峰。&lt;/p&gt;&lt;p&gt;　　服务新时代国家战略，教育战线大有可为。&lt;/p&gt;&lt;p&gt;　　“习近平总书记的回信，不仅是对四川大学的殷切期望，也是对西部高校和全国高等教育战线的深切关怀。”兰州大学稀有同位素前沿科学中心常务副主任吴王锁深受鼓舞，“兰州大学核学科自创建起便流淌着许党报国、为国铸剑的红色血脉，我们要扎根西北、艰苦奋斗，让红色基因成为激励我们不断攀登核科技高峰、服务国家战略的最强底色。”&lt;/p&gt;&lt;p&gt;　　“习近平总书记在回信中强调‘发挥文理工医交叉融合优势’，为综合性研究型大学指明了发展方向。”中山大学发展规划处处长李勃兴表示，中山大学将继续以国家战略需求和重大科学问题为牵引，持续深化体制机制改革，打破院系和学科壁垒，努力把“学科齐全”的结构优势转化为“交叉融合”的创新优势。&lt;/p&gt;&lt;p&gt;　　“只有扎根在祖国和人民需要的地方，青春才能绽放绚丽之花。”连续多年带队赴西藏开展实习支教，陕西师范大学外国语学院副教授庞玮表示，要继续扎根祖国西部、矢志兴教报国，引导毕业生坚守三尺讲台，在祖国最需要的地方书写青春华章。&lt;/p&gt;&lt;p&gt;　　中国矿业大学（北京）人工智能学院教授李策围绕城市公共安全智能感知技术及工程应用开展科学研究，努力服务智慧城市建设。她表示：“我将以习近平总书记重要回信精神为指引，把个人学术追求融入国家发展大局，发挥学校多学科交叉融合优势，攻克技术难题，同时把前沿成果融入教学，培养具有家国情怀和复合能力的时代新人。”&lt;/p&gt;&lt;p&gt;　　“习近平总书记强调‘赓续红色血脉，发挥文理工医交叉融合优势’。作为参与骨科医工融合研究的医学生，我深感创新需从临床真实问题出发。”首都医科大学附属北京积水潭医院2025级外科学（骨外）博士生佘政航说，“我将深耕所学专业，聚焦人工关节置换精准决策与量化评价，推动医工融合成果转为诊疗依据，努力成为能看病、善创新、敢担当的医学人才，为守护人民群众身体健康贡献青春力量。”&lt;/p&gt;&lt;p&gt;　　（本报记者吴丹、吴月、闫伊乔参与采写） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  丁雅诵  王永战&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——习近平总书记给四川大学全体师生的回信激励广大教育工作者和青年学生矢志奋斗 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184029&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184029.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184029.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 努力在服务新时代国家战略中当先锋作表率 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184029.html#[02版：要闻] 努力在服务新时代国家战略中当先锋作表率</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 庆祝中华人民共和国成立77周年招待会在京举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184030.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 庆祝中华人民共和国成立77周年招待会在京举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 习近平发表重要讲话&lt;/p&gt;&lt;p&gt;李强主持  赵乐际王沪宁蔡奇丁薛祥李希韩正出席 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月30日晚，庆祝中华人民共和国成立77周年招待会在北京人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  谢环驰摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/c294701e-51f5-47e6-a52f-107fa4139e17.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月30日晚，庆祝中华人民共和国成立77周年招待会在北京人民大会堂举行。习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等党和国家领导人与中外人士欢聚一堂，共庆中华人民共和国华诞。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  燕  雁摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/9fa91d97-a45b-4aca-9aeb-8ad0b071b06f.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报北京9月30日电  庆祝中华人民共和国成立77周年招待会30日晚在人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。（讲话全文见第二版）他强调，经过长期探索和实践，中国特色社会主义制度展现出巨大优势，我国国家治理体系和治理能力现代化水平不断提高，实现中华民族伟大复兴势不可挡。只要我们坚定信心、锚定目标，一步一步扎实往前走，成功就一定属于伟大的中国共产党、伟大的中国人民、伟大的中华人民共和国。&lt;/p&gt;&lt;p&gt;　　李强主持招待会，赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正出席招待会。约800名中外人士欢聚一堂，共庆中华人民共和国华诞。&lt;/p&gt;&lt;p&gt;　　人民大会堂宴会厅华灯璀璨，洋溢着喜庆热烈的节日氛围。主席台上方高悬着庄严的国徽，“1949—2026”大字年号在鲜艳红旗映衬下格外醒目。&lt;/p&gt;&lt;p&gt;　　17时30分许，在欢快的《迎宾曲》中，习近平等党和国家领导人步入宴会厅，全场响起热烈掌声。&lt;/p&gt;&lt;p&gt;　　招待会开始。全场起立，高唱中华人民共和国国歌，雄壮的《义勇军进行曲》在大厅回荡。&lt;/p&gt;&lt;p&gt;　　习近平发表重要讲话。他首先代表党中央和国务院，向全国各族人民、向中国人民解放军指战员和武警部队官兵、向各民主党派和无党派人士致以节日祝贺，向香港特别行政区同胞、澳门特别行政区同胞、台湾同胞和海外侨胞致以诚挚问候，向长期以来关心支持中国建设事业的友好国家和国际友人致以衷心感谢。&lt;/p&gt;&lt;p&gt;　　习近平指出，77年来，我们党团结带领人民不懈奋斗，创造了经济快速发展和社会长期稳定两大奇迹，实现了全面建成小康社会的第一个百年奋斗目标，正朝着全面建成社会主义现代化强国的第二个百年奋斗目标奋勇前进。此时此刻，我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。&lt;/p&gt;&lt;p&gt;　　习近平强调，今年以来，全党全国上下锐意进取、奋力拼搏，编制实施“十五五”规划，扎实推进各方面工作，我国经济顶压前行、向新向优、展现出强大韧性和活力，党和国家事业取得新进展新成效。我们要坚持稳中求进工作总基调，完整准确全面贯彻新发展理念，加快构建新发展格局，进一步深化改革开放，更好统筹发展和安全，推动经济持续向新向优向好发展，切实保障和改善民生，努力完成全年目标任务，实现“十五五”良好开局。&lt;/p&gt;&lt;p&gt;　　习近平指出，我们要坚定不移贯彻“一国两制”、“港人治港”、“澳人治澳”、高度自治方针，支持香港、澳门更好融入和服务国家发展大局，保持长期繁荣稳定。要深化两岸交流合作，坚决打击“台独”分裂势力，反对外部势力干涉，推动两岸关系和平发展，推进祖国统一大业。&lt;/p&gt;&lt;p&gt;　　习近平强调，我们要坚持独立自主的和平外交政策，推动落实四大全球倡议，推动构建人类命运共同体，为变乱交织的世界注入更多确定性和正能量。&lt;/p&gt;&lt;p&gt;　　在欢快的乐曲声中，中外宾朋举杯共贺中华人民共和国成立77周年，祝福中国繁荣昌盛、人民幸福安康，祝愿中国人民和世界各国人民友谊长存。&lt;/p&gt;&lt;p&gt;　　出席招待会的还有：在京中共中央政治局委员、中央书记处书记、中央军委副主席、全国人大常委会副委员长、国务院副总理、国务委员、国家监察委员会主任、最高人民法院院长、最高人民检察院检察长、全国政协副主席和从领导职务上退下来的同志，以及曾担任中央军委委员的同志。&lt;/p&gt;&lt;p&gt;　　中央党政军群有关部门和北京市负责人，各民主党派中央、全国工商联负责人和无党派人士代表，在京功勋荣誉表彰奖励获得者代表，全国劳动模范和先进人物代表，为民族地区稳定、发展、团结作出重要贡献的少数民族代表人士，在京部分香港特别行政区人士、澳门特别行政区人士、台湾同胞和华侨、华人代表，各国驻华使节、各国际组织驻华代表、部分外国专家等也出席了招待会。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 习近平发表重要讲话&lt;/p&gt;&lt;p&gt;李强主持  赵乐际王沪宁蔡奇丁薛祥李希韩正出席 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184030&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184030.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184030.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 庆祝中华人民共和国成立77周年招待会在京举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184030.html#[02版：要闻] 庆祝中华人民共和国成立77周年招待会在京举行</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184031.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正出席 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月30日上午，党和国家领导人习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等来到北京天安门广场，出席烈士纪念日向人民英雄敬献花篮仪式。这是习近平整理花篮上的缎带。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  谢环驰摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/f34b43e3-39ac-41df-bd0e-efea26ae5606.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月30日上午，党和国家领导人习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等来到北京天安门广场，出席烈士纪念日向人民英雄敬献花篮仪式。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  谢环驰摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/c0bd4df9-b402-4b46-b56d-e823ee8bf2a9.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报北京9月30日电  致敬英烈荣光，凝聚复兴伟力。烈士纪念日向人民英雄敬献花篮仪式30日上午在北京天安门广场隆重举行。党和国家领导人习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等，同各界代表一起出席仪式。&lt;/p&gt;&lt;p&gt;　　庄严的天安门广场上，鲜艳的五星红旗迎风飘扬，人民英雄纪念碑巍然耸立。广场中央，“祝福祖国”巨型花篮表达着对祖国繁荣昌盛的美好祝愿。纪念碑北侧，两组花坛上白菊等鲜花组成的18个花环，寄托着全体中华儿女对英烈的深情追思。&lt;/p&gt;&lt;p&gt;　　临近10时，习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等党和国家领导人来到天安门广场，出席向人民英雄敬献花篮仪式。&lt;/p&gt;&lt;p&gt;　　中国人民解放军军乐团小号手吹响《烈士纪念日号角》，深沉悠远的号声激荡人心。&lt;/p&gt;&lt;p&gt;　　“礼兵就位！”随着号令，三军仪仗兵迈着铿锵有力的步伐，正步行进到纪念碑前持枪伫立。&lt;/p&gt;&lt;p&gt;　　10时整，向人民英雄敬献花篮仪式正式开始。军乐团奏响《义勇军进行曲》，全场齐声高唱中华人民共和国国歌。&lt;/p&gt;&lt;p&gt;　　国歌唱毕，全场肃立，向为中国人民解放事业和共和国建设事业英勇献身的烈士默哀。&lt;/p&gt;&lt;p&gt;　　默哀毕，手持鲜花的少年儿童面向人民英雄纪念碑高唱《我们是共产主义接班人》，并致少年先锋队队礼。&lt;/p&gt;&lt;p&gt;　　方阵前，以中共中央，全国人大常委会，国务院，全国政协，中央军委，各民主党派、全国工商联和无党派爱国人士，各人民团体和各界群众，老战士、老同志和烈士亲属，中国少年先锋队名义敬献的9个大型花篮一字排开，花篮红色缎带上书写的“人民英雄永垂不朽”格外醒目。&lt;/p&gt;&lt;p&gt;　　军乐团奏响深情的《献花曲》，18名礼兵抬起花篮，缓步走向人民英雄纪念碑，将花篮摆放在纪念碑基座上。&lt;/p&gt;&lt;p&gt;　　习近平等党和国家领导人登上纪念碑基座，在花篮前驻足凝视。鲜艳挺拔的红掌、芬芳吐蕊的百合、轻盈绽放的文心兰，寄托着对人民英雄的深切缅怀和崇高敬意。&lt;/p&gt;&lt;p&gt;　　习近平迈步上前，仔细整理花篮缎带。随后，习近平等党和国家领导人缓步绕行，瞻仰人民英雄纪念碑。&lt;/p&gt;&lt;p&gt;　　今年是中国共产党成立105周年、中国工农红军长征胜利90周年。走在新时代的长征路上，在以习近平同志为核心的党中央坚强领导下，全党全军全国各族人民传承弘扬伟大建党精神、伟大长征精神，正壮志满怀、团结一心，为以中国式现代化全面推进强国建设、民族复兴伟业而不懈奋斗。&lt;/p&gt;&lt;p&gt;　　少年儿童和各界代表也依次走到纪念碑前，献上鲜花并瞻仰纪念碑。&lt;/p&gt;&lt;p&gt;　　敬献花篮仪式由中共中央政治局委员、北京市委书记尹力主持。&lt;/p&gt;&lt;p&gt;　　在京中共中央政治局委员、中央书记处书记，中央军委副主席，部分全国人大常委会副委员长，国务委员，最高人民法院院长，最高人民检察院检察长，部分全国政协副主席出席仪式。&lt;/p&gt;&lt;p&gt;　　中央党政军群有关部门和北京市主要负责同志，各民主党派中央、全国工商联负责人和无党派人士代表，在京老战士、老同志和烈士亲属代表，在京功勋荣誉表彰奖励获得者代表，全国少数民族参观团成员，首都各界群众代表等参加仪式。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正出席 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184031&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184031.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184031.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184031.html#[02版：要闻] 烈士纪念日向人民英雄敬献花篮仪式在京隆重举行</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “一位大国领导人的远见与格局”（大道之行）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184032.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “一位大国领导人的远见与格局”（大道之行） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  黄培昭&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“‘面对变乱交织的世界形势，中国和非洲比以往任何时候更要加强团结合作。’每每读到习近平主席给非洲学者复信中的这句话时，我心中总是充满激动。”坦桑尼亚达累斯萨拉姆大学中国研究中心主任汉弗莱·莫希日前在接受记者采访时表示，中国始终以自身发展为世界各国创造机遇，“一个坚持和平发展，不断深化改革、扩大开放的中国，是广大发展中国家的信心来源。”&lt;/p&gt;&lt;p&gt;　　2024年8月27日，习近平主席复信非洲50国学者，鼓励他们继续为构建高水平中非命运共同体、维护“全球南方”共同利益提供智力支持。作为联名致信的学者之一，莫希对这封复信的分量有着深刻体会。&lt;/p&gt;&lt;p&gt;　　“这不仅是一封给非洲学者的复信，更是一份沉甸甸的嘱托，坚定了我继续做好与中国相关研究工作的信心。”莫希表示，复信既是对非洲学者的鼓励，更体现了习近平主席对非中关系发展和非中智库交流合作的高度重视。“习近平主席始终从历史大势和人类前途出发看待非中关系。习近平主席的重要论述让我更加坚信，非中合作拥有坚实的基础和广阔的发展空间。”&lt;/p&gt;&lt;p&gt;　　莫希长期关注中国减贫实践。过去20年，他多次访问中国。从西部山区到沿海城市，他看到了不少中国曾经贫困的地区焕发新生。“道路通了，产业兴了，教育和医疗条件显著改善，更重要的是，人的精神面貌焕然一新。”莫希说，“习近平主席提出扶贫先扶志，中国解放思想、更新观念，因地制宜发展经济。中国用几十年时间，走完了西方国家几百年才走完的发展历程，同步实现数亿人脱贫，创造了世界减贫史上的奇迹。”&lt;/p&gt;&lt;p&gt;　　习近平主席在《摆脱贫困》一书中系统阐释了中国贫困地区通过转变思想观念、创新治理措施、强化领导力建设等实现脱贫致富的宝贵经验，莫希认为其中的发展智慧对非洲国家极具借鉴意义。“在非洲，许多地区的贫困不仅仅是经济问题，更是思想观念的问题。许多人认为贫困是命运使然。中国经验却告诉我们：贫困是可以战胜的，关键是要激发人的内生动力。”&lt;/p&gt;&lt;p&gt;　　莫希认为，非洲国家应该学习中国破除贫困意识的桎梏、善用资源、加强群众动员等做法，结合自身实际制定脱贫政策，“贫困可以通过制度设计、科学规划和人民奋斗等来改变。”&lt;/p&gt;&lt;p&gt;　　“中国以真诚态度伸出援手，助力非洲摆脱贫困，用实际行动践行共同发展的理念。”莫希表示，习近平主席对非洲始终怀有深厚感情。从推动中非合作论坛机制不断完善，到提出真实亲诚对非政策理念和正确义利观，再到宣布将中非关系整体定位提升至新时代全天候中非命运共同体，中国始终坚定支持非洲实现发展振兴。“习近平主席多次强调支持非洲工业化和农业现代化进程，支持非洲提高自主发展能力。这体现了一位大国领导人的远见与格局。”莫希说。&lt;/p&gt;&lt;p&gt;　　在复信中，习近平主席期待学者们在“中非达累斯萨拉姆共识”基础上，加大对“全球南方”国家发展道路、中非和南南合作的研究探索，继续为构建高水平中非命运共同体、维护“全球南方”共同利益提供重要智力支持。莫希认为，这体现了习近平主席对思想力量的高度重视，“习近平主席将学者视为推动非中关系发展的重要力量，这给予我们极大信心。智库交流不仅是学术合作，更是民心相通的重要桥梁”。&lt;/p&gt;&lt;p&gt;　　谈及非洲与中国的合作，莫希认为，高质量共建“一带一路”为非洲基础设施建设、农业技术提升和能源转型带来新机遇。“中国坚持平等互利原则，不附加任何政治条件，帮助非洲增强自主发展能力。这种合作方式赢得了非洲人民的尊重。”他以清洁能源合作举例说，中国企业近年来参与了多个非洲清洁能源项目，涵盖水电、光伏和电网升级等领域。中企承建的朱利叶斯·尼雷尔水电站装机容量2115兆瓦，将显著提升坦桑尼亚电力供应水平。&lt;/p&gt;&lt;p&gt;　　“习近平主席提出的构建人类命运共同体理念，塑造了国与国相处的崭新范式，指明人类社会发展方向。”莫希说，构建人类命运共同体以推动构建相互尊重、公平正义、合作共赢的新型国际关系为基本支撑，强调国家不分大小、强弱、贫富都是国际社会的平等一员。“在构建人类命运共同体理念下，非中关系不断迈上新台阶。我们有理由相信，在相互尊重、平等合作的基础上，非中一定能够共同书写更加壮丽的发展篇章。” &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  黄培昭&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184032&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184032.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184032.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “一位大国领导人的远见与格局”（大道之行） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184032.html#[03版：要闻] “一位大国领导人的远见与格局”（大道之行）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中国式现代化的生动实践拓展了现代化的实现路径（国际论坛）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184033.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国式现代化的生动实践拓展了现代化的实现路径（国际论坛） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							埃尔辛·埃尔钦&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/190abff9-3f37-45b6-836d-eb67bdaa3e87.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　植根深厚历史底蕴与文明根基，中国成功走出中国式现代化道路，创造人类发展史上的伟大奇迹&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　读懂今日之中国，既要看到实实在在的发展成果，更要深入把握中国的治理实践与外交主张。作为世界第二大经济体，中国在经济、科技领域取得举世瞩目的发展成就，在国际事务中发挥着日益重要的建设性作用。&lt;/p&gt;&lt;p&gt;　　《习近平谈治国理政》第五卷为国际社会理解中国发展打开重要窗口。中国式现代化是这部著作的重要关键词，相关阐释蕴含中国对自身发展道路的深入思考。植根深厚历史底蕴与文明根基，中国成功走出中国式现代化道路，创造人类发展史上的伟大奇迹：近1亿农村贫困人口实现脱贫，先进制造业、数字经济、现代化交通网络加快发展，科研投入持续增长。中国式现代化的生动实践拓展了现代化的实现路径，有力印证一个道理：现代化不等于西方化，各国完全可以立足本国国情，探索适合自身的发展道路。&lt;/p&gt;&lt;p&gt;　　《习近平谈治国理政》第五卷不仅系统阐释中国治国理政方略，也是理解国际格局变迁的重要文献，书中长远战略眼光、统筹全球议题的思维，值得国际关系研究者认真思考。《习近平谈治国理政》第五卷全面阐述习近平主席提出的构建人类命运共同体理念。当今世界各国相互依存不断加深，树立共担全球责任的意识，既是重要理念倡导，更是顺应时代潮流的现实选择。构建人类命运共同体，正是中国给出的时代答案。全球发展倡议、全球安全倡议、全球文明倡议聚焦发展、安全、文明领域全球性课题，相互支撑、有机联动，共同构成推动构建人类命运共同体的战略引领，是中国参与完善全球治理体系的重要思想成果。&lt;/p&gt;&lt;p&gt;　　《论语》有言：“君子和而不同”。国与国交往亦是同理。土中两国政治体制、文化传统、历史境遇存在差异，但这从未阻碍双方合作，反而在相互尊重的基础上转化为互学互鉴、协同发展的动力。自1971年建交以来，两国高层交往持续密切，政治互信不断巩固，经贸合作稳步拓展。中国是土耳其主要贸易伙伴之一，共建“一带一路”倡议同土耳其“中间走廊”计划拥有广阔对接空间，不仅能够持续扩大双边经贸合作规模、提升合作质量，更为推进欧亚大陆互联互通注入动能。面向未来，双方经贸合作可从传统领域持续拓展至人工智能、新能源汽车、数字经济、先进制造等方向，深化高水平产业协同与科技创新合作。中国在诸多前沿领域形成领先优势，土耳其拥有工程人才储备、完备工业基础、活跃创新生态以及辐射欧洲市场的区位条件，双方深化协作前景广阔。&lt;/p&gt;&lt;p&gt;　　当前，世界正经历百年未有之大变局，进入新的动荡变革期。国际格局深刻调整，产业生产模式持续演进，气候变化、能源安全、人工智能治理等全球性挑战层出不穷，任何国家都难以独善其身。坚持真正的多边主义、完善全球治理，是世界各国人民的普遍期待，需要各方凝聚共识、携手行动，合力推动全球治理体系改革完善。土耳其广泛参与各类国际机制，持续在区域和全球事务中发挥建设性作用。中国是国际体系重要参与者，在全球治理中的影响力稳步提升。两国在践行多边主义方面理念相通，在全球治理议程上拥有巨大合作空间。&lt;/p&gt;&lt;p&gt;　　古丝绸之路将土中两大古老文明紧密联结，积淀绵延千年的友好情谊。肩负促进人类发展的时代重任，两国持续深化交往，打造欧亚和平联通、增进文明互鉴的合作样板，携手为构建更加包容、稳定的国际秩序贡献力量。&lt;/p&gt;&lt;p&gt;　　（作者为土耳其新世界研究中心副主席、土中友好基金会副主席） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;埃尔辛·埃尔钦&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184033&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184033.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184033.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国式现代化的生动实践拓展了现代化的实现路径（国际论坛） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184033.html#[03版：要闻] 中国式现代化的生动实践拓展了现代化的实现路径（国际论坛）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中国政府友谊奖颁奖仪式在北京举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184034.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国政府友谊奖颁奖仪式在北京举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 谌贻琴出席并讲话 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京9月30日电  （记者王慧慧）2026年度中国政府友谊奖颁奖仪式30日在人民大会堂隆重举行，国务委员谌贻琴向获奖外国专家颁奖并讲话。&lt;/p&gt;&lt;p&gt;　　谌贻琴首先代表中国政府，向获奖外国专家表示热烈祝贺，向所有外国专家和家属致以诚挚问候和衷心感谢。&lt;/p&gt;&lt;p&gt;　　谌贻琴指出，今年是中国共产党成立105周年，也是中国“十五五”开局之年。在以习近平同志为核心的中共中央坚强领导下，中国经济向新向优发展，为世界注入难能可贵的确定性。广大外国专家在推动中国经济社会发展、促进中外友好交流合作方面发挥着重要作用。&lt;/p&gt;&lt;p&gt;　　谌贻琴表示，“十五五”时期是中国基本实现社会主义现代化的关键时期。希望更多外国专家与中国人民携手奋进，在中国式现代化的广阔舞台上共创美好未来，在新一轮科技革命和产业变革的历史机遇中共攀科学高峰，在构建人类命运共同体的光辉旗帜下共谋人类福祉。中国将为外国人才长期稳定在华发展提供坚实保障。&lt;/p&gt;&lt;p&gt;　　人力资源社会保障部部长王晓萍宣读了授奖决定。2026年度共有50名外国专家获中国政府友谊奖。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 谌贻琴出席并讲话 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184034&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184034.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184034.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国政府友谊奖颁奖仪式在北京举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184034.html#[03版：要闻] 中国政府友谊奖颁奖仪式在北京举行</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “激励更多青年投身技能事业”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184035.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 第四十八届世界技能大赛赢得国际人士广泛赞誉—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “激励更多青年投身技能事业” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　第四十八届世界技能大赛（以下简称“世赛”）日前在上海落下帷幕。来自68个国家和地区的1385名青年选手以精湛技艺诠释“技能改变世界  技能照亮前程”主题，将巧手匠心化作推动全球技能运动发展的动力。接受记者采访的国际组织代表、外国职业教育专家、外国观众和志愿者等表示，中国不仅办了一届精彩的大赛，更把职业教育与培训摆到了全球发展的重要位置。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“全世界一同见证这场了不起的技能盛会”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　本届世赛采用“一赛两会”办赛模式。赛场外，世界技能大会、世界技能博览会、“一校一队”等丰富的交流互动活动给外宾留下深刻印象。&lt;/p&gt;&lt;p&gt;　　世界技能大会上，技能是大家共同关心的话题。世界技能组织主席乌汉说：“世界技能大会很有成效，许多新颖的观点在这里碰撞。”在有关人工智能对未来劳动力市场的影响的专场讨论中，阿联酋前世赛选手娜尔敏·阿尔马祖齐表示，人工智能无法替代人类的批判性思维、应变能力和情感社交等“软技能”。&lt;/p&gt;&lt;p&gt;　　世界技能博览会现场，机器人打太极行云流水，老师傅展示古籍修复技艺，山西榫卯结构古建模型、江西瓷器、黑龙江冰雕、重庆机车、福建寿山石吸引不少外宾驻足……上海展台的精美旗袍，让首次来中国的澳大利亚姑娘路易莎不停赞叹：“在这里，我看到来自世界各地的技艺，可以和不同国家的人交流。”来自纳米比亚的豪希库更关注中国发达的信息通信技术与设备，希望将其引进纳米比亚。&lt;/p&gt;&lt;p&gt;　　本届世赛的志愿者李光荣来自老挝，是上海应用技术大学管理学部留学生。“我在世赛现场看到，虽然大家的文化、语言各不相同，但对技能的热爱、对梦想的追求是相通的。这次志愿服务经历让我坚信，技能既能点亮个人未来，也能搭建跨国交流的桥梁。”李光荣说。&lt;/p&gt;&lt;p&gt;　　“一校一队”活动把跨国交流带进课堂。一走进上海科创职业技术学院的产教融合展示馆，曾获得第四十七届世赛工业4.0项目优胜奖、来自奥地利的努里特一眼就看到工业4.0项目的赛事装备。“在我身边，工业4.0项目的从业者并不多，平时的交流探讨十分有限。我很好奇中国的学校是怎样开展技能训练的。各国选手亮出‘独门秘籍’，让全世界一同见证这场了不起的技能盛会。”努里特说。&lt;/p&gt;&lt;p&gt;　　乌汉说，本届世赛堪称有史以来最好的一届，“期待中国办赛经验能够为其他国家提供借鉴。各国可运用世赛职业标准，推动本国职业教育提质升级，激励更多青年投身技能事业”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“主动同各国分享发展经验，助力他国共同进步”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　1950年的首届世赛仅有6个赛项，本届世赛共有多达64个赛项，新增智慧安防技术、轨道车辆技术、无人机系统、软件测试、数字交互媒体设计、口腔修复工艺技术和零售共7项。根据行业实际发展情况，世赛每年都会调整赛项设置，尽管也保留了传统项目，它们的“内核”早已不同。&lt;/p&gt;&lt;p&gt;　　自2010年加入世界技能组织以来，中国已参加8届世赛，连续5届位居金牌榜、团体总分世界第一。本届比赛中，中国选手何晓嫚凭借在轨道车辆技术项目中的优异表现拿到全场最高分，获得阿尔伯特·维达大奖。和她一样优秀的一批批青年，通过学习技能、参加大赛，实现成长成才、人生出彩，引领带动中国技能人才队伍规模扩大、结构优化、素质提升。从标准制定、证书互认，到中心共建、校园结对，中国的世赛实践为世界技能运动发展提供经验，让更多国家相信，技能可以改变青年命运、照亮世界前程。&lt;/p&gt;&lt;p&gt;　　世界技能组织前标准和评测顾问珍妮·夏克顿先后10余次来华，深入走访中国技能人才培养一线。她说，中国主动对接国际专家开展合作，持续加大配套资源投入，在世赛对外交流中收获良好国际口碑，搭建起稳固的国际技能合作网络。这些实践经验能够帮助世界技能组织的其他成员拓宽技能人才培养视野，推动全球技能运动发展。&lt;/p&gt;&lt;p&gt;　　2026年世界技能大会上海技能发展主题平行会上发布《上海市国（境）外职业技能比照认定目录》，纳入英国、德国、比利时7家机构16本证书，覆盖养老护理、焊工、西式烹饪、智能楼宇等9个工种，境外技能人才在沪满足条件可直接换发对应的中国职业技能等级证，不必重复考试。&lt;/p&gt;&lt;p&gt;　　上海工程技术大学等9所上海职业院校与澳大利亚联邦大学等9所国际职业院校分别签约结对，聚焦人工智能、健康照护、养老护理、创意艺术建立常态化合作；人力资源和社会保障部、上海市政府与世界技能组织签署合作意向书，世界技能创新中心将落地上海，计划建设面向全球的技能标准与创新的转化平台。&lt;/p&gt;&lt;p&gt;　　世界技能组织首席执行官大卫·霍伊认为，中国深度参与世赛，既提升了赛事的全球影响力，也有力印证国际技能赛事能够有效赋能各国技能人才体系建设，“中国主动同各国分享发展经验，助力他国共同进步，展现出负责任大国担当”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“中国鲜活的教育实践经验弥足珍贵”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　很多外宾因世赛第一次踏上中国的土地。近一周的实地观察，一点点丰富着他们对中国职业技能教育培训的印象：赛场里，志愿者用多种语言熟练指路，不少场地经理由往届金牌选手担任；“一试身手”技能体验站前观众排起长队……&lt;/p&gt;&lt;p&gt;　　巴西此次派出209人、71名选手的史上最大代表团，参加全部64个竞赛项目。世赛期间，巴西里约热内卢商业教育学院、巴西马托格罗索州工业联合会等机构代表走进位于上海市杨浦区的巴西中心，与上海职业院校围绕产教融合、技能人才培养、世赛标准融入教学等议题深入交流。&lt;/p&gt;&lt;p&gt;　　巴西国家工业技能培训服务中心职业教育与高等教育主管卡洛斯·布拉吉尼表示，希望借世赛了解中国职业教育与文化、汲取人才培养经验。巴西马托格罗索州在上海的巴西中心设立办公室，双方正依托这一平台，探讨青年技能交流、职教培训与产业合作新路径，技能正成为巴中合作的新纽带。&lt;/p&gt;&lt;p&gt;　　法国劳动和团结部兼国民教育部职业教育、培训和学徒事务部长级代表萨布丽娜·鲁巴什访问了上海市曹杨职业技术学校。该校和法国马赛旅馆学校合作30多年，一批批学生实现互访。鲁巴什说，双方从分享一门技艺起步，共同塑造了一段段难忘的旅程。法方相信，职业教育是通往卓越的道路之一，“上海让我看到，新技术不断涌现，但严谨、传承、务实的初心没变”。&lt;/p&gt;&lt;p&gt;　　经济合作与发展组织教育与技能司司长安德烈亚斯·施莱歇尔说：“中国认真研究技能竞赛的评价指标与评判规则，并在全国落地推行，培育大批优秀人才，在全球技能赛事中大放异彩。世赛带来的发展红利有目共睹，大规模锻造高技能人才将显著提升职业教育的社会认可度。对于广大全球南方国家而言，中国鲜活的教育实践经验弥足珍贵，值得借鉴。”&lt;/p&gt;&lt;p&gt;　　（本报记者黄晓慧、崔寅、季觉苏、曹玲娟，人民网记者唐小丽、马作鹏参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 第四十八届世界技能大赛赢得国际人士广泛赞誉—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184035&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184035.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184035.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “激励更多青年投身技能事业” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184035.html#[03版：要闻] “激励更多青年投身技能事业”</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 深化多边合作  推动可持续基础设施发展</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184036.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 亚洲基础设施投资银行第十一届理事会年会举行—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 深化多边合作  推动可持续基础设施发展 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王旭琛&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　9月28日至29日，亚洲基础设施投资银行第十一届理事会年会在卡塔尔首都多哈举行。这是亚投行进入第二个十年发展历程后举办的首次理事会年会。围绕“面向未来的基础设施：影响与创新”主题，亚投行各成员理事、政府高级官员、合作伙伴及相关机构代表等共商基础设施与可持续发展等合作议程。&lt;/p&gt;&lt;p&gt;　　亚投行行长邹加怡在开幕致辞中表示，自2016年正式运营至今，亚投行已发展成为广受信赖、成果丰硕的国际多边合作平台。下一阶段，亚投行将坚持守正创新，重点支持气候韧性、可再生能源、数字化转型、区域互联互通、自然保护和民生福祉等领域的基础设施项目。&lt;/p&gt;&lt;p&gt;　　据介绍，今年亚投行在拓展投资范围、创新融资方式等方面已取得诸多新进展：批准首个南非项目，支持其改善城市供水、供电等公共服务；与亚洲开发银行共同担保，支持巴基斯坦发行首只主权熊猫债，拓宽可持续基础设施建设的融资渠道；批准设立应对能源与粮食危机的“特别基金”，在这一基金框架下帮助孟加拉国、斐济增强财政韧性……&lt;/p&gt;&lt;p&gt;　　卡塔尔财政大臣、亚投行本届理事会主席阿里·本·艾哈迈德·库瓦里表示，卡塔尔高度赞赏亚投行在支持基础设施融资、促进成员跨境互联互通方面所作出的贡献。他强调，当今世界面临诸多挑战，持续投资基础设施和开展务实的多边合作对于支持增长、增强韧性和实现共同繁荣至关重要。&lt;/p&gt;&lt;p&gt;　　埃及财政部部长、亚投行埃及理事艾哈迈德·库舒克对与亚投行的合作前景十分看好。他表示，在埃及推动可再生能源发展的进程中，多边合作发挥了重要作用，“多边开发银行扮演了催化剂的角色，促进投资者和其他参与方合作”，最终共同推动项目成熟落地。&lt;/p&gt;&lt;p&gt;　　塔吉克斯坦国家投资和国有资产管理委员会主席、亚投行本届理事会副主席苏尔通·拉希姆佐达表示，亚投行在能源和交通领域的融资为塔吉克斯坦带来了切实成果。对发展中国家而言，加强区域互联互通有助于将地理局限转化为经济机遇。他期待亚投行在下一个十年继续推动绿色转型、调动投资，推动基础设施建设更好地联结民众与发展机遇。&lt;/p&gt;&lt;p&gt;　　“在全球不确定性上升的背景下，基础设施仍是促进发展、增强韧性和创造机遇的重要支撑。”邹加怡表示，亚投行将继续秉持多边主义精神和合作共赢理念，与成员和发展伙伴合作，加强项目准备、丰富融资工具，支持更多项目落地，支持成员实现可持续发展。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王旭琛&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 亚洲基础设施投资银行第十一届理事会年会举行—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184036&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184036.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184036.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 深化多边合作  推动可持续基础设施发展 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184036.html#[03版：要闻] 深化多边合作  推动可持续基础设施发展</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 2026全球南方现代化论坛在埃及开罗举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184037.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 2026全球南方现代化论坛在埃及开罗举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报开罗9月30日电  （记者焦翔、沈小晓）9月30日，2026全球南方现代化论坛在埃及开罗举行，本次论坛主题是“人工智能浪潮：全球南方现代化的机遇与挑战”。&lt;/p&gt;&lt;p&gt;　　中外嘉宾认为，人工智能技术创新蕴含巨大机遇，也面临治理挑战。习近平主席在金砖国家领导人第十八次会晤上提出人工智能赋能新型工业化、人工智能开源普惠等重要倡议，阐明了人工智能向上向善发展方向。全球南方现代化正处在破解发展约束、补齐能力短板、转换发展动能的重要阶段，需要善用人工智能持续增强发展内生动力。&lt;/p&gt;&lt;p&gt;　　中外嘉宾表示，人工智能是全人类共同财富。全球南方国家要抓住难得的历史性机遇，推动人工智能赋能千行百业、改善民生福祉。要完善人工智能全球治理，践行真正的多边主义，弥合智能鸿沟，推动发展与安全良性互动。要促进人工智能交流互鉴，坚持开源开放、合作共享，深化理论和实践研究，让人工智能更好造福人类社会。&lt;/p&gt;&lt;p&gt;　　论坛由国务院新闻办公室、中央党校（国家行政学院）、中国社科院、北京大学、中国人民大学、开罗大学共同主办。论坛设有4个平行论坛，会上发布了《南方崛起——全球南方现代化学术研究图谱》、“全球南方现代化研究十大热词·2026”，来自近30个国家和地区的100余名专家学者与会。论坛举办前后，还配套举办学术展览、青年交流和智库研讨活动。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184037&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184037.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184037.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 2026全球南方现代化论坛在埃及开罗举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184037.html#[03版：要闻] 2026全球南方现代化论坛在埃及开罗举行</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中国代表近80国呼吁以全球治理倡议为引领校正国际人权治理</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184038.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国代表近80国呼吁以全球治理倡议为引领校正国际人权治理 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报柏林9月30日电  （记者刘赫）日内瓦消息：中国常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德9月30日在联合国人权理事会第六十三届会议代表近80国作校正国际人权治理共同发言，呼吁以全球治理倡议为引领，共建公正合理包容的全球人权治理体系。&lt;/p&gt;&lt;p&gt;　　贾桂德指出，当今国际形势变乱交织，全球人权治理面临深刻调整。中方提出四点主张：一是坚持以人为本，由各国人民来判断和改善本国人权，以满足人民需求，守护人权治理初心；二是奉行主权平等，坚持各国平等参与、决策、受益，更多倾听全球南方的呼声，倡导公正、客观、非选择性、非政治化原则，在相互尊重基础上对话合作；三是坚守公道正义，反对将人权政治化、工具化，统筹兼顾各类人权，稳妥推进人权领域改革，支持人权机构和人权专家客观公正履职；四是遵守国际法治，维护联合国宪章宗旨和原则，确保国际法和国际规则平等统一适用，反对双重标准，反对借人权问题干涉别国内政，反对将自身标准强加于人。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184038&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184038.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184038.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国代表近80国呼吁以全球治理倡议为引领校正国际人权治理 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184038.html#[03版：要闻] 中国代表近80国呼吁以全球治理倡议为引领校正国际人权治理</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中国出版代表团亮相第四十六届印尼国际书展</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184039.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国出版代表团亮相第四十六届印尼国际书展 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报雅加达9月30日电  （记者曹师韵）9月30日，第四十六届印尼国际书展在雅加达国际会展中心开幕。中国出版展区集中展示精品图书及出版成果，并开展多场出版文化交流活动，吸引众多印尼读者和出版界人士前来参观交流。&lt;/p&gt;&lt;p&gt;　　此次中国出版代表团汇集外文出版社、新华出版社、中央编译出版社、中国传媒大学出版社、北京大学出版社、清华大学出版社等20余家出版机构，共展出1000多册精品图书，涵盖传统文化、人文社科、语言学习、学术科技、少儿读物、当代文学、思想理论等多个领域。书展期间，中国出版代表团将开展行业研讨、版权对接、人文交流、市场调研等多项活动，与印尼出版机构、高校等就版权合作、翻译出版和出版业创新发展深入交流。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184039&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184039.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184039.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国出版代表团亮相第四十六届印尼国际书展 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184039.html#[03版：要闻] 中国出版代表团亮相第四十六届印尼国际书展</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 发展体育赛事激发消费活力</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184040.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 国办印发意见 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 发展体育赛事激发消费活力 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京9月30日电  国务院办公厅日前印发《关于发展体育赛事激发消费活力的意见》（以下简称《意见》），对推动体育赛事发展，激发消费活力，培育经济增长新动能作出部署。&lt;/p&gt;&lt;p&gt;　　《意见》强调，要坚持以习近平新时代中国特色社会主义思想为指导，坚持以满足人民群众多元化生活需求、增进人民福祉为出发点，推动体育赛事品牌化、融合化、市场化发展，丰富优质赛事供给，在扩大内需、提振消费等方面发挥积极作用。&lt;/p&gt;&lt;p&gt;　　《意见》提出，到2030年，基本形成具有中国特色的现代化赛事体系，培育一批具有世界影响力的体育赛事，产业协同能力显著提升，赛事消费活力有效激发，为经济社会高质量发展提供有力支撑。&lt;/p&gt;&lt;p&gt;　　《意见》部署了5个方面17项主要任务。一是强化赛事活动供给。丰富竞技体育赛事活动，提高职业赛事发展水平，支持业余赛事活动发展，促进赛事国际交流合作。二是深化赛事融合发展。深挖赛事与文旅融合潜力，推动赛事与商务协同发展，促进赛事与科技创新融合。三是激发赛事消费活力。拓展赛事消费场景，提升赛事消费体验。四是夯实赛事发展基础。培育一批市场竞争力强、专业化程度高的赛事运营主体，完善场地设施，加强人才培养，强化办赛指南、参赛指引等标准研制及实施应用。五是提高管理保障能力。优化服务管理，依法合理有序推动山林、道路等公共资源进一步向体育赛事开放，加强赛事治理，强化安全保障。&lt;/p&gt;&lt;p&gt;　　《意见》要求，各地区、各有关部门要强化协同配合，共同促进体育赛事发展，激发消费活力。体育总局要会同有关部门强化统筹谋划，推动各项任务落实落细。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 国办印发意见 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184040&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184040.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184040.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 发展体育赛事激发消费活力 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184040.html#[04版：要闻] 发展体育赛事激发消费活力</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 现代化水网建设加快推进（权威发布·开局起步“十五五”）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184041.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 力争到“十五五”末，国家水网覆盖范围占国土面积82％ &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 现代化水网建设加快推进（权威发布·开局起步“十五五”） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王  浩&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　9月30日国务院新闻办举行“开局起步‘十五五’”系列主题新闻发布会，介绍加快建设现代化水网有关情况。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　今年前9月完成水利建设投资7950亿元&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　国家水网是以自然河湖为基础、引调排水工程为通道、调蓄工程为结点、智慧调控为手段，集水资源优化配置、流域防洪减灾、水生态系统保护等功能于一体的综合体系。&lt;/p&gt;&lt;p&gt;　　水利部部长李国英介绍，“十五五”时期，水利部加快构建国家水网之“纲”，织密国家水网之“目”，打牢国家水网之“结”，充分发挥超大规模水网工程体系优势和网络功效。力争到“十五五”末，国家水网覆盖范围占国土面积的比例达到82％。&lt;/p&gt;&lt;p&gt;　　具体看，水利部加快构建流域防洪减灾体系，力争到“十五五”末，新增水库库容150亿立方米，重要堤防达标率达到91％；加快构建水资源优化配置和供水保障体系，力争到“十五五”末，新增耕地灌溉面积4000万亩；加快构建水生态系统保护治理体系，力争到“十五五”末，重点河湖基本生态流量达标率保持在90％以上；加快构建数字孪生水网，力争到“十五五”末，建成国家水网调度中心、大数据中心和流域分中心。&lt;/p&gt;&lt;p&gt;　　今年以来，现代化水网建设加快推进。1至9月，实施各类水利项目4.14万个，完成水利建设投资7950亿元，吸纳就业201万人。&lt;/p&gt;&lt;p&gt;　　水利部规划计划司司长李明介绍，要完成好“十五五”目标任务，就需要继续保持较高的水利投资规模。水利部将全力推进项目前期工作，多渠道筹集建设资金，加快项目建设进度。&lt;/p&gt;&lt;p&gt;　　“十五五”时期，我国洪涝灾害显著的特点就是充满不确定性。李国英介绍，将立足优化流域防洪减灾格局，加快建设一批防洪控制性水库，全面系统推进老旧水库改造提升、病险水库除险加固，加快江河堤防建设和河道整治，加强蓄滞洪区建设管理，实现“拦得住、排得走、分得下”，提高洪水调控能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　今年以来累计灌溉供水近2000亿立方米&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　水利是农业的命脉。今年以来，累计灌溉供水近2000亿立方米，灌溉面积超7.5亿亩，耕地灌溉面积上的夏粮产量占全国夏粮总产量的88％。李国英介绍：“预测晚稻等秋粮、冬小麦等越冬农作物灌溉需水约700亿立方米，我们已做好水资源储备，全力予以保障。”&lt;/p&gt;&lt;p&gt;　　水利部农村水利水电司司长倪文进介绍，水利部门科学布局“十五五”农田灌溉发展，整装推进大中型灌区现代化建设和改造；统筹灌区骨干工程和高标准农田建设，因地制宜发展滴灌、喷灌、管道输水灌溉等高效节水灌溉和水肥一体化，完善从水源到田间完整的灌排体系。&lt;/p&gt;&lt;p&gt;　　近年来，旱涝急转、雨带北移给农业生产带来了威胁。水利部将继续做好雨情、水情、工情的监测预警，滚动排查消除风险隐患，科学调度流域防洪工程。针对可能的干旱风险，将提前部署，细化抗旱应急预案，精准实施水工程调度和应急水量调度。&lt;/p&gt;&lt;p&gt;　　农村供水事关民生福祉。水利部会同有关部门和地方进一步推动城乡供水一体化、集中供水规模化、小型供水规范化、县域统管专业化“3+1”标准化建设和管护模式落地见效，力争到2030年，全国农村自来水普及率达到98％、规模化供水工程覆盖农村人口比例达到78％、县域统管比例达到90％。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　将继续实施母亲河复苏行动&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“十五五”规划纲要提出，加强重要江河湖库系统治理和生态保护。“十四五”时期，水利部选取了88条母亲河开展复苏行动，靶向施策、精准施治，取得了一系列标志性成果。“十五五”时期将继续实施母亲河复苏行动，全力维护河湖健康生命。&lt;/p&gt;&lt;p&gt;　　“十四五”时期，在我国经济总量持续保持稳步增长的情况下，我国用水总量总体稳定在6000亿立方米左右，水资源利用效率得到了较大幅度提升。水利部副部长孙志禹介绍，“十五五”时期，水利部将全面落实水资源刚性约束制度，精打细算用好水资源，从严从细管好水资源，推动万元GDP用水量、万元工业增加值用水量在“十四五”末基础上分别再下降10％。&lt;/p&gt;&lt;p&gt;　　地下水超采治理持续推进。孙志禹介绍，华北平原区超采程度已显著降低，地下水超采量减少75％，严重超采区面积减少92％。&lt;/p&gt;&lt;p&gt;　　水土保持一头守护着江河安澜，一头关系着民生福祉。李明介绍，水利部提出的“十五五”目标是，全国新增水土流失治理面积31万平方公里，水土保持率达到74％，建设生态清洁小流域2000条以上。更多荒山披绿，让清水绿岸成为群众身边的日常风景，让沃土良田成为乡村全面振兴的坚实底气，让更多更优的生态产品转化为群众口袋里的真金白银。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王  浩&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 力争到“十五五”末，国家水网覆盖范围占国土面积82％ &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184041&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184041.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184041.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 现代化水网建设加快推进（权威发布·开局起步“十五五”） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184041.html#[04版：要闻] 现代化水网建设加快推进（权威发布·开局起步“十五五”）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 汲取红色养分  乡村花繁叶茂（赓续长征精神  奋进复兴征程·记者再走长征路）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184042.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 贵州遵义市花茂村依托历史文化创业兴村 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 汲取红色养分  乡村花繁叶茂（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  程  焕&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/01/c3a7bd5b-49a3-40ca-9f4d-7ba28541f5e5.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　花茂村今貌。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　胡志刚摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/c3a7bd5b-49a3-40ca-9f4d-7ba28541f5e5.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　贵州遵义市播州区花茂村，一座文创工坊小院里，几名匠人正专注地进行创作。各种颜色、形状的花瓣、叶子相互搭配，再浇上一层浅黄色纸浆，晾干之后，就成了一幅别有意境的美丽画作。&lt;/p&gt;&lt;p&gt;　　花茂村原名“荒茅田”，曾经荒芜穷困。1935年，中央红军取得遵义大捷后，在此休整多日，留下了红色印记。新中国成立后，这里更名为花茂村，以寄托人们对村子花繁叶茂、生活富足安康的美好期盼。&lt;/p&gt;&lt;p&gt;　　2015年6月，习近平总书记来到花茂村考察，连片的向日葵花开正艳。“怪不得大家都来，在这里找到乡愁了。”总书记风趣地赞扬村子的生态环境。&lt;/p&gt;&lt;p&gt;　　这些年，花茂村持续深挖红色文化和乡愁记忆，着力推动乡村全面振兴。在外打拼多年的张胜迪，于2015年返乡创业，凭着老一辈传下的古法造纸技艺，在村里办起了“花茂人家”文创工坊。她将村子的红色文化、土陶文化等融入纸张，制作出颇具特色的纸浆压花画，还开发出小夜灯、团扇等文创产品。借村子发展旅游的“东风”，文创工坊迅速成为打卡点，产品也卖得火热。&lt;/p&gt;&lt;p&gt;　　紧邻苟坝会议会址的花茂村，把红色文化融入乡村游、研学游等，让红色记忆拥有更多可触摸、可体验的载体。返乡创业者杨波，当起了村里的红色文化义务宣讲员，为学生等游客讲解英烈事迹，带他们体验红军草鞋制作、土陶技艺等。花茂村的“红色之家”农家乐里，游客围坐桌前，品尝农家菜。店主王治强介绍：“老一辈说，我家这院子早年间是个四合院，红军长征时曾在这里借宿。”如今，游客不光冲着美食而来，还想到院子里看一看环境陈设，听一听红色故事。&lt;/p&gt;&lt;p&gt;　　“红色是村子的底色，美丽乡愁是我们发展乡村旅游的底气。”花茂村村委会主任彭龙芬表示。截至2025年底，花茂村村集体经济收入累计达1481万元，村民人均可支配收入超2.9万元。红色文化与乡村全面振兴深度融合的生动实践，正在让花繁叶茂的愿景一步步实现。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  程  焕&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 贵州遵义市花茂村依托历史文化创业兴村 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184042&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184042.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184042.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 汲取红色养分  乡村花繁叶茂（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184042.html#[04版：要闻] 汲取红色养分  乡村花繁叶茂（赓续长征精神  奋进复兴征程·记者再走长征路）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 弘扬英烈精神  凝聚奋进力量（今日谈）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184043.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 弘扬英烈精神  凝聚奋进力量（今日谈） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							余  璇&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　9月30日，庄严的天安门广场上，人民英雄纪念碑巍然耸立。习近平总书记等党和国家领导人同各界代表一起，向人民英雄敬献花篮。&lt;/p&gt;&lt;p&gt;　　今天，我们何以告慰英魂？以崇尚英烈、争做英雄的行动，以更强的中国、更美好的人民生活。&lt;/p&gt;&lt;p&gt;　　新时代是成就英雄的时代。许振超潜心琢磨、练就绝活，“振超效率”享誉世界；黄大年辛勤奉献、顽强攻关，叩开“地球之门”；张桂梅燃烧自己、点亮大山女孩的希望，用无私坚守诠释英雄内涵……波澜壮阔的中国式现代化进程，处处都是活跃创造，处处都有用武之地，处处都需奉献担当，争当英雄就会英雄辈出。&lt;/p&gt;&lt;p&gt;　　沧海横流，方显英雄本色。遇“卡脖子”时不慌，科技尖兵矢志攻坚；经贸摩擦前不乱，“一切打压和遏制只会激发中国人民的意志和热情”；面对灾难不退，一个个逆行救援的背影令人无比踏实。敢于压倒一切困难而不被困难压倒的英雄气概，始终流淌在中华儿女的血脉里，激荡在强国建设、民族复兴的新征程上。&lt;/p&gt;&lt;p&gt;　　紧握历史接力棒，弘扬英烈精神，我们昂首奋进、一往无前。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;余  璇&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184043&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184043.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184043.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 弘扬英烈精神  凝聚奋进力量（今日谈） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184043.html#[04版：要闻] 弘扬英烈精神  凝聚奋进力量（今日谈）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 服务业打开内需新空间</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184044.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 服务业打开内需新空间 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							金  轩&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　促进服务业优质高效发展，关系国计民生，关系现代化建设全局。今年4月，习近平总书记就服务业发展作出重要指示，强调“推进生产性服务业向专业化和价值链高端延伸，促进生活性服务业高品质多样化便利化发展，培育更多‘中国服务’品牌，努力开创服务业高质量发展新局面”。&lt;/p&gt;&lt;p&gt;　　“十五五”开局之年，全国服务业大会召开，《关于推进服务业扩能提质的意见》印发，明确了目标任务，绘就了美好蓝图，我国服务业发展迎来扩能提质新阶段。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　服务业发展正当其时、大有可为&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　服务业是产业升级的重要支撑。研发设计、工业软件、检验检测、交通物流等现代服务业，发挥着科技创新“催化剂”、制造价值“倍增器”作用，可以有力推动产业体系向价值链高端攀升。要通过发展知识密集、技术密集的服务业，推动现代服务业与先进制造业深度融合、相互赋能，为培育新质生产力、构建现代化产业体系提供重要支撑。&lt;/p&gt;&lt;p&gt;　　服务业是提高人民生活品质的综合载体。国际经验表明，人均国内生产总值超过1万美元后，居民消费结构将由商品消费为主向商品和服务消费并重转变。当前，我国人均GDP接近1.4万美元，消费结构加速转型，人民群众对美好生活的向往正加速向文旅休闲、医疗健康、养老托育等高品质服务领域延伸。要通过发展高品质多样化便利化的生活性服务业，为满足人民美好生活需要、扎实推进共同富裕提供坚实保障。&lt;/p&gt;&lt;p&gt;　　服务业是带动就业扩容的关键渠道。服务业就业容量大、适配群体多，发挥着就业“蓄水池”和“稳定器”作用。特别是数字技术与服务业深度融合，催生了大量新就业形态，创造了大量知识密集型岗位。要通过优化业态结构、支持创新创业、加强技能培训，不断拓宽服务业就业空间，为稳住就业基本盘、保障民生福祉提供有力依托。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　服务业发展向新向优、未来可期&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　今年以来，我国服务业发展态势稳健、活力持续释放。上半年，服务业增加值41.4万亿元，同比增长5.2%，占国内生产总值比重59.5%，对经济增长的贡献率达到66.1%，为高质量发展提供了有力支撑。&lt;/p&gt;&lt;p&gt;　　民生服务更有温度。从“一刻钟便民生活圈”到长者食堂，从社区嵌入式托育点到乡村流动医疗服务车，民生服务更加顺民意、暖人心。目前全国老年助餐点已达8.2万家，每天为400余万人次老年人提供助餐服务。&lt;/p&gt;&lt;p&gt;　　改革挖潜落地见效。通过破除土地用途变更难、产权流转不畅、审批环节繁琐等体制机制障碍，一批老工业厂房摇身变成文化体验新场景，闲置土地被重新激活。&lt;/p&gt;&lt;p&gt;　　开放红利可感可及。单边免签、互免签证持续扩围，240小时过境免签适用范围不断扩大。今年前8个月，免签入境外国人达2372万人次。&lt;/p&gt;&lt;p&gt;　　服务业扩能提质空间大、潜力足。超大规模市场需求持续释放。截至2025年底，我国60岁及以上老年人达3.23亿，3岁以下婴幼儿约2600万，“一老一小”的照护需求十分旺盛。满足这些需求，就是实实在在的增长空间，服务业加快扩能提质，就能将千家万户的“需求清单”转化为企业的“服务清单”、劳动者的“岗位清单”。&lt;/p&gt;&lt;p&gt;　　技术创新催生服务新业态新模式。景区运用增强现实（AR）复原、数字人讲解等技术，把静态文旅转化为沉浸式体验；即时零售平台依托智能算法打通线上与线下，实现分钟级配送；智慧家政、远程问诊从试点走向日常。这样的新场景，还在不断“上新”，新技术正推动服务业供给边界持续拓宽。&lt;/p&gt;&lt;p&gt;　　制度改革促进供需高效适配。多地推行中小学春秋假联动职工带薪休假，将潜在意愿转化为真实的消费行为；地方层面积极探索推动家政服务行业规范化、标准化发展，陆续研究出台家政服务条例，释放家庭照护潜在需求。&lt;/p&gt;&lt;p&gt;　　开放合作拓宽服务空间。服务业与制造业“抱团出海”，形成“制造+服务”协同走出去的复合优势。随着跨境服务限制放宽、服务标准加快对接，“中国服务”半径将持续延伸。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　锚定目标加力施策，加快推进服务业扩能提质&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　党中央和国务院对推进服务业扩能提质作出明确部署，提出到2030年，服务业总规模迈上100万亿元台阶，质量更高、结构更优、品质更佳、活力更足的发展格局基本形成。从规模总量看，“十四五”时期我国服务业规模已连续跨越60万亿元、70万亿元、80万亿元三个台阶，2025年达80.9万亿元，对比2030年发展目标，意味着“十五五”时期仍有接近20万亿元增量空间。&lt;/p&gt;&lt;p&gt;　　培育新增长点，让服务业发展更具后劲。推动建设便民生活圈，多渠道增加优质民生服务供给，发展互助养老、社区嵌入式托育等模式，推动景区焕新升级，发展多样化、沉浸式文旅业态。加快出台实施支持专业服务机构提升国际服务能力的政策举措，推动涉外法律、会计审计、税务服务、广告产业等领域能力建设，加大一流品牌培育力度。推动制造领域生产性服务与工业产品“同船出海”，加快培育发展数字服务贸易、“人工智能+服务贸易”等新业态新模式，大力支持文化、旅游、中医药等特色领域服务出口，拓展服务出口增量空间。&lt;/p&gt;&lt;p&gt;　　强化要素保障，让服务业发展更有底气。加大金融对服务业扩能提质支持力度，提升无形资产质押融资比重，提升中小企业、个体工商户金融服务触达率。完善多元化的服务业用地供应体系，推动空闲建设用地短期利用。强化服务业人才队伍支撑，加快编制服务业重点领域紧缺人才目录，推进专业技术人才知识更新工程。加快推进服务业高质量数据集建设，构建服务业重点领域公共数据、场景机会开放共享清单，建立高效便利安全的数据跨境流动机制。完善服务业标准体系，加大标准供给力度，推动行业标准转化为国家标准，建立标准宣贯应用激励机制。&lt;/p&gt;&lt;p&gt;　　深化改革创新，让服务业发展更有活力。纵深推进全国统一大市场建设，取消要素获取、资质认定、招标投标、政府采购等方面不合理限制。进一步压减跨境服务贸易负面清单，扩大增值电信、生物技术、外商独资医院等领域开放试点。完善服务业统计制度，改进生产性、生活性服务业核算方法。构建服务业发展多维度综合评价指标，进一步完善政府考核体系，充分调动各方面积极性、主动性。构建常态化运行监测体系，充分利用人工智能等新技术手段进行分析研判，加强跨地区跨部门工作协调。&lt;/p&gt;&lt;p&gt;　　随着各项存量政策实施见效，增量政策加快落地，我国服务业将持续释放潜能，以“烟火气”厚植民生底色，以“新引擎”激发增长动能，在扩能提质中持续打开内需新空间。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;金  轩&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184044&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184044.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184044.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 服务业打开内需新空间 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184044.html#[04版：要闻] 服务业打开内需新空间</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 朱忠明当选上海市市长</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184045.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 朱忠明当选上海市市长 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社上海9月30日电  上海市第十六届人民代表大会第五次会议9月30日下午选举朱忠明为上海市人民政府市长。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184045&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184045.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184045.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 朱忠明当选上海市市长 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184045.html#[04版：要闻] 朱忠明当选上海市市长</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 4个国家级行业产教融合共同体成立</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184046.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 4个国家级行业产教融合共同体成立 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月30日电  （记者闫伊乔）9月29日，国家工业母机、粮食、铁路建设、新能源汽车行业产教融合共同体集体成立会议在京召开。&lt;/p&gt;&lt;p&gt;　　会上，共同体50家校企单位代表集中签署合作协议，达成高端数控机床、智慧粮库、高原高寒铁路建设、新能源汽车研发制造等24个重大校企合作项目。发布资金投入、场景开放、人才培养等支持举措，包括每年投入6亿元开展联合技术攻关和人才培养，面向参建单位开放105个生产和研发场景，捐赠100台整车设备，面向参建院校大规模招聘毕业生等，为共同体实体化运行提供有力支撑。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184046&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184046.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184046.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 4个国家级行业产教融合共同体成立 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184046.html#[04版：要闻] 4个国家级行业产教融合共同体成立</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 广告</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184048.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 广告 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/aac4329d-8fba-4b58-9828-f8109f5fd464.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184048&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184048.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184048.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 广告 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184048.html#[04版：要闻] 广告</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 一版责编：胡安琪  栾心怡  赵川博 二版责编：吕  莉  祁嘉润  郭雪岩 三版责编：韩晓明  姜  波  关皓宇 四版责编：刘  念  刘静文  张雪妍</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184047.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：胡安琪  栾心怡  赵川博 二版责编：吕  莉  祁嘉润  郭雪岩 三版责编：韩晓明  姜  波  关皓宇 四版责编：刘  念  刘静文  张雪妍 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184047&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184047.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184047.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：胡安琪  栾心怡  赵川博 二版责编：吕  莉  祁嘉润  郭雪岩 三版责编：韩晓明  姜  波  关皓宇 四版责编：刘  念  刘静文  张雪妍 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184047.html#[04版：要闻] 一版责编：胡安琪  栾心怡  赵川博 二版责编：吕  莉  祁嘉润  郭雪岩 三版责编：韩晓明  姜  波  关皓宇 四版责编：刘  念  刘静文  张雪妍</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 赤胆忠诚写春秋  强军报国建功勋</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184068.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 赤胆忠诚写春秋  强军报国建功勋 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——纪念刘华清同志诞辰110周年 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							中央军委办公厅&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　今年是刘华清同志诞辰110周年。刘华清同志是中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家、军事家，党、国家、军队的卓越领导人。他13岁就投身革命，在长达82年的革命生涯中，为党和人民事业、为推进国防和军队建设建立了卓著功勋。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;一、铁心向党，矢志投身革命，在烽火岁月中淬炼成长&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　1916年10月1日，刘华清同志出生于湖北省黄安县（今红安县）二程区花桥乡刘家院子村（今属大悟县）的一个贫苦农民家庭。中国共产党诞生后，革命的星星之火很快成为燎原之势，使他有机会接触进步思想、较早参加革命，影响和决定了他一生的道路。1927年黄麻起义后，他成为红色小交通员和本村儿童团长。1929年10月加入中国共产主义青年团，1930年参加中国工农红军，1935年10月转为中国共产党党员。&lt;/p&gt;&lt;p&gt;　　刘华清同志在艰苦卓绝的革命战争中淬火锻造，很快成长为我军优秀的军政干部。土地革命战争中，他参加了鄂豫皖苏区历次反“围剿”作战，多次身陷险境，却矢志不渝，在极其困难的游击岁月里坚持武装斗争。1934年他参加了红25军长征，万里转战，浴血奋进，编印报纸、起草文件、刻印布告，出色地完成了教育鼓动和发动群众等工作。他与战友共同将红军的三大纪律八项注意改编成传诵至今的军歌，极大鼓舞了部队官兵斗志。在独树镇战斗中，他腿部负重伤，组织上明确伤员可以就地安置，但他态度坚决地留在红军队伍中。凭着这种跟着红军、跟着党的决心，他忍着剧痛、拉着马尾巴追随大部队行军。漫漫长征路，磨砺出他钢铁般的意志，铸就了至死不渝的政治忠诚。&lt;/p&gt;&lt;p&gt;　　全民族抗日战争爆发后，刘华清同志参加了八路军129师的对日作战，曾在刘伯承、邓小平同志直接领导下工作，先后担任师司令部秘书主任、政治部宣教科科长、供给部政治部主任，中共中央北方局党校党总支书记，冀南军区政治部组织部部长，平原军区政治部组织部部长和冀鲁豫军区第6军分区副政治委员等职务。这期间他高度重视巩固和加强党的建设，通过完善干部工作机构、创建模范党支部、严格党的纪律等，极大教育和训练了官兵，为敌后军民抗战、粉碎日军合围“扫荡”、对日伪军攻势作战等提供了坚强政治保证。&lt;/p&gt;&lt;p&gt;　　解放战争时期，刘华清同志历任晋冀鲁豫军区第2纵队第6旅政治委员，第二野战军第三兵团第11军政治部主任等职，率部随晋冀鲁豫野战军挺进大别山，参加了淮海战役、渡江战役。他把思想政治工作贯穿于作战行动之中，创造性地采取火线入党、火线记功、火线整编等方式激发官兵斗志，培养部队“狠”、“硬”、“猛”的优良战斗作风，促进高涨的政治热情和战术技术的有机结合，取得了多次战役战斗的胜利。转战途中，他积极参与组织开展以“诉苦”和“三查三整”为中心的新式整军运动，进行阶级教育，严明部队纪律，大力发扬军事民主，掀起群众性练兵热潮，夺取军政双胜利。1949年6月起，他担任第二野战军军政大学政治部副主任、主任、校党委委员，探索创办正规军事院校、培养现代化军事人才的方法，为解放和建设大西南培养了一大批优秀军政干部。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;二、勇担重任，奋战国防科工，为自立自强发展不懈探索&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　新中国成立后，刘华清同志开始结缘大海，先后在大连海军学校、海军旅顺基地任职，并赴苏联伏罗希洛夫海军学院学习海军理论。1961年8月他出任国防部第七研究院院长，担负起开创我国舰船科学研究的重任。此时，正值中苏关系破裂、我国周边安全环境恶化之际，党中央、中央军委决定加速独立自主、自力更生发展国防科技和武器装备的进程。&lt;/p&gt;&lt;p&gt;　　刘华清同志与国防部第七研究院人员白手起家，艰苦创业，采取“边干边学边提高”、“创业育人”的做法，经过4年多时间，完成了五种型号战斗舰艇等装备仿制任务，实现了由仿制向自行设计的过渡，开展了新型常规潜艇、新型护卫舰、驱逐舰和核潜艇的预先研究，摸索了一条符合我国国情的舰船科研发展路子。&lt;/p&gt;&lt;p&gt;　　刘华清同志在工作中敢于坚持原则、实事求是、担当负责。1965年国防部第七研究院并入第六机械工业部，在部院合并、厂所合并中，他坚持正确意见，使七院各配套专业比较完整地保留下来，确保了人心不散、力量不散、研究不断线。“文化大革命”中，他同林彪、江青反革命集团进行坚决斗争。1966年任国防科委副主任时，他促成以中央军委名义下发《特别公函》，强调任何人不准以任何理由冲击国防科研生产现场，不准以任何借口停工、停产，必须按时保质保量地完成任务。在我国第一颗人造地球卫星“东方红一号”研制过程中，他敢于负责，积极支持技术人员大胆工作，保证了研制工作顺利进行。他曾受到不公正待遇，被安排回海军工作，但始终斗志不减，仍为海军装备建设殚精竭虑，1975年向邓小平同志呈送了《关于海军装备问题的汇报》，提出一系列重大建议，受到邓小平同志的关注和重视。&lt;/p&gt;&lt;p&gt;　　1977年年底，刘华清同志重返国防科研领导岗位，先后任国防科委副主任、中央军委科学技术装备委员会副主任等职，参与组织全军武器装备发展建设工作。他先从抓规划入手，先后参与和主持制定了国防科学技术发展规划纲要、全军常规武器装备体制等重要规划文件，对明确军队武器装备和国防科技工业的发展方向起到了重要作用。针对国防科研和武器装备领导管理体制多头分散问题，他促成成立国防科学技术工业委员会，初步实现了国防科技工业的集中统一领导和管理。他深入解剖军队与科研的关系，建议并主持建立军队武器装备论证机构，解决武器装备的验收机构和验收手段问题，领导定型和生产了20多项常规和战略武器，确保新型武器质量，加快发展速度。&lt;/p&gt;&lt;p&gt;　　刘华清同志自1979年2月起，在总参谋部工作3年多时间，任总参谋长助理、副总参谋长，除主管装备工作外，还分管军务、动员等工作。他领导起草军队精简整编方案、颁发《贯彻共同条令检查标准》，推动民兵组织调整改革、修改兵役法、建立退伍军人预备役登记制度、改进民兵军事训练和战时动员工作。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;三、心系海疆，倾力建强海军，带领战略军种向海图强&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　1982年8月，刘华清同志出任海军司令员。他先后三度在海军工作，长达20年之久，为人民海军现代化建设倾注大量精力，作出了重要贡献。&lt;/p&gt;&lt;p&gt;　　刘华清同志以强烈的使命担当推动海军整顿改革，他深入一线开展调查研究，认为“海军部队存在的问题必须整顿，必须改革”。他同海军党委一班人果断处理了历史上特别是“文化大革命”遗留下来的一系列问题，并根据邓小平同志指示整顿党委班子、整顿部队作风，消除派性，增进团结。他坚持以科学态度和稳健措施，全面推进体制编制、教育训练、装备科研、装备修理、后勤保障、政治工作以及基层建设等改革，使海军部队呈现蓬勃向上的发展势头。&lt;/p&gt;&lt;p&gt;　　刘华清同志着眼建设强大海军，强调增强海洋意识、维护海洋权益，积极探索海军战略理论。他深入思考如何建设一支精干顶用、具有现代战斗能力的海军问题，多次亲自组织座谈会，带领专家反复研究海军战略任务、战略指导、战略能力等，1985年年底正式研究提出“近海防御”的海军战略，推动海军建设开创新局面。&lt;/p&gt;&lt;p&gt;　　刘华清同志始终把握海军战略军种特点规律，聚力提升海上作战能力。他明确提出“要有现代化的武器装备，而且要有一批精通海战理论和战略战术、能熟练指挥和使用现代武器装备的各类人才，两者有机结合，才能构成强大战斗力”。他把加强人才培养作为决定性环节，将海军院校教育提高到战略地位，要求把培养、选拔和使用人才相结合，做到编配有据、进出有序、管理和使用制度化，并提出从年轻优秀的飞行员中培养大型水面舰艇舰长，决定开办飞行员舰长班。他主张海军装备建设指导思想要从数量型向质量型转变、从沿岸型向近海型转变，参与领导了一大批新型舰艇、飞机、导弹等武器装备的发展决策和研制生产，力主发展大型水面作战舰艇与核潜艇。他大抓实战化军事训练，全面系统推进军事训练改进创新，领导建立了舰艇长全训合格考试制度，组织了首次西太平洋海域远航合成训练、首次驱逐舰编队出访南亚三国等军事活动。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;四、胸怀全局，参与集体领导，积极推进国防和军队现代化&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　上个世纪80年代末，已过古稀之年的刘华清同志开始参加中央军委领导工作。1987年任中央军委委员、副秘书长。当时，国防科技装备管理体制问题突出，全军武器装备失修严重。他把治理整顿和强化管理有机结合起来，提出建立总装备部、加强武器装备集中统管的建议和方案；制定加快空军建设发展规划和具体实施方案，组织自主研制空中加油机；按照“区分档次、保证重点”的思路集中解决装备失修问题，力保在役装备处于良好状态；参与领导调研论证军队改革工作，组织拟制加快和深化军队改革的工作纲要；主持起草关于加强南沙斗争的建议，参与指导南沙防卫斗争，取得赤瓜礁海战的胜利，指导完成设置南沙永暑礁海洋观测站、修建西沙永兴岛机场等重大任务。&lt;/p&gt;&lt;p&gt;　　1989年11月，刘华清同志任中央军委副主席。1992年，他当选中共中央政治局委员、常委，协助军委主席江泽民同志主持中央军委日常工作。这一时期，苏联解体、东欧剧变、海湾战争爆发，国际政治军事格局发生深刻变化，军队建设需要跟进国家安全形势变化有所作为。&lt;/p&gt;&lt;p&gt;　　刘华清同志坚决执行党的路线方针政策，坚决贯彻毛泽东军事思想、邓小平新时期军队建设思想、江泽民国防和军队建设思想，坚持把革命化放在首位，加强军队思想政治建设，坚持党对军队绝对领导，发扬老红军光荣传统，确保军队建设正确方向；坚持改革创新，积极推进新形势下国防和军队建设，参与拟制并贯彻新时期军事战略方针，推动把军事斗争准备的基点转到打赢高技术条件下的局部战争上来；坚持把教育训练摆到战略位置，依法治军、从严治军，科学管理部队，走中国特色精兵之路；坚持艰苦奋斗、勤俭建军，努力提高后勤保障能力。他重视国防科研和武器装备建设，规划和组织研制高新武器装备，推动军队装备现代化和国防工业建设。他推动对外军事交流合作，参与决策我军参加国际军事观察、军备军控谈判、军事维和等工作，推动开创我国军事外交工作新局面。&lt;/p&gt;&lt;p&gt;　　刘华清同志十分重视做好香港回归的有关工作，坚决执行中央对香港恢复行使主权的一系列重大方针原则，认真谋划驻香港部队的筹建和进驻准备工作，为解放军进驻香港履行防务职责奠定了基础。&lt;/p&gt;&lt;p&gt;　　刘华清同志作为党的第三代中央领导集体的成员，参与党、国家、军队的一系列重大决策，为坚持和发展中国特色社会主义作出了贡献。他参与党中央关于建立社会主义市场经济体制、加强党的建设等重要文件的讨论，并推动贯彻落实。他围绕国家经济社会发展、推进反腐倡廉建设、维护社会安定团结以及广大人民群众关心的热点难点问题进行调查研究，做了大量工作。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;五、革命精神和高尚品格永远值得学习&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　刘华清同志的一生，是光辉的一生、战斗的一生，他把毕生精力献给了波澜壮阔的中国革命、建设和改革的伟大事业。&lt;/p&gt;&lt;p&gt;　　刘华清同志具有恪守信仰、不忘初心的不懈追求。他始终以党和人民事业为重，无论是生死关头，还是身处逆境，都百折不挠、奋斗不息，对党和人民无限忠诚，对革命事业矢志不渝。习主席指出：“理想信念是我们共产党人的精神支柱。”我们学习刘华清同志，就要笃信马克思主义，保持理想信念坚定，自觉做共产主义远大理想和中国特色社会主义共同理想的坚定信仰者、忠实实践者。&lt;/p&gt;&lt;p&gt;　　刘华清同志具有一心向党、始终忠诚的坚强党性。他从一名儿童团长成长为党和军队的高级干部，无论是在战争年代还是和平时期，组织分配他做什么工作就做好什么工作，党指向哪里就打向哪里。习主席指出：“党的事业，人民的事业，是靠千千万万党员的忠诚奉献而不断铸就的。”我们学习刘华清同志，就要忠诚于党的信仰、党的组织、党的事业，表里如一、知行合一，竭尽全力完成党交给的职责和任务。&lt;/p&gt;&lt;p&gt;　　刘华清同志具有勇于开拓、锐意改革的创新精神。他经常说军队不改革“没有出路”、“加快和深化军队改革，一要坚决，二要求实，三要听指挥”。习主席指出：“改革是决定当代中国命运的关键一招，也是决定我军发展壮大、制胜未来的关键一招。”我们学习刘华清同志，就要深化改革创新，稳妥有序推进改革部署落地，坚决清除妨碍社会生产力发展、影响军队战斗力生成的体制机制障碍，推动高质量发展。&lt;/p&gt;&lt;p&gt;　　刘华清同志具有矢志强军、献身国防的使命担当。他善于从战略上思考军事问题，为军队建设和军事斗争准备贡献了全部心血和智慧。习主席指出：“强国必须强军，军强才能国安。”我们学习刘华清同志，就要全面贯彻习近平强军思想，贯彻新时代军事战略方针，坚持党对人民军队的绝对领导，坚定不移走中国特色强军之路，全面推进政治建军、改革强军、科技强军、人才强军、依法治军，高质量推进国防和军队现代化，如期实现建军一百年奋斗目标，加快把人民军队建成世界一流军队。&lt;/p&gt;&lt;p&gt;　　刘华清同志具有求真务实、真抓实干的优良作风。他注重深入部队调查研究，经常说自己“不是来做报告做指示的，而是来当小学生”，“听取大家意见，便于我开阔视野，更好地综合分析问题”。习主席指出：“求真务实是共产党人的重要思想和工作方法。”我们学习刘华清同志，就要树立和践行正确政绩观，在实践中认识真理、把握规律，营造说实情、建诤言、敢斗争的浓厚氛围，敢于直面矛盾、较真碰硬，为做好党和国家工作深思深察、尽责尽力、善作善成。&lt;/p&gt;&lt;p&gt;　　刘华清同志具有洁身修德、清廉自律的高尚情操。他一生光明磊落，公道正派。不论在什么岗位，他不改爱民心肠，不改布衣本色，以赤子情怀千方百计为老区百姓谋福祉。习主席指出：“领导干部公道正派才能出清风正气，廉洁自律才能塑良好形象。”我们学习刘华清同志，就要持之以恒推进全面从严治党，始终牢记手中的权力是党和人民赋予的，是用来为人民服务的，坚决遏制特权思想和特权现象，以自己的模范行动，凝聚起广大干部群众，推动党和人民事业不断从胜利走向新的胜利。&lt;/p&gt;&lt;p&gt;　　今年是中国共产党成立105周年。我们纪念刘华清同志，就是要继承和弘扬老一辈革命家的崇高精神风范，更加紧密地团结在以习近平同志为核心的党中央周围，高举中国特色社会主义伟大旗帜，全面贯彻习近平新时代中国特色社会主义思想，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，结合新的实际把党的优秀特质不断发扬光大，坚定信心、接续奋斗，为以中国式现代化全面推进强国建设、民族复兴伟业而奋勇前进！&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;中央军委办公厅&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——纪念刘华清同志诞辰110周年 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184068&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184068.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184068.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 赤胆忠诚写春秋  强军报国建功勋 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184068.html#[05版：要闻] 赤胆忠诚写春秋  强军报国建功勋</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 中国跳水队达成亚运“百金”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184069.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 截至9月30日比赛结束，中国代表团收获151枚金牌 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国跳水队达成亚运“百金” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　当地时间9月30日，在亚运会场地自行车项目男子团体追逐赛决赛中，中国队夺得冠军。图为中国队选手在比赛中。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  岑云鹏摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/9665b0a8-e075-4e34-9dff-fe29776c9e38.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　9月30日，中国队选手在名古屋亚运会上收获8枚金牌。截至当日比赛结束，中国体育代表团共获得151金67银59铜，持续领跑奖牌榜。&lt;/p&gt;&lt;p&gt;　　女子三米跳板项目，中国队选手陈艺文、陈佳包揽金银牌。男子十米跳台项目，练俊杰为中国跳水队夺得亚运参赛历史第一百枚金牌，赵仁杰获得铜牌。中国跳水队连续第十四次斩获亚运会所有跳水项目金牌。&lt;/p&gt;&lt;p&gt;　　场地自行车赛场，中国队在女子团体追逐赛中以4分08秒818的成绩打破亚洲纪录夺冠，在男子团体追逐赛中以3分47秒621的成绩刷新亚洲纪录摘金；女子凯林赛，中国队选手苑丽颖、王丽娟包揽冠亚军。皮划艇激流回旋项目，中国队选手胡兆山、黄娟分别夺得男子单人皮艇、女子单人划艇金牌。此外，中国队还在电子竞技项目中收获一枚金牌。&lt;/p&gt;&lt;p&gt;　　多个集体球类项目比赛接近尾声。中国女子曲棍球队将与印度队争夺金牌，男子水球队将与哈萨克斯坦队争夺一个决赛名额，男足则将与乌兹别克斯坦队争夺铜牌。&lt;/p&gt;&lt;p&gt;　　（本报记者孙龙飞、陈晨曦、高佶、孙亚慧，人民网记者胡雪蓉）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 截至9月30日比赛结束，中国代表团收获151枚金牌 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184069&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184069.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184069.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国跳水队达成亚运“百金” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184069.html#[05版：要闻] 中国跳水队达成亚运“百金”</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 17金收官！中国田径还在奋力追赶</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184071.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 17金收官！中国田径还在奋力追赶 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  刘硕阳  陶相安&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　名古屋一个又一个冷雨夜里，中国田径健儿却让人们一次次热血沸腾。当地时间9月29日晚，名古屋亚运会田径项目的比赛全部结束，中国选手在女子800米等项目中再夺3枚金牌，将本届亚运会的总战绩定格为17金14银8铜。中国田径健儿创造了自1998年曼谷亚运会以来境外参赛的最好成绩。&lt;/p&gt;&lt;p&gt;　　“比完了，‘下班’了，3金1银，我真牛啊！”17岁的陈妤颉首次参加亚运会，将惊艳表现一直延续到了最后。25日以打破亚运会纪录的成绩拿下女子100米金牌后，她又先后夺得女子200米银牌和女子4×100米接力金牌。在29日的收官日，陈妤颉在最后一棒完成逆转，与队友们一起为中国队夺得混合4×100米接力亚运会历史首金。&lt;/p&gt;&lt;p&gt;　　田径开赛首日，19岁的石升吉就力压世界纪录保持者夺得男子半程马拉松竞走冠军。面对奥运冠军，18岁的严子怡“一枪制胜”的绝技再现赛场。05后们的优异表现，彰显了中国青年的朝气、志气和锐气。年轻人茁壮成长，老将们同样没有懈怠。“它疼它的，我练我的。”32岁的冯彬在“与伤病和解”后成功卫冕女子铁饼冠军。29岁的吴艳妮在起跑不利的情况下夺得一枚女子100米栏铜牌。&lt;/p&gt;&lt;p&gt;　　17枚金牌，在本届亚运会总共50个田径小项中已超过1/3。这是中国田径近年来不断突破的缩影。近一两个赛季以来，女子链球等项目的亚洲纪录被中国选手打破。9月初的世界田联钻石联赛总决赛，冯彬、严子怡双双夺冠，继2019年后再度有中国选手登顶。&lt;/p&gt;&lt;p&gt;　　当然，金牌远非衡量成功的唯一标尺。正如中国田径队队内人士所言，无论最终结果怎样，“重要的是我们一直在奋力追赶”。这也是中国田径健儿在本届亚运会上的最真实写照。丰配友、李春辉在各自项目的冲刺阶段反超对手拿下奖牌。男子800米决赛，奚枭横从最后一名奋起直追，以1分45秒46的成绩刷新了自己保持的全国纪录。亚运会赛场上，在与对手较量时，每名选手都在努力超越自己。&lt;/p&gt;&lt;p&gt;　　亚洲冠军远非中国田径健儿的终点，奥运会和世锦赛等顶级世界大赛才是终极舞台。粟文以17米42刷新亚运会纪录夺得男子三级跳远冠军，也顺利达标明年的北京世锦赛。本届亚运会期间，世界田联官网上的2027年北京世锦赛成绩达标系统上线。达到严苛的入围标准，锁定明年的世锦赛入场券，在国际大赛中挑战最顶尖的选手，是中国田径健儿的期待。&lt;/p&gt;&lt;p&gt;　　未来的舞台上，中国田径将面对更加强大的对手，但只要奋力追赶的脚步没有停止，希望就一直在前方。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  刘硕阳  陶相安&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184071&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184071.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184071.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 17金收官！中国田径还在奋力追赶 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184071.html#[05版：要闻] 17金收官！中国田径还在奋力追赶</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 爱国爱澳  成长成才</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184070.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 澳门举办“向国旗敬礼”访京团分享会 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 爱国爱澳  成长成才 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  富子梅&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　9月18日至22日，澳门特区政府组织逾300名大中小学师生前往北京，参加“向国旗敬礼”港澳青少年升旗队代表访京团活动。9月30日，澳门特区政府教育及青年发展局在濠江中学举办“向国旗敬礼”澳门青少年升旗队代表访京团活动分享会，12名访京团成员分享心得感受，弘扬爱国爱澳核心价值。&lt;/p&gt;&lt;p&gt;　　分享会上播放了访京团活动精彩片段，师生代表讲述了见闻与思考，并与听众交流互动。澳门特区政府社会文化司司长柯岚、中央人民政府驻澳门特区联络办公室教育和青年部部长李雪飞、中华全国青年联合会副主席黄洁贞、澳门特区政府教育及青年发展局局长龚志明等，以及澳门高等院校及非高等教育学校师生代表、教育团体及青年社团代表等约500人出席活动。&lt;/p&gt;&lt;p&gt;　　“在天安门广场，用最真诚的敬礼、最专注的凝望，表达对国旗的守护、对祖国的热爱，那一刻我无比自豪。”濠江中学学生龙子浚表示。&lt;/p&gt;&lt;p&gt;　　澳门大学学生谢幸谷，从升旗手们的飒爽英姿中感悟出他们热爱祖国、守护国旗的赤诚之心。澳门福建学校升旗队主力队员、小学六年级学生关茹卿说，通过此行更加了解了国旗承载的历史，自己长大后要努力建设澳门、贡献国家。&lt;/p&gt;&lt;p&gt;　　澳门东南学校校长郑洪光说，此行的意义与收获在大家的讲述中进一步延续、扩散，融入学生们的学习生活，引领他们为祖国奉献和争光。&lt;/p&gt;&lt;p&gt;　　龚志明介绍，澳门特区政府教育及青年发展局将继续推动澳门多所学校举办校内分享会，还将常态化开展国旗、国歌、国徽专项师资培训，深化爱国主义教育，培育更多具有家国情怀、国际视野和时代担当的青年人才。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  富子梅&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 澳门举办“向国旗敬礼”访京团分享会 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184070&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184070.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184070.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 爱国爱澳  成长成才 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184070.html#[05版：要闻] 爱国爱澳  成长成才</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 《关于促进广播电视和网络视听公益广告高质量发展的意见》发布</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184072.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 《关于促进广播电视和网络视听公益广告高质量发展的意见》发布 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京9月30日电  （记者刘阳）9月29日，国家广播电视总局发布《关于促进广播电视和网络视听公益广告高质量发展的意见》，并自发布之日起施行。&lt;/p&gt;&lt;p&gt;　　《意见》强调，广播电视和网络视听公益广告是党的宣传工作的重要组成部分。《意见》要求，坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻习近平文化思想，围绕中心、服务大局，凝聚协同各方力量，不断提升广电视听公益广告的传播力、引导力、影响力、公信力。&lt;/p&gt;&lt;p&gt;　　《意见》明确，一要聚焦主题主线。坚持正确方向导向、坚持守正创新，推动党的创新理论深入人心，弘扬和践行社会主义核心价值观，传承中华优秀传统文化。二要加强组织引导。改进扶持项目，强化综合评价。拓展资金来源，优化资金使用，支持社会力量广泛参与。三要推动创作高质量作品。发布重点选题、创作指引，拓宽选题范围。鼓励运用新技术、新业态创新表达方式，提升思想深度、艺术高度。四要构建全媒体传播体系。强化广电视听主流媒体示范引领作用，发挥网络视听平台优势。统筹线上线下，促进共享共用，提升传播效能。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184072&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184072.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184072.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 《关于促进广播电视和网络视听公益广告高质量发展的意见》发布 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184072.html#[05版：要闻] 《关于促进广播电视和网络视听公益广告高质量发展的意见》发布</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：广告] 礼赞盛世华诞 共谱和美新篇 热烈庆祝中华人民共和国成立77周年</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184012.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 礼赞盛世华诞 共谱和美新篇 热烈庆祝中华人民共和国成立77周年 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/e25d5a05-8eae-4206-a50b-87d1090de10f.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184012&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184012.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184012.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 礼赞盛世华诞 共谱和美新篇 热烈庆祝中华人民共和国成立77周年 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184012.html#[06版：广告] 礼赞盛世华诞 共谱和美新篇 热烈庆祝中华人民共和国成立77周年</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：广告] 热烈庆祝中华人民共和国成立77周年</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184013.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 热烈庆祝中华人民共和国成立77周年 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/f0c99b49-73b7-4cc3-83ff-cb1af1cdbb82.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　金秋华诞，举国同庆。洋河始终锚定“为人民美好生活而酿造”的企业使命，以绵柔技艺守品质根基，以创新活力筑梦想底色，在时代浪潮中践行“领先领头领一行，报国报民报一方”的发展理念。&lt;/p&gt;&lt;p&gt;　　从一粒良种到一杯佳酿，洋河以精益求精的工匠精神打磨产品，深耕实业赛道，服务社会民生，向着“成为基业长青、飘香世界的伟大企业”稳步前行。&lt;/p&gt;&lt;p&gt;　　值此佳节，喜庆中华人民共和国77周年华诞，恭祝伟大祖国山河锦绣、国泰民安!&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184013&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184013.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184013.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 热烈庆祝中华人民共和国成立77周年 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184013.html#[07版：广告] 热烈庆祝中华人民共和国成立77周年</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 大地风华·可爱的中国</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184014.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 大地风华·可爱的中国 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　山河锦绣，礼赞我们可爱的中国。国庆之际，本版邀请文艺工作者畅谈塑造“七一勋章”获得者的感悟与收获，解读国粹戏韵里镌刻的长征精神，用歌声传递奋进力量，于侨批山海情中体悟家国情怀，以舞剧致敬以心为栋梁的民族风骨。&lt;/p&gt;&lt;p&gt;　　即日起，文艺副刊推出“大地风华”系列专版，于人物故事中见初心，于艺术创作中传精神，致敬平凡坚守，共贺盛世华章。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184014&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184014.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184014.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 大地风华·可爱的中国 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184014.html#[08版：副刊] 大地风华·可爱的中国</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 这九个字，让我终于望得见他了（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184015.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 这九个字，让我终于望得见他了（大地风华） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张  译&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/01/c1fc452d-925c-4aeb-875e-41621b22071b.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　演员张译拜访“七一勋章”获得者崔道植。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　张  译供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/c1fc452d-925c-4aeb-875e-41621b22071b.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　国庆第一天，电影《神探之痕迹》开始接受观众的检阅。片中刑侦痕迹检验专家“崔寻”的原型，是我国第一代刑事技术警察、中国首席枪弹痕迹鉴定专家、“七一勋章”获得者崔道植。&lt;/p&gt;&lt;p&gt;　　2021年6月29日，庆祝中国共产党成立100周年“七一勋章”颁授仪式上，崔老瘦削、精干，一身旧警服将金灿灿的勋章衬得愈加璀璨。我穿过10年军装，对绿色有很深的情感，那身警服在我心底撞出了共振。能有机会在银幕上塑造他的艺术形象，我非常荣幸。&lt;/p&gt;&lt;p&gt;　　自上世纪50年代崔道植从部队转业到黑龙江省公安厅以来，参与办理了1200余起重特大案件，检验鉴定超7000件痕迹物证，无一差错；如今他92岁高龄，退休30多年，只要组织召唤，依然会立即赶赴刑侦一线，他参加工作的时长几乎与共和国同龄……这背后的淡泊、坚守与寂寞，超出寻常。&lt;/p&gt;&lt;p&gt;　　按说警察的角色不难找支点。他的命运通常会随案情起落，先天具备强烈的“动作性”，有低谷有成长，更有弧光，如果再反推、抓准性格，表演支点就出来了。可“淡泊、坚守与寂寞”这几个词，对表演而言，约等于没有支点。&lt;/p&gt;&lt;p&gt;　　崔寻这个角色的动作性不强：内心动作和人物命运，没有因为案情改变而改变；外部动作和人物性格，没有无所畏惧地与歹徒肉搏，也没有嬉笑怒骂间就将嫌犯劝说投案。他的动作，大多是在现场取证后，在显微镜前，一个人，坐着。&lt;/p&gt;&lt;p&gt;　　冯锐老师采写的《中国神探——共和国刑警崔道植》给了我一些答案：崔老开创了指甲与牙痕“同一认定”的先河，填补我国多项技术空白。粗浅了解些许原理后，我有点激动，就请教冯老师：找了几千人采集指甲，历经磨难终于成功后，崔老自己哭了没？答案是，没有。&lt;/p&gt;&lt;p&gt;　　我采访到崔老的儿子，他们说，对我要扮演的青壮年时期的父亲不是很了解。因为他就是一直在工作，回家又不谈工作；朋友有几个，不算多，怎么跟朋友们相处的，家人不知道，而且现在大多离世了，我采访不了。他们只知道一想起来那几个朋友，老人家，还会哭。&lt;/p&gt;&lt;p&gt;　　2025年9月6日，我终于跟随冯锐和李雪健两位老师，拜访到了崔道植老先生。&lt;/p&gt;&lt;p&gt;　　崔老很帅，走路很快，自述跑步跑到了84岁，现在每天也要快步走。他的住处整洁简朴，书桌上有一架显微镜，电脑屏幕里是他刚做好的教学课件。他说他一工作就兴奋，但是不喜欢寒暄聊闲天，“因为没意思，可能这样也不好。”我揣度了一下准备的问题，应该挺有价值，比如“您是怎么做到7000多件物证不出错的？”“哪些案子在您的力挽狂澜下大白天下的？”“哪些重大改变是令您心潮澎湃的？”&lt;/p&gt;&lt;p&gt;　　然后就看着崔老激动地拉住雪健老师，我猜是因为他俩太像了，站对面都像在照镜子。可崔老说：“焦裕禄是我的偶像！你演过焦裕禄啊！”&lt;/p&gt;&lt;p&gt;　　《焦裕禄》上映的时候，崔老的夫人还很健康。他退休后有天赴外地出差，很平常的一天，刚登机就接到派出所的电话，说他老伴儿走丢了，他这才知道身为省医院脑电学专家的金玉伊得了阿尔茨海默病。&lt;/p&gt;&lt;p&gt;　　他说陪伴孩子们的时间也确实不多，是愧疚的，但是3个儿子都是人民警察，人品都很好，没人戳他的脊梁骨，让他很欣慰。&lt;/p&gt;&lt;p&gt;　　他说现在的生活很幸福。他说每天的饭菜很好吃。他说自己幼年丧父。他说后来妈妈又离开了家，自此杳无音信，他在玉米地怎么追也追不上，那年他6岁。&lt;/p&gt;&lt;p&gt;　　我心里猛然一颤。眼前这个人用了七八十年的时光，找到1200余起案件的答案、7000多件痕迹物证的答案，却唯独没有找到母亲去向的答案！爷爷把他养大，鼓励他加入儿童团、参加志愿军。他心里挥之不去的永远是妈妈在玉米地消失的背影。&lt;/p&gt;&lt;p&gt;　　在部队有饭吃，有工作，有尊严，也有更多的书可以读。他读到《可爱的中国》终于豁然开朗，他从旧中国走进新中国，在中国共产党的带领下，人民军队和整个国家都赋予他在艰难求索中无惧跋涉、不懈攀登的力量，更让他深切感受到如母亲怀抱的温暖。自此，崔老将党看作母亲，他的奋斗是为了信仰，是因为感恩。他开创的“同一认定”标准真正的价值是，在我国刑侦技术从零起步的年代，开创了一种思维范式，他用科学精神和极致严谨的态度，搭建了一整套痕迹鉴定的方法论体系……&lt;/p&gt;&lt;p&gt;　　我看到崔老眼里有光，如宝石般璀璨。我眼眶湿润，不再问问题，只恳请老先生帮我写几个字。他写道“听党话、感党恩、跟党走”。这9个字，让我终于望得见他了。&lt;/p&gt;&lt;p&gt;　　我的心安定了，不再纠结表演支点了。在与导演陈思诚、编剧张冀老师反复讨论后，我们认为，崔寻的特质就是内敛和稳定，周围的人无论怎样变，唯独他在时间的长河中不忘初心、坚如磐石。这个角色不用考虑“演技”，因为一切技巧在真诚的信念面前都会被打败。&lt;/p&gt;&lt;p&gt;　　《神探之痕迹》讲述的不仅是崔寻，还有以他为代表的几代公安干警。今天的中国是世界上最安全的国家之一，平安中国的背后，正是这些无名英雄的默默奋斗和守护！&lt;/p&gt;&lt;p&gt;　　谨以我的工作，向崔老致敬，向全国的公安民辅警战友们致敬，向观众致敬，向祖国致敬！&lt;/p&gt;&lt;p&gt;　　（作者为演员） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;张  译&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184015&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184015.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184015.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 这九个字，让我终于望得见他了（大地风华） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184015.html#[08版：副刊] 这九个字，让我终于望得见他了（大地风华）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 在国粹艺术中传承长征精神（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184016.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 在国粹艺术中传承长征精神（大地风华） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							杜  喆&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/01/1db8cbaf-072a-43f4-8e69-07cfcb55549a.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图为《军需处长》剧照。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　杜  喆供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/1db8cbaf-072a-43f4-8e69-07cfcb55549a.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　今年是红军长征胜利90周年，创排京剧《红军故事》的点点滴滴浮上心头。&lt;/p&gt;&lt;p&gt;　　京剧《红军故事》由《半截皮带》《半条棉被》《军需处长》3段感人至深的故事组成，展现了长征路上红军历经千难万险、依旧坚守革命信仰的崇高精神。我饰演的角色是军需处长。&lt;/p&gt;&lt;p&gt;　　作为一名京剧演员，最初拿到这个题材时，我内心其实一直悬着一个问题：传统戏曲到底该怎样表现革命历史？红色题材如何才能真正回到戏曲本体？&lt;/p&gt;&lt;p&gt;　　我们这一代京剧演员，前面站着不少经典现代戏。对于革命英雄的塑造、现代戏的表演和形体技巧，前辈老师们已经形成了一套几乎无法超越的风格体系。我们学习、继承，是心存敬畏的，但也会问自己：我们还能做什么？&lt;/p&gt;&lt;p&gt;　　创作初期，我就确立了清晰的理念：不套影视化写实手法，不能用口号式台词，依托京剧古典美学的含蓄、写意、留白、传神，让人物和故事自然流淌在戏曲表演里。&lt;/p&gt;&lt;p&gt;　　中国传统戏曲讲“以虚代实、以形传神、情景合一”，重意境不重复刻，重神韵不重表象。这种审美，跟长征精神那种沉静厚重、悲壮崇高、内敛无声的气质，是高度契合的。雪山严寒、绝境行军、无声牺牲，本身就是一种克制而伟大的崇高之美。&lt;/p&gt;&lt;p&gt;　　《军需处长》取材于长征故事《丰碑》。它写的是翻越雪山途中，一位军需处长手握全军物资，却把棉衣、干粮全部让给了年轻战士，自己穿着单衣冻僵在风雪里，化作一座雪中丰碑。作品避开宏大战争场面，聚焦一个普通军需处长的个体命运。没有刻意渲染悲情，而是通过平凡岗位上的极致坚守，去折射红军队伍无坚不摧的根本原因：胜利源于信仰，信仰源于初心。这种内敛克制的叙事方式，完全贴合古典戏曲哀而不伤、悲壮不惨烈的审美传统。&lt;/p&gt;&lt;p&gt;　　创作方法上，我坚持程式活化、守正创新。京剧“四功五法”是古典戏曲美学的核心，本剧在保留传统程式规范的基础上，对身段、台步、唱腔进行现代化适配。风雪行军段落，演员通过改良台步、身形俯仰、肢体颤动以及表情变化等程式化形体语言，虚拟表现高寒缺氧、步履艰难的雪山险境。一段红绸舞蹈运用“探海”等动作，表现人物在寻找失散战友过程中无数次被风雪吹下山坡再继续攀爬的情景，既有生活依据，更有程式化韵律。唱腔上，沿用二黄和高拨子等传统板式，以沉郁的声腔气质表现苍凉雪山与人物隐忍坚定的内心世界，做到声情合一、韵律纯正，守住京剧本体的京腔音乐审美。&lt;/p&gt;&lt;p&gt;　　传统戏曲讲究情节凝练、主线集中、意蕴悠长。《军需处长》全程围绕“牺牲与坚守”一条主线展开，情节干净、节奏从容，通过战士疑问、处长隐忍、风雪独行、凝立成碑层层递进，结尾定格于军需处长屹立雪中的静态造型，以戏曲经典的“造型意象”完成精神升华。&lt;/p&gt;&lt;p&gt;　　这次创作给了我信心。愿通过我们的努力，在国粹艺术中将长征精神代代相传。&lt;/p&gt;&lt;p&gt;　　（作者为国家京剧院演员） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;杜  喆&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184016&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184016.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184016.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 在国粹艺术中传承长征精神（大地风华） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184016.html#[08版：副刊] 在国粹艺术中传承长征精神（大地风华）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 故乡就是心里的根（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184017.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 故乡就是心里的根（大地风华） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							李思潼&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/01/f0a41bed-223a-4547-9a00-c846f692acc2.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　电影《给阿嬷的情书》剧照。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　片  方供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/f0a41bed-223a-4547-9a00-c846f692acc2.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　第一次认识南枝，是从一份几千字的大纲里。读完故事我心里很受触动，她身上怀揣着太多力量。而在真正走进她的世界后，我发现她的这份勇气并不是与生俱来的。她在信件里看见了一个小家庭里的牵挂，又在批局中目睹了下南洋诸多家庭中的艰辛与坚韧，于是她做了一个又一个勇敢的决定，在时代的浪潮里，坚守着本心。在我的眼里，她是一位独立而坚韧的女性。&lt;/p&gt;&lt;p&gt;　　《给阿嬷的情书》上映以来，很多人隔着山海来读我们的故事，他们愿意为一纸侨批里的绵长牵挂停下脚步，相信万里之外的情义从未断过。我们也把《给阿嬷的情书》带到许多国家，我们讲侨批的故事，也聆听观众的人生。尤其是在海外见到很多潮汕人，听“故事里的主人公”说“此生无憾”，电影的意义就这样浮现眼前。&lt;/p&gt;&lt;p&gt;　　最开始的路演在潮汕地区。很多观众分享，自己身边也有电影里的故事。他们说，有些故事真的很苦，苦到爷爷奶奶那一辈从没对他们详细讲过；因为这部影片，家里的长辈愿意走进电影院，看过影片后，告诉孩子们真实的过往。记得有个女孩从网上刷到我们通告的预告，专门从海外回来看这部电影，因为她的亲人也有类似的经历。她是较早认可我表演的观众，我一直记得她。我们的路演还去了很多省份，见到许多广东之外的观众，听到了不同的人生故事。&lt;/p&gt;&lt;p&gt;　　海外路演给我的感触很深。跨越大洋抵达另一个国度，在与南枝、淑柔有着同样经历的爷爷奶奶身上，我看到了感动、热情与真诚。他们说，从没想过有一天，会在这片土地上看到属于潮汕地区、属于他们那代人的故事。那段历史很久没有被讲述，他们原以为被遗忘了。有的爷爷奶奶带了孙子孙女来看电影，有的人从没回过中国，但因为电影对这段历史有了好奇心，期待回中国看看。许多爷爷奶奶讲述时，眼中泪光闪烁。&lt;/p&gt;&lt;p&gt;　　哪怕身在万里之外，心底也总记得出发的地方。故乡就是心里的根，是不管走多远都放不下的牵挂。老一辈华侨远离故土，但心里始终牵挂家乡和亲人。那种隔着山海也不曾断掉的思念、责任和情义，帮助我读懂“家国”。由无数小小的个体汇聚而成的家国情怀，是从家乡、亲人、方言、民俗和先辈记忆中生长出来的情感，是写在一封封侨批里的惦念，是一代代人背井离乡后的坚守，是普通中国人对家庭、故土、信义的责任感。&lt;/p&gt;&lt;p&gt;　　两年前的10月，我为南枝定妆，并不知道这个故事会生长出怎样的脉络。走过这一路，收获了大家的鼓励和认可，我逐渐懂得：当你勇敢地迈出第一步，走过一些必经之路，才可能解锁出更多人生的可能。&lt;/p&gt;&lt;p&gt;　　南枝赋予我的这份勇气，会长久留在我的生命里。&lt;/p&gt;&lt;p&gt;　　（本报记者熊捷采访整理） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;李思潼&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184017&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184017.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184017.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 故乡就是心里的根（大地风华） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184017.html#[08版：副刊] 故乡就是心里的根（大地风华）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 总有美好在路上（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184018.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 总有美好在路上（大地风华） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							周  深&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/01/2fd2a15c-6cea-44ec-b890-ec4c09e0d002.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　歌曲《吉量》演出剧照。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　周深工作室供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/2fd2a15c-6cea-44ec-b890-ec4c09e0d002.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　国庆节前，我在北京国家体育场开“深深的”巡回演唱会，再次唱起《我爱你，中国》《灯火里的中国》《总有美好在路上》等歌曲。有歌迷朋友留言说，每次过节都能在社交媒体上刷到周深的歌。在这样的时刻被听到，是歌手的莫大幸福。&lt;/p&gt;&lt;p&gt;　　今年我的第一首新歌是与人民日报新媒体合作的《奔腾》。第一次听到Demo时，我有点惊讶。原以为它会热血而宏大，它却很扎实，走心。歌词和旋律里既有奔腾的豪情，也不避讳奔腾路上溅在身上的泥泞。歌词写“就让我踏过千万重，穿越了风雨，怎不见彩虹。”我们的生活中，就是有很多时刻分明拼尽了全力，还是会挫败。但即便摔一跤，也可以收拾好自己，带着那些伤，用更成熟的心态重新出发。我最喜欢歌词中的“我偏要”三个字。“我偏要”是每个人身上的韧劲，这种韧劲有时可能因为打击或失败似乎隐身了，但其实它一直都在。没有任何一个人生节点是所谓的失败，只要你愿意继续往前走。&lt;/p&gt;&lt;p&gt;　　我常常觉得，一首歌创作、演唱出来，可能只完成了60%，被听众听到、走进心里，才算真正被赋予生命。&lt;/p&gt;&lt;p&gt;　　我更愿意把自己当作歌曲的服务者，把最核心的歌词唱出来，也把自己在生活里感受到的情绪和变化、成长与收获，融进演唱里。好好演唱每一首歌，把自己放进每一首歌里。如果某一刻，听众被感动了，那就说明我们在那一刹那同频了。正如我之前的演唱会主题“9.29Hz（赫兹）”想要传递的“同频共振”，同频的人，是给创作者最好的礼物。&lt;/p&gt;&lt;p&gt;　　我理解，“奔腾”就是“出发”。当下科技飞速发展，生活节奏越来越快，很多人会在某些时刻有挫败感，甚至想出发的心也会被浇灭。可思考清楚之后，还是要“出发”。只有去做，才能积攒下一次出发的经验。这些年，我听过不同的声音，也遇到各种挑战，我告诉自己学会接受，然后继续出发。&lt;/p&gt;&lt;p&gt;　　《化身孤岛的鲸》这首歌是在家录的，那时我还是网友“卡布”。每次唱这首歌，都像是在提醒我：是歌迷的听见，才让那只孤岛上的鲸有了走向外界的港口。&lt;/p&gt;&lt;p&gt;　　唱《总有美好在路上》时，在我心里，它写的就是“可爱的中国”。我们的国家是了不起的大国，她也有可爱的一面：清晨早餐铺的热气，陌生人之间的援手，一条条心存善意的留言。正如歌词所写的，“亲爱的你，在路上慢慢逛，看一看太阳”——这不正是可爱的中国吗？&lt;/p&gt;&lt;p&gt;　　我不擅长给自己做很长的规划，更愿意做好当下该做的事：好好唱歌，好好留在舞台上唱歌。这其实很难，但正因为难，才要去努力奔腾、一次次出发。就像《奔腾》唱的那样，努力向前，也不必无视溅在身上的泥泞，敢看见、敢面对，就是有勇气的人。&lt;/p&gt;&lt;p&gt;　　愿我们在各自的征途上，自在如风。因为，总有美好在路上。&lt;/p&gt;&lt;p&gt;　　（本报记者杨丽娟采访整理） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;周  深&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184018&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184018.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184018.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 总有美好在路上（大地风华） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184018.html#[08版：副刊] 总有美好在路上（大地风华）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 他们筑起“民族风骨”的大厦（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184019.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 他们筑起“民族风骨”的大厦（大地风华） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							韩  真  周莉亚&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/01/b393389b-c015-4c76-8cf6-d8dfeb12d30c.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　舞剧《栋梁》剧照。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　剧  方供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/01/b393389b-c015-4c76-8cf6-d8dfeb12d30c.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　舞剧《栋梁》从最初立意到9月10日在浙江杭州完成首演，前后历时三年。这三年，对我们所有人来说，更像是一场心灵的跋涉。&lt;/p&gt;&lt;p&gt;　　我们创作《栋梁》的缘起，来自于一种天然的吸引，那是对林徽因这个名字本能的好奇。世人都知道她的风雅才情，知道她是诗意盎然的“人间四月天”。当我们真正翻开史料、走进她的人生，看到的则是一个背着测量仪器翻山越岭的营造学社成员，一个在昏暗油灯下绘制古建图纸的测绘者，一个在战火流离和病痛之中仍不肯放下笔的学人……她的生命里有诗，但更多的是笔、是尺、是规，是图纸上一丝不苟的线条。她的墓碑上刻着“建筑师林徽因墓”七个字。这是她希望后人记住她的身份：中国第一位女建筑师——“林工”。&lt;/p&gt;&lt;p&gt;　　作为创作者，我们想做的第一件事，就是让观众看见一个有血有肉、有筋骨、有温度的林徽因。&lt;/p&gt;&lt;p&gt;　　把能找到的史料、文献、回忆录一读再读，只为离她近一点、再近一点。那些泛黄的书页里有测绘数据，有旅途见闻，有书信往来，也有在最艰难的日子里依然工整的字迹……越深入那段岁月，就越清晰地感受到：林徽因的故事，从来不是一个人的独行。她的身旁，站着梁思成。在烽火连年的岁月里，他们共同完成了第一部由中国人自己编写的、系统的《中国建筑史》。我们还看见中国营造学社的一众同仁，刘敦桢、莫宗江、陈明达……他们用双脚丈量国土，用双手记录文明。把目光从营造学社再往远处延伸，我们看到的是百年前的一代知识分子，他们坚守一方书桌，弦歌不辍，以朴素而坚韧的方式，赓续中华民族的文化薪火。&lt;/p&gt;&lt;p&gt;　　循着营造学社的足迹，我们走过很多地方：在杭州，我们登上六和塔，仰望白塔，感受江南古建的温润与精巧；在山西，我们在应县木塔前，似乎能看见梁思成攀在塔顶测量的背影；在佛光寺的东大殿，唐代的斗栱在夕阳下投下巨大的影子，我们想象当年林徽因与宁公遇那次穿越千年的对望……&lt;/p&gt;&lt;p&gt;　　我们也多次走进清华大学建筑学院，与中国营造学社纪念馆馆长刘畅老师长谈：从古建筑的形制结构，到一代学人的治学精神，我们慢慢找到了把“测绘”“营造”这些建筑领域的专业内容转化为舞台语言的可能。&lt;/p&gt;&lt;p&gt;　　这三年里，主创团队反复磨合，剧本数易其稿，舞蹈语汇一次次推翻重来。有时候，一个动作要练上百遍；有时候，一段音乐要改到所有人都沉默……现在想来，那些反复打磨的日子，都成为这部作品的一部分。&lt;/p&gt;&lt;p&gt;　　我们也曾反复斟酌“栋梁”这个名字：是不是太“硬”了，不像一个艺术作品的名字？最终，我们还是选择了“栋梁”——他们的脊梁那么硬，他们撑得起这个名字。&lt;/p&gt;&lt;p&gt;　　林徽因、梁思成那一代人曾经身处风雨飘摇的年代，选择走向了一条艰苦的路，在荒野中与时间赛跑，在战火中与文明对话。他们用留存至今的上千张测绘图纸告诉我们：即便山河破碎，一个民族的文化根脉从未断绝。这让我们想起中国古建筑里的榫卯结构——不用一钉一铆，却能彼此咬合，相互支撑，历经千年而不倒。那一代知识分子，正是这样一根根良木，榫卯相扣，共同筑起了一座名为“民族风骨”的大厦。&lt;/p&gt;&lt;p&gt;　　有形之栋梁，是古建筑中最高处的承重构件，以不朽之木，擎起飞檐斗栱的天地；无形之栋梁，是一个民族的精神脊梁，以不屈之志，撑起文明存续的苍穹。我们这一代文艺工作者，也要做好我们该做的事——以这个时代的艺术表达，把他们的故事、他们的担当、他们的风骨，讲给今天的人听，讲给年轻人听，讲给未来听。&lt;/p&gt;&lt;p&gt;　　（作者为舞剧《栋梁》导演） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;韩  真  周莉亚&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184019&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184019.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184019.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 他们筑起“民族风骨”的大厦（大地风华） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184019.html#[08版：副刊] 他们筑起“民族风骨”的大厦（大地风华）</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 本版责编  赵偲汝</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184020.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编  赵偲汝 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月01日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本版邮箱 ysbjs@peopledaily.cn &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-01 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184020&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184020.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/01/content_30184020.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编  赵偲汝 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184020.html#[08版：副刊] 本版责编  赵偲汝</guid>
+      <pubDate>Thu, 01 Oct 2026 09:20:48 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
