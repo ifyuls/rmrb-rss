@@ -1,0 +1,895 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 05 Oct 2026 01:03:12 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] “国庆时刻”，感悟新时代治国理政之道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184220.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “国庆时刻”，感悟新时代治国理政之道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  程  龙  黄  超&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“此时此刻，我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。”9月30日，庆祝中华人民共和国成立77周年招待会上，习近平总书记的话语铿锵有力。&lt;/p&gt;&lt;p&gt;　　历史总在特殊节点驻足，凝望来路，叩问远方。&lt;/p&gt;&lt;p&gt;　　国庆，不仅是亿万中华儿女同心欢庆的荣光时刻，更是领略党领导人民治国理政的“时间之窗”。&lt;/p&gt;&lt;p&gt;　　回望新时代以来的“国庆时刻”，时间长卷镌刻着治国理政的宏阔经纬：在天安门广场凝望历史，在人民大会堂礼赞奋斗，在世界舞台阐述中国主张……大党大国领航者的深邃思考与战略擘画清晰可感。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;中流砥柱·“伟大的中国共产党”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　水阔波平、巨轮穿梭，今年国庆假期，平陆运河岸边车流往来，人们争睹“一河通江海”的世纪画卷。近日，新中国成立以来建设的首条通江达海的大运河正式通航。&lt;/p&gt;&lt;p&gt;　　共和国的大事记上，一批重大工程定格为阔步前行的时代坐标。&lt;/p&gt;&lt;p&gt;　　2019年9月25日，新中国成立70周年之际，北京大兴国际机场正式投运，习近平总书记看望参与建设和运营的工作人员代表，一席话高屋建瓴：&lt;/p&gt;&lt;p&gt;　　“大兴国际机场能够在不到5年的时间里就完成预定的建设任务，顺利投入运营，充分展现了中国工程建筑的雄厚实力，充分体现了中国精神和中国力量，充分体现了中国共产党领导和我国社会主义制度能够集中力量办大事的政治优势。”&lt;/p&gt;&lt;p&gt;　　中国共产党领导中国人民创造了一个又一个令世人瞩目的奇迹，串联起大国前行的奋进征程：&lt;/p&gt;&lt;p&gt;　　2016年金秋，“中国天眼”在黔南深山中睁开凝望宇宙的巨目；2025年国庆前夕，世界第一高桥花江峡谷大桥通车，绝壁悬崖上架起云中飞虹；前不久，江西瑞金至陕西延安首趟直达高铁G3998次复兴号列车发车，红军长征胜利90周年之际，长征出发地到落脚点实现高铁“当日达”……&lt;/p&gt;&lt;p&gt;　　“只有我们中国共产党人实现了。”放眼今日中华大地，这幅改写山河版图的壮阔画卷，雄辩证明了在党的领导下“集中力量办大事”的显著优势。&lt;/p&gt;&lt;p&gt;　　“国庆时刻”，是从历史中积蓄智慧和力量的时刻。&lt;/p&gt;&lt;p&gt;　　北京展览馆，两度定格习近平总书记回望奋斗历程、引领复兴征程的历史瞬间——&lt;/p&gt;&lt;p&gt;　　2017年9月25日，党的十九大即将召开之际，总书记参观“砥砺奋进的五年”大型成就展，强调“振奋精神、砥砺奋进、再接再厉，深入推进伟大斗争、伟大工程、伟大事业，为实现‘两个一百年’奋斗目标、实现中华民族伟大复兴的中国梦继续奋斗”；&lt;/p&gt;&lt;p&gt;　　2022年9月27日，党的二十大即将召开之际，“奋进新时代”主题成就展上，总书记发出号召：“踔厉奋发、勇毅前行、团结奋斗，谱写全面建设社会主义现代化国家新篇章，夺取中国特色社会主义新胜利。”&lt;/p&gt;&lt;p&gt;　　两次意义深远的驻足，联结着非凡历程与壮阔未来，映照出百年大党在赶考路上的历史自信与战略远见。&lt;/p&gt;&lt;p&gt;　　知所从来，思所将往。&lt;/p&gt;&lt;p&gt;　　“中国共产党人依靠学习走到今天，也必然要依靠学习走向未来。”&lt;/p&gt;&lt;p&gt;　　翻开国庆之际的治国理政日程，“学习”是关键词。&lt;/p&gt;&lt;p&gt;　　2013年9月30日，十八届中央政治局集体学习第一次走出中南海，把“课堂”搬到中关村。习近平总书记深刻阐述党的十八大确定的创新驱动发展战略，强调“科技兴则民族兴，科技强则国家强”。&lt;/p&gt;&lt;p&gt;　　从聚焦我国历史上的国家治理，到强调加强合作推动全球治理体系变革，从深刻认识马克思主义时代意义和现实意义，到关注新时代“三农”工作……“学习型政党”求知若渴、洞悉大势的品格格外鲜明。&lt;/p&gt;&lt;p&gt;　　观大势、谋大局，关键节点有关键落子。&lt;/p&gt;&lt;p&gt;　　从研究全面推进依法治国、总结党的群众路线教育实践活动，到擘画“十四五”蓝图、审议《中国共产党中央委员会工作条例》，再到谋划“十五五”发展、研究持之以恒推进全面从严治党重大问题……回望国庆前夕召开的中央政治局会议，把舵定向、谋篇布局，展现出登高望远的战略智慧。&lt;/p&gt;&lt;p&gt;　　沧海横流显砥柱，万山磅礴看主峰。&lt;/p&gt;&lt;p&gt;　　“党的领导是社会主义的最本质特征和最大优势。”在“国庆时刻”定格的历史印记与奋斗足迹，生动诠释着走过105年光辉岁月的中国共产党为什么能的关键密码。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;力量之源·“伟大的中国人民”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　秋日神州，江山如画。今年国庆假期，全社会跨区域人员流动量预计达21.3亿人次，平均每天约3亿人次在广袤大地上往来，饱览锦绣山河。&lt;/p&gt;&lt;p&gt;　　流动的中国，生机勃勃；平安的中国，根基如磐。&lt;/p&gt;&lt;p&gt;　　“党的十八大以来，平安中国建设取得显著成效，人民安居乐业、社会安定有序的良好局面更加巩固，我国成为世界上最安全的国家之一。”近日，习近平总书记就建设更高水平平安中国作出重要指示。&lt;/p&gt;&lt;p&gt;　　国家祥和安定，万家灯火安宁。和平年代，公安队伍是一支牺牲最多、奉献最大的队伍。他们的功勋永刻丰碑，他们的奉献山河铭记。&lt;/p&gt;&lt;p&gt;　　“维护国家安全和社会稳定，守护人民的幸福和安宁，是人民警察的神圣职责。”2023年9月28日，习近平总书记回信勉励中国人民公安大学在读英烈子女，以英雄的父辈为榜样，矢志不渝做党和人民的忠诚卫士。&lt;/p&gt;&lt;p&gt;　　忠诚血脉薪火相传，浩然之气长存天地。&lt;/p&gt;&lt;p&gt;　　2014年设立烈士纪念日以来，每年9月30日，天安门广场都隆重举行烈士纪念日向人民英雄敬献花篮仪式。习近平总书记登上纪念碑基座，在花篮前驻足凝视，仔细整理花篮缎带，向永垂不朽的人民英雄致以崇高敬意。&lt;/p&gt;&lt;p&gt;　　烈士纪念日设立在国庆节前一天，深意不言而喻。&lt;/p&gt;&lt;p&gt;　　“向一切为民族独立和人民解放、国家富强和人民幸福建立了不朽功勋的革命先辈和烈士们，表示深切的怀念！”庆祝中华人民共和国成立70周年大会，天安门广场前红旗猎猎、铁流滚滚，习近平总书记深情追思。&lt;/p&gt;&lt;p&gt;　　从革命年代浴血奋战，到和平建设时期守初心担大任，中华民族的精神丰碑在接续奋斗中愈加巍然挺拔。&lt;/p&gt;&lt;p&gt;　　“国庆时刻”，是礼赞人民、致敬楷模的时刻。&lt;/p&gt;&lt;p&gt;　　2024年9月29日，中华人民共和国迎来75周年华诞之际，国家勋章和国家荣誉称号颁授仪式隆重举行。&lt;/p&gt;&lt;p&gt;　　“人民卫士”“人民艺术家”“人民科学家”“人民教育家”“人民医护工作者”……金色大厅里，“人民”二字一次次回响。&lt;/p&gt;&lt;p&gt;　　“这不是我一个人的荣誉，这份荣耀属于人民军队的每一员。”93岁的革命老兵黄宗德缓缓举手、庄严敬礼，全场报以长时间的热烈掌声。&lt;/p&gt;&lt;p&gt;　　“伟大时代呼唤英雄、造就英雄。英雄辈出，党和人民事业就会兴旺发达、长盛不衰。”习近平总书记在颁授仪式上深刻指出：“全党全国各族人民要以英雄模范为榜样，团结奋进、砥砺前行，汇聚起共襄强国盛举的磅礴力量。”&lt;/p&gt;&lt;p&gt;　　“在我国社会主义革命、建设、改革的非凡历程中，一代又一代奋斗者顽强拼搏、不懈奋斗”。礼赞祖国的时节，习近平总书记把深切的目光投向扎根一线的奋斗者：&lt;/p&gt;&lt;p&gt;　　2022年9月30日，会见C919大型客机项目团队代表并参观项目成果展览，寄语“要有雄心壮志，世界科技巅峰我们都要奋勇攀登”；&lt;/p&gt;&lt;p&gt;　　2024年9月27日，回信勉励中国一重产业工人代表，希望大家“坚守技能报国初心，弘扬劳模精神、劳动精神、工匠精神”……&lt;/p&gt;&lt;p&gt;　　礼赞今日的奋斗者，亦深情寄语民族的未来：&lt;/p&gt;&lt;p&gt;　　2017年10月3日，致信祝贺中国人民大学建校80周年时指出“坚持立德树人”；2025年9月30日，天津大学建校130周年之际，回信学校全体师生时强调“提高人才培养质量”；今年9月28日，四川大学建校130周年之际，给学校全体师生回信叮嘱“赓续红色血脉”……&lt;/p&gt;&lt;p&gt;　　为党育人，为国育才。当校庆与国庆同频，育人初心与家国情怀激荡起深沉交响。一封封信笺，指引着当代青年把青春理想融入强国建设、民族复兴伟业的价值坐标。&lt;/p&gt;&lt;p&gt;　　“国庆时刻”的礼赞，再次彰显一个深刻道理：人民是历史的创造者，人民是真正的英雄。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;坚强后盾·“伟大的中华人民共和国”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　10月4日，第二十届亚运会落下帷幕，中国代表团创亚运会境外参赛金牌数最好成绩。&lt;/p&gt;&lt;p&gt;　　“升国旗、奏国歌，这是我们献给祖国的生日礼物！”中国体育健儿深情告白。&lt;/p&gt;&lt;p&gt;　　成绩单上，中国女排的绝地奋起令人心潮澎湃：从此前在家门口错失奥运“直通”门票，到以全胜战绩再度问鼎亚洲之巅，中国女排勇夺亚运三连冠，再次诠释了女排精神。&lt;/p&gt;&lt;p&gt;　　体育，民族精神的写照，国家实力的缩影。&lt;/p&gt;&lt;p&gt;　　还记得2019年，以十一连胜战绩卫冕女排世界杯的中国女排，受邀参加中华人民共和国成立70周年招待会。&lt;/p&gt;&lt;p&gt;　　“广大人民群众对中国女排的喜爱，不仅是因为你们夺得了冠军，更重要的是你们在赛场上展现了祖国至上、团结协作、顽强拼搏、永不言败的精神面貌。”国庆招待会前，习近平总书记亲切会见中国女排代表，赞扬“女排精神代表着一个时代的精神，喊出了为中华崛起而拼搏的时代最强音”。&lt;/p&gt;&lt;p&gt;　　国庆招待会邀请各界代表人士参加，其中还有少数民族、港澳人士代表等身影。&lt;/p&gt;&lt;p&gt;　　一部中国史，就是各民族交融汇聚成多元一体中华民族的历史。&lt;/p&gt;&lt;p&gt;　　同一面五星红旗下的“国庆时刻”，见证着各民族同心同德、同向同行。&lt;/p&gt;&lt;p&gt;　　“我国各族人民共同缔造了中华人民共和国，都为中华民族形成和发展作出了卓越贡献。”中华人民共和国成立66周年之际，习近平总书记特别邀请来自内蒙古、广西、西藏、宁夏、新疆5个自治区的13名基层民族团结优秀代表，来到北京参加国庆活动，在人民大会堂亲切会见他们，并同大家合影留念。&lt;/p&gt;&lt;p&gt;　　“促进各民族像石榴籽一样紧紧拥抱在一起”“坚持以铸牢中华民族共同体意识为主线”……新时代以来3次全国民族团结进步表彰大会，总书记都亲自出席并发表重要讲话。&lt;/p&gt;&lt;p&gt;　　今天的神州大地上，各族儿女手足相亲、守望相助，五十六个民族凝结为牢不可破的中华民族共同体，构筑起维护国家统一、民族团结的坚固防线。&lt;/p&gt;&lt;p&gt;　　血脉相连、命运与共，“国庆时刻”涌动着港澳同胞与祖国风雨同舟的赤子深情。&lt;/p&gt;&lt;p&gt;　　2014年国庆前夕，习近平主席亲切会见香港工商界专业界访京团时深情指出：“65年来，在中国共产党领导下，我国发展取得了举世公认的巨大成就。在这一过程中，香港与祖国风雨同舟、命运相依，发挥了独特的重要作用。”&lt;/p&gt;&lt;p&gt;　　2019年，重阳节与国庆假期相逢，习近平主席回信澳门街坊总会颐骏中心长者义工组的30位老人，亲切问候的同时勉励他们“多向澳门青年讲一讲回归前后的故事”。&lt;/p&gt;&lt;p&gt;　　情真意切，语重心长。这份念兹在兹的牵挂生动印证：祖国始终是香港澳门保持长期繁荣稳定最坚强的后盾。&lt;/p&gt;&lt;p&gt;　　“国庆时刻”，亦是中国与世界携手同行的友谊时刻。&lt;/p&gt;&lt;p&gt;　　“中文传统友谊源远流长、历久弥坚，两国在携手现代化进程中树立了大小国家相互尊重、平等相待、共同发展的典范。”今年9月30日，习近平主席同文莱苏丹哈桑纳尔互致贺电，庆祝两国建交35周年。&lt;/p&gt;&lt;p&gt;　　每逢国庆时节，电函从五洲四海汇聚北京。其中，不乏沉甸甸的历史重量与时代印记。&lt;/p&gt;&lt;p&gt;　　“俄中紧密、互利的关系成功经受住了时间的考验”“一如既往地继承和发展具有悠久历史和优良传统的朝中友谊符合两国根本利益”“高度赞赏中方为推动地区和平、稳定与共同繁荣所发挥的重要作用”……&lt;/p&gt;&lt;p&gt;　　深厚的情谊、诚挚的赞誉，见证新中国广交天下朋友的丰硕成果，饱含对中国发展的由衷钦佩，凝聚起赓续传统友谊、携手开创未来的坚定共识。&lt;/p&gt;&lt;p&gt;　　大国之声，世界倾听。金秋的时序里，全球目光一次次聚焦东方，见证大国担当：&lt;/p&gt;&lt;p&gt;　　2013年10月3日，习近平主席出访印尼期间提出共同建设21世纪海上丝绸之路倡议，为国际经济合作开辟新空间；&lt;/p&gt;&lt;p&gt;　　2015年9月28日，在纽约联合国总部出席第七十届联合国大会一般性辩论，打造人类命运共同体的总布局、总路径清晰呈现；&lt;/p&gt;&lt;p&gt;　　今年国庆前夕，习近平主席时隔11年再次对美国进行国事访问，丰富中美建设性战略稳定关系的内涵，造福两国、惠及世界……&lt;/p&gt;&lt;p&gt;　　“国庆时刻”置于世界坐标系中，大国格局与天下胸怀充分彰显。&lt;/p&gt;&lt;p&gt;　　…………&lt;/p&gt;&lt;p&gt;　　岁月峥嵘，征程浩荡，神州大地换了人间。&lt;/p&gt;&lt;p&gt;　　今年国庆假期，中国人民革命军事博物馆，“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”迎来参观热潮。展厅内，滚烫的“中国红”与厚重的历史长卷交相辉映；“弘扬伟大长征精神  走好新时代的长征路”的主题标语庄严凝重。&lt;/p&gt;&lt;p&gt;　　昨天的苦难辉煌路，化作今日的万里江山阔。&lt;/p&gt;&lt;p&gt;　　今年国庆招待会上，习近平总书记激励全党全国各族人民奋勇前进——&lt;/p&gt;&lt;p&gt;　　“经过长期探索和实践，中国特色社会主义制度展现出巨大优势，我国国家治理体系和治理能力现代化水平不断提高，实现中华民族伟大复兴势不可挡。只要我们坚定信心、锚定目标，一步一步扎实往前走，成功就一定属于伟大的中国共产党、伟大的中国人民、伟大的中华人民共和国！”&lt;/p&gt;&lt;p&gt;　　站在“国庆时刻”展望未来，大党大国步履坚定、一往无前。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  程  龙  黄  超&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184220&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184220.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184220.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “国庆时刻”，感悟新时代治国理政之道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184220.html#[01版：要闻] “国庆时刻”，感悟新时代治国理政之道</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 福建久久为功提升文化影响力</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184221.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 赓续八闽文脉  展现时代气韵 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 福建久久为功提升文化影响力 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  廖文根  付  文&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　10月4日上午，福建福州市三坊七巷历史文化街区吸引了大量游客。不少人来到宫巷26号的沈葆桢故居参观。&lt;/p&gt;&lt;p&gt;　　“这里是三坊七巷内建设年代较为久远、历史文化价值较高的古厝之一。修复坚持最大保留、最少干预，严格按标准施工，既严把材料关，又恪守古法工艺，保留古调神韵。”古建筑修复专家阮章魁介绍。&lt;/p&gt;&lt;p&gt;　　2024年10月，习近平总书记在福建考察时强调：“要在提升文化影响力、展示福建新形象上久久为功。”“加强文化遗产保护传承，坚持不懈做好以文化人工作，积极推进移风易俗。推进文化和旅游深度融合发展，把文化旅游业培育成为支柱产业。”&lt;/p&gt;&lt;p&gt;　　深入贯彻落实习近平总书记重要指示精神，福建加快建设更高水平文化强省，在推动中华优秀传统文化创造性转化、创新性发展中赓续八闽文脉，久久为功提升文化影响力。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;以更大力度抓好文物保护&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　福建文源深、文脉广、文气足，闽都文化、朱子文化、海丝文化等交相辉映。&lt;/p&gt;&lt;p&gt;　　9月30日下午，福州市晋安区晋安支路，市文物考古工作队领队李福生正在对一处地块进行细致发掘。“目前已发现汉代文物10余件，预计10月中旬结束发掘。”李福生介绍，按福州市规定，土地出让前均须开展考古；发现重要文物，原址保护、终止出让。&lt;/p&gt;&lt;p&gt;　　福建抓好文物古迹、历史街区、传统村落等文化遗产系统性保护，维护历史真实性、风貌完整性、文化延续性。&lt;/p&gt;&lt;p&gt;　　持续推进文物保护“一个局、一个队、一颗印、一百万元”的“四个一”机制。福州各县（市、区）文化体育和旅游局加挂文物局牌子，全市文物管理体系上下贯通；市考古队参与南岛语族起源与扩散研究等2项“考古中国”课题；城乡建设过程中，土地出让、项目建设须征得文物部门同意；福州年度市级文物保护经费自2024年起增至1500万元。&lt;/p&gt;&lt;p&gt;　　始终把保护放在第一位。福建“十四五”时期累计实施文物保护修缮工程1200多项，12个历史文化名城、63个历史文化街区、200个历史文化名镇名村及1193个传统村落均完成保护规划编制，福建不可移动文物超4万处。&lt;/p&gt;&lt;p&gt;　　“我们试点‘文物保险+服务’，引入保险机构、科技公司和专门巡查人员织密防护网。”福建省文物局局长傅柒生介绍，已投入3000余万元推进试点，全省三成以上全国重点文保单位、两成以上省级文保单位纳入保障。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;以时代精神激活优秀传统文化生命力&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　走进福州市鼓楼区冶山春秋园，带有“福”元素的雕塑、长椅随处可见，融入市民日常生活。&lt;/p&gt;&lt;p&gt;　　开发“福文创”、发展“福工艺”、创作“福文艺”、拓展“福之味”、打造“福文旅”……福建发挥社科院所、高校、智库作用，开展“福”文化课题研究，推动“福”文化融入精神文明、城乡建设和民生事业。&lt;/p&gt;&lt;p&gt;　　多姿多彩的八闽文化，是“闽派”文艺繁荣的源头活水。福建推动时代精神与中华优秀传统文化相互呼应。&lt;/p&gt;&lt;p&gt;　　“以艺术激活优秀传统文化生命力，挖掘富有当代价值的内容，提升原创力、增强感染力，实现‘破圈’‘跨界’传播。”福建省文联党组书记李东河介绍，从《山海情》到《沉默的荣耀》，“十四五”时期，福建19部作品获“五个一工程”奖，文艺家和作品获“文华奖”“梅花奖”等全国大奖64人（项）次。&lt;/p&gt;&lt;p&gt;　　福州古称侯官。近代以来，这里走出了林则徐、沈葆桢、严复等先贤。福建将侯官文化传承与福州大学城新时代立德树人工程紧密结合，自2022年起每年举办侯官论坛，挖掘其精神内涵与育人价值。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;以现代技术赋能文旅深度融合&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　在福州市非物质文化遗产展示馆，拳法体感互动区借助数字科技，打造沉浸式空间。游客张万明对着屏幕挥拳，感受咏春拳魅力：“过去只看招式图解，现在能实地体验，过瘾！”&lt;/p&gt;&lt;p&gt;　　锚定文旅深度融合，福建实施全域文旅提升工程，围绕“清新福建·闽式生活”品牌，深化文旅与农业、工业、海洋、体育、科技、影视、非遗等领域的跨界“联姻”，全力培育文化旅游支柱产业、打造世界知名旅游目的地。&lt;/p&gt;&lt;p&gt;　　“先订戏票，再买机票”，有1300多年历史的泉州提线木偶戏，是外地游客来泉州体验的特色文旅项目。“全年演出场场爆满，今年国庆假期7天共将演出140场。”泉州市木偶剧团负责人林凤锦说，“我们挖掘传统戏，复排经典剧目，同时打造新编原创剧目，结合虚拟现实、人工智能技术，探索与旅游景区、网游和新媒体平台的合作新模式，持续带给观众新体验，让‘为一出戏赴一座城’持续升温。”&lt;/p&gt;&lt;p&gt;　　坚持以文塑旅、以旅彰文，福建推动八闽人文与时尚潮流、创意元素深度交织，成功打造《月映武夷》《再回闽南》等沉浸式文旅项目，“跟着演出、跟着影视、跟着赛事、跟着世遗去旅行”渐成风尚。&lt;/p&gt;&lt;p&gt;　　牢记习近平总书记殷殷嘱托，福建加快更高水平文化强省建设，全面展现新时代八闽文化气韵，为谱写新福建建设新篇章提供坚强思想保证、强大精神力量、有利文化条件。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  廖文根  付  文&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 赓续八闽文脉  展现时代气韵 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184221&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184221.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184221.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 福建久久为功提升文化影响力 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184221.html#[01版：要闻] 福建久久为功提升文化影响力</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 假期消费市场平稳有序</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184222.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 创新场景  丰富供给 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 假期消费市场平稳有序 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　习近平总书记强调：“要增强消费能力，改善消费条件，创新消费场景，使消费潜力充分释放出来。”&lt;/p&gt;&lt;p&gt;　　商务部10月4日发布消息显示：国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。&lt;/p&gt;&lt;p&gt;　　国庆假期，黑龙江哈尔滨一家老字号餐馆饭菜飘香。当地推出“金秋冰城·乐惠双节”系列促消费活动，引导团购平台投入专项补贴。“套餐把特色菜都搭配好了，划算又省心。”来自河北的游客张素妹边核销团购码边说。&lt;/p&gt;&lt;p&gt;　　在江苏宿迁宿豫区京东天地商业综合体，商户精准对接需求，推出折扣让利、到店赠礼等一系列优惠举措。&lt;/p&gt;&lt;p&gt;　　新疆喀什一家家电卖场内，不少市民前来选购。卖场负责人介绍，国补叠加门店折扣等，国庆假期消费者最多可享五重补贴。&lt;/p&gt;&lt;p&gt;　　商务部商务大数据显示：国庆假期前三天，商务部重点监测的78个步行街（商圈）客流量、营业额同比分别增长3.4%、5.3%。消费品以旧换新带动销售额196.3亿元，惠及348.3万人次。&lt;/p&gt;&lt;p&gt;　　这个假期，各地立足资源禀赋丰富供给，更好满足消费者个性化、品质化需求。&lt;/p&gt;&lt;p&gt;　　在浙江丽水缙云仙都景区，主题闯关活动将景区地标串珠成链，游客与经典影视人物互动，沉浸式体验市集等场景。&lt;/p&gt;&lt;p&gt;　　在四川成都青城山—都江堰景区，全新升级的刷脸通行设备让游客通行更高效。成都深化“放心吃、放心购、放心游”专项行动，消费纠纷“认定即赔、先赔后追”。&lt;/p&gt;&lt;p&gt;　　内蒙古各地推出多种文旅活动。呼和浩特烧麦美食大会吸引市民游客前来品尝，包头推出“约惠鹿城·乐享金秋”促消费系列活动，兴安盟五角枫观赏区推出环保自驾免停车费活动……假期首日，内蒙古接待国内游客370.16万人次，同比增长47.51%。&lt;/p&gt;&lt;p&gt;　　广东广州天河路商圈的正佳广场，管乐喷泉音乐会吸引众多听众；转角处，街头百戏、互动巡游轮番登场。消费抽奖、满减补贴等活动同步推出，演出串起研学、餐饮和购物。&lt;/p&gt;&lt;p&gt;　　走进辽宁沈阳和平区的“辽宁优品”优选店，盘锦蟹稻家河蟹礼盒等商品错落陈列，不少游客专程赶来选购伴手礼。辽宁以“辽宁优品”公共品牌为抓手，打通优质供给与消费升级的通道。&lt;/p&gt;&lt;p&gt;　　新场景、新业态特色鲜明。&lt;/p&gt;&lt;p&gt;　　湖南长沙雨花区“化影拾光·1954”园区由老厂房改造而成，相声工坊、窑烤比萨与红砖墙、工业桁架共生共存；宁乡科学教育基地九大主题场馆内，虚拟现实太空漫游、无人机实操等把科普变成互动体验。张家界武陵山片区非遗展示展演展销活动现场，掐丝珐琅、湘西竹编、邵阳木雕等集中展示，侗族芦笙舞等精彩纷呈，人们从中感悟文化之美。&lt;/p&gt;&lt;p&gt;　　国庆假期，山东济宁任城区古运河边，实景演出《太白对月·剑起诗魂》上演。当地依托特色资源，在“运河记忆”文旅休闲街区推出运河青春市集等活动。“带孩子来看‘李白’、逛运河，体验传统文化，很有意义。”江苏徐州游客傅娟说。&lt;/p&gt;&lt;p&gt;　　妆造旅拍热度攀升，成为文旅深度融合的生动注脚。身穿古风服饰、头戴珠钗，在河南开封万岁山武侠城，不少游客“换装”游玩。美团数据显示，2日，“开封民族服饰旅拍”“妆造旅拍”相关搜索量同比增长143%，订单增长181%。&lt;/p&gt;&lt;p&gt;　　神州租车数据显示，假期租车市场呈现长租期、跨城游等特征，租车预订量与用户数双双同比增长150%，新能源车型预订量增长超400%。&lt;/p&gt;&lt;p&gt;　　国铁郑州局开行“中原铁道·大河之南号”旅游列车，打造适配银发结伴、亲友同行的产品；国铁郑州局开封站携手景区推出惠民活动，多措并举促进文旅消费。&lt;/p&gt;&lt;p&gt;　　（本报记者王珂、王东辉、吴勇、刘军国、刘洪超、宋豪新、杨迅、尚嵘峥、郭晓龙、洪秋婷） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 创新场景  丰富供给 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184222&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184222.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184222.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 假期消费市场平稳有序 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184222.html#[01版：要闻] 假期消费市场平稳有序</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 用好红色资源  赓续精神血脉（今日谈）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184223.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 用好红色资源  赓续精神血脉（今日谈） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							孟繁哲&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”上，战役场景带观众感受峥嵘岁月；贵州遵义娄山关景区，《娄山关大捷》实景演出吸引大量游客观看……国庆假期，追寻红色足迹成为热门出游选择。&lt;/p&gt;&lt;p&gt;　　红色文旅为什么受欢迎？人们奔赴的不只是景点，更是共同的历史记忆和精神家园。革命年代，党同人民生死相依、患难与共；新时代，党和人民想在一起、干在一起。深厚的精神认同，构成红色文旅最持久的吸引力，也让老区发展有了坚实依托。&lt;/p&gt;&lt;p&gt;　　越是认同深厚，越要用心让红色资源发挥更大社会价值。用好新技术和文旅业态，把人物讲活、把史实讲准、把精神讲透，就能不断增强红色文化感染力，打开相关产业发展空间。&lt;/p&gt;&lt;p&gt;　　前行道路上，还有新的“娄山关”“腊子口”。在追寻中赓续红色血脉，传承弘扬伟大长征精神，我们定能在向新攀高中追求卓越，在实干担当中写就事业新篇章。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;孟繁哲&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184223&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184223.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184223.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 用好红色资源  赓续精神血脉（今日谈） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184223.html#[01版：要闻] 用好红色资源  赓续精神血脉（今日谈）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 出游赏景 秋意正浓</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184224.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 出游赏景 秋意正浓 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　10月4日，甘肃省张掖市甘州区黑河林场秋色宜人，市民游客骑行赏景。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　杨永伟摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/1662d149-65cb-44cb-8ada-022c69efff9c.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　10月2日，北京市日坛公园内菊花盛放，不少游客前来“打卡”拍照。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　宋家儒摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/1c9f7a98-3fd2-4fde-83ed-59ac8e224798.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184224&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184224.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184224.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 出游赏景 秋意正浓 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184224.html#[01版：要闻] 出游赏景 秋意正浓</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 第二十届亚运会闭幕</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184225.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 第二十届亚运会闭幕 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 中国体育代表团连续十二届位居金牌榜榜首 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报名古屋10月4日电  （记者刘硕阳、陶相安）当地时间10月4日晚，第二十届亚洲运动会在日本爱知县名古屋市闭幕。&lt;/p&gt;&lt;p&gt;　　本届亚运会，中国体育代表团共派出815名运动员参加38个大项59个分项369个小项的比赛，最终收获169金89银83铜共341枚奖牌，连续十二届位居金牌榜榜首，金牌总数创境外参加亚运会新高。在射击等项目中，中国队选手共打破8项世界纪录、11项亚洲纪录、22项亚运会纪录。&lt;/p&gt;&lt;p&gt;　　年轻运动员的精彩表现成为本届亚运会中国体育代表团的一大亮点。17岁的陈妤颉成为亚洲最年轻的女子“百米飞人”。13岁的于子迪夺得游泳项目3枚金牌，3项成绩均打破亚洲纪录或亚运会纪录。19岁的张展硕夺得游泳项目7枚金牌，追平亚运会历史个人单届夺金纪录。男子足球队时隔28年再次站上亚运会领奖台，创造了亚运会男足项目设置23岁以下年龄限制后中国男足的最好成绩。（相关报道见第五版） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 中国体育代表团连续十二届位居金牌榜榜首 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184225&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184225.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184225.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 第二十届亚运会闭幕 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184225.html#[01版：要闻] 第二十届亚运会闭幕</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 红色街区焕发新活力（赓续长征精神  奋进复兴征程·记者再走长征路）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184226.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 贵州遵义构建十五分钟文旅生态圈 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 红色街区焕发新活力（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  程  焕&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/7fe6d1d5-771c-4fb6-b7c2-fd5db3b2b70b.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　游客在遵义会议陈列馆参观。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　袁福洪摄（新华社发）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/7fe6d1d5-771c-4fb6-b7c2-fd5db3b2b70b.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　夜幕降临，贵州遵义老城灯火亮起。红军街上，本地特产、红色文创、美食饮品等店铺鳞次栉比。继续前行，遵义会议会址、红军总政治部旧址、红军遵义警备司令部旧址等红色旧址，让人想起那段峥嵘岁月。&lt;/p&gt;&lt;p&gt;　　1935年1月，中共中央政治局在遵义召开扩大会议，在最危急关头挽救了党、挽救了红军、挽救了中国革命。长征途中，红军两度进驻遵义，红军街成为军民交往的重要区域。&lt;/p&gt;&lt;p&gt;　　一条街道，连着历史，承载当下。为更好传承红色文化、激发城市活力，2007年，遵义统一规划建设红军街，将红色文化展示、地方特色消费、旅游体验融为一体。&lt;/p&gt;&lt;p&gt;　　红军街北街口，一间不大的门店里，喷香的鸡蛋糕摆满柜台。店主陶正礼是土生土长的遵义人，顾客进店时，他常会夹起一块糕点请顾客品尝，顺势讲起那段历史：“这是遵义的传统点心。当年红军战士进驻遵义时，当地百姓用热乎乎的鸡蛋糕，为艰苦行军的战士送去香甜。”&lt;/p&gt;&lt;p&gt;　　在红军街一带做生意逾20年，陶正礼卖过酒、销过茶，最钟情的仍是鸡蛋糕，“它连接着长征记忆，也是遵义的一张名片。”红军街上，做鸡蛋糕的门店越来越多，陶正礼感慨，“大伙齐心协力把传统味道传承下去，就能让更多人感受到遵义的红色情怀。”&lt;/p&gt;&lt;p&gt;　　传承老味道，红色文化有了新表达。2025年，在遵义会议召开90周年之际，改造一新的遵义1935街区亮相。街区把红军街、遵义纪念公园与1935广场串珠成链，历史文化、红色文化与现代休闲生活在这里交融共生。&lt;/p&gt;&lt;p&gt;　　怀着对家乡红色文化的深厚感情，王朗在街区开起一家红色主题文创店，“把红色元素融入文具、家居、饰品、纪念品等，让长征历史变得可感可知，增强红色文化的感染力和传播力。”他的店铺吸引不少游客打卡选购，高峰期单日营业额可达七八千元。&lt;/p&gt;&lt;p&gt;　　遵义老城围绕遵义会议纪念馆构建15分钟文旅生态圈，串起红色记忆、市井烟火与山水景观。2025年，遵义1935街区接待游客超200万人次，140余户商户在红色旅游带动下稳步增收。&lt;/p&gt;&lt;p&gt;　　“赓续红色血脉，守护历史根脉，这条老街正焕发出新的活力。”遵义市历史文化研究会原副会长陆昌友说。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  程  焕&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 贵州遵义构建十五分钟文旅生态圈 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184226&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184226.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184226.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 红色街区焕发新活力（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184226.html#[02版：要闻] 红色街区焕发新活力（赓续长征精神  奋进复兴征程·记者再走长征路）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 回望伟大远征  感悟信仰力量</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184227.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 走进纪念中国工农红军长征胜利90周年主题展览——&lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 回望伟大远征  感悟信仰力量 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  任彤彤&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　国庆假期，中国人民革命军事博物馆人潮涌动。怀着同样的赤诚，人们共赴这场红色之约：“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”。&lt;/p&gt;&lt;p&gt;　　此次展览展陈面积约3300平方米，展出357张照片图表、1061件（套）文物文献，首次展出的文物文献有300余件。从“战略转移  踏上向死而生的漫漫征途”到“弘扬伟大长征精神  在新的长征路上奋勇前进”，展览分为7个部分，全景式再现红军长征的壮阔史诗。&lt;/p&gt;&lt;p&gt;　　走进序厅，巨大的立体沙盘清晰铺展。“瑞金、全州、遵义……”参观者用目光追随当年的行军路线，轻声念出那些熟悉的地名。&lt;/p&gt;&lt;p&gt;　　00后游客邱正驻足良久。“‘红军不怕远征难，万水千山只等闲。’看着眼前的路线图，觉得这句诗格外有分量。”他说，在国庆假期来到军博参观，既想与国同庆，也想向革命先辈表达自己的由衷敬意。&lt;/p&gt;&lt;p&gt;　　“大家知道这条征兵线的高度是由什么确定的吗？”循着讲解员手指的方向，参观者围拢到展墙前，一道距地面约1.5米的刻痕映入眼帘。讲解员介绍，这道刻痕复原的是福建长汀中复村一座廊桥上的征兵线，一支汉阳造枪身加刺刀的高度，是当年红军征兵的最低门槛。&lt;/p&gt;&lt;p&gt;　　在场的孩子们纷纷走上前去，踮起脚尖比照身高。看到这一幕，中学教师申潇鹏感慨：“这个高度意味着当年踏上长征路的红军先烈中，很多是年纪不大的孩子。先辈们不畏千难万险，才换来了如今的国泰民安。”&lt;/p&gt;&lt;p&gt;　　血战湘江、遵义会议、四渡赤水、飞夺泸定桥……描绘长征途中重要事件的14个场景分布于各展区，参观者一路前行，仿佛走进了那场伟大的远征。&lt;/p&gt;&lt;p&gt;　　长征这条“红飘带”，是无数红军先烈的鲜血染成的。&lt;/p&gt;&lt;p&gt;　　湘江战役中，红五军团第三十四师浴血奋战，与十几倍于己的敌人激战数日，成功掩护红军主力渡过湘江。师长陈树湘重伤被俘，在押送途中，毅然“断肠明志”，壮烈牺牲，年仅29岁。&lt;/p&gt;&lt;p&gt;　　90多年后的今天，展厅里的陈树湘雕塑目光如炬，仿佛在凝望着他守护的壮阔山河。雕塑背后的展墙上，一行字赫然在目——“为苏维埃流尽最后一滴血”，这是陈树湘用生命践行的誓言。&lt;/p&gt;&lt;p&gt;　　“他们的牺牲与奉献，我们永远不应该忘记。”来自河南南阳的游客李清刚动容地说，“正是革命先烈舍生取义，才换来如今的山河安宁。下次我想带外孙一起来参观，把英雄的故事讲给他听。”&lt;/p&gt;&lt;p&gt;　　红军爬雪山时穿的蓝单衣、过草地时钓鱼用的鱼线、向白利寺借粮食留下的收据……每件文物文献背后，都是一段可歌可泣的故事。&lt;/p&gt;&lt;p&gt;　　“这是曾给周恩来当警卫员的肖朝忠过草地时，吃剩的半截皮带。”讲解员指向展柜，半截皮带静静躺着，当年被刀切割的痕迹清晰可见。&lt;/p&gt;&lt;p&gt;　　长征途中，面对极其罕见的恶劣环境，红军将士“风雨侵衣骨更硬，野菜充饥志越坚”，以顽强毅力穿越被称为“死亡陷阱”的茫茫草地。“我从小就常听老人讲红军爬雪山、过草地的故事，但真正看到这半截皮带，感受完全不一样。”来自四川成都的游客薛智鹏说，“这次特意带孩子来，就是想让他更直观地感悟伟大长征精神。”&lt;/p&gt;&lt;p&gt;　　参观接近尾声，许多人在留言台写下感言。一名军人写道：“一代人有一代人的长征，要不忘初心、牢记使命，走好新时代的长征路。”几名中学生一笔一画地写下：“伟大长征精神是中华民族宝贵的精神财富”“没有先辈们的牺牲，就没有今天的山河”。还有游客抄录下《忆秦娥·娄山关》的名句：“雄关漫道真如铁，而今迈步从头越。”&lt;/p&gt;&lt;p&gt;　　军博相关工作人员介绍，主题展览自9月25日面向公众开放以来，公众参观热情高涨、反响热烈，达到了良好的宣传教育效果，将作为基本陈列长期展出。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  任彤彤&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 走进纪念中国工农红军长征胜利90周年主题展览——&lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184227&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184227.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184227.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 回望伟大远征  感悟信仰力量 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184227.html#[02版：要闻] 回望伟大远征  感悟信仰力量</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 智慧农业聚木成林（活力中国调研行）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184228.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 黑龙江不断强化农业科技和装备支撑 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 智慧农业聚木成林（活力中国调研行） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  韩春瑶  方  圆  刘梦丹&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　金秋时节，龙江大地，稻浪千重，沃野生金。广袤田野里，物联网设备星罗棋布，智能农机大显身手，智慧农业在黑土地上铺展多彩画卷。&lt;/p&gt;&lt;p&gt;　　2023年，习近平总书记在黑龙江考察时强调，“率先实现农业物质装备现代化、科技现代化、经营管理现代化、农业信息化、资源利用可持续化。”&lt;/p&gt;&lt;p&gt;　　智慧农业是发展现代农业的重要着力点。黑龙江不断强化农业科技和装备支撑，全方位提升智慧农业应用水平。&lt;/p&gt;&lt;p&gt;　　一个创新平台，用AI（人工智能）技术加快育种。&lt;/p&gt;&lt;p&gt;　　佳木斯国家农业高新技术产业示范区，崖州湾国家实验室粮油作物创新平台试验田里，百余种水稻新品种迎来收获。&lt;/p&gt;&lt;p&gt;　　聚焦生物育种产业，当地积极对接科研院所和科技企业，崖州湾国家实验室、多家省级重点实验室相继落地。创新平台负责人江国新介绍，借助AI算法等技术，水稻品种的稳定性和抗性提升明显加快，育种周期从过去的5至8年缩短到3至5年。&lt;/p&gt;&lt;p&gt;　　一个智慧农场，为定制农业赋能增效。&lt;/p&gt;&lt;p&gt;　　桦川县玉成现代农机专业合作社的6000亩定制稻田里，气象监测、虫情监测、智能灌溉等设备分布田间，客户通过手机可以随时查看地块实况。&lt;/p&gt;&lt;p&gt;　　“田间各种监测设备，对水稻完整生长周期实行全程影像留痕、数据采集，保障定制稻米品质透明、安全可控。”合作社理事长李玉成说，合作社签约总额达3318万元，带动合作社社员户均增收2300元。&lt;/p&gt;&lt;p&gt;　　桦川县已培育定制农业经营主体15家、标准化示范基地3个，定制农业总产值达3.14亿元。&lt;/p&gt;&lt;p&gt;　　一张数字地图，让田间管理有据可依。&lt;/p&gt;&lt;p&gt;　　富锦市万亩水稻公园，连片稻田一望无际。走进田边的知稻科技体验馆，数字大屏上清晰呈现着一张变量施肥地图，布满橙、黄、绿三色圆点。&lt;/p&gt;&lt;p&gt;　　“每个圆点代表边长3米的正方形，不同颜色代表不同的施肥量。”富锦市农业技术推广中心主任张羽介绍，“借助卫星遥感、低空无人机监测和土壤测土配方的监测数据，形成精准施肥的‘处方图’。”&lt;/p&gt;&lt;p&gt;　　变量施肥农机在田里作业，用肥数据随着作业轨迹流动变换，精准控制着肥量。“数据已成为田间管理的重要依据。”张羽说，在100多亩的试验田里，水稻种植底肥减少10%，增产超3%。&lt;/p&gt;&lt;p&gt;　　一个农服APP，把服务送到田间地头。&lt;/p&gt;&lt;p&gt;　　有了“佳家农”农服APP，农户种田更省心——不用实地巡田，便能清楚掌握地块旱涝情况和庄稼长势；遇到病虫害，拍照上传APP，在线分析病害类型；需要农机服务，APP上一键下单，农机合作社在线接单……&lt;/p&gt;&lt;p&gt;　　这背后，是佳木斯国家农高区联合中国科学院打造的智慧农业服务平台。“上线一年多，平台已免费服务佳木斯及周边超6万农户，覆盖耕地超700万亩。”中国科学院计算技术研究所高级工程师、佳木斯国家农高区管委会副主任陈海华说。&lt;/p&gt;&lt;p&gt;　　“依托卫星遥感和算法分析，农户无需购置专业设备，一部手机即可享受服务。”陈海华介绍，“经测算，农户使用平台可实现亩均增产约3%，农资购买成本降低约10%。”&lt;/p&gt;&lt;p&gt;　　一条智能产线，让生产各环节安心溯源。&lt;/p&gt;&lt;p&gt;　　十月稻田集团的通河县彩桥米业有限公司生产车间，全自动加工生产线正开足马力生产。清理、砻谷、碾米、抛光、色选……近30米的碾米线上，稻谷褪去金黄色外壳，变身洁白晶莹的大米。&lt;/p&gt;&lt;p&gt;　　生产车间管控室数字大屏上，加工数据实时呈现。“种好粮，卖好粮，中间更要加工好。”企业品控部经理吴延清说，“以前靠经验，现在靠数据。”智能化生产线让一袋袋新鲜大米走上消费者餐桌。&lt;/p&gt;&lt;p&gt;　　同时，通过构建全流程数字化模式，企业订单、产能、库存数据实时联动，实现按需定制化生产。从原粮入库到成品出库配送，每一个环节都可监控、可溯源。&lt;/p&gt;&lt;p&gt;　　智慧奔流，孕育新芽。2025年，黑龙江印发大力发展智慧农业实施方案，并成立智慧农业工作专班，加强统筹协调，凝聚部门、企业、科研院所合力，推动智慧农业规模化、标准化发展。&lt;/p&gt;&lt;p&gt;　　黑龙江高性能播种机、乘坐式水稻插秧机、玉米收获机等先进适用农机保有量稳定增长，植保无人机保有量全国第一；全省农作物耕种收综合机械化率超99%，连续多年稳居全国首位。&lt;/p&gt;&lt;p&gt;　　从育种到播种，从管护到加工，智慧农业在龙江大地聚木成林。以科技为支撑，黑龙江加快构建现代农业产业体系，为保障国家粮食安全、端稳中国饭碗提供坚实支撑。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  韩春瑶  方  圆  刘梦丹&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 黑龙江不断强化农业科技和装备支撑 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184228&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184228.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184228.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 智慧农业聚木成林（活力中国调研行） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184228.html#[02版：要闻] 智慧农业聚木成林（活力中国调研行）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 石榴红了  日子更甜了（新场景里看活力）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184229.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 新疆叶城县推动石榴全链条增值 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 石榴红了  日子更甜了（新场景里看活力） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  贺  勇  阿尔达克&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating" data-original-title="&amp;lt;p&amp;gt;　　图为10月3日，托万欧壤村的石榴园里，果农展示刚采摘的石榴。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　苏比怒尔·吐鲁洪摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/3b93ee71-571c-4576-98e3-86d20f7cb212.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　提竹篮，穿园中，红彤彤的果实满枝丫，家长抱着娃娃，小手颤巍巍摘下圆滚滚的大石榴。&lt;/p&gt;&lt;p&gt;　　国庆假期，新疆喀什地区叶城县伯西热克镇托万欧壤村的石榴园里，游客沉浸在田园采摘的乐趣中。不远处，红太阳林果农民专业合作社的加工车间内，鲜果经分拣、灭菌，清亮的石榴汁源源不断灌入玻璃瓶。&lt;/p&gt;&lt;p&gt;　　一边清点收来的石榴，一边回复手机上不断弹出的订单消息，“我们的石榴汁口感好，预订客户很多。”合作社负责人努尔麦麦提·吐拉麦提喜上眉梢。&lt;/p&gt;&lt;p&gt;　　年均日照超3000小时，昼夜温差达15摄氏度以上，昆仑山雪水浸润沃土……叶城种植石榴条件得天独厚。&lt;/p&gt;&lt;p&gt;　　早些年，当地石榴多零星栽种在房前屋后，收获后大多自家品尝，至多运到街边零售。&lt;/p&gt;&lt;p&gt;　　“好石榴不能只守在家门口卖。”2018年，在托万欧壤村村委会帮助下，努尔麦麦提·吐拉麦提牵头成立合作社，流转200亩石榴园，18户村民入社抱团发展。标准化果园管护，统一修枝、防治病虫害、铺设滴灌带，果品产量稳步提升。&lt;/p&gt;&lt;p&gt;　　合作社如今流转果园增至1800亩，社员也从最初的18户壮大到50余户。放眼全县，石榴种植面积达8301亩，年产量2300多吨。&lt;/p&gt;&lt;p&gt;　　鲜果保质期只有三五天，果子种得好，如何延长产业链、化解鲜果集中上市的销售压力，成为新课题。&lt;/p&gt;&lt;p&gt;　　“瞧这石榴汁，网店上架‘秒空’……”努尔麦麦提·吐拉麦提说。去年底，依托上海援疆资金投入500多万元建成的石榴深加工生产线投产，石榴汁、石榴果酒、石榴白酒等产品，让石榴附加值持续提升。&lt;/p&gt;&lt;p&gt;　　围着石榴转，打出更多组合拳。&lt;/p&gt;&lt;p&gt;　　距离果园不远的石榴风情园，彩虹滑梯、造浪池、亲子戏水区水花飞溅，水上乐园游人众多。房车营地、民宿酒店迎来一批又一批自驾游客。&lt;/p&gt;&lt;p&gt;　　“这里不仅可以品尝甜滋滋的石榴，还可以垂钓露营、玩水娱乐，享受悠闲时光。”石榴风情园负责人杨彪介绍，“村民在家门口吃上了旅游饭。”&lt;/p&gt;&lt;p&gt;　　线下热闹，线上也红火。干部、村民纷纷走进直播间，推着石榴借助网络走出叶城、走向全国。“直播带货，打开了销路，让更多人知晓这昆仑山下的红石榴。”伯西热克镇镇长麦麦提明·依则孜说。&lt;/p&gt;&lt;p&gt;　　从卖鲜果到卖产品、从零散种植到规模经营、从单一林果种植到农文旅融合发展，叶城县持续推动石榴全链条增值。石榴红了，日子更甜了，推进乡村全面振兴的生动画卷，在昆仑山下徐徐铺展。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  贺  勇  阿尔达克&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 新疆叶城县推动石榴全链条增值 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184229&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184229.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184229.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 石榴红了  日子更甜了（新场景里看活力） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184229.html#[02版：要闻] 石榴红了  日子更甜了（新场景里看活力）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] “国庆时刻”，感悟新时代治国理政之道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184230.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “国庆时刻”，感悟新时代治国理政之道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  程  龙  黄  超&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“此时此刻，我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。”9月30日，庆祝中华人民共和国成立77周年招待会上，习近平总书记的话语铿锵有力。&lt;/p&gt;&lt;p&gt;　　历史总在特殊节点驻足，凝望来路，叩问远方。&lt;/p&gt;&lt;p&gt;　　国庆，不仅是亿万中华儿女同心欢庆的荣光时刻，更是领略党领导人民治国理政的“时间之窗”。&lt;/p&gt;&lt;p&gt;　　回望新时代以来的“国庆时刻”，时间长卷镌刻着治国理政的宏阔经纬：在天安门广场凝望历史，在人民大会堂礼赞奋斗，在世界舞台阐述中国主张……大党大国领航者的深邃思考与战略擘画清晰可感。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;中流砥柱·“伟大的中国共产党”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　水阔波平、巨轮穿梭，今年国庆假期，平陆运河岸边车流往来，人们争睹“一河通江海”的世纪画卷。近日，新中国成立以来建设的首条通江达海的大运河正式通航。&lt;/p&gt;&lt;p&gt;　　共和国的大事记上，一批重大工程定格为阔步前行的时代坐标。&lt;/p&gt;&lt;p&gt;　　2019年9月25日，新中国成立70周年之际，北京大兴国际机场正式投运，习近平总书记看望参与建设和运营的工作人员代表，一席话高屋建瓴：&lt;/p&gt;&lt;p&gt;　　“大兴国际机场能够在不到5年的时间里就完成预定的建设任务，顺利投入运营，充分展现了中国工程建筑的雄厚实力，充分体现了中国精神和中国力量，充分体现了中国共产党领导和我国社会主义制度能够集中力量办大事的政治优势。”&lt;/p&gt;&lt;p&gt;　　中国共产党领导中国人民创造了一个又一个令世人瞩目的奇迹，串联起大国前行的奋进征程：&lt;/p&gt;&lt;p&gt;　　2016年金秋，“中国天眼”在黔南深山中睁开凝望宇宙的巨目；2025年国庆前夕，世界第一高桥花江峡谷大桥通车，绝壁悬崖上架起云中飞虹；前不久，江西瑞金至陕西延安首趟直达高铁G3998次复兴号列车发车，红军长征胜利90周年之际，长征出发地到落脚点实现高铁“当日达”……&lt;/p&gt;&lt;p&gt;　　“只有我们中国共产党人实现了。”放眼今日中华大地，这幅改写山河版图的壮阔画卷，雄辩证明了在党的领导下“集中力量办大事”的显著优势。&lt;/p&gt;&lt;p&gt;　　“国庆时刻”，是从历史中积蓄智慧和力量的时刻。&lt;/p&gt;&lt;p&gt;　　北京展览馆，两度定格习近平总书记回望奋斗历程、引领复兴征程的历史瞬间——&lt;/p&gt;&lt;p&gt;　　2017年9月25日，党的十九大即将召开之际，总书记参观“砥砺奋进的五年”大型成就展，强调“振奋精神、砥砺奋进、再接再厉，深入推进伟大斗争、伟大工程、伟大事业，为实现‘两个一百年’奋斗目标、实现中华民族伟大复兴的中国梦继续奋斗”；&lt;/p&gt;&lt;p&gt;　　2022年9月27日，党的二十大即将召开之际，“奋进新时代”主题成就展上，总书记发出号召：“踔厉奋发、勇毅前行、团结奋斗，谱写全面建设社会主义现代化国家新篇章，夺取中国特色社会主义新胜利。”&lt;/p&gt;&lt;p&gt;　　两次意义深远的驻足，联结着非凡历程与壮阔未来，映照出百年大党在赶考路上的历史自信与战略远见。&lt;/p&gt;&lt;p&gt;　　知所从来，思所将往。&lt;/p&gt;&lt;p&gt;　　“中国共产党人依靠学习走到今天，也必然要依靠学习走向未来。”&lt;/p&gt;&lt;p&gt;　　翻开国庆之际的治国理政日程，“学习”是关键词。&lt;/p&gt;&lt;p&gt;　　2013年9月30日，十八届中央政治局集体学习第一次走出中南海，把“课堂”搬到中关村。习近平总书记深刻阐述党的十八大确定的创新驱动发展战略，强调“科技兴则民族兴，科技强则国家强”。&lt;/p&gt;&lt;p&gt;　　从聚焦我国历史上的国家治理，到强调加强合作推动全球治理体系变革，从深刻认识马克思主义时代意义和现实意义，到关注新时代“三农”工作……“学习型政党”求知若渴、洞悉大势的品格格外鲜明。&lt;/p&gt;&lt;p&gt;　　观大势、谋大局，关键节点有关键落子。&lt;/p&gt;&lt;p&gt;　　从研究全面推进依法治国、总结党的群众路线教育实践活动，到擘画“十四五”蓝图、审议《中国共产党中央委员会工作条例》，再到谋划“十五五”发展、研究持之以恒推进全面从严治党重大问题……回望国庆前夕召开的中央政治局会议，把舵定向、谋篇布局，展现出登高望远的战略智慧。&lt;/p&gt;&lt;p&gt;　　沧海横流显砥柱，万山磅礴看主峰。&lt;/p&gt;&lt;p&gt;　　“党的领导是社会主义的最本质特征和最大优势。”在“国庆时刻”定格的历史印记与奋斗足迹，生动诠释着走过105年光辉岁月的中国共产党为什么能的关键密码。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;力量之源·“伟大的中国人民”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　秋日神州，江山如画。今年国庆假期，全社会跨区域人员流动量预计达21.3亿人次，平均每天约3亿人次在广袤大地上往来，饱览锦绣山河。&lt;/p&gt;&lt;p&gt;　　流动的中国，生机勃勃；平安的中国，根基如磐。&lt;/p&gt;&lt;p&gt;　　“党的十八大以来，平安中国建设取得显著成效，人民安居乐业、社会安定有序的良好局面更加巩固，我国成为世界上最安全的国家之一。”近日，习近平总书记就建设更高水平平安中国作出重要指示。&lt;/p&gt;&lt;p&gt;　　国家祥和安定，万家灯火安宁。和平年代，公安队伍是一支牺牲最多、奉献最大的队伍。他们的功勋永刻丰碑，他们的奉献山河铭记。&lt;/p&gt;&lt;p&gt;　　“维护国家安全和社会稳定，守护人民的幸福和安宁，是人民警察的神圣职责。”2023年9月28日，习近平总书记回信勉励中国人民公安大学在读英烈子女，以英雄的父辈为榜样，矢志不渝做党和人民的忠诚卫士。&lt;/p&gt;&lt;p&gt;　　忠诚血脉薪火相传，浩然之气长存天地。&lt;/p&gt;&lt;p&gt;　　2014年设立烈士纪念日以来，每年9月30日，天安门广场都隆重举行烈士纪念日向人民英雄敬献花篮仪式。习近平总书记登上纪念碑基座，在花篮前驻足凝视，仔细整理花篮缎带，向永垂不朽的人民英雄致以崇高敬意。&lt;/p&gt;&lt;p&gt;　　烈士纪念日设立在国庆节前一天，深意不言而喻。&lt;/p&gt;&lt;p&gt;　　“向一切为民族独立和人民解放、国家富强和人民幸福建立了不朽功勋的革命先辈和烈士们，表示深切的怀念！”庆祝中华人民共和国成立70周年大会，天安门广场前红旗猎猎、铁流滚滚，习近平总书记深情追思。&lt;/p&gt;&lt;p&gt;　　从革命年代浴血奋战，到和平建设时期守初心担大任，中华民族的精神丰碑在接续奋斗中愈加巍然挺拔。&lt;/p&gt;&lt;p&gt;　　“国庆时刻”，是礼赞人民、致敬楷模的时刻。&lt;/p&gt;&lt;p&gt;　　2024年9月29日，中华人民共和国迎来75周年华诞之际，国家勋章和国家荣誉称号颁授仪式隆重举行。&lt;/p&gt;&lt;p&gt;　　“人民卫士”“人民艺术家”“人民科学家”“人民教育家”“人民医护工作者”……金色大厅里，“人民”二字一次次回响。&lt;/p&gt;&lt;p&gt;　　“这不是我一个人的荣誉，这份荣耀属于人民军队的每一员。”93岁的革命老兵黄宗德缓缓举手、庄严敬礼，全场报以长时间的热烈掌声。&lt;/p&gt;&lt;p&gt;　　“伟大时代呼唤英雄、造就英雄。英雄辈出，党和人民事业就会兴旺发达、长盛不衰。”习近平总书记在颁授仪式上深刻指出：“全党全国各族人民要以英雄模范为榜样，团结奋进、砥砺前行，汇聚起共襄强国盛举的磅礴力量。”&lt;/p&gt;&lt;p&gt;　　“在我国社会主义革命、建设、改革的非凡历程中，一代又一代奋斗者顽强拼搏、不懈奋斗”。礼赞祖国的时节，习近平总书记把深切的目光投向扎根一线的奋斗者：&lt;/p&gt;&lt;p&gt;　　2022年9月30日，会见C919大型客机项目团队代表并参观项目成果展览，寄语“要有雄心壮志，世界科技巅峰我们都要奋勇攀登”；&lt;/p&gt;&lt;p&gt;　　2024年9月27日，回信勉励中国一重产业工人代表，希望大家“坚守技能报国初心，弘扬劳模精神、劳动精神、工匠精神”……&lt;/p&gt;&lt;p&gt;　　礼赞今日的奋斗者，亦深情寄语民族的未来：&lt;/p&gt;&lt;p&gt;　　2017年10月3日，致信祝贺中国人民大学建校80周年时指出“坚持立德树人”；2025年9月30日，天津大学建校130周年之际，回信学校全体师生时强调“提高人才培养质量”；今年9月28日，四川大学建校130周年之际，给学校全体师生回信叮嘱“赓续红色血脉”……&lt;/p&gt;&lt;p&gt;　　为党育人，为国育才。当校庆与国庆同频，育人初心与家国情怀激荡起深沉交响。一封封信笺，指引着当代青年把青春理想融入强国建设、民族复兴伟业的价值坐标。&lt;/p&gt;&lt;p&gt;　　“国庆时刻”的礼赞，再次彰显一个深刻道理：人民是历史的创造者，人民是真正的英雄。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;坚强后盾·“伟大的中华人民共和国”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　10月4日，第二十届亚运会落下帷幕，中国代表团创亚运会境外参赛金牌数最好成绩。&lt;/p&gt;&lt;p&gt;　　“升国旗、奏国歌，这是我们献给祖国的生日礼物！”中国体育健儿深情告白。&lt;/p&gt;&lt;p&gt;　　成绩单上，中国女排的绝地奋起令人心潮澎湃：从此前在家门口错失奥运“直通”门票，到以全胜战绩再度问鼎亚洲之巅，中国女排勇夺亚运三连冠，再次诠释了女排精神。&lt;/p&gt;&lt;p&gt;　　体育，民族精神的写照，国家实力的缩影。&lt;/p&gt;&lt;p&gt;　　还记得2019年，以十一连胜战绩卫冕女排世界杯的中国女排，受邀参加中华人民共和国成立70周年招待会。&lt;/p&gt;&lt;p&gt;　　“广大人民群众对中国女排的喜爱，不仅是因为你们夺得了冠军，更重要的是你们在赛场上展现了祖国至上、团结协作、顽强拼搏、永不言败的精神面貌。”国庆招待会前，习近平总书记亲切会见中国女排代表，赞扬“女排精神代表着一个时代的精神，喊出了为中华崛起而拼搏的时代最强音”。&lt;/p&gt;&lt;p&gt;　　国庆招待会邀请各界代表人士参加，其中还有少数民族、港澳人士代表等身影。&lt;/p&gt;&lt;p&gt;　　一部中国史，就是各民族交融汇聚成多元一体中华民族的历史。&lt;/p&gt;&lt;p&gt;　　同一面五星红旗下的“国庆时刻”，见证着各民族同心同德、同向同行。&lt;/p&gt;&lt;p&gt;　　“我国各族人民共同缔造了中华人民共和国，都为中华民族形成和发展作出了卓越贡献。”中华人民共和国成立66周年之际，习近平总书记特别邀请来自内蒙古、广西、西藏、宁夏、新疆5个自治区的13名基层民族团结优秀代表，来到北京参加国庆活动，在人民大会堂亲切会见他们，并同大家合影留念。&lt;/p&gt;&lt;p&gt;　　“促进各民族像石榴籽一样紧紧拥抱在一起”“坚持以铸牢中华民族共同体意识为主线”……新时代以来3次全国民族团结进步表彰大会，总书记都亲自出席并发表重要讲话。&lt;/p&gt;&lt;p&gt;　　今天的神州大地上，各族儿女手足相亲、守望相助，五十六个民族凝结为牢不可破的中华民族共同体，构筑起维护国家统一、民族团结的坚固防线。&lt;/p&gt;&lt;p&gt;　　血脉相连、命运与共，“国庆时刻”涌动着港澳同胞与祖国风雨同舟的赤子深情。&lt;/p&gt;&lt;p&gt;　　2014年国庆前夕，习近平主席亲切会见香港工商界专业界访京团时深情指出：“65年来，在中国共产党领导下，我国发展取得了举世公认的巨大成就。在这一过程中，香港与祖国风雨同舟、命运相依，发挥了独特的重要作用。”&lt;/p&gt;&lt;p&gt;　　2019年，重阳节与国庆假期相逢，习近平主席回信澳门街坊总会颐骏中心长者义工组的30位老人，亲切问候的同时勉励他们“多向澳门青年讲一讲回归前后的故事”。&lt;/p&gt;&lt;p&gt;　　情真意切，语重心长。这份念兹在兹的牵挂生动印证：祖国始终是香港澳门保持长期繁荣稳定最坚强的后盾。&lt;/p&gt;&lt;p&gt;　　“国庆时刻”，亦是中国与世界携手同行的友谊时刻。&lt;/p&gt;&lt;p&gt;　　“中文传统友谊源远流长、历久弥坚，两国在携手现代化进程中树立了大小国家相互尊重、平等相待、共同发展的典范。”今年9月30日，习近平主席同文莱苏丹哈桑纳尔互致贺电，庆祝两国建交35周年。&lt;/p&gt;&lt;p&gt;　　每逢国庆时节，电函从五洲四海汇聚北京。其中，不乏沉甸甸的历史重量与时代印记。&lt;/p&gt;&lt;p&gt;　　“俄中紧密、互利的关系成功经受住了时间的考验”“一如既往地继承和发展具有悠久历史和优良传统的朝中友谊符合两国根本利益”“高度赞赏中方为推动地区和平、稳定与共同繁荣所发挥的重要作用”……&lt;/p&gt;&lt;p&gt;　　深厚的情谊、诚挚的赞誉，见证新中国广交天下朋友的丰硕成果，饱含对中国发展的由衷钦佩，凝聚起赓续传统友谊、携手开创未来的坚定共识。&lt;/p&gt;&lt;p&gt;　　大国之声，世界倾听。金秋的时序里，全球目光一次次聚焦东方，见证大国担当：&lt;/p&gt;&lt;p&gt;　　2013年10月3日，习近平主席出访印尼期间提出共同建设21世纪海上丝绸之路倡议，为国际经济合作开辟新空间；&lt;/p&gt;&lt;p&gt;　　2015年9月28日，在纽约联合国总部出席第七十届联合国大会一般性辩论，打造人类命运共同体的总布局、总路径清晰呈现；&lt;/p&gt;&lt;p&gt;　　今年国庆前夕，习近平主席时隔11年再次对美国进行国事访问，丰富中美建设性战略稳定关系的内涵，造福两国、惠及世界……&lt;/p&gt;&lt;p&gt;　　“国庆时刻”置于世界坐标系中，大国格局与天下胸怀充分彰显。&lt;/p&gt;&lt;p&gt;　　…………&lt;/p&gt;&lt;p&gt;　　岁月峥嵘，征程浩荡，神州大地换了人间。&lt;/p&gt;&lt;p&gt;　　今年国庆假期，中国人民革命军事博物馆，“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”迎来参观热潮。展厅内，滚烫的“中国红”与厚重的历史长卷交相辉映；“弘扬伟大长征精神  走好新时代的长征路”的主题标语庄严凝重。&lt;/p&gt;&lt;p&gt;　　昨天的苦难辉煌路，化作今日的万里江山阔。&lt;/p&gt;&lt;p&gt;　　今年国庆招待会上，习近平总书记激励全党全国各族人民奋勇前进——&lt;/p&gt;&lt;p&gt;　　“经过长期探索和实践，中国特色社会主义制度展现出巨大优势，我国国家治理体系和治理能力现代化水平不断提高，实现中华民族伟大复兴势不可挡。只要我们坚定信心、锚定目标，一步一步扎实往前走，成功就一定属于伟大的中国共产党、伟大的中国人民、伟大的中华人民共和国！”&lt;/p&gt;&lt;p&gt;　　站在“国庆时刻”展望未来，大党大国步履坚定、一往无前。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  程  龙  黄  超&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184230&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184230.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184230.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “国庆时刻”，感悟新时代治国理政之道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184230.html#[02版：要闻] “国庆时刻”，感悟新时代治国理政之道</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 一版责编：胡安琪  许  诺  赵  政  二版责编：吕  莉  祁嘉润  郭雪岩  三版责编：韩晓明  姜  波  关皓宇</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184231.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：胡安琪  许  诺  赵  政  二版责编：吕  莉  祁嘉润  郭雪岩  三版责编：韩晓明  姜  波  关皓宇 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184231&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184231.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184231.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：胡安琪  许  诺  赵  政  二版责编：吕  莉  祁嘉润  郭雪岩  三版责编：韩晓明  姜  波  关皓宇 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184231.html#[02版：要闻] 一版责编：胡安琪  许  诺  赵  政  二版责编：吕  莉  祁嘉润  郭雪岩  三版责编：韩晓明  姜  波  关皓宇</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中国匠心筑造沙特“东气西输”大动脉（共建“一带一路”·第一现场）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184232.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 探访沙特国家天然气管网三期管道项目建设现场—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国匠心筑造沙特“东气西输”大动脉（共建“一带一路”·第一现场） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  任皓宇&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　项目管线施工现场。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　杨  韦摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/25a434e6-ae60-42b9-b3a6-5e9ea6c2d2bf.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　项目员工进行安全模拟培训。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  任皓宇摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/34e28716-b559-4bcb-a9ad-631dc1af2084.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　项目使用的中国产自爬行智能通球设备在进行使用前的调试。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　杨  韦摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/a6759cf5-f5a6-49a2-8511-7dc395417fc9.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　沙特首都利雅得西部沙丘连绵。抬眼望去，长长的天然气管道如丝带般在沙脊间蜿蜒。近日，记者来到由中国石化石油工程建设公司（以下简称“石工建”）承建的沙特国家天然气管网三期管道项目建设现场，感受高质量共建“一带一路”框架下中沙能源合作的活力。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“我们手中的焊枪，连接着中国制造的脊梁”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　覆盖管道接口的白色焊棚中，焊花四溅。中国石化集团公司技能大师汪宏辉拿着焊接检验尺，逐点检查焊接机组作业成果。“焊口精度误差必须控制在毫米级，才能确保工程质量。”汪宏辉说，“我们手中的焊枪，连接着中国制造的脊梁。”&lt;/p&gt;&lt;p&gt;　　作为沙特国家天然气管网升级的重要工程，三期管道项目将组成沙特“东气西输”大动脉。石工建承建项目第六、七标段，全长约700公里。项目建成后，将大幅提升管线日输气能力，满足沙特西部阿卜杜拉国王经济城和多个大型燃气电站的用气需求，促进沙特西部经济发展和能源转型升级。&lt;/p&gt;&lt;p&gt;　　“我们既要‘飙速度’，更要保质量。”汪宏辉打开一份石工建同其他国际公司的进度对比表，“别人单口焊18分钟，我们就琢磨怎么控制到15分钟内。依靠技术创新，优化流程，效率就能提上来。”汪宏辉介绍，项目采用包括国产自动焊接机在内的6个焊接机组，广泛应用智能装备，推动施工工艺全面革新，不断刷新沙特最大口径油气管道施工纪录。截至目前，项目总体进度已超过80%，累计完成超678公里管道焊接施工。&lt;/p&gt;&lt;p&gt;　　汪宏辉一手带出不少外籍焊工，里甘·米亚就是其中之一。从基础焊接手法到高温环境下的作业技巧，再到施工图纸的解读能力，米亚在汪宏辉指导下成长为焊接班组的技术骨干，所在机组创下连续15天焊接一次合格率100%、整体合格率稳定在98%以上的优异成绩。&lt;/p&gt;&lt;p&gt;　　“汪师傅教我技术的同时，让我明白什么是‘工匠精神’，我会用最严格的标准来对待每一道工序。”米亚说。据介绍，项目部践行“管理国际化、用工当地化”策略，构建“中方技术骨干+外籍员工”协作模式，为当地累计培养5000余名标准化管道施工技能人才。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“‘科技+管理’双重保障，提升每一名建设者的安全意识和处置能力”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　在项目营地内的安全实训基地，穿戴着VR（虚拟现实）设备的沙特籍员工奥泰比突然身子一沉，蹲坐在安全绳上。透过显示屏，可以看到他正在模拟脚手架坠落风险场景应急处置。“听讲座、看视频，再通过VR体验，哪些能做、哪些不能做，一下子就记住了。”奥泰比说。&lt;/p&gt;&lt;p&gt;　　“安全是项目的生命线。”项目安全管理部副经理赵洁常把这句话挂在嘴边。走进项目安全监控中心，大屏幕上施工车辆行驶轨迹、车速及驾驶员状态等现场情况一目了然。通过视频监控系统，可对近700公里管道沿线的160余个作业点进行全景巡查。赵洁说，项目部坚持构建覆盖全员、全流程、全要素的安全防护体系，不仅实现了项目建设全过程“零事故”目标，还获评项目业主沙特阿美公司的“管理创新奖”。&lt;/p&gt;&lt;p&gt;　　加强日常安全管控的同时，项目部注重通过科技手段提升全员安全意识和应急处置能力，奥泰比体验的中国产VR数智化培训设备正是其中之一。员工可通过VR设备学习高空坠落、火灾扑救等20多种施工常见风险场景的应急处置方法。项目部还定期结合监控数据开展针对性应急演练，邀请沙特阿美公司的专家共同参与课程设计，内容涵盖高温中暑急救、管道施工应急处置等领域。&lt;/p&gt;&lt;p&gt;　　截至目前，项目已开展各类安全培训130余场，累计培训3300余人次。“我们希望通过‘科技+管理’双重保障，提升每一名建设者的安全意识和处置能力。”赵洁说。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“项目建设也是中沙人才培养与文化交流的过程”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“前段时间，我前往中国参加文化融合研修活动，中国的发展速度令人赞叹。”项目部沙特籍员工伊萨·穆泰里开心地与记者分享他的感受。研修期间，他走进标杆企业、探访北京城市地标，感受中国式现代化建设成就与中华文化的魅力。&lt;/p&gt;&lt;p&gt;　　穆泰里说：“我加入中国石化10年了，中国同事的团结友好和工作热情深深感染并激励着我。我参加过多项沙中能源合作项目，这些合作对沙特能源转型发展意义重大。”项目负责人宁博说：“项目建设也是中沙人才培养与文化交流的过程。”&lt;/p&gt;&lt;p&gt;　　穆泰里返回沙特后，项目部组织分享会，邀请他分享所见所闻。“听完穆泰里的分享和中国同事的介绍，我很想去中国走一走、看一看。”当地员工阿卜杜勒阿齐兹·吉塔尼说，2012年，刚上初中的他见证了一座中企建设的公路桥在家门口拔地而起，“这在我心里埋下了一颗种子”。2023年，他加入中国石化，现在是项目第六标段的人力资源经理。&lt;/p&gt;&lt;p&gt;　　近日，项目业主代表法赫德·索古尔特地为项目颁发感谢证书，表彰项目在推进工作中的亮眼表现。索古尔表示：“团队不仅高效完成采购保障，更引入先进设备，以创新技术助力项目推进，出色履约值得肯定。”&lt;/p&gt;&lt;p&gt;　　“我们将凝聚力量，齐心协力推进项目优质高效运行，以高质量共建‘一带一路’为引领，为沙特实现‘2030愿景’能源结构优化与社会发展目标贡献力量。”宁博说。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"&gt;　　版式设计：张芳曼&lt;/span&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  任皓宇&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 探访沙特国家天然气管网三期管道项目建设现场—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184232&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184232.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184232.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国匠心筑造沙特“东气西输”大动脉（共建“一带一路”·第一现场） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184232.html#[03版：要闻] 中国匠心筑造沙特“东气西输”大动脉（共建“一带一路”·第一现场）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 共同推动中印关系行稳致远（国际论坛）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184233.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 共同推动中印关系行稳致远（国际论坛） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							胡仕胜&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　以两国领导人达成的重要共识为引领，中印保持战略定力，坚持相向而行，在变乱交织的世界中成为稳定的进步力量，将为地区乃至世界和平与繁荣作出更大贡献&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　今年9月，习近平主席在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。这是继2024年喀山会晤、2025年天津会晤之后，两国领导人连续第三年举行双边会晤。双方坦诚深入交换意见，就中印要做伙伴达成重要共识。习近平主席就推动中印关系行稳致远谈了4点看法，既是对近两年中印关系从“再出发”实现“再提升”实践经验的凝练升华，也为两国关系能否再上台阶、能否行稳致远提供了清晰的方法论、路径指引和行动坐标。&lt;/p&gt;&lt;p&gt;　　以客观理性的战略认知校准方向，为两国关系把稳“总开关”。中印关系本质上是两个14亿多人口的相邻发展中大国如何相处的问题。习近平主席明确指出，中印两国是合作伙伴而不是对手，互为发展机遇而不是威胁。这是基于两国所处发展阶段和国际环境作出的战略判断，符合两国和两国人民共同利益。莫迪总理积极回应，表示印方始终从战略高度和长远角度看待印中关系，愿同中国做伙伴而不是对手，将彼此发展视为机遇而非挑战。两国领导人为中印关系锚定了航向，提供了当下最为稀缺的稳定预期。&lt;/p&gt;&lt;p&gt;　　以合作共赢理念相互成就，为两国关系蓄足“动力源”。中印两国国情不同，完全可以取长补短、相互支持、彼此成就、共同发展。习近平主席强调，双方应聚焦发展这个最大公约数，加强友好交往和互利合作。近两年，中印两国机制性交流合作逐步恢复，合作清单不断拉长。2025年，中印双边贸易额达到1556.2亿美元的历史高位，两国经贸结构高度互补，在新能源、绿色经济、人工智能等领域合作前景广阔。以务实合作持续改善民意基础，才能让中印友好获得源源不断的动力与强韧的民意支持。&lt;/p&gt;&lt;p&gt;　　以互尊互谅的政治智慧排除干扰，为两国关系筑牢“稳定器”。中印互为重要邻国，存在一些历史遗留分歧，关键在于以什么样的智慧去对待。近年来，中印边界问题特别代表第二十四次会晤达成10点共识、第二十五次会晤达成8点成果共识，边境地区和平安宁得到有效维护。事实证明，只要秉持互尊互谅精神，分歧就完全可以管得住、控得好。以政治智慧排除干扰，中印关系才能行得稳、走得远。&lt;/p&gt;&lt;p&gt;　　以开放包容的多边协作兼济天下，为两国关系拓展“大格局”。中印同为金砖创始成员国和全球南方重要成员，两国携手推动“大金砖合作”高质量发展，加强在联合国、上海合作组织、二十国集团等多边框架内的协作，就是要把两国发展规模转化为维护世界和平与发展的正能量。今年印度担任金砖主席国，明年中国将接任金砖主席国，两国相互支持彼此担任金砖主席国，正是“兼济天下”的生动写照。多边舞台上加强协作，既有利于推动全球南方合作、促进世界多极化，也是两国增信释疑、相向而行的有效途径。&lt;/p&gt;&lt;p&gt;　　以两国领导人达成的重要共识为引领，中印保持战略定力，坚持相向而行，在变乱交织的世界中成为稳定的进步力量，将为地区乃至世界和平与繁荣作出更大贡献。&lt;/p&gt;&lt;p&gt;　　（作者为中国现代国际关系研究院学术委员会副秘书长） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;胡仕胜&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184233&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184233.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184233.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 共同推动中印关系行稳致远（国际论坛） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184233.html#[03版：要闻] 共同推动中印关系行稳致远（国际论坛）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “互利共赢、共促发展的重要平台”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184234.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “互利共赢、共促发展的重要平台” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——访埃塞俄比亚政策研究所高级顾问德米西 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  沈小晓&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/91ce7a14-5a1d-4ce0-829e-c8271f350642.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　“金砖国家已发展成为促进全球治理和南南合作最具影响力的机制之一。”埃塞俄比亚政策研究所高级顾问巴鲁·德米西日前接受本报记者专访时表示，金砖合作机制在提升新兴经济体话语权、推动构建更加公正合理的国际秩序方面作出重要贡献。“在当前背景下，金砖合作机制的意义已远超经济合作范畴，成为新兴经济体互利共赢、共促发展的重要平台。”&lt;/p&gt;&lt;p&gt;　　当前，越来越多国家表达了加入金砖合作机制的意愿。德米西认为，这深刻反映了全球政治经济格局的变化。“广大发展中国家需要更具代表性、包容性且更能回应其发展关切的国际平台。”他说，金砖扩员意义重大，极大增强了金砖合作机制的包容性、代表性和全球影响力。&lt;/p&gt;&lt;p&gt;　　德米西表示，金砖国家在贸易投资、科技、卫生、数字创新等多领域的合作成果，证明了多边合作能够为全球南方带来实实在在的利益。非洲拥有世界上最年轻的人口结构，发展潜力巨大，金砖合作对非洲具有重要意义。金砖合作既能支持非盟《2063年议程》，也有助于联合国2030年可持续发展目标的实现。&lt;/p&gt;&lt;p&gt;　　德米西认为，中国作为世界第二大经济体，始终为金砖国家发展提供支持，并积极推动各领域务实合作。中国在减贫、工业化、基础设施建设和技术进步等方面的成功经验，为许多发展中国家提供了有益借鉴，“通过鼓励知识共享、能力建设和投资，中国推动金砖合作机制成为推进发展合作与共享繁荣的战略平台”。&lt;/p&gt;&lt;p&gt;　　德米西高度赞赏中方成立中国—金砖国家人工智能发展与合作中心，并倡议成立世界人工智能合作组织。他认为，这些举措有助于搭建联合研究、政策对话和产业合作的公共平台，推动人工智能技术负责任开发与应用，对非洲国家弥补数字基础设施、人才和技术等方面的不足尤为宝贵。埃塞俄比亚是世界人工智能合作组织创始成员国之一。“金砖国家可在研发、创新、人才培养、数字基建和技术转让等领域深化合作，弥合数字鸿沟，推动红利共享。”德米西说。&lt;/p&gt;&lt;p&gt;　　2024年1月，埃塞俄比亚成为金砖国家正式成员。在金砖合作机制、中非合作论坛等框架下，中埃塞在农业、金融、基建、工业、科技等领域开展了一系列合作。德米西表示，两国全天候战略伙伴关系进一步深化：亚吉铁路、博莱国际机场改扩建、东方工业园等项目强化了区域互联互通，双方还致力于提升制造业能力、促进技术转让，依托金砖国家新工业革命伙伴关系在科技、能源和农业领域扩大合作。&lt;/p&gt;&lt;p&gt;　　明年，中国将接任金砖国家主席国，主办金砖国家领导人第十九次会晤。“中国坚持开放、创新和多边合作，是推动金砖国家未来发展、促进全球和平繁荣的关键动力。”德米西表示，期待金砖国家继续秉持多边主义、开放合作、相互尊重，扩大贸易投资、深化技术合作，为发展中国家参与全球治理创造更多机会。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  沈小晓&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——访埃塞俄比亚政策研究所高级顾问德米西 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184234&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184234.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184234.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “互利共赢、共促发展的重要平台” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184234.html#[03版：要闻] “互利共赢、共促发展的重要平台”</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “具有中国特色的葡萄酒文化已经扎根”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184236.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “具有中国特色的葡萄酒文化已经扎根” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——访国际葡萄与葡萄酒组织总干事巴克 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  于超凡&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/9e2643bd-031d-4e1d-a4a7-1e1973c92904.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　第四十七届世界葡萄与葡萄酒大会暨国际葡萄与葡萄酒组织成员国代表大会将于10月12日至16日在宁夏银川举行，这是该大会创办百余年以来首次在亚洲国家举行。国际葡萄与葡萄酒组织总干事约翰·巴克日前在接受本报记者专访时表示，“中国是全球重要的葡萄与葡萄酒生产消费国、全球经济大国，这一盛事在中国举行，对本组织以及中国葡萄与葡萄酒产业而言，都是一个历史性的里程碑。”&lt;/p&gt;&lt;p&gt;　　国际葡萄与葡萄酒组织成立于1924年，总部位于法国，是全球葡萄种植与葡萄酒酿造领域的科学技术权威机构。2025年底，中国正式加入该组织，成为第五十一个成员国。巴克介绍，世界葡萄与葡萄酒大会和成员国代表大会是该组织每年最重要的活动。中国在加入之初就承办相关会议，发出一个强有力的信号：中国致力于通过该组织，在葡萄与葡萄酒领域开展国际合作，推动中国及全球葡萄酒产业发展。&lt;/p&gt;&lt;p&gt;　　“多年来，国际葡萄与葡萄酒组织同中国密切合作，促进了中国葡萄酒行业的发展，中国也为我们贡献了许多专业知识与技术。”巴克说，作为全球葡萄与葡萄酒行业的新兴参与者，中国的重要性日益凸显。该组织数据显示，中国是重要的食用葡萄生产国，在优质葡萄酒生产方面也取得了巨大进展，中国葡萄酒消费量也处于世界前列。&lt;/p&gt;&lt;p&gt;　　“中国加入本组织，与其他国家共同参与本组织决策，有助于建立更加协调的全球标准，为葡萄酒行业繁荣发展和公平贸易奠定基础，为国际葡萄酒行业带来新机遇。”巴克说，中国葡萄酒市场规模和潜力巨大，还有很大的增长空间。在过去几十年中，中国葡萄酒质量有了极大提升，已产有世界顶级葡萄酒，相信这一趋势还将延续下去。&lt;/p&gt;&lt;p&gt;　　巴克认为，当前葡萄与葡萄酒行业面临诸多挑战与变革，如气候变化、消费者偏好转变、贸易不畅以及快速发展的数字经济等。国际葡萄与葡萄酒组织将积极促进知识共享和国际合作，支持各成员国在该领域的转型。“我坚信，中国将发挥不可或缺的作用。我们期待看到中国将数字技术融入葡萄酒生产、消费等环节的实践。”&lt;/p&gt;&lt;p&gt;　　“宁夏对葡萄酒产业的投入给我留下深刻印象。”巴克说，从全球范围来看，宁夏贺兰山东麓产区仍然是一个年轻的葡萄酒产区，但在过去40余年间取得了巨大进步，尤其以前瞻性和国际化的视野、对卓越品质的追求，赢得了国际社会的广泛关注和赞誉。&lt;/p&gt;&lt;p&gt;　　令巴克倍感鼓舞的是，宁夏葡萄酒生产者积极探索当地独特风土，酿造中国风格的葡萄酒。当地将传统工艺与先进技术手段结合，高度重视可持续发展，与国际葡萄与葡萄酒组织的战略愿景高度契合。宁夏在葡萄酒旅游文化方面，也为游客提供了丰富的体验。“具有中国特色的葡萄酒文化已经扎根，我们希望它继续茁壮成长。本届大会将使中国宁夏成为全球瞩目的焦点，来自世界各地的代表和专家将亲身感受这片迷人土地的独特魅力。”巴克说。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  于超凡&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——访国际葡萄与葡萄酒组织总干事巴克 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184236&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184236.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184236.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “具有中国特色的葡萄酒文化已经扎根” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184236.html#[03版：要闻] “具有中国特色的葡萄酒文化已经扎根”</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 2026年中德青少年交流音乐会举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184235.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 2026年中德青少年交流音乐会举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　据新华社德国埃森10月3日电  （记者褚怡、黄燕）2026年中德青少年交流音乐会3日在德国埃森市举行。来自德国伯乐中文合唱团、云南大学附属中学的师生携手登台，用音乐传递友谊、促进多元文化交流，共同表达对未来的美好期待。&lt;/p&gt;&lt;p&gt;　　音乐会上，8名伯乐中文合唱团学生分享了今年夏天赴华参加“唱歌学中文”夏令营的经历，讲述了他们眼中的中国文化和自然风光。两国青少年还合作演唱了《让我们荡起双桨》《思念》《同一首歌》等歌曲，为观众献上一场充满文化交融与青春魅力的音乐盛宴。中德各界约200名观众观看演出。&lt;/p&gt;&lt;p&gt;　　伯乐中文合唱团系面向德国青少年开展“唱歌学中文”活动的非营利性公益机构，以促进德中民间交流为宗旨，积极致力于在语言和文化领域增进两国友谊。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184235&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184235.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184235.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 2026年中德青少年交流音乐会举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184235.html#[03版：要闻] 2026年中德青少年交流音乐会举行</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 福建久久为功提升文化影响力</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184237.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 赓续八闽文脉  展现时代气韵 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 福建久久为功提升文化影响力 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  廖文根  付  文&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　10月4日上午，福建福州市三坊七巷历史文化街区吸引了大量游客。不少人来到宫巷26号的沈葆桢故居参观。&lt;/p&gt;&lt;p&gt;　　“这里是三坊七巷内建设年代较为久远、历史文化价值较高的古厝之一。修复坚持最大保留、最少干预，严格按标准施工，既严把材料关，又恪守古法工艺，保留古调神韵。”古建筑修复专家阮章魁介绍。&lt;/p&gt;&lt;p&gt;　　2024年10月，习近平总书记在福建考察时强调：“要在提升文化影响力、展示福建新形象上久久为功。”“加强文化遗产保护传承，坚持不懈做好以文化人工作，积极推进移风易俗。推进文化和旅游深度融合发展，把文化旅游业培育成为支柱产业。”&lt;/p&gt;&lt;p&gt;　　深入贯彻落实习近平总书记重要指示精神，福建加快建设更高水平文化强省，在推动中华优秀传统文化创造性转化、创新性发展中赓续八闽文脉，久久为功提升文化影响力。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;以更大力度抓好文物保护&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　福建文源深、文脉广、文气足，闽都文化、朱子文化、海丝文化等交相辉映。&lt;/p&gt;&lt;p&gt;　　9月30日下午，福州市晋安区晋安支路，市文物考古工作队领队李福生正在对一处地块进行细致发掘。“目前已发现汉代文物10余件，预计10月中旬结束发掘。”李福生介绍，按福州市规定，土地出让前均须开展考古；发现重要文物，原址保护、终止出让。&lt;/p&gt;&lt;p&gt;　　福建抓好文物古迹、历史街区、传统村落等文化遗产系统性保护，维护历史真实性、风貌完整性、文化延续性。&lt;/p&gt;&lt;p&gt;　　持续推进文物保护“一个局、一个队、一颗印、一百万元”的“四个一”机制。福州各县（市、区）文化体育和旅游局加挂文物局牌子，全市文物管理体系上下贯通；市考古队参与南岛语族起源与扩散研究等2项“考古中国”课题；城乡建设过程中，土地出让、项目建设须征得文物部门同意；福州年度市级文物保护经费自2024年起增至1500万元。&lt;/p&gt;&lt;p&gt;　　始终把保护放在第一位。福建“十四五”时期累计实施文物保护修缮工程1200多项，12个历史文化名城、63个历史文化街区、200个历史文化名镇名村及1193个传统村落均完成保护规划编制，福建不可移动文物超4万处。&lt;/p&gt;&lt;p&gt;　　“我们试点‘文物保险+服务’，引入保险机构、科技公司和专门巡查人员织密防护网。”福建省文物局局长傅柒生介绍，已投入3000余万元推进试点，全省三成以上全国重点文保单位、两成以上省级文保单位纳入保障。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;以时代精神激活优秀传统文化生命力&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　走进福州市鼓楼区冶山春秋园，带有“福”元素的雕塑、长椅随处可见，融入市民日常生活。&lt;/p&gt;&lt;p&gt;　　开发“福文创”、发展“福工艺”、创作“福文艺”、拓展“福之味”、打造“福文旅”……福建发挥社科院所、高校、智库作用，开展“福”文化课题研究，推动“福”文化融入精神文明、城乡建设和民生事业。&lt;/p&gt;&lt;p&gt;　　多姿多彩的八闽文化，是“闽派”文艺繁荣的源头活水。福建推动时代精神与中华优秀传统文化相互呼应。&lt;/p&gt;&lt;p&gt;　　“以艺术激活优秀传统文化生命力，挖掘富有当代价值的内容，提升原创力、增强感染力，实现‘破圈’‘跨界’传播。”福建省文联党组书记李东河介绍，从《山海情》到《沉默的荣耀》，“十四五”时期，福建19部作品获“五个一工程”奖，文艺家和作品获“文华奖”“梅花奖”等全国大奖64人（项）次。&lt;/p&gt;&lt;p&gt;　　福州古称侯官。近代以来，这里走出了林则徐、沈葆桢、严复等先贤。福建将侯官文化传承与福州大学城新时代立德树人工程紧密结合，自2022年起每年举办侯官论坛，挖掘其精神内涵与育人价值。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;以现代技术赋能文旅深度融合&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　在福州市非物质文化遗产展示馆，拳法体感互动区借助数字科技，打造沉浸式空间。游客张万明对着屏幕挥拳，感受咏春拳魅力：“过去只看招式图解，现在能实地体验，过瘾！”&lt;/p&gt;&lt;p&gt;　　锚定文旅深度融合，福建实施全域文旅提升工程，围绕“清新福建·闽式生活”品牌，深化文旅与农业、工业、海洋、体育、科技、影视、非遗等领域的跨界“联姻”，全力培育文化旅游支柱产业、打造世界知名旅游目的地。&lt;/p&gt;&lt;p&gt;　　“先订戏票，再买机票”，有1300多年历史的泉州提线木偶戏，是外地游客来泉州体验的特色文旅项目。“全年演出场场爆满，今年国庆假期7天共将演出140场。”泉州市木偶剧团负责人林凤锦说，“我们挖掘传统戏，复排经典剧目，同时打造新编原创剧目，结合虚拟现实、人工智能技术，探索与旅游景区、网游和新媒体平台的合作新模式，持续带给观众新体验，让‘为一出戏赴一座城’持续升温。”&lt;/p&gt;&lt;p&gt;　　坚持以文塑旅、以旅彰文，福建推动八闽人文与时尚潮流、创意元素深度交织，成功打造《月映武夷》《再回闽南》等沉浸式文旅项目，“跟着演出、跟着影视、跟着赛事、跟着世遗去旅行”渐成风尚。&lt;/p&gt;&lt;p&gt;　　牢记习近平总书记殷殷嘱托，福建加快更高水平文化强省建设，全面展现新时代八闽文化气韵，为谱写新福建建设新篇章提供坚强思想保证、强大精神力量、有利文化条件。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  廖文根  付  文&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 赓续八闽文脉  展现时代气韵 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184237&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184237.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184237.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 福建久久为功提升文化影响力 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184237.html#[03版：要闻] 福建久久为功提升文化影响力</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：视觉] 假日保供的温暖底色（新时代画卷）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184238.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 假日保供的温暖底色（新时代画卷）&lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　商品量足价稳&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　海南琼海市潭门镇上埇坡村，渔民捕获养殖的罗非鱼供应市场。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　蒙钟德摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/c0dfa1ed-2e9e-42ac-90fd-b8e4074789c2.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　商品量足价稳&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　江西丰城市孙渡街道左家村村民在莲藕种植基地采收莲藕。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　周  亮摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/aae3c802-909a-49a4-a20a-27e759eef635.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　商品量足价稳&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　重庆合川区古楼镇农贸市场，乡亲们选购食材。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　徐春茂摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/a34ff970-de16-4045-b66a-088bc30a2707.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　商品量足价稳&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　浙江杭州市，小朋友在一家超市内挑选食品。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  张武军摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/903f85ce-bb97-460d-8b8e-cc92410f35e3.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　商品量足价稳&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新疆乌鲁木齐市一花店内，花艺师整理花卉。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　孙振嵩摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/575f5978-919b-4e8f-9a67-6fcb291cd87c.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　商品量足价稳&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　北京朝阳区一家菜市场，各类货品供应充足。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  蒋雨师摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/942c2596-4bf8-4ae5-a16d-ed14efe1e4d6.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　能源供应充足&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　在位于四川的中江气田，中国石化西南石油局技术人员调试监测设备。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　宋  军摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/d2b04cce-81a2-47d5-8157-746d1caafa44.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　能源供应充足&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　在位于甘肃的中国石油长庆油田陇东油区，工作人员检查设备运行情况。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　王思懿摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/216b8a86-9b03-4413-8ea1-0090a539cfc1.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　能源供应充足&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　辽宁葫芦岛市龙港区，供电公司作业人员开展带电作业。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　牟  超摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/62ab3937-4712-4461-9add-a1658276f830.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　能源供应充足&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　在位于内蒙古的华能伊敏煤电公司伊敏露天矿，智能开采作业有序推进，无人驾驶电动矿卡全力保障能源供应。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　肖  宇摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/7cfee21e-b280-44ed-a999-79579ebc86b7.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　流通高效顺畅&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　在山东烟台北站，货物列车车厢正进入“中铁渤海3号”火车滚装船。烟台至辽宁大连铁路轮渡平稳运行，保障物流通道畅通。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　唐  克摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/90b59621-e6aa-45a7-8c36-26edda882fbd.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　流通高效顺畅&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　在中国邮政集团有限公司湖南永州市道县分公司邮件处理中心，工作人员分拣邮件包裹。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　蒋克青摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/94591639-8758-4f71-a74f-005159f348a8.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　流通高效顺畅&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　云南昆明市大板桥重卡充电站，司机为运输货车充电。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  王冠森摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/eaae6179-63f8-49b4-9db1-964d54d5b222.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　国庆假期，消费市场活力释放，群众出行需求旺盛，社会运行平稳有序。一幕幕繁忙热络的假日场景，背后是民生保障的温暖底色，彰显了经济社会运行的韧性与活力。&lt;/p&gt;&lt;p&gt;　　货丰价稳，市场供应足。走进商超集市，产品琳琅满目，选择丰富多样，“米袋子”“菜篮子”“油瓶子”“果盘子”保障有力。各地区各部门扎实做好保供稳价工作，推出一系列惠民生、促消费的举措，让消费者买得放心、吃得安心、用得舒心。&lt;/p&gt;&lt;p&gt;　　调度得力，能源保供稳。电力、天然气、成品油等供应充足，居民生活和企业生产用能得到有力保障。能源部门持续加强运行监测，扎实做好供需调节、应急值守、设备巡检等工作，守牢用能安全底线，为人民群众安心过节和经济社会平稳运行夯实基础。&lt;/p&gt;&lt;p&gt;　　流通高效，运输衔接畅。公路、铁路、港口等干线运输忙碌，物流枢纽加快货物集散，仓储、分拨、配送等紧密配合，运输网络与物流体系协同运转。保流通就是保民生。加大协调力度，贯通生产、流通与消费等各环节，进一步畅通“大动脉”与“微循环”，为商品流通和能源输送提供坚实支撑。&lt;/p&gt;&lt;p&gt;　　（本报记者  陈  震）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184238&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184238.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184238.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 假日保供的温暖底色（新时代画卷）&lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184238.html#[04版：视觉] 假日保供的温暖底色（新时代画卷）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：视觉] 本版责编 蒋雪婕  吕  莉  郭雪岩  祁嘉润</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184239.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编 蒋雪婕  吕  莉  郭雪岩  祁嘉润 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计  蔡华伟  张芳曼 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184239&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184239.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184239.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编 蒋雪婕  吕  莉  郭雪岩  祁嘉润 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184239.html#[04版：视觉] 本版责编 蒋雪婕  吕  莉  郭雪岩  祁嘉润</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 追逐梦想，在赛场淬炼提升（亚运纵横）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184240.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 中国体育代表团获169金89银83铜，居本届亚运会奖牌榜首位 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 追逐梦想，在赛场淬炼提升（亚运纵横） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  陈晨曦  陶相安  李  硕&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/b5187e46-3b80-4b0c-885f-5d0b28f6250b.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月20日，中国队选手林鑫瑜在铁人三项女子个人项目比赛中冲线并夺得金牌。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  陶相安摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/b5187e46-3b80-4b0c-885f-5d0b28f6250b.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/94fb3ec3-3e7b-465b-8d30-74aefb741330.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月26日，中国队击败泰国队，时隔28年再次闯入亚运会男足四强。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  陶相安摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/94fb3ec3-3e7b-465b-8d30-74aefb741330.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/3b44e8db-a9dd-402a-b506-beb530d1fd92.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　10月3日，中国队球员黄奥琦（上）在七人制橄榄球男子决赛中拼抢。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  张浩波摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/3b44e8db-a9dd-402a-b506-beb530d1fd92.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/bbfb09a9-9f01-4e16-b0e0-3ca88704f8ee.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月25日，12岁的中国队选手曹诗祺在滑板女子碗池比赛中获得第四名。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  陶相安摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/bbfb09a9-9f01-4e16-b0e0-3ca88704f8ee.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/3fc70f02-5708-4b60-b302-3fa7924d982f.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　10月4日，第二十届亚洲运动会闭幕式在日本名古屋举行。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  雒  圆摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/3fc70f02-5708-4b60-b302-3fa7924d982f.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/90a60b88-6aab-4973-8c9e-8a5f2d6e73a3.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　10月3日，中国队选手郭朴在霹雳舞项目女子决赛中夺冠。  &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  马国英摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/90a60b88-6aab-4973-8c9e-8a5f2d6e73a3.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　10月4日晚，第二十届亚洲运动会在日本名古屋瑞穗公园田径场落下帷幕。&lt;/p&gt;&lt;p&gt;　　在这届亚洲45个会员国家和地区参与的体育盛会上，共有28个代表团获得金牌、40个代表团获得奖牌。中国体育代表团继续展现雄厚实力，获得169金89银83铜共341枚奖牌，居奖牌榜首位，日本代表团和韩国代表团排在奖牌榜的第二和第三位。&lt;/p&gt;&lt;p&gt;　　中国体育代表团秘书长张新表示：“此次亚运会达到了为洛杉矶奥运会锻炼队伍、发现新人、查找问题的目的，更加坚定了我们在洛杉矶奥运会夺取优异成绩的信心。”&lt;/p&gt;&lt;p&gt;　　经受考验，基础大项和优势项目保持领先&lt;/p&gt;&lt;p&gt;　　本届亚运会，中国体育代表团共参加了38个大项59个分项369个小项的比赛，在29个大项的38个分项上有金牌入账，参赛小项的夺金率达到了45.8%。金牌之外，中国队选手还在射击、射箭、田径、游泳、举重、场地自行车等项目上共打破8项世界纪录、11项亚洲纪录、22项亚运会纪录。&lt;/p&gt;&lt;p&gt;　　田径、游泳、水上项目等基础大项全面发力，在取得71枚金牌的同时更有亮点涌现。中国田径队收获17枚金牌，在短跑、投掷、跳跃等项目上打破4项亚运会纪录，女子标枪、女子链球的夺冠成绩均超过了巴黎奥运会的金牌成绩，短跑队包揽4×100米接力3枚金牌，女子800米、男子十项全能等项目也取得明显进步。中国游泳队勇夺30枚金牌，金牌总数再创新高，首次包揽7个接力项目金牌，男子200米自由泳、男子4×100米混合泳接力、女子200米个人混合泳创今年世界最好成绩。水上项目赛艇、皮划艇、帆船夺得24枚金牌，继续保持亚洲领先优势。&lt;/p&gt;&lt;p&gt;　　传统优势项目仍保持着较强竞争力和项目底蕴。跳水队延续对亚运金牌的包揽纪录，在名古屋实现“亚运百金”。举重队派出了多名年轻选手，最终10人全部站上领奖台，打破抓举、挺举、总成绩多项世界纪录。中国射击队打破气步枪、飞碟4个团体项目的世界纪录，展现了在该项目上的人才厚度。体操队老中青三代队员同场作战，男子团体、男子全能实现三连冠，女子团体实现十四连冠。&lt;/p&gt;&lt;p&gt;　　国家体育总局局长高志丹说：“亚运练兵有收获，也暴露出一些问题。一些优势项目在新周期的准备工作抓得比较紧，但是有些项目面临严峻形势。”&lt;/p&gt;&lt;p&gt;　　多点开花，拓宽中国竞技体育版图&lt;/p&gt;&lt;p&gt;　　本届亚运会，有些项目中国队呈现进步趋势，突破和重新崛起贯穿代表团的参赛始终。&lt;/p&gt;&lt;p&gt;　　9月20日，亚运会开幕后第一个比赛日，中国队选手在铁人三项比赛中拿下1金1银，其中，女子个人项目是时隔20年再度夺金，男子个人项目则是第一次获得银牌。拿到铁人三项女子个人和混合接力两枚金牌的林鑫瑜说：“这是一个开始，大家可以期待中国铁三项目的崛起。”10月3日，中国代表团比赛的收官之日，中国男足时隔28年重新登上领奖台，第一次闯入亚运会决赛的中国男子橄榄球队则首次摘得银牌。男足队员向余望用“意义重大”形容这枚铜牌：“我们的自信心得到提升，我会把国家队好的经验和敢拼敢打的作风带回俱乐部，希望未来还可以继续为国征战。”&lt;/p&gt;&lt;p&gt;　　与此同时，一批潜优势项目也有精彩表现。花样游泳包揽集体、双人项目金牌，艺术体操集体全能夺冠，中国运动员的艺术表现力征服全场。交手类项目在亚运会上积蓄力量，拳击卫冕女子51公斤级冠军，跆拳道时隔16年再获女子49公斤级金牌，摔跤夺得自由式摔跤女子57公斤级金牌，柔道时隔12年再获女子78公斤以上级金牌，击剑女子重剑团体夺冠。射箭首次夺得反曲弓混合团体金牌，第一时间拿到奥运会参赛资格。网球女子单打实现六连冠，连续3届包揽金银牌。高尔夫球夺得男子团体、女子团体金牌，实现金牌零的突破。此外，马术盛装舞步团体项目获得首枚亚运会金牌，公路自行车时隔20年再获亚运会金牌，现代五项时隔12年再夺男子个人项目金牌。&lt;/p&gt;&lt;p&gt;　　这些项目的进步，进一步拓宽了中国竞技体育在亚洲的版图。&lt;/p&gt;&lt;p&gt;　　新人辈出，勇往直前展现青春风采&lt;/p&gt;&lt;p&gt;　　亚运赛场，一批新人崭露头角，他们的青春力量，成为中国体育在本届亚运会上的最大收获。&lt;/p&gt;&lt;p&gt;　　田径场上，17岁的陈妤颉夺得3金1银，成为亚洲最年轻的女子“百米飞人”，18岁的严子怡“一枪制胜”夺得女子标枪冠军，18岁的张家乐在女子链球项目中以破亚洲纪录的成绩夺冠。泳池里中国小将的表现也不遑多让，13岁的于子迪夺得3枚金牌，3项成绩均打破亚洲纪录或亚运会纪录。19岁的张展硕夺得7枚金牌，追平亚运会历史个人单届夺金纪录。赛后，张展硕表示自己“要沉下心来”，“接下来会向世界纪录去冲刺，戒骄戒躁，勇往直前，把这7枚金牌化为更大的动力”。&lt;/p&gt;&lt;p&gt;　　高志丹高度评价中国队年轻选手的表现：“年轻运动员在赛场上展现了新时代中国年轻人的锐气、志气。”&lt;/p&gt;&lt;p&gt;　　在入围奥运会的新兴项目上，中国队选手也取得了一系列突破。中国攀岩队在4个项目中共获得2金1银1铜的成绩，两枚金牌都创造了历史。张悦彤在女子攀石决赛中，为中国攀岩队夺得了综合性运动会攀石项目的首枚金牌。男子速度攀岩项目的竞争非常激烈，决赛圈有5名世界排名前十的选手，最终，19岁的储守宏突出重围，为中国队夺下该项目的亚运首金。&lt;/p&gt;&lt;p&gt;　　国家体育总局登山运动管理中心相关负责人表示：“队伍在本次亚运会中得到了充分历练，对更好地备赛洛杉矶奥运会起到了积极作用。”&lt;/p&gt;&lt;p&gt;　　张新说：“中国体育代表团每名运动员都异常珍惜参加亚运会的机会，他们顽强拼搏、挑战自我，为取得更好成绩而奋斗，在亚运赛场留下了追逐梦想的身影。亚运会将成为他们为国争光、展现自我的美好纪念。” &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  陈晨曦  陶相安  李  硕&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 中国体育代表团获169金89银83铜，居本届亚运会奖牌榜首位 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184240&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184240.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184240.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 追逐梦想，在赛场淬炼提升（亚运纵横） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184240.html#[05版：特别报道] 追逐梦想，在赛场淬炼提升（亚运纵横）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 检验当下  蓄势未来（亚运观澜）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184241.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 检验当下  蓄势未来（亚运观澜） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							陶相安&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　169金89银83铜，高居金牌榜和奖牌榜双榜首。本届亚运会，中国体育代表团交出一份境外参赛历史最佳成绩单。&lt;/p&gt;&lt;p&gt;　　跳水队实现第十四次亚运会金牌全包揽；射击队连续13届亚运会位居射击项目金牌榜首，并打破多项世界纪录；体操队顶住客场压力，包揽男女团体冠军；中国男足时隔28年再次登上亚运会领奖台……优异成绩的背后，展现了中国体育的雄厚实力。&lt;/p&gt;&lt;p&gt;　　老将新秀同台竞技，奋力拼搏。中国体育代表团815名运动员中，有548人是首次参加亚运会。17岁的陈妤颉以11秒06的成绩刷新亚运会纪录，18岁的严子怡“一枪制胜”夺得女子标枪金牌，19岁的张展硕泳池内勇夺7金。年轻小将敢打敢拼，以阳光自信的青春风采为中国体育注入强劲力量。与此同时，张博恒、冯彬、陈艺文、谢震业等老队员坚守赛场，全力拼、传帮带，是中国体育代表团在竞技场上的底气来源。&lt;/p&gt;&lt;p&gt;　　亚运会素有“中考”之称：举办前一年，新奥运周期的各支队伍班底初步搭建；举办后一年，运动员便要向奥运会发起冲刺。因此，其承担着检验队伍、布局未来的重要使命。&lt;/p&gt;&lt;p&gt;　　“考试”也能照见不足：篮球4个小项中，仅中国女篮收获一枚铜牌；中国女足队史第三次无缘亚运会领奖台；乒乓球男子团体失利折射阵容深度不足；国羽仅两金入账，竞争加剧……亚运赛场上暴露的问题，恰是通往洛杉矶奥运会“考场”前的必答题。正视不足、积极应对，才有望在“大考”中取得佳绩。&lt;/p&gt;&lt;p&gt;　　第二十届亚运会已落幕，既要总结当下，更要蓄势未来。从“中考”走向“大考”，当赛场上照见的不足被逐渐弥补，当队伍建设通过实战取得进步，当领奖台上的年轻身影越来越多，中国体育健儿走上“考场”，方能更加自信与从容。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;陶相安&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184241&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184241.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184241.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 检验当下  蓄势未来（亚运观澜） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184241.html#[05版：特别报道] 检验当下  蓄势未来（亚运观澜）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 于子迪当选亚运会最有价值女运动员</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184242.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 于子迪当选亚运会最有价值女运动员 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/42c83c98-14c4-48be-a270-e88f720337a5.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　9月23日，中国队选手于子迪在女子400米个人混合泳预赛中。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  伍志尊摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/42c83c98-14c4-48be-a270-e88f720337a5.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　本报名古屋10月4日电  （记者陶相安、刘硕阳）4日上午，亚奥理事会召开新闻发布会，公布本届亚运会最有价值男女运动员，13岁的中国游泳运动员于子迪当选为最有价值女运动员，20岁的泰国田径选手布里蓬·汶颂当选为最有价值男运动员。&lt;/p&gt;&lt;p&gt;　　在东京水上运动中心，首次参加亚运会的于子迪表现亮眼，共摘得女子200米蝶泳、女子200米个人混合泳和女子400米个人混合泳3枚金牌，其中200米个人混合泳游出2分06秒10，刷新亚洲纪录。汶颂在本届亚运会田径赛场夺得男子100米和男子200米2枚金牌，并追平了谢震业保持的男子200米亚洲纪录。&lt;/p&gt;&lt;p&gt;　　自1998年曼谷亚运会起，亚奥理事会设立亚运会最有价值运动员奖项。中国羽毛球运动员林丹曾获评2010年广州亚运会最有价值运动员。从2023年举行的杭州亚运会起，男女最有价值运动员分开评选，中国游泳运动员覃海洋和张雨霏在该届亚运会上分别当选。&lt;/p&gt;&lt;p&gt;　　本届亚运会的最有价值运动员由亚奥理事会副总干事维诺德、亚奥理事会运动员委员会主席丁宁等5人组成的评选小组投票产生，于子迪成为第四位来自中国代表团的亚运会最有价值运动员。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184242&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184242.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184242.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 于子迪当选亚运会最有价值女运动员 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184242.html#[05版：特别报道] 于子迪当选亚运会最有价值女运动员</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] “我想把五星红旗高高举起”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184243.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 亚运会闭幕式中国体育代表团旗手毕焜 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “我想把五星红旗高高举起” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  范佳元  人民网记者  胡雪蓉&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　10月4日晚，第二十届亚运会闭幕式在日本名古屋瑞穗公园田径场举行。中国体育代表团旗手、帆船运动员毕焜高擎五星红旗步入现场。&lt;/p&gt;&lt;p&gt;　　这是毕焜第三次亚运会之旅，却是他第一次参加亚运会闭幕式。入场前，毕焜说：“我想把五星红旗高高举起，让国人看见，让亚洲、世界看见。”&lt;/p&gt;&lt;p&gt;　　“作为运动员，担任旗手是莫大的荣誉。”毕焜说。就在前一天，他拿到本届亚运会水翼帆板iQFOiL级冠军，当晚就收到了担任闭幕式旗手的消息。“担任中国代表团旗手，一直是我的梦想，这一次终于梦想成真。”他说。&lt;/p&gt;&lt;p&gt;　　毕焜连续3次参加亚运会并获得金牌：2018年雅加达亚运会，毕焜还很年轻，凭着一股拼劲站上最高领奖台；2023年杭州亚运会，他从RS:X级转项到iQFOiL级水翼帆板，不负众望拿下金牌。本届亚运会，他已是一名老将，再次卫冕成功。&lt;/p&gt;&lt;p&gt;　　一路走来并不容易。本届亚运会赛场上，与他同场竞技的有40岁的韩国队选手，也有20岁的泰国队新秀。“比赛中遇到很多挑战和困难，我也想了很多方法去应对。”毕焜总结道，“运动员有领奖台上的高光时刻，也有训练场里的辛苦付出。能够代表祖国参赛，在异国他乡升起五星红旗，我感到十分光荣。”&lt;/p&gt;&lt;p&gt;　　帆板在国内属于小众项目，毕焜希望自己的坚持能推动项目发展、激励爱好者。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  范佳元  人民网记者  胡雪蓉&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 亚运会闭幕式中国体育代表团旗手毕焜 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184243&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184243.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184243.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “我想把五星红旗高高举起” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184243.html#[05版：特别报道] “我想把五星红旗高高举起”</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：特别报道] 本版责编：罗  彦  史  哲  曹继炜</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184244.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：罗  彦  史  哲  曹继炜 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：张芳曼 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184244&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184244.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184244.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：罗  彦  史  哲  曹继炜 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184244.html#[05版：特别报道] 本版责编：罗  彦  史  哲  曹继炜</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 在风景里说“我愿意”（视线）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184245.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 多地推进景区结婚登记 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 在风景里说“我愿意”（视线） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  阿尔达克  门杰伟  窦瀚洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　新人们在赛里木湖婚姻登记中心拍照留念。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　王敦生摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/bfceadf0-7f0e-4ab3-b826-be13b0cc5300.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　新人在长白山拍摄婚纱照。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　长白山旅游股份有限公司供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/e827fa78-d583-49af-aa32-dba9d1bdc675.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　黄酒小镇，新人们在婚书上按下手印。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　越城区委宣传部供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/c1ff982a-89dc-4a86-b800-518ca4e9504e.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　赛里木湖风景。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　田隽恺摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/5f4cbf71-d735-4d0e-8182-7e839f1817dd.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　新修订的《婚姻登记条例》实施以来，内地居民婚姻登记不再受户籍地限制，可在全国范围内任一婚姻登记机关办理。&lt;/p&gt;&lt;p&gt;　　从雪山湖泊到千年古镇，越来越多的年轻人选择奔赴山川湖海，开启“旅行+领证”新模式。各地把婚姻登记服务与文旅资源深度融合，既为新人留下浪漫记忆，也为地方文旅消费打开新入口。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　新疆赛里木湖——&lt;/p&gt;&lt;p&gt;　　自然特色变为浪漫符号&lt;/p&gt;&lt;p&gt;　　清晨的赛里木湖还笼着薄雾，景区新游客中心三楼的婚姻登记大厅已经忙碌起来。工作人员提前到岗，摆放座椅、引导排队、分流办理，当天共有347对新人在这里完成婚姻登记。&lt;/p&gt;&lt;p&gt;　　“我们跨越几千公里来到赛里木湖，定格属于我们的重要时刻。”来自湖北的唐章琪说。他和爱人熊新怡选择在相恋两周年纪念日当天领证，“通过满满的仪式感，为彼此留下深刻、珍贵的专属回忆。”&lt;/p&gt;&lt;p&gt;　　赛里木湖位于新疆维吾尔自治区博尔塔拉蒙古自治州西南部，是新疆海拔最高、面积最大的高山冷水湖，被称为“大西洋的最后一滴眼泪”。比名字更引人注目的，是一组天然生成的浪漫数字。据景区负责人介绍，景区距乌鲁木齐约520公里，赛里木湖湖面平均海拔约2073米，景区总面积1314平方公里，连起来便是“52020731314”，谐音“我爱你，爱你情深，一生一世”。“赛里木湖浪漫的数字寓意，吸引我们特意赶来这里领证，希望婚姻能够长长久久。”来自江苏的张小凤说出了不少情侣的想法。她和爱人周海龙办完登记后计划在湖边拍照留念。&lt;/p&gt;&lt;p&gt;　　为应对七夕领证高峰，赛里木湖婚姻登记中心提前升级服务、增配设备和人员，办证工位从6个增设至15个，同时开设3条专属绿色通道，为现役军人、退役军人、消防救援人员提供优先办证服务。来自湖南的王子健是一名退役军人，绿色通道让他倍感暖心：“我和爱人特意休年假赶来。现场预约成功后，办证速度很快，工作人员服务热情周到。”&lt;/p&gt;&lt;p&gt;　　赛里木湖婚姻登记中心主任森德西介绍，中心于2024年4月正式运营，支持婚姻登记全国通办，实行全线上预约，登记领证全程免费。在硬件保障之外，景区还围绕“浪漫”做文章。依托独特的地理寓意，景区打造了1314网红打卡雕塑、爱情主题景观，将自然特色转化为婚姻登记的浪漫符号。&lt;/p&gt;&lt;p&gt;　　今年以来，赛里木湖婚姻登记中心已为超2万对新人办理婚姻登记，其中80%是疆外游客。森德西说，“我们将以更暖心的服务，让新人的美好爱情在此定格留存。”&lt;/p&gt;&lt;p&gt;　　吉林长白山——&lt;/p&gt;&lt;p&gt;　　擦亮特色爱情IP&lt;/p&gt;&lt;p&gt;　　清风拂过山川，松涛缓缓涌动。吉林长白山脚下，阳光透过婚姻登记处的窗棂和花瓣装饰，滤成细碎金斑。&lt;/p&gt;&lt;p&gt;　　“我们自愿结为夫妻……”白纱裙、黑西装，一对新人正并肩站在登记台前，对彼此许下誓言。“咔哒”一声，工作人员将印章落在结婚证上。&lt;/p&gt;&lt;p&gt;　　“来之前我们就在社交媒体上查了不少攻略，趁领证一并打卡各处景点。”美人松爱情森林中，来自浙江的汪先生和袁女士牵手走在1314米长的爱情步道上，步道尽头，正是婚姻登记处。&lt;/p&gt;&lt;p&gt;　　据了解，当地打造“长相守，到白头，山为证”的特色爱情IP，规划设计“恋语松铃”“松见卿心”“松涛鹊桥”等特色打卡点，将自然山水与爱情寓意巧妙融合。&lt;/p&gt;&lt;p&gt;　　长白山巅，天池侧畔，一场“目的地婚礼”正在举行。来自江苏的彭先生与王女士互换戒指，亲友一同鼓掌庆贺。幸福的人群、蔚蓝的天池、巍峨的群峰，共同在镜头中定格。&lt;/p&gt;&lt;p&gt;　　“我俩都爱旅行，也不想被传统婚礼的条条框框所限制。”彭先生说，他们选择了“目的地婚礼”这一形式，将婚礼仪式与旅行、蜜月结合在一起。仪式举办完后，他们打算在山下的民宿再住上几天，在林海松涛中品味新婚的快乐。&lt;/p&gt;&lt;p&gt;　　近年来，在长白山登记结婚的外地新人越来越多。有人冲着松林的静谧奔赴，有人为了天池的浪漫而来，还有人专门赶着秋冬的雪季体验“雪山之约”……&lt;/p&gt;&lt;p&gt;　　“一开始我们只有一个小型登记点，每天最多办30对，难以满足需求。”婚姻登记处负责人孙丹妮告诉记者，自2025年12月美人松爱情森林婚姻登记处投用以来，热度一路攀升。&lt;/p&gt;&lt;p&gt;　　为了承接全国通办带来的登记需求，今年2月，登记处拓展至美人松廊桥公园，登记能力从每日30对提升至180对，还新增了化妆造型、主题婚拍、非遗体验、特色饮品等配套服务。&lt;/p&gt;&lt;p&gt;　　当地文旅部门相关负责人表示，接下来长白山还将持续深耕“甜蜜经济”全链条，擦亮浪漫文旅名片，一方面继续挖掘自然与民俗文化资源，打造更多沉浸式爱情场景；另一方面联合民政部门规范行业标准，引导婚庆企业走精品化、定制化路线，推动产业健康发展。&lt;/p&gt;&lt;p&gt;　　浙江绍兴黄酒小镇——&lt;/p&gt;&lt;p&gt;　　乌篷为媒黄酒为证&lt;/p&gt;&lt;p&gt;　　浙江绍兴越城区的黄酒小镇里，酒香混合喜气。在“囍越里”婚俗基地，绍兴姑娘朱舒曼和爱人刚领完结婚证，来到一只酒坛前，在封酒条上写下两人姓名，合力将一坛黄酒封存。随后，两位新人拍下甜蜜合照，在现场游客和工作人员见证下，完成了极具仪式感的领证环节。&lt;/p&gt;&lt;p&gt;　　在绍兴传统婚俗中，喜事总少不了黄酒的身影，拥有2500多年酿造历史的绍兴黄酒，早已融入人们的日常生活和婚嫁礼俗，成为当地的文化标签。2015年，绍兴黄酒小镇开门纳客，成为集黄酒文化展示、水乡古镇游览、休闲消费体验于一体的文旅景区。&lt;/p&gt;&lt;p&gt;　　今年5月16日，越城区婚姻登记中心从城区整体迁入黄酒小镇，成为一处设在千年古镇里的婚姻登记机关，在浙江省民政厅组织的2025年度全省婚姻登记机关标准化建设验收中，还被评定为5A级婚姻登记机关。中心迁址后迎来了首个七夕，像朱舒曼这样的近百对新人在这里体验了不一样的结婚登记。&lt;/p&gt;&lt;p&gt;　　走进登记中心，爱情寓意藏在一处处细节中。入口处，圆形朱红门扉与“叩囍三响，缘启一生”的楹联相映成趣，中式颁证厅内，红绸垂梁、宫灯高悬，“囍”字龙凤背景墙喜庆庄重。在“曲水流觞，诗咏同心”互动墙前，新人轻触画面中的杯盏，黄酒流淌的曲水线路上便会浮现流传千年的爱情诗词。&lt;/p&gt;&lt;p&gt;　　越城区婚姻登记中心主任余立峰介绍，新址设置了6个结婚登记点，有中式、现代两座颁证厅，满足新人不同的仪式需求。&lt;/p&gt;&lt;p&gt;　　古镇里的婚姻登记服务，并没有止步于一纸证书。与登记中心隔河相望的婚俗馆，陈列着200多件婚俗展品。领证后，新人还可以体验宋韵水上婚礼，以乌篷船为媒、黄酒为证，在水乡景致中感受传统婚俗礼仪。&lt;/p&gt;&lt;p&gt;　　绍兴黄酒小镇管理中心副主任沈明星介绍，从提亲时的“纳采酒”，到出嫁时的“女儿红”，再到婚礼上的“合卺酒”，黄酒始终贯穿绍兴传统婚俗。&lt;/p&gt;&lt;p&gt;　　对新人而言，领证从“办手续”变成了“微旅行”，乌篷船、黄酒坛、古石桥都成了爱情的见证；再看古镇，婚姻登记中心则成了最好的引流引擎，带动游船、民宿、婚拍、文创等业态持续升温，串起一条“甜蜜产业链”。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  阿尔达克  门杰伟  窦瀚洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 多地推进景区结婚登记 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184245&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184245.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184245.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 在风景里说“我愿意”（视线） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184245.html#[06版：假日生活] 在风景里说“我愿意”（视线）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 海洋动物也有“年轮”（探秘博物馆）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184246.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 海洋动物也有“年轮”（探秘博物馆） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							方  园&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/af3c38b2-53d8-4676-98b6-0ff1c13cf450.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　蜘蛛螺的幼贝贝壳与成贝贝壳。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　资料图片&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/af3c38b2-53d8-4676-98b6-0ff1c13cf450.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/235b3e60-45d4-419e-af01-6a6e41fbac54.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　美丽的海底世界。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　陈  诚摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/235b3e60-45d4-419e-af01-6a6e41fbac54.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　中国（海南）南海博物馆，“南海自然生态陈列”吸引了不少“大朋友”和小朋友前来观看。在海洋鱼类、海洋哺乳类、海洋贝类与珊瑚等各种生物标本面前，我们经常被问到一个问题：“它多少岁了？”&lt;/p&gt;&lt;p&gt;　　实际上，海洋动物种类繁多，不同物种的年龄有不同的测算方式。有一些方法可以帮助我们推断出海洋动物正处于生命中的哪个阶段，如刚出生、未成年、成年或老年。如果想要更加精准地判断出具体年龄，则需要更加复杂的技术和方法。&lt;/p&gt;&lt;p&gt;　　先从简单的说起。大小、形态、颜色、花纹，这些外观上的指标，都能作为推断海洋动物生命阶段的参考。&lt;/p&gt;&lt;p&gt;　　在绚丽多彩的珊瑚礁旁，常栖息着有彩虹般体色的鹦嘴鱼。由于其合不拢的嘴形、斑斓亮丽的外表和鹦鹉相似，这种鱼类因此得名。通过颜色和花纹来判断它们的年龄，也成了常用的手段。比如，幼年的斑点鲸鹦嘴鱼有着黄色的嘴、白色的“身”，成年后，雄性呈现绿红相间的花纹、雌性则呈现黑褐色的外观。&lt;/p&gt;&lt;p&gt;　　此外，某些脊椎动物幼年与成年外观差异较大，一眼便可辨明。例如，有着“水中大熊猫”之称的中华白海豚，体色会随年龄增长发生变化。刚出生的幼仔呈深灰色，随着生长慢慢褪成灰色，发育成熟时为粉红色或灰白色，老年时则变成白色。&lt;/p&gt;&lt;p&gt;　　对于包括贝类在内的无脊椎动物，可通过观察其钙质外壳大小等，对它的年龄有大概的认识。唐冠螺成体贝壳大而厚重，尺寸可超30厘米，而外观相似的幼贝，则非常“迷你”。&lt;/p&gt;&lt;p&gt;　　如果不容易通过外观进行推断，我们就需要探究其“内里”。&lt;/p&gt;&lt;p&gt;　　首先，看看嘴里的牙。脊椎动物的牙齿和骨骼，是判断年龄的可靠指标。通过了解牙齿萌出时间和顺序、牙齿生长层数目、牙冠磨耗程度、骨骼衰老情况等，都可以获得比较准确的年龄数据。&lt;/p&gt;&lt;p&gt;　　以虎鲸为例。属于齿鲸的虎鲸一生只有一套牙齿。在2至4月龄时，开始摄入固态食物的它们长出牙齿。牙齿逐层生长，通过观察和计算牙齿表面和内部的生长纹理，便可进行年龄判断。&lt;/p&gt;&lt;p&gt;　　一般情况下，在自然环境中生长的同种动物，至老年时牙冠会有更严重的磨耗情况。不过，这一规律对虎鲸并不完全适用。相较于年龄因素，虎鲸的进食行为和猎物种类可能更为关键。以皮肤粗糙的鲨鱼为食的虎鲸，其牙齿的磨耗程度往往比以其他海鱼海兽为食的要严重得多。若仅从磨耗程度来反推年龄，可能会有不准确的情况。&lt;/p&gt;&lt;p&gt;　　其次，再看看耳朵。鱼类的年龄可通过其耳石中矿化层的数量获知。不同鱼类的耳石形状、大小差异明显，可用于甄别鱼的种类。相较于鳞片、鳍条、鳃盖骨等结构，耳石是一个更少受到外部环境影响、保存时间更长的优质指标。&lt;/p&gt;&lt;p&gt;　　另外，许多大型须鲸从出生起便在耳道中积累起耵聍，最终形成长长的耳栓。这种由脂质、角蛋白等组成的耳栓，同样拥有分层纹理，既可用于分析进食、迁徙、环境污染等多重信息，也可用来准确地判断年龄。&lt;/p&gt;&lt;p&gt;　　实际上，许多用于测量陆地生物年龄的方法，对于海洋生物也适用。无论是看外观、辨“五官”，还是运用同位素测年法等相关方法，都为我们了解海洋动物年龄、生长状况提供了参考，在“算”的过程中，也让我们更懂得尊重自然、保护自然。&lt;/p&gt;&lt;p&gt;　　（作者为中国（海南）南海博物馆馆员、自然部负责人，本报记者董泽扬采访整理） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;方  园&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184246&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184246.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184246.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 海洋动物也有“年轮”（探秘博物馆） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184246.html#[06版：假日生活] 海洋动物也有“年轮”（探秘博物馆）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 烟火入味，乡愁绵长（跟着味蕾去旅行）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184247.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 四川犍为 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 烟火入味，乡愁绵长（跟着味蕾去旅行） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  宋豪新&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/3ead2778-7087-44d9-88bd-e5549b6f630c.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　跷脚牛肉。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  宋豪新摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/3ead2778-7087-44d9-88bd-e5549b6f630c.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/05/718d87c5-95b2-4043-94c3-902a5fd6190d.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　四川乐山犍为县，行驶中的嘉阳蒸汽小火车。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　张  祥摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/718d87c5-95b2-4043-94c3-902a5fd6190d.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　食在四川，味在乐山。犍为县美食，则是乐山美食版图里极具辨识度的重要板块。&lt;/p&gt;&lt;p&gt;　　依托千年古郡盐运、商贸积淀，犍为孕育出牛肉咔饼、特色豆腐脑、罗城羊肉汤等一众风味美食。与乐山城区口味有所不同，犍为美食融合岷江沿线风味特色，酸甜麻辣层次丰富，市井小吃传承久远。&lt;/p&gt;&lt;p&gt;　　走进犍为县城，老街小巷里总飘着缕缕香气，引得市民游客纷纷寻味而来。来到龙池街的“老福爷跷脚牛肉”，熬制了一整夜的牛骨汤锅咕嘟冒泡，醇厚肉香伴着淡淡药香扑面而来。熟客进门径直落座，张口便报出想吃的菜品；初来的游客则一边翻看菜单，一边听服务员讲解推荐。&lt;/p&gt;&lt;p&gt;　　跷脚牛肉发源于乐山。随着当地盐业兴盛，役用牛需求量大增。苏稽周氏族人将宰牛后弃置的牛杂收集洗净，以香料去腥熬煮，搭配当地辣椒、花椒作蘸料，售卖给码头的苦力脚夫食用。食客就餐时常不自觉跷起一只脚，搭在桌下的横梁上，久而久之，这份随性松弛的就餐姿态，便成了这道美食的名字。&lt;/p&gt;&lt;p&gt;　　住在附近的居民陈平，几乎每天都会到店里来吃上一碗跷脚牛肉。“犍为的跷脚牛肉结合本地口味进行了微调，苦味更淡，汤头更柔，牛杂的比例也更高。”陈平擦了擦额头上的汗珠说。&lt;/p&gt;&lt;p&gt;　　时至今日，这道美味，大多藏身街边独立汤锅小店，一锅清鲜浓汤，鲜香如故。&lt;/p&gt;&lt;p&gt;　　告别汤锅的氤氲热气，循着麦芽糖与卤油交织的甜香往前走，就能解锁犍为的另一张美食名片——甜皮鸭。&lt;/p&gt;&lt;p&gt;　　犍为甜皮鸭选用精品散养土仔鸭，讲究“卤、炸、刷”三重工艺，经八角、桂皮等20余种香料熬制的卤汤卤熟。卤制入味的土仔鸭下入锅中炸至金黄，刷上一层麦芽糖浆，鸭身便披上了一层透亮的琥珀薄皮。&lt;/p&gt;&lt;p&gt;　　犍为的甜皮鸭产销两旺，既是老百姓餐桌上的家常美味，也是游子寄托乡愁的伴手礼。&lt;/p&gt;&lt;p&gt;　　“我大学毕业后一直在外地工作，最想念的就是犍为的甜皮鸭——入口咸甜、皮酥略脆、肉质细嫩，在别的地方可吃不到这种味道。”正在“金犍钟记”购买甜皮鸭的市民王巧怡，手里拎着满满两大袋。每次休假回来，她都会买上几只，把家乡的美味分享给更多人。&lt;/p&gt;&lt;p&gt;　　曾经，跷脚牛肉和甜皮鸭是码头苦力、寻常百姓果腹的平价吃食；如今，它们已成为犍为出圈走红、承载乡愁的城市名片。岷江流水日夜奔腾，老街汤锅常年沸腾，刚出炉的甜皮鸭香气袅袅，升腾起岁岁年年不变的小城烟火。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　小贴士&lt;/p&gt;&lt;p&gt;　　犍为县坐拥嘉阳蒸汽小火车、罗城船形古镇等特色景致，节奏舒缓、烟火气浓厚，是成都及周边城市周末短途慢游的优质目的地。&lt;/p&gt;&lt;p&gt;　　犍为四季游玩各有亮点：春季可赏油菜花海；夏季可游览茉莉博览园、桫椤湖；秋季可赏红叶，也是小火车最佳观赏时段；部分景区矿井、山林区域信号偏弱，建议备好充电宝；山间蚊虫较多，可随身携带驱虫用品。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  宋豪新&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 四川犍为 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184247&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184247.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184247.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 烟火入味，乡愁绵长（跟着味蕾去旅行） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184247.html#[06版：假日生活] 烟火入味，乡愁绵长（跟着味蕾去旅行）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 本版责编：孟  扬  唐中科  朱  燕</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184248.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：孟  扬  唐中科  朱  燕 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：沈亦伶 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184248&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184248.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184248.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：孟  扬  唐中科  朱  燕 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184248.html#[06版：假日生活] 本版责编：孟  扬  唐中科  朱  燕</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：人文] 走近大国重器  感受硬核实力（文化中国行·人文观察）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184249.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 走近大国重器  感受硬核实力（文化中国行·人文观察） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　江南造船5号码头在建船舶。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　丁子羽摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/e1b36819-15b5-460f-82b3-37b574084ef0.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　中国一汽博物馆内展示的红旗品牌经典车型。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　朱万昌摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/02c697aa-8505-490e-92ba-b4d8c7ecceb5.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　研学团在江南造船5号码头参观大型集装箱船。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　郑永强摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/81c4f195-552d-45bf-9e1b-d1b5a5a40d18.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　海南商业航天发射场火箭发射现场。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　云伟晟摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/0392c2ca-32fc-429f-a9ae-4e72dc072063.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　曾经“闲人免进”的工业重地，如今成为备受追捧的文旅新地标。近年来，“工业游”持续走红，从汽车智造到船舶重工，从航空航天到清洁能源，一批大国重器敞开大门，让大众得以近距离触摸中国工业硬实力。跳出传统观光模式，“工业游”推动文旅业态实现深度转变，让出行不止于赏景休闲，更成为感悟科创力量、致敬工匠精神、厚植家国情怀的沉浸式课堂。近期，本报记者奔赴3个工业地标实地采访，透过火热的工业文旅新风，解码产业融合新动能。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　中国一汽——&lt;/p&gt;&lt;p&gt;　　从“诸多第一”到智能制造&lt;/p&gt;&lt;p&gt;　　本报记者  刘以晴&lt;/p&gt;&lt;p&gt;　　周末，秋高气爽，吉林省长春市东风大街一汽厂区1号门前，中国一汽博物馆的牌匾下，排队的人拐了个弯。细瞧队伍，既有挂着相机的中年人，也有牵着孩子的年轻父母。“小朋友喜欢车，家里摆着好多汽车玩具。”从北京过来的市民刘娜笑着告诉记者，“长春汽车文化底蕴深厚，趁着放假，带孩子过来看看。”&lt;/p&gt;&lt;p&gt;　　6月23日，商务部等8部门公布汽车流通消费改革试点城市，其中便包括长春市，重点改革创新方向是汽车文化。7月21日，由长影集团、长春文旅集团联合中国一汽共同打造的中国一汽博物馆正式开馆。&lt;/p&gt;&lt;p&gt;　　汽车文化，都看些啥？说话间，中国一汽博物馆馆门打开，清水红砖墙、老式钢吊梁，还有旧时生产标语原样保留。博物馆由第一汽车制造厂工具厂房改造而成，厂房本身便是工业遗产，2013年被列为全国重点文物保护单位。建设团队“修旧如旧”，不仅将老淬火炉、红旗装配台等老物件保留下来，还请教退休一汽老职工，复原当年的工具车间、中央设计室、职工夜校等多处场景。&lt;/p&gt;&lt;p&gt;　　指着建厂初期的整体平面布置图，讲解员开始介绍：1953年一汽奠基，28个省份抽调人力物资驰援；1954年夏天连下44场大雨，建设者冒雨施工，工期一天没耽误……&lt;/p&gt;&lt;p&gt;　　顺着展厅往里走，近150辆不同年代的车型依次排开。新中国第一辆东风小轿车、红旗CA770经典防弹车、“天辇一号”飞行汽车……跟着人群，刘娜在一辆墨绿色卡车前停住了脚步。车灯被擦得锃亮，车前铭牌写着：1956年7月，第一辆解放CA10卡车驶下生产线，新中国不能造汽车的历史就此终结。“不仅看到了汽车产业的历史，更看到成就背后，是工人们不辞辛苦、一块使劲的劲头。”刘娜感慨。&lt;/p&gt;&lt;p&gt;　　“我们收集了新中国第一台汽车、第一台轿车、第一台高级轿车等新中国汽车工业史上诸多‘第一’，希望能通过一个馆，尽可能系统完整地讲好长春汽车产业故事。”中国一汽博物馆筹备组工作人员潘成说。&lt;/p&gt;&lt;p&gt;　　“看过来时路，咱再去看看现代化汽车生产区。”出博物馆，刘娜带着家人沿“长春汽车工业文化旅游”专线，来到红旗制造中心繁荣厂区。&lt;/p&gt;&lt;p&gt;　　焊装车间里，700多台机械臂同步起落，焊花闪烁。机械臂精准高效完成焊接等工作，如今在这里，不到一分钟就有一台红旗车下线。&lt;/p&gt;&lt;p&gt;　　2024年7月，长春市开通汽车工业游线路，从一汽1号门出发，串联红旗工厂、一汽科技创新基地、旗新动力工厂、奥迪一汽新能源工厂等点位，覆盖汽车历史、文化展示与智能制造全链条。两年间，近40万人次游客循着这条线路走进汽车工厂。&lt;/p&gt;&lt;p&gt;　　今年，线路又添新内容：研学课程“1953：国家期盼与一汽答卷”把课堂搬进厂区，移动沉浸式巴士剧《荒原上的钢铁洪流》将汽车产业历史演在身边。将工业资产转化为文旅资源，近些年，长春积极培育汽车消费新场景、新业态、新模式，通过举办国际汽车博览会、研发汽车文旅线路、举办长春汽车拉力赛、推出汽车主题潮玩文创等方式，丰富旅游业态。&lt;/p&gt;&lt;p&gt;　　工业游也在带动产业发展。一线生产场景让参观者更了解品牌，2025年，长春汽车工业完成产值超4040亿元，“长春市汽车集群”入围国家先进制造业集群。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　江南造船工业旅游基地——&lt;/p&gt;&lt;p&gt;　　从“闲人免进”到热门“打卡地”&lt;/p&gt;&lt;p&gt;　　本报记者  曹玲娟&lt;/p&gt;&lt;p&gt;　　“想不想去看看福建舰启航的地方？”这份来自江南造船的硬核邀约，让人很难不心动。&lt;/p&gt;&lt;p&gt;　　从上海市中心驱车往东北方向，穿过长长过江隧道，便来到长兴岛。江水开阔处，巨型龙门吊、壮观码头赫然在目，这便是位于上海市的江南造船工业旅游基地。&lt;/p&gt;&lt;p&gt;　　江南造船的前身为1865年成立的江南机器制造总局，开创了中国现代民族工业的先河。&lt;/p&gt;&lt;p&gt;　　“大国重器在这里有着最直观的表达。这份独特的魅力，吸引了越来越多的游客。”江南造船旗下上海中船文化传媒有限责任公司市场运营部主任姜瀚介绍，自2019年江南造船正式推出工业旅游以来，基地接待人数一路攀升，截至目前，已累计接待游客超33万人次。2022年江南造船工业旅游基地入选国家工业旅游示范基地。&lt;/p&gt;&lt;p&gt;　　中国第一艘螺旋桨驱动的轮船“操江”号在这里诞生，第一艘国产弹射型航母福建舰从这里解缆启航……走进江南造船展示馆，上海市市南中学的学生们，正站在照片墙下，聆听江南造船跌宕起伏的故事。讲解员手中的激光笔点到哪张照片上，对应船的信息就会在电子屏上放大显示。报告厅里，科普视频向同学们讲述着从一块钢板的切割，到万吨巨轮合拢的经过。&lt;/p&gt;&lt;p&gt;　　从“闲人免进”到成为工业旅游热门地，作为国家重点军工企业，江南造船不是简单地打开大门，而是像造船一样精心打磨工业旅游，在安全红线内“分区域、分阶段”开放，提供真切可感的爱国主义教育。&lt;/p&gt;&lt;p&gt;　　“它的存在本身，就是一首无言的史诗，讲述着一个民族如何从百年沧桑中重整戎装，以科技与意志锻造出守护和平的坚固盾牌。”在江南造船工业旅游基地研学后，市南中学学生张庭祯自豪地说。&lt;/p&gt;&lt;p&gt;　　乘坐大巴来到码头生产现场，宏大的码头环抱着数艘在建巨轮，船坞内调试舾装的大型集装箱船、液化天然气运输船缓缓移动，拥有3万多名工人的作业现场秩序井然。&lt;/p&gt;&lt;p&gt;　　参观者看得津津有味，讲解员说得妙趣横生：“那艘船的长度近400米，相当于一座摩天大楼横过来”“一艘液化天然气运输船的运输量可供上海全市使用一个月”……钢铁骨架、蓝天与碧波的交相辉映，工业生产和人文精神相融，迸发出震撼人心的磅礴力量。&lt;/p&gt;&lt;p&gt;　　沉浸式体验船模建造也是重要环节。在分组模拟造船班组作业的手工实践中，教室化身“迷你造船厂”，参观者动手学习船只结构拆解和组装以及分段制造原理。“安装动力系统、电气控制系统等重要部件的精度往往需要控制在0.06毫米以内，堪比头发丝”，来自一线的“江南工匠”分享造船人“零误差、零隐患”的严谨态度，让参观者体会“毫米匠心”的工匠精神。&lt;/p&gt;&lt;p&gt;　　“我们希望能让青少年在万吨巨轮前仰望，种下‘我要造舰’的种子——这是我们用心打造工业旅游最重要的出发点。”姜瀚坦言。&lt;/p&gt;&lt;p&gt;　　作为中国近代工业发源地、中国现代工业的集聚地，上海正在将百年工业积淀转化为独特的城市文旅体验。在这里，中国商飞、上海汽车、江南造船、宝山钢铁……一个个响当当的名字，正以更加亲切的姿态走入普通人的生活。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　海南商业航天发射场——&lt;/p&gt;&lt;p&gt;　　从“碰运气”到常态“追箭”&lt;/p&gt;&lt;p&gt;　　本报记者  孙海天&lt;/p&gt;&lt;p&gt;　　参观队伍在发射工位前停下。站在队伍前讲解的陈年长，穿着一身海南国际商业航天发射有限公司的工装。&lt;/p&gt;&lt;p&gt;　　这位侃侃而谈的“导游”还有一个身份——发射公司甲烷一组操作手，平日在岗位上负责发射保障。原来，近期一次发射安排临时调整，不少已经赶到海南文昌观看火箭发射的游客没有返程，而是转来发射工位参观。接待一时忙不过来，公司趁任务间隙抽调一线人员支援讲解。&lt;/p&gt;&lt;p&gt;　　自2024年11月30日首发以来，到今年8月，位于海南文昌的海南商业航天发射场已连续21次发射成功，“月月有发射”渐成常态。加上毗邻的中国文昌航天发射场，两座发射场同处一城，等一枚火箭，从“碰运气”变成可以提前安排的旅程，“追火箭的人”也成为常客。&lt;/p&gt;&lt;p&gt;　　“以前看火箭发射是‘碰运气’，现在‘追箭’变成常态，我们观礼之后，还想把火箭背后的门道弄明白。”一名来自河南的游客告诉记者。&lt;/p&gt;&lt;p&gt;　　在文昌做航天旅游接待的马侠，扎根这里近10年，几乎把发射日期写满自己的日历。中国文昌航天发射场执行的51次发射任务，她看了49次；海南商业航天发射场建成后的发射，她也回回在现场。“在文昌这近10年，我已经把自己当成一个文昌人了。”这些年，她带着全国各地的游客在海边等火箭点火，也开始盘算新的线路：带孩子走进火箭厂房，请专家面对面讲一讲。&lt;/p&gt;&lt;p&gt;　　站在工位下，游客问得最多的一句是：火箭为什么躺着出门？&lt;/p&gt;&lt;p&gt;　　答案就在几百米外的厂房。火箭在那里平放着完成组装、测试、转运，运到工位整体起竖，加注即可发射。“躺着出门、竖起即发的火箭，占用发射区的时间大大压缩。”陈年长介绍，加注是他每天打交道的环节。“在岗位上盯的是参数和阀门，站到游客面前，得把这些讲成他们听得懂的话。”他说。&lt;/p&gt;&lt;p&gt;　　出了发射场，游客的好奇没有结束。&lt;/p&gt;&lt;p&gt;　　今年暑期，文昌航天科普中心接待游客4.4万人次。12岁的天津男孩宋浩戴上混合现实眼镜，模拟执行空间站出舱任务。摘下设备，他拉着妈妈的手往下一处体验区跑：“我看到地球了！蓝色的，太漂亮了！”&lt;/p&gt;&lt;p&gt;　　在航天超算中心，卫星数据怎样采集、传回地面，又怎样服务农业和交通，通过屏幕和互动项目呈现在游客眼前。“学生们不光想看火箭升空，更想知道它背后的完整故事。”文昌航天超算智慧科技有限公司董事长叶世阳说。观礼、参观、科普接续起来，一趟为火箭而来的旅行，便从半日延长到两三天。&lt;/p&gt;&lt;p&gt;　　游客多留一晚，小镇就多一份生意。2025年文昌“航天小镇”龙楼镇累计涌入超40万游客，旅游收入达6000万元。&lt;/p&gt;&lt;p&gt;　　讲解结束，陈年长回到工位，下一次任务仍按节奏推进。游客则继续去下一站游览，期待着火箭升空的烈焰。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184249&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184249.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184249.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 走近大国重器  感受硬核实力（文化中国行·人文观察） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184249.html#[07版：人文] 走近大国重器  感受硬核实力（文化中国行·人文观察）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：人文] 本版责编：耿  磊</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184250.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：耿  磊 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：沈亦伶 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184250&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184250.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184250.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：耿  磊 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184250.html#[07版：人文] 本版责编：耿  磊</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 祖国，我对您说</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184252.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 祖国，我对您说 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; （外一首） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							峭  岩&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　你若问我当下的心情&lt;/p&gt;&lt;p&gt;　　祖国，我对您说&lt;/p&gt;&lt;p&gt;　　我的脚步没有停止，以及心脏和大脑&lt;/p&gt;&lt;p&gt;　　它们依然在一个维度上跳动&lt;/p&gt;&lt;p&gt;　　不能割舍的是一杆枪的威严&lt;/p&gt;&lt;p&gt;　　舒心的，还是十月的欢声和鼓声&lt;/p&gt;&lt;p&gt;　　贴得最近、梦绕情牵的还是您&lt;/p&gt;&lt;p&gt;　　祖国母亲&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　祖国，我的血肉相连的祖国&lt;/p&gt;&lt;p&gt;　　从青铜中走来，从甲骨文走来&lt;/p&gt;&lt;p&gt;　　从十月的鼓声、花海中走来&lt;/p&gt;&lt;p&gt;　　有辉煌、苦难，有抗争和血与泪的过往&lt;/p&gt;&lt;p&gt;　　更有现代的工业化的交响&lt;/p&gt;&lt;p&gt;　　我在您的护佑下学步成长&lt;/p&gt;&lt;p&gt;　　我是祖国的一粒沙，一声燃烧的呐喊&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　您用哲学和宽容大度拉扯着我&lt;/p&gt;&lt;p&gt;　　我有了一个又一个饱满的白天和夜晚&lt;/p&gt;&lt;p&gt;　　又拥有一串锃亮、华美的年轮&lt;/p&gt;&lt;p&gt;　　然而，我的爱更深刻，更刻骨&lt;/p&gt;&lt;p&gt;　　所有的幸福都来自一方安宁&lt;/p&gt;&lt;p&gt;　　我时刻准备着，聆听您呼唤我的名字&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　面对金色的田野和山河&lt;/p&gt;&lt;p&gt;　　我对祖国说&lt;/p&gt;&lt;p&gt;　　日子好了，山水绿了&lt;/p&gt;&lt;p&gt;　　绝不会松动一丝一毫&lt;/p&gt;&lt;p&gt;　　我会重温冲锋号角，擦亮枪支和子弹&lt;/p&gt;&lt;p&gt;　　绑腿不会松开，腰间的水壶和干粮依旧饱满&lt;/p&gt;&lt;p&gt;　　每晚，盯着来自界外的风声雨声&lt;/p&gt;&lt;p&gt;　　清晨，我会第一个醒来&lt;/p&gt;&lt;p&gt;　　以战士的姿态拥抱黎明&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　守一方安宁&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　为了守一方安宁&lt;/p&gt;&lt;p&gt;　　把力量藏在心里&lt;/p&gt;&lt;p&gt;　　把欢喜藏在心里&lt;/p&gt;&lt;p&gt;　　把火和雷藏在心里&lt;/p&gt;&lt;p&gt;　　把秘密藏在心里&lt;/p&gt;&lt;p&gt;　　让许多许多夙愿&lt;/p&gt;&lt;p&gt;　　都化作士兵的无声语言&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　当历史发言的那一天&lt;/p&gt;&lt;p&gt;　　是士兵骄傲与自豪的日子&lt;/p&gt;&lt;p&gt;　　蓝天布满彩云&lt;/p&gt;&lt;p&gt;　　群山肃然屹立&lt;/p&gt;&lt;p&gt;　　那话语在山水间回旋&lt;/p&gt;&lt;p&gt;　　句句迸发着一百个灿烂&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　那灿烂一瓣一瓣炸开&lt;/p&gt;&lt;p&gt;　　变成五彩缤纷的雨&lt;/p&gt;&lt;p&gt;　　把晴空洗得瓦蓝瓦蓝&lt;/p&gt;&lt;p&gt;　　把田野洗得瓦蓝瓦蓝&lt;/p&gt;&lt;p&gt;　　把日子洗得瓦蓝瓦蓝&lt;/p&gt;&lt;p&gt;　　把一切都洗得瓦蓝瓦蓝&lt;/p&gt;&lt;p&gt;　　那是士兵爱的宣言 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;峭  岩&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; （外一首） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184252&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184252.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184252.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 祖国，我对您说 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184252.html#[08版：副刊] 祖国，我对您说</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 大地风华·山高人为峰</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184251.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 大地风华·山高人为峰 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　山高人为峰。他们，是“七一勋章”获得者，是“时代楷模”称号获得者，是中国青年五四奖章获得者……他们，是扎根群众的社区党组织书记，是坚守牧区的基层医生，是不断闯关的科研工作者，是勇于拼搏的世界冠军，是保家卫国的守边战士。国庆期间，让我们走进他们的故事，在那些平凡而又不平凡的人生里，汲取奉献、奋发、坚韧等精神力量，读懂他们以实际行动献给祖国母亲的最深情的爱！&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184251&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184251.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184251.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 大地风华·山高人为峰 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184251.html#[08版：副刊] 大地风华·山高人为峰</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 亚琴大姐（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184253.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 亚琴大姐（大地风华）&lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							孟海鹰&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　出名后的吴亚琴，还是人们熟悉的亚琴大姐，说起话来，依旧精气神十足。&lt;/p&gt;&lt;p&gt;　　打交道多了，发现亚琴大姐的身上并存着两种质地：一热，一凉。热，是对居民群众的一腔赤诚，是对烟火生活由衷的热爱，是人生路上永不停歇的积极进取；凉，是冷静自持，是面对名利的淡泊。无论身居平凡岗位，还是荣光加身，这份淡定从容，从未改变。&lt;/p&gt;&lt;p&gt;　　每每讲述起第一次去长春市长山花园社区上班的场景，她都笑：寻来两个塑料袋，绑在脚上，深一脚浅一脚踩着泥坑，走进四处漏风、只有几张破桌子的社区办公室。那是1995年，她35岁。&lt;/p&gt;&lt;p&gt;　　那年7月，正是雨季，吴亚琴到团山街道九委（现长山花园社区）做居委会主任，接下了这个百废待兴的烂摊子。&lt;/p&gt;&lt;p&gt;　　心里揣着对群众滚烫情义的吴亚琴，没有只凭一腔热血埋头蛮干。这份“热”的背后，始终有着一份冷静思考：解决百姓困难，不能只靠一个人的奔走，要把散着的人心组织起来，把个体的力量拧成集体的力量。&lt;/p&gt;&lt;p&gt;　　我曾亲眼见识过她化解矛盾的本事。有一回正在社区和她聊天，忽然有人急匆匆跑来报信——大门口两伙人眼看就要打起来。她闻声立刻往那儿赶，我紧随其后跟了过去。现场剑拔弩张，旁人劝都劝不开。她走上前去，对着两边分别说上几句，不过几句家常话，就神奇地解开了疙瘩，紧绷的气氛缓和下来，双方平和地接受了调解。&lt;/p&gt;&lt;p&gt;　　眼见为实，服气！这是书本上学不来的本事，是长年扎根街巷、日日与居民群众打交道磨出来的功夫。说话暖心得体，体察人心幽微，不动声色中化解了矛盾。&lt;/p&gt;&lt;p&gt;　　一桩桩矛盾平息之后，她并未就此止步。依托实践，不断总结，她自创的“民事调解十二法”，成为全国基层党组织书记做群众工作的案例教材。&lt;/p&gt;&lt;p&gt;　　一个普通人，认准一件事，日复一日坚持做到极致，便了不起。&lt;/p&gt;&lt;p&gt;　　曾经，社区有位80多岁的孤寡老人，吴亚琴上任后一直像亲闺女对待母亲一样照顾她。2005年，老人想落叶归根回老家。正是数九寒冬，又值春运，吴亚琴身前挂着菜板和洗衣盆，身后背着行李，手拉着老人，把老人送到了家。&lt;/p&gt;&lt;p&gt;　　“第二天，我都走出挺远了，老人还站在那儿向我招手，抹着眼泪。”吴亚琴说。后来，她每到春节都从工资中拿出200元钱给老人家寄去，直到老人去世。老人临终前，托亲属给吴亚琴捎话：“如果真有下辈子，一定做母女。”&lt;/p&gt;&lt;p&gt;　　我曾在小区里转，跟几位晒太阳的大娘攀谈，想了解居民眼中的吴亚琴。巧的是，其中一位就是吴亚琴的母亲。老人家笑着说起女儿，满眼都是宽慰。老人爱吃饺子，吴亚琴就经常凌晨三四点起来，给母亲包爱吃的芹菜馅、酸菜馅饺子，既照顾了母亲，又不耽误白天的工作。&lt;/p&gt;&lt;p&gt;　　走到社区院子边角，看到一处生机勃勃的小园地。这里原本是闲置废弃的空地，吴亚琴带着居民们拾掇出来，开辟成小小的园地，种上各色蔬菜，把一方荒芜边角耕耘出累累生机，变得热气腾腾。&lt;/p&gt;&lt;p&gt;　　眼下，亚琴大姐正在海口授课。即便在外奔波，长山花园社区始终是她心底放不下的牵挂。国庆节期间，社区要举办文艺演出，各个楼栋党支部都在紧锣密鼓排练节目。等她讲课归来，也要和大家一同登台，共庆国庆。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;孟海鹰&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184253&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184253.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184253.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 亚琴大姐（大地风华）&lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184253.html#[08版：副刊] 亚琴大姐（大地风华）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 闯关人生（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184254.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 闯关人生（大地风华）&lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							陶  纯&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　命运的转折总是猝不及防。2013年年初的一天深夜，担任国防科技大学计算机系主任、事业正如日中天的王戟，突发主动脉夹层。历经10多个小时的抢救，他奇迹般活了下来。性命虽然保住，双腿却因为缺血全部坏死。10多天之后，王戟苏醒过来，不得不接受这样一个极其残酷的现实——自己睡了一个长觉，两条腿，没了！&lt;/p&gt;&lt;p&gt;　　如果把人生比作足球比赛，分上下半场，那么，王戟的上半场是精彩的，可是，已经结束了。&lt;/p&gt;&lt;p&gt;　　那是他生命中的至暗时刻。好比一个人突然跌落到一个深不见底的冰窟里，几近崩溃。绝境之中，他隐约觉得自己能走出来，当然，得需要一点时间。他叮嘱自己：“你叫王戟，可不能折戟沉沙呀！”&lt;/p&gt;&lt;p&gt;　　有时候，困难在于选择，没有选择，也就没有困难。对于王戟来说，当时不截肢不行，腿截了，自己已经没有选择了，那还有什么好说的呢？&lt;/p&gt;&lt;p&gt;　　“既然腿已经截掉，这是没法改变的事情，我就不去想了。我琢磨，要把以后当作第二次生命来对待。第二次生命，跟以前不一样了，自己得有新的活法。这时我常想的就是，我还能做什么事情？后面这一段生命，我该怎样去活？”王戟是搞计算机研究的，喜欢拿计算机作比喻。如果说，自己以前是一台高速运行的计算机，那么，遭遇重击之后，它会死机。这时，如果你不管它，这台机器也就废了；如果你按一下重启键，也许它还会重新启动……&lt;/p&gt;&lt;p&gt;　　他选择在病房“重启”。腿没了，哪儿都去不了，一天24小时固定在病床上，活动空间就是那张宽一米二的病床。唯一能动的是两只手，很多时候，一只手还挂着吊瓶，只有一只手是自由的。大病初愈，手绵软无力，连一个苹果都拿不住，好在可以翻书、阅读资料。他从翻阅学术论文、了解最新科研动态、看学生的论文开始启动。他自我安慰道：“你很幸运，两只手还能动，基本工作条件没有损失。”&lt;/p&gt;&lt;p&gt;　　治疗康复一年多之后，他坐着轮椅，重返工作岗位——即使坐上轮椅，也要与代码赛跑。一晃，10多年过去。他还和从前一样，带学生，搞科研，摇着轮椅登讲台，坐上轮椅出差——甚至不用人陪伴，一个人出差！同事们说：“没人把他当作病人，也没人把他当成残疾人，因为他和大家一样工作。”他担任国防973项目首席科学家，率领团队一路闯关，一次次向高地冲锋，为我军重大装备型号的软件可靠性与安全性，贡献了全部心力和智慧。&lt;/p&gt;&lt;p&gt;　　当初截掉双腿时，没有人能想到，一个坐在轮椅上的人，后来还会做那么多事情。说他创造了生命的奇迹，一点不为过。&lt;/p&gt;&lt;p&gt;　　2021年，王戟又查出尿毒症，每周要做3次血液透析，每次4个小时。即便如此，他依然没有放下工作，眼下还在担任两个重点项目的负责人。&lt;/p&gt;&lt;p&gt;　　“感觉王老师摇轮椅的速度越来越快了，有时我们得小跑才能跟上。”王戟的学生们说。&lt;/p&gt;&lt;p&gt;　　王戟则说：“只要脑子还好使，手还能动，我就不会停下来。”&lt;/p&gt;&lt;p&gt;　　科研路上的关，不易闯。相比之下，身体上的关，更难闯。王戟早先看过一部纪录片，有个细节永远忘不掉：一匹马陷入沼泽，怎么都拉拽不上来；有个农夫献计，牵来一群马，让它们围着沼泽转圈跑；沼泽中的那匹马在同伴的感召下，缓缓地奋力挣扎、攀爬，最终脱离泥沼，回到群体之中。&lt;/p&gt;&lt;p&gt;　　王戟就好比是陷进沼泽中的那匹马。是的，他依靠信仰的力量、事业的力量、团队的力量，战胜困难，战胜自我，最终走向了人生高地。&lt;/p&gt;&lt;p&gt;　　闯关，是他的一种标志。如果说他人生的上半场是华丽的，那么，下半场是什么呢？&lt;/p&gt;&lt;p&gt;　　——是壮丽的！&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;陶  纯&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184254&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184254.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184254.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 闯关人生（大地风华）&lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184254.html#[08版：副刊] 闯关人生（大地风华）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184255.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/05/ed42da39-b3e6-4c45-b6b1-ad8cda968e47.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　雕塑《人民楷模——高德荣》，作者武定宇。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184255&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184255.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184255.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184255.html#[08版：副刊] 图片报道</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 草原上的“120”（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184256.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 草原上的“120”（大地风华）&lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							李亚楠&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“您慢走啊，一定记得按时来复诊。”送走当天最后一名患者，新疆塔城地区裕民县“吾哈斯健康服务室”的诊桌后，头发花白的老人揉了揉隐隐作痛的膝盖。这是几十年在深山积雪里跋涉落下的病根，一到阴天，尤其难忍。&lt;/p&gt;&lt;p&gt;　　那年冬天的巴尔鲁克山，雪下得大，最深的地方一脚踩下去，膝盖能埋进雪里。突然，急促的马蹄声由远及近。吾哈斯知道，来求医的人有多着急，还没等对方下马敲门，他已经拎着药箱迎了出来，跨上马，随着求医的牧民出了门。走到雪深处，只能一手挎着药箱，一手牵着马步行。&lt;/p&gt;&lt;p&gt;　　等走到牧民家里，裤腿上沾满了雪。遇上难产的产妇、等着治病的急诊，哪里还来得及抖落身上的雪。看完诊，雪已经化湿了棉裤。在火炉旁烤一会儿，喝一碗奶茶，吾哈斯就得往回赶。&lt;/p&gt;&lt;p&gt;　　“这样的情况太多了，所以风湿性关节炎越来越严重。”吾哈斯给自己膝盖贴了块膏药，讲起了在山里巡诊的故事。&lt;/p&gt;&lt;p&gt;　　1975年，20岁的吾哈斯·苏来曼从塔城卫校毕业，分配时，他主动申请去巴尔鲁克山脚下最偏远、最艰苦的牧区一线。这个选择，是他学医的初衷。小时候去牧区走亲戚，听大人们聊天说起牧民看病的事儿，大家住得分散，山里交通不便，只能小病扛着，大病听天由命。这样的故事让吾哈斯很难受，于是，他选择了学医。&lt;/p&gt;&lt;p&gt;　　巴尔鲁克山里的医疗点要照管方圆六七十公里、1万多名牧民。没有柏油路，没有通信设备，更没有救护车，吾哈斯就是草原上的“120”，只要有人求医，他从不推辞。&lt;/p&gt;&lt;p&gt;　　他常出去巡诊。最苦的是冬天，零下40摄氏度的天气，裹着厚重的羊皮大衣，骑马走在积雪覆盖的山路上。人和马呼吸间的白气，迅速在眉眼上凝结成冰碴。双手冻得僵硬，握不紧缰绳，却一点也不敢放松，伏在马背上紧紧盯着前方，眼睛不敢朝下看，旁边就是悬崖，就怕连人带马滚下山。&lt;/p&gt;&lt;p&gt;　　就这样，一个人、一匹马、一个药箱，吾哈斯走遍了巴尔鲁克山的每一道沟、每一座毡房。&lt;/p&gt;&lt;p&gt;　　有一年冬天，暴风雪封山，一名牧民产妇难产。半夜，吾哈斯的门被敲响。他背起药箱翻身上马，在齐膝的积雪里走了十几里路。掀开毡房帘子的那一刻，产妇已近昏迷。他迅速打开药箱，开始助产。孩子生出来后，全身青紫，没有哭声和呼吸。他没有犹豫，俯下身，嘴对嘴，一口一口吸出堵塞婴儿呼吸道的异物。一口、两口、三口……一声啼哭划破了草原的夜，毡房里的人高兴得哭了，吾哈斯累得瘫坐在地上。&lt;/p&gt;&lt;p&gt;　　在哈萨克族的习俗里，剪断脐带的人是一辈子的亲人，于是，吾哈斯被许多孩子称为“脐带爸爸”。到现在，这位“爸爸”已有3200多个孩子。&lt;/p&gt;&lt;p&gt;　　行医50余年，吾哈斯累计接诊10余万人次，巡诊里程超20万公里，抢救危重患者数千名。因为行医，他没有赶上自己第一个孩子的出生，父亲走时，也没能守在身边。&lt;/p&gt;&lt;p&gt;　　如今，柏油路通到了山里，医疗点有了30多名医生，吾哈斯也退休了。但只在家待了几天，他就背起药箱，开始了“吾哈斯健康服务室”的义诊。&lt;/p&gt;&lt;p&gt;　　巴尔鲁克山里那些没有名字的路，无论春天长新草还是冬天盖新雪，吾哈斯都记得清清楚楚。而那个背着旧药箱走路蹒跚的老人，记在草原上每一朵花的心里。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;李亚楠&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184256&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184256.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184256.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 草原上的“120”（大地风华）&lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184256.html#[08版：副刊] 草原上的“120”（大地风华）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 热  爱（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184257.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 热  爱（大地风华）&lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							黄晓慧&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　一个“网瘾少年”，如何成长为世界技能大赛冠军？&lt;/p&gt;&lt;p&gt;　　很难想象，这个沉得住气的年轻冠军，曾经整日泡在虚拟世界里。可卢俊威也有另一面：喜欢拆电脑，喜欢看机器里那些密密麻麻的线路。一次家里电脑显示屏出了故障，他偷偷拆开想修，结果把主板捅坏，挨了父亲一顿责打。这没有击退他的好奇心，反而催生出一股执拗，非要弄懂故障缘由。上初中接触物理后，电路图在他面前打开一个新的世界。“线路接对了，灯就亮，机器就动，比打怪通关过瘾多了。”他找到了比虚拟世界更“上头”的东西。&lt;/p&gt;&lt;p&gt;　　一个人被好奇心点亮，和被别人推着走，走出来的路看来截然不同。不知不觉，网瘾戒掉了。用卢俊威自己的话说，因为“找到了更喜欢、更值得专注的事，兴趣是最好的自律神药”。中考后可以上高中，他却选了职校，只为一技傍身。在职校的优异表现，让他成为广东省技术能手，后被人才引进到了上海。&lt;/p&gt;&lt;p&gt;　　技术人员往往只求掌握操作步骤，但卢俊威总会问背后的原理。备战第四十七届世界技能大赛时，这份求知的执拗更是到了极致。每天训练12个小时以上，临近比赛没有周末，常熬到深夜。别人觉得枯燥重复，他却沉浸其中。带着这份沉静，卢俊威走进法国里昂的赛场，和搭档谢辉铉合力奋战，捧回含金量最高的阿尔伯特·维达大奖。&lt;/p&gt;&lt;p&gt;　　里昂归来，一些企业高薪岗位抛来橄榄枝，卢俊威却选择留在上海科创职业技术学院带学生。他说自己喜欢学习新事物、解决问题，适合带学生。每天依然12个小时，有时一站就是好几个小时。不同的是，作为教练，他要比学生想得更深、学得更透。每当学生遇到问题时，他往往先静静观察，帮忙分析可能的原因，但不直接给答案，哪怕学生们一遍遍地试错，他也不急不躁。工业场景里通常没有标准答案。半夜产线报警，工艺、通信、供电、程序全可疑，得自己假设、验证、调整解决问题的路径。他很少对学生说教，更习惯以身作则。学生们都叫他“小卢老师”，把他当邻家大哥哥。&lt;/p&gt;&lt;p&gt;　　我问他会不会担心产线更聪明，就不需要他们了？他说，自己平时也会用AI（人工智能）辅助，但一点都不担心技能人才会被AI取代。AI可以读手册、画图纸、算参数，但它不会在凌晨3点对着异常传感器反复思索，不会在调试受挫时“再来一次”。&lt;/p&gt;&lt;p&gt;　　的确，热爱一项事业的内驱力，一心一意只做一件事的坚持，不怕苦、不喊累、不解决问题不罢休的韧性，AI代替不了。能感受到卢俊威说这番话时的笃定，又想到那个13岁的少年，好奇地盯着那台宕机的电脑，鼓起勇气拆开来，抽丝剥茧，一层层追到问题的根源……&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;黄晓慧&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184257&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184257.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184257.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 热  爱（大地风华）&lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184257.html#[08版：副刊] 热  爱（大地风华）</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 本版责编  张  健  周舒艺  马  涌  张珊珊  程  红</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184258.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编  张  健  周舒艺  马  涌  张珊珊  程  红 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月05日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本版邮箱 dadi@peopledaily.cn&lt;/p&gt;&lt;p&gt;　　版式设计：赵偲汝&lt;/p&gt;&lt;p&gt;　　欢迎广大读者来稿。来稿要求为原创首发，非一稿多投。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-05 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184258&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184258.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/05/content_30184258.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编  张  健  周舒艺  马  涌  张珊珊  程  红 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/05/content_30184258.html#[08版：副刊] 本版责编  张  健  周舒艺  马  涌  张珊珊  程  红</guid>
+      <pubDate>Mon, 05 Oct 2026 09:03:12 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
