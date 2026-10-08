@@ -1,0 +1,1008 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 07 Oct 2026 01:40:14 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 文润千载  情系家国</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184327.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 文润千载  情系家国 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——国庆假期文化现象观察 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  耿  磊  何思琦  李卓尔&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“文化是一个国家、一个民族的灵魂。”&lt;/p&gt;&lt;p&gt;　　中华优秀传统文化是中华民族的文化根脉。习近平总书记深刻指出：“要让文物说话，让历史说话，让文化说话。要加强文物保护和利用，加强历史研究和传承，使中华优秀传统文化不断发扬光大。”&lt;/p&gt;&lt;p&gt;　　国庆假期，文博场馆热度高涨，历史文化遗产参观者众，文化空间活力奔涌……人们在文物活化利用中触摸历史，在历史文化中感知家国情怀，在文化活动中涵养精气神。假期里蓬勃兴起的文化新风，映照出群众日益丰盈的精神世界与多元丰富的生活图景，这既是文化强国建设扎实推进的鲜活注脚，也是以深厚文化滋养民族精神家园的生动写照。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;听文物诉说&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　——在活化利用中感受文脉律动&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　夜幕降临，河南安阳洹河两岸灯火渐明。灯光勾勒出殷墟博物馆青铜色的建筑轮廓。博物馆展柜内，3000多年前的甲骨刻痕在柔和灯光下清晰可见。&lt;/p&gt;&lt;p&gt;　　来自山东的游客刘晶，拿出手机打开“了不起的甲骨文”小程序，一一比对着认读起来。在人机协同下，骨片上的文字大意逐渐显现，先民们的生活耕作场景如在眼前。&lt;/p&gt;&lt;p&gt;　　“一片甲骨惊天下”，千年汉字贯古今。一个民族生生不息的传承赓续跃然而出。&lt;/p&gt;&lt;p&gt;　　“历史文化遗产承载着中华民族的基因和血脉，不仅属于我们这一代人，也属于子孙万代。”如何在保护好历史文化遗产的基础上，让中华文脉绵延赓续，始终是习近平总书记关注思考并推进的问题。&lt;/p&gt;&lt;p&gt;　　从北京故宫博物院到广西合浦县汉代文化博物馆，从河南殷墟遗址到湖北云梦县博物馆，习近平总书记的文化足迹遍及一个个中华文明地标。&lt;/p&gt;&lt;p&gt;　　让文物“说话”，使历史博物展览发挥“见证历史、以史鉴今、启迪后人”的作用，习近平总书记深刻指出：“让收藏在博物馆里的文物、陈列在广阔大地上的遗产、书写在古籍里的文字都活起来”。&lt;/p&gt;&lt;p&gt;　　从北方到江南，从巴蜀到三秦，文博场馆成为国庆假期极具人气的“文化客厅”。&lt;/p&gt;&lt;p&gt;　　国家博物馆从聚落考古视角精选200余件（套）展品，推出“大河之东——运城与中华文明肇兴”展；恭王府博物馆推出“御器凝辉·盛世重光——北京景泰蓝宫廷艺术特展”，呈现景泰蓝技艺自元代传入至近现代的发展脉络；良渚博物院推出“琮谱——良渚遗址发现九十周年特展”，汇集14个省份及海外收藏机构的124件琮与琮式器……&lt;/p&gt;&lt;p&gt;　　文物不语，无言诉说。如今“博物馆里过佳节”从一句口号沉淀为一种文化新“节俗”，我们见到的不只是文旅消费的升级，更是一个民族对文化根脉的深情回望与自信前行。&lt;/p&gt;&lt;p&gt;　　新时代文物工作方针明确“保护第一、加强管理、挖掘价值、有效利用、让文物活起来”。在习近平文化思想引领下，文物所蕴含的思想观念、人文精神、道德规范等，在新时代找到新的表达方式。&lt;/p&gt;&lt;p&gt;　　假期里，不少游客走进江苏南京德基广场的艺术博物馆，戴上智能手环，沉浸式体验“金陵图数字艺术展”。林间小溪潺潺流淌，挑担小贩穿行街市，茶馆里客人举杯闲谈，千年前金陵的市井烟火依托科技手段次第铺展。在湖北省博物馆，全息真人舞台剧《遇见·勾践剑》借助数字影像、虚拟实时动作捕捉等前沿技术，带领游客穿越千年、重温春秋风云……&lt;/p&gt;&lt;p&gt;　　新表达、新变化的驱动力，源于坚持以人民为中心——文物保护利用，就是要让人民享有文化成果，让文明历史滋养当代生活。&lt;/p&gt;&lt;p&gt;　　当人们在殷墟博物馆夜场灯光下临摹甲骨文，在德基艺术博物馆戴上智能手环“扮演”宋代书生，在敦煌莫高窟凝视石窟造像，“日用而不觉”的文化认同便在体验中悄然生长。&lt;/p&gt;&lt;p&gt;　　让文物说话，是文化自信落地生根的生动缩影，赋予了假期文化传承、精神滋养的意义，让人们品读历史、传承文脉、厚植家国情怀。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;听历史诉说&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　——在研究传承中感悟精神力量&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　红旗漫卷大渡河。国庆假期首日，四川泸定桥上，一名系着红领巾的少年走近晃荡的铁索，双手紧握铁索，俯瞰奔腾江水。“那时候的红军，年龄小的也就比我们大几岁。”少年的轻声呢喃，让人沉思。&lt;/p&gt;&lt;p&gt;　　时间回到1935年5月29日，大渡河畔。桥面木板早被敌人拆尽，仅剩13根冰冷的铁索，横悬在咆哮的江面上。在嘹亮的冲锋号中，22名突击队员，手持短枪、背着马刀、攀上摇晃的铁索，迎着对岸密集的子弹，一寸一寸向前移动。&lt;/p&gt;&lt;p&gt;　　历史正以它独有的方式，向今人们诉说一个民族的来路和一个政党的初心。&lt;/p&gt;&lt;p&gt;　　“历史深刻表明，爱国主义自古以来就流淌在中华民族血脉之中，去不掉，打不破，灭不了”。&lt;/p&gt;&lt;p&gt;　　这是刻入骨髓的情怀——&lt;/p&gt;&lt;p&gt;　　迎着清晨第一缕阳光，雄壮的国歌声中，五星红旗冉冉升起，10月1日的首都北京，10万余人齐聚天安门广场。&lt;/p&gt;&lt;p&gt;　　“我爱你——中国！”人群中爆发出热烈的欢呼声；《歌唱祖国》的歌声响起，激荡起人们共同的心声；“祝福祖国”巨型花篮前，游客们举起手中国旗，定格下山河锦绣、国泰民安的动人瞬间。&lt;/p&gt;&lt;p&gt;　　千里之外，内蒙古二连浩特国门升旗仪式举行，边检民警和百余名游客肃立注目、齐唱国歌，向祖国表达深沉的爱；近万里之遥，新疆红其拉甫出入境边防检查站，一面五星红旗在世界海拔最高国门上方迎风飘扬。&lt;/p&gt;&lt;p&gt;　　盛世华诞，举国同庆，爱国主义热情在中华儿女心中澎湃。&lt;/p&gt;&lt;p&gt;　　“对每一个中国人来说，爱国是本分，也是职责，是心之所系、情之所归。”&lt;/p&gt;&lt;p&gt;　　习近平总书记的谆谆话语，至真至深，充满力量。&lt;/p&gt;&lt;p&gt;　　这是人世间最深层、最持久的情感，这是中华文明生生不息的密码，早已熔铸进民族的精神基因。每一个平凡的你我，把个人的理想同祖国的前途相连、把个人的奋斗同民族的命运相系，涓涓细流，终汇洪流。&lt;/p&gt;&lt;p&gt;　　爱国主义精神如何传承？&lt;/p&gt;&lt;p&gt;　　历史是最好的教科书，中国革命历史是最好的营养剂。&lt;/p&gt;&lt;p&gt;　　翻开这部厚重的书，一处处革命旧址、一个个红色场馆，一段段峥嵘往事、一个个英雄名字，都在无声地讲述着信仰的力量。&lt;/p&gt;&lt;p&gt;　　这是融进山河的血脉——&lt;/p&gt;&lt;p&gt;　　今年是中国共产党成立105周年、中国工农红军长征胜利90周年。这个国庆假期，革命旧址和红色场馆里，人们回望历史、感悟初心，汲取力量、奋发前行。&lt;/p&gt;&lt;p&gt;　　延安，中国革命的圣地、新中国的摇篮。&lt;/p&gt;&lt;p&gt;　　10月5日上午9点半，游客从四面八方而来，“宝塔故事会”准时开讲。这是延安宝塔山景区里一道特殊的“风景”——宣讲员通过一个个生动的故事，将党中央在延安时期的峥嵘岁月娓娓道来。&lt;/p&gt;&lt;p&gt;　　“无数革命先辈用鲜血换来今天的国泰民安，作为新时代学子，刻苦学习就是热爱祖国、报效祖国的最好方式。”来自吉林白城的大二学生于涵淇说。&lt;/p&gt;&lt;p&gt;　　回首来路，“我们党什么样的困难没有经历过，什么样的挑战没有遇到过？”习近平总书记的话掷地有声。&lt;/p&gt;&lt;p&gt;　　一切向前走，都不能忘记走过的路，走得再远、走到再光辉的未来，也不能忘记走过的过去，不能忘记为什么出发。&lt;/p&gt;&lt;p&gt;　　中国人民革命军事博物馆，“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”吸引众多观众，全景式再现红军长征的壮阔史实，首次展出的文物文献有300余件。&lt;/p&gt;&lt;p&gt;　　红军过雪山时穿的蓝单衣等文物，“半截皮带”“半条被子”等故事，诉说着长征路上的艰辛与荣光。“每往前走一步、每多看一件文物，都对长征历史有了更深刻的感悟。”10月3日，花大半天时间看完展览的观众陈冬感慨万千，“‘苦不苦，想想长征两万五’，还有什么困难是不能克服的呢？”&lt;/p&gt;&lt;p&gt;　　红色是中国共产党、中华人民共和国最鲜亮的底色。习近平总书记深刻指出，“光荣传统不能丢，丢了就丢了魂；红色基因不能变，变了就变了质。”&lt;/p&gt;&lt;p&gt;　　新征程是新的长征。“要齐心协力走好新的长征路”。&lt;/p&gt;&lt;p&gt;　　这是生生不息的传承——&lt;/p&gt;&lt;p&gt;　　挖掘丰富内涵、创新呈现形式，红色历史才能更好成为涵养全民族昂扬奋发的精神气质的源头活水，才能为奋进新征程提供深沉而持久的精神动力。&lt;/p&gt;&lt;p&gt;　　科技赋能，红色历史“火”起来。&lt;/p&gt;&lt;p&gt;　　场灯渐次熄灭，一盏马灯亮起，“你等过人吗？”“等了多久？”“你等的人，他回来了吗？”几句直抵人心的叩问，把观众带回到那段烽火岁月。国庆假期，大型红色舞台剧《长征第一渡》在江西于都长征大剧院持续上演。&lt;/p&gt;&lt;p&gt;　　“让游客在沉浸式体验中，深刻感悟伟大长征精神。”于都县红色资源保护发展中心主任钟敏介绍，该剧自2023年3月首演以来，已上演近800场，吸引全国40多万人次观众观看。国庆假期首日，就有近千名观众观看。&lt;/p&gt;&lt;p&gt;　　深挖细节，红色文化“活”起来。&lt;/p&gt;&lt;p&gt;　　“这是外婆在102岁时入党宣誓的照片，她这一辈子都听党话、跟党走。”在海南琼海的红色娘子军纪念园，一位“特邀讲解员”正在动情讲述。&lt;/p&gt;&lt;p&gt;　　她是红色娘子军老战士王运梅的外孙女马世菊。面对天南海北的游客，马世菊透露了一个鲜为人知的细节，“外婆不识字，为了圆入党梦，她曾一笔一画练习书写自己的名字……”&lt;/p&gt;&lt;p&gt;　　人群中，几名小朋友听得认真。马世菊的声音不高，却在孩子们心里种下了种子——历史从未走远，在一代又一代的讲述里愈加鲜活。&lt;/p&gt;&lt;p&gt;　　“要讲好党的故事、革命的故事、根据地的故事、英雄和烈士的故事”。习近平总书记语重心长。&lt;/p&gt;&lt;p&gt;　　牢记嘱托，深入探索。近年来，红色文化的“打开方式”愈加丰富。从参观到参与、从体验到体悟，游客在亲历中完成与红色历史的对话共情。&lt;/p&gt;&lt;p&gt;　　岁月无言，山河有证。回望来路，先辈的牺牲奉献早已化作精神坐标；眺望前方，亿万中华儿女正把深沉的家国情怀，写进奋进新征程的每一步。&lt;/p&gt;&lt;p&gt;　　“中国的昨天已经写在人类的史册上，中国的今天正在亿万人民手中创造，中国的明天必将更加美好。”&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;听文化诉说&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　——在创新创造中发扬光大&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　文化兴国运兴，文化强民族强。&lt;/p&gt;&lt;p&gt;　　在黑龙江漠河，国庆假期又迎来一波旅游高峰，北极村、龙江第一湾景区等处人头攒动。在这里既能直观感受“绿水青山就是金山银山”和“冰天雪地也是金山银山”的生态之美，又能深刻领略这种理念背后的思想魅力。&lt;/p&gt;&lt;p&gt;　　水族端节恰逢国庆，这个假期，贵州黔南三都水族自治县赛马场号角嘹亮，群众身着盛装迎来“贵州村马”赛马盛会。入夜，江水为台、青山为幕，水族双歌、布依族八音坐唱、苗族斗牛舞依次登场。&lt;/p&gt;&lt;p&gt;　　我们以文化滋养精神家园。亿万群众既是文化的享用者，又是创造者。&lt;/p&gt;&lt;p&gt;　　习近平总书记深刻指出：“人民对精神文化生活的需求时时刻刻都存在”“随着人民生活水平不断提高，人民对包括文艺作品在内的文化产品的质量、品位、风格等的要求也更高了”。&lt;/p&gt;&lt;p&gt;　　假日中国，处处涌动文化热潮。各地新华书店里，《习近平党建文选》第一卷、第二卷，《习近平文化文选》第一卷、第二卷等书籍陈列在显著位置，吸引读者们纷纷驻足翻阅、购买。国庆文化和旅游消费月期间，各地推出超2万场文旅活动、发放超3.1亿元消费券等消费补贴。博物馆、图书馆、文化馆延长开放时间，文化展览、惠民演出、红色剧目一场接一场，村晚、村戏、村游接连登场，各类特色文旅活动融入假日生活。&lt;/p&gt;&lt;p&gt;　　今年国庆档多部影片集中上映，国产影片构成档期主力，“电影+”跨界融合持续升温。截至6日晚，电影总票房（含预售）已突破10亿元。各地不断探索观影联动餐饮、零售、文旅、衍生品，打造假日文化消费的新场景。同时，荧屏追剧同样热闹，从重大革命历史题材到年代剧、都市剧都有覆盖，满足观众多样化需求。&lt;/p&gt;&lt;p&gt;　　文化土壤的肥沃丰盈精神世界，创造活力的释放又夯实文化根基，在双向赋能中，中华文化繁荣兴盛。&lt;/p&gt;&lt;p&gt;　　千年瓷都，窑火正旺。今年7月，“景德镇手工瓷业遗存”列入《世界遗产名录》。申遗成功后的首个国庆假期，古窑民俗博览区里，游客在把桩师傅指导下添柴烧窑，看窑壁通红，听柴火噼啪。&lt;/p&gt;&lt;p&gt;　　“亲手码一回柴，才知道一窑瓷器来之不易。”来自上海的游客陈国荣体验完烧窑后说。&lt;/p&gt;&lt;p&gt;　　习近平总书记强调，“要把这些中华文化瑰宝保护好、传承好、传播好。”&lt;/p&gt;&lt;p&gt;　　非遗热，遍神州。湖南醴陵，游客在素坯上描摹“釉下五彩”；天津古文化街，家长带着孩子拓印杨柳青年画；山东台儿庄，老艺人手把手教孩子做皮影。文化寻根、非遗打卡成为假期出游关键词。&lt;/p&gt;&lt;p&gt;　　丰富多彩的实践，让非遗“长”回土壤，实现“见人见物见生活”的活态传承。&lt;/p&gt;&lt;p&gt;　　“一步入画”是什么体验？河南开封清明上河园，戴上VR眼镜，游客乘自动导航船，跟着大宋密探探案；裸眼3D球幕影院里，人化身飞鸟掠过汴河，古画中的市井繁华扑面而来；AI动漫赋能的实景马战、焕新升级的打铁花，引得掌声如潮。&lt;/p&gt;&lt;p&gt;　　古画可“入”，千年可“触”。文化与科技相遇，打开全新天地，让古老智慧以更轻盈、更鲜活姿态融入现代生活。&lt;/p&gt;&lt;p&gt;　　文化的力量，也在山河乡野间生长。国庆假期，县域游、乡村游迎来“高光时刻”。&lt;/p&gt;&lt;p&gt;　　宁夏中卫市沙坡头区常乐镇大湾村，曾是村民整体搬迁、渐被遗忘的古村落。如今，复原的黄泥老屋组成“黄河宿集”，11家头部民宿品牌落户，黄河、沙漠、长城、湿地相拥入怀。八成服务人员来自当地，河滩枣、番薯干成了抢手货。&lt;/p&gt;&lt;p&gt;　　“干沙滩”变成“金沙滩”。土墙之内是现代生活，推窗便见黄河落日，古村落重获新生。&lt;/p&gt;&lt;p&gt;　　“坚持以文塑旅、以旅彰文，推动文化和旅游融合发展”，习近平总书记的殷殷嘱托，正在万千乡村变为实景。&lt;/p&gt;&lt;p&gt;　　文旅融合融出人气，留住人心。人文之美与经济之盛同频共振、相得益彰。&lt;/p&gt;&lt;p&gt;　　假日中国，文化中国，也是世界的中国。&lt;/p&gt;&lt;p&gt;　　国之交在于民相亲，民相亲在于心相通。习近平主席在金砖国家领导人第十八次会晤第一阶段会议上指出，“促进民众常来常往、相知相亲”。&lt;/p&gt;&lt;p&gt;　　目前，我国已对50个国家实施单方面免签，对57个国家实施240小时过境免签。假期前三天，仅上海浦东机场口岸入境的外籍人员就达4.3万人次，同比增长23.5%。&lt;/p&gt;&lt;p&gt;　　外国游客的打开方式也在变。&lt;/p&gt;&lt;p&gt;　　浙江湖州西塞山，这个假期，外国游客不只看风景，还坐下来学泡茶、尝糕点、聊文化，在一杯清茶里“打开中国”。来自俄罗斯叶卡捷琳堡的安娜、娜塔莉亚两家人，专程来跟茶艺师学。娜塔莉亚说，自己看到过网上一段视频，“看了非常喜欢，就想来看看中国的人文地理”。&lt;/p&gt;&lt;p&gt;　　从张家界入境游客同比增长129%，到重庆位列入境游十大目的地游客量增速第一，越来越多“非传统热门”城市正走进全球游客的视野。“中国游”在全球社交平台上的热度居高不下，海外游客不再只打卡一线城市，而是深入感受山水中国、文化中国。&lt;/p&gt;&lt;p&gt;　　各美其美，美美与共，中国文化热现象引发世界关注，中国文化故事走出国门，让开放中国尽显自信包容。&lt;/p&gt;&lt;p&gt;　　习近平总书记指出：“有文化自信的民族，才能立得住、站得稳、行得远。”&lt;/p&gt;&lt;p&gt;　　文化自信，在亿万人民的脚步里、笑脸中，在神州万千气象里。一个热气腾腾、活力奔涌的中国，正阔步走向民族复兴的光明前景。&lt;/p&gt;&lt;p&gt;　　（本报记者王珏参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  耿  磊  何思琦  李卓尔&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——国庆假期文化现象观察 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184327&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184327.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184327.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 文润千载  情系家国 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184327.html#[01版：要闻] 文润千载  情系家国</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 《习近平谈治国理政》第五卷西文版读书交流会在马德里举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184328.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 《习近平谈治国理政》第五卷西文版读书交流会在马德里举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报马德里10月6日电  （记者许海林）《习近平谈治国理政》第五卷西文版读书交流会6日在西班牙马德里举行。活动以“文明对话赋能共同进步：中西交流的机遇与展望”为主题，来自中西两国政府、高校、媒体等领域的60余名代表参加。&lt;/p&gt;&lt;p&gt;　　与会嘉宾表示，中国不断推进高质量发展，为包括西班牙在内的各国创造了更加广阔的合作机遇。中西双方应不断扩大共同利益、凝聚更多共识、深化互利合作，为世界经济发展增添稳定性和确定性。&lt;/p&gt;&lt;p&gt;　　与会嘉宾认为，《习近平谈治国理政》第五卷西文版为西班牙语读者认识新时代中国、读懂中国式现代化打开了重要思想窗口。双方应把思想共识转化为务实行动，在经贸、环保、数字、人文等领域深化合作，让更多成果惠及两国人民。&lt;/p&gt;&lt;p&gt;　　西班牙共产党主席何塞·路易斯·森特利亚表示，中国高质量发展不仅体现为经济增长，也体现为人民生活质量改善、发展差距缩小和环境改善。&lt;/p&gt;&lt;p&gt;　　西班牙知华讲堂基金会执行主席玛尔塔·蒙托洛表示，西中双方应加强倾听与交流，找到将差异转化为机遇的合作空间。&lt;/p&gt;&lt;p&gt;　　与会代表还就深化中西地方务实合作、增进相互了解、加强青年交往等进行了对话。中方向西班牙嘉宾代表赠送了《习近平谈治国理政》第五卷西文版图书。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184328&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184328.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184328.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 《习近平谈治国理政》第五卷西文版读书交流会在马德里举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184328.html#[01版：要闻] 《习近平谈治国理政》第五卷西文版读书交流会在马德里举行</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 三株“草”长成一片原（赓续长征精神  奋进复兴征程）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184329.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 河南革命老区发展壮大农业特色产业 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 三株“草”长成一片原（赓续长征精神  奋进复兴征程） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  方  敏&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　红二十五军长征出发地——河南罗山县何家冲。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　周  涛摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/b946537a-fcb6-4bd9-9305-ea4281027ae7.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　从河南郑州市一路向南，扎进大别山，穿过片片茶园，来到信阳市罗山县铁铺镇何家冲村。一棵古银杏，树冠如伞，护着四方土地。&lt;/p&gt;&lt;p&gt;　　1934年11月16日，红二十五军近3000人集结于此，誓师出征。历时10个月，转战豫、鄂、陕、甘多地，最终到达陕北。&lt;/p&gt;&lt;p&gt;　　“这一路山高路险，缺衣少药是红军常态。多亏了有三株‘草’——茶叶提神，油茶果充饥，连翘清热解毒。”罗山县文化广电和旅游局讲解员许清说，“这三株‘草’，是沿途百姓能够拿出来的最朴素也是最金贵的东西，成了红军的救命草。”&lt;/p&gt;&lt;p&gt;　　2019年9月，习近平总书记在鄂豫皖苏区首府革命博物馆会见当地红军后代、革命烈士家属代表时动情地说：“我们绝不能忘记革命先烈，绝不能忘记老区人民，要把革命老区建设得更好，让老区人民过上更好生活。”&lt;/p&gt;&lt;p&gt;　　牢记嘱托，实干担当。近年来，在党和政府的带领下，当地干部群众不懈努力，由这三株“草”发展出更多特色产业。在这片红色土地上，三株“草”成了老区人民的“致富草”。&lt;/p&gt;&lt;p&gt;　　从何家冲村向东南，车子在盘山道上绕了两个多小时，来到新县陈店乡高塆村。&lt;/p&gt;&lt;p&gt;　　山坡上有片老茶园，茶树齐腰高。一旁，鄂豫皖边区军委兵工厂旧址静静矗立。当年，战士们白天造子弹，傍晚开荒拓土，种下这片茶园。乡亲们把这里产出的茶叶亲切地叫作“红军茶”。&lt;/p&gt;&lt;p&gt;　　走在村里，村民们讲起了吴卫国的故事。作为红军后代的吴卫国，在担任村党支部书记期间有个期盼：带领乡亲们闯出致富路，让村里的“红军茶”香飘四方。&lt;/p&gt;&lt;p&gt;　　然而，山路崎岖、引水困难，资金短缺、技术匮乏，一道道难题横亘在面前。“种出好茶，卖出好价，就是我的长征路。”吴卫国牵头成立专业合作社、改造茶厂、对接市场、请来农技专家，一步步盘活茶园。在他的努力下，全村茶园发展到600余亩，合作社年收益达50余万元，惠及村民1200余人。&lt;/p&gt;&lt;p&gt;　　红色家风继世长。去年，吴卫国老人因病逝世。他的儿媳从部队退役后返乡，接过茶园经营的接力棒，让“红军茶”的茶香越飘越远。&lt;/p&gt;&lt;p&gt;　　从高塆村看信阳，全市茶园面积已达216万亩，茶产业全产业链综合产值突破1000亿元，茶产业从业人员超120万人。&lt;/p&gt;&lt;p&gt;　　从高塆村出来向西，没多远就是光山县。&lt;/p&gt;&lt;p&gt;　　山路两旁，满是油茶树。用茶油炒菜，清香不腻。90多年前，茶油就是红军的重要物资。如今，光山县引进新品种、推广新技术，油茶果的品质更好。&lt;/p&gt;&lt;p&gt;　　走进位于光山县的河南省联兴油茶产业开发有限公司，在油茶绿色深加工中试基地里，技术人员正在精炼茶油。公司不仅生产高品质茶油，还把茶壳、茶粕加工成高纯度的护肤精华原料。&lt;/p&gt;&lt;p&gt;　　光山县油茶种植面积达32.37万亩。“我们正推动油茶产业从卖油茶果向卖产品、卖品牌转型。”光山县林业局局长何先勇介绍。&lt;/p&gt;&lt;p&gt;　　沿着沪陕高速西行，越过伏牛山，就到了三门峡市卢氏县。连翘地里，果子早已收完。卢氏县委党史和地方史志研究室三级调研员段丛芳介绍，1934年12月，红二十五军转战卢氏县，有的战士双脚冻裂，当地老百姓架起大锅，把连翘熬成汤，给伤员擦洗冻裂的伤口，“那一锅连翘汤，比金银都稀罕。”&lt;/p&gt;&lt;p&gt;　　那时，连翘是红军的救命药；现在，连翘是当地的“金豆豆”。卢氏县把连翘作为强县富民的主导产业，建成5个万亩基地、40个千亩基地，培育精深加工企业8家、连翘加工合作社15家，带动10万人增收。&lt;/p&gt;&lt;p&gt;　　更多特色产业正发展壮大。在桐柏县，茶叶、中药材、食用菌、花卉、生态鸡等特色产业渐成气候，特色种植业面积突破90万亩、年产值达50亿元。&lt;/p&gt;&lt;p&gt;　　当年三株“草”，如今长成一片原。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  方  敏&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 河南革命老区发展壮大农业特色产业 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184329&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184329.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184329.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 三株“草”长成一片原（赓续长征精神  奋进复兴征程） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184329.html#[01版：要闻] 三株“草”长成一片原（赓续长征精神  奋进复兴征程）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 节庆品节俭（今日谈）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184330.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 节庆品节俭（今日谈） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							翟钦奇&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　这个国庆假期，不少城市的街头吹来一股新风。&lt;/p&gt;&lt;p&gt;　　河南郑州市二七区，436面悬挂国旗经清洗检修后循环复用；浙江建德市，对原有自然花境提质增色，打造花海景观；湖北钟祥市，不新增支架，旧物料翻新节庆再“上岗”……物尽其用，花销不多增，节日氛围照样喜庆热烈。&lt;/p&gt;&lt;p&gt;　　仪式感不在支出高低，而在用心多少。各项布置单价或许不高，但乘以使用的规模、频次，累积起来便是一笔不小的费用。旧物新用，省的是真金白银，树的是节俭新风；减的是铺张排场，增的是节庆创意。&lt;/p&gt;&lt;p&gt;　　装饰之变，折射观念之变、作风之变。今年中秋假期，千元以上月饼礼盒销量同比下降，但月饼整体销售规模增长。一降一升，意味深长。包装越来越简约环保、突出创意，亲友团聚的欢声笑语更浓，光盘行动渐成习惯……持之以恒纠治“四风”，新风正气更加充盈。&lt;/p&gt;&lt;p&gt;　　“节俭朴素，力戒奢靡，是我们党的传家宝。”弘扬好作风，把资源用在刀刃上，日子越过越红火，事业越干越兴旺。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;翟钦奇&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184330&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184330.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184330.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 节庆品节俭（今日谈） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184330.html#[01版：要闻] 节庆品节俭（今日谈）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 成都强化校地合作提升科创动能（“十五五”开好局起好步）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184331.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 成都强化校地合作提升科创动能（“十五五”开好局起好步） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  张  帆  王明峰  游  仪&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　四川成都，天府锦城实验室。冷冻电镜下，生物大分子结构轮廓纤毫毕现。&lt;/p&gt;&lt;p&gt;　　“早些年做这样的冷冻电镜实验得排长队，拿着样本去省外借仪器。”实验室冷冻电镜平台科学家邵振华回忆，当时设备稀缺，时间紧张，出一趟差往往只够跑几组数据。&lt;/p&gt;&lt;p&gt;　　如今，校地合作、协同发力——成都市与四川大学共建天府锦城实验室，围绕恶性肿瘤、心脑血管与代谢等方向开展研究。“实验室已建成中西部地区规模最大、设备最先进、开放共享的冷冻电镜平台之一，科研效率大幅提升。”邵振华说，“我们将以习近平总书记给四川大学全体师生重要回信精神为指引，发挥文理工医交叉融合优势，努力在服务新时代国家战略中当先锋作表率。”&lt;/p&gt;&lt;p&gt;　　今年7月，习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上发表重要讲话强调：“增强科技创新体系化攻关能力”。2023年7月，习近平总书记在四川考察时指出：“四川要发挥高校和科研机构众多、创新人才集聚的优势和产业体系较为完善、产业基础雄厚的优势，在科技创新和科技成果转化上同时发力。”“十五五”规划纲要提出，“全面增强自主创新能力，抢占科技发展制高点，推动科技创新和产业创新深度融合”。&lt;/p&gt;&lt;p&gt;　　成都拥有66所高等院校、161家国家级科技创新平台，科创资源丰富。深入贯彻落实习近平总书记重要指示精神，成都市强化校地合作，畅通科技成果转化通道，提升科技创新动能。&lt;/p&gt;&lt;p&gt;　　加强基础研究和有组织科研攻关——&lt;/p&gt;&lt;p&gt;　　今年5月，我国首台准环对称仿星器研发取得突破，首次获得超高精度准环对称磁场位形。“该装置有助于提升我国在受控核聚变领域的原始创新能力。”西南交通大学聚变科学研究所所长许宇鸿说。&lt;/p&gt;&lt;p&gt;　　2022年，在四川省、成都市和四川天府新区相关部门支持下，西南交通大学准环对称仿星器项目正式立项。校地双方联合成立工作专班，打破传统学科壁垒与行政边界，多学科交叉、多单位协同、全链条衔接，推动前沿探索与工程实现紧密耦合。&lt;/p&gt;&lt;p&gt;　　近年来，成都携手四川大学等高校，重组11家全国重点实验室、共建4个方向天府实验室，承接国家级和省级科研项目800余项，引聚人才1500余人，并依托相关高校优势学科领域，建设跨尺度矢量光场等10个重大科技基础设施，有组织科研攻关成效显著。&lt;/p&gt;&lt;p&gt;　　加快推进科技成果转化——&lt;/p&gt;&lt;p&gt;　　毕业于清华大学的潘思铭，曾在国外工作，归国后来到成都，在清华四川能源互联网研究院支持下进行科技成果转化。他创办的四川易冲科技有限公司，已成长为一家颇具潜力的科创企业。&lt;/p&gt;&lt;p&gt;　　“清华大学提供顶尖团队与前沿技术，成都市科技局和四川天府新区提供政策支持、资金保障与应用场景，共同推动科技成果落地。”研究院科技创新部主任吕岚春说。&lt;/p&gt;&lt;p&gt;　　成都郫都区，西南交通大学郫都先进制造科创园，多家企业排队等待入驻。“我们看中的是校企协同创新生态。”入驻企业成都触立科技有限公司负责人张家玮说，企业刚需与创新资源精准匹配，产品性能得到提升。&lt;/p&gt;&lt;p&gt;　　近年来，成都着力构建校院企地“事业合伙人”模式。“政府提供载体和政策、高校院所输出项目和人才、企业提出需求和场景，共享科技成果转化收益。”成都市科技局副局长陈旭介绍，成都已与50余所高校院所开展合作，共建校地合作新型研发机构20家，加快推动科技成果转化。&lt;/p&gt;&lt;p&gt;　　带动片区高质量发展——&lt;/p&gt;&lt;p&gt;　　不装电池、不接电线，小小的智能测温垫片和螺帽，能在极端环境下稳定工作。纵激元（成都）科技有限公司创始人、电子科技大学副教授补世荣说，该产品靠空气中的电磁场供电，已应用于发电、输配电、交通等领域。&lt;/p&gt;&lt;p&gt;　　纵激元公司由成都温江区电子科大科创谷孵化。成都电子科大资产经营有限公司董事长郝钦伟介绍，电子科大科创谷园区由电子科技大学与温江区合作共建，重点发展医工交叉、信息通信等产业，集聚重点企业365家，培育专精特新中小企业14家、国家高新技术企业47家。&lt;/p&gt;&lt;p&gt;　　成都以产业为牵引，建设“研发+转化+孵化”集中承载区。市区两级携手4个国家大学科技园，采取“一校多区”方式建设20个分园区，带动域内高校参与建设孵化器55家。目前，成都累计推动高校院所就地孵化科技型企业超600家。&lt;/p&gt;&lt;p&gt;　　成都正持续推动科技创新与产业创新深度融合。下一步，将强化有组织的创新、有体系的撮合、有质效的转化，着力打通基础研究、应用开发和成果转化之间的衔接堵点，加快释放科技成果的现实生产力。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  张  帆  王明峰  游  仪&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184331&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184331.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184331.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 成都强化校地合作提升科创动能（“十五五”开好局起好步） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184331.html#[01版：要闻] 成都强化校地合作提升科创动能（“十五五”开好局起好步）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184332.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/6a98b591-8312-4e8f-b07c-f669fd7468cc.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　10月6日，演员在天津人民公园为游客表演评剧。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  赵子硕摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/6a98b591-8312-4e8f-b07c-f669fd7468cc.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/9a38cb53-4942-4cb2-9451-30f659bf7828.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　10月6日，观众在黑龙江省绥化市一家电影院浏览电影信息。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　刘华鹏摄（新华社发）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/9a38cb53-4942-4cb2-9451-30f659bf7828.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/dfcbdd5e-9b4c-4a64-b4bc-4f581d649331.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　10月6日，游客在浙江省杭州市南宋德寿宫遗址博物馆内参观展陈。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  江  汉摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/dfcbdd5e-9b4c-4a64-b4bc-4f581d649331.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　观影、听戏、逛博物馆……国庆假期，各地举行丰富多彩的文旅活动，吸引市民游客打卡欣赏、感受文化魅力。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184332&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184332.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184332.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184332.html#[01版：要闻] 图片报道</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 旅游公路带火“奔县游”（新场景里看活力）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184333.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 探访三座山西县城，感受县域文旅活力 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 旅游公路带火“奔县游”（新场景里看活力） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  郑洋洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　来山西运城，越来越多游客喜欢上“奔县游”。&lt;/p&gt;&lt;p&gt;　　运城市拥有102处全国重点文物保护单位，数量在全国地级市中位居前列，厚重的文物遗存与自然景观散落在黄河沿线。&lt;/p&gt;&lt;p&gt;　　2024年，山西黄河一号旅游公路全线贯通，运城段旅游公路主线全长约500公里，串联全市93处自然人文景观，成为运城文旅发展的核心纽带。&lt;/p&gt;&lt;p&gt;　　国庆假期，记者沿着黄河一号旅游公路自驾，3天走访运城的3座县城。一路观察，3座县城给出了不同的答案。&lt;/p&gt;&lt;p&gt;　　地处晋豫交界的垣曲县聚焦配套服务能力提升，让自驾更舒心省心。&lt;/p&gt;&lt;p&gt;　　在东寨码头远眺，群山耸峙、水面宽阔。不少游客在岸边草坪露营、体验水上娱乐项目。运城市的游客周涛说：“太方便了！一路自驾，配套设施完备、服务周到，一家人的体验都很好。”&lt;/p&gt;&lt;p&gt;　　码头边的山腰上，旅游公路旁建有几座公路驿站。垣曲县交通运输局副局长张宝宝说：“驿站里设有母婴室、阅读室，游客可以在此休息、阅读，公路游更加舒适便捷。”&lt;/p&gt;&lt;p&gt;　　黄河拐弯处的芮城县，拥有古朴庄重的元代永乐宫壁画。通过将旅游目的地串珠成链，持续提升游客深度体验，芮城县近两年热度猛涨。&lt;/p&gt;&lt;p&gt;　　距离永乐宫不远的广仁王庙，是全国现存数量极少的唐代木构建筑之一，不少游客专程驱车前来聆听专业讲解、感受悠久历史。&lt;/p&gt;&lt;p&gt;　　在芮城的大禹渡，大河奔涌，落日照在河面泛着金光。渡口旁的携程度假农庄，吸引大批游客自驾入住，民宿一房难求，农家乐生意红火。&lt;/p&gt;&lt;p&gt;　　芮城县通过旅游公路建设，串联起黄河生态观光、古建参观等多个主题线路。“国庆假期首日，游客数量同比增长50%，全县单日游客量突破了2.6万人次。”芮城县文化和旅游局局长郝国霞说。&lt;/p&gt;&lt;p&gt;　　记者此行的最后一站，是永济市鹳雀楼，“共享”是这里的关键词。&lt;/p&gt;&lt;p&gt;　　登楼望远，黄河奔流，远处华山清晰可见。许多游客奔赴这里，亲身感受“欲穷千里目，更上一层楼”的意味。&lt;/p&gt;&lt;p&gt;　　永济市委宣传部副部长王红荣介绍：“假期游客多是沿着旅游公路自驾而来，面临停车难题。为此，我们开放了党政机关大院，迎接全国各地的游客。”&lt;/p&gt;&lt;p&gt;　　共享的还有夜色。夕阳西下，鹳雀楼景区内全域亮灯，鱼灯游园、莲灯祈福、烟花篝火、电音啤酒派对轮番上演。&lt;/p&gt;&lt;p&gt;　　路网四通八达，带动公路自驾、小众深度县域游持续升温，擦亮了“奔县游”的文旅新名片，激活了县域文旅经济的发展新引擎。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  郑洋洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 探访三座山西县城，感受县域文旅活力 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184333&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184333.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184333.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 旅游公路带火“奔县游”（新场景里看活力） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184333.html#[02版：要闻] 旅游公路带火“奔县游”（新场景里看活力）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 一只小木雀，镌刻军民鱼水情（文物里的长征故事）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184334.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一只小木雀，镌刻军民鱼水情（文物里的长征故事） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  范昊天&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/6d1e22d9-2e6b-4d09-9325-0f6e75334768.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图为陈世国老人展示小木雀。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  范昊天摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/6d1e22d9-2e6b-4d09-9325-0f6e75334768.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　金秋时节，鄂皖交界，走进湖北黄冈市英山县陶家河乡英太寨村，背靠大山的一座农家院里，68岁的陈世国拿出了她的“传家宝”。&lt;/p&gt;&lt;p&gt;　　轻轻打开木匣子，巴掌大小的小木雀映入眼帘，历经岁月洗礼，外形依然灵动。这只小木雀背后，藏着一段大别山军民同心、生死相护的往事。&lt;/p&gt;&lt;p&gt;　　1934年的秋天，在红四方面军撤离后一直坚守鄂豫皖苏区的红二十五军移驻陶家河。在这里，他们发布《告劳苦群众书》、建立苏维埃政权、开展土地革命、进行系统训练，为长征做好了政治、组织、军事、思想上的准备。&lt;/p&gt;&lt;p&gt;　　10月下旬，国民党军分三路向陶家河进犯，红二十五军在陶家河西北面的牛背脊骨山展开阻击。战斗持续了三天两夜，红军凭借天险，给敌人以重创，但红军将士也伤亡280余人。&lt;/p&gt;&lt;p&gt;　　激战中，陶家河人民一直给红军送饭、送水，支援前线，红二十五军撤离后，他们又冒着生命危险救治了上百名红军伤病员，陈世国的爷爷陈洪元就是其中一位。&lt;/p&gt;&lt;p&gt;　　“听爷爷说，那场仗后，好多战士受了重伤，跟不上大部队，躲在山里又冷又饿，随时有被敌人抓到的危险。”陈世国说，尽管爷爷一家10口挤住在茅草房中，仍收留了7名红军伤员，白天将他们送到深山隐蔽，晚上再把他们背回来，藏在屋后的几个红薯洞里。&lt;/p&gt;&lt;p&gt;　　“爷爷把仅存的粮食留给红军，家里人以野菜充饥。”陈世国说，陈家三兄弟还轮流到别人家打零工，换成粮食和药品给伤员送去。&lt;/p&gt;&lt;p&gt;　　在陈家的悉心照料下，3个月后，红军战士陆续痊愈。归队前，一名陈姓排长把自己养伤时用刺刀雕刻的小木雀，留给陈洪元6岁的儿子陈寿田，相约革命成功后以此为信物相认。&lt;/p&gt;&lt;p&gt;　　90多年过去，陈洪元、陈寿田父子先后去世，但陈世国牢记长辈的叮嘱，一直悉心守护着这只小木雀。&lt;/p&gt;&lt;p&gt;　　2021年8月，《长征国家文化公园建设保护规划》出台，英山县入选湖北段重点建设项目。2022年5月，长征国家文化公园英山园区项目正式动工。&lt;/p&gt;&lt;p&gt;　　“我们重点建设了红二十五军长征集结地历史步道等5个子项目。”长征国家文化公园英山园区管理中心主任陈林介绍，在项目建设过程中，园区持续发掘征集长征文物，发现了小木雀、红军洞、战壕遗址等一批文物和遗迹，推出了小木雀复制件、长征钥匙扣、冰箱贴等文创产品，受到游客欢迎。&lt;/p&gt;&lt;p&gt;　　“当年陈排长没有留下名字，革命胜利后我们一直没有他的消息。现在，小木雀被做成了文创产品，走得越来越远，我们也希望通过它来找到陈排长的后人。”陈世国说。&lt;/p&gt;&lt;p&gt;　　小木雀镌刻军民鱼水情，也见证了军爱民、民拥军的时代新篇。“我们盘活闲置农房发展避暑康养旅居产业，2022年以来新开民宿、农家乐20余家，带动近千名群众在餐饮、住宿、农特产经营中增收致富。”陶家河乡副乡长余建新说。&lt;/p&gt;&lt;p&gt;　　2023年11月开园以来，长征国家文化公园英山园区获评国家4A级旅游景区，承接红色教育活动1400余批次，接待研学师生10万余人次，累计接待游客近百万人次。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  范昊天&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184334&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184334.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184334.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一只小木雀，镌刻军民鱼水情（文物里的长征故事） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184334.html#[02版：要闻] 一只小木雀，镌刻军民鱼水情（文物里的长征故事）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 从“藏书楼”到“育人场”（校馆弦歌）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184335.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 浙江高校活化利用场馆资源 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 从“藏书楼”到“育人场”（校馆弦歌） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  窦瀚洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　今年秋季开学不久，浙江大学的大一新生张语婷已经对位于紫金港校区的浙江大学图书馆主馆熟门熟路。“没课时喜欢来坐坐，不管是专业相关还是感兴趣的领域，想读的书太多了。”她说。&lt;/p&gt;&lt;p&gt;　　跟随张语婷走进主馆，二楼“阅读启航  新生荐读”主题书展前，聚拢了不少学生，这是一场由学生自主发起的阅读邀请。“从选题构思、书目筛选，到现场布展、宣传推广，书社成员们费尽心思，希望能为学弟学妹推荐阅读书目。”“求知书社”社长、浙江大学医学院大二学生罗丛敬说。&lt;/p&gt;&lt;p&gt;　　“我们坚持以学生为主体，鼓励学生依托场馆空间开展原创文化实践，让书香场馆成为学生创意绽放的舞台。”浙江大学图书馆馆长、敦和讲席教授孙周兴介绍，图书馆依托空间资源与平台优势，通过自主策展、艺术演绎、学科创新、读书实践等多元形式，构建起朋辈共创、自主创新的新型育人平台。&lt;/p&gt;&lt;p&gt;　　去年底，沉浸式话剧《观通堂之夜》在浙江大学图书馆六楼的观通堂上演，演职人员均为在校学生，来自全校各个专业。首场演出门票上线16秒便售罄，成为图书馆场馆育人的一张名片。&lt;/p&gt;&lt;p&gt;　　“大家在史料查阅、文本研读、剧本打磨与跨学科协作排演中，夯实了文学素养，锻炼了艺术表达、团队协作与创新创造能力。”《观通堂之夜》演出人员、浙江大学文学院博士生王艺林说。&lt;/p&gt;&lt;p&gt;　　“藏书楼”成为“育人场”，学生也从空间的使用者变成文化的共创者。&lt;/p&gt;&lt;p&gt;　　走进杭州师范大学仓前校区，推开图书馆一楼大门，马叙伦历史资料陈列馆与沈钧儒历史资料陈列馆比邻而居。再往里走，先贤书库映入眼帘，8000余册典藏文献以经亨颐、李叔同、鲁迅、丰子恺等60余位先贤的作品为主，实体空间与数字书房融合，展陈与学术研究结合。&lt;/p&gt;&lt;p&gt;　　杭州师范大学物理学院大三学生李政华是图书馆的常客，闲暇时间总会“泡”在这里，“馆内不仅有海量图书，更有先贤书库、历史资料陈列馆等特色文化空间。看文献、做实验累了，就到这些场馆走走，了解先贤的故事，来一场穿越时空的对话，很有意义。”&lt;/p&gt;&lt;p&gt;　　“‘二馆一书库’的布局，并非简单地把展馆搬进图书馆，而是有意识地让校史资源与学生日常动线相结合：学生来自习、借阅，抬眼可见校史展陈，身边就是先贤作品，让文化传承可感可触、润物无声。”杭州师范大学图书馆馆长、中文系教授朱晓江说。&lt;/p&gt;&lt;p&gt;　　文史资料见证历史，青年学生也在用自己的方式与先贤“相遇”。&lt;/p&gt;&lt;p&gt;　　池雅铭是杭州师范大学马克思主义学院大二学生，她在修通识课“人工智能与人文教育”时，依托馆藏典籍，与同学们合作开发了“朱自清《背影》”“鲁迅树人”系列视听剧本。“我希望用数字化方式，传承蕴含在古雅文字中的思想观念、人文精神。在图书馆，我触摸到的不仅是历史，更是一种薪火相传的力量。”池雅铭说。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  窦瀚洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 浙江高校活化利用场馆资源 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184335&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184335.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184335.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 从“藏书楼”到“育人场”（校馆弦歌） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184335.html#[02版：要闻] 从“藏书楼”到“育人场”（校馆弦歌）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 文润千载  情系家国</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184336.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 文润千载  情系家国 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——国庆假期文化现象观察 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  耿  磊  何思琦  李卓尔&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“文化是一个国家、一个民族的灵魂。”&lt;/p&gt;&lt;p&gt;　　中华优秀传统文化是中华民族的文化根脉。习近平总书记深刻指出：“要让文物说话，让历史说话，让文化说话。要加强文物保护和利用，加强历史研究和传承，使中华优秀传统文化不断发扬光大。”&lt;/p&gt;&lt;p&gt;　　国庆假期，文博场馆热度高涨，历史文化遗产参观者众，文化空间活力奔涌……人们在文物活化利用中触摸历史，在历史文化中感知家国情怀，在文化活动中涵养精气神。假期里蓬勃兴起的文化新风，映照出群众日益丰盈的精神世界与多元丰富的生活图景，这既是文化强国建设扎实推进的鲜活注脚，也是以深厚文化滋养民族精神家园的生动写照。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;听文物诉说&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　——在活化利用中感受文脉律动&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　夜幕降临，河南安阳洹河两岸灯火渐明。灯光勾勒出殷墟博物馆青铜色的建筑轮廓。博物馆展柜内，3000多年前的甲骨刻痕在柔和灯光下清晰可见。&lt;/p&gt;&lt;p&gt;　　来自山东的游客刘晶，拿出手机打开“了不起的甲骨文”小程序，一一比对着认读起来。在人机协同下，骨片上的文字大意逐渐显现，先民们的生活耕作场景如在眼前。&lt;/p&gt;&lt;p&gt;　　“一片甲骨惊天下”，千年汉字贯古今。一个民族生生不息的传承赓续跃然而出。&lt;/p&gt;&lt;p&gt;　　“历史文化遗产承载着中华民族的基因和血脉，不仅属于我们这一代人，也属于子孙万代。”如何在保护好历史文化遗产的基础上，让中华文脉绵延赓续，始终是习近平总书记关注思考并推进的问题。&lt;/p&gt;&lt;p&gt;　　从北京故宫博物院到广西合浦县汉代文化博物馆，从河南殷墟遗址到湖北云梦县博物馆，习近平总书记的文化足迹遍及一个个中华文明地标。&lt;/p&gt;&lt;p&gt;　　让文物“说话”，使历史博物展览发挥“见证历史、以史鉴今、启迪后人”的作用，习近平总书记深刻指出：“让收藏在博物馆里的文物、陈列在广阔大地上的遗产、书写在古籍里的文字都活起来”。&lt;/p&gt;&lt;p&gt;　　从北方到江南，从巴蜀到三秦，文博场馆成为国庆假期极具人气的“文化客厅”。&lt;/p&gt;&lt;p&gt;　　国家博物馆从聚落考古视角精选200余件（套）展品，推出“大河之东——运城与中华文明肇兴”展；恭王府博物馆推出“御器凝辉·盛世重光——北京景泰蓝宫廷艺术特展”，呈现景泰蓝技艺自元代传入至近现代的发展脉络；良渚博物院推出“琮谱——良渚遗址发现九十周年特展”，汇集14个省份及海外收藏机构的124件琮与琮式器……&lt;/p&gt;&lt;p&gt;　　文物不语，无言诉说。如今“博物馆里过佳节”从一句口号沉淀为一种文化新“节俗”，我们见到的不只是文旅消费的升级，更是一个民族对文化根脉的深情回望与自信前行。&lt;/p&gt;&lt;p&gt;　　新时代文物工作方针明确“保护第一、加强管理、挖掘价值、有效利用、让文物活起来”。在习近平文化思想引领下，文物所蕴含的思想观念、人文精神、道德规范等，在新时代找到新的表达方式。&lt;/p&gt;&lt;p&gt;　　假期里，不少游客走进江苏南京德基广场的艺术博物馆，戴上智能手环，沉浸式体验“金陵图数字艺术展”。林间小溪潺潺流淌，挑担小贩穿行街市，茶馆里客人举杯闲谈，千年前金陵的市井烟火依托科技手段次第铺展。在湖北省博物馆，全息真人舞台剧《遇见·勾践剑》借助数字影像、虚拟实时动作捕捉等前沿技术，带领游客穿越千年、重温春秋风云……&lt;/p&gt;&lt;p&gt;　　新表达、新变化的驱动力，源于坚持以人民为中心——文物保护利用，就是要让人民享有文化成果，让文明历史滋养当代生活。&lt;/p&gt;&lt;p&gt;　　当人们在殷墟博物馆夜场灯光下临摹甲骨文，在德基艺术博物馆戴上智能手环“扮演”宋代书生，在敦煌莫高窟凝视石窟造像，“日用而不觉”的文化认同便在体验中悄然生长。&lt;/p&gt;&lt;p&gt;　　让文物说话，是文化自信落地生根的生动缩影，赋予了假期文化传承、精神滋养的意义，让人们品读历史、传承文脉、厚植家国情怀。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;听历史诉说&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　——在研究传承中感悟精神力量&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　红旗漫卷大渡河。国庆假期首日，四川泸定桥上，一名系着红领巾的少年走近晃荡的铁索，双手紧握铁索，俯瞰奔腾江水。“那时候的红军，年龄小的也就比我们大几岁。”少年的轻声呢喃，让人沉思。&lt;/p&gt;&lt;p&gt;　　时间回到1935年5月29日，大渡河畔。桥面木板早被敌人拆尽，仅剩13根冰冷的铁索，横悬在咆哮的江面上。在嘹亮的冲锋号中，22名突击队员，手持短枪、背着马刀、攀上摇晃的铁索，迎着对岸密集的子弹，一寸一寸向前移动。&lt;/p&gt;&lt;p&gt;　　历史正以它独有的方式，向今人们诉说一个民族的来路和一个政党的初心。&lt;/p&gt;&lt;p&gt;　　“历史深刻表明，爱国主义自古以来就流淌在中华民族血脉之中，去不掉，打不破，灭不了”。&lt;/p&gt;&lt;p&gt;　　这是刻入骨髓的情怀——&lt;/p&gt;&lt;p&gt;　　迎着清晨第一缕阳光，雄壮的国歌声中，五星红旗冉冉升起，10月1日的首都北京，10万余人齐聚天安门广场。&lt;/p&gt;&lt;p&gt;　　“我爱你——中国！”人群中爆发出热烈的欢呼声；《歌唱祖国》的歌声响起，激荡起人们共同的心声；“祝福祖国”巨型花篮前，游客们举起手中国旗，定格下山河锦绣、国泰民安的动人瞬间。&lt;/p&gt;&lt;p&gt;　　千里之外，内蒙古二连浩特国门升旗仪式举行，边检民警和百余名游客肃立注目、齐唱国歌，向祖国表达深沉的爱；近万里之遥，新疆红其拉甫出入境边防检查站，一面五星红旗在世界海拔最高国门上方迎风飘扬。&lt;/p&gt;&lt;p&gt;　　盛世华诞，举国同庆，爱国主义热情在中华儿女心中澎湃。&lt;/p&gt;&lt;p&gt;　　“对每一个中国人来说，爱国是本分，也是职责，是心之所系、情之所归。”&lt;/p&gt;&lt;p&gt;　　习近平总书记的谆谆话语，至真至深，充满力量。&lt;/p&gt;&lt;p&gt;　　这是人世间最深层、最持久的情感，这是中华文明生生不息的密码，早已熔铸进民族的精神基因。每一个平凡的你我，把个人的理想同祖国的前途相连、把个人的奋斗同民族的命运相系，涓涓细流，终汇洪流。&lt;/p&gt;&lt;p&gt;　　爱国主义精神如何传承？&lt;/p&gt;&lt;p&gt;　　历史是最好的教科书，中国革命历史是最好的营养剂。&lt;/p&gt;&lt;p&gt;　　翻开这部厚重的书，一处处革命旧址、一个个红色场馆，一段段峥嵘往事、一个个英雄名字，都在无声地讲述着信仰的力量。&lt;/p&gt;&lt;p&gt;　　这是融进山河的血脉——&lt;/p&gt;&lt;p&gt;　　今年是中国共产党成立105周年、中国工农红军长征胜利90周年。这个国庆假期，革命旧址和红色场馆里，人们回望历史、感悟初心，汲取力量、奋发前行。&lt;/p&gt;&lt;p&gt;　　延安，中国革命的圣地、新中国的摇篮。&lt;/p&gt;&lt;p&gt;　　10月5日上午9点半，游客从四面八方而来，“宝塔故事会”准时开讲。这是延安宝塔山景区里一道特殊的“风景”——宣讲员通过一个个生动的故事，将党中央在延安时期的峥嵘岁月娓娓道来。&lt;/p&gt;&lt;p&gt;　　“无数革命先辈用鲜血换来今天的国泰民安，作为新时代学子，刻苦学习就是热爱祖国、报效祖国的最好方式。”来自吉林白城的大二学生于涵淇说。&lt;/p&gt;&lt;p&gt;　　回首来路，“我们党什么样的困难没有经历过，什么样的挑战没有遇到过？”习近平总书记的话掷地有声。&lt;/p&gt;&lt;p&gt;　　一切向前走，都不能忘记走过的路，走得再远、走到再光辉的未来，也不能忘记走过的过去，不能忘记为什么出发。&lt;/p&gt;&lt;p&gt;　　中国人民革命军事博物馆，“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”吸引众多观众，全景式再现红军长征的壮阔史实，首次展出的文物文献有300余件。&lt;/p&gt;&lt;p&gt;　　红军过雪山时穿的蓝单衣等文物，“半截皮带”“半条被子”等故事，诉说着长征路上的艰辛与荣光。“每往前走一步、每多看一件文物，都对长征历史有了更深刻的感悟。”10月3日，花大半天时间看完展览的观众陈冬感慨万千，“‘苦不苦，想想长征两万五’，还有什么困难是不能克服的呢？”&lt;/p&gt;&lt;p&gt;　　红色是中国共产党、中华人民共和国最鲜亮的底色。习近平总书记深刻指出，“光荣传统不能丢，丢了就丢了魂；红色基因不能变，变了就变了质。”&lt;/p&gt;&lt;p&gt;　　新征程是新的长征。“要齐心协力走好新的长征路”。&lt;/p&gt;&lt;p&gt;　　这是生生不息的传承——&lt;/p&gt;&lt;p&gt;　　挖掘丰富内涵、创新呈现形式，红色历史才能更好成为涵养全民族昂扬奋发的精神气质的源头活水，才能为奋进新征程提供深沉而持久的精神动力。&lt;/p&gt;&lt;p&gt;　　科技赋能，红色历史“火”起来。&lt;/p&gt;&lt;p&gt;　　场灯渐次熄灭，一盏马灯亮起，“你等过人吗？”“等了多久？”“你等的人，他回来了吗？”几句直抵人心的叩问，把观众带回到那段烽火岁月。国庆假期，大型红色舞台剧《长征第一渡》在江西于都长征大剧院持续上演。&lt;/p&gt;&lt;p&gt;　　“让游客在沉浸式体验中，深刻感悟伟大长征精神。”于都县红色资源保护发展中心主任钟敏介绍，该剧自2023年3月首演以来，已上演近800场，吸引全国40多万人次观众观看。国庆假期首日，就有近千名观众观看。&lt;/p&gt;&lt;p&gt;　　深挖细节，红色文化“活”起来。&lt;/p&gt;&lt;p&gt;　　“这是外婆在102岁时入党宣誓的照片，她这一辈子都听党话、跟党走。”在海南琼海的红色娘子军纪念园，一位“特邀讲解员”正在动情讲述。&lt;/p&gt;&lt;p&gt;　　她是红色娘子军老战士王运梅的外孙女马世菊。面对天南海北的游客，马世菊透露了一个鲜为人知的细节，“外婆不识字，为了圆入党梦，她曾一笔一画练习书写自己的名字……”&lt;/p&gt;&lt;p&gt;　　人群中，几名小朋友听得认真。马世菊的声音不高，却在孩子们心里种下了种子——历史从未走远，在一代又一代的讲述里愈加鲜活。&lt;/p&gt;&lt;p&gt;　　“要讲好党的故事、革命的故事、根据地的故事、英雄和烈士的故事”。习近平总书记语重心长。&lt;/p&gt;&lt;p&gt;　　牢记嘱托，深入探索。近年来，红色文化的“打开方式”愈加丰富。从参观到参与、从体验到体悟，游客在亲历中完成与红色历史的对话共情。&lt;/p&gt;&lt;p&gt;　　岁月无言，山河有证。回望来路，先辈的牺牲奉献早已化作精神坐标；眺望前方，亿万中华儿女正把深沉的家国情怀，写进奋进新征程的每一步。&lt;/p&gt;&lt;p&gt;　　“中国的昨天已经写在人类的史册上，中国的今天正在亿万人民手中创造，中国的明天必将更加美好。”&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;听文化诉说&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　——在创新创造中发扬光大&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　文化兴国运兴，文化强民族强。&lt;/p&gt;&lt;p&gt;　　在黑龙江漠河，国庆假期又迎来一波旅游高峰，北极村、龙江第一湾景区等处人头攒动。在这里既能直观感受“绿水青山就是金山银山”和“冰天雪地也是金山银山”的生态之美，又能深刻领略这种理念背后的思想魅力。&lt;/p&gt;&lt;p&gt;　　水族端节恰逢国庆，这个假期，贵州黔南三都水族自治县赛马场号角嘹亮，群众身着盛装迎来“贵州村马”赛马盛会。入夜，江水为台、青山为幕，水族双歌、布依族八音坐唱、苗族斗牛舞依次登场。&lt;/p&gt;&lt;p&gt;　　我们以文化滋养精神家园。亿万群众既是文化的享用者，又是创造者。&lt;/p&gt;&lt;p&gt;　　习近平总书记深刻指出：“人民对精神文化生活的需求时时刻刻都存在”“随着人民生活水平不断提高，人民对包括文艺作品在内的文化产品的质量、品位、风格等的要求也更高了”。&lt;/p&gt;&lt;p&gt;　　假日中国，处处涌动文化热潮。各地新华书店里，《习近平党建文选》第一卷、第二卷，《习近平文化文选》第一卷、第二卷等书籍陈列在显著位置，吸引读者们纷纷驻足翻阅、购买。国庆文化和旅游消费月期间，各地推出超2万场文旅活动、发放超3.1亿元消费券等消费补贴。博物馆、图书馆、文化馆延长开放时间，文化展览、惠民演出、红色剧目一场接一场，村晚、村戏、村游接连登场，各类特色文旅活动融入假日生活。&lt;/p&gt;&lt;p&gt;　　今年国庆档多部影片集中上映，国产影片构成档期主力，“电影+”跨界融合持续升温。截至6日晚，电影总票房（含预售）已突破10亿元。各地不断探索观影联动餐饮、零售、文旅、衍生品，打造假日文化消费的新场景。同时，荧屏追剧同样热闹，从重大革命历史题材到年代剧、都市剧都有覆盖，满足观众多样化需求。&lt;/p&gt;&lt;p&gt;　　文化土壤的肥沃丰盈精神世界，创造活力的释放又夯实文化根基，在双向赋能中，中华文化繁荣兴盛。&lt;/p&gt;&lt;p&gt;　　千年瓷都，窑火正旺。今年7月，“景德镇手工瓷业遗存”列入《世界遗产名录》。申遗成功后的首个国庆假期，古窑民俗博览区里，游客在把桩师傅指导下添柴烧窑，看窑壁通红，听柴火噼啪。&lt;/p&gt;&lt;p&gt;　　“亲手码一回柴，才知道一窑瓷器来之不易。”来自上海的游客陈国荣体验完烧窑后说。&lt;/p&gt;&lt;p&gt;　　习近平总书记强调，“要把这些中华文化瑰宝保护好、传承好、传播好。”&lt;/p&gt;&lt;p&gt;　　非遗热，遍神州。湖南醴陵，游客在素坯上描摹“釉下五彩”；天津古文化街，家长带着孩子拓印杨柳青年画；山东台儿庄，老艺人手把手教孩子做皮影。文化寻根、非遗打卡成为假期出游关键词。&lt;/p&gt;&lt;p&gt;　　丰富多彩的实践，让非遗“长”回土壤，实现“见人见物见生活”的活态传承。&lt;/p&gt;&lt;p&gt;　　“一步入画”是什么体验？河南开封清明上河园，戴上VR眼镜，游客乘自动导航船，跟着大宋密探探案；裸眼3D球幕影院里，人化身飞鸟掠过汴河，古画中的市井繁华扑面而来；AI动漫赋能的实景马战、焕新升级的打铁花，引得掌声如潮。&lt;/p&gt;&lt;p&gt;　　古画可“入”，千年可“触”。文化与科技相遇，打开全新天地，让古老智慧以更轻盈、更鲜活姿态融入现代生活。&lt;/p&gt;&lt;p&gt;　　文化的力量，也在山河乡野间生长。国庆假期，县域游、乡村游迎来“高光时刻”。&lt;/p&gt;&lt;p&gt;　　宁夏中卫市沙坡头区常乐镇大湾村，曾是村民整体搬迁、渐被遗忘的古村落。如今，复原的黄泥老屋组成“黄河宿集”，11家头部民宿品牌落户，黄河、沙漠、长城、湿地相拥入怀。八成服务人员来自当地，河滩枣、番薯干成了抢手货。&lt;/p&gt;&lt;p&gt;　　“干沙滩”变成“金沙滩”。土墙之内是现代生活，推窗便见黄河落日，古村落重获新生。&lt;/p&gt;&lt;p&gt;　　“坚持以文塑旅、以旅彰文，推动文化和旅游融合发展”，习近平总书记的殷殷嘱托，正在万千乡村变为实景。&lt;/p&gt;&lt;p&gt;　　文旅融合融出人气，留住人心。人文之美与经济之盛同频共振、相得益彰。&lt;/p&gt;&lt;p&gt;　　假日中国，文化中国，也是世界的中国。&lt;/p&gt;&lt;p&gt;　　国之交在于民相亲，民相亲在于心相通。习近平主席在金砖国家领导人第十八次会晤第一阶段会议上指出，“促进民众常来常往、相知相亲”。&lt;/p&gt;&lt;p&gt;　　目前，我国已对50个国家实施单方面免签，对57个国家实施240小时过境免签。假期前三天，仅上海浦东机场口岸入境的外籍人员就达4.3万人次，同比增长23.5%。&lt;/p&gt;&lt;p&gt;　　外国游客的打开方式也在变。&lt;/p&gt;&lt;p&gt;　　浙江湖州西塞山，这个假期，外国游客不只看风景，还坐下来学泡茶、尝糕点、聊文化，在一杯清茶里“打开中国”。来自俄罗斯叶卡捷琳堡的安娜、娜塔莉亚两家人，专程来跟茶艺师学。娜塔莉亚说，自己看到过网上一段视频，“看了非常喜欢，就想来看看中国的人文地理”。&lt;/p&gt;&lt;p&gt;　　从张家界入境游客同比增长129%，到重庆位列入境游十大目的地游客量增速第一，越来越多“非传统热门”城市正走进全球游客的视野。“中国游”在全球社交平台上的热度居高不下，海外游客不再只打卡一线城市，而是深入感受山水中国、文化中国。&lt;/p&gt;&lt;p&gt;　　各美其美，美美与共，中国文化热现象引发世界关注，中国文化故事走出国门，让开放中国尽显自信包容。&lt;/p&gt;&lt;p&gt;　　习近平总书记指出：“有文化自信的民族，才能立得住、站得稳、行得远。”&lt;/p&gt;&lt;p&gt;　　文化自信，在亿万人民的脚步里、笑脸中，在神州万千气象里。一个热气腾腾、活力奔涌的中国，正阔步走向民族复兴的光明前景。&lt;/p&gt;&lt;p&gt;　　（本报记者王珏参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  耿  磊  何思琦  李卓尔&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——国庆假期文化现象观察 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184336&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184336.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184336.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 文润千载  情系家国 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184336.html#[02版：要闻] 文润千载  情系家国</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 托起老年人的幸福（培育更多“中国服务”品牌）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184337.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 江苏构建“15分钟养老服务圈” &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 托起老年人的幸福（培育更多“中国服务”品牌） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  邓建胜  姚雪青&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　清晨，在江苏省南京市玄武区富贵山2号小区的家中，70岁的柏秋萍撑着床边扶手起身。卫生间里，有智能马桶、防滑洗澡椅；厨房墙上，烟感和燃气报警器亮着绿灯；床头的呼叫器，一按即应……40多平方米的房子，经过适老化改造，处处有依靠。中午，柏秋萍老两口步行5分钟就到了社区养老服务中心助餐点吃饭。&lt;/p&gt;&lt;p&gt;　　江苏老龄人口基数大、增速快，13个设区市已全部进入中度老龄化社会。2021年9月，江苏发布“苏适养老”服务品牌，推动养老服务从“保基本”向“高品质”升级。&lt;/p&gt;&lt;p&gt;　　织密养老服务网络——&lt;/p&gt;&lt;p&gt;　　柏秋萍和老伴常去的社区养老服务中心，正是“苏适养老”破解居家养老服务碎片化难题、构建“15分钟养老服务圈”的重要组成部分。&lt;/p&gt;&lt;p&gt;　　南京市民政局养老服务处负责人介绍，大多数老人愿意选择居家养老。2021年起，南京推出“居家养老服务清单”，引进第三方机构提供适老化改造方案，政府提供一定补贴，织成一张让老人舒适安心的服务网。&lt;/p&gt;&lt;p&gt;　　作为“苏适养老”服务品牌的“基本盘”，“原居享老”与“社区安老”正稳步推进：江苏建成家庭养老照护床位2万余张，完成适老化改造30余万户；建成城市街道综合性养老服务中心531家、站点1.8万余个，实现城市街道全覆盖。&lt;/p&gt;&lt;p&gt;　　推广医养融合服务——&lt;/p&gt;&lt;p&gt;　　在淮安市洪泽区岔河镇敬老院，64岁的周开前脑出血昏迷，医护人员迅速进行输氧、降压，绿色通道直连区人民医院；72岁的高秀英，瘫痪卧床3年，全身没一处破溃，每月1800元费用，在消费券补贴后个人实际负担约千元……&lt;/p&gt;&lt;p&gt;　　岔河镇敬老院也是乡镇卫生院。过去，敬老院只管吃住，卫生院床位利用率低。2023年8月，两院拆墙合一，医疗照护与生活照料从“物理相邻”走向“功能相融”。淮安市民政局养老服务科科长牛亚林介绍，淮安通过改革破题，推行“两院一体”，卫健部门扩容卫生院诊疗范围，增设养老护理功能；民政部门将托养费用归集卫生院统筹使用，发放养老服务消费券补贴；医保部门开通院内一站式结算，叠加长期护理保险……&lt;/p&gt;&lt;p&gt;　　今年，江苏将此模式向全省推广：先期推动30个乡镇敬老院与乡镇卫生院共建，支持县级公立医院和有条件的基层医疗卫生机构延伸开展医养结合服务，年内各县（市、区）至少建成1家医养结合机构。&lt;/p&gt;&lt;p&gt;　　挖掘银发经济潜力——&lt;/p&gt;&lt;p&gt;　　今年清明前夕，75岁的苏州市民沈阿婆想上山给父母扫墓，但腿脚不便，向民政局求助。局里对接产业资源，本地企业迈宝智能科技（苏州）有限公司送来外骨骼机器人。沈阿婆穿着它走上山路，到父母墓前深鞠一躬。在民政部门对接下，迈宝科技的适老产品通过评测，并在苏州市社会福利总院试用，2个月内超300位老人试用。过去企业客群主要是残障人士，如今银发订单已占八成。&lt;/p&gt;&lt;p&gt;　　去年4月起，苏州每月举办一场供需对接活动，汇聚各方资源，引导企业按需开发适老产品。苏州市民政局机关党委专职副书记胡莹介绍，苏州现已梳理出10条银发经济产业链和1.6万家相关企业，112款产品完成实景评测并推广应用。&lt;/p&gt;&lt;p&gt;　　面向“十五五”，江苏全面激发银发经济活力，重点推动老年产品制造业、养老服务业、抗衰老产业等三大领域、10个方向加快发展。目前，江苏银发经济总量已超5000亿元。&lt;/p&gt;&lt;p&gt;　　从“给钱给物”到“搭场景建生态”，“苏适养老”正从愿景走进日常。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  邓建胜  姚雪青&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 江苏构建“15分钟养老服务圈” &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184337&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184337.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184337.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 托起老年人的幸福（培育更多“中国服务”品牌） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184337.html#[02版：要闻] 托起老年人的幸福（培育更多“中国服务”品牌）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 三株“草”长成一片原（赓续长征精神  奋进复兴征程）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184338.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 河南革命老区发展壮大农业特色产业 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 三株“草”长成一片原（赓续长征精神  奋进复兴征程） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  方  敏&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　红二十五军长征出发地——河南罗山县何家冲。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　周  涛摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/b946537a-fcb6-4bd9-9305-ea4281027ae7.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　从河南郑州市一路向南，扎进大别山，穿过片片茶园，来到信阳市罗山县铁铺镇何家冲村。一棵古银杏，树冠如伞，护着四方土地。&lt;/p&gt;&lt;p&gt;　　1934年11月16日，红二十五军近3000人集结于此，誓师出征。历时10个月，转战豫、鄂、陕、甘多地，最终到达陕北。&lt;/p&gt;&lt;p&gt;　　“这一路山高路险，缺衣少药是红军常态。多亏了有三株‘草’——茶叶提神，油茶果充饥，连翘清热解毒。”罗山县文化广电和旅游局讲解员许清说，“这三株‘草’，是沿途百姓能够拿出来的最朴素也是最金贵的东西，成了红军的救命草。”&lt;/p&gt;&lt;p&gt;　　2019年9月，习近平总书记在鄂豫皖苏区首府革命博物馆会见当地红军后代、革命烈士家属代表时动情地说：“我们绝不能忘记革命先烈，绝不能忘记老区人民，要把革命老区建设得更好，让老区人民过上更好生活。”&lt;/p&gt;&lt;p&gt;　　牢记嘱托，实干担当。近年来，在党和政府的带领下，当地干部群众不懈努力，由这三株“草”发展出更多特色产业。在这片红色土地上，三株“草”成了老区人民的“致富草”。&lt;/p&gt;&lt;p&gt;　　从何家冲村向东南，车子在盘山道上绕了两个多小时，来到新县陈店乡高塆村。&lt;/p&gt;&lt;p&gt;　　山坡上有片老茶园，茶树齐腰高。一旁，鄂豫皖边区军委兵工厂旧址静静矗立。当年，战士们白天造子弹，傍晚开荒拓土，种下这片茶园。乡亲们把这里产出的茶叶亲切地叫作“红军茶”。&lt;/p&gt;&lt;p&gt;　　走在村里，村民们讲起了吴卫国的故事。作为红军后代的吴卫国，在担任村党支部书记期间有个期盼：带领乡亲们闯出致富路，让村里的“红军茶”香飘四方。&lt;/p&gt;&lt;p&gt;　　然而，山路崎岖、引水困难，资金短缺、技术匮乏，一道道难题横亘在面前。“种出好茶，卖出好价，就是我的长征路。”吴卫国牵头成立专业合作社、改造茶厂、对接市场、请来农技专家，一步步盘活茶园。在他的努力下，全村茶园发展到600余亩，合作社年收益达50余万元，惠及村民1200余人。&lt;/p&gt;&lt;p&gt;　　红色家风继世长。去年，吴卫国老人因病逝世。他的儿媳从部队退役后返乡，接过茶园经营的接力棒，让“红军茶”的茶香越飘越远。&lt;/p&gt;&lt;p&gt;　　从高塆村看信阳，全市茶园面积已达216万亩，茶产业全产业链综合产值突破1000亿元，茶产业从业人员超120万人。&lt;/p&gt;&lt;p&gt;　　从高塆村出来向西，没多远就是光山县。&lt;/p&gt;&lt;p&gt;　　山路两旁，满是油茶树。用茶油炒菜，清香不腻。90多年前，茶油就是红军的重要物资。如今，光山县引进新品种、推广新技术，油茶果的品质更好。&lt;/p&gt;&lt;p&gt;　　走进位于光山县的河南省联兴油茶产业开发有限公司，在油茶绿色深加工中试基地里，技术人员正在精炼茶油。公司不仅生产高品质茶油，还把茶壳、茶粕加工成高纯度的护肤精华原料。&lt;/p&gt;&lt;p&gt;　　光山县油茶种植面积达32.37万亩。“我们正推动油茶产业从卖油茶果向卖产品、卖品牌转型。”光山县林业局局长何先勇介绍。&lt;/p&gt;&lt;p&gt;　　沿着沪陕高速西行，越过伏牛山，就到了三门峡市卢氏县。连翘地里，果子早已收完。卢氏县委党史和地方史志研究室三级调研员段丛芳介绍，1934年12月，红二十五军转战卢氏县，有的战士双脚冻裂，当地老百姓架起大锅，把连翘熬成汤，给伤员擦洗冻裂的伤口，“那一锅连翘汤，比金银都稀罕。”&lt;/p&gt;&lt;p&gt;　　那时，连翘是红军的救命药；现在，连翘是当地的“金豆豆”。卢氏县把连翘作为强县富民的主导产业，建成5个万亩基地、40个千亩基地，培育精深加工企业8家、连翘加工合作社15家，带动10万人增收。&lt;/p&gt;&lt;p&gt;　　更多特色产业正发展壮大。在桐柏县，茶叶、中药材、食用菌、花卉、生态鸡等特色产业渐成气候，特色种植业面积突破90万亩、年产值达50亿元。&lt;/p&gt;&lt;p&gt;　　当年三株“草”，如今长成一片原。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  方  敏&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 河南革命老区发展壮大农业特色产业 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184338&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184338.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184338.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 三株“草”长成一片原（赓续长征精神  奋进复兴征程） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184338.html#[02版：要闻] 三株“草”长成一片原（赓续长征精神  奋进复兴征程）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 一版责编：蒋雪婕  张帅祯  陈  震  二版责编：白之羽  崔  斌  张雪妍  三版责编：韩晓明  姜  波  关皓宇</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184339.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：蒋雪婕  张帅祯  陈  震  二版责编：白之羽  崔  斌  张雪妍  三版责编：韩晓明  姜  波  关皓宇 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184339&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184339.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184339.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：蒋雪婕  张帅祯  陈  震  二版责编：白之羽  崔  斌  张雪妍  三版责编：韩晓明  姜  波  关皓宇 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184339.html#[02版：要闻] 一版责编：蒋雪婕  张帅祯  陈  震  二版责编：白之羽  崔  斌  张雪妍  三版责编：韩晓明  姜  波  关皓宇</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 扩大开放、连接全球、赋能产业、惠及民生的重要窗口（进博会观察）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184340.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 扩大开放、连接全球、赋能产业、惠及民生的重要窗口（进博会观察） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  田  泓&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　11月5日至10日，第九届中国国际进口博览会（进博会）将在国家会展中心（上海）举行。作为世界上首个以进口为主题的国家级展会，此前8届进博会累计吸引超过180个国家和地区的2.7万家次企业参展，意向成交额超5800亿美元，不仅实现了“展品变商品”，更搭建了“展商变投资商”的桥梁，成为外资企业进入中国、扎根中国的重要门户。如期而至、越办越好的进博会，已经成为中国扩大开放、连接全球、赋能产业、惠及民生的重要窗口。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;开放之约，共享中国机遇&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　据悉，众多进博会“老朋友”准备拿出“看家本领”，策划一系列首发、首展、首秀，集中展示创新发展成果：路易达孚将展出包括特种磷脂、特种蛋白在内的一系列创新动物营养产品，这些产品由该集团位于上海的全球研发中心自主研发；花王将携旗下众多主力品牌亮相，展示如何面向未来探索可持续生活方式；罗克韦尔自动化不仅将全球首展高性能控制平台，还会带来绿色转型的最新实践……&lt;/p&gt;&lt;p&gt;　　“我非常期待今年11月到上海参加进博会。进博会是一个汇聚全球创新理念、连接消费者与合作伙伴，并将创新转化为发展机遇的重要平台。雅诗兰黛集团深耕中国30多年，中国不仅是我们在全球重要的市场之一，也日渐成为集团人才、洞察与灵感的重要来源。”雅诗兰黛集团总裁兼首席执行官司泰峰表示，他将于今年首次来到进博会现场，以此彰显集团深耕中国的长期信心。&lt;/p&gt;&lt;p&gt;　　第九届进博会，将有169家企业和30家境外组展机构是“全勤生”；约50%的参展商是“回头客”，覆盖约80%的展览面积。进博会展现强大“磁力”的背后，是中国坚持推进高水平对外开放，与世界共享发展机遇的不懈努力。&lt;/p&gt;&lt;p&gt;　　多年来，进博会为最不发达国家展商提供免费展位，今年将升级亚非产品专区，帮助非洲建交国把握“零关税”机遇，鼓励更多全球南方国家用好进博会平台。&lt;/p&gt;&lt;p&gt;　　科特迪瓦出口局今年8月初便确定组织中小企业团亮相第九届进博会，带来咖啡、果干、可可、腰果等特色农产品。中国—东盟经贸中心将在第九届进博会期间正式上线“跨境企业家俱乐部”，为国内企业布局东盟提供常态化全链路服务。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;双向赋能，同赴全球创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　今年8月，德国药企勃林格殷格翰宣布再次升级在华战略，即将在上海张江设立全新研发中心。连续8年参展，勃林格殷格翰已累计在往届进博会展示近50项创新产品及解决方案，多项成果实现了从“展品”到“商品”的跨越。2025年以来，该企业多款新药在华获批上市，其中部分产品实现全球同步获批甚至全球首发。&lt;/p&gt;&lt;p&gt;　　对众多跨国企业来说，进博会不仅是全球新品的首秀展台，也是全球创新与中国市场双向赋能的入口。&lt;/p&gt;&lt;p&gt;　　今年以来，德国化工和消费品制造商汉高积极拓展在华业务布局，深度融入本土产业链。在消费品领域，亚洲首家沙宣美业和首家沙宣沙龙在上海揭幕，完成从专业教育、产品创新到终端服务的美业布局；在工业领域，汉高与中创新航在江苏常州共同启用电池创新中心，推动更安全、更高性能、更可持续的电池技术加快走向市场。&lt;/p&gt;&lt;p&gt;　　汉高今年将第八次亮相进博会，围绕“共蓄势，启新元”主题，集中呈现来自全球的前沿技术、创新产品和可持续解决方案，并推动其与中国丰富的产业场景和消费需求深度连接。汉高大中华区总裁安娜表示：“作为进博会的长期参与者，汉高将进博会视为连接全球创新资源与中国市场需求、深化伙伴合作、共创价值的重要桥梁。”&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;打造平台，释放溢出效应&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　国庆假期，绿地进博集市临港店、苏州店、蟠龙天地店快闪活动多点联动，把进博同款、国别特色商品、美食等集中摆到消费者面前。假期前3天，绿地贸易港集市累计客流突破5万人次，进博同款食品与进口食材销售额同比增长超85%。绿地贸易港集团总经理薛迎杰表示，作为进博会常年交易平台，绿地贸易港将不断引进新品牌、打造新场景，积极承接进博会溢出效应。&lt;/p&gt;&lt;p&gt;　　上海百联集团前8届进博会累计达成食品、消费品及医疗器械等领域的意向采购项目170个，与众多境外品牌商建立长期稳定的合作关系，持续推动“展品变商品”，充分释放进博会“6天+365天”交易服务平台的溢出效应。旗下百联股份聚焦美妆等核心消费品类深化进博成果转化，目前已与80余个国际美妆品牌建立深度合作，依托全渠道网络实现海外新品快速落地。&lt;/p&gt;&lt;p&gt;　　中国国际进口博览局副局长戈宏表示，第九届进博会坚定服务国家战略，与“出口中国”“购在中国”“投资中国”三大品牌协同联动，以高水平对外开放实践助推高质量发展；坚持向新、向绿、向创、向优策展，积极展示“黑科技”“硬科技”等，以更大力度扩大优质进口、促进贸易平衡发展；打造多元对接场景，举办重要采购商选品会、采购商长廊、贸易投资对接会等活动，推动展客商精准匹配和有效对接，同时升级打造“交易团之家”，提供一站式平台和一体化服务。&lt;/p&gt;&lt;p&gt;　　作为进博会举办地，上海正全面提升服务保障，城市交通、口岸通关、智慧运维等保障体系全面就位，持续优化展品“绿色通道”、极速通关、保税展示、现场结算等便利化举措；各类供需对接会、行业论坛、投资洽谈、政策解读活动密集筹备，“展品变商品、展商变投资商”的长效转化机制更加成熟。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  田  泓&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184340&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184340.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184340.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 扩大开放、连接全球、赋能产业、惠及民生的重要窗口（进博会观察） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184340.html#[03版：要闻] 扩大开放、连接全球、赋能产业、惠及民生的重要窗口（进博会观察）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 推动吉中永久睦邻友好合作迈上新台阶（国际论坛）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184341.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 推动吉中永久睦邻友好合作迈上新台阶（国际论坛） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							伊斯梅尔·达伊罗夫&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/783624ab-b52b-4d2a-b671-a2f10593883c.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　吉中保持长期稳定的睦邻友好关系，不仅符合两国人民根本利益，也有助于共同应对风险挑战、实现共同发展&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　中国古语有云：“远亲不如近邻。”吉尔吉斯斯坦和中国是山水相连的友好邻邦，两国人民拥有悠久的睦邻友好与合作传统。当前，国际形势变乱交织，全球治理体系正经历深刻调整。世界大变局下，邻国之间更需要增进互信、加强合作。不久前，习近平主席对吉尔吉斯斯坦进行国事访问期间，两国元首共同签署《中华人民共和国和吉尔吉斯共和国永久睦邻友好合作条约》，以法律形式巩固双方世代友好的理念。吉中保持长期稳定的睦邻友好关系，不仅符合两国人民根本利益，也有助于共同应对风险挑战、实现共同发展。&lt;/p&gt;&lt;p&gt;　　永久睦邻友好需要坚实的务实合作基础。经贸合作和互联互通是吉中合作的重要组成部分。当前，中吉乌铁路项目加速推进，将进一步释放吉尔吉斯斯坦过境运输潜力，改善区域互联互通条件，为吉经济社会发展创造更多机遇。两国能源合作同样具有广阔前景。作为长期从事生态和气候问题研究的学者，我高度重视中国提出的生态文明建设理念，长期关注中国在生态环境保护、绿色发展、气候治理等领域积累的理念、原则和实践。生态环境挑战没有国界，任何国家都无法独自应对。吉尔吉斯斯坦自然资源丰富，在水电、太阳能、风能等清洁能源领域拥有较大发展潜力。通过绿色合作借鉴运用中国生态文明建设理念和实践经验，将有力赋能吉尔吉斯斯坦绿色低碳转型与可持续发展。&lt;/p&gt;&lt;p&gt;　　推动吉中合作进一步提质升级，应继续加强发展战略对接和治国理政经验交流。中国发展的一个重要启示，是高度重视长期战略规划，将长远发展目标同阶段性任务和具体实际紧密结合，并注重发挥基础设施对经济发展的支撑作用，通过交通、能源、水利、产业和数字基础设施相互衔接，为产业发展创造条件。吉尔吉斯斯坦和中国发展阶段不同，借鉴中国式现代化经验要立足吉尔吉斯斯坦自身国情、资源禀赋和发展条件。通过常态化开展治国理政经验交流，围绕战略规划、发展项目实施、项目绩效评估、人才培养以及数字政府建设等领域深化沟通协作，能够推动两国合作从项目建设升级为发展理念、治理经验和战略规划层面的长期交流，更好实现两国发展战略对接。&lt;/p&gt;&lt;p&gt;　　从地区发展大局看，吉中深化睦邻友好与务实合作，将为地区乃至世界和平与发展注入动力。作为上海合作组织创始成员国，两国继续扩大执法安全合作，携手打击“三股势力”、贩毒及跨国犯罪，有助于维护地区和平稳定。吉尔吉斯斯坦历史性当选联合国安理会非常任理事国，为两国深化多边协作、携手捍卫国际公平正义提供了重要契机。双方坚定维护以联合国为核心的国际体系和以国际法为基础的国际秩序，践行人类命运共同体理念，落实四大全球倡议，旗帜鲜明反对霸权主义、单边主义和阵营对抗，推动构建更加公正合理的全球治理体系。&lt;/p&gt;&lt;p&gt;　　永久睦邻友好关系，既需要通过务实合作不断充实内涵，更需要一代又一代人共同维护。以签署永久睦邻友好合作条约为新起点，吉中两国将持续巩固政治互信，加强发展战略对接和治国理政经验交流，拓展绿色发展、互联互通、产业、教育等领域务实合作，为两国人民带来更多实实在在的发展机遇。&lt;/p&gt;&lt;p&gt;　　（作者为吉尔吉斯斯坦《旗帜报》评论员）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;伊斯梅尔·达伊罗夫&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184341&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184341.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184341.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 推动吉中永久睦邻友好合作迈上新台阶（国际论坛） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184341.html#[03版：要闻] 推动吉中永久睦邻友好合作迈上新台阶（国际论坛）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “有力推动国际关系民主化”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184342.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “有力推动国际关系民主化” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——访阿联酋趋势研究中心主任阿里 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  张志文&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/4c3f26d0-a7fb-4ccb-840a-d9d5d74f284b.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　“金砖合作建立在平等协商和尊重多样性的基础之上，有助于将新兴经济体和发展中国家日益增长的影响力转化为切实可行的方案，有力推动国际关系民主化。”阿联酋趋势研究中心主任穆罕默德·阿里日前在接受本报记者专访时表示，面对日益复杂的国际环境，坚持弘扬开放包容、合作共赢的金砖精神，共同捍卫多边主义尤为重要。&lt;/p&gt;&lt;p&gt;　　阿里认为，金砖国家稳步推进扩员进程，加强“大金砖合作”，反映了当今国际关系的结构性转变，体现出全球南方在全球治理和国际事务中增强话语权的诉求。不断壮大的金砖合作联结起全球主要市场、能源产销国、金融中心、工业强国以及技术生态系统，为促进全球贸易投资、基础设施建设、维护粮食和能源安全、推动数字化转型和气候行动搭建了广阔平台。&lt;/p&gt;&lt;p&gt;　　“中国是金砖合作机制的主要推动力量。”阿里表示，中国始终支持赋予新兴经济体和发展中国家更大的话语权，推动创建新开发银行，推动建立新工业革命伙伴关系，首倡“金砖+”合作模式，促进金砖国家与新兴经济体对话，将金砖合作范围拓展至全球南方。“中方提出建设‘和平金砖’‘创新金砖’‘绿色金砖’‘公正金砖’‘人文金砖’，拓展了金砖合作的深度与广度，为‘大金砖合作’擘画蓝图，进一步凝聚起全球南方的共同价值。”阿里说。&lt;/p&gt;&lt;p&gt;　　2024年1月1日，阿联酋成为金砖国家正式成员。阿里认为，金砖合作机制推动新兴经济体和发展中国家加强在气候融资、能源转型、贸易和全球治理改革等方面的合作。“作为负责任的能源生产国，阿联酋可以通过可靠的能源供应为维护市场稳定贡献力量，同时凭借在绿色发展领域的丰富经验，支持全球南方积极探索维护能源安全和推动绿色发展的新路径。”阿里表示。&lt;/p&gt;&lt;p&gt;　　“近年来，阿中政治互信不断加深，务实合作稳步推进，两国在联合国、金砖合作机制等多边平台增进协调合作，有助于推进全球治理改革、实现可持续发展。”阿里表示，明年中国将接任金砖主席国，期待阿中携手在清洁能源转型、人工智能治理、数字贸易创新发展等新领域加强合作，以实际行动丰富“大金砖合作”内涵，进一步彰显金砖国家引领全球包容性发展的决心和力量。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  张志文&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——访阿联酋趋势研究中心主任阿里 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184342&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184342.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184342.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “有力推动国际关系民主化” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184342.html#[03版：要闻] “有力推动国际关系民主化”</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 人权理事会通过“无障碍建设促进所有人享有人权”决议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184343.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 人权理事会通过“无障碍建设促进所有人享有人权”决议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报柏林10月6日电  （记者刘赫）日内瓦消息：联合国人权理事会第六十三届会议5日协商一致通过中国代表47国提出的“无障碍建设促进所有人享有人权”决议。&lt;/p&gt;&lt;p&gt;　　中国常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德在介绍决议草案时表示，无障碍环境建设为各类群体平等便捷参与社会生活、充分实现各项人权提供重要保障。本次决议草案着眼人口老龄化，致力于推动无障碍和适老化建设；聚焦人工智能等新兴技术带来的机遇和挑战，呼吁各国在新兴数字技术开发使用中，坚持创新、包容、开放、公平、安全、可靠等原则，促进无障碍信息交流。&lt;/p&gt;&lt;p&gt;　　各方认为，决议促进相关领域国际合作，符合发展中国家需要。决议通过后，联合国人权高专办及多国向中方表示祝贺。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184343&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184343.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184343.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 人权理事会通过“无障碍建设促进所有人享有人权”决议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184343.html#[03版：要闻] 人权理事会通过“无障碍建设促进所有人享有人权”决议</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184344.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/c406d78a-ac56-43f8-a537-105ed2fe73fb.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　中国国庆假期，意大利罗马迎来大批中国游客。图为十月四日，中国游客在一处观景平台与罗马斗兽场合影。&lt;/p&gt;&lt;p&gt;　　新华社记者  李  京摄 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184344&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184344.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184344.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184344.html#[03版：要闻] 图片报道</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “为喀麦隆发展注入人才动能”（共创繁荣发展新时代）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184345.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “为喀麦隆发展注入人才动能”（共创繁荣发展新时代） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  郑  翔&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　日前，中交一公局集团“海鸥人才工程”首期测量员培训班在喀麦隆首都雅温得举行结业仪式。在为期10天的培训中，54名当地学员参加了测量理论、仪器操作、无人机测量、施工安全及基础工程中文等课程。参训学员表示，此次培训精准对接当地基建领域实际需求，既补齐了他们工程测量方面的技术短板，也提升了中文跨场景沟通能力，收获颇多。&lt;/p&gt;&lt;p&gt;　　“为期10天的培训紧凑高效，对测量工作而言，短期集训既是挑战，更是鼓励我们专注投入的动力。”学员普林斯是中交一公局集团的员工。他说，希望以此次培训为起点，努力成长为一名合格的测量员。&lt;/p&gt;&lt;p&gt;　　“这次培训让我对测量行业有了全新的认识。”学员阿贡博是喀麦隆国立高等公共工程学院测量专业的学生，他说，此次培训让他深入了解了各类测量仪器的适用场景：无人机可在人员难以抵达的区域开展测量，全站仪则能在卫星信号缺失的环境下发挥优势……“期待更多像我一样的年轻人能从中受益”。&lt;/p&gt;&lt;p&gt;　　中交一公局集团中非区域中心负责人吴佳顺介绍，此次培训是“海鸥人才工程”在喀麦隆落地实施的首个项目，创新推行“10%理论教学、20%专家指导、70%现场实践”的培训体系。培训结束后，学员将按照统一职业技能标准参加理论与实操联合考核，合格者可获得喀麦隆高等教育部、中交一公局集团和中国公路学会三方联合认证的职业技能证书。集团还将逐步开展其他工种的后续技能培训，不断扩大项目覆盖范围。&lt;/p&gt;&lt;p&gt;　　喀麦隆国立高等公共工程学院校长恩肯·乔治·埃兰博表示，培训班是校企政多方协同开展职业教育合作的成果，实现了院校理论教学与工程现场实操的有机结合，“希望学员们把所学知识运用到工程实践当中，为喀麦隆发展注入人才动能”。&lt;/p&gt;&lt;p&gt;　　“中方此类人才培养项目将有力促进喀麦隆相关领域专业技能培养，与当地推动职业教育、提升青年就业能力的发展方向高度契合。”喀麦隆高等教育国务部长雅克·法姆·恩东戈表示，中国企业不仅帮助喀麦隆建设基础设施，还支持喀麦隆培养高水平工程技术人才，喀中合作将助力喀方逐步实现基础设施建设领域技术自主。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  郑  翔&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184345&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184345.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184345.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “为喀麦隆发展注入人才动能”（共创繁荣发展新时代） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184345.html#[03版：要闻] “为喀麦隆发展注入人才动能”（共创繁荣发展新时代）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 成都强化校地合作提升科创动能（“十五五”开好局起好步）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184346.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 成都强化校地合作提升科创动能（“十五五”开好局起好步） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  张  帆  王明峰  游  仪&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　四川成都，天府锦城实验室。冷冻电镜下，生物大分子结构轮廓纤毫毕现。&lt;/p&gt;&lt;p&gt;　　“早些年做这样的冷冻电镜实验得排长队，拿着样本去省外借仪器。”实验室冷冻电镜平台科学家邵振华回忆，当时设备稀缺，时间紧张，出一趟差往往只够跑几组数据。&lt;/p&gt;&lt;p&gt;　　如今，校地合作、协同发力——成都市与四川大学共建天府锦城实验室，围绕恶性肿瘤、心脑血管与代谢等方向开展研究。“实验室已建成中西部地区规模最大、设备最先进、开放共享的冷冻电镜平台之一，科研效率大幅提升。”邵振华说，“我们将以习近平总书记给四川大学全体师生重要回信精神为指引，发挥文理工医交叉融合优势，努力在服务新时代国家战略中当先锋作表率。”&lt;/p&gt;&lt;p&gt;　　今年7月，习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上发表重要讲话强调：“增强科技创新体系化攻关能力”。2023年7月，习近平总书记在四川考察时指出：“四川要发挥高校和科研机构众多、创新人才集聚的优势和产业体系较为完善、产业基础雄厚的优势，在科技创新和科技成果转化上同时发力。”“十五五”规划纲要提出，“全面增强自主创新能力，抢占科技发展制高点，推动科技创新和产业创新深度融合”。&lt;/p&gt;&lt;p&gt;　　成都拥有66所高等院校、161家国家级科技创新平台，科创资源丰富。深入贯彻落实习近平总书记重要指示精神，成都市强化校地合作，畅通科技成果转化通道，提升科技创新动能。&lt;/p&gt;&lt;p&gt;　　加强基础研究和有组织科研攻关——&lt;/p&gt;&lt;p&gt;　　今年5月，我国首台准环对称仿星器研发取得突破，首次获得超高精度准环对称磁场位形。“该装置有助于提升我国在受控核聚变领域的原始创新能力。”西南交通大学聚变科学研究所所长许宇鸿说。&lt;/p&gt;&lt;p&gt;　　2022年，在四川省、成都市和四川天府新区相关部门支持下，西南交通大学准环对称仿星器项目正式立项。校地双方联合成立工作专班，打破传统学科壁垒与行政边界，多学科交叉、多单位协同、全链条衔接，推动前沿探索与工程实现紧密耦合。&lt;/p&gt;&lt;p&gt;　　近年来，成都携手四川大学等高校，重组11家全国重点实验室、共建4个方向天府实验室，承接国家级和省级科研项目800余项，引聚人才1500余人，并依托相关高校优势学科领域，建设跨尺度矢量光场等10个重大科技基础设施，有组织科研攻关成效显著。&lt;/p&gt;&lt;p&gt;　　加快推进科技成果转化——&lt;/p&gt;&lt;p&gt;　　毕业于清华大学的潘思铭，曾在国外工作，归国后来到成都，在清华四川能源互联网研究院支持下进行科技成果转化。他创办的四川易冲科技有限公司，已成长为一家颇具潜力的科创企业。&lt;/p&gt;&lt;p&gt;　　“清华大学提供顶尖团队与前沿技术，成都市科技局和四川天府新区提供政策支持、资金保障与应用场景，共同推动科技成果落地。”研究院科技创新部主任吕岚春说。&lt;/p&gt;&lt;p&gt;　　成都郫都区，西南交通大学郫都先进制造科创园，多家企业排队等待入驻。“我们看中的是校企协同创新生态。”入驻企业成都触立科技有限公司负责人张家玮说，企业刚需与创新资源精准匹配，产品性能得到提升。&lt;/p&gt;&lt;p&gt;　　近年来，成都着力构建校院企地“事业合伙人”模式。“政府提供载体和政策、高校院所输出项目和人才、企业提出需求和场景，共享科技成果转化收益。”成都市科技局副局长陈旭介绍，成都已与50余所高校院所开展合作，共建校地合作新型研发机构20家，加快推动科技成果转化。&lt;/p&gt;&lt;p&gt;　　带动片区高质量发展——&lt;/p&gt;&lt;p&gt;　　不装电池、不接电线，小小的智能测温垫片和螺帽，能在极端环境下稳定工作。纵激元（成都）科技有限公司创始人、电子科技大学副教授补世荣说，该产品靠空气中的电磁场供电，已应用于发电、输配电、交通等领域。&lt;/p&gt;&lt;p&gt;　　纵激元公司由成都温江区电子科大科创谷孵化。成都电子科大资产经营有限公司董事长郝钦伟介绍，电子科大科创谷园区由电子科技大学与温江区合作共建，重点发展医工交叉、信息通信等产业，集聚重点企业365家，培育专精特新中小企业14家、国家高新技术企业47家。&lt;/p&gt;&lt;p&gt;　　成都以产业为牵引，建设“研发+转化+孵化”集中承载区。市区两级携手4个国家大学科技园，采取“一校多区”方式建设20个分园区，带动域内高校参与建设孵化器55家。目前，成都累计推动高校院所就地孵化科技型企业超600家。&lt;/p&gt;&lt;p&gt;　　成都正持续推动科技创新与产业创新深度融合。下一步，将强化有组织的创新、有体系的撮合、有质效的转化，着力打通基础研究、应用开发和成果转化之间的衔接堵点，加快释放科技成果的现实生产力。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  张  帆  王明峰  游  仪&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184346&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184346.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184346.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 成都强化校地合作提升科创动能（“十五五”开好局起好步） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184346.html#[03版：要闻] 成都强化校地合作提升科创动能（“十五五”开好局起好步）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 一座光伏电站见证中哥绿色合作</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184347.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一座光伏电站见证中哥绿色合作 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  程是颉&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　清晨，阳光洒在一排排光伏板上，哥伦比亚电气工程师海梅·蒙塔尼奥来到光伏电站，开始一天的工作：检查逆变设备、查看运行数据、排查设备异常。两年多前，他对光伏电站还很陌生。如今，他已经能够独立完成多项运维工作。“中国同事教会我许多。”蒙塔尼奥说。&lt;/p&gt;&lt;p&gt;　　不久前，蒙塔尼奥参与建设和运维的帕尔米拉3号光伏电站正式完成移交。该电站位于哥伦比亚西部考卡山谷省帕尔米拉市，距离该省首府卡利约27公里。由中国电力建设集团有限公司承担电站设计、设备供货、施工安装和调试工作，是其在哥伦比亚完工的首个光伏电站项目。截至最终移交，电站已累计输送绿色电力约4000万千瓦时，相当于当地约1万户家庭两年的用电量，累计减少二氧化碳排放约2万吨。&lt;/p&gt;&lt;p&gt;　　近年来，哥伦比亚积极推动能源结构转型，光伏等可再生能源发展明显加快。帕尔米拉3号光伏电站的建设运行，成为中哥两国企业携手推进绿色发展的缩影。哥伦比亚矿业和能源部前部长埃德温·帕尔马表示，能源转型是哥中合作的重要领域，两国绿色能源合作正由工程建设向人才培养、运行维护和本地供应链建设等领域不断延伸。&lt;/p&gt;&lt;p&gt;　　帕尔米拉3号光伏电站项目团队按照“优先招聘、重点培养、共同成长”的思路，积极吸纳当地管理人员、工程技术人员和施工人员，并通过师徒帮带、岗位培训和现场实操等方式，让当地员工在参与项目建设和运营的过程中积累经验。项目建设高峰期累计提供就业岗位约160个，其中属地员工占比超过97%。项目直接帮助当地超过100个家庭实现稳定就业，并为后续项目储备专业人才。&lt;/p&gt;&lt;p&gt;　　项目移交后，中哥两国员工将开展为期两年的共同运维。中方工程师将通过现场讲解、岗位培训和实操演练，帮助哥方员工逐步掌握光伏电站运行维护技能。项目团队同当地企业开展合作，协调当地工程企业参与设备安装调试，帮助哥方积累光伏电站的运维经验。项目团队还对接当地物流企业，提高设备运输环节协同度。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  程是颉&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184347&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184347.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184347.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一座光伏电站见证中哥绿色合作 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184347.html#[03版：要闻] 一座光伏电站见证中哥绿色合作</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：视觉] 致敬坚守岗位的劳动者</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184324.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 致敬坚守岗位的劳动者 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张武军&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　国庆假期，当人们享受团聚之乐、畅游大好河山之时，千千万万劳动者依然坚守在岗位上，用辛勤汗水为佳节增添别样光彩，以实际行动向祖国献上最美好的祝福。&lt;/p&gt;&lt;p&gt;　　他们拼搏在工程建设一线。塔吊林立、机械轰鸣，建设者们抢抓施工黄金期，争分夺秒、挥汗如雨，把蓝图一步步变为实景。他们以实干担当为重大工程按下“加速键”，在祖国大地镌刻下奋斗的印记。&lt;/p&gt;&lt;p&gt;　　他们坚守在安全保障一线。公安民警执勤在大街小巷，守护一方平安；景区工作人员细心检修设备，守护游客乐享假期；能源保供人员值守生产一线，保障万家灯火……他们以无私奉献，换来百姓的安宁祥和。&lt;/p&gt;&lt;p&gt;　　他们奔波在民生服务一线。外卖骑手忙于配送订单，文旅从业人员用微笑服务八方游客，环卫工人为城市环境用心“美容”……平凡岗位的默默奉献，让假期的欢乐更加舒心。&lt;/p&gt;&lt;p&gt;　　一个个坚守的身影，定格成假期美丽的风景。正是因为劳动者们舍小家、为大家，才有了节日的祥和、旅途的顺利、生活的便利。向每一位坚守岗位的劳动者致敬！ &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;张武军&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184324&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184324.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184324.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 致敬坚守岗位的劳动者 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184324.html#[04版：视觉] 致敬坚守岗位的劳动者</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：视觉] 坚守的身影  美丽的风景（新时代画卷）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184325.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 坚守的身影  美丽的风景（新时代画卷） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/58f37ed5-eeb6-4a44-a99b-420f35c882c2.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　建设一线&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　北京地铁12号线田村停车场综合利用项目施工现场，工人正在打磨器件。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  雷  声摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/58f37ed5-eeb6-4a44-a99b-420f35c882c2.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/ea9ecef6-c6fc-4584-8917-55417b6a0a6b.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　建设一线&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　江苏南京河海大学五期学生公寓建设项目现场，工人在加固脚手架。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　白光迪  张  梦摄影报道&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/ea9ecef6-c6fc-4584-8917-55417b6a0a6b.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/f91cbe5d-be81-479b-ad8e-0befa2c1e9fe.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　建设一线&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　河北雄安新区中国人民大学大中小学教育一体化综合改革示范基地项目，工人在绑扎钢筋。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　人民网记者  李兆民摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/f91cbe5d-be81-479b-ad8e-0befa2c1e9fe.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/e118015b-d476-4641-9035-24d877062b6c.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　建设一线&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　甘肃张掖盘道山抽水蓄能电站建设现场，建设者们在进行主厂房发电机机座钢筋骨架捆扎。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　王  将摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/e118015b-d476-4641-9035-24d877062b6c.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/85899c37-b9f0-46e4-8638-f48e165bea6f.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　安全保障&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　广西来宾金秀瑶族自治县大瑶山盘王界景区，工作人员在索道支架上检修设备。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　高如金摄（新华社发）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/85899c37-b9f0-46e4-8638-f48e165bea6f.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/b16cb5d7-48ea-4711-9e14-17418068a1d5.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　安全保障&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　四川乐山大佛景区，民警为游客答疑解惑。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　李华时摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/b16cb5d7-48ea-4711-9e14-17418068a1d5.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/fae9c115-92e0-4606-9d7a-2eba9d9b399d.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　安全保障&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　国网衢州供电公司员工在浙江龙游石窟景区对新能源汽车充电设施进行巡检。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　王  剑摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/fae9c115-92e0-4606-9d7a-2eba9d9b399d.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/6a666f99-fb15-4aeb-a064-376322bf3093.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　民生服务&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　在K8008次“红旗渠号”列车上，列车长正在与小旅客互动。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　王  玮摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/6a666f99-fb15-4aeb-a064-376322bf3093.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/bcd946fd-3cf3-4568-803e-5a675ac6498f.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　民生服务&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　江西赣州市章贡区，外卖小哥在雨中配送外卖订单。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　胡江涛摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/bcd946fd-3cf3-4568-803e-5a675ac6498f.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/0d052b42-add4-45b7-854e-5dc5f364acad.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　民生服务&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　环卫工人在福建厦门环岛路沿线沙滩清理海漂垃圾。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　丰晓飞摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/0d052b42-add4-45b7-854e-5dc5f364acad.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/f3b207f1-656b-46cb-9e14-b9488f6e445c.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　民生服务&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　山东枣庄铁道游击队纪念公园内，工作人员（左一）为游客提供咨询服务。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　孙中喆摄（新华社发）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/f3b207f1-656b-46cb-9e14-b9488f6e445c.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184325&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184325.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184325.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 坚守的身影  美丽的风景（新时代画卷） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184325.html#[04版：视觉] 坚守的身影  美丽的风景（新时代画卷）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：视觉] 本版责编：张武军</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184326.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：张武军 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：张芳曼 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184326&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184326.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184326.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：张武军 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184326.html#[04版：视觉] 本版责编：张武军</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：人文] 遗址可观  文明可感（文化中国行·人文观察）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184348.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 走进国家考古遗址公园 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 遗址可观  文明可感（文化中国行·人文观察） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　河南仰韶村国家考古遗址公园俯瞰。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　贺晓鹏摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/95bb7f53-2770-44cb-b4e1-4217b6865eb4.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　湖北盘龙城遗址博物院外景。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  吴  君摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/5fdf7ea7-5751-4537-b3cc-360549b22f9f.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　工作人员在广东笔架山潮州窑遗址考古发掘。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　李  津摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/7e9ad9dc-a711-4e92-825d-4f72f6382f91.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　国家考古遗址公园是守护中华文明根脉、讲述中国故事的文化地标，也是公众触摸历史、感知文明的重要公共空间。日前，《国家文物事业发展“十五五”规划》明确将规范管理、提质增效作为遗址公园发展的方向，提出到2030年国家考古遗址公园数量从65处增至70处。这意味着遗址公园建设正从规模扩展迈向质量提升的新阶段。&lt;/p&gt;&lt;p&gt;　　本期聚焦国家考古遗址公园建设发展，探讨如何做好保护传承利用，让遗址保护成果惠及更多人民群众。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　河南仰韶村遗址&lt;/p&gt;&lt;p&gt;　　彩陶传文脉&lt;/p&gt;&lt;p&gt;　　本报记者  赵帅杰&lt;/p&gt;&lt;p&gt;　　出河南三门峡渑池县县城，向北行驶约6公里，连绵韶山下，仰韶村国家考古遗址公园静静伫立。村因山得名，园依村而建，村园相融，考古遗址嵌于其中，一派和谐自然风光。&lt;/p&gt;&lt;p&gt;　　1921年10月，仰韶村遗址的首次发掘，揭开了中国现代考古学的序幕，以仰韶村遗址为代表的仰韶文化，成为我国第一个考古学文化。“2021年，在仰韶文化发现100周年之际，仰韶村国家考古遗址公园正式建成开放，将仰韶文化博物馆、发掘纪念点、文化层断面等景观串点成线。”渑池县文化广电和旅游局局长赵玉红说。&lt;/p&gt;&lt;p&gt;　　步入公园，沿着陶色铺装的路面前行，道路两侧，低矮的龙柏经过精心修剪，勾勒出花瓣纹、网格纹、月牙纹等经典彩陶纹样；复原的半地穴式房屋、陶窑再现先民生产生活图景；各类彩陶雕塑吸引游客打卡拍照……&lt;/p&gt;&lt;p&gt;　　在仰韶村遗址首次发掘纪念点，一组雕塑栩栩如生：村民手持铁铲和竹篮，埋头取土，一旁，地质学家正在认真画图，记录发掘情况。“纪念点按照当年标注的坐标位置确定，雕塑也以资料照片为原型，复刻105年前安特生、袁复礼等主持并参与现场发掘的景象。”赵玉红说。&lt;/p&gt;&lt;p&gt;　　仰韶村遗址前后共经历4次发掘。前三次纪念点的场景雕塑，都以历史资料为依据，以每一次发掘的参加者、出土文物为主体，一处一样式，一点一风格。“穿行园中，一步一景，仰韶文化触手可及，真是‘一地六千岁，一眼看百年’。”来自陕西西安的游客李丽赞叹。&lt;/p&gt;&lt;p&gt;　　“最近一次考古发掘，从2020年8月持续到2021年底。”河南省文物考古研究院文明探源研究中心主任、仰韶村遗址第四次考古发掘现场负责人李世伟介绍，此次新发现4条人工壕沟遗迹、1座大型房屋建筑遗址，以及玉钺、玉环和象牙制品等，对研究先民的聚落形态、社会组织、文明程度提供了重要的史料参考。&lt;/p&gt;&lt;p&gt;　　2024年，研究团队成功完成“仰韶人”“龙山人”的面貌复原。“联合高校和公安部门，我们还陆续完成8例人骨遗存的DNA提取测序，研究结果显示，仰韶村遗址仰韶文化与龙山文化相关人群之间具有高度的遗传连续性，并对中华民族的形成有着重要的遗传贡献。”李世伟说。&lt;/p&gt;&lt;p&gt;　　站在远处望去，仰韶村遗址依山就势，矗立在一片中间高两边低的“鱼脊”状土台上。如今，漫步公园，不时可见保存完好的文化层断面，游客可以直观感受不同时期的文化层及各类遗迹遗存。&lt;/p&gt;&lt;p&gt;　　“瞧！土壤颜色不同，文化层也不一样。”指着一处断面，仰韶村国家考古遗址公园管理中心主任、仰韶文化博物馆馆长方丰章伸着指头细数，“最底下的是生土，往上依次是仰韶时期文化层、龙山时期文化层，最高处是耕土层，共叠了四层。”随即，他话锋一转，“土遗址保护是一项世界性难题，面临自然风化、人为破坏等多重挑战。”&lt;/p&gt;&lt;p&gt;　　“对此，我们在建设时就尽量维持地形原貌，不搞大拆大建，断面前方还设置围栏；这些年，又种植根系发达、枝叶下垂的迎春花，给土遗址披上‘生物铠甲’，减缓风蚀和雨水冲刷。”方丰章说，下一步，还将推进智慧管护体系建设，对文化层温湿度、边坡稳定性开展动态监测，实现预防性保护。&lt;/p&gt;&lt;p&gt;　　行至遗址公园北端，一座宏伟的陶土色建筑拔地而起，仰韶文化博物馆到了。走进馆内，800余件文物、上千幅图像资料，诉说着仰韶文化的悠久灿烂。最令观众称奇的是球幕影院，置身其中，立体声环绕，6000多年前先民农耕劳作、烧制彩陶的场景跃然眼前。&lt;/p&gt;&lt;p&gt;　　“今年上新的球幕影院是博物馆数字化展陈体系的重要组成部分，与裸眼3D、全息投影、空气成像、VR（虚拟现实）场景再现等数字展陈项目一道，营造沉浸式的游览体验，打破传统文物静态陈列的局限，让仰韶文化更加可观可感。”方丰章说。&lt;/p&gt;&lt;p&gt;　　紧邻博物馆的文创商店里，各类陶器、茶具、胸针、帆布包、冰箱贴惹人喜爱。“我们遍访大中小博物馆，收集仰韶村、西安半坡、甘肃马家窑等遗址的彩陶资料，1∶1复刻后进行集中展示，并以陶器和纹饰为原型，开发出上百种文创产品，去年整体营收超过600万元。”文创商店负责人王新军介绍。&lt;/p&gt;&lt;p&gt;　　“小口尖底瓶是仰韶文化最具代表性的陶制容器之一，部分器物长度超过1米，厚度仅约5毫米，重量不足6斤，充分体现了先民的高超技艺和智慧。”三门峡市级非遗项目仰韶彩陶制作工艺代表性传承人刘新安，深耕彩陶制作近40年，最近，他正钻研用柴烧的方式复刻先民器物，“将来开办研学营地，把优秀传统文化传承下去。”&lt;/p&gt;&lt;p&gt;　　数据显示，近3年，遗址公园年均游客接待量突破30万人次。“随着遗址游的发展，村里开办民宿、农家乐，带动村集体经济收入提高15%以上，不少村民端起‘生态碗’、吃上‘旅游饭’，实现就近就地务工。”仰韶村党支部书记张永峰说。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　湖北盘龙城遗址&lt;/p&gt;&lt;p&gt;　　商邑耀南土&lt;/p&gt;&lt;p&gt;　　本报记者  吴  君&lt;/p&gt;&lt;p&gt;　　入秋，走进湖北省武汉市盘龙城国家考古遗址公园，只见芳草如茵、曲径通幽。沿着蜿蜒的生态步道一路前行，跨过数级台阶，便抵达了盘龙城城垣遗址核心区。&lt;/p&gt;&lt;p&gt;　　“与许多博物馆不同，盘龙城遗址的不少文物与遗迹采用露天展示的方式，让观众能更直观地触摸历史。”武汉盘龙城遗址博物院讲解员邱宸荟边走边介绍，这座距今3500多年的古城，是商代早期南方的政治、军事中心城邑。&lt;/p&gt;&lt;p&gt;　　武汉盘龙城遗址的发现，源于一次意外。1954年，武汉遭遇了一场特大洪水，洪水将遗址埋藏的陶器碎片冲刷出来，被武汉市文物管理委员会秘书蓝蔚和同事游绍奇发现。就这样，这座埋藏了千年的古城重现天日。&lt;/p&gt;&lt;p&gt;　　“此后，湖北省文物考古工作队、北京大学、武汉大学等考古专家接力深耕70多年，在遗址陆续发掘出青铜器、玉器、陶器等文物3000多件，为探寻长江流域早期文明点亮了关键坐标。”邱宸荟介绍。&lt;/p&gt;&lt;p&gt;　　走进盘龙城城垣遗址核心区，夯土城墙的轮廓在草木间清晰可辨，层层叠压的土层如同翻开的史书。城垣里，错落分布着3座宫殿基址，宫殿柱洞与夯土台基的痕迹清晰可寻。“考古发掘之后，宫殿遗址均采取原址回填保护的方式，让宫殿能更真实地保留原始形制，呈现历史沧桑感。”邱宸荟说。&lt;/p&gt;&lt;p&gt;　　由于南方雨水较多，加上修复技术和材料不够发达，早些年复原的宫殿一点点被侵蚀。“曾经，一场大暴雨过后，宫殿区复原的墙体基本被冲垮了，基址也塌了。”盘龙城遗址保护研究部主任廖航坦言。&lt;/p&gt;&lt;p&gt;　　盘龙城是一座露天遗址，要了解它的千年文脉，必须近距离感受，露天展示是最好的选择。为了与日光和风雨抗衡，破解土遗址保护与展示的平衡难题，专家研发出了一种具有优异耐腐蚀性和耐候性的玻璃纤维增强改土性。&lt;/p&gt;&lt;p&gt;　　“我们按照考古资料，利用3D打印技术精准复原建筑骨架，再请非遗传承人利用泥塑工艺筑墙，将宫殿的营造技艺与历史风貌有机融合，最终展示出一号宫殿木骨泥墙、夯土筑造等建筑工艺细节。”廖航说，新材料铸造的“泥墙”“木柱”形神兼备，看似斑驳破旧、饱含岁月沧桑，实则坚固持久。&lt;/p&gt;&lt;p&gt;　　宫殿遗址不远处，便是盘龙城遗址李家嘴墓葬展示区。透过防护玻璃，2号墓葬内的棺椁痕迹与随葬器物清晰可见。“里面的布局，基本保留了发掘时的原始状态。”廖航坦言，这里的墓葬地势低于周边水平面，雨季时雨水极易积聚倒灌。“如果不做好排水，墓葬本体就会被淹没；但排水设施直接外露，又会破坏遗址的历史风貌与展示效果。”&lt;/p&gt;&lt;p&gt;　　为兼顾文物保护与参观体验，修复团队始终恪守“最小干预”原则。“施工前，我们就将排水管道预埋在墓葬底部，从源头上实现了排水设施的‘隐形化’。”廖航介绍，除地下隐蔽排水外，玻璃展罩内还配备了智能除湿设备，仅需运行15分钟，就可高效排出墓室内部积聚的水汽，形成“地下导排+地上除湿”的双重防护体系，既避免了外露设施对历史风貌的干扰，又为墓葬本体营造了稳定适宜的保存环境。&lt;/p&gt;&lt;p&gt;　　细细端详墓葬，一个独特现象引人深思：部分随葬品完好如初，另一些却破损不堪。“这并非自然损毁，而是商周时期一种特殊的丧葬习俗——‘碎器葬’，即有意将青铜器、玉器等随葬品打碎后埋葬。”廖航介绍，为真实还原这一历史场景，修复团队特意保留了文物的破损状态，这种尊重原始信息的修复方式被称为“组合式修复法”。&lt;/p&gt;&lt;p&gt;　　那么，如何精准区分文物是下葬时人为打碎，还是埋藏后因地质运动、土壤腐蚀等自然因素破坏？廖航解释，考古人员会通过多维度分析进行判断，如果碎片断口锋利，且能严密拼合，多为下葬时人为击碎；如果断口圆钝、表面附着钙质结核或锈蚀层，碎片散落无序、无法完整拼接，则更可能是长期埋藏中受外力挤压或化学侵蚀所致。&lt;/p&gt;&lt;p&gt;　　在盘龙城遗址修复过程中，部分面貌难以通过实物复原，保护团队就创新引入数字建模、三维重建等前沿技术，打造了“数字盘龙城”沉浸式体验项目。&lt;/p&gt;&lt;p&gt;　　2019年元旦，盘龙城遗址博物院正式建成开放，为可移动文物的保护与展示搭建起全新平台。&lt;/p&gt;&lt;p&gt;　　“我们立足遗址自身特色，将博物馆划分为‘浪淘千古’‘故邑风物’‘角立南土’三大展区，系统呈现了盘龙城的考古历程、历史脉络，以及其在夏商时期的核心地位和对后世文明的深远影响。”廖航介绍，博物院还精心设计了文创玩偶、趣味游戏、互动装置等多元体验载体，让观众在沉浸式参与中读懂文物的历史密码。&lt;/p&gt;&lt;p&gt;　　如今，每逢周末与节假日，盘龙城遗址公园和博物院都会迎来络绎不绝的游客。暑假期间，一批批“小小讲解员”在这里上岗，用稚嫩又坚定的声音，为游客讲述这座古城的故事。2026年文化和自然遗产日主场城市活动还在此举办，进一步推高了社会对盘龙城遗址的关注度。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　广东笔架山潮州窑遗址&lt;/p&gt;&lt;p&gt;　　窑火映古今&lt;/p&gt;&lt;p&gt;　　本报记者  李  纵&lt;/p&gt;&lt;p&gt;　　“潮州是国家历史文化名城，其独特的地理位置和丰富的自然资源孕育了灿烂的古代文明。笔架山潮州窑遗址作为潮州陶瓷文化的重要载体，见证了古代潮州陶瓷业的繁荣与发展。”在广东笔架山潮州窑遗址开设的考古课堂上，潮州市博物馆（潮州市粤东考古中心）考古调查部负责人郑佩娜正在为中山大学研学团队介绍遗址情况。&lt;/p&gt;&lt;p&gt;　　笔架山潮州窑遗址位于广东潮州韩江东岸，笔架山西麓，北起虎头山，南至印子山，绵延2公里，是广东省发现规模最大、保存相对完好的宋代窑址，2001年被国务院公布为全国重点文物保护单位。窑场鼎盛于北宋，曾是宋代海上丝绸之路的重要生产基地，其生产的青白瓷远销朝鲜半岛、东南亚、中东等地，是北宋时期大规模烧制瓷器的窑场，被誉为“宋广东陶瓷之都”。&lt;/p&gt;&lt;p&gt;　　拿好手铲、刮铲等工具，戴上遮阳帽和手套，郑佩娜来到考古发掘项目现场。“自上世纪50年代以来，省、市文物部门联合清理发掘了13座龙窑，成果丰硕。近年来，广东省文物考古研究院、潮州市粤东考古中心连续多年开展考古工作，接连取得重要突破。”郑佩娜说。&lt;/p&gt;&lt;p&gt;　　2016年至2018年，省市考古文物部门两次对笔架山潮州窑遗址韩江东岸江滩区域进行考古调查勘探；2020年在十号窑周边考古调查中发现了窑炉、建筑基址和重要瓷器文物线索；2022年发现龙窑遗迹1段，使得完整的十号窑长度近百米，成为广东省内发现最长的宋代龙窑；2023年发现6处建筑遗迹，判断为窑业作坊相关遗迹，弥补了过去几十年笔架山潮州窑遗址考古工作在宋代建筑遗存方面的缺憾；2024年发掘揭露了十二号窑，首次发现釉料坑等功能明确的附属设施，丰富了笔架山潮州窑遗迹类型。&lt;/p&gt;&lt;p&gt;　　这些成果来之不易。“田野考古是考验脑力、体力和耐力的工作。要适应长时间步行、攀登、下蹲等作业姿势，有时需要低伏跪卧在发掘地面进行刮面、找边、清理等细致工作。在发掘过程中，要严格遵循田野考古工作规程，仔细记录发现的每一处遗迹现象，运用地层学、类型学、年代学等科学方法，对出土遗物和遗迹进行细致入微的观察和分析。面对扰乱严重和堆积复杂的文化层，时常出现一些难以辨认的遗迹现象需要严密思考和仔细清理解决。”考古调查部工作人员郗悦说。&lt;/p&gt;&lt;p&gt;　　“这些考古发掘取得的新突破，是研究潮州笔架山窑窑炉技术发展沿革、复原笔架山窑窑业系统历史面貌的珍贵资料，也是开展保护工作的重要依据。”潮州市博物馆馆长余小洁说。&lt;/p&gt;&lt;p&gt;　　考古成果不应锁在库房里。如何让公众走近考古、了解历史？&lt;/p&gt;&lt;p&gt;　　“我们充分利用遗址现有条件，以‘边发掘、边保护、边建设、边展示’的形式进行活化利用。举办‘考古探龙窑’等公众考古研学营，让青少年亲身体验考古现场；联合潮州各县区院校和文化场馆，让考古走进校园、社区和场馆。”余小洁说。&lt;/p&gt;&lt;p&gt;　　为提升遗址的展示条件，潮州市粤东考古中心搭建了“唐风宋韵，穿越千年——潮州窑古陶瓷展”，作为遗址日常行业交流学习和开展宣教活动的窗口。展览分“千年窑火”“百窑村落”“万里远航”3个单元，讲述潮州窑的悠久历史、宏大规模以及海上丝绸之路瓷器外销盛况，与考古现场相结合，彰显潮州深厚文化底蕴。&lt;/p&gt;&lt;p&gt;　　最具代表性的“考古探龙窑”主题活动则以实地参观、讲解科普以及考古模拟体验相结合的方式，让公众有机会走进田野考古现场，近距离接触文物，触摸历史。&lt;/p&gt;&lt;p&gt;　　在潮州中小学生的“考古探龙窑”研学活动中，考古调查部工作人员郑俊霞现场演示“手铲刮面、毛刷清土”的精细操作，揭开地层中埋藏的历史信息。同学们围拢在旁边，聆听最新发现的建筑基址、出土青白釉瓷器与酱釉瓷塑背后的故事，了解考古如何像拼图一样，将遗迹和器物逐步复原为古代潮州参与全球贸易的生动实证。&lt;/p&gt;&lt;p&gt;　　而在体验考古整理研究环节，文物修复师张浩以笔架山窑出土器物修复为示范，详解宋代瓷器修复流程，演示清理、拼合、补配、细节打磨等核心工序，揭秘模具制作、石膏调配等修复技术应用。&lt;/p&gt;&lt;p&gt;　　“此外我们还会有一些趣味活动，提高小朋友们的兴趣。”郑佩娜说。比如在“窑工寻瓷片”任务中，各小组领取任务卡，列队有序出发前往考古回填区，手持工具细致采集地表瓷片标本，合作完成瓷片分类、纹饰记录与年代推断；“窑火传密码”则以接力答题形式展开，问题涵盖潮州窑技术演变、典型器物辨析、外销瓷航线与本地民俗传说等诸多方面。挑战环节融入趣味竞赛，优胜小组可获得定制“小小考古家”纪念章，小朋友在游戏中深化团队协作与文化认知。&lt;/p&gt;&lt;p&gt;　　“通过这些研学活动，我在笔架山潮州窑遗址真切感受到潮州千年文脉厚重独特的魅力，也更理解、支持考古工作。”潮州市实验学校学生陈沐羲说。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 走进国家考古遗址公园 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184348&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184348.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184348.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 遗址可观  文明可感（文化中国行·人文观察） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184348.html#[05版：人文] 遗址可观  文明可感（文化中国行·人文观察）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：人文] 博物馆  以创新滋养精神家园（人文茶座）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184349.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 博物馆  以创新滋养精神家园（人文茶座） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							王  珏&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　每到假期，博物馆门前排起长队，门票“秒光”，展厅内人流如织，“博物馆热”的持续升温，彰显出大众日益旺盛的文化需求，也对公共文化服务提出了更高要求。&lt;/p&gt;&lt;p&gt;　　“一个博物馆就是一所大学校”，当逛博物馆成为一种生活方式，博物馆要在守正创新中提升管理、优化服务、拓展边界。&lt;/p&gt;&lt;p&gt;　　管理创新是优化资源配置、破解观展难题的重要抓手。随着文博走入大众生活，博物馆运营管理模式要适配旺盛的参观需求。以博物馆预约制为例，这项制度设立的初衷，是为实现客流有序分流，更好保障公众的参观体验。但在实际运行当中，固定时段集中放票、票量分配静态化等固化模式，再加上“黄牛”抢票的干扰，致使部分热门博物馆出现“一票难求”的现象。&lt;/p&gt;&lt;p&gt;　　化解预约难题，关键在于落实精细化管理，让公共资源分配更公平、更人性化。内蒙古博物院采取动态放票，离馆观众空出的名额实时释放，并优先为临近观众保留预约机会。不少博物馆优化预约制，推行动态放票、实时释票，盘活闲置预约名额，提升资源利用效率；同时依托文旅联动体系，以热门博物馆带动中小型特色场馆、小众专题场馆发展，通过联票联动、巡展互通、资源共享，科学分流场馆客流。此外，文博机构还需联动执法部门严厉打击“黄牛”倒票行为，维护正常票务秩序和观众合法权益。&lt;/p&gt;&lt;p&gt;　　服务创新是丰富体验场景、深耕文化价值的重要路径。当下大众逛博物馆，已不再满足于“走马观花”式的浅层参观，更追求沉浸式、互动式的文化体验。目前，不少场馆已通过推出特色展览、延长开放时间、优化参观动线、增加基础讲解等举措，如以“十器照千年”为主题，北京延庆博物馆打造24小时博物馆专题展，让观众可以全天观展。&lt;/p&gt;&lt;p&gt;　　不仅要“接得住”客流，更要“留得住”人心，博物馆可跳出单一展陈思维，推动文博与教育、文旅、科普深度融合，依托馆藏特色打造特色主题展览、公众科普活动、传统文化宣讲；立足全年龄段受众需求，分层打造定制化研学课程、主题文化沙龙、文物互动体验项目，让文物故事可看、可感、可体验；聚焦特殊群体需求，完善无障碍设施、暖心引导服务、便捷观展配套，彰显公共文化服务的温度。&lt;/p&gt;&lt;p&gt;　　数字创新是拓宽传播边界、延续文博热度的重要引擎。云端展厅、数字文物、线上直播等，打破了观展的时空限制，放大了文博的传播效能。以数字敦煌为代表的优质项目，通过全景复刻、细节解析、云端共享，让千年文脉跨越山海，为文博数字化发展提供了优秀范本。推动数字文博提质增效，需摒弃“重形式、轻内容”的粗放式建设，深耕内容创作、创新交互模式、深挖文化内涵；依托人工智能、虚拟现实等新技术，打造沉浸式数字展陈、文物动态解读、历史场景复原等优质内容；搭建系统化数字文物数据库，完善线上科普体系，创新年轻化传播语态，构建“线下深度体验、线上持续传播”的全方位文博传播格局。&lt;/p&gt;&lt;p&gt;　　推动博物馆高质量发展，需要长远的顶层设计，将博物馆的运营和服务，放到城市更新、文旅融合中统筹；也需要精微的细节革新，用友好的服务、贴心的活动，对大众热情进行真诚回应。唯有不断创新供给、优化服务，才能让这份宝贵的文化热度，持续温暖我们的精神家园。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;王  珏&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184349&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184349.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184349.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 博物馆  以创新滋养精神家园（人文茶座） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184349.html#[05版：人文] 博物馆  以创新滋养精神家园（人文茶座）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：人文] 本版责编：王  珏</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184350.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：王  珏 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：蔡华伟 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184350&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184350.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184350.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：王  珏 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184350.html#[05版：人文] 本版责编：王  珏</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 科研与科普在这里牵手（视线）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184351.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 云南把“看不见的科研”变成“摸得着的体验”—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 科研与科普在这里牵手（视线） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  杨文明&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　公众走进中国科学院昆明植物研究所。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　中国科学院昆明植物研究所供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/c37c3cf9-d030-4f8c-a64d-5fddce288046.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　中国科学院西双版纳热带植物园航拍。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　张钊海摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/c33ff090-3b2e-45fa-9b4a-bf8044c7f579.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　西双版纳热带花卉园内，小朋友们在参与研学活动。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　西双版纳热带花卉园供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/54628976-dd44-4139-9fdc-47a3634faee3.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　公众走进中国科学院昆明植物研究所。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　中国科学院昆明植物研究所供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/4ca782b1-8920-4ec4-833a-754031b20ed8.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　游客参加中国科学院西双版纳热带植物园的科普活动。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　刘冉阳摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/16f3cb97-546f-49ef-9049-f68679954906.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　游客参加中国科学院西双版纳热带植物园的科普活动。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　刘冉阳摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/b0e0e32a-4cbe-43d2-b0d7-9532e24ee2c5.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　游客参加中国科学院西双版纳热带植物园的科普活动。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　贾天勇摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/8464d752-5a3d-4eaf-bc7b-f234c5ab3fcc.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　中国科学院西双版纳热带植物园航拍。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　张钊海摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/ec8d8d23-75f4-4bf6-93ac-2ad39b6eabe8.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　研学等新业态兴起，科研院所的种质资源圃热闹起来：割一刀橡胶，看乳胶缓缓流出；做一个菌包，带回家持续培育；走进实验室，亲手完成薄层色谱。植物科普本有先天短板，云南却把“看不见的科研”做成了“摸得着的体验”。科研院所如何打造科普场所，又如何在开放中守牢科研红线？本报记者深入云南一线调研采访。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　科普，科研单位的另一份责任&lt;/p&gt;&lt;p&gt;　　30年前，西双版纳热带花卉园还只有科研人员的身影；如今，游客在园中“打野”，孩子们在林下寻菌。&lt;/p&gt;&lt;p&gt;　　对外开放的底气，来自70多年的科研积累。上千种植物、上万份热带作物种质资源，让云南省热带作物科学研究所苗圃成为热带雨林博物馆。&lt;/p&gt;&lt;p&gt;　　“最初的科普对象其实是农户，为了推广新兴热带作物，我们会邀请适种区域的农户来现场演示。”记者问及云南省热带作物科学研究所党委书记、所长穆洪军怎么看待科普，他说，“科研是科研单位的责任，科普同样是科研单位的责任，让大家看到橡胶能种好、水果能卖钱，才能更好让科研成果转化为田间地头的产业。”&lt;/p&gt;&lt;p&gt;　　“随着研学等新业态的兴起，以及全社会科学素养提升需求的提高，科普有了更重要的价值。”穆洪军表示，将部分种质资源圃对外开放，有助于减轻种质资源圃的管护压力，还能带动周边群众致富、提升全社会科学素养。&lt;/p&gt;&lt;p&gt;　　科普的机会，常常藏在游客的疑问里。西双版纳热带花卉园景区运营管理有限公司副总经理王慧好几次接到游客投诉电话，说有人拿刀砍菠萝蜜树干。“这其实是促进菠萝蜜结果的必要措施，我们顺势向公众科普相关知识。”王慧说，“科普会激发公众对科研对象的热爱。”&lt;/p&gt;&lt;p&gt;　　不过，要让公众真正爱上植物，并不容易。中国科学院昆明植物研究所办公室副主任杨梅表示，尤其在植物化学等领域，公众甚至看不见科普对象，这对科研成果转化为科普故事提出了挑战。&lt;/p&gt;&lt;p&gt;　　2024年12月，新修订的《中华人民共和国科学技术普及法》明确规定每年9月为“全国科普月”，推动让科学知识与科学精神触达更多社会群体。中国科学院昆明植物研究所逐步形成由办公室统筹，科研部门、支撑部门等共同参与的传播格局：组织开展公众科学日和实验室体验把公众请进科研现场；通过与学校合作、教师研修和社区活动把植物科学送到基层；通过科普文章、媒体报道和线上直播扩大传播范围；同时将研究成果整理为政务信息服务公共决策。&lt;/p&gt;&lt;p&gt;　　从“走马观花”到“上手体验”&lt;/p&gt;&lt;p&gt;　　“我们更多是在一定安全范围内‘欢迎上手’。”王慧说。在王慧看来，科普场所必须练好内功，才能提升科普效果。&lt;/p&gt;&lt;p&gt;　　入夜时分，景区停止检票，西双版纳热带花卉园却聚满了三五成群的孩子。王慧告诉记者，随着今年各类采菌、“打野”、夜游等体验项目陆续上新，今年一个季度花卉园营收就已经超过了去年全年。&lt;/p&gt;&lt;p&gt;　　实际上，花卉园的科普之路并非一帆风顺，转型之初也曾深陷“专业有余、趣味不足”的发展困境——来的多是观光团，几乎没有研学客，走马观花拍个照，科研院所虽然多了一笔维护园区的收入，但很难实现科普意图。&lt;/p&gt;&lt;p&gt;　　王慧认为，科研机构打造科普场所不能一厢情愿，既要充分考虑市场需求，也要充分挖掘科研院所本身的科研成果，探索转化路径。&lt;/p&gt;&lt;p&gt;　　“既然是科普，首先要让公众觉得好玩。对西双版纳热带花卉园来说，一方面打造好景观，靠图片出圈；另一方面也需要将科普产品化，提升研学者的体验感。”王慧说。&lt;/p&gt;&lt;p&gt;　　工作人员轻轻划开一道口子，孩子就可以感受割胶，还可以取下乳胶带走，讲解员顺势提问，引导孩子回答橡胶的作用。&lt;/p&gt;&lt;p&gt;　　游客普遍爱吃菌、爱寻菌，花卉园顺势推出“菌子总动员”。学员走进手作空间，借助显微镜观察微观的菌类孢子形态，亲手制作专属菌包并带回家持续培育；深入原始雨林林下实地寻菌识菌，辨别菌盖、菌褶等形态特征，厘清菌类共生、寄生、腐生三大生存模式，掌握毒菌识别、误食应急处置等实用技能。&lt;/p&gt;&lt;p&gt;　　在公众科学日，参与者走进全国重点实验室，观察植物精油和凝露的提取过程。杨梅说：“从看到现象、动手体验到理解原理，公众能够更直观地感受科研魅力。现在的科普对象或许就会成长为未来的科研力量。”&lt;/p&gt;&lt;p&gt;　　科普不越界、不违规、不扰科研&lt;/p&gt;&lt;p&gt;　　如何在释放科普价值的同时，守护好珍稀种质资源、不干扰正常科研进程？&lt;/p&gt;&lt;p&gt;　　西双版纳热带花卉园热带水果种质资源圃内，不少芒果树承担长期科研观测任务，是种质研究、品种改良的重要样本。在研学线路设计中，花卉园主动绕开所有核心科研观测果树区域，从源头规避人为干扰。&lt;/p&gt;&lt;p&gt;　　穆洪军介绍，研究所从园区规划之初，便确立了分区发展、分类管控的思路：观赏性强、适合展示的植物资源纳入花卉园对外开放；用于种质育种、品种试验的核心区域，划为非开放区域、封闭管理。&lt;/p&gt;&lt;p&gt;　　在空间分区的基础上，园区同步推行精细化分级管理。针对箭毒木等危险性植物，设置醒目安全警示标识，严禁触摸采摘。所有对外开放行为，始终服从种质资源保护大局，做到科普不越界、开放不违规、体验不扰科研。&lt;/p&gt;&lt;p&gt;　　中国科学院昆明植物研究所与中国科学院西双版纳热带植物园，同样对开放区域与科研区域做了适度隔离，探寻科研与科普空间界限的平衡。&lt;/p&gt;&lt;p&gt;　　昆明植物研究所在公众科学日采取小规模预约制，避免因为人数过多影响科研项目。通过“走出去”，昆明植物研究所则把科普送进学校和社区，以更低的参与门槛触达更广泛的受众。&lt;/p&gt;&lt;p&gt;　　而在科普内容上，西双版纳热带花卉园建立了“科研人员兜底把关、运营团队落地执行”机制，所有研学课程、讲解话术、互动流程均经科研人员逐项审核校验，守住科普内容的专业性、严谨性。&lt;/p&gt;&lt;p&gt;　　“小批次、强互动的线下活动有利于公众真正理解科学内容；线上直播、科普文章和媒体报道，则可以进一步扩大覆盖面。”杨梅建议，要把科学传播作为科研院所的长期能力来建设，立足自身资源特点，因地制宜开展科普活动。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  杨文明&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 云南把“看不见的科研”变成“摸得着的体验”—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184351&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184351.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184351.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 科研与科普在这里牵手（视线） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184351.html#[06版：假日生活] 科研与科普在这里牵手（视线）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 两千四百多年前的音乐奇迹（镇馆之宝）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184352.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 湖北省博物馆藏曾侯乙编钟 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 两千四百多年前的音乐奇迹（镇馆之宝） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/7d1e3c5d-f4f8-4e9d-a87e-4ff260032939.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　走进湖北省博物馆曾侯乙展厅，一套恢弘大气的青铜编钟陈列其中。湖北省博物馆馆标采用曾侯乙编钟造型，展现礼乐文明源远流长、荆楚文化绵延不绝。&lt;/p&gt;&lt;p&gt;　　记者：在众多馆藏国宝之中，为何选定曾侯乙编钟作为湖北省博物馆的馆标原型？&lt;/p&gt;&lt;p&gt;　　张晓云：曾侯乙编钟（见图，任勇摄）1978年出土于湖北随县的曾侯乙墓，这套编钟是迄今发现的规模最大、保存最完好的一组编钟，记录了2400多年前中国古代的音乐实践和音乐理论。1988年11月，为总结曾侯乙编钟研究成果，弘扬中华文化，促进中外文化交流，湖北省对外文化交流协会、湖北省博物馆、武汉音乐学院联合举办“中国古代科学文化国际交流·曾侯乙编钟专题”国际学术会议，来自国内外的60多名专家学者参加，为学界贡献了丰富的学术成果。湖北省博物馆馆标即取自本次会议会标，由当时在馆工作的雕塑家傅中望设计，寓意为“编钟震惊全世界”，此后沿用至今。&lt;/p&gt;&lt;p&gt;　　记者：曾侯乙编钟在铸造工艺、器型、铭文等方面，有哪些特点和成就？&lt;/p&gt;&lt;p&gt;　　张晓云：曾侯乙编钟与大量乐律铭文证实，公元前5世纪的中国，“一钟双音”制造技术已炉火纯青；用此技术铸制的乐钟音域超过5个八度，高、中、低音区中间部分半音列完备，可以旋宫转调，具有良好的音乐表现性能。编钟展示了迄今所知最完整的周代乐音系列及其乐律称谓体系，不但证实了先秦文献中某些记载的真实性，也补充了大量失传的音乐知识和实践。钟体装饰有人、兽、龙、鸟、花和几何形纹。精细、贴切、生动、绮丽的钟体纹饰，与颇具美感和装饰效果的铭文相映成趣，章法严谨、行笔流畅。编钟及同墓青铜器表明，早在2400多年前，中国已发明红铜纹样铸镶法，组合浑铸、分铸技术均有突破，冶金和青铜铸造技艺居于同时代世界领先水平。&lt;/p&gt;&lt;p&gt;　　记者：曾侯乙编钟去年入选联合国教科文组织《世界记忆名录》。这套编钟在世界音乐史上有哪些重要的意义和价值？&lt;/p&gt;&lt;p&gt;　　张晓云：编钟的铭文是目前已知的先秦中国官方音乐理论文献，提供了大量此前不为人知的音律定义和术语，不少术语来自曾国、楚国及周王朝，是当时诸侯国文化交流的结果。铭文中的“浊姑洗”“吕钟”“浊坪皇”“坪皇”等表明，当时已存在十二律体系，该系统正是以“一钟双音”中的三度音程产生的；音高设计以五声为基础，并有七音体系，体现了丰富的音乐内容和先进的音乐水准。编钟的乐音与铭文对应，是现存最早展示音乐数理关系的出土文献，这种对应关系表明当时人们对乐音关系已形成理性认识。与早于它的西周青铜钟铭文多歌颂贵族祖先功德不同，曾侯乙编钟铭文除记事、编号等少数例外，几乎完全聚焦于音乐主题——每个钟乐音的名称、在不同调中的位置和音程关系。这种独特之处使我们认识到，这套编钟不仅是古代乐器，更是具有重要历史意义的文化遗产。&lt;/p&gt;&lt;p&gt;　　记者：这样一套礼乐重器，当年是如何被发现并入藏博物馆的？&lt;/p&gt;&lt;p&gt;　　张晓云：1977年9月，武汉军区某单位在湖北随县城郊扩建厂房时，偶然发现一座巨型岩坑竖穴木椁墓。经报请国家文物局批准，次年5月11日正式发掘。中室以陈列礼乐器为主，出土全套青铜编钟共65件，另有石编磬、建鼓等乐器及青铜礼器。四室清理后人们认识到，曾侯乙墓完整模拟了一位国君的宫殿：中室是“宴乐大厅”，东室为墓主人长眠的“寝宫”，西室、北室则如“西厢”与“武库”。据下层镈钟铭文，此钟为楚惠王五十六年（公元前433年）赠予曾侯乙。当时随县没有博物馆，按照湖北省委要求，考古队将编钟等出土文物运往武汉，由湖北省博物馆集中保存。&lt;/p&gt;&lt;p&gt;　　记者：编钟音乐会已成为湖北省博物馆的标志性演出。在编钟研究复制、编钟IP活化、礼乐文化普及等方面，馆方依托这套“馆标文物”做了哪些探索？&lt;/p&gt;&lt;p&gt;　　张晓云：我馆以编钟研究院为平台推进编钟理论研究，并联合高校与科研机构完成多套1∶1高精度复制件，在形制、纹饰、音准、音色上与原件吻合度高，既满足馆内日常演奏需求，也为国内外多家机构提供展演用钟。&lt;/p&gt;&lt;p&gt;　　以复制件演奏为核心组建的编钟乐团，定位为博物馆陈列展览的延伸，以音乐、舞蹈的艺术形式面向观众，自1987年成立以来，建立起“常演—特演—外演”三级展演体系；乐团演出的编钟乐舞以考古依据为纲，在乐器配置、演奏技法和楚舞演绎上，积累了丰富的实践经验。2025年，乐团开展线下演出1330场，接待观众约47万人次；还推出编钟演出直播、研发H5手机编钟演奏小程序，打破时空限制实现广泛传播，并联合腾讯互娱开展复制件数字化音频采样、建立数据库，让这件“有声文物”永久留存，采样音源用于音乐制作、嵌入音乐游戏，让曾侯乙编钟变得可视、可听、可奏。&lt;/p&gt;&lt;p&gt;　　（张晓云为湖北省博物馆馆长，本报记者范昊天采访整理）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 湖北省博物馆藏曾侯乙编钟 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184352&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184352.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184352.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 两千四百多年前的音乐奇迹（镇馆之宝） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184352.html#[06版：假日生活] 两千四百多年前的音乐奇迹（镇馆之宝）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 美景美食  四季可赏（达人带你游·魅力小城）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184353.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 吉林省延边州延吉市 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 美景美食  四季可赏（达人带你游·魅力小城） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  刘以晴&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/07/c065676d-a5f7-48d1-8aef-18c20b7987ff.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　吉林延边中国朝鲜族民俗园景观。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　李贤杰摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/c065676d-a5f7-48d1-8aef-18c20b7987ff.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　“延吉不大，但有着满满的民族味儿和烟火气。”在吉林省延边朝鲜族自治州延吉市文旅推介官厉成根看来，延吉的朝鲜族民俗文化和特色饮食，共同构成这座城市别样的风景。&lt;/p&gt;&lt;p&gt;　　今年盛夏，中国朝鲜族民俗园等多个景区业态焕新，“东北超”等体育赛事、非遗演艺、夜间经济等文旅项目接连推出，与美食佳肴、文旅景点相互融合。走进中国朝鲜族民俗园，首先映入眼帘的是飞檐翘角、青瓦白墙的传统民居。在这里，游客既能租赁朝鲜族服饰旅拍，还能体验朝鲜族传统婚俗、观看荡秋千等表演。“打糕打糕，今天打来，年年高！”在手作体验区，工作人员热情招呼，游客可以亲手体验打糕捶打过程。&lt;/p&gt;&lt;p&gt;　　赶上节日，便去看一场“有一种生活叫延吉”文化惠民演出，既有长鼓象帽舞、四物乐等民族特色非遗展演，也能听到《红太阳照边疆》等经典曲目。如今，延吉的惠民演出累计超过1860场，接待观众超40万人次。厉成根说，在延吉市人民公园等地，时常有居民身着鲜艳的民族服饰，随音乐起舞，“在旁边看一会儿，你就可能被拉进跳舞队伍。”&lt;/p&gt;&lt;p&gt;　　出市区，驱车来到帽儿山国家森林公园，又是另一番风光。公园主峰海拔517.2米，既能避暑，也能登顶饱览整个延吉市风光。&lt;/p&gt;&lt;p&gt;　　看过风景，美食同样不能错过。&lt;/p&gt;&lt;p&gt;　　清晨7点，延吉水上市场已经热闹起来，辣白菜、桔梗、冷面……850多个摊位在此集聚。“汤饭来喽，这是咱们的特色美食，来尝尝。”汤饭店店主王长胜介绍，一碗白米饭，配上延边黄牛肉汤，香气四溢。不远处的米肠店同样顾客不少。提前一晚浸泡好糯米，加上猪血、洋葱、肉末等配料，灌肠蒸煮，制作出的米肠，外皮筋道，内里香糯。店里还新增了真空打包服务，方便游客快递回家。&lt;/p&gt;&lt;p&gt;　　石锅拌饭同样声名在外，滚烫的石锅里铺上东北大米、时令蔬菜、肉片，上桌后浇上红彤彤的辣椒酱，快速拌匀，锅底那层金黄锅巴混着饭菜，每一口都层次分明。除此之外，还有炸鸡、鱼饼、参鸡汤、帝王蟹……&lt;/p&gt;&lt;p&gt;　　“延吉是一座值得慢慢走、细细看的城市。”厉成根说，春天，金达莱开得漫山遍野，布尔哈通河沿岸变得五颜六色；夏天，在水上市场和延大夜市，能从早吃到晚；秋天树叶变色，搭配朝鲜族村落的白墙黑瓦特别出片；冬天虽然冷，但民俗活动加上冰雪项目，一样热闹有趣。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　小贴士&lt;/p&gt;&lt;p&gt;　　来延吉游玩，行程丰俭由人：1—2天，可以在朝鲜族民俗园拍一组写真，嗍一碗冷面；3—4天，便可以去水上市场、西市场感受烟火气息，逛逛非遗工坊，再走进乡村农家乐，看一场民族歌舞表演，节奏不紧不慢。&lt;/p&gt;&lt;p&gt;　　如果时间更宽裕些，还能去周边城市转转，到龙井市体验边陲风情，到珲春市体验“一眼望三国”后再吃吃帝王蟹，也可以乘坐高铁列车，一个多小时便到长白山脚下，赴天池之约。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  刘以晴&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 吉林省延边州延吉市 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184353&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184353.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184353.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 美景美食  四季可赏（达人带你游·魅力小城） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184353.html#[06版：假日生活] 美景美食  四季可赏（达人带你游·魅力小城）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：假日生活] 本版责编：孟  扬  唐中科  朱  燕</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184354.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：孟  扬  唐中科  朱  燕 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：张丹峰 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184354&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184354.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184354.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：孟  扬  唐中科  朱  燕 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184354.html#[06版：假日生活] 本版责编：孟  扬  唐中科  朱  燕</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：假日生活] 城市礼物，延续城市热度（视线）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184367.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 从传统特产纪念品到流动名片—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 城市礼物，延续城市热度（视线） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  田  泓  祝大伟  吕绍刚&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图①：展现深圳科技特色的一款创意数码产品。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图②：上海武康大楼。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图③：“风声水起”礼盒。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图④：黑龙江哈尔滨中央大街。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图⑤：蝴蝶酥。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图⑥：广东深圳欢乐海岸。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　以上图片均为AI生成配图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/3d877617-1c35-4fda-94ba-7e86c87c402e.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　小小的一件伴手礼，承载着一座城市的文化记忆与产业气质。从上海的海派点心到哈尔滨的文创礼盒，再到深圳的科技好物……近年来，多地立足自身禀赋探索差异化发展路径，让“城市礼物”跳出传统特产纪念品的单一范畴，成为串联商业创新、文化创意、科技赋能的城市流动名片，在扩内需、兴产业、塑品牌等方面释放出多重价值。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　政策引领&lt;/p&gt;&lt;p&gt;　　城市礼物提质扩容&lt;/p&gt;&lt;p&gt;　　城市礼物的快速兴起，既是消费升级的市场选择，也是国家层面促消费、扩内需的重要布局，其背后是文旅产业深度融合与城市商业提质的双重驱动。&lt;/p&gt;&lt;p&gt;　　2023年10月，商务部出台《关于加强商务领域品牌建设的指导意见》，明确提出推动形成一批集成商业创新、文化创意、科技赋能的“必购必带”城市礼物。2025年，商务部等6部门印发《关于进一步优化离境退税政策扩大入境消费的通知》，进一步支持各地培育打造“城市礼物”高品质特色产品，引导其进入退税商店，将城市礼物作为丰富商品供给的重要抓手。&lt;/p&gt;&lt;p&gt;　　城市礼物作为可携带、可复购的消费载体，能够将游客的短期游览转化为可持续的商品消费，带动食品加工、文创设计、智能制造等上下游产业协同发展，推动地方零散特产、手作产品走向标准化、品牌化，助力本土中小企业与老字号突破地域局限。&lt;/p&gt;&lt;p&gt;　　上海社会科学院应用经济研究所研究员王慧敏表示，如今，城市礼物正从传统伴手礼升级为高品质消费引擎，是展现城市魅力的鲜明名片。&lt;/p&gt;&lt;p&gt;　　在哈尔滨马迭尔文化旅游投资集团经营管理部副部长黄金看来，城市礼物还是激活地方特色资源、延续文旅热度的重要载体。&lt;/p&gt;&lt;p&gt;　　从顶层政策引导到地方主动探索，城市礼物已成为扩内需、兴产业、塑品牌的重要抓手，各地立足不同资源禀赋，正走出各具特色的发展路径。&lt;/p&gt;&lt;p&gt;　　创意赋能&lt;/p&gt;&lt;p&gt;　　传统风物破圈传播&lt;/p&gt;&lt;p&gt;　　“上海礼物”锚定首次来沪旅客、往返常客及亲子家庭等客群，兼具多重发展价值。它是入境流量的“转化器”，紧扣离境退税政策红利，推出融合大白兔奶糖、石库门元素的特色礼盒，带动客单价与复购率双增长；是优质资源的“集成者”，串联“上海设计”、赛事展演等分散资源，推出赛事收藏盲盒、高端定制款等稀缺供给，推动产业资源价值跃升；也是城市叙事的“翻译器”，以国际化设计解码本土文化，以情感认同带动口碑传播。&lt;/p&gt;&lt;p&gt;　　在上海市文化和旅游局等单位组织的“上海礼物”评选中，百联逸刻开发的哈酥蝴蝶酥礼盒入选。&lt;/p&gt;&lt;p&gt;　　蝴蝶酥通常被认为源自20世纪初的法国，民国时期进入了上海的西饼店。经过几十年的“海派改造”，上海蝴蝶酥渐渐形成了自己的风格——甜度较欧美传统更节制，还发展出咸香等多种口味。&lt;/p&gt;&lt;p&gt;　　蝴蝶酥好吃，可市面通用基础工艺技术门槛偏低。量产蝴蝶酥如何与专业烘焙店同类产品做出差异？&lt;/p&gt;&lt;p&gt;　　“既然是‘上海礼物’，就要尽量保持本地口味。”百联逸刻首席研发官曹旦介绍，酥脆是评价蝴蝶酥好吃与否的重要指标之一。市面上售卖的机器产蝴蝶酥通常起酥100多层，而逸刻哈酥创新制作工艺，起酥可达255层；原料上采用进口黄油，提升整体奶香和酥脆感，外形上也更加膨松饱满。&lt;/p&gt;&lt;p&gt;　　哈酥蝴蝶酥在产品命名和包装设计上，以新国潮概念玩法拥抱年轻一代。“阿拉用点心”一语双关，既有沪语“吃点心”之意，也寓意“用心”创造美味。包装推出小份装、礼盒装等多种分量规格，满足单人口袋零食、多人家庭分享、节庆出游伴手礼的多场景需求。渠道上除逸刻便利店外，还在高铁站候车厅及主要商圈开设店铺，并可线上下单全国邮送。&lt;/p&gt;&lt;p&gt;　　如果说上海的城市礼物是在传统商业赛道上打磨品质的创新样本，那么哈尔滨推出的“尔滨礼物”，则是以文化创意激活城市IP（知识产权）的典型代表。&lt;/p&gt;&lt;p&gt;　　哈尔滨通过将“尔滨”这一游客赋予的昵称转化为城市IP，把金源文化、欧陆文化、冰雪文化等多元地域特色注入产品设计，能够将当地的“冷资源”进一步激活，实现从“冷资源”到“热IP”的转化。“城市礼物既能帮游客留存专属旅行记忆，也能通过自发传播持续延续城市热度，长效塑造城市文旅品牌，培育新的经济增长点。”黄金介绍。&lt;/p&gt;&lt;p&gt;　　在哈尔滨市太阳岛风景区内的尔滨礼物店内，一款名为“风声水起”的礼盒特别吸引眼球。&lt;/p&gt;&lt;p&gt;　　“一字一物，四字成吉。”尔滨礼物店经理谢龙鹏介绍，每件礼物都对应哈尔滨独有的文化符号：“风”是东北大花布折扇，“声”是索菲亚教堂八音盒冰箱贴，“水”是冰雪硅胶折叠杯，“起”是浓缩俄式建筑图案的开瓶器。产品融入民俗、冰雪、欧陆建筑等特色符号，组合出的美好寓意更增添了社交属性。&lt;/p&gt;&lt;p&gt;　　产品上市后，以文创打卡地引流，推出集齐抽奖、盲盒玩法，激发游客参与热情；线下多场景铺市、IP联动，线上依托游客开箱短视频传播，单条视频最高播放量破万次。一系列措施带动“风声水起”礼盒迅速出圈，首批1万套全部售罄。&lt;/p&gt;&lt;p&gt;　　“文旅热带动了哈尔滨城市礼物的快速发展。”哈尔滨马迭尔文化旅游投资集团党委书记、董事长孔庆滨介绍，集团承接运营“尔滨”城市IP，目前，“尔滨礼物”涵盖文创产品、地方特产、生活用品等，已构建起30余个系列、500余件单品的产品体系。近年来，“尔滨礼物”文创产品参展中俄博览会、深圳文博会等国内外知名展会，成为宣传推广城市的亮丽品牌。&lt;/p&gt;&lt;p&gt;　　科技驱动&lt;/p&gt;&lt;p&gt;　　打造礼物全新形态&lt;/p&gt;&lt;p&gt;　　在多数城市还在传统食品、文创赛道发力之时，广东深圳依托自身智能制造与工业设计的产业根基，跳出传统路径，为城市礼物赋予了全新内涵与形态，让“创新活力”成为城市礼物最鲜明的标签。&lt;/p&gt;&lt;p&gt;　　今年春节前夕，一款名为“禄马”的AI（人工智能）玩具，成为深圳市民和游客年货清单上的爆款，上市不到一个月便售出近万台。&lt;/p&gt;&lt;p&gt;　　这匹“小马”外形萌趣，搭载了先进的智能体系统。它能围绕传统文化、金融知识等内容与用户互动，让人工智能从技术概念变成可感知、可体验的产品，一上市迅速获得消费者认可。&lt;/p&gt;&lt;p&gt;　　一件城市礼物的走红，背后体现的是一座城市的产业实力。据了解，依托深圳福田华强北丰富的电子元器件供应链和产业配套，“禄马”从图纸到生产样机，仅用了一天时间。&lt;/p&gt;&lt;p&gt;　　得益于高效的产业生态，越来越多“AI好物”走向市场。为了帮消费者在海量科技年货中“淘金”，今年2月，华强北基于商品真实销售数据、科技领先度、价格优惠力度和消费者认可度，推出“AI八骏”榜单，遴选无人机、AI眼镜、AI翻译机等八大品类，为消费者选购提供参考。&lt;/p&gt;&lt;p&gt;　　榜单发布后，“AI八骏”相关产品销量增长55%。截至目前，“AI八骏”已发布3期，持续挖掘和推广具有创新性、市场潜力的好产品，推动更多深圳制造、深圳创新走向全球消费者。&lt;/p&gt;&lt;p&gt;　　从“禄马”单品破圈，到“AI八骏”热销，正是深圳以科技创新为内核、以设计赋能为路径，培育城市礼物品牌的一个缩影。&lt;/p&gt;&lt;p&gt;　　深圳市零售商业行业协会副秘书长林渝表示，该协会已连续多年开展“深圳手信”项目，寻找能代表深圳、让游客“必购必带”的特色商品。“在深圳，城市礼物并不局限于地域符号的呈现，而是依托消费电子、智能硬件、工业设计等产业优势，突出‘深圳原创、深圳元素’，让创新成为城市礼物的鲜明底色。”林渝说。&lt;/p&gt;&lt;p&gt;　　“全球游客来到深圳，都期待能找到有惊喜感的‘新奇特’产品。”林渝说，深圳工业设计、智能制造产业领先全国，当城市需要专属礼物，企业有能力把硬核技术和前沿设计变成最新的商品。“我们希望通过每一件城市礼物，直观展示深圳的创新活力。”&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  田  泓  祝大伟  吕绍刚&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 从传统特产纪念品到流动名片—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184367&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184367.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184367.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 城市礼物，延续城市热度（视线） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184367.html#[07版：假日生活] 城市礼物，延续城市热度（视线）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：假日生活] 两千年前“环保灯”焕发新彩（镇馆之宝）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184368.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 广西壮族自治区博物馆藏羽纹铜凤灯—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 两千年前“环保灯”焕发新彩（镇馆之宝） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　右上图：广西壮族自治区博物馆馆标。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　广西壮族自治区博物馆提供&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　下图：广西壮族自治区博物馆藏文物羽纹铜凤灯。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　广西壮族自治区博物馆提供&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/1024af52-d08a-47b4-a9a5-d294e256d156.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　一盏铜凤灯，跨越2000年时光，依然引人注目。广西壮族自治区博物馆的羽纹铜凤灯，见证着汉代岭南高超的铸造工艺，诉说着中华文明交融发展的历史故事，也是自治区博物馆馆标的中心形象。&lt;/p&gt;&lt;p&gt;　　记者：这件文物为什么能两次成为广西壮族自治区博物馆馆标形象？&lt;/p&gt;&lt;p&gt;　　陶少艺：西汉羽纹铜凤灯之所以能成为馆标，源于其无可替代的文化代表性与辨识度。它1971年出土于广西合浦县望牛岭1号西汉墓，1972年入藏广西壮族自治区博物馆，是广西出土汉代青铜灯具中工艺最精湛、造型最优美的代表器物之一。&lt;/p&gt;&lt;p&gt;　　2006年，自治区博物馆确定馆标方案时，经过多轮遴选，最终专家们一致选择羽纹铜凤灯作为原型。文物整体曲线流畅优雅，通体錾刻羽纹，兼具庄重与灵秀；凤鸟又是中华传统文化中的祥瑞象征，寓意太平昌盛，与博物馆传承文明、服务公众的使命高度契合。更重要的是，它融合了中原汉文化与岭南本土文化特色，且出土于汉代海上丝绸之路的始发港合浦，能充分体现广西开放包容、多元文化交融的历史底蕴。&lt;/p&gt;&lt;p&gt;　　2021年，博物馆面向全国征集新馆标志设计方案，累计收到205件作品，层层评选后仍决定以羽纹铜凤灯为中心形象。&lt;/p&gt;&lt;p&gt;　　如今，这件文物不仅成为自治区博物馆的标识，也成为广西重要的文化符号。南宁吴圩国际机场T2航站楼“双凤还巢”设计理念、广西彩车、《中国2016亚洲国际集邮展览》纪念邮票等，都从羽纹铜凤灯中汲取了灵感。&lt;/p&gt;&lt;p&gt;　　记者：这件文物被称为“环保灯”，在造型上有何独特之处？&lt;/p&gt;&lt;p&gt;　　陶少艺：羽纹铜凤灯单灯通高约33厘米。凤鸟顾首回望，尾羽自然垂地，与双足形成三点支撑，不需额外底座即可保持稳定，结构设计十分巧妙。&lt;/p&gt;&lt;p&gt;　　它堪称2000年前的“环保灯具”。灯罩、导烟管与腹腔相通，腹内可容纳约1升清水，燃烧产生的烟尘可沿导烟管进入腹腔溶于水中，实现消烟除尘的效果。可旋转的灯罩还能调节照明方向，设计兼具实用性与人性化。&lt;/p&gt;&lt;p&gt;　　记者：学术界对其具体用途有何考证？&lt;/p&gt;&lt;p&gt;　　陶少艺：目前，学术界普遍认为，羽纹铜凤灯属于汉代“釭灯”体系，与长信宫灯、彩绘雁鱼青铜釭灯等同属高级照明器具，多见于汉代高等级贵族墓葬。羽纹铜凤灯出土于合浦县望牛岭1号西汉墓，墓中出土带有“九真府”“九真府之器”铭文的陶器，说明墓主人应为西汉九真郡高级官吏或地方贵族，这对精美铜凤灯正是其身份的重要标识。&lt;/p&gt;&lt;p&gt;　　也有学者认为，凤鸟造型蕴含汉代祥瑞观念，可能兼具礼仪功能，但其主要属性仍是实用灯具。&lt;/p&gt;&lt;p&gt;　　记者：博物馆在羽纹铜凤灯的长效保护、创新活化利用等方面，取得了哪些成果？&lt;/p&gt;&lt;p&gt;　　陶少艺：近年来，自治区博物馆始终坚持保护第一，不断加强羽纹铜凤灯的预防性保护。新馆建成后，为其配备恒温恒湿独立展柜，建立常态化监测和养护机制。自2022年新馆开放以来，羽纹铜凤灯一直作为“广西古代文明陈列”常设展的展品与观众见面，偶尔还会借调至外地展出，让各地观众在家门口就能一睹其风采。&lt;/p&gt;&lt;p&gt;　　围绕这一文物IP（知识产权），自治区博物馆不断拓展活化利用路径。一方面，开发文具、首饰、家居、潮玩等数十款文创产品，其中羽纹铜凤灯挂坠、冰箱贴、主题丝巾等广受欢迎；另一方面，推出“凤灯的秘密”等研学课程和“博物馆奇妙夜”等品牌活动，通过青铜工艺体验、环保科学实验等形式，让观众感受文物魅力。&lt;/p&gt;&lt;p&gt;　　博物馆支持创作舞蹈《铸凤》、木偶剧《国宝故事·铜凤灯》等文艺作品，并完成铜凤灯高精度三维扫描，推进智慧展陈建设。现在，观众可以通过裸眼3D、全息影像或佩戴增强现实讲解眼镜等，沉浸式全景感受铜凤灯精妙构造和錾刻工艺。这盏跨越2000年的凤灯如今正焕发新的光彩。&lt;/p&gt;&lt;p&gt;　　从海丝古港到现代展厅，从汉代宫灯到广西文化地标，羽纹铜凤灯承载着中华文明多元一体、包容开放的发展印记，也映照出中华优秀传统文化创造性转化、创新性发展的时代活力。这盏千年釭灯，将继续照亮中国传统文化传承与创新发展的前行之路。&lt;/p&gt;&lt;p&gt;　　（陶少艺为广西壮族自治区博物馆馆长，本报记者李维俊采访整理）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 广西壮族自治区博物馆藏羽纹铜凤灯—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184368&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184368.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184368.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 两千年前“环保灯”焕发新彩（镇馆之宝） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184368.html#[07版：假日生活] 两千年前“环保灯”焕发新彩（镇馆之宝）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：假日生活] 扇面布局蕴藏同心乡情（走进传统村落）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184369.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 海南省文昌市会文镇十八行村—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 扇面布局蕴藏同心乡情（走进传统村落） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  董泽扬&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　鸟瞰十八行村。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　云伟晟摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/2b2623a5-ac83-41fa-9da6-8ecff4238db0.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　海南省文昌市会文镇十八行村，始建于明代，历经500余年风雨，至今仍完整保留着“十八行”的独特格局。18组规整宅院纵向排列，形如一把徐徐展开的扇子，将“兄弟同心、邻里不欺”的淳朴乡风固化为可见的空间秩序。2010年，该村入选第五批“中国历史文化名村”；2012年，被列入首批中国传统村落名录。&lt;/p&gt;&lt;p&gt;　　十八行村原名湖村，林家祖先自闽南迁居至此，子孙后代绕着老宅成行成列地建起新居，至清末渐成“十八行”格局。从空中俯瞰，宅院如扇面，巷道如扇骨，镶嵌在葱茏绿意之中；村中行走，每一行宅院顺坡而建，如同梳齿般紧密排布、齐整有序，空旷的小广场则如梳把，领着一众建筑坐落于郊野。&lt;/p&gt;&lt;p&gt;　　这一格局的精髓，在于一“行”之内的秩序。“兄弟分家建房必须紧邻祖屋，形成一‘行’。”历史文化馆内，讲解员林运椿正对着村庄布局图，向访客娓娓道来。在每一“行”的中轴线上，每进房屋的正厅前后大门必须对齐、一线贯通，一眼望穿，视线毫无遮挡，寓意家族血脉相连、心意相通。推开一扇院门，砖瓦结构的房屋、摆满盆景的院落顿感宁静清幽；院落中间是宽敞的厅堂，两旁是居住的厢房。站在行首往行末望，各进院落的正房厅堂前后正中开门，如“回”字套嵌，仿佛有一条无形的轴线将一“行”的房屋串联起来，左右对称，规整有方。&lt;/p&gt;&lt;p&gt;　　“行”与“行”之间，同样藏着规矩。房屋的檐口高度、翘起的弧度都保持一致——“同辈兄弟的房屋要齐平，这叫‘邻里不欺’，彰显家族内部无高低贵贱之分。”林运椿说。&lt;/p&gt;&lt;p&gt;　　建筑的巧思还体现在宜居智慧上。十八行村坐南朝北，夏天巷道的朝向和风向一致，巷口与村内池塘相对，能将凉意送至家家户户。小巷拐角处，透明玻璃覆盖的墙体展示着房屋保持清凉的“秘诀”：浅灰色的平整外墙可减少热量吸收，中空的墙壁能增加隔热效果，斜出的廊檐则扩大了纳凉的阴影面积。&lt;/p&gt;&lt;p&gt;　　离村时走过同心路，路名背后也有一段故事。“征集意见改名时，大家认为这条路起于同心广场，一致要将‘北山路’改为‘同心路’，表达同邻村团结同心之意。”林运椿说。温暖的地名、规整的布局、浓浓的乡情，让这一饱经沧桑的传统村落有看得见的文化、记得住的乡愁，更有活起来的传承。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  董泽扬&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 海南省文昌市会文镇十八行村—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184369&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184369.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184369.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 扇面布局蕴藏同心乡情（走进传统村落） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184369.html#[07版：假日生活] 扇面布局蕴藏同心乡情（走进传统村落）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：假日生活] 本版责编：孟  扬  唐中科  徐  阳</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184370.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：孟  扬  唐中科  徐  阳 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：张丹峰 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184370&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184370.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184370.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：孟  扬  唐中科  徐  阳 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184370.html#[07版：假日生活] 本版责编：孟  扬  唐中科  徐  阳</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 大地风华·我们的国庆故事</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184358.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 大地风华·我们的国庆故事 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　山河辽阔，灯火可亲。&lt;/p&gt;&lt;p&gt;　　国庆节，是新中国的华诞、亿万中国人共同的佳节。每逢此时，总有一种浓烈的情感在我们心底生长、奔涌。它无需言说，却彼此相通。&lt;/p&gt;&lt;p&gt;　　不久前，本版曾以“我们的国庆故事”为题向广大读者征文。展读来稿，我们发现，大家的落笔处往往都是身边事、身边人：一段返乡的旅程，一场朋友的聚会，一回清晨的升旗，一次家族的劳动……看似寻常，却又不寻常，因为故事细节里藏着生活变迁的光影，人间烟火中映照着一个国家蓬勃奋进的身姿。今天，我们从大量来稿中选登数篇。通过这些文字，我们可以感受广大人民群众对于祖国的情感之真，体悟伟大祖国向前迈进的力量之源。&lt;/p&gt;&lt;p&gt;　　“我们的”三个字，正是此版的题眼——山河之所以辽阔，灯火之所以可亲，正源自无数劳动者的家国情深、躬身耕耘。共和国的年轮，是由人民的奋斗一圈圈铸成的。每一个认真生活的人，都是时代的书写者。愿江山锦绣，岁月长安。愿新时代铺展壮丽篇章，而落笔的人，正是你、我、他。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184358&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184358.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184358.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 大地风华·我们的国庆故事 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184358.html#[08版：副刊] 大地风华·我们的国庆故事</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 夜送一面旗（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184359.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 夜送一面旗（大地风华） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							方成龙&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　又一个国庆节到了，看到商场售卖国旗的柜台前人头攒动，我心间猛地一颤，10多年前经历的一段往事，一下子浮现在眼前。&lt;/p&gt;&lt;p&gt;　　2008年，我在宜昌至万州铁路八字岭隧道工地工作。群山环抱，人在谷底，整天忙于凿石修路，都模糊了日子的流转。&lt;/p&gt;&lt;p&gt;　　那天晚上，项目部召开例行生产进度会，有人冷不丁说起，明天就是国庆节，建议早晨举行一场升国旗仪式，提振大家干活的精气神。这个提议当即得到大家的一致赞同。&lt;/p&gt;&lt;p&gt;　　可办公室的阿国摊开双手，面有难色：“项目部没有备用国旗，怎么办？”&lt;/p&gt;&lt;p&gt;　　此刻已是晚上8点多钟，离最近的榔坪镇街市有五六公里远，深山里的小店怕也早已关门歇业。&lt;/p&gt;&lt;p&gt;　　阿国低头思索片刻，拿起手机，拨通镇上相熟的一家商铺店主的电话。对方听说要买一面国旗，直言相告：“上午就卖光了。”但是听阿国说，这面国旗要用于次日早晨8点钟工地“迎国庆、升国旗”仪式，店主沉默片刻，而后说道：“我想想办法，明早7点左右送到工地，怎么样？”&lt;/p&gt;&lt;p&gt;　　阿国连声应下。悬在众人心上的石头也落了地，一张张紧绷的脸舒展开了笑意。&lt;/p&gt;&lt;p&gt;　　第二天清晨，天刚蒙蒙亮，还不到7点钟，项目部门口就传出摩托车突突的轰鸣声。大家出门一看，只见那店主翻身下车，捧着一面鲜红的国旗，送到阿国手中，满脸诚恳：“没耽误你们的仪式吧？”&lt;/p&gt;&lt;p&gt;　　阿国的手微微颤抖，声音很激动：“没耽误，没耽误，你还提前送到了！”&lt;/p&gt;&lt;p&gt;　　看着店主风尘仆仆的样子，阿国问，国旗从哪里找来的？店主欲言又止，几番追问后，才道出背后经过。&lt;/p&gt;&lt;p&gt;　　原来，挂断电话后，店主思前想后，最后联系了远在宜昌开店铺的女婿，嘱咐他连夜开车送一面国旗到榔坪来。女婿听后，起初有点想不通，觉得黑灯瞎火跑山路，太辛苦了。后来经不住店主反复开导，于是连夜赶路。国旗送到榔坪时，已经是凌晨3点多钟。店主夜里就在店铺里等候，天刚刚泛白，便骑上摩托车把国旗送到了工地。&lt;/p&gt;&lt;p&gt;　　那时候，宜昌至榔坪还没通高速公路，只能走318国道，全程近120公里，都是起伏盘旋的弯道，还要翻越三处大山垭口。其中海拔1300多米的碑坳山口，道路时有阻断。这段路，即便是晴好天气，开车走完，也要两三个小时。&lt;/p&gt;&lt;p&gt;　　听罢店主所言，阿国惊诧得愣住了。他紧紧握住店主的双手，心中涌动着千言万语，却一句话也说不出来。&lt;/p&gt;&lt;p&gt;　　那天上午8点整，工地上火红的国旗伴着朝阳冉冉升起。300多名筑路工人整齐列队，面向国旗，高唱国歌。嘹亮的歌声在山谷久久回荡。店主夜送国旗的故事，也转瞬间在工地传开了。&lt;/p&gt;&lt;p&gt;　　后来，隧道提前贯通。庆功会上，我们特意邀请了这位店主。谈及夜送国旗之事，他感慨万千：“你们为了打通山里隧道，扎根在山沟里，奋斗了五六年。相比你们的艰辛，我们这点辛劳又算得了什么？更何况，这是为庆祝国庆出一份力，与支援铁路建设一样，是我们应该做的分内事。”&lt;/p&gt;&lt;p&gt;　　自那日后，每当看到国旗，我总会想起那年国庆，想起榔坪镇夜送国旗的那位店主和他的女婿，想起我们工友在山沟沟里升国旗、唱国歌的往事…… &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;方成龙&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184359&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184359.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184359.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 夜送一面旗（大地风华） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184359.html#[08版：副刊] 夜送一面旗（大地风华）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 国庆招待会上的打包盒（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184360.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 国庆招待会上的打包盒（大地风华） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							董恒波&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　巴依卡·凯力迪别克老人坐在我面前，手捻着烟，缓缓讲述往事。&lt;/p&gt;&lt;p&gt;　　那是2024年，巴依卡·凯力迪别克被授予“人民卫士”国家荣誉称号，为此专门于国庆前夕赶赴北京。颁授仪式结束后，他受邀参加庄重的国庆招待会。这名来自帕米尔高原的塔吉克族牧民，一家三代接续为国护边，如今与各界代表共贺祖国华诞，同席欢度国庆，巴依卡·凯力迪别克心底的激动恰似高原白沙湖里涌动的浪花。&lt;/p&gt;&lt;p&gt;　　这是老人平生第一次在人民大会堂参加招待会，万千思绪萦绕心头。他默默想着，回到家乡以后，一定要把此行的所见所感讲给高原上的乡亲们听。因为这份沉甸甸的荣誉，属于帕米尔高原上每一名风雪戍边人。&lt;/p&gt;&lt;p&gt;　　招待会临近尾声，悠扬的乐曲响起，宾客陆续起身退场。巴依卡·凯力迪别克缓缓站起身，目光掠过偌大的餐桌，脚步顿住了。他环顾四周，迟疑着，没有跟着人流向外走。&lt;/p&gt;&lt;p&gt;　　“老爷爷，请问您需要帮忙吗？”一名女服务员快步上前，轻声询问。&lt;/p&gt;&lt;p&gt;　　巴依卡·凯力迪别克没有立刻答话，目光落在餐盘里几枚奶油寿桃上。&lt;/p&gt;&lt;p&gt;　　“这个大桃……”&lt;/p&gt;&lt;p&gt;　　话到嘴边，又被他咽了回去。他突然想到，这是人民大会堂的招待会，不是自家毡房里的家宴。自己已经饱餐，还要打包食物，会不会惹人笑话？&lt;/p&gt;&lt;p&gt;　　“老爷爷，您是不是想把寿桃带回去？”细心的服务员读懂了老人眼里的期盼。&lt;/p&gt;&lt;p&gt;　　巴依卡·凯力迪别克不好意思地笑了，缓缓点头：“这份国庆的幸福，我不愿独自享用。如果可以，我想把寿桃带回新疆，让家人一同感受这份喜悦。这样的喜悦是金钱买不来的。”&lt;/p&gt;&lt;p&gt;　　“我明白，老爷爷，招待会的食品可以带走，我这里准备了打包盒！”服务员笑着回应。&lt;/p&gt;&lt;p&gt;　　巴依卡·凯力迪别克跟着一笑，随口说道：“你不知道，我的小孙女都尔汗这次也跟着来了北京，这丫头可是个小馋娃。”&lt;/p&gt;&lt;p&gt;　　令老人意外的是，服务员轻轻说道：“我们都知道都尔汗，她是‘时代楷模’拉齐尼的女儿，是2023年全国‘新时代好少年’，全国的少年都以她为榜样呢。”&lt;/p&gt;&lt;p&gt;　　一边交谈，服务员一边小心翼翼地将寿桃放进打包盒，又取来塑料袋，把桌上几个苹果一并装好。“这几个苹果请您带给都尔汗，祝愿她好好学习，长大以后守护祖国的边疆。”&lt;/p&gt;&lt;p&gt;　　故事讲到这里，巴依卡·凯力迪别克忽然想起了什么，转身打开皮箱，小心翼翼取出那个印着人民大会堂字样的打包盒，像捧起一件珍宝，递到我眼前。&lt;/p&gt;&lt;p&gt;　　“寿桃和苹果，我早就分给乡亲们一起品尝了。但这个打包盒，我会好好珍藏。它装下的不只是点心，还有一份来自首都的温暖。”老人笑着邀约，“今天就在我家喝奶茶，吃馕与手抓饭吧。帕米尔的心意，你一定要尝尝！”&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;董恒波&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184360&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184360.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184360.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 国庆招待会上的打包盒（大地风华） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184360.html#[08版：副刊] 国庆招待会上的打包盒（大地风华）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184361.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/07/d880d192-9289-4173-a535-83066f7eb239.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　中国画《万山红遍  层林尽染》，作者陈维信，辽宁省博物馆藏。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184361&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184361.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184361.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184361.html#[08版：副刊] 图片报道</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 十月的这一天</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184362.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 十月的这一天 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							赵  阳&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　这一天，我在青铜器的幽光里读懂厚重&lt;/p&gt;&lt;p&gt;　　这一天，我在甲骨文的斑驳中细数璀璨&lt;/p&gt;&lt;p&gt;　　这一天，我在莫高窟的深沉里触摸雄伟&lt;/p&gt;&lt;p&gt;　　这一天，我在唐三彩的窑火中采撷浩瀚&lt;/p&gt;&lt;p&gt;　　我睁开懵懂的双眼，打开十月的课本&lt;/p&gt;&lt;p&gt;　　每一页都闪耀着大漠的孤烟壮丽的山川&lt;/p&gt;&lt;p&gt;　　我张开年少的臂膀，拥抱十月的阳光&lt;/p&gt;&lt;p&gt;　　每一缕都充盈着成长的炙热幸福的期盼&lt;/p&gt;&lt;p&gt;　　这一天，有一声呼唤穿越了上下五千年&lt;/p&gt;&lt;p&gt;　　“孩子，来吧！在塞北的雪中锻炼筋骨&lt;/p&gt;&lt;p&gt;　　九百六十多万平方公里的土地是你的脊梁”&lt;/p&gt;&lt;p&gt;　　这一天，有万里长风吹进了心爱的家园&lt;/p&gt;&lt;p&gt;　　“孩子，去吧！把青春的热血融进江河&lt;/p&gt;&lt;p&gt;　　祖国有多强大，未来的路就有多宽广”&lt;/p&gt;&lt;p&gt;　　这一天，天空那么明亮那么湛蓝&lt;/p&gt;&lt;p&gt;　　我在爱的芯片里找到了成长的答案&lt;/p&gt;&lt;p&gt;　　这一天，泥土那么芬芳那么饱满&lt;/p&gt;&lt;p&gt;　　我在梦的星河中点燃了出发的火焰&lt;/p&gt;&lt;p&gt;　　这一天，香江的风啊温柔无边&lt;/p&gt;&lt;p&gt;　　心在时光的投影中铭记年轻的誓言&lt;/p&gt;&lt;p&gt;　　这一天，维港的浪啊蓬勃舒展&lt;/p&gt;&lt;p&gt;　　爱在岁月的年轮里镌刻时代的诗篇 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;赵  阳&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184362&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184362.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184362.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 十月的这一天 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184362.html#[08版：副刊] 十月的这一天</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 我认识这片红</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184363.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 我认识这片红 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张惠芬&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　我认识这片红，它曾被我父亲&lt;/p&gt;&lt;p&gt;　　戴在胸前，像一盏灯&lt;/p&gt;&lt;p&gt;　　点亮草庐的夜&lt;/p&gt;&lt;p&gt;　　田间，命运的田埂传来风声&lt;/p&gt;&lt;p&gt;　　大地涌动，看啊&lt;/p&gt;&lt;p&gt;　　田野已孕育春的潮汐&lt;/p&gt;&lt;p&gt;　　我认识这片红，它来自一个书生的寒窗&lt;/p&gt;&lt;p&gt;　　苦读是必需的&lt;/p&gt;&lt;p&gt;　　有人通过苦读长出翅膀&lt;/p&gt;&lt;p&gt;　　他们的飞翔不仅与灯火有关&lt;/p&gt;&lt;p&gt;　　更重要的是把这光芒带给更多人&lt;/p&gt;&lt;p&gt;　　我认识这片红，它里面最大的那颗描述了&lt;/p&gt;&lt;p&gt;　　星星之火，与烽烟岁月的真理密不可分&lt;/p&gt;&lt;p&gt;　　它曾矢志不渝寻找镰刀和锤头&lt;/p&gt;&lt;p&gt;　　在一间隐秘的乡野小屋或某个&lt;/p&gt;&lt;p&gt;　　小巷的阁楼里，被誓言的血液染红&lt;/p&gt;&lt;p&gt;　　我认识这片红，它的名字里有五颗星星&lt;/p&gt;&lt;p&gt;　　走过77年的岁月&lt;/p&gt;&lt;p&gt;　　在漫漫征途中跋山涉水，披荆斩棘&lt;/p&gt;&lt;p&gt;　　只为寻找光明和理想&lt;/p&gt;&lt;p&gt;　　我看见了它的前赴后继&lt;/p&gt;&lt;p&gt;　　和前赴后继之后的人间清明&lt;/p&gt;&lt;p&gt;　　我认识这片红，它在所有的红色里&lt;/p&gt;&lt;p&gt;　　一直充当火种、火炬、灯塔、航标灯&lt;/p&gt;&lt;p&gt;　　在一个叫“龙的传人”的国度闪耀&lt;/p&gt;&lt;p&gt;　　如今它更红更亮了，站在历史的肩上&lt;/p&gt;&lt;p&gt;　　且看它的光芒照亮寰宇 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;张惠芬&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184363&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184363.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184363.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 我认识这片红 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184363.html#[08版：副刊] 我认识这片红</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 三块光荣牌（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184364.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 三块光荣牌（大地风华） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							马庆民&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　从我记事起，家里大院的门楣上，就挂着两块“光荣之家”的牌子。旧的那块，金漆剥落了大半，只剩“光荣”还勉强认得出。那是我爷爷的。&lt;/p&gt;&lt;p&gt;　　爷爷是抗美援朝的老兵，复员回乡时，政府发了这块牌子。当时家里还没院门，爷爷就亲手钉在堂屋门框上。后来堂屋翻修，门框拆了，爷爷修了院子，牌子就挂在了院门门楣上。&lt;/p&gt;&lt;p&gt;　　第二块是大伯父的。大伯父19岁参军，在西北戈壁滩上待了6年。退役那年，民政部门送来新牌子，锃亮。&lt;/p&gt;&lt;p&gt;　　爷爷很高兴，亲手将那块牌子也郑重地挂在院门上，旧的在上，新的在下。&lt;/p&gt;&lt;p&gt;　　国庆节擦牌子、挂国旗，是我家几十年的规矩。以前是爷爷亲自动手，先拿湿布擦一遍光荣牌，再用干布擦一遍，最后用一块旧绒布细细地揩。有时他动作很慢，慢到像是在抚摸一件件往事。&lt;/p&gt;&lt;p&gt;　　后来，爷爷走了，擦光荣牌的活儿落到大伯父头上。大伯父和爷爷不一样，他擦爷爷的光荣牌很仔细，自己的却擦得很快，三下两下就擦完了。&lt;/p&gt;&lt;p&gt;　　挂上国旗后，大伯父会仰着头，看着国旗，也看着光荣牌，没有人知道他在想什么。&lt;/p&gt;&lt;p&gt;　　我9岁那年，父亲因为一场车祸离开了人世。我最伤心的时候，大伯父把我牵到了院门前，指着光荣牌说：“孩子，坚强点，咱们是光荣之家，什么困难都不怕！”后来，一直是大伯父默默帮衬我们的生活。&lt;/p&gt;&lt;p&gt;　　有一年国庆前，大伯父要出远门。临走那晚把我叫到院门口，指着门楣上的光荣牌说：“你长大了，以后由你来擦牌子。”&lt;/p&gt;&lt;p&gt;　　那是我第一次亲手触摸那两块牌子。旧的那块，很粗糙，还卷了边儿。我不能想象，几十年里，这块牌子被爷爷擦过多少遍。&lt;/p&gt;&lt;p&gt;　　后来我参了军。走的那天，大伯父又指着那两块牌子说：“好好干。下面这块地方，给你留着。”谁知我在部队一干就是20年。有一次回家探亲，母亲告诉我，大伯父去世前，每次擦牌子时，都把为我留的那块地方顺带擦得干干净净。&lt;/p&gt;&lt;p&gt;　　大伯父走后，这些年，是母亲替我在擦牌子。&lt;/p&gt;&lt;p&gt;　　几年前，我转业回地方。那年年底，退役军人事务部寄来属于我的“光荣之家”。它比前两块都大，而且红彤彤、金灿灿的。那年国庆，我将这块牌子带回家，亲手挂在大伯父留给我的地方。然后又亲手将三块牌子擦拭了一遍。&lt;/p&gt;&lt;p&gt;　　最旧的那块，字的颜色已完全脱落，不过字的痕迹却依然醒目。就像爷爷不喜欢说话，眼里却始终有光。&lt;/p&gt;&lt;p&gt;　　大伯父那块，金漆也变暗了。我用绒布把“光荣之家”四个字一个一个地擦拭，似乎找到了他为什么总是那么快擦完、又会站着看很久的答案。&lt;/p&gt;&lt;p&gt;　　最后擦我自己的。这块最亮、最新、最显眼。我擦得快，就像当年的大伯父那样。&lt;/p&gt;&lt;p&gt;　　擦完牌子，就是挂国旗。巧的是，国旗刚挂上，风就来了。旗子被风展开，猎猎地响，仿佛嘹亮的军号。&lt;/p&gt;&lt;p&gt;　　母亲抬头看着我，嘴角动了动，想说什么，最终没说。其实我知道她想说什么。毕竟这块门楣上，有一大家子三代人的追求。&lt;/p&gt;&lt;p&gt;　　三块牌子，旧的在上面，新的在下面，似乎永远闪动着温润的光芒。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;马庆民&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184364&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184364.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184364.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 三块光荣牌（大地风华） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184364.html#[08版：副刊] 三块光荣牌（大地风华）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 母亲有块苞谷地（大地风华）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184365.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 母亲有块苞谷地（大地风华） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							陈  平&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　母亲77岁了，是共和国的同龄人。&lt;/p&gt;&lt;p&gt;　　她住在湖北巴东大山深处的土家山寨，守着几亩坡地。我们兄妹三家曾商量接母亲进城住，可母亲高低不同意，坚持在家种地养猪，只嘴上答应少种点。母亲的坡地离家有点远，上坡下坎不方便，春种运肥入田、秋收运粮回家，都得靠人工背来背去。于是我们兄妹约定，每年“五一”假期一起回家帮她移栽苞谷，国庆假期再回来陪她一起秋收。年年坚持，至今已是第十七个年头了。&lt;/p&gt;&lt;p&gt;　　往年，三亩坡地的苞谷，三个男劳力要背一整天，往返几十趟，肩膀都要背肿。可自去年开始，情况不一样了，因为妹夫添置了一架无人机。&lt;/p&gt;&lt;p&gt;　　记得去年国庆假期前，母亲在家人群里发了一张图片。金色阳光下，苞谷地里浮着一层稀薄的雾霭，熟透的苞谷棒子坠弯了秸秆。母亲还发来语音说，孙女在网上买的赶野牲口的报警器帮了大忙，苞谷一根都没损失，说完发来一连串开怀大笑的表情。&lt;/p&gt;&lt;p&gt;　　去年国庆节当日，三家人几乎同时从州城、县城回到母亲的院坝里。妹夫皮卡车上的无人机最是吸睛，像一只蹲着的岩鹰。妹夫介绍起他做职业飞手的经历，又介绍他的载重无人机，一次可载150公斤，运输极为方便。在厨房做饭的母亲也出来看热闹，她满脸疑惑，不相信眼前这个铁家伙能帮她把三亩地的苞谷给背回来。&lt;/p&gt;&lt;p&gt;　　早餐后，我们开始收苞谷，由妹夫统一指挥调度，母亲留在家里负责做饭，院坝里只留一个男劳力卸筐，其余人都到地里掰苞谷、装筐、挂钩。无人机嗡嗡地起飞，飞临苞谷地上空悬停，扇动的风吹得苞谷秆哗哗响，整片苞谷地仿佛都在笑。当第一筐苞谷稳稳地落在吊脚楼前的院坝里时，母亲站在大门口倒吸了一口凉气，感叹了一句：“现在这科技，真是了不得……”&lt;/p&gt;&lt;p&gt;　　不到半天，三亩地的苞谷就妥妥地堆在院坝中，堆成一座小小的苞谷山。&lt;/p&gt;&lt;p&gt;　　撕苞谷皮的机器和脱粒用的小型机器，前些年就装备到了村民的家里。弟弟从邻居家借来了撕皮机和脱粒机，院坝里喊了声：“两小时收工。”说话间，机器就响了。妹夫收好无人机，和我一起把轧秸秆的粉碎机抬进地里，秸秆轧碎铺在地里，冬天再翻进土中，做来年的肥料。&lt;/p&gt;&lt;p&gt;　　晚霞染红西边山梁时，吊脚楼的屋檐下挂上了金黄的苞谷串，剩下的都变成晒席上金灿灿的苞谷粒。&lt;/p&gt;&lt;p&gt;　　这时候，母亲已做好了晚饭，招呼大家一起入座。劳动之后，这顿晚餐吃得特别香。在这举国同庆的日子里，一大家子过了一个实实在在的丰收节。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;陈  平&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184365&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184365.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184365.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 母亲有块苞谷地（大地风华） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184365.html#[08版：副刊] 母亲有块苞谷地（大地风华）</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 本版责编：张  健  周舒艺  马  涌  张珊珊  程  红</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184366.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：张  健  周舒艺  马  涌  张珊珊  程  红 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月07日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本版邮箱：dadi@peopledaily.cn&lt;/p&gt;&lt;p&gt;　　版式设计：赵偲汝&lt;/p&gt;&lt;p&gt;　　欢迎广大读者来稿，来稿要求为原创首发，非一稿多投。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-07 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184366&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184366.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/07/content_30184366.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：张  健  周舒艺  马  涌  张珊珊  程  红 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/07/content_30184366.html#[08版：副刊] 本版责编：张  健  周舒艺  马  涌  张珊珊  程  红</guid>
+      <pubDate>Wed, 07 Oct 2026 09:40:14 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
