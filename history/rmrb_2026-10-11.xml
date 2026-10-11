@@ -1,0 +1,1360 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 10 Oct 2026 01:49:18 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 中共中央国务院关于发展新质生产力的意见</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184817.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中共中央国务院关于发展新质生产力的意见 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　发展新质生产力是推动高质量发展的内在要求和重要着力点。为加快发展新质生产力，现提出如下意见。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;一、总体要求&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，完整准确全面贯彻新发展理念，坚持创新主导、改革为要、因地制宜、先立后破，坚持高技术、高效能、高质量，统筹处理好政府和市场、质态和业态、改革和发展、自主和开放的关系，统筹发展和安全，以科技创新为引领，以全要素生产率大幅提升为核心标志，推动技术革命性突破、生产要素创新性配置、产业深度转型升级，推动劳动者、劳动资料、劳动对象优化组合和更新跃升，全方位推进科技创新、产业创新、发展方式创新、体制机制创新、人才工作机制创新，加快形成同新质生产力更相适应的生产关系，营造有利于科技创新和产业创新深度融合的良好发展生态，更好支撑高质量发展。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;二、大力推进科技创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　（一）加强原创性颠覆性科技创新。坚持面向世界科技前沿、面向经济主战场、面向国家重大需求、面向人民生命健康，聚焦战略性、标志性、引领性产品组织重大科技项目。坚持目标导向和自由探索并重，通过有组织的基础研究、应用基础研究解决技术科学和工程科学薄弱问题，支持自由探索类基础研究开拓创新。统筹科技创新平台基地建设，体系化布局建设重大科技基础设施，强化开放共享，避免重复分散。实施基础学科和交叉学科突破计划。加强原创理论研究和关键共性技术、前沿引领技术、现代工程技术、颠覆性技术创新。&lt;/p&gt;&lt;p&gt;　　（二）加快突破关键核心技术。发挥新型举国体制优势，在重点领域组织实施制造业重点产业链高质量发展行动和产业创新工程，强化全链条攻关、全要素支持、全生态建设。落实好首台（套）、首批次应用政策，促进技术迭代升级。&lt;/p&gt;&lt;p&gt;　　（三）统筹国家战略科技力量建设。发挥国家实验室组织国家重大科技项目、建设国家重大创新平台等方面作用，在体制机制改革上先行先试。以国家战略需求为导向，优化国家科研机构、高水平研究型大学、科技领军企业定位和布局。逐步建立激发创新活力、知识价值导向、管理规范有效、保障激励兼顾的高等学校、科研院所薪酬制度，同步推进国家科研机构、高水平研究型大学改革，调动科研机构和科研人员积极性。允许科研类事业单位实行更灵活的管理制度。充分发挥科技领军企业在推动创新链产业链资金链人才链深度融合中的关键作用。&lt;/p&gt;&lt;p&gt;　　（四）强化企业科技创新主体地位。加强普惠激励政策供给，建立企业研发准备金制度，强化企业科技投入主导作用。鼓励科技型中小企业加大研发投入，提高企业研发费用加计扣除比例。将符合国家战略需求的企业研发项目按程序上升为国家项目，鼓励企业牵头国家科技任务，支持有能力的民营企业牵头承担国家重大技术攻关任务。建立用户考核评价成果的机制，强化企业成果转化主体地位。健全国有企业推进原始创新制度安排。支持专精特新中小企业发展。&lt;/p&gt;&lt;p&gt;　　（五）加速科技成果向现实生产力转化。用好超大规模市场优势，推动技术与市场高效对接，促进新质生产力规模化发展。实施新技术新产品新场景大规模应用示范行动。布局建设概念验证、中试验证平台，加大应用场景建设和开放力度。探索建立科技项目全过程评价机制，立项时一体部署研发和转化任务，验收时考核应用实绩，解决技术开发与成果转化脱节问题。引导高等学校、科研院所按照先使用后付费方式把科技成果许可给中小微企业使用。推动大企业向中小微企业开放供应链，支持中小微企业成为成果产业化的重要力量。以人工智能引领科研范式变革，助力提升科研效率。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;三、推动科技创新和产业创新深度融合&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　（六）改造提升传统产业。守牢实体经济根基，巩固和拓展中国制造硬实力。以国家标准提升引领传统产业优化升级，支持企业用数智技术、绿色技术改造提升传统产业。组织实施重点产业提质升级行动，巩固提升矿业、冶金、化工、轻工、纺织、机械、船舶、建筑等产业在全球产业分工中的地位和竞争力。开展产业基础再造工程、重大技术装备攻关工程、制造业重大技术改造升级工程和大规模设备更新工程。强化对制造业企业技术改造的资金支持，落实技术改造投资相关税收优惠政策，促进制造业数智化转型，发展智能制造、绿色制造、服务型制造。增强质量技术基础能力，加强品牌建设。深入实施新一轮千亿斤粮食产能提升行动、种业振兴行动、智慧农业行动、农机装备高质量发展行动、设施农业现代化提升行动和农业科技创新条件建设工程，发展农业工厂等新形态。实施服务业扩能提质行动，分领域推进生产性服务业向专业化和价值链高端延伸，促进生活性服务业高品质、多样化、便利化发展。&lt;/p&gt;&lt;p&gt;　　（七）培育壮大新兴产业。着力打造新兴支柱产业。加快新一代信息技术、新能源、新材料、智能网联新能源汽车、机器人、生物医药、高端装备、航空航天等战略性新兴产业发展，因地制宜建设各具特色、优势互补的战略性新兴产业集群，推动资源集聚、主体集中、成果集成、分工合作。深化产业内、产品内专业分工，促进跨行业跨区域融合，避免“内卷式”竞争。以产业链为主导、以企业为主体建立跨区域产业协作机制，支持东部地区带动中西部和东北地区因地制宜发展新兴产业。在确保安全前提下，推动低空经济、商业航天健康有序发展。&lt;/p&gt;&lt;p&gt;　　（八）前瞻布局未来产业。探索多元技术路线、典型应用场景、可行商业模式、市场监管规则，推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等未来产业发展，加快形成比较完备的产业生态。建立未来产业投入增长和风险分担机制，充分用好现有财政政策支持未来产业发展，引导社会资本持续加大投入。&lt;/p&gt;&lt;p&gt;　　（九）促进实体经济和数字经济深度融合。健全数据产权归属认定、市场交易、权益分配、利益保护制度，实施数据要素相关试点示范工程，充分释放数据要素潜能。优化国家数据基础设施布局建设和运营，深入开展制造业数字化转型行动，实施“东数西算”、智能制造、工业互联网创新发展等工程，建设全国一体化算力网、国家区块链网络。完善促进数字产业化和产业数字化政策体系，打造具有国际竞争力的数字产业集群。&lt;/p&gt;&lt;p&gt;　　（十）全面实施“人工智能+”行动。推进人工智能对传统产业的改造，加快推进智能网联新能源汽车、人工智能手机和电脑、人形机器人等新一代智能终端场景应用。加快人工智能等数智技术创新，突破基础理论和核心技术，强化算力、算法、数据等高效供给。因地制宜、分业施策布局国家人工智能行业应用中试基地和高价值应用场景，大力推动人工智能在各行业应用。构建技术监测、风险预警、应急响应体系，确保人工智能安全、可靠、可控。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;四、着力推进发展方式创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　（十一）构建绿色低碳循环发展经济体系。做强绿色制造业，发展绿色服务业，壮大绿色能源产业。坚持源头减量、过程控制、末端高效治理相结合，统筹推进重点行业绿色化改造，加快绿色科技创新和先进绿色技术推广应用。健全绿色消费激励机制，加强绿色产品认证与标识体系建设，提升绿色消费水平，以绿色消费带动绿色产品供给。建设一批零碳工厂和园区。完善资源总量管理和全面节约制度，健全废弃物循环利用体系。&lt;/p&gt;&lt;p&gt;　　（十二）优化绿色发展政策工具箱。实施促进绿色低碳发展的财税、金融、投资、价格、科技、环保政策。健全生态产品价值实现机制，全面实施碳排放总量和强度双控制度，健全碳排放统计核算体系、标准计量体系、产品碳标识认证制度、产品碳足迹管理体系。以全国碳市场为主体完善碳定价机制，扩大全国碳排放权交易市场覆盖范围，优化碳排放配额分配方案，加快温室气体自愿减排交易市场建设，完善全国统一绿证市场。推动金融机构提供多样化绿色金融产品。优化政府绿色采购政策，完善绿色税制。实施以绿色生态为导向的农业补贴制度。&lt;/p&gt;&lt;p&gt;　　（十三）积极推进能源革命。聚焦碳达峰碳中和目标，有序发展先进核裂变能，构建高比例可再生能源电力系统，完善新能源消纳和调控政策措施，组织重大应用场景示范和推广，加速全社会生产生活用能绿色化进程，推动能源消费、供给、技术、体制革命，全方位加强国际合作。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;五、扎实推进体制机制创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　（十四）聚焦科技和经济紧密结合深化改革。在国家重大工程项目中按需部署科技任务，健全需求导向的选题制度、责权利一致的管理制度、应用导向的评价制度。深化职务科技成果赋权和资产单列管理改革。允许符合条件的国有企业开展多种形式激励。建设开放共享安全的全国一体化数据市场，健全转化高效的技术市场，促进各类先进优质生产要素高效集聚、顺畅流动。&lt;/p&gt;&lt;p&gt;　　（十五）完善市场监管制度。完善市场准入制度，强化反垄断和反不正当竞争。加强人工智能、生物等领域治理。强化跨部门联合监管，创新监管方式，减少现场监管次数，探索“用数据决策、用数据管理”监管模式，提升跨部门综合监管智能化水平。建立高效的知识产权综合管理体制，完善惩罚性赔偿制度。研究同新业态相适应的税收制度。&lt;/p&gt;&lt;p&gt;　　（十六）加大金融创新产品供给。鼓励和规范发展天使投资、风险投资、私募股权投资，更好发挥政府投资基金引导带动作用，完善长期资本投早、投小、投长期、投硬科技的支持政策，壮大耐心资本。鼓励银行开发符合新质生产力特点的贷款产品。丰富科技创新债券产品体系，支持优质科技型企业上市融资，优化科技型企业并购重组、股权激励等制度。发展覆盖科技创新全链条的保险产品，探索科技租赁等业务。&lt;/p&gt;&lt;p&gt;　　（十七）在全球配置先进生产要素。扩大高水平对外开放，开拓用好全球市场。鼓励自由贸易试验区结合区位特点、资源禀赋、产业优势，集聚国内外先进生产要素。发挥各类多边双边合作机制作用，推动共建科技园区、“一带一路”联合实验室、国际先进技术应用推进中心等平台，主动构建全球创新合作网络。牵头实施并积极参与国际大科学计划和大科学工程。鼓励外资创业投资机构、国际标准组织等来华发展。建立高效便利安全的数据跨境流动机制。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;六、深化人才工作机制创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　（十八）培养新质生产力发展急需人才。统筹推进教育科技人才体制机制一体改革。推动高等教育提质扩容，发展新型研究型大学，根据产业和科技发展趋势，优化高等学校学科专业设置调整机制。推动现代职业教育高质量发展，全面推进工学一体化技能人才培养模式。坚持在实践中造就人才。鼓励企业和高等学校联合定制化培养人才，支持大国工匠、高技能人才兼任职业学校实习实训教师。充分发挥科学技术普及对提高劳动者素质的重要作用。&lt;/p&gt;&lt;p&gt;　　（十九）健全人才使用和流动政策。落实税收优惠政策，健全终身职业技能培训制度，实施制造业人才支持计划和专业技术人才知识更新工程，支持用人单位培养人才。加快推动科研人员考核评价激励与报项目、发论文、评奖励等适度脱钩，防止简单按人才“帽子”定薪酬、定职称、定待遇。加快破除各种隐性壁垒，畅通高等学校、科研院所、企业人才交流通道。健全“新八级工”职业技能等级制度，畅通产业工人向上发展通道。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;七、加强组织实施&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　各地区各有关部门要在党中央集中统一领导下，强化全国一盘棋思想，坚持因地制宜，加强分类指导和重点领域统筹，优化重大生产力布局。坚持先立后破、稳中求进，不能脱实向虚、贪大求全、搞泡沫化，不能出现产业空心化或产业断层现象，不能盲目求新、顾此失彼。各级领导干部要树立和践行正确政绩观，结合实际探索发展路径，严禁借发展新质生产力之名违规滥用政策，对一哄而上、盲目投资等造成重大损失的严肃追究责任。加强部门协调配合，形成工作合力。中央财办、国家发展改革委要统筹做好理论研究、战略规划、跨区域跨部门协调、跟踪监测评估等工作。及时总结经验做法，加强宣传推广，营造良好氛围。重大事项及时按程序向党中央、国务院请示报告。&lt;/p&gt;&lt;p&gt;　　（新华社北京10月9日电）&lt;/p&gt;&lt;p&gt;　　（国家发展改革委有关负责同志答记者问见第二版）&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184817&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184817.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184817.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中共中央国务院关于发展新质生产力的意见 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184817.html#[01版：要闻] 中共中央国务院关于发展新质生产力的意见</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 桑榆正好  霞满人间</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184818.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 广大老年志愿者为推进中国式现代化贡献“银发力量”—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 桑榆正好  霞满人间 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  吴储岐&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　金秋十月，敬老情浓，全国“敬老月”活动展开，各地把关爱落到实处，让广大老年人既能安享晚年，也能在服务社会中施展所长。今年是“十五五”开局之年。“十五五”规划纲要对积极应对人口老龄化作出部署，明确提出深入开展“银龄行动”。&lt;/p&gt;&lt;p&gt;　　习近平总书记指出：“要为老年人发挥作用创造条件，引导老年人保持老骥伏枥、老当益壮的健康心态和进取精神，发挥正能量，作出新贡献。”&lt;/p&gt;&lt;p&gt;　　中国式现代化的壮阔图景里，有亿万老年人安享晚年的幸福，也有他们接续奋斗的担当。这支银发志愿队伍，阅历丰厚，壮心未已。在习近平总书记的殷殷关切下，广大老年志愿者走向基层、走进群众，把岁月积淀的智慧与热忱汇入服务人民、奉献社会的时代洪流。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;丹心传薪火&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“既要老有所养、老有所乐，又要老有所为”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　暖色调的家具，家一般的布置。在重庆市两江新区鸳鸯街道，“老班长”调解室首席调解员陆培宝希望温馨的环境能让调解双方放松心情。&lt;/p&gt;&lt;p&gt;　　退休后，陆培宝把多年积累的相关工作经验用在化解邻里纠纷上。房东与租户起了争执，他先厘清责任，再讲彼此情谊，促成双方和解。达成协议后，他还要回访，看看后续效果。“全心全意为人民服务，是我作为一名共产党员的本分。”陆培宝说。&lt;/p&gt;&lt;p&gt;　　“希望广大老年朋友保持老骥伏枥、老当益壮的健康心态和进取精神，既要老有所养、老有所乐，又要老有所为，为推进中国式现代化贡献‘银发力量’。”2024年10月9日，习近平总书记给“银龄行动”老年志愿者代表回信，对他们予以亲切勉励。&lt;/p&gt;&lt;p&gt;　　莫道桑榆晚，为霞尚满天。老年人是党和国家的宝贵财富。近年来，新时代“银龄行动”不断拓面升级、提质增效，越来越多老年人投身志愿服务。&lt;/p&gt;&lt;p&gt;　　北京“西城大妈”、浙江“武林大妈”……一支支为群众熟知的志愿服务队伍中，活跃着银发志愿者的身影。&lt;/p&gt;&lt;p&gt;　　在广西壮族自治区钦州市浦北县，退休农技专家张兴财把“移动课堂”开到田间。他将农技知识编成书，免费送到农户手中，还建立了水果产业人才工作站。技术送到田间，本领留给农户，老专家的经验成为更多农民发展产业的支撑。&lt;/p&gt;&lt;p&gt;　　一代人的经验，连着后来人的成长；一代人的守护，滋养一个社会的精神。&lt;/p&gt;&lt;p&gt;　　“一块块守护小家的门板，连成了抗日救国的桥梁。”江西省宜春市上高县抗日阵亡将士陵园，银龄志愿者昝鸿祥深情讲述百姓拆下自家门板、搭起浮桥送抗日将士过河的往事。&lt;/p&gt;&lt;p&gt;　　昝鸿祥常到陵园义务讲解，还为当地博物馆、纪念馆培训讲解员。自己讲，也教别人讲，让更多人了解这段历史，也让故事里的精神代代相传。&lt;/p&gt;&lt;p&gt;　　基层治理、乡村全面振兴、文化传承……老年志愿者的服务足迹遍及城乡。截至目前，全国参与志愿服务的老年人已超过5000万人，在解民忧、暖民心中发挥着积极作用。&lt;/p&gt;&lt;p&gt;　　积极应对人口老龄化，既要回应老年人的生活需要，也要珍视老年群体蕴藏的丰富资源。知识经验在传授中延续，优良品格在奉献中传承，老一辈的所学所长正在志愿服务中不断惠及社会，展现着老有所为的风采。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;晚景更丰盈&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“利用所学所长服务基层、服务群众，向社会传递正能量”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　一门法律史课，有学生完整听了两遍。下课后，有人留下探讨问题，有人邀请老师参加读书会，还有人请他帮忙修改文章。&lt;/p&gt;&lt;p&gt;　　这是银龄教师李鸣在新疆政法学院的教学日常。退休后，他参加高校银龄教师支援西部计划，把讲台从北京搬到新疆。他深入基层调研，结合当地实际充实课程，将研究所得带进课堂，又从教学中发现新问题。“很感谢有这样一个平台，能让我们老教师发挥余热，做力所能及的事。”李鸣说。&lt;/p&gt;&lt;p&gt;　　习近平总书记肯定老年志愿者“利用所学所长服务基层、服务群众，向社会传递正能量，展现了新时代中国老年人的精神风貌”。&lt;/p&gt;&lt;p&gt;　　幸福的晚年，既有生活的安稳，也有精神的充实。继续学习、施展所长，在参与社会生活中实现价值、收获快乐，是许多老年人的心愿。&lt;/p&gt;&lt;p&gt;　　有参与的意愿，还要有施展所长的机会。民政部、全国老龄办、中国老龄协会推动建设全国“银龄行动”信息服务平台，提供信息查询、服务链接、事项办理等服务。原单位、行业组织、所在社区共同搭台，为有意愿参与的老人提供用武之地。&lt;/p&gt;&lt;p&gt;　　教育、卫生健康、科技等领域的银发人才，在各具特色的项目中施展所长。“国家银龄教师行动计划”支持老教师重返课堂，“老专家服务基层健康行动”把诊疗经验带到基层，“银龄助企”组织老科技工作者为企业解难。北京内蒙古、上海云南、浙江四川等省际结对帮扶，让老年人才的专长跨越地域，在更需要的地方发挥作用。&lt;/p&gt;&lt;p&gt;　　舞台向远方延伸，也在家门口生长。新时代“银龄行动”的参与主体从老年知识分子拓展到全体老年人，在智力援助、技术帮扶的基础上，服务内容进一步拓展至儿童托管、互助养老等领域。&lt;/p&gt;&lt;p&gt;　　陕西省西安市解家村新社区，“巧姐”志愿服务队的退休阿姨们因跳舞结缘，又结伴服务邻里。她们搬椅子、备茶水，陪老人聊天，分片结对照顾高龄、独居邻居；发现老街坊进出单元门不便，便向社区提出建议，推动改造。&lt;/p&gt;&lt;p&gt;　　从跟着社区参加活动，到主动为邻里出主意、办实事，老年人在建设家园中找到了新的乐趣。各地依托基层老年协会、社区志愿服务队，把更多热心的老年人组织起来，让他们在家门口找到发挥所长的机会。&lt;/p&gt;&lt;p&gt;　　安享与有为相伴，晚年生活愈加丰盈；个人与社会相融，时代前行更添活力。在参与中实现价值，在奉献中收获成长，越来越多的老年人正把对美好生活的向往写进老有所为的日常。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;保障护热忱&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“把老年人生活保障好、作用发挥好、权益维护好”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　福建省永安市黄山社区，退休语文教师陈奶奶正带着孩子们诵读古诗。“共享奶奶”志愿服务队成员帮家长接送、陪护孩子，社区也为老人做好服务保障。与家庭签订《爱心公约》，明确各方权责，为“共享奶奶”统一购买意外险、组织急救培训，志愿服务时长还能兑换家政服务或体检项目。一项项安排，让热心助人的老年人有了安心参与的依靠。&lt;/p&gt;&lt;p&gt;　　老年人照看孩子，社会照应老年人。奉献的脚步走到哪里，对老年人的关心关爱就跟进到哪里。&lt;/p&gt;&lt;p&gt;　　“把老年人生活保障好、作用发挥好、权益维护好。”习近平总书记对各级党委和政府提出明确要求。&lt;/p&gt;&lt;p&gt;　　中共中央、国务院印发《关于深化养老服务改革发展的意见》，部署深化拓展“银龄行动”。全国老龄委印发《关于深入开展新时代“银龄行动”的指导意见》，对拓宽参与渠道、加强服务保障等作出安排。2025年，民政部、中央组织部等19部门印发《关于支持老年人社会参与  推动实现老有所为的指导意见》，健全党委领导、政府主导、部门协同、各方参与的工作格局。从拓展参与空间到明确各方责任，支持老年人社会参与的制度保障不断健全。&lt;/p&gt;&lt;p&gt;　　组织起来，更要保障到位。评估志愿者身体状况，提供服务所需的物资设备，做好安全保障、提供相应保险，“谁招募、谁负责，谁使用、谁保障”的要求，贯穿老年人参与志愿服务的各个环节。&lt;/p&gt;&lt;p&gt;　　“今天轮到我值班啦！”浙江省温岭市丹崖社区食堂里，居民陈阿婆一边麻利地分装饭菜，一边热情地打招呼。在政府补贴、社会捐赠等支持下，社区老年人享受免费就餐。许多退休老年人还自发组成志愿服务队。“现在我还干得动，当然要出一份力！”陈阿婆说。&lt;/p&gt;&lt;p&gt;　　老有所为的舞台，立在老有所养的根基之上。完善养老保险和医疗保障，推进养老服务网络建设，发展老年助餐服务，加强老年人健康管理，各部门协同发力，让晚年生活更有依靠。&lt;/p&gt;&lt;p&gt;　　生活有保障，权益有守护，老人安享晚年更有底气，家人也多一份安心。针对金融理财等领域的风险，民政部、全国老龄办等7部门出台专项政策，推动建立健全维护老年人合法权益工作机制，提升老年人识骗防骗能力，形成风险预警防范、纠纷发现报告、纠纷化解处置的工作闭环，不断提高老年人维权服务质量。&lt;/p&gt;&lt;p&gt;　　自觉自愿、量力而行，既是开展“银龄行动”的原则，也是对老年人生活选择的尊重。今年，上海市在关于构建老年人社会参与支持体系的实施方案中，提出鼓励建立长者志愿者荣誉退出及嘉许机制。愿意继续服务时，有施展所长的天地；需要放慢脚步时，曾经的付出仍被珍重。&lt;/p&gt;&lt;p&gt;　　让有意愿、有能力的老年人尽展所长，让每一位老年人都能安享晚年，关乎他们的今天，也关乎全社会的明天。把保障生活、支持参与、维护权益落到实处，体现着以人民为中心的发展思想，也彰显着中国式现代化的民生底色。&lt;/p&gt;&lt;p&gt;　　在习近平总书记的关心关怀下，广大老年志愿者正以老骥伏枥、老当益壮的进取精神，把一生所学用于服务社会，把个人追求融入家国事业，为推进中国式现代化贡献“银发力量”。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  吴储岐&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 广大老年志愿者为推进中国式现代化贡献“银发力量”—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184818&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184818.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184818.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 桑榆正好  霞满人间 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184818.html#[01版：要闻] 桑榆正好  霞满人间</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 济南着力推动产学研融通创新（“十五五”开好局起好步）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184819.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 济南着力推动产学研融通创新（“十五五”开好局起好步） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李  波  侯琳良  王  者&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　10月初，行走在泉城济南，“新”意扑面而来——&lt;/p&gt;&lt;p&gt;　　新技术在突破：在济南高新区，本地企业组建的颗粒物光量子雷达监测网络，几分钟就能完成城市全域扫描，污染源识别准确率超95%；&lt;/p&gt;&lt;p&gt;　　新项目已落地：在济南新旧动能转换起步区，光伏组件次第走下330米智能化生产线；&lt;/p&gt;&lt;p&gt;　　新产业正成势：济钢集团卫星总装基地，累计签约航空航天项目20多个，具备年产100颗500公斤级卫星的制造与实验能力。&lt;/p&gt;&lt;p&gt;　　2024年5月，习近平总书记在山东考察时指出：“山东在推进科技创新与产业创新深度融合、发展新质生产力、完善现代化产业体系上大有可为。”“十五五”规划纲要提出：“推动科技创新和产业创新深度融合，不断催生新质生产力。”&lt;/p&gt;&lt;p&gt;　　深入贯彻落实习近平总书记重要指示精神和党中央决策部署，济南着力推动产学研融通创新，因地制宜发展新质生产力，不断完善现代化产业体系。&lt;/p&gt;&lt;p&gt;　　完善成果转化路径。&lt;/p&gt;&lt;p&gt;　　铌酸锂是高端光芯片的核心衬底材料。2024年，经过不懈努力，济南大学前沿交叉科学研究院教授孙德辉带领团队成功研制出12英寸铌酸锂晶体。&lt;/p&gt;&lt;p&gt;　　成果突破让人振奋，但能否打开市场，仍是未知。“很多前沿技术止步在‘最后一步验证’，难以贴合产业。”孙德辉深谙成果转化的痛点。&lt;/p&gt;&lt;p&gt;　　为此，济南大学联合本地企业组建概念验证中心，专门为前沿技术“把脉问诊”。该中心已完成20余项技术产品验证，引导打造从晶体材料到高端光芯片的完整产业链。孙德辉团队新研发的铌酸锂基光芯片，已经在这里开展应用验证。&lt;/p&gt;&lt;p&gt;　　济南市现已建成16家省市级概念验证中心，覆盖新一代信息技术、生物医药、集成电路等领域，累计入库科创项目376项，55项前沿技术成功实现就地转化。预计到2028年，济南将建成20家市级概念验证中心、50家以上中试平台，构建“研发—验证—中试—量产”全链条，持续提升科技成果就地转化率。&lt;/p&gt;&lt;p&gt;　　推动新旧动能转换。&lt;/p&gt;&lt;p&gt;　　在济钢集团卫星总装车间，精密设备林立，即将交付的卫星正在进行最后的环境模拟测试。&lt;/p&gt;&lt;p&gt;　　“转型后的济钢，持续‘腾笼换鸟’，发展新兴产业。”济钢集团党委书记、董事长刘仕君介绍，济钢已构建起卫星总装、核心部件制造、火箭动力测试的完整产业链，集聚上下游企业159家，形成“北京研发、济南制造、烟台发射”的跨区域协同格局。&lt;/p&gt;&lt;p&gt;　　立足自身实际，济南加快推动传统产业转型升级、新兴产业不断扎根生长。&lt;/p&gt;&lt;p&gt;　　在济南新旧动能转换起步区，随着山东能源集团平米级百兆瓦钙钛矿光伏电池中试产线建成投产，关闭退出多年的新阳煤矿也摇身一变，实现从“地下挖煤”到“地上发电”的华丽转身。&lt;/p&gt;&lt;p&gt;　　济南着力优化市域产业结构，引导各区县错位发展、各展所长，推动全域形成梯度布局、协同共进的现代化产业体系。&lt;/p&gt;&lt;p&gt;　　涵养良好创新生态。&lt;/p&gt;&lt;p&gt;　　受困于高端抗菌改性技术短板，山东灵犀院科技发展股份有限公司的自主攻关屡屡碰壁。&lt;/p&gt;&lt;p&gt;　　正当企业陷入瓶颈时，齐鲁工业大学教师杨鹏飞团队的新技术恰好可以满足需求。&lt;/p&gt;&lt;p&gt;　　“技术虽好，但怕水土不服，试错成本高。”公司副总经理亓鹏的顾虑，也是众多小微企业的共同感受。&lt;/p&gt;&lt;p&gt;　　针对小微企业的困扰，济南创新推出“先使用、后付费”校企专利合作新模式，企业可免费试用一年，适配落地再签约，不合适即可退出。&lt;/p&gt;&lt;p&gt;　　零门槛试水、全链条助力，科研团队3次下沉产线，仅用45天便实现批量投产，灵犀院顺利签约两项核心专利。“一年节省成本近百万元，企业实打实受益。”亓鹏坦言，政策托举让企业的创新路越走越宽。&lt;/p&gt;&lt;p&gt;　　以改革破壁垒、以服务优环境，济南从专利转化、金融赋能、考核导向多维度精准发力，培育良好生态，让创新要素自由流动、高效聚合。去年，济南实现技术合同成交额1025亿元、同比增长10.7%，万人有效发明专利拥有量87.2件、同比增长17.8%。截至去年底，济南科技型中小企业超过9400家，科创企业贷款余额超过3000亿元。&lt;/p&gt;&lt;p&gt;　　牢记习近平总书记殷殷嘱托，奋进“十五五”，济南将持续推动产学研融通创新，加快培育新质生产力，不断塑造发展新动能新优势。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李  波  侯琳良  王  者&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184819&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184819.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184819.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 济南着力推动产学研融通创新（“十五五”开好局起好步） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184819.html#[01版：要闻] 济南着力推动产学研融通创新（“十五五”开好局起好步）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 求新唯实  发展重质（今日谈）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184820.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 求新唯实  发展重质（今日谈） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							常  晋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　深入学习贯彻习近平总书记关于发展新质生产力的重要论述，各地区各部门积极实践，取得丰硕成果。近日，中共中央、国务院印发《关于发展新质生产力的意见》，将习近平总书记的原创思想理论转化为行动指南，为全国发展新质生产力确立了统一思想行动的标尺。&lt;/p&gt;&lt;p&gt;　　发展新质生产力，要统筹好培育新动能和更新旧动能。辽宁鞍钢，依托智能大模型，一键即可转炉炼钢，故障实时告警、缺陷自动检出，生产效率与安全性同步跃升；云南昆明云天化园区，智能温室、数字化管理等同步上线，鲜花亩产大幅提升……抓未来产业、新兴产业的同时，改造升级传统产业，方能于接续前进中行稳致远。&lt;/p&gt;&lt;p&gt;　　发展新质生产力，既要实干争先，又切忌浮躁。甘肃庆阳起步虽晚，但把握“东数西算”战略机遇，深挖风光资源富集潜能，以改革促创新，跻身全国算力枢纽前列。不跟风冒进，做好基础研究、人才培育、设施建设等基础性工作，“慢”中也能跑出加速度。&lt;/p&gt;&lt;p&gt;　　求新唯实，发展重质。树立和践行正确政绩观，坚持“创新主导、改革为要、因地制宜、先立后破”，新质生产力必能蓬勃生长，高质量发展动能必将更加澎湃。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;常  晋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184820&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184820.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184820.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 求新唯实  发展重质（今日谈） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184820.html#[01版：要闻] 求新唯实  发展重质（今日谈）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184821.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/10/c57532e7-f790-4f34-ab66-48282759d663.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　安徽省池州长江公铁大桥施工现场正在进行主桥跨中合龙段钢桁梁吊装，大桥进入主桥合龙冲刺阶段。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　李智宏摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/c57532e7-f790-4f34-ab66-48282759d663.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/10/5f235e49-8401-418d-9795-1c1e0ba9bdea.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　四川省广安市华蓥市明月镇，工人在西渝高铁广安东站建设现场进行主站房顶棚作业。目前，西渝高铁广安段已进入无砟轨道铺设、站房装修装饰等阶段。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　邱海鹰摄（影像中国）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/5f235e49-8401-418d-9795-1c1e0ba9bdea.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　连日来，各地抢抓秋季施工黄金期，工程建设现场如火如荼，一项项新技术加快落地，一个个建设节点接续完成，重点工程项目建设扎实推进。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184821&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184821.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184821.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184821.html#[01版：要闻] 图片报道</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 国庆假期国内出游8.26亿人次</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184822.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 国庆假期国内出游8.26亿人次 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月9日电  （记者耿磊、王珂）2026年国庆假期，全国文化和旅游市场平稳有序。经文化和旅游部数据中心测算，国庆假期7天，全国国内出游8.26亿人次，国内出游总花费7383.75亿元，按可比口径（日均）比2025年分别增长6.3%、4.3%。&lt;/p&gt;&lt;p&gt;　　产品供给丰富多元。红色旅游备受青睐，40%的游客参观革命场馆、观看升旗仪式、欣赏爱国主义演出等。乡村旅游热度攀升，农耕采摘、乡村夜游、篝火市集等广受欢迎。演出市场火热，全国举办大型演出180场次，其中演唱会125场次、音乐节55场次。&lt;/p&gt;&lt;p&gt;　　惠民措施激发活力。全国国庆文化和旅游消费月期间，各地举办丰富多彩的文旅活动，发放超3.1亿元消费补贴，持续释放消费动能。入境旅游市场活跃，全国共接待入境游客298.3万人次，按可比口径（日均）比2024年、2025年分别增长19.0%、6.5%。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184822&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184822.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184822.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 国庆假期国内出游8.26亿人次 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184822.html#[01版：要闻] 国庆假期国内出游8.26亿人次</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 学习《习近平文化文选》第一卷、第二卷座谈会在京召开</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184793.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 学习《习近平文化文选》第一卷、第二卷座谈会在京召开 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 李书磊出席并讲话 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月9日电  学习《习近平文化文选》第一卷、第二卷座谈会9日在京召开。中共中央政治局委员、中宣部部长李书磊出席并讲话。&lt;/p&gt;&lt;p&gt;　　与会代表认为，《习近平文化文选》第一卷、第二卷生动记录了以习近平同志为核心的党中央领导新时代文化建设的伟大历史进程，系统呈现了习近平文化思想的基本精神、基本内容、基本要求，为深入学习实践习近平文化思想提供了权威教材。&lt;/p&gt;&lt;p&gt;　　与会代表表示，学习研读《习近平文化文选》，最重要的是要深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，自觉学习实践习近平文化思想，更好担负起新时代的文化使命。要进一步深刻领会习近平文化思想是指引新时代宣传思想文化工作的根本遵循，深刻领会习近平文化思想坚持“两个结合”对马克思主义文化理论作出的原创性贡献，深刻领会习近平文化思想对文化强国建设的战略擘画，深刻领会习近平文化思想的深厚底蕴和博大情怀，深刻领会习近平文化思想蕴含的思想方法和工作方法，切实把学习成效转化为加快推进文化强国建设的实际行动。&lt;/p&gt;&lt;p&gt;　　座谈会由中宣部举办，中央有关部门、中央宣传文化单位、各省区市和新疆生产建设兵团党委宣传部有关负责同志、社科理论界专家学者等参加。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 李书磊出席并讲话 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184793&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184793.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184793.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 学习《习近平文化文选》第一卷、第二卷座谈会在京召开 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184793.html#[02版：要闻] 学习《习近平文化文选》第一卷、第二卷座谈会在京召开</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 把握规律，因地制宜发展新质生产力</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184794.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 把握规律，因地制宜发展新质生产力 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——国家发展改革委有关负责同志就《关于发展新质生产力的意见》答记者问 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  刘志强&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　近日，中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》）。国家发展改革委有关负责同志就《意见》接受采访，回答记者提问。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;关键词：原则&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　坚持“创新主导、改革为要、因地制宜、先立后破”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　记者：《意见》提出坚持“创新主导、改革为要、因地制宜、先立后破”。应当如何理解发展新质生产力的这4条原则？&lt;/p&gt;&lt;p&gt;　　答：《意见》提出这4条原则，是党中央对新质生产力发展客观规律的深刻把握，是针对实践探索中出现的脱离实际盲目布局和投资、一哄而上发展新兴产业和未来产业、忽视传统产业改造升级、重发展轻改革等问题的纠偏。&lt;/p&gt;&lt;p&gt;　　实践中要始终坚持这4条原则，确保新质生产力发展不走偏、不冒进、不泡沫化。&lt;/p&gt;&lt;p&gt;　　坚持创新主导，就是要把创新作为发展新质生产力的逻辑起点。既要抓好技术和业态模式层面的创新，又要抓好管理和制度层面的创新。&lt;/p&gt;&lt;p&gt;　　坚持改革为要，就是要把改革作为发展新质生产力的关键一招。进一步深化经济体制、科技体制等改革，着力打通束缚新质生产力发展的堵点卡点，建立高标准市场体系，创新生产要素配置方式，让各类先进优质生产要素向发展新质生产力顺畅流动。&lt;/p&gt;&lt;p&gt;　　坚持因地制宜，就是要把立足资源禀赋作为发展新质生产力的实践准则。我国幅员辽阔、各地情况千差万别，不同地区自然资源、产业基础、科技创新条件存在显著差异，发展新质生产力绝不能上下一般粗、搞同一种模式，绝不能同质化重复建设造成巨大资源浪费。《意见》强调因地制宜发展新质生产力，就是要引导大家科学理性、实事求是地开展工作，防止一哄而上、泡沫化。&lt;/p&gt;&lt;p&gt;　　坚持先立后破，就是要把新旧动能平稳接续作为发展新质生产力的方法路径。发展新质生产力不只是培育新兴产业和未来产业，传统产业改造升级也能发展新质生产力。在发展新质生产力过程中，不仅要统筹好培育新动能和更新旧动能的关系，还要处理好立与破的时序。该立的要积极主动立起来，该破的要在立起来的基础上坚决破，即等新动能成长稳固之后，再有序淘汰旧动能，避免经济断层、就业被动。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;关键词：总要求&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　统筹处理好政府和市场、质态和业态等关系&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　记者：《意见》提出要“统筹处理好政府和市场、质态和业态、改革和发展、自主和开放的关系，统筹发展和安全”。实践中如何具体把握？&lt;/p&gt;&lt;p&gt;　　答：这是对发展新质生产力实践的总要求，实践中要坚持辩证思维、系统观念，防止片面化、绝对化、一刀切。&lt;/p&gt;&lt;p&gt;　　一是统筹好政府和市场的关系。新质生产力既需要政府超前规划引导、科学政策支持，也需要市场机制调节、企业等微观主体不断创新。统筹好政府和市场的关系，重点在政府有所为、有所不为上。有所为，就是要将工作重心放在优化市场环境、矫正市场失灵、规范竞争秩序等上。有所不为，就是严禁借发展新质生产力之名搞恶性招商引资、盲目“跟风”上项目、乱“烧钱”等。&lt;/p&gt;&lt;p&gt;　　二是统筹好质态和业态的关系。新质生产力具有高技术、高效能、高质量特征，是符合新发展理念的先进生产力质态。质态是生产力的内在品质、发展质量，业态是生产力的外在表现形态、载体依托。统筹好质态和业态的关系，就是要将质优作为所有业态发展的导向，不能简单地将新质生产力等同于某些业态，推动未来产业、新兴产业与传统产业联动发展，防止单兵突进。&lt;/p&gt;&lt;p&gt;　　三是统筹好改革和发展的关系。坚持改革和发展并举并重，将深化体制机制改革和制度供给贯穿到发展的全过程各方面，充分调动全社会发展新质生产力的积极性创造性。&lt;/p&gt;&lt;p&gt;　　四是统筹好自主和开放的关系。吸引全球先进优质生产要素，增强国内国际两个市场两种资源联动效应，在开放合作中提升自身经济实力、自主创新能力，为发展新质生产力营造良好国际环境。&lt;/p&gt;&lt;p&gt;　　五是统筹好发展和安全。既要聚力发展新质生产力，培育壮大新动能，以高质量发展促进高水平安全；又要前瞻研判技术伦理、数据安全、产业风险等各类隐患，完善相关法律法规、伦理审查规则及监管框架，以高水平安全保障高质量发展。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;关键词：创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　将“大力推进科技创新”作为五大任务之首&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　记者：科技创新是发展新质生产力的核心要素。《意见》部署“大力推进科技创新”的5项重点举措时有什么考虑？&lt;/p&gt;&lt;p&gt;　　答：科技创新能够催生新产业、新模式、新动能，是发展新质生产力的核心要素。《意见》将“大力推进科技创新”作为五大任务之首，就是为了强调其重要性。这一部分按照科技创新“干什么”“谁来干”“干成什么样”的逻辑，安排了5项重点举措。&lt;/p&gt;&lt;p&gt;　　一是从着眼长远和立足当前两方面部署“干什么”。着眼长远，《意见》部署“加强原创性颠覆性科技创新”。立足当前，《意见》部署“加快突破关键核心技术”。&lt;/p&gt;&lt;p&gt;　　二是从有为政府和有效市场相结合部署“谁来干”。从政府有为角度，《意见》部署“统筹国家战略科技力量建设”。这些年，我们发挥新型举国体制优势，在体系化攻关上积累了不少经验。《意见》总结成功经验，从体制机制改革、重大科技项目、重大创新平台等方面，对建强国家战略科技力量作出部署，目的就是要增强科技创新体系化攻关能力。从市场有效角度，《意见》部署“强化企业科技创新主体地位”。&lt;/p&gt;&lt;p&gt;　　三是从现实生产力目标部署“干成什么样”。《意见》将“加速科技成果向现实生产力转化”作为重点举措之一，就是要引导大家更加重视应用导向，将科技创新目标锚定在发展新质生产力上。&lt;/p&gt;&lt;p&gt;　　此外，《意见》在“推动科技创新和产业创新深度融合”部分，主要部署了“改造提升传统产业”“培育壮大新兴产业”“前瞻布局未来产业”“促进实体经济和数字经济深度融合”等内容。《意见》突出强调“全面实施‘人工智能+’行动”，是为了推动人工智能与实体经济深度融合，及时将智能领域创新成果应用到具体产业、具体产业链条上，以智能化带动产业高端化、绿色化，赋能千行百业转型升级。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;关键词：改革&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　着力推进发展方式创新，扎实推进体制机制创新，深化人才工作机制创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　记者：《意见》为什么要强调“聚焦科技和经济紧密结合深化改革”？&lt;/p&gt;&lt;p&gt;　　答：发展新质生产力要把改革作为关键一招。《意见》强调“聚焦科技和经济紧密结合深化改革”，回答了科技体制改革主攻方向就是要继续聚焦科技和经济紧密结合、破解科技和经济“两张皮”，深化科技体制改革。&lt;/p&gt;&lt;p&gt;　　虽然深化科技体制改革的目标和要解决的问题没有变，但实现路径还是有不小变化。比如，过去为解决科技和经济“两张皮”问题，比较注重供给端改革，强调科技创新成果要向现实生产力转化、产学研紧密结合等，比较突出围绕创新链布局产业链。《意见》在继续强调供给端改革的同时，更加重视需求端发力。《意见》在这项重点改革举措开篇，就要求“在国家重大工程项目中按需部署科技任务”，更加突出围绕产业链部署创新链。&lt;/p&gt;&lt;p&gt;　　记者：《意见》对深化人才工作机制创新作出系统部署，如何抓好这些改革任务落实？&lt;/p&gt;&lt;p&gt;　　答：人才是第一资源，是发展新质生产力最活跃、最具决定意义的能动主体。《意见》对深化人才工作机制创新作出系统部署。&lt;/p&gt;&lt;p&gt;　　实践中，要重点抓好3方面工作。一是更加重视人才自主培养，切实抓好教育科技人才体制机制一体改革、高等教育提质扩容及学科专业设置、现代职业教育高质量发展等重大任务落实，培养急需人才。二是更加重视人才激励评价，充分调动各类人才的积极性。三是更加重视人才合理流动，加快破除各种隐性壁垒，畅通高等学校、科研院所、企业人才交流通道，健全“新八级工”职业技能等级制度，畅通产业工人向上发展通道。&lt;/p&gt;&lt;p&gt;　　同时，《意见》在“着力推进发展方式创新”中，提出“构建绿色低碳循环发展经济体系”“优化绿色发展政策工具箱”等重点举措。其中突出强调“积极推进能源革命”，这是实现碳达峰碳中和的必由之路，也是发展新质生产力的重要安全保障。&lt;/p&gt;&lt;p&gt;　　当前和今后一个时期，各地区各有关部门要把抓《意见》贯彻落实作为重大政治任务来抓，结合实际探索发展路径，及时总结经验做法，加强宣传推广，营造良好氛围。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  刘志强&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——国家发展改革委有关负责同志就《关于发展新质生产力的意见》答记者问 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184794&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184794.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184794.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 把握规律，因地制宜发展新质生产力 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184794.html#[02版：要闻] 把握规律，因地制宜发展新质生产力</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 戒骄戒躁  再接再厉 扎实推进洛杉矶奥运会备战工作</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184795.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 谌贻琴在会见第20届亚运会中国体育代表团时强调 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 戒骄戒躁  再接再厉 扎实推进洛杉矶奥运会备战工作 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　新华社北京10月9日电  国务委员谌贻琴9日在京会见载誉归来的第20届亚运会中国体育代表团，向全体运动员、教练员及工作人员转达党中央、国务院的热烈祝贺和亲切慰问，强调要牢记习近平总书记嘱托，戒骄戒躁、再接再厉，扎实推进洛杉矶奥运会备战工作。&lt;/p&gt;&lt;p&gt;　　谌贻琴指出，中国体育代表团在本届亚运会上取得我国境外参加亚运会最好成绩，实现运动成绩和精神文明双丰收，展现了为国争光的赤子情怀、顽强拼搏的必胜信念、并肩作战的团结精神、自信乐观的青春风采、公平竞赛的道德风尚，为祖国和人民赢得了荣誉。新征程上，希望大家坚持祖国至上，总结成功经验，查找短板弱项，脚踏实地、砥砺前行，圆满完成洛杉矶奥运会备战参赛任务，让中国奥运强国地位更加巩固。&lt;/p&gt;&lt;p&gt;　　谌贻琴强调，体育战线要深入学习贯彻习近平总书记关于体育工作的重要论述，加强组织统筹和服务保障，改革完善竞技体育管理体制和运行机制，加快后备人才培养，提高竞技体育综合实力，依法从严整治“饭圈”等乱象，加快体育强国建设步伐。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 谌贻琴在会见第20届亚运会中国体育代表团时强调 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184795&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184795.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184795.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 戒骄戒躁  再接再厉 扎实推进洛杉矶奥运会备战工作 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184795.html#[02版：要闻] 戒骄戒躁  再接再厉 扎实推进洛杉矶奥运会备战工作</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 鲜食玉米收获机，果穗破损率稳定在3%以内（身边的创新·想不到的中国农机）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184796.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 轻喂入、柔摘穗、缓输送 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 鲜食玉米收获机，果穗破损率稳定在3%以内（身边的创新·想不到的中国农机） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　数据来源：受访者&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/a3bad373-5a1d-48fa-b979-d21dc9117c7b.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　果穗破损率稳定在3%以内，轻喂入、柔摘穗、缓输送的鲜食玉米收获机；每小时收获80吨，能在0.15秒里精准剔除青果的番茄收获机；不怕倒伏，“扶起来”稳稳切、不堵不卡不丢穗的水稻收割机……即日起，本版“身边的创新”栏目推出“想不到的中国农机”系列报道，聚焦不同工况下各展所长的特色农机，访研发者讲创新、听使用者谈体验。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　研发者说&lt;/p&gt;&lt;p&gt;　　模拟人手采摘研发收获机&lt;/p&gt;&lt;p&gt;　　唐文韬&lt;/p&gt;&lt;p&gt;　　收鲜食玉米和收普通籽粒玉米不一样，前者要在乳熟期采收，这时候果穗水分足、籽粒娇嫩，一旦磕碰，就会大大影响商品价值。人工采收最稳妥，但效率低、用工贵；传统收割机又太“粗暴”，和“娇嫩”果穗不匹配。&lt;/p&gt;&lt;p&gt;　　我们团队在鲜食玉米机收领域摸爬滚打多年，研发思路从一开始就不是在传统收割机上修修补补，而是换一套逻辑——模拟人手采摘。人工摘玉米，会先轻轻握住果穗，再从秸秆上分离，动作轻柔、有缓冲。我们就想，能不能由机器实现这种动作逻辑？&lt;/p&gt;&lt;p&gt;　　真正做起来，比想象中难。首先，鲜食玉米种植模式不统一、行距不一，传统的对行收割模式适应不了。我们设计了不对行柔性分禾喂入，尝试让机器先把秸秆柔和地引导进来。其次，摘穗环节最怕拉断、撕扯，选用的六棱斜刀式拉茎辊，既保证拉茎效率，又能精准切断穗尾，力度和角度调整了近百次。此外，输送环节也容易磕碰，用镶配软胶块的柔性输送链，可以让果穗从采摘到归仓全程“缓着走”，形成一套轻喂入、柔摘穗、缓输送的全流程低损模式。割台上的杂质也得处理，多级除杂风机能让果穗清洁度明显提升。&lt;/p&gt;&lt;p&gt;　　智能化方面，我们也下了不少功夫：为了适应田间地形起伏，开发智能仿形调平系统；设备过载有风险，配备了故障检测与预警系统，能提前识别、保护设备。这些创新，在实际作业中能减少损失、延长设备寿命。&lt;/p&gt;&lt;p&gt;　　经过多轮田间实测，这款鲜食玉米收获机果穗破损率稳定在3%以内，采摘部分鲜食玉米品种时甚至低于1%。这意味着国产鲜食玉米收获机不再只是“能收”，而是开始“收得好”，蹚出了一条可行的技术研发之路。&lt;/p&gt;&lt;p&gt;　　（作者为九方泰禾国际重工（青岛）股份有限公司工程技术研究院车型科科长，本报记者王者采访整理）&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　使用者说&lt;/p&gt;&lt;p&gt;　　效率上来了，期待操作再简单些&lt;/p&gt;&lt;p&gt;　　王铁伟&lt;/p&gt;&lt;p&gt;　　我们合作社每年种植1000多亩鲜食玉米，采收一直是难题。&lt;/p&gt;&lt;p&gt;　　以前全靠人工，采摘水平参差不齐、耗时费力，而且农忙时节招工难、工钱贵。后来用传统机械收割，破损率、含杂率又高，收出来的果穗卖相不好，损失不少。&lt;/p&gt;&lt;p&gt;　　用上鲜食玉米收获机后，最直观的感受是效率上来了、破损率下去了。果穗划伤、挤压的情况明显减少，清洁度提高了。&lt;/p&gt;&lt;p&gt;　　不过，鲜食玉米品种多，种植模式也不一样，不同地块、品种之间，机器的适应性还有待提升。有些特殊品种或行距比较特殊的地块，需要对机器再调整、再磨合。另外，设备智能化程度很高，我们希望操作再简单些、故障预警再直观些，让普通机手也能快速上手。售后和配件供应能再快些，别耽误了农忙时节。&lt;/p&gt;&lt;p&gt;　　鲜食玉米要产业化，必须过好采收关。期待未来能有更多适合不同品种、不同种植模式的机型，把破损率再往下压，把适应性再提高，让更多农户敢于用、用得起、用得好。&lt;/p&gt;&lt;p&gt;　　（作者为山东省潍坊市寒亭区鲜食玉米种植户，本报记者王者采访整理）&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"&gt;　　版式设计：蔡华伟&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"&gt;　　本期统筹：吕  莉&lt;/span&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 轻喂入、柔摘穗、缓输送 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184796&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184796.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184796.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 鲜食玉米收获机，果穗破损率稳定在3%以内（身边的创新·想不到的中国农机） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184796.html#[02版：要闻] 鲜食玉米收获机，果穗破损率稳定在3%以内（身边的创新·想不到的中国农机）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184797.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/c9ca563a-782f-4262-aad9-cb1ef57b4d19.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　从云南昆明开往贵州红果的5652次公益慢火车国庆假期穿行在滇黔山水间。这趟绿皮慢火车全程261公里，全程票价36.5元，区间最低仅几元，串起10余座小站，是村民赶集带货、探亲出行的“便民公交”。图为10月7日，列车员在车上帮助去卫生间的旅客照看小孩。&lt;/p&gt;&lt;p&gt;　　新华社记者  陈欣波摄 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184797&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184797.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184797.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184797.html#[02版：要闻] 图片报道</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “读懂中国道路与治理理念的权威指南”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184798.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 《习近平谈治国理政》第五卷德文版读书交流会在法兰克福举行 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “读懂中国道路与治理理念的权威指南” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  刘仲华  郭梓云&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　《习近平谈治国理政》第五卷德文版读书交流会日前在德国法兰克福举行。活动以“文明互鉴与务实协作：新时代中德合作的新实践”为主题，来自中德两国政府、学术界、企业界和文化界代表围绕《习近平谈治国理政》第五卷中关于中国式现代化、全球倡议、构建人类命运共同体等重要论述展开深入交流，共同探讨中德务实合作的新路径与新机遇。与会嘉宾认为，《习近平谈治国理政》第五卷为德国读者进一步了解中国的发展道路和政策理念打开了一扇窗，也为中德文明交流互鉴注入新动力。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“客观看待与认识真实中国的关键钥匙”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　2014年，《习近平谈治国理政》多语种图书首发式在法兰克福举行；2025年，《习近平谈治国理政》第五卷英文版推介会也在此举行。如今，《习近平谈治国理政》第五卷德文版读书交流会不仅赓续了这份深厚的思想之缘，更增添了跨越国界、互学互鉴的时代意涵。&lt;/p&gt;&lt;p&gt;　　本次活动由中国外文局、中国驻法兰克福总领事馆指导，中国国际图书贸易集团有限公司主办。中国外文局副局长谢刚表示，《习近平谈治国理政》第五卷集中呈现了习近平新时代中国特色社会主义思想的最新成果，为德国乃至欧洲各界读懂中国式现代化提供了权威读本。中德双方可借鉴书中蕴含的思想智慧，探索文明互鉴新范式；依托产业互补优势，深化智能制造、绿色能源等领域务实合作；坚持多边主义，持续夯实全方位战略伙伴关系。两国携手扩大双向开放、共担全球责任，将为欧洲繁荣稳定与世界和平发展注入合作与发展的正向力量。&lt;/p&gt;&lt;p&gt;　　德国席勒研究所创始人兼主席黑尔佳·策普·拉鲁什认为，中国式现代化取得的成就举世瞩目。中国不仅跃升为全球领先的经济体，更在深空探测、关键核心技术创新等领域实现历史性跨越。中国成功的密码蕴含在习近平新时代中国特色社会主义思想的哲学根基与治理智慧中。“研读《习近平谈治国理政》第五卷不难发现，中国的发展始终以增进人民福祉为导向。研读这部权威著作，正是读懂中国奇迹、理解中国治理逻辑的最佳途径。”&lt;/p&gt;&lt;p&gt;　　德国历史学家、波恩大学教授培高德表示，《习近平谈治国理政》第五卷德文版的面世，有助于提升德国社会对中国的认知水平。“这部著作系统展现了中国的政策取向、治理逻辑与国际定位，是德国各界读懂中国道路与治理理念的权威指南。”在他看来，所谓“中国冲击论”，“根源在于外界缺乏主动、深入了解中国的意愿与行动。研读这部著作，正是客观看待与认识真实中国的关键钥匙”。&lt;/p&gt;&lt;p&gt;　　德国莱比锡大学终身教授瓦尔德马·佩尔茨认为，《习近平谈治国理政》第五卷不仅有助于外界读懂中国，更对外传递了增进互信、深化合作的真诚意愿。他期待更多德国人士通过研读该书，打破认知隔阂，进一步增进对中国的理解。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“为变乱交织的世界注入确定性与稳定性”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　近年来，构建人类命运共同体理念多次被写入联合国大会等重要决议，全球倡议得到国际社会广泛响应与支持。《习近平谈治国理政》第五卷中的相关论述，引发与会嘉宾热烈讨论。&lt;/p&gt;&lt;p&gt;　　中国驻法兰克福总领事黄昳扬表示：“‘十五五’开局之年，中国正大力发展新质生产力，推进绿色转型，持续扩大高水平对外开放。全球倡议为各国共迎挑战贡献了中国智慧。文明互鉴与务实合作是中德关系行稳致远的重要基础，欢迎德国朋友以阅读为媒，深化文明互鉴，增进彼此理解。”&lt;/p&gt;&lt;p&gt;　　德国兰斯巴赫—鲍姆巴赫市市长迈克尔·默茨表示，研读《习近平谈治国理政》让他更加深刻地理解了中国式现代化道路的探索历程与成功经验。“开放孕育无限机遇，合作方能开辟未来。在当前变乱交织的国际形势下，坚持真正的多边主义尤为关键。习近平主席提出的全球发展倡议、全球安全倡议、全球文明倡议、全球治理倡议，为变乱交织的世界注入确定性与稳定性。”他强调，中国是值得信赖、携手前行的关键合作伙伴；一个保持稳定、富有活力的德中关系，必将为维护世界的和平、稳定与繁荣注入强劲动能。&lt;/p&gt;&lt;p&gt;　　“构建人类命运共同体是习近平外交思想的核心理念。习近平主席深刻指出，事实再次表明，在全球性危机的惊涛骇浪里，各国不是乘坐在190多条小船上，而是乘坐在一条命运与共的大船上。这一极具洞察力的时代比喻，廓清了人类发展的未来方向。”拉鲁什表示，面对交织激荡的时代考验，破除零和博弈与冷战思维的藩篱，把人类整体利益置于首要位置，是关乎文明存续与发展进步的历史必然。四大全球倡议对国际社会尤其是全球南方具有强大感召力，激励其走出一条独立自主、互利共赢的现代化新路。&lt;/p&gt;&lt;p&gt;　　培高德表示，《习近平谈治国理政》第五卷紧扣时代脉搏。以人工智能议题为例，全书不仅关照人工智能技术革新与产业落地，更深刻洞察其对全球治理格局的长远影响。2024年11月，在里约热内卢举行的二十国集团领导人第十九次峰会上，习近平主席就携手构建公正合理的全球治理体系发表重要讲话，阐述了中国加强人工智能国际治理和合作的主张与行动，彰显了深远的全球视野。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“德中务实合作将持续惠及全球”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　中国与德国同为世界重要经济体，两国关系不仅关乎人民福祉，更对欧洲乃至全球格局具有深远影响。与会嘉宾认为，相互尊重、互利共赢、保持开放对话、携手应对全球性挑战是推动中德关系健康稳定发展的基石。&lt;/p&gt;&lt;p&gt;　　德国巴登—符腾堡州中德经济协会主席艾尔玛·斯图姆夫表示，研读《习近平谈治国理政》有助于理解中国坚持开放合作、普惠共享的发展理念。“德中经贸合作立足相互尊重、互利共赢，其意义超越双边范畴。巴登—符腾堡州中德经济协会愿助力两国企业在对方市场稳步发展，以务实合作增进两国民生福祉。”&lt;/p&gt;&lt;p&gt;　　德国柯尼希施泰因市中国事务联络负责人玛蒂娜·古特尔表示，在经贸领域，德中企业优势互补明显：德国拥有深厚的技术积淀与严格的质量标准，中国在数字化、智能制造与绿色低碳等领域展现出强大的创新活力。青年交流是面向未来的基石，两国青年应当坦诚看待客观差异、充分尊重彼此关切，在常态化互动中消除偏见、积累信任，以鲜活的民间力量筑牢德中长期合作的坚实纽带。&lt;/p&gt;&lt;p&gt;　　默茨以兰斯巴赫—鲍姆巴赫市与中方的陶瓷产业交流为例，分享地方民间合作实践：“兰斯巴赫—鲍姆巴赫市与福建泉州德化县以瓷为媒，正式缔结友好关系；我们携手广西举办陶瓷产业推介会，依托高质量共建‘一带一路’发掘合作新机遇；我们还积极融入欧中学者交流网络，致力于将欧洲传统精湛工艺与中国蓬勃的创新创造深度融合。”他认为，当前德国在技术创新与数字化转型上的战略布局，与中国“十五五”规划锚定的高质量发展方向高度契合，尤其在智能化、绿色化和产业跨界融合等领域拥有巨大合作空间，“无论是推动传统优势产业转型升级，还是携手开拓未来新兴赛道，德中务实合作将持续惠及全球”。&lt;/p&gt;&lt;p&gt;　　（本报法兰克福10月9日电）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  刘仲华  郭梓云&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 《习近平谈治国理政》第五卷德文版读书交流会在法兰克福举行 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184798&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184798.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184798.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “读懂中国道路与治理理念的权威指南” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184798.html#[03版：要闻] “读懂中国道路与治理理念的权威指南”</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 彭丽媛向2026年联合国教科文组织女童和妇女教育奖颁奖仪式发表视频致辞</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184799.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 彭丽媛向2026年联合国教科文组织女童和妇女教育奖颁奖仪式发表视频致辞 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月9日电  当地时间10月9日，2026年联合国教科文组织女童和妇女教育奖颁奖仪式在法国巴黎举行。国家主席习近平夫人、联合国教科文组织促进女童和妇女教育特使彭丽媛向颁奖仪式发表视频致辞。&lt;/p&gt;&lt;p&gt;　　彭丽媛向来自摩洛哥和秘鲁的获奖机构致以热烈祝贺。她表示，女童和妇女教育水平是衡量人类文明进步的重要标尺。近年来，在联合国教科文组织大力倡导和国际社会共同努力下，全球女童和妇女教育事业取得令人欣喜的进展。&lt;/p&gt;&lt;p&gt;　　彭丽媛指出，中国一贯高度重视女童和妇女教育，积极同联合国教科文组织及有关各方开展务实合作，惠及多国广大女性。近年来，中国以人工智能技术赋能教育高质量发展，有力促进教育性别平等和妇女全面发展，为全球南方国家提供了可资借鉴的有益经验。女童和妇女教育事业发展任重道远。作为联合国教科文组织促进女童和妇女教育特使，我呼吁国际社会携手加强女性职业教育和培训，大力发展面向女性的数智教育，使她们成为数智技术的使用者和受益者，为她们搭建人生出彩的阶梯。&lt;/p&gt;&lt;p&gt;　　彭丽媛表示，发展女童和妇女教育事业，播种的是希望，培育的是梦想，收获的是幸福。我愿同各方一道努力，推动女童和妇女教育事业实现更大发展，为更多女性走向美好明天贡献力量！&lt;/p&gt;&lt;p&gt;　　自2015年中国同联合国教科文组织合作设立女童和妇女教育奖以来，该奖项持续发挥积极影响，得到国际社会广泛关注和高度评价。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184799&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184799.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184799.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 彭丽媛向2026年联合国教科文组织女童和妇女教育奖颁奖仪式发表视频致辞 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184799.html#[03版：要闻] 彭丽媛向2026年联合国教科文组织女童和妇女教育奖颁奖仪式发表视频致辞</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 为人类探索现代化道路带来更多启迪（国际论坛）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184800.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 为人类探索现代化道路带来更多启迪（国际论坛） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							阿里别克·塔日巴耶夫&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/3f4401f6-7c52-43e4-9af5-1804cb559651.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　中国式现代化将持续为包括哈萨克斯坦在内的世界各国创造发展机遇，为人类探索多样化的现代化道路带来更多启迪&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　谈及中国式现代化，人们首先会联想到持续壮大的经济总量、日趋完备的产业体系、蓬勃发展的科技创新能力以及四通八达的基础设施网络。《习近平谈治国理政》第五卷深刻揭示，这些发展成就背后贯穿着一条清晰主线：中国善于立足长远谋划发展，统筹推进改革、发展与稳定，在保持战略定力的基础上顺应形势优化政策。这种立足当下、谋及长远的治理智慧，正是理解中国式现代化行稳致远的关键所在。&lt;/p&gt;&lt;p&gt;　　中国式现代化的一大鲜明特质，就是坚持“一张蓝图绘到底”。在中国共产党领导下，五年规划与中长期发展目标有机衔接，将国家战略细化为产业布局、区域部署与务实举措，依靠系统安排与动态调整持续推进。无论是兴办经济特区，还是推进自由贸易试验区建设，中国一旦确立发展目标，就会循序渐进推动实现目标。统筹顶层设计与先行先试相结合，既能充分释放改革活力，又能有效防范化解风险，保障基础设施建设、科技创新、产业升级、生态治理等需要长期投入的事业接续推进。&lt;/p&gt;&lt;p&gt;　　人民至上，是中国式现代化一以贯之的本质要求。评判发展成效，不能只看宏观经济指标，更要看千家万户的生活是否持续改善、人民的发展权利能否得到充分保障。中国实现近1亿农村贫困人口摆脱绝对贫困，教育、医疗、交通、住房、社会保障水平稳步提升。经济增长目标同乡村全面振兴、基础设施建设、就业扶持、公共服务提质统筹部署，推动现代化建设成果更多更公平惠及全体人民。&lt;/p&gt;&lt;p&gt;　　当前，中国经济已由高速增长阶段转向高质量发展阶段，聚焦科技创新、实体经济、绿色转型、扩大内需等重点方向稳步前行。从人工智能到清洁能源，从高速铁路到数字基础设施，政府依托战略规划与政策引导营造良好发展环境、稳定市场长期预期，市场依靠技术创新与良性竞争优化资源配置，协同培育发展新动能。面对人口结构变化、区域发展不平衡、内需潜力有待充分释放等现实课题，中国坚持在改革实践中研判问题、优化政策、积累经验。这种主动识变、科学应变的能力，是中国经济保持强劲韧性的重要支撑。&lt;/p&gt;&lt;p&gt;　　对哈萨克斯坦而言，中国式现代化蕴含的发展理念与实践路径具有重要借鉴价值。国家发展战略应当配套可落地的实施机制，推动宏观目标转化为具体产业项目、区域布局与财政投入。重大改革可以依托局部试点积累经验，打造制度创新、产业融合、人才培育的试验载体。随着互联互通不断深化，哈中合作可进一步向产业协同与创新协作延伸，在装备制造、绿色能源、农产品加工、数字技术等领域深耕细作，依托投资助力哈萨克斯坦完善产业链、培育本土人才，推动高质量共建“一带一路”成为双方携手提升发展能力、共享现代化机遇的长期合作平台。&lt;/p&gt;&lt;p&gt;　　中国式现代化的世界意义，不是提供一套可以直接照搬的发展模板，而在于其打破西方现代化模式的探索精神。中国没有照搬他国发展模式，也从不要求其他国家复刻自身道路，而是倡导各国立足本国国情、历史文化禀赋，探索各具特色的现代化发展路径。中国式现代化实践充分证明，开放合作与独立自主能够相辅相成，市场活力与战略引导可以同向发力，深化改革与长期稳定能够互促共进。一个国家选择何种发展道路，归根到底要看能否依托自身历史文化与基本国情激活现代化建设动能，能否以发展成果持续改善民生、维护社会稳定。&lt;/p&gt;&lt;p&gt;　　坚持以人民为中心、坚持立足本国实际、坚持一代又一代人接续奋斗，是中国不断开拓前行的根本动力。面向未来，中国式现代化将持续为包括哈萨克斯坦在内的世界各国创造发展机遇，为人类探索多样化的现代化道路带来更多启迪。&lt;/p&gt;&lt;p&gt;　　（作者为哈萨克斯坦“欧亚监测”分析研究中心主任）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;阿里别克·塔日巴耶夫&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184800&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184800.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184800.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 为人类探索现代化道路带来更多启迪（国际论坛） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184800.html#[03版：要闻] 为人类探索现代化道路带来更多启迪（国际论坛）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 推动建立更具建设性和包容性的国际秩序</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184801.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 推动建立更具建设性和包容性的国际秩序 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——访马来西亚交通部前部长、亚太“一带一路”共策会会长翁诗杰 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  于景浩&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/1da6da0c-d1ca-4dd0-b492-f1df1724563a.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　“四大全球倡议是中国为维护世界和平稳定与发展繁荣、应对全球性挑战提出的切实可行的解决方案，回应了国际社会特别是广大发展中国家推动构建更加公正合理的国际秩序的愿望。”马来西亚交通部前部长、亚太“一带一路”共策会会长翁诗杰在接受本报记者专访时表示，“中国为不安定的世界带来确定性。”&lt;/p&gt;&lt;p&gt;　　翁诗杰表示，当今世界百年变局深刻演变，地缘冲突此起彼伏，单边主义、保护主义抬头，给世界稳定和经济复苏带来巨大冲击，国际社会期待中国方案。继全球发展倡议、全球安全倡议、全球文明倡议后，去年9月中国提出全球治理倡议。四大全球倡议提供了契合全球南方国家愿景的务实框架。在现有国际体系面临日益严峻的挑战之际，这些倡议有助于推动建立更具建设性和包容性的国际秩序。&lt;/p&gt;&lt;p&gt;　　“全球治理倡议回应了国际社会对建立更加公正合理的全球治理体系的呼声。”翁诗杰表示，全球治理倡议提出一年来，得到近160个国家和国际组织的支持响应，展现出强大的生命力和感召力。去年10月，中国在香港成立国际调解院，这是中国为完善全球治理提供的重要法治公共产品，得到了众多发展中国家的认可和支持。&lt;/p&gt;&lt;p&gt;　　翁诗杰认为，近年来，中国秉持亲诚惠容周边外交理念，深化与东盟的经贸合作。双方在产供链方面已经深度融合，这为亚太区域合作打下坚实基础。中国推动达成并高水平实施《区域全面经济伙伴关系协定》，签署中国—东盟自贸区3.0版升级议定书，为进一步推动亚太区域经济一体化、推进亚太自贸区进程等提供了重要支撑。&lt;/p&gt;&lt;p&gt;　　翁诗杰表示，当前，中企参与的马来西亚东海岸铁路项目建设进入冲刺阶段，马中关丹产业园集聚效应不断提升。双方正拓展在数字经济、新能源、跨境电商与电动汽车等新兴领域的合作。马中互免签证、两国直航航线扩容等举措，让两国民众尤其是年轻人越来越多走近彼此的历史和文化。未来，两国还可以通过合拍电影等途径进一步促进人文交流，不断夯实两国友好的民意基础，为构建高水平战略性马中命运共同体贡献人文力量。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  于景浩&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——访马来西亚交通部前部长、亚太“一带一路”共策会会长翁诗杰 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184801&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184801.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184801.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 推动建立更具建设性和包容性的国际秩序 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184801.html#[03版：要闻] 推动建立更具建设性和包容性的国际秩序</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 王毅会见太平洋岛国政治家联合考察团</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184802.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 王毅会见太平洋岛国政治家联合考察团 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月9日电  （记者陈尚文）中共中央政治局委员、中央外办主任王毅9日在北京会见以汤加副首相拉图为团长的太平洋岛国政治家联合考察团。&lt;/p&gt;&lt;p&gt;　　王毅表示，在习近平主席和太平洋岛国领导人共同引领下，中国同太平洋岛国全面战略伙伴关系更加成熟稳健。中方愿同岛国坚定支持彼此走符合自身国情、由人民自主选择的发展道路，加强政党交流合作，携手构建更加紧密的中国—太平洋岛国命运共同体。&lt;/p&gt;&lt;p&gt;　　拉图等感谢中方长期以来为岛国经济社会发展提供的巨大帮助，表示将坚定奉行一个中国政策，愿同中国共产党加强交流往来。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184802&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184802.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184802.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 王毅会见太平洋岛国政治家联合考察团 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184802.html#[03版：要闻] 王毅会见太平洋岛国政治家联合考察团</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184803.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月9日电  中共中央政治局委员、国务院副总理何立峰9日下午在京会见欧盟委员会贸易和经济安全委员谢夫乔维奇，双方就中欧经贸关系交换了意见。&lt;/p&gt;&lt;p&gt;　　何立峰表示，中方始终高度重视发展同欧盟经贸关系，愿与欧方共同落实好双方领导人达成的重要共识。双方应充分发挥中欧贸易投资磋商机制作用，坚持稳定、平衡的中欧关键贸易伙伴关系新定位，持续对话，妥处分歧，推动双边经贸关系健康稳定发展。&lt;/p&gt;&lt;p&gt;　　谢夫乔维奇表示，中国是欧盟重要经贸合作伙伴，愿持续推进贸易投资磋商，加强沟通、共促合作。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184803&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184803.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184803.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184803.html#[03版：要闻] 何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 博茨瓦纳总统博科将访华</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184804.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 博茨瓦纳总统博科将访华 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月9日电  外交部发言人9日宣布：应国家主席习近平邀请，博茨瓦纳共和国总统杜马·希代翁·博科将于10月12日至17日对中国进行国事访问。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184804&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184804.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184804.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 博茨瓦纳总统博科将访华 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184804.html#[03版：要闻] 博茨瓦纳总统博科将访华</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中欧贸易投资磋商机制第二次例会发布联合声明</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184805.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中欧贸易投资磋商机制第二次例会发布联合声明 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月9日电  （记者谢希瑶、王聿昊）10月8日至9日，商务部部长王文涛在北京与欧盟委员会贸易和经济安全委员谢夫乔维奇共同主持召开中欧贸易投资磋商机制第二次例会并发表联合声明。双方进行了务实、富有成效的讨论，并形成成果共识清单。&lt;/p&gt;&lt;p&gt;　　清单围绕贸易和投资平衡、出口管制、知识产权、世贸组织改革等方面形成了16条具体成果共识。其中包括：双方将继续探讨在世贸组织规则框架下，降低部分商品关税的可能性；双方以符合世贸组织规则的方式就混动汽车贸易达成谅解；双方将继续电动汽车反补贴案企业价格承诺和复审相关程序；双方同意就欧盟外国补贴条例（FSR）开展技术对话；中方愿通过“绿色通道”机制，为稀土及永磁体对欧出口许可审批继续提供便利，欧方将继续与成员国一道，为解决两用领域对华重点许可个案提供便利；双方同意探讨投资合作，促进彼此经济发展，并讨论开展面向未来的合作等。&lt;/p&gt;&lt;p&gt;　　双方重申，作为关键贸易伙伴，在世贸组织规则框架下，妥善处理双方分歧，致力于继续稳定双边经贸关系，并使其更加平衡。双方商定，将于2027年3月召开机制第三次例会，在此之前双方将保持密切沟通，包括1月举行部长级视频会议。&lt;/p&gt;&lt;p&gt;　　双方均认为，第二次例会是中欧深化合作的新起点，责成工作团队持续推进后续工作，推动相关成果共识尽早落地，为中欧贸易投资磋商机制第三次例会做好准备。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184805&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184805.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184805.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中欧贸易投资磋商机制第二次例会发布联合声明 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184805.html#[03版：要闻] 中欧贸易投资磋商机制第二次例会发布联合声明</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184806.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/e4c2ce57-1bcb-4c7c-8e37-4397e07196b7.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　由中国港湾承建的坦桑尼亚基卢瓦马索科渔港项目近日顺利通过竣工验收。项目占地约5.6公顷，设计年卸鱼能力6万吨。作为坦桑尼亚首座现代化大型渔港，渔港投运后将成为坦桑尼亚海洋渔业发展的核心枢纽和国家级远洋渔业基地。图为项目航拍。&lt;/p&gt;&lt;p&gt;　　陈志锋摄 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184806&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184806.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184806.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184806.html#[03版：要闻] 图片报道</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 外交部介绍博茨瓦纳总统博科访华安排</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184807.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 外交部介绍博茨瓦纳总统博科访华安排 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月9日电  （记者吴梦桐、邵艺博）应国家主席习近平邀请，博茨瓦纳共和国总统杜马·希代翁·博科将于10月12日至17日对中国进行国事访问。外交部发言人毛宁9日在例行记者会上介绍了此访安排。&lt;/p&gt;&lt;p&gt;　　“此次访问是博科总统就任以来首次访华。”毛宁说，习近平主席将为博科总统举行欢迎仪式和欢迎宴会，两国元首将举行会谈。李强总理、赵乐际委员长将分别会见博科总统。博科总统还将赴福建省参访。&lt;/p&gt;&lt;p&gt;　　毛宁表示，中国和博茨瓦纳是战略伙伴。建交51年来，两国坚持真诚友好、互利共赢，在涉及彼此核心利益的重大问题上相互支持，在灾害和疫情面前守望相助，在推进现代化事业的征程上携手共进，在国际事务中坚定站在历史正确一边。&lt;/p&gt;&lt;p&gt;　　“相信此访将推动中博关系实现更高水平发展，为构建新时代全天候中非命运共同体作出更大贡献。”她说。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184807&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184807.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184807.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 外交部介绍博茨瓦纳总统博科访华安排 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184807.html#[03版：要闻] 外交部介绍博茨瓦纳总统博科访华安排</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 昔日长征路  今朝幸福路（赓续长征精神  奋进复兴征程·记者再走长征路）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184823.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 河南平顶山市叶县充分发掘红色资源—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 昔日长征路  今朝幸福路（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王乐文  方  敏&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/10/e51a361a-eb78-43fd-bbb6-a6d271a3671e.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　俯瞰叶县1号公路。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　人民网记者  宋芳鑫摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/e51a361a-eb78-43fd-bbb6-a6d271a3671e.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　车子驶上河南省平顶山市叶县1号公路，窗外山脊上，一排排白色风车，在伏牛山与桐柏山交会的风口上旋转。&lt;/p&gt;&lt;p&gt;　　脚下这条94公里长的叶县1号公路，恰好与当年红二十五军在叶县的长征路线重叠。&lt;/p&gt;&lt;p&gt;　　90多年前的初冬，风雪漫卷，红二十五军在叶县保安镇杨令庄村的五里坡激战多日，依托地形阻击追兵，主力部队趁机西进，沿着伏牛山脉撕开了一条生路。这支队伍后来抵达陕北，为中央红军落脚陕北打下了基础。&lt;/p&gt;&lt;p&gt;　　如今，战场遗址立起了纪念碑，碑后纪念墙上，“长征，永远的红飘带”几个大字在阳光下熠熠生辉。&lt;/p&gt;&lt;p&gt;　　山，还是这座山。不过，随着1号公路的通车，曾经崎岖的山路变成了致富路。&lt;/p&gt;&lt;p&gt;　　指着山上的风车，保安镇镇长陈菡菡介绍：“风车是央企投资建的。风车一转，村里就有分红。”&lt;/p&gt;&lt;p&gt;　　沿着1号公路继续向前，来到马头山湖边露营基地，基地负责人李金圈正招呼客人。刚刚过去的国庆假期，这里来了不少游客。&lt;/p&gt;&lt;p&gt;　　为充分发掘红色底蕴，基地排演了一场沉浸式情景剧《跟着团长去打仗》。游客们来了之后，可以换装扮演各种角色，在实景里感悟长征精神。村民换上红军服饰参演情景剧，每场都能拿务工收入。&lt;/p&gt;&lt;p&gt;　　露营基地的路边，停着一排观光自行车，杨令庄村村民万红蕊正给车胎打气。她之前在工厂做工，2021年回到村里。“旅游线路一开通，景区游客就多了起来，工作机会也越来越多。”&lt;/p&gt;&lt;p&gt;　　交通便利、山水秀美、红色资源富集，在当地党员干部的努力下，杨令庄村成了小有名气的网红村，许多村民吃上“旅游饭”。&lt;/p&gt;&lt;p&gt;　　近几年，杨令庄村还摸索出“村集体+农户+第三方”的经营模式，盘活880余亩土地，建起马头山3A级景区。湖光民宿、露营基地等项目一个个落了地。&lt;/p&gt;&lt;p&gt;　　“还有风电入股分红、光伏发电、国储林租赁、土地流转、固定资产租赁等收入来源，去年村集体收入有70多万元。除了村里维修、办公开支，我们还为村民交医保等。”杨令庄村党支部书记李伟同说。&lt;/p&gt;&lt;p&gt;　　“村民医保费用都不用自己交？”记者问。&lt;/p&gt;&lt;p&gt;　　李伟同点点头：“不用。村集体统一交，村民不用掏一分钱。”&lt;/p&gt;&lt;p&gt;　　钱袋子鼓了，党组织的威信也更高了。村里前些年拓宽道路，要经过群众的宅基地，村两委成员和党员先带头腾退，再做群众思想工作。“一做工作，大家都同意。”李伟同说。&lt;/p&gt;&lt;p&gt;　　“今年收成不赖！”一名正在晾晒玉米的村民直起腰，擦了把汗，“现在路好走了，我们都骑电动车去干活，地里也都换成了大型农机。”&lt;/p&gt;&lt;p&gt;　　风从五里坡上吹过，风车依旧转得欢。1号公路上，又有几辆旅游巴士驶过来。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王乐文  方  敏&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 河南平顶山市叶县充分发掘红色资源—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184823&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184823.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184823.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 昔日长征路  今朝幸福路（赓续长征精神  奋进复兴征程·记者再走长征路） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184823.html#[04版：要闻] 昔日长征路  今朝幸福路（赓续长征精神  奋进复兴征程·记者再走长征路）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 倾心守护“黄河第一弯”（我家门前有条河）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184824.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 倾心守护“黄河第一弯”（我家门前有条河） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							讲述人：“阿妈啦”黄河巾帼志愿巡河护河队执行队长  斯红英&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　若尔盖县的“黄河第一弯”景色。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　杨安文摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/9acb07e0-e691-4018-8d00-194df1be05ba.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　习近平总书记指出：“保护母亲河是事关中华民族伟大复兴和永续发展的千秋大计。”&lt;/p&gt;&lt;p&gt;　　从巴颜喀拉山北麓启程，汇流百川，奔腾峡谷，东流入海，黄河上下，风光无限。&lt;/p&gt;&lt;p&gt;　　2026年是中国共产党领导人民治理黄河80年。党的十八大以来，以习近平同志为核心的党中央着眼于生态文明建设全局，把黄河流域生态保护和高质量发展上升为国家战略，明确了“节水优先、空间均衡、系统治理、两手发力”的治水思路，为新时代治水提供了根本遵循。&lt;/p&gt;&lt;p&gt;　　奔流黄河水，悠悠黄河情。“我家门前有条河”栏目聚焦黄河，循着黄河足迹，聆听治理故事，与广大读者一起见证母亲河的沧桑巨变。&lt;/p&gt;&lt;p&gt;　　——编  者  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　我的家乡在四川省阿坝藏族羌族自治州若尔盖县，湿地草原就像铺展到天边的“绿地毯”。黄河在这里划过一道接近180度的回头弯，被称为黄河九十九道弯的第一道弯。&lt;/p&gt;&lt;p&gt;　　我们74名姐妹共同守护着这道黄河弯。这支队伍里大部分是当了妈妈的藏族姐妹，我们起了一个响亮的名字——“阿妈啦”黄河巾帼志愿巡河护河队。“阿妈啦”是藏语“母亲”的意思，我们常说，“‘母亲’守护‘母亲河’。”&lt;/p&gt;&lt;p&gt;　　姐妹们中有的是牧民，还有的开着超市，大家日常操持家务、操心事业，都挺忙的。我们能聚到一起，为的是同一个目标。&lt;/p&gt;&lt;p&gt;　　2021年以前，黄河边、放牧点，时常出现一些垃圾。大风天里，塑料袋、饮料瓶容易被吹进河道，卡在河滩的石缝里。从小在黄河边长大，看到这些垃圾，我和几个好朋友坐不住了，相约捡拾垃圾，坚持了一段时间，效果很不错。&lt;/p&gt;&lt;p&gt;　　2022年，在唐克镇白河社区党支部的支持下，我们组建巡河护河队，姐妹们推选我当执行队长。刚开始，队伍仅有七八名志愿者。说实话，我们听到过一些冷言冷语：“你们今天捡完，别人明天接着扔，白费力气。”“管天管地，管得了别人扔东西吗？！”……但我们心里憋着一股劲：黄河这么美，要保护好她。一天天坚持下去，就能让母亲河变干净。&lt;/p&gt;&lt;p&gt;　　别小瞧了捡垃圾，干起来不容易。夏天，高原的天说变就变，雨后草滩上一片泥泞，走得很费劲。冬天，天寒地冻，大风吹得脸生疼。每次出来，一干就是一天，饿了就吃随身带的方便面和馒头。我们三五结伴，一手提袋子，一手握火钳，沿河徒步巡查，把垃圾“一网打尽”。看到有人扔垃圾，上前耐心劝导；发现岸线受损，第一时间向相关部门反映。看到黄河美了，我们心里也跟着美。&lt;/p&gt;&lt;p&gt;　　加入志愿者队伍的“阿妈啦”越来越多。今年84岁的当么，是队里最年长的。巡河时，她常常手持志愿服务旗，走在队伍前面。一直观望的拉姆卓玛，有一天默默走进队伍，接过一个编织袋……如今，队伍累计开展巡河巡查7600多人次，清理河道及沿岸生活垃圾、建筑垃圾270多吨。&lt;/p&gt;&lt;p&gt;　　除了巡河捡垃圾，我们还参加了岸线绿化工作，累计参与种植高原柳树、灌木等水土保持苗木1.46万多株，修复绿化沿岸土地750余亩。看到小树长高，我们心里成就感满满。我们创新推出了“垃圾兑手作”公益活动，游客只需带走垃圾，就可以兑换队员们手工制作的工艺品。我们当起“生态宣传员”，走进村庄院落、景区景点、牧民帐篷，给公众普及河湖保护知识。&lt;/p&gt;&lt;p&gt;　　在家里，我们是母亲、妻子；在河边，我们是保护黄河生态的志愿者。未来，我们将继续并肩同行，守护母亲河岁岁安澜、幸福长流。&lt;/p&gt;&lt;p&gt;　　（本报记者邓剑洋采访整理）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;讲述人：“阿妈啦”黄河巾帼志愿巡河护河队执行队长  斯红英&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184824&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184824.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184824.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 倾心守护“黄河第一弯”（我家门前有条河） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184824.html#[04版：要闻] 倾心守护“黄河第一弯”（我家门前有条河）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 坚守的力量，令人感动（记者手记）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184825.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 坚守的力量，令人感动（记者手记） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							邓剑洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　对于“阿妈啦”队员来说，守护黄河生态已经融入日常生活。俯身捡拾、巡河护河、挥锹植绿……日复一日，用行动守护母亲河，让黄河岸边更干净、更美丽。&lt;/p&gt;&lt;p&gt;　　坚守的力量，令人感动。河畅岸绿的美好图景，离不开每个人的点滴努力。民间河长、巾帼河长……越来越多的志愿者加入巡河护河队伍。多方力量共同参与，形成大保护大协同格局，方能凝聚共识、久久为功，让黄河始终是造福人民的幸福河。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;邓剑洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184825&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184825.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184825.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 坚守的力量，令人感动（记者手记） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184825.html#[04版：要闻] 坚守的力量，令人感动（记者手记）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 两部门部署实施2026年“三区”人才支持计划教师专项计划</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184826.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 两部门部署实施2026年“三区”人才支持计划教师专项计划 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月9日电  （记者丁雅诵）教育部办公厅、财政部办公厅近日联合印发《关于做好2026年“三区”人才支持计划教师专项计划有关实施工作的通知》，明确2026—2027学年“三区”人才支持计划教师专项计划主要面向脱贫地区实施，重点向国家乡村振兴重点帮扶县、民族县、革命老区县、边境县等地区倾斜，计划选派教师11356名。要求各地综合研判区域学龄人口变化趋势，优化省域内名额分配，加大跨县跨地市选派力度，充分调动优质资源，加强对重点地区的支持力度。&lt;/p&gt;&lt;p&gt;　　在选派要求上，原则上选派中级以上专业技术职务的骨干教师，幼儿园教师可适当放宽条件，学校管理人员应具有较强的组织领导能力和丰富的学校管理经验。以全日制工作形式为受援地提供服务，时间为1年，鼓励延长支教时间或留任工作。&lt;/p&gt;&lt;p&gt;　　通知强调，要完善政策与经费保障，切实维护支教教师权益。受援县义务教育阶段教师选派工作经费由中央财政和地方财政按照年人均2万元标准共同分担。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184826&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184826.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184826.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 两部门部署实施2026年“三区”人才支持计划教师专项计划 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184826.html#[04版：要闻] 两部门部署实施2026年“三区”人才支持计划教师专项计划</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] “飞天奖”“星光奖”揭晓</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184827.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “飞天奖”“星光奖”揭晓 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　据新华社济南10月9日电  （记者白瀛、邵琨）第三十五届中国电视剧“飞天奖”、第二十九届全国电视文艺“星光奖”获奖结果9日晚在山东烟台举行的颁奖典礼上揭晓。电视纪录片《文化的力量——习近平文化思想在浙江的溯源与实践》等14部作品获“星光奖”，《西北岁月》《生万物》等16部作品获“飞天奖”优秀电视剧奖。&lt;/p&gt;&lt;p&gt;　　获得“飞天奖”优秀电视剧奖的作品还有《山花烂漫时》《我是刑警》《日光之城》《海天雄鹰》《春风化雨》《我的阿勒泰》《南来北往》《小巷人家》《国色芳华》《沉默的荣耀》《归队》《浴血荣光》《反人类暴行》《我们的河山》。&lt;/p&gt;&lt;p&gt;　　获得“星光奖”的作品还有电视综艺节目《中华书院》《中华考工记》《新民歌大会（第二季）》、电视戏曲节目《越韵中国年——2025越剧春节晚会》、电视文艺栏目《宗师列传》、电视纪录片《左宗棠收复新疆》《布达拉宫（第二季）》《卢沟桥：我们的纪念》《两岸家书》《国宝时刻（第一季）》《胜利》、电视动画节目《茶啊二中（第五季）》、少儿电视节目《自然公开课》。&lt;/p&gt;&lt;p&gt;　　本届“飞天奖”“星光奖”颁奖典礼由国家广播电视总局、山东省人民政府主办，中国电视艺术委员会、山东省广播电视局、烟台市人民政府等承办。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184827&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184827.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184827.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “飞天奖”“星光奖”揭晓 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184827.html#[04版：要闻] “飞天奖”“星光奖”揭晓</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 全国建成45支国家级危险化学品应急救援队伍</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184828.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国建成45支国家级危险化学品应急救援队伍 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月9日电  （记者刘温馨）记者从应急管理部获悉：截至目前，全国已建成580支、4.1万余人的危险化学品应急救援队伍，国家层面建成45支国家级危险化学品应急救援队伍，基本实现重点化工区域、重大风险点位应急救援力量全覆盖。&lt;/p&gt;&lt;p&gt;　　队伍体系不断健全。危险化学品企业依法依规组建应急救援力量，地方各级政府结合辖区风险实际建设地方救援队伍，国家在重点行业领域规划建设国家级应急救援队伍。&lt;/p&gt;&lt;p&gt;　　制度体系不断完善。印发《危险化学品企业生产安全事故应急准备指南》等规章制度和标准规范。&lt;/p&gt;&lt;p&gt;　　保障体系不断强化。危险化学品企业持续加大应急救援队伍建设投入，建强配齐力量，完善装备配置；地方政府不断强化属地保障，有力推动队伍建设管理；国家提供人才、技术和装备支撑，近年来中央财政为45支国家级危险化学品应急救援队伍配备1000余台套先进适用救援装备。&lt;/p&gt;&lt;p&gt;　　自第三届全国危险化学品救援技能竞赛以来，国家危险化学品应急救援队伍累计出动4.1万余人次参与4137起事故灾害救援，抢救遇险被困人员674人。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184828&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184828.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184828.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国建成45支国家级危险化学品应急救援队伍 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184828.html#[04版：要闻] 全国建成45支国家级危险化学品应急救援队伍</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 中共中央国务院关于发展新质生产力的意见</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184829.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中共中央国务院关于发展新质生产力的意见 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　发展新质生产力是推动高质量发展的内在要求和重要着力点。为加快发展新质生产力，现提出如下意见。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;一、总体要求&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，完整准确全面贯彻新发展理念，坚持创新主导、改革为要、因地制宜、先立后破，坚持高技术、高效能、高质量，统筹处理好政府和市场、质态和业态、改革和发展、自主和开放的关系，统筹发展和安全，以科技创新为引领，以全要素生产率大幅提升为核心标志，推动技术革命性突破、生产要素创新性配置、产业深度转型升级，推动劳动者、劳动资料、劳动对象优化组合和更新跃升，全方位推进科技创新、产业创新、发展方式创新、体制机制创新、人才工作机制创新，加快形成同新质生产力更相适应的生产关系，营造有利于科技创新和产业创新深度融合的良好发展生态，更好支撑高质量发展。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;二、大力推进科技创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　（一）加强原创性颠覆性科技创新。坚持面向世界科技前沿、面向经济主战场、面向国家重大需求、面向人民生命健康，聚焦战略性、标志性、引领性产品组织重大科技项目。坚持目标导向和自由探索并重，通过有组织的基础研究、应用基础研究解决技术科学和工程科学薄弱问题，支持自由探索类基础研究开拓创新。统筹科技创新平台基地建设，体系化布局建设重大科技基础设施，强化开放共享，避免重复分散。实施基础学科和交叉学科突破计划。加强原创理论研究和关键共性技术、前沿引领技术、现代工程技术、颠覆性技术创新。&lt;/p&gt;&lt;p&gt;　　（二）加快突破关键核心技术。发挥新型举国体制优势，在重点领域组织实施制造业重点产业链高质量发展行动和产业创新工程，强化全链条攻关、全要素支持、全生态建设。落实好首台（套）、首批次应用政策，促进技术迭代升级。&lt;/p&gt;&lt;p&gt;　　（三）统筹国家战略科技力量建设。发挥国家实验室组织国家重大科技项目、建设国家重大创新平台等方面作用，在体制机制改革上先行先试。以国家战略需求为导向，优化国家科研机构、高水平研究型大学、科技领军企业定位和布局。逐步建立激发创新活力、知识价值导向、管理规范有效、保障激励兼顾的高等学校、科研院所薪酬制度，同步推进国家科研机构、高水平研究型大学改革，调动科研机构和科研人员积极性。允许科研类事业单位实行更灵活的管理制度。充分发挥科技领军企业在推动创新链产业链资金链人才链深度融合中的关键作用。&lt;/p&gt;&lt;p&gt;　　（四）强化企业科技创新主体地位。加强普惠激励政策供给，建立企业研发准备金制度，强化企业科技投入主导作用。鼓励科技型中小企业加大研发投入，提高企业研发费用加计扣除比例。将符合国家战略需求的企业研发项目按程序上升为国家项目，鼓励企业牵头国家科技任务，支持有能力的民营企业牵头承担国家重大技术攻关任务。建立用户考核评价成果的机制，强化企业成果转化主体地位。健全国有企业推进原始创新制度安排。支持专精特新中小企业发展。&lt;/p&gt;&lt;p&gt;　　（五）加速科技成果向现实生产力转化。用好超大规模市场优势，推动技术与市场高效对接，促进新质生产力规模化发展。实施新技术新产品新场景大规模应用示范行动。布局建设概念验证、中试验证平台，加大应用场景建设和开放力度。探索建立科技项目全过程评价机制，立项时一体部署研发和转化任务，验收时考核应用实绩，解决技术开发与成果转化脱节问题。引导高等学校、科研院所按照先使用后付费方式把科技成果许可给中小微企业使用。推动大企业向中小微企业开放供应链，支持中小微企业成为成果产业化的重要力量。以人工智能引领科研范式变革，助力提升科研效率。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;三、推动科技创新和产业创新深度融合&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　（六）改造提升传统产业。守牢实体经济根基，巩固和拓展中国制造硬实力。以国家标准提升引领传统产业优化升级，支持企业用数智技术、绿色技术改造提升传统产业。组织实施重点产业提质升级行动，巩固提升矿业、冶金、化工、轻工、纺织、机械、船舶、建筑等产业在全球产业分工中的地位和竞争力。开展产业基础再造工程、重大技术装备攻关工程、制造业重大技术改造升级工程和大规模设备更新工程。强化对制造业企业技术改造的资金支持，落实技术改造投资相关税收优惠政策，促进制造业数智化转型，发展智能制造、绿色制造、服务型制造。增强质量技术基础能力，加强品牌建设。深入实施新一轮千亿斤粮食产能提升行动、种业振兴行动、智慧农业行动、农机装备高质量发展行动、设施农业现代化提升行动和农业科技创新条件建设工程，发展农业工厂等新形态。实施服务业扩能提质行动，分领域推进生产性服务业向专业化和价值链高端延伸，促进生活性服务业高品质、多样化、便利化发展。&lt;/p&gt;&lt;p&gt;　　（七）培育壮大新兴产业。着力打造新兴支柱产业。加快新一代信息技术、新能源、新材料、智能网联新能源汽车、机器人、生物医药、高端装备、航空航天等战略性新兴产业发展，因地制宜建设各具特色、优势互补的战略性新兴产业集群，推动资源集聚、主体集中、成果集成、分工合作。深化产业内、产品内专业分工，促进跨行业跨区域融合，避免“内卷式”竞争。以产业链为主导、以企业为主体建立跨区域产业协作机制，支持东部地区带动中西部和东北地区因地制宜发展新兴产业。在确保安全前提下，推动低空经济、商业航天健康有序发展。&lt;/p&gt;&lt;p&gt;　　（八）前瞻布局未来产业。探索多元技术路线、典型应用场景、可行商业模式、市场监管规则，推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等未来产业发展，加快形成比较完备的产业生态。建立未来产业投入增长和风险分担机制，充分用好现有财政政策支持未来产业发展，引导社会资本持续加大投入。&lt;/p&gt;&lt;p&gt;　　（九）促进实体经济和数字经济深度融合。健全数据产权归属认定、市场交易、权益分配、利益保护制度，实施数据要素相关试点示范工程，充分释放数据要素潜能。优化国家数据基础设施布局建设和运营，深入开展制造业数字化转型行动，实施“东数西算”、智能制造、工业互联网创新发展等工程，建设全国一体化算力网、国家区块链网络。完善促进数字产业化和产业数字化政策体系，打造具有国际竞争力的数字产业集群。&lt;/p&gt;&lt;p&gt;　　（十）全面实施“人工智能+”行动。推进人工智能对传统产业的改造，加快推进智能网联新能源汽车、人工智能手机和电脑、人形机器人等新一代智能终端场景应用。加快人工智能等数智技术创新，突破基础理论和核心技术，强化算力、算法、数据等高效供给。因地制宜、分业施策布局国家人工智能行业应用中试基地和高价值应用场景，大力推动人工智能在各行业应用。构建技术监测、风险预警、应急响应体系，确保人工智能安全、可靠、可控。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;四、着力推进发展方式创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　（十一）构建绿色低碳循环发展经济体系。做强绿色制造业，发展绿色服务业，壮大绿色能源产业。坚持源头减量、过程控制、末端高效治理相结合，统筹推进重点行业绿色化改造，加快绿色科技创新和先进绿色技术推广应用。健全绿色消费激励机制，加强绿色产品认证与标识体系建设，提升绿色消费水平，以绿色消费带动绿色产品供给。建设一批零碳工厂和园区。完善资源总量管理和全面节约制度，健全废弃物循环利用体系。&lt;/p&gt;&lt;p&gt;　　（十二）优化绿色发展政策工具箱。实施促进绿色低碳发展的财税、金融、投资、价格、科技、环保政策。健全生态产品价值实现机制，全面实施碳排放总量和强度双控制度，健全碳排放统计核算体系、标准计量体系、产品碳标识认证制度、产品碳足迹管理体系。以全国碳市场为主体完善碳定价机制，扩大全国碳排放权交易市场覆盖范围，优化碳排放配额分配方案，加快温室气体自愿减排交易市场建设，完善全国统一绿证市场。推动金融机构提供多样化绿色金融产品。优化政府绿色采购政策，完善绿色税制。实施以绿色生态为导向的农业补贴制度。&lt;/p&gt;&lt;p&gt;　　（十三）积极推进能源革命。聚焦碳达峰碳中和目标，有序发展先进核裂变能，构建高比例可再生能源电力系统，完善新能源消纳和调控政策措施，组织重大应用场景示范和推广，加速全社会生产生活用能绿色化进程，推动能源消费、供给、技术、体制革命，全方位加强国际合作。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;五、扎实推进体制机制创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　（十四）聚焦科技和经济紧密结合深化改革。在国家重大工程项目中按需部署科技任务，健全需求导向的选题制度、责权利一致的管理制度、应用导向的评价制度。深化职务科技成果赋权和资产单列管理改革。允许符合条件的国有企业开展多种形式激励。建设开放共享安全的全国一体化数据市场，健全转化高效的技术市场，促进各类先进优质生产要素高效集聚、顺畅流动。&lt;/p&gt;&lt;p&gt;　　（十五）完善市场监管制度。完善市场准入制度，强化反垄断和反不正当竞争。加强人工智能、生物等领域治理。强化跨部门联合监管，创新监管方式，减少现场监管次数，探索“用数据决策、用数据管理”监管模式，提升跨部门综合监管智能化水平。建立高效的知识产权综合管理体制，完善惩罚性赔偿制度。研究同新业态相适应的税收制度。&lt;/p&gt;&lt;p&gt;　　（十六）加大金融创新产品供给。鼓励和规范发展天使投资、风险投资、私募股权投资，更好发挥政府投资基金引导带动作用，完善长期资本投早、投小、投长期、投硬科技的支持政策，壮大耐心资本。鼓励银行开发符合新质生产力特点的贷款产品。丰富科技创新债券产品体系，支持优质科技型企业上市融资，优化科技型企业并购重组、股权激励等制度。发展覆盖科技创新全链条的保险产品，探索科技租赁等业务。&lt;/p&gt;&lt;p&gt;　　（十七）在全球配置先进生产要素。扩大高水平对外开放，开拓用好全球市场。鼓励自由贸易试验区结合区位特点、资源禀赋、产业优势，集聚国内外先进生产要素。发挥各类多边双边合作机制作用，推动共建科技园区、“一带一路”联合实验室、国际先进技术应用推进中心等平台，主动构建全球创新合作网络。牵头实施并积极参与国际大科学计划和大科学工程。鼓励外资创业投资机构、国际标准组织等来华发展。建立高效便利安全的数据跨境流动机制。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;六、深化人才工作机制创新&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　（十八）培养新质生产力发展急需人才。统筹推进教育科技人才体制机制一体改革。推动高等教育提质扩容，发展新型研究型大学，根据产业和科技发展趋势，优化高等学校学科专业设置调整机制。推动现代职业教育高质量发展，全面推进工学一体化技能人才培养模式。坚持在实践中造就人才。鼓励企业和高等学校联合定制化培养人才，支持大国工匠、高技能人才兼任职业学校实习实训教师。充分发挥科学技术普及对提高劳动者素质的重要作用。&lt;/p&gt;&lt;p&gt;　　（十九）健全人才使用和流动政策。落实税收优惠政策，健全终身职业技能培训制度，实施制造业人才支持计划和专业技术人才知识更新工程，支持用人单位培养人才。加快推动科研人员考核评价激励与报项目、发论文、评奖励等适度脱钩，防止简单按人才“帽子”定薪酬、定职称、定待遇。加快破除各种隐性壁垒，畅通高等学校、科研院所、企业人才交流通道。健全“新八级工”职业技能等级制度，畅通产业工人向上发展通道。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;七、加强组织实施&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　各地区各有关部门要在党中央集中统一领导下，强化全国一盘棋思想，坚持因地制宜，加强分类指导和重点领域统筹，优化重大生产力布局。坚持先立后破、稳中求进，不能脱实向虚、贪大求全、搞泡沫化，不能出现产业空心化或产业断层现象，不能盲目求新、顾此失彼。各级领导干部要树立和践行正确政绩观，结合实际探索发展路径，严禁借发展新质生产力之名违规滥用政策，对一哄而上、盲目投资等造成重大损失的严肃追究责任。加强部门协调配合，形成工作合力。中央财办、国家发展改革委要统筹做好理论研究、战略规划、跨区域跨部门协调、跟踪监测评估等工作。及时总结经验做法，加强宣传推广，营造良好氛围。重大事项及时按程序向党中央、国务院请示报告。&lt;/p&gt;&lt;p&gt;　　（新华社北京10月9日电）&lt;/p&gt;&lt;p&gt;　　（国家发展改革委有关负责同志答记者问见第二版）&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184829&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184829.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184829.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中共中央国务院关于发展新质生产力的意见 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184829.html#[04版：要闻] 中共中央国务院关于发展新质生产力的意见</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 新建铁路义乌站站房启用</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184830.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 新建铁路义乌站站房启用 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/10/cafa9a89-2c4c-4e84-b89a-3201fb63d492.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图为新建铁路义乌站站房外景。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　刘  凯摄（人民视觉）&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/cafa9a89-2c4c-4e84-b89a-3201fb63d492.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　本报义乌10月9日电  （记者窦瀚洋）9日，经过3年10个月改扩建，新建铁路义乌站站房正式启用，候车区域整体从综合交通枢纽大楼搬迁至新站房，“世界超市”义乌迎来一座舒适便捷、连通八方的现代化新门户。当天，“有情有义  世界义乌”城市文化品牌冠名列车从义乌站首发。10月11日起，铁路第四季度运行图实施后，义乌站办理客运业务的列车总数将由调图前226列增加至272列。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184830&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184830.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184830.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 新建铁路义乌站站房启用 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184830.html#[04版：要闻] 新建铁路义乌站站房启用</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 一版责编：许  诺  赵  政  张宇杰  二版责编：林  琳  蒋雪婕  郭雪岩版责编：吴  刚  周  輖  谢佳宁  四版责编：袁振喜  白之羽  崔  斌</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184831.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：许  诺  赵  政  张宇杰  二版责编：林  琳  蒋雪婕  郭雪岩版责编：吴  刚  周  輖  谢佳宁  四版责编：袁振喜  白之羽  崔  斌 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184831&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184831.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184831.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：许  诺  赵  政  张宇杰  二版责编：林  琳  蒋雪婕  郭雪岩版责编：吴  刚  周  輖  谢佳宁  四版责编：袁振喜  白之羽  崔  斌 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184831.html#[04版：要闻] 一版责编：许  诺  赵  政  张宇杰  二版责编：林  琳  蒋雪婕  郭雪岩版责编：吴  刚  周  輖  谢佳宁  四版责编：袁振喜  白之羽  崔  斌</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 检验检测，为经济发展添动能（大数据观察）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184832.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 超5万家机构，一年出具报告5.71亿份 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 检验检测，为经济发展添动能（大数据观察） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  林丽鹂&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　数据来源：国家市场监督管理总局&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　制图：张丹峰&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/5439795b-a87e-4be3-aa29-60d2d8fb7e16.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　人形机器人，安全可靠吗？直播间的首饰，是真是假？产品出海，如何证明符合当地标准？这些问题都与检验检测息息相关。&lt;/p&gt;&lt;p&gt;　　世界各国普遍采用认证认可检验检测方式来加强市场监管、促进经济贸易发展，这些合格评定被称为质量管理的“体检证”、市场经济的“信用证”、国际贸易的“通行证”。&lt;/p&gt;&lt;p&gt;　　近年来，我国检验检测产业获得长足发展，正由数量规模型向质量效益型加速转变。截至2025年底，我国获得资质认定（CMA）的各类检验检测机构共有54340家，同比增长2.42%，2025年全年向社会出具检验检测报告共5.71亿份。一张张检验检测报告正助力提升产品和服务质量、释放消费潜力、服务企业出海，为经济发展增添动能。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;促进产业优化升级&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　新兴领域检验检测机构数量同比增长8.44%&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　右手拿着逗猫条，左手轻抚猫咪后背，模拟客厅里，人形机器人不仅能帮忙做家务，还能撸猫、喂食。工厂里也有人形机器人正式“上岗”，能够进行物料补给、分拣摆盘、码垛打包等工作。业内人士认为，2026年国内人形机器人赛道正式进入产业化落地的关键窗口期，机器人特别是人形机器人的安全问题备受关注。&lt;/p&gt;&lt;p&gt;　　“如果没有统一的第三方检测评价体系，仅凭企业自研测试数据或演示视频进行宣传，说服力远远不够。”上海电器科学研究所（集团）有限公司机器人检测认证中心主任朱晓鹏说，为科学检测、认证机器人的安全性，国家认监委等多部门向社会发布实施中国机器人认证（以下简称“CR认证”），这是世界范围内唯一由国家推动的自愿性高端认证。&lt;/p&gt;&lt;p&gt;　　“以获得国内首张人形机器人CR认证证书的智元远征A2人形机器人为例，要经机械电气安全测试、功能安全评估、运行可靠性试验等多维度标准化检测，认证过程对产品质量提出了很高的要求。”智元通用业务部相关负责人说。以检测标准为重要逻辑，用更高要求打磨产品，把安全可信作为产品核心要求，人形机器人产业不断发展。&lt;/p&gt;&lt;p&gt;　　截至2025年底，我国新兴领域检验检测机构数量同比增长8.44%，与2020年比，新兴领域机构营业收入占比提升4.50个百分点。2025年以来，检验检测促进产业优化升级行动持续实施，在集成电路、高端装备、低空经济、节能环保等新兴领域，以及农产品、轨道交通等传统民生领域精准发力，已累计完成20项重点项目验收工作，突破了一批关键检验检测技术瓶颈，为行业高质量发展提供了强大支撑。&lt;/p&gt;&lt;p&gt;　　据市场监管总局相关负责人介绍，下一步将深入实施国家质检中心提质优化三年行动，健全动态评估与退出机制，新筹建国家质检中心重点对接集成电路、人工智能等战略性新兴产业，杜绝低水平重复建设；前瞻布局集成电路、新能源、生物医药、人形机器人等战略性新兴产业高能级质检技术平台，强化新质生产力技术支撑。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;赢得信任激活消费&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　去年查处违法检验检测机构4221家，维护行业健康发展&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“在直播间看到珍珠项链价格非常划算，但怎么判断真假呢？检测证书靠谱吗？”喜欢直播购物的北京居民周小匀有这样的疑惑。&lt;/p&gt;&lt;p&gt;　　“做珠宝行业，赢得客户信任特别重要。但检测成本高、周期长，也让我们犯愁。”在位于浙江诸暨的华东国际珠宝城，不少商户有这样的困扰。诸暨市山下湖镇掌握着全国80%、全球70%的珍珠交易量，是闻名海内外的珍珠集散地，提高检验检测效率是当地商户的普遍诉求。&lt;/p&gt;&lt;p&gt;　　“为了缩短检验检测时间，我们的实验室配备先进检测设备200余台，构建‘4小时极速出证’服务体系，仓内发货时效提升至4到8小时，显著降低商家成本，有效提升了成交率。”浙江方圆检测集团股份有限公司总经理阙利明说。&lt;/p&gt;&lt;p&gt;　　为了从源头破解直播电商“货不对板”“证书作假”等消费痛点，检测方直接入驻华东国际珠宝城诸暨某直播电商平台质检仓一体化运营中心，构建起“消费者下单—商家送货入仓—珍珠质检把关—合格产品对接物流发货”的全链路闭环管理体系，将传统事后监管转变为事先检测，不仅让消费者放心，也大大提升了商品销量。&lt;/p&gt;&lt;p&gt;　　真实可靠的检验检测，是保障消费安全、维护市场秩序的重要技术支撑，也是提振消费信心、优化消费环境的关键手段。为切实整治珠宝玉石、贵金属饰品、红木制品等传统工艺市场假证书、假机构、假产品、假网站等突出问题，市场监管总局会同公安部开展传统工艺市场“打假清源”联合执法行动。&lt;/p&gt;&lt;p&gt;　　2025年，全国市场监管系统共检查从业机构2.39万家，查处违法机构4221家，撤销、注销机构资质574家，罚没款4004.64万元，移送公安机关案件203起，以有力手段维护检验检测行业健康发展。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;一次评价多国通行&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　我国累计对外签署170项多双边合作互认协议&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　国家海洋设备质量检验检测中心（山东）海洋电缆实验室，巨型法拉第笼像个大铁箱。“这是我们的高压屏蔽室，模拟海底电缆在海上风电场输送电能时的工作场景。在今后的20天里，里面的海底电缆将经受热循环电压试验等严苛检测。”海检检测有限公司董事长洪晓莉说。&lt;/p&gt;&lt;p&gt;　　海底电缆要长时间在复杂的海洋环境中工作，一旦发生故障，修复的经济成本和环境成本都很高。因此，电线电缆产品在全球大部分国家和区域被列为强制性认证产品管理对象，即必须符合本国或本区域标准要求并获得相应的产品认证后，方可在本国或本地区销售和使用。&lt;/p&gt;&lt;p&gt;　　“举例来说，一款高压电缆产品，要想进入欧洲市场销售，技术指标除了要完全符合国际电工委员会（IEC）国际标准外，可能还需要符合欧洲协调标准、英国国家标准、德国国家标准以及客户所在国电网企业的技术规范，如果按照所有的标准和规范进行反复检测，检测费用将高达上百万元人民币，检测周期也会增加数月甚至一年。”某电缆生产企业相关负责人介绍。&lt;/p&gt;&lt;p&gt;　　聚焦电缆出口面临的国际认证门槛高、周期长、成本高等堵点，国家海洋设备质量检验检测中心（山东）通过标准互认、结果采信、技术输出，构建“一次检测、多国通行”的一站式服务，取得显著成效——对标IEC国际标准，检测报告获欧盟、美、英及40余个共建“一带一路”国家直接采信，实现出口企业检测周期平均缩短15%、检测费用平均节省10%。&lt;/p&gt;&lt;p&gt;　　从国际贸易看，标准与合格评定影响全球80%的贸易。国家质检中心出具的检测结果获得国际广泛互认，每年为超200万批次出口产品提供检测便利。目前，我国已累计加入21个合格评定国际组织，对外签署170项多双边合作互认协议。“一次评价、多国通行”的互认机制可覆盖全球经济总量超95%的区域。&lt;/p&gt;&lt;p&gt;　　市场监管总局有关负责人介绍，未来将继续发挥认可国际互认作用，推动国内外机构间检验检测结果互认采信，推动国内机构加入相关合格评定国际组织和产业联盟，鼓励检验检测机构依托和伴随国内相关生产企业出海，发挥更大作用。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  林丽鹂&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 超5万家机构，一年出具报告5.71亿份 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184832&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184832.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184832.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 检验检测，为经济发展添动能（大数据观察） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184832.html#[05版：要闻] 检验检测，为经济发展添动能（大数据观察）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 中央政法委发布第三季度见义勇为勇士榜</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184833.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中央政法委发布第三季度见义勇为勇士榜 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月9日电  （记者亓玉昆）10月9日，中央政法委在京发布2026年第三季度见义勇为勇士榜。根据见义勇为典型事迹突出程度、网络关注度、各地依法确认和申报意见，进行综合评审评议，共有79位见义勇为勇士获通报表扬和奖励慰问，其中有13位因见义勇为不幸牺牲。&lt;/p&gt;&lt;p&gt;　　本季度全国多地正值汛期，台风侵袭、强降雨、江河暴涨、山体滑坡等灾害多发频发。上榜见义勇为勇士中有30多名自发投身汛期自然灾害抢险救人，约占上榜总人数40%。广西何启忠、韦永庆，重庆侯开荣、何光学、龚宝冬，贵州马昌全等，在灾害来袭时奔走预警、挨家挨户劝导群众转移，于洪流、塌方的危险之中逆行救助，何启忠、韦永庆、龚宝冬不幸被洪流、泥石掩埋，献出宝贵生命。福建郭黄鹏跳进湍急洪水，顶着树枝撞击、激流拖拽的危险，将失去意识的落水女孩救上岸。西藏边玛主动赶赴泥石流阻断路段，驾驶装载机清理道路障碍，途中遭遇落石坠崖，英勇牺牲。青岛赵新军、赵龙龙父子，短短月余先后在波涛汹涌的海中救起3名落水群众，赓续向善家风，以质朴真挚的善举，传承见义勇为传统美德。面对突发灾害事故，人民群众守望相助、见义勇为，是无可替代的前沿救援力量。&lt;/p&gt;&lt;p&gt;　　上榜见义勇为勇士挺身而出同违法犯罪行为作斗争的事迹，生动诠释“专群结合、依靠群众”。越来越多普通群众敢于站出来、冲上去，及时阻止伤害扩大，有力震慑违法犯罪。河北大学学生赵纾、刘畅，目睹民警追捕盗窃嫌疑人，主动上前追赶配合，协助民警成功将其制伏。安徽超市店主费芳芳积极配合公安机关抓捕电信诈骗团伙，为受害群众挽回经济损失10多万元。云南孙益辰、丰诗鹏、岩恩、何林枫，面对犯罪嫌疑人持刀连续行凶，持凳阻击、追击堵截，协助民警制止犯罪。面对违法犯罪行为，人民群众齐心协力、见义众为，正是社会治理共建共治共享的生动实践。&lt;/p&gt;&lt;p&gt;　　见义勇为勇士榜发布活动由中央政法委主办，中华见义勇为基金会承办，2022年9月以来，已发布15次见义勇为勇士季度榜，共有886位见义勇为勇士获得通报表扬和奖励。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184833&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184833.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184833.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中央政法委发布第三季度见义勇为勇士榜 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184833.html#[05版：要闻] 中央政法委发布第三季度见义勇为勇士榜</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 财政部下达5500亿元地方政府债务结存限额</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184834.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 财政部下达5500亿元地方政府债务结存限额 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月9日电  （记者曲哲涵）按照党中央和国务院决策部署，近日，财政部安排使用地方政府债务结存限额5500亿元，用于提高县区一般公共预算保障能力和支持地方扩大有效投资。&lt;/p&gt;&lt;p&gt;　　下达地方的5500亿元地方政府债务结存限额中，一般债务结存限额3000亿元，全部分配县区使用，专门用于提高县区一般公共预算保障能力；专项债务结存限额2500亿元，分配给今年第四季度有实际项目资金需求的地区，并向经济大省倾斜，支持优先保障在建项目资金需求，新建项目聚焦“六张网”建设等重点领域，有效发挥政府投资带动作用。&lt;/p&gt;&lt;p&gt;　　财政部将指导督促各地更好衔接项目储备和债券发行，加快发行节奏，畅通拨付链条，尽快形成实物工作量，促进政策早落地、早见效。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184834&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184834.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184834.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 财政部下达5500亿元地方政府债务结存限额 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184834.html#[05版：要闻] 财政部下达5500亿元地方政府债务结存限额</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 桑榆正好  霞满人间</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184835.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 广大老年志愿者为推进中国式现代化贡献“银发力量”—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 桑榆正好  霞满人间 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  吴储岐&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　金秋十月，敬老情浓，全国“敬老月”活动展开，各地把关爱落到实处，让广大老年人既能安享晚年，也能在服务社会中施展所长。今年是“十五五”开局之年。“十五五”规划纲要对积极应对人口老龄化作出部署，明确提出深入开展“银龄行动”。&lt;/p&gt;&lt;p&gt;　　习近平总书记指出：“要为老年人发挥作用创造条件，引导老年人保持老骥伏枥、老当益壮的健康心态和进取精神，发挥正能量，作出新贡献。”&lt;/p&gt;&lt;p&gt;　　中国式现代化的壮阔图景里，有亿万老年人安享晚年的幸福，也有他们接续奋斗的担当。这支银发志愿队伍，阅历丰厚，壮心未已。在习近平总书记的殷殷关切下，广大老年志愿者走向基层、走进群众，把岁月积淀的智慧与热忱汇入服务人民、奉献社会的时代洪流。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;丹心传薪火&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“既要老有所养、老有所乐，又要老有所为”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　暖色调的家具，家一般的布置。在重庆市两江新区鸳鸯街道，“老班长”调解室首席调解员陆培宝希望温馨的环境能让调解双方放松心情。&lt;/p&gt;&lt;p&gt;　　退休后，陆培宝把多年积累的相关工作经验用在化解邻里纠纷上。房东与租户起了争执，他先厘清责任，再讲彼此情谊，促成双方和解。达成协议后，他还要回访，看看后续效果。“全心全意为人民服务，是我作为一名共产党员的本分。”陆培宝说。&lt;/p&gt;&lt;p&gt;　　“希望广大老年朋友保持老骥伏枥、老当益壮的健康心态和进取精神，既要老有所养、老有所乐，又要老有所为，为推进中国式现代化贡献‘银发力量’。”2024年10月9日，习近平总书记给“银龄行动”老年志愿者代表回信，对他们予以亲切勉励。&lt;/p&gt;&lt;p&gt;　　莫道桑榆晚，为霞尚满天。老年人是党和国家的宝贵财富。近年来，新时代“银龄行动”不断拓面升级、提质增效，越来越多老年人投身志愿服务。&lt;/p&gt;&lt;p&gt;　　北京“西城大妈”、浙江“武林大妈”……一支支为群众熟知的志愿服务队伍中，活跃着银发志愿者的身影。&lt;/p&gt;&lt;p&gt;　　在广西壮族自治区钦州市浦北县，退休农技专家张兴财把“移动课堂”开到田间。他将农技知识编成书，免费送到农户手中，还建立了水果产业人才工作站。技术送到田间，本领留给农户，老专家的经验成为更多农民发展产业的支撑。&lt;/p&gt;&lt;p&gt;　　一代人的经验，连着后来人的成长；一代人的守护，滋养一个社会的精神。&lt;/p&gt;&lt;p&gt;　　“一块块守护小家的门板，连成了抗日救国的桥梁。”江西省宜春市上高县抗日阵亡将士陵园，银龄志愿者昝鸿祥深情讲述百姓拆下自家门板、搭起浮桥送抗日将士过河的往事。&lt;/p&gt;&lt;p&gt;　　昝鸿祥常到陵园义务讲解，还为当地博物馆、纪念馆培训讲解员。自己讲，也教别人讲，让更多人了解这段历史，也让故事里的精神代代相传。&lt;/p&gt;&lt;p&gt;　　基层治理、乡村全面振兴、文化传承……老年志愿者的服务足迹遍及城乡。截至目前，全国参与志愿服务的老年人已超过5000万人，在解民忧、暖民心中发挥着积极作用。&lt;/p&gt;&lt;p&gt;　　积极应对人口老龄化，既要回应老年人的生活需要，也要珍视老年群体蕴藏的丰富资源。知识经验在传授中延续，优良品格在奉献中传承，老一辈的所学所长正在志愿服务中不断惠及社会，展现着老有所为的风采。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;晚景更丰盈&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“利用所学所长服务基层、服务群众，向社会传递正能量”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　一门法律史课，有学生完整听了两遍。下课后，有人留下探讨问题，有人邀请老师参加读书会，还有人请他帮忙修改文章。&lt;/p&gt;&lt;p&gt;　　这是银龄教师李鸣在新疆政法学院的教学日常。退休后，他参加高校银龄教师支援西部计划，把讲台从北京搬到新疆。他深入基层调研，结合当地实际充实课程，将研究所得带进课堂，又从教学中发现新问题。“很感谢有这样一个平台，能让我们老教师发挥余热，做力所能及的事。”李鸣说。&lt;/p&gt;&lt;p&gt;　　习近平总书记肯定老年志愿者“利用所学所长服务基层、服务群众，向社会传递正能量，展现了新时代中国老年人的精神风貌”。&lt;/p&gt;&lt;p&gt;　　幸福的晚年，既有生活的安稳，也有精神的充实。继续学习、施展所长，在参与社会生活中实现价值、收获快乐，是许多老年人的心愿。&lt;/p&gt;&lt;p&gt;　　有参与的意愿，还要有施展所长的机会。民政部、全国老龄办、中国老龄协会推动建设全国“银龄行动”信息服务平台，提供信息查询、服务链接、事项办理等服务。原单位、行业组织、所在社区共同搭台，为有意愿参与的老人提供用武之地。&lt;/p&gt;&lt;p&gt;　　教育、卫生健康、科技等领域的银发人才，在各具特色的项目中施展所长。“国家银龄教师行动计划”支持老教师重返课堂，“老专家服务基层健康行动”把诊疗经验带到基层，“银龄助企”组织老科技工作者为企业解难。北京内蒙古、上海云南、浙江四川等省际结对帮扶，让老年人才的专长跨越地域，在更需要的地方发挥作用。&lt;/p&gt;&lt;p&gt;　　舞台向远方延伸，也在家门口生长。新时代“银龄行动”的参与主体从老年知识分子拓展到全体老年人，在智力援助、技术帮扶的基础上，服务内容进一步拓展至儿童托管、互助养老等领域。&lt;/p&gt;&lt;p&gt;　　陕西省西安市解家村新社区，“巧姐”志愿服务队的退休阿姨们因跳舞结缘，又结伴服务邻里。她们搬椅子、备茶水，陪老人聊天，分片结对照顾高龄、独居邻居；发现老街坊进出单元门不便，便向社区提出建议，推动改造。&lt;/p&gt;&lt;p&gt;　　从跟着社区参加活动，到主动为邻里出主意、办实事，老年人在建设家园中找到了新的乐趣。各地依托基层老年协会、社区志愿服务队，把更多热心的老年人组织起来，让他们在家门口找到发挥所长的机会。&lt;/p&gt;&lt;p&gt;　　安享与有为相伴，晚年生活愈加丰盈；个人与社会相融，时代前行更添活力。在参与中实现价值，在奉献中收获成长，越来越多的老年人正把对美好生活的向往写进老有所为的日常。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;保障护热忱&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“把老年人生活保障好、作用发挥好、权益维护好”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　福建省永安市黄山社区，退休语文教师陈奶奶正带着孩子们诵读古诗。“共享奶奶”志愿服务队成员帮家长接送、陪护孩子，社区也为老人做好服务保障。与家庭签订《爱心公约》，明确各方权责，为“共享奶奶”统一购买意外险、组织急救培训，志愿服务时长还能兑换家政服务或体检项目。一项项安排，让热心助人的老年人有了安心参与的依靠。&lt;/p&gt;&lt;p&gt;　　老年人照看孩子，社会照应老年人。奉献的脚步走到哪里，对老年人的关心关爱就跟进到哪里。&lt;/p&gt;&lt;p&gt;　　“把老年人生活保障好、作用发挥好、权益维护好。”习近平总书记对各级党委和政府提出明确要求。&lt;/p&gt;&lt;p&gt;　　中共中央、国务院印发《关于深化养老服务改革发展的意见》，部署深化拓展“银龄行动”。全国老龄委印发《关于深入开展新时代“银龄行动”的指导意见》，对拓宽参与渠道、加强服务保障等作出安排。2025年，民政部、中央组织部等19部门印发《关于支持老年人社会参与  推动实现老有所为的指导意见》，健全党委领导、政府主导、部门协同、各方参与的工作格局。从拓展参与空间到明确各方责任，支持老年人社会参与的制度保障不断健全。&lt;/p&gt;&lt;p&gt;　　组织起来，更要保障到位。评估志愿者身体状况，提供服务所需的物资设备，做好安全保障、提供相应保险，“谁招募、谁负责，谁使用、谁保障”的要求，贯穿老年人参与志愿服务的各个环节。&lt;/p&gt;&lt;p&gt;　　“今天轮到我值班啦！”浙江省温岭市丹崖社区食堂里，居民陈阿婆一边麻利地分装饭菜，一边热情地打招呼。在政府补贴、社会捐赠等支持下，社区老年人享受免费就餐。许多退休老年人还自发组成志愿服务队。“现在我还干得动，当然要出一份力！”陈阿婆说。&lt;/p&gt;&lt;p&gt;　　老有所为的舞台，立在老有所养的根基之上。完善养老保险和医疗保障，推进养老服务网络建设，发展老年助餐服务，加强老年人健康管理，各部门协同发力，让晚年生活更有依靠。&lt;/p&gt;&lt;p&gt;　　生活有保障，权益有守护，老人安享晚年更有底气，家人也多一份安心。针对金融理财等领域的风险，民政部、全国老龄办等7部门出台专项政策，推动建立健全维护老年人合法权益工作机制，提升老年人识骗防骗能力，形成风险预警防范、纠纷发现报告、纠纷化解处置的工作闭环，不断提高老年人维权服务质量。&lt;/p&gt;&lt;p&gt;　　自觉自愿、量力而行，既是开展“银龄行动”的原则，也是对老年人生活选择的尊重。今年，上海市在关于构建老年人社会参与支持体系的实施方案中，提出鼓励建立长者志愿者荣誉退出及嘉许机制。愿意继续服务时，有施展所长的天地；需要放慢脚步时，曾经的付出仍被珍重。&lt;/p&gt;&lt;p&gt;　　让有意愿、有能力的老年人尽展所长，让每一位老年人都能安享晚年，关乎他们的今天，也关乎全社会的明天。把保障生活、支持参与、维护权益落到实处，体现着以人民为中心的发展思想，也彰显着中国式现代化的民生底色。&lt;/p&gt;&lt;p&gt;　　在习近平总书记的关心关怀下，广大老年志愿者正以老骥伏枥、老当益壮的进取精神，把一生所学用于服务社会，把个人追求融入家国事业，为推进中国式现代化贡献“银发力量”。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  吴储岐&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 广大老年志愿者为推进中国式现代化贡献“银发力量”—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184835&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184835.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184835.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 桑榆正好  霞满人间 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184835.html#[05版：要闻] 桑榆正好  霞满人间</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 2026中国新媒体智库报告正式发布</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184836.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 2026中国新媒体智库报告正式发布 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报福州10月9日电  （记者付文）2026中国新媒体智库报告于9日在福建省福州市发布。报告包含《中国新媒体年鉴2026》与《中国新媒体研究报告2026》，由中国记协新媒体专业委员会和人民日报新闻战线杂志社联合编撰。&lt;/p&gt;&lt;p&gt;　　《中国新媒体年鉴2026》涵盖从主流媒体到商业平台、从传统业态到技术应用的内容，全景式展现2025年新媒体发展的新成果新探索，形成媒体融合发展全景图谱；《中国新媒体研究报告2026》以鲜活案例、扎实研究和理论提炼，解析热点话题，研判发展趋势，探索变革路径。两部书籍紧扣主流媒体系统性变革，相互衔接、彼此支撑，既是新媒体发展的年度答卷，也是洞见未来的参考读本，努力为主流媒体高质量发展提供实践启示和智力支撑。&lt;/p&gt;&lt;p&gt;　　本次活动由中国记协、人民日报社指导，中国记协新媒体专业委员会、人民日报新闻战线杂志社、中共福州市委宣传部主办，福州广播电视台承办。来自业界学界的200余名代表参加发布活动。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184836&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184836.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184836.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 2026中国新媒体智库报告正式发布 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184836.html#[05版：要闻] 2026中国新媒体智库报告正式发布</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 济南着力推动产学研融通创新（“十五五”开好局起好步）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184837.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 济南着力推动产学研融通创新（“十五五”开好局起好步） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李  波  侯琳良  王  者&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　10月初，行走在泉城济南，“新”意扑面而来——&lt;/p&gt;&lt;p&gt;　　新技术在突破：在济南高新区，本地企业组建的颗粒物光量子雷达监测网络，几分钟就能完成城市全域扫描，污染源识别准确率超95%；&lt;/p&gt;&lt;p&gt;　　新项目已落地：在济南新旧动能转换起步区，光伏组件次第走下330米智能化生产线；&lt;/p&gt;&lt;p&gt;　　新产业正成势：济钢集团卫星总装基地，累计签约航空航天项目20多个，具备年产100颗500公斤级卫星的制造与实验能力。&lt;/p&gt;&lt;p&gt;　　2024年5月，习近平总书记在山东考察时指出：“山东在推进科技创新与产业创新深度融合、发展新质生产力、完善现代化产业体系上大有可为。”“十五五”规划纲要提出：“推动科技创新和产业创新深度融合，不断催生新质生产力。”&lt;/p&gt;&lt;p&gt;　　深入贯彻落实习近平总书记重要指示精神和党中央决策部署，济南着力推动产学研融通创新，因地制宜发展新质生产力，不断完善现代化产业体系。&lt;/p&gt;&lt;p&gt;　　完善成果转化路径。&lt;/p&gt;&lt;p&gt;　　铌酸锂是高端光芯片的核心衬底材料。2024年，经过不懈努力，济南大学前沿交叉科学研究院教授孙德辉带领团队成功研制出12英寸铌酸锂晶体。&lt;/p&gt;&lt;p&gt;　　成果突破让人振奋，但能否打开市场，仍是未知。“很多前沿技术止步在‘最后一步验证’，难以贴合产业。”孙德辉深谙成果转化的痛点。&lt;/p&gt;&lt;p&gt;　　为此，济南大学联合本地企业组建概念验证中心，专门为前沿技术“把脉问诊”。该中心已完成20余项技术产品验证，引导打造从晶体材料到高端光芯片的完整产业链。孙德辉团队新研发的铌酸锂基光芯片，已经在这里开展应用验证。&lt;/p&gt;&lt;p&gt;　　济南市现已建成16家省市级概念验证中心，覆盖新一代信息技术、生物医药、集成电路等领域，累计入库科创项目376项，55项前沿技术成功实现就地转化。预计到2028年，济南将建成20家市级概念验证中心、50家以上中试平台，构建“研发—验证—中试—量产”全链条，持续提升科技成果就地转化率。&lt;/p&gt;&lt;p&gt;　　推动新旧动能转换。&lt;/p&gt;&lt;p&gt;　　在济钢集团卫星总装车间，精密设备林立，即将交付的卫星正在进行最后的环境模拟测试。&lt;/p&gt;&lt;p&gt;　　“转型后的济钢，持续‘腾笼换鸟’，发展新兴产业。”济钢集团党委书记、董事长刘仕君介绍，济钢已构建起卫星总装、核心部件制造、火箭动力测试的完整产业链，集聚上下游企业159家，形成“北京研发、济南制造、烟台发射”的跨区域协同格局。&lt;/p&gt;&lt;p&gt;　　立足自身实际，济南加快推动传统产业转型升级、新兴产业不断扎根生长。&lt;/p&gt;&lt;p&gt;　　在济南新旧动能转换起步区，随着山东能源集团平米级百兆瓦钙钛矿光伏电池中试产线建成投产，关闭退出多年的新阳煤矿也摇身一变，实现从“地下挖煤”到“地上发电”的华丽转身。&lt;/p&gt;&lt;p&gt;　　济南着力优化市域产业结构，引导各区县错位发展、各展所长，推动全域形成梯度布局、协同共进的现代化产业体系。&lt;/p&gt;&lt;p&gt;　　涵养良好创新生态。&lt;/p&gt;&lt;p&gt;　　受困于高端抗菌改性技术短板，山东灵犀院科技发展股份有限公司的自主攻关屡屡碰壁。&lt;/p&gt;&lt;p&gt;　　正当企业陷入瓶颈时，齐鲁工业大学教师杨鹏飞团队的新技术恰好可以满足需求。&lt;/p&gt;&lt;p&gt;　　“技术虽好，但怕水土不服，试错成本高。”公司副总经理亓鹏的顾虑，也是众多小微企业的共同感受。&lt;/p&gt;&lt;p&gt;　　针对小微企业的困扰，济南创新推出“先使用、后付费”校企专利合作新模式，企业可免费试用一年，适配落地再签约，不合适即可退出。&lt;/p&gt;&lt;p&gt;　　零门槛试水、全链条助力，科研团队3次下沉产线，仅用45天便实现批量投产，灵犀院顺利签约两项核心专利。“一年节省成本近百万元，企业实打实受益。”亓鹏坦言，政策托举让企业的创新路越走越宽。&lt;/p&gt;&lt;p&gt;　　以改革破壁垒、以服务优环境，济南从专利转化、金融赋能、考核导向多维度精准发力，培育良好生态，让创新要素自由流动、高效聚合。去年，济南实现技术合同成交额1025亿元、同比增长10.7%，万人有效发明专利拥有量87.2件、同比增长17.8%。截至去年底，济南科技型中小企业超过9400家，科创企业贷款余额超过3000亿元。&lt;/p&gt;&lt;p&gt;　　牢记习近平总书记殷殷嘱托，奋进“十五五”，济南将持续推动产学研融通创新，加快培育新质生产力，不断塑造发展新动能新优势。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李  波  侯琳良  王  者&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184837&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184837.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184837.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 济南着力推动产学研融通创新（“十五五”开好局起好步） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184837.html#[05版：要闻] 济南着力推动产学研融通创新（“十五五”开好局起好步）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 西藏自治区人大常委会原党组副书记、副主任丁业现严重违纪违法被开除党籍</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184838.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 西藏自治区人大常委会原党组副书记、副主任丁业现严重违纪违法被开除党籍 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月9日电  （记者史一棋）经中共中央批准，中央纪委国家监委对西藏自治区人大常委会原党组副书记、副主任丁业现严重违纪违法问题进行了立案审查调查。&lt;/p&gt;&lt;p&gt;　　经查，丁业现丧失理想信念，背弃初心使命，对抗组织审查；违反中央八项规定精神，违规占用客房供个人使用，违规接受宴请；违反组织原则，在干部选拔任用工作中违规为他人谋取利益，不按规定报告个人有关事项；廉洁底线失守，违规收受礼品，违规从事营利活动；将党和人民赋予的公权力异化为谋取私利的工具，大肆收钱敛财，利用职务便利为他人在公司上市、承揽项目、开展业务等方面谋利，并非法收受巨额财物。&lt;/p&gt;&lt;p&gt;　　丁业现严重违反党的政治纪律、组织纪律和廉洁纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中共中央批准，决定给予丁业现开除党籍处分；按规定取消其享受的待遇；终止其西藏自治区第十次党代会代表资格；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184838&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184838.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184838.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 西藏自治区人大常委会原党组副书记、副主任丁业现严重违纪违法被开除党籍 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184838.html#[05版：要闻] 西藏自治区人大常委会原党组副书记、副主任丁业现严重违纪违法被开除党籍</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 中国艺术研究院原院长连辑严重违纪违法被开除党籍</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184839.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国艺术研究院原院长连辑严重违纪违法被开除党籍 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月9日电  （记者史一棋）经中共中央批准，中央纪委国家监委对中国艺术研究院原院长连辑严重违纪违法问题进行了立案审查调查。&lt;/p&gt;&lt;p&gt;　　经查，连辑丧失理想信念，背弃初心使命，违反中央八项规定精神，违规接受宴请，违规以“润笔费”名义收受他人所送钱款；组织原则缺失，在干部选拔任用等工作中违规为他人谋取利益；廉洁底线失守，违规收受礼品、礼金，由他人支付应当由本人支付的费用；毫无纪法观念，贪婪无度，大搞权钱交易，利用职务便利为他人在企业经营、工程承揽、职务调整等方面谋利，并非法收受巨额财物。&lt;/p&gt;&lt;p&gt;　　连辑严重违反党的组织纪律、廉洁纪律和生活纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中共中央批准，决定给予连辑开除党籍处分；按规定取消其享受的待遇；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184839&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184839.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184839.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国艺术研究院原院长连辑严重违纪违法被开除党籍 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184839.html#[05版：要闻] 中国艺术研究院原院长连辑严重违纪违法被开除党籍</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 本版责编：管璇悦  卢  涛  张伟昊</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184840.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：管璇悦  卢  涛  张伟昊 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184840&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184840.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184840.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：管璇悦  卢  涛  张伟昊 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184840.html#[05版：要闻] 本版责编：管璇悦  卢  涛  张伟昊</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 从《三体》到人类未来新变体（科幻里的科学）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184766.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt;《三体》发表20年，本报记者对话科幻作家刘慈欣&lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt;从《三体》到人类未来新变体（科幻里的科学）&lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  陈圆圆&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　刘慈欣近照。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　人民日报客户端“在场”栏目供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/0fd124e4-b163-40f4-a702-6f77777c784a.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　读者在选购图书。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　科幻世界杂志社供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/2b980dd9-fe9f-41f5-9ac8-3d84e38c1453.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　《三体》系列图书。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　科幻世界杂志社供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/b2721283-2413-4df8-8bb4-3f0afc880ea1.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　2006年，刘慈欣创作的长篇科幻小说《三体》在《科幻世界》首发连载。20年后回望，这部作品不仅闪耀世界舞台，也照见现实发展，人工智能（AI）、商业航天、星际探索等技术日新月异，文明的航行指向更远的深空。未来已来，人类如何拥抱科学与幻想的新变体？&lt;/p&gt;&lt;p&gt;　　第三十七届银河奖日前在四川自贡颁发。活动期间，本报记者对话科幻作家刘慈欣，从科幻文学出发，畅想人类文明的未来航程。&lt;/p&gt;&lt;p&gt;　　——编  者&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　尝试创作和《三体》及以前作品不同的题材&lt;/p&gt;&lt;p&gt;　　问：怎么看待《三体》发表20年以来，在国内外科幻文学领域的成就？&lt;/p&gt;&lt;p&gt;　　刘慈欣：《三体》是一部很幸运的作品，从国内到海外出版，全程由专业团队操刀；恰逢新媒体的传播风口，获得广泛曝光；还有一个“超自然”的幸运——当年雨果奖前五部候选提名作品中有一部弃权，《三体》最终替补入围并成功获奖。&lt;/p&gt;&lt;p&gt;　　当然，《三体》最大的幸运是时代。《三体》出版恰逢中国经济高速发展的时期，人们把目光投向更辽阔的时空。中国科幻小说经过长时间沉寂之后逐渐复苏，人们渴望看到好作品。&lt;/p&gt;&lt;p&gt;　　当时世界科幻文学发生了很大变化，人们把目光从星空收回，开始更关注人本身，关注种族、性别以及技术对人的异化等。而依然仰望星空的《三体》，唤起了读者对科幻黄金时代的强烈怀旧感。&lt;/p&gt;&lt;p&gt;　　问：最初创作《三体》时是什么状态？和现在相比有什么变化？&lt;/p&gt;&lt;p&gt;　　刘慈欣：20年前，我在深山里的办公室用计算机敲出《三体》时，绝对想不到会收获如此多的读者。《三体》首先是大众文学，首要目的是创作让读者震撼的故事。如果乘坐时间机器回到20年前，我会很犹豫，是否真要把一些黑暗的东西放进作品。它们本是吸引读者的一种创作策略，但现在被解读为表达某种真实的宇宙社会学规律。今天面对庞大的读者群，我有一种“点着了火、自己又控制不住”的感觉。&lt;/p&gt;&lt;p&gt;　　20年来，我看待世界的心态没有变。但要说创作状态，确实感觉更困难了。如今，科幻的创意越来越困难。一方面，AI进展很快，现在还没有被代替的担心，但10年以后呢？如果AI用5分钟生成的作品，比人类花5个月写得都好，那作家存在的意义是什么？另一方面，科幻文化已经渗透到我们生活和社会的方方面面，但无形之中科幻文学本身被冲淡了，在“科幻泛化”的情况下生存困难。&lt;/p&gt;&lt;p&gt;　　现在中国科幻的风格很多元，新一代作者可能有着更广阔的知识面、视野，关于现代化技术对社会生活的影响，他们有更敏锐、深刻的感受。&lt;/p&gt;&lt;p&gt;　　问：有新的创作计划吗？&lt;/p&gt;&lt;p&gt;　　刘慈欣：我一直在努力创作，想尝试和《三体》及以前作品不同的题材，但进度比较慢，写出来的自己也不太满意。一个作家如果觉得新作很好、很经典，多半是错觉；觉得新作很烂，肯定是真实感受。&lt;/p&gt;&lt;p&gt;　　对AI有种“另类的爱”&lt;/p&gt;&lt;p&gt;　　问：如何看待AI？&lt;/p&gt;&lt;p&gt;　　刘慈欣：一般人会纠结AI会不会代替或征服人类，但我的态度有点另类：我对AI是一种“很爱”的态度。&lt;/p&gt;&lt;p&gt;　　人类在智能、体力等各方面都有“天花板”。人类的进化是为了在旷野中生存，而非宇宙。人类文明要想从地球扩展到整个宇宙，凭现在的能力永远做不到。&lt;/p&gt;&lt;p&gt;　　但AI可以冲破人类先天的局限。人类最宏大的理想、终极目标，最后可能要靠AI来实现。AI指向地球文明的未来，这个未来也许不属于人类，但它仍然有意义。&lt;/p&gt;&lt;p&gt;　　生活中我用AI的地方不多，把它当成功能更强的搜索引擎。我没有用过AI写作，大部分时间在构思写作创意，而构思顶尖的、前所未有的创意，这方面AI还帮不上忙。&lt;/p&gt;&lt;p&gt;　　问：文科生的工作会不会被AI替代？&lt;/p&gt;&lt;p&gt;　　刘慈欣：文科不会被取代，相反可能在AI时代越来越重要。当AI在技术领域逐渐代替人，那么在人文领域，特别是关系到人类最根本价值的领域，最终还要靠人文科学来实现。未来人类也许会摆脱大部分工作，交由AI完成。在这样一个社会环境中，判断我们存在和生活的基本价值，只能由人文科学来回答。&lt;/p&gt;&lt;p&gt;　　问：怎么应对可能到来的技术奇点？&lt;/p&gt;&lt;p&gt;　　刘慈欣：我所理解的奇点是AI的智能水平急遽超越人类，以至于现有的人类所有社会形态、政治经济都发生了无法想象的变化。但这种设想可能简单化了。&lt;/p&gt;&lt;p&gt;　　即便AI真的以那种速度发展，人类还是有很多底牌可打，可以采用各种措施防范负面影响。更大的可能是，随着AI发展，人机融合、脑机接口等其他与之相关的技术也在飞速发展。那时可能出现人与AI相互融合的趋势，我们打不过但可以加入它。&lt;/p&gt;&lt;p&gt;　　中国科幻的下一部出圈之作需要机遇&lt;/p&gt;&lt;p&gt;　　问：科幻元素以影视剧、动漫、游戏等形态多元呈现。怎么看待作品被改编？&lt;/p&gt;&lt;p&gt;　　刘慈欣：我目前跟观众见面的作品只有《三体》《流浪地球》等剧集和电影。在改编中，商业价值的投资占据关键。科幻永远面向大众，想要成功，必须有一定的大众接受度，学院派的口碑再高也不能替代。而达到商业上的成功，可能比口碑上的高度更困难。到目前为止，我对所有的改编都满意，希望将来也能取得成功。&lt;/p&gt;&lt;p&gt;　　问：中国科幻未来如何出圈？&lt;/p&gt;&lt;p&gt;　　刘慈欣：无论是《三体》之前还是之后，中国科幻都有大量好作品出现。我们缺的不是出圈的好作品，缺的是运气。一部作品的内容是X，机遇是Y，X和Y的关系不是相加而是相乘。一个是零，结果全是零。可能每件事都做对了，但没成功，缺的是机遇。&lt;/p&gt;&lt;p&gt;　　问：全球有多个科幻IP，中国科幻能给世界提供什么独特价值？&lt;/p&gt;&lt;p&gt;　　刘慈欣：我们可以将希望更多地寄托在科幻影视上。不久的将来，中国的科幻影视会进一步让世界关注，一方面源于它自身的突破，另一方面在推进中国式现代化的实践中，我们的文化会更有影响力。&lt;/p&gt;&lt;p&gt;　　期待太空探索是“有人”的航行&lt;/p&gt;&lt;p&gt;　　问：国际宇航科学院发布探索地外生命相关的最新指南，不得擅自回复外星信号。想过《三体》里的“不要回答”会成真吗？&lt;/p&gt;&lt;p&gt;　　刘慈欣：这个规定是指私人或团体在没有通过全人类协商的情况下不要擅自回复。人类作为一个整体要不要回复外星人，这是个常识。就像我们常教孩子，不要给陌生人开门，不要随便跟陌生人说话。但规定的可操作性不强，如果真有个人或团体回复外星人，很难被觉察。&lt;/p&gt;&lt;p&gt;　　如果真的发现地外文明，我们是否接触？这取决于对方的水平。但有一点，如果他们真能从千百光年外飞到地球来，那双方技术和生物学上的差距都是巨大的，你甚至难以判断对方有没有智能，就更谈不上交流了。AI目前的智能并不比人类高，也许等到奇点到来，我们有可能用AI与外星人交流。&lt;/p&gt;&lt;p&gt;　　但话说回来，AI是一个哲学上的他者，就像外星人是宇宙中的他者。若AI越过奇点，而人类还在当前的水平，那AI本身就已经变成了他者、变成了“外星人”，那时人类首先需要面对AI带来的生存命题。&lt;/p&gt;&lt;p&gt;　　问：对太空探索有什么新期待？&lt;/p&gt;&lt;p&gt;　　刘慈欣：期待人类在太空中飞得越远越好。自阿波罗登月以后，人类进入太空的距离就缩短了很多。我希望人类能够探索深空，奔赴火星、小行星带，甚至木星的卫星等更远天体，向外看、向远方看。&lt;/p&gt;&lt;p&gt;　　有人会说，派机器人、AI去探测不就够了？但从哲学、社会学意义上，甚至从我们全人类的感受上，“人的抵达”仍然有独特意义。我希望人类能够亲自走到那个境地，期待太空探索是“有人”的航行。&lt;/p&gt;&lt;p&gt;　　如果上了太空，我最想趴在舷窗上回望地球。如果可以见证宇宙中的一个瞬间，我希望看到真正的智慧文明出现，看到宇宙中除了人类之外还有其他可以交流的文明。&lt;/p&gt;&lt;p&gt;　　今年是2026年，《三体》里的2026年，“罗辑”已经进入冬眠，正是人类在外星危机中最迷茫、恐惧的时代。今天，我们很幸运文明的灾难并未到来，但现实的挑战仍在全世界发生。&lt;/p&gt;&lt;p&gt;　　书中有句话：人类的航船驶进深海，后面的黄金海岸已经消失，而前方的彼岸不知道是不是真的存在。举目四望，到处是茫茫大洋。在走向未来的航程中，《三体》已成为历史的一页；期待更多站在新时代的高度展望未来的优秀科幻小说出现，航向无垠的星辰大海。&lt;/p&gt;&lt;p&gt;　　（本报记者尚丹、孙溪参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  陈圆圆&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt;《三体》发表20年，本报记者对话科幻作家刘慈欣&lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184766&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184766.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184766.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt;从《三体》到人类未来新变体（科幻里的科学）&lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184766.html#[06版：科技·新知] 从《三体》到人类未来新变体（科幻里的科学）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 我们离“数字分身”还有多远（唠“科”）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184767.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 我们离“数字分身”还有多远（唠“科”） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							超  侠&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　电影《流浪地球2》里，科研人员将女儿的意识上传到量子计算机，让她以数字生命的形式获得新生。这一幕让无数观众动容，也让“数字分身”“数字生命”的概念不断走入大众视野。&lt;/p&gt;&lt;p&gt;　　科幻中早有设想，把人的意识复制一份封存在硬件里，让它替自己处理日程、管理生活，甚至在数字世界延续生命。从国产科幻片《错位》中诞生自我意志、试图取代人类的智能机器人，到英剧《黑镜》里可随时提取、存储人类意识的数字副本，一部又一部科幻作品不断叩问：我们能不能在数字世界造出另一个“自己”？&lt;/p&gt;&lt;p&gt;　　浪漫又带着思辨的想象，并不只停留在银幕与书页。随着人工智能（AI）、计算机图形学、大数据建模等技术飞速迭代，数字分身在现实世界加速落地。不同于简单的虚拟形象建模或个人数据堆砌，真正的数字分身，是通过深度学习、语义分析、关联建模打造的拟人化智能自主体，它能够独立完成交互沟通、事务处理、智能决策等一系列操作。&lt;/p&gt;&lt;p&gt;　　现实中，我们已经拥有了数字分身的雏形——个人智能体。2026年初，开源个人智能体框架掀起热潮，智能体不再局限于简单聊天对话，而是可以直接执行本地应用程序，学习模仿使用者的行为习惯，自主完成整理文件、收发邮件、制订行程等具体事务。&lt;/p&gt;&lt;p&gt;　　想要抵达科幻中的宏大构想，还有漫长的科研道路要走。比如，作为数字生命研究的支撑技术，当下脑机接口领域已形成侵入式、半侵入式、非侵入式多条技术路线并进的发展格局。“北脑一号”系统完成人体植入，康复训练场景落地应用，国内首个超百通道侵入式脑机接口系统启动注册临床试验。但客观来看，现有技术仅能解码简单大脑信号，还远没有达到科幻中扫描意识、拟合人类思维的地步。&lt;/p&gt;&lt;p&gt;　　伴随技术突破，数字分身也加速走进产业应用场景。部分影视公司和视频平台建设AI艺人库，多名演员授权AI作品使用自己的数字分身参与拍摄制作；“数字员工”“赛博同事”“机器人老板”接连涌现，给办公模式带来全新可能性。但便利的背后，也出现新的课题。此前，一家公司尝试将离职员工复刻成AI数字员工，引发大众对于人格权益、个人信息保护的讨论。当AI换脸、仿声乃至“分身”日趋成熟，物理世界延续到数字空间的信息权利边界，遭遇前所未有的挑战。&lt;/p&gt;&lt;p&gt;　　数字分身本身就藏着不可忽视的安全隐患。一方面，想要让智能体帮我们读写文件、调用摄像头和麦克风、完成支付，就要赋予它极高的操作权限，相当于把数字生活的“钥匙”交到AI手中。另一方面，现阶段AI对人类意图的理解尚有局限，容易出现误删文件、无视停止指令、向联系人乱发信息等意外。&lt;/p&gt;&lt;p&gt;　　更深层的思考在于：倘若数字分身能复刻人类的全部才智，人的独特性究竟锚定在哪里？个体存在的根基，是否只剩下肉体经历、随机情绪与不可复制的选择，而非知识与思考？即便是高度仿真的AI伴侣，能够消解孤独，又是否能够复刻真实人际交往里磨合、妥协、冲突交织的“烦恼”，是否拥有复杂人性？&lt;/p&gt;&lt;p&gt;　　科幻的意义在于，一方面让人类眺望美好的未来、看到光明的希望，另一方面提前预演技术潜藏的困境与危机，促使我们保持审慎。数字分身，是人类拓展自我边界的又一次尝试。推开未来的大门，一场关于人类存在方式的变革正在悄然发生。&lt;/p&gt;&lt;p&gt;　　（作者为中国科普作协理事兼科学文艺委员会副主任） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;超  侠&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184767&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184767.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184767.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 我们离“数字分身”还有多远（唠“科”） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184767.html#[06版：科技·新知] 我们离“数字分身”还有多远（唠“科”）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 我国科研人员成功绘制水稻全生命周期时空细胞图谱</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184768.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 我国科研人员成功绘制水稻全生命周期时空细胞图谱 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报三亚电  （记者孙海天）记者从在海南三亚召开的崖州湾联合攻关成果新闻发布会获悉：我国科研人员成功绘制出水稻全生命周期时空细胞图谱。该研究首次在个体尺度上系统揭示水稻从种子萌发到开花结实全过程中数万个基因“在何处、何时”参与调控生长发育。相关成果在国际学术期刊《细胞》在线发表。&lt;/p&gt;&lt;p&gt;　　该研究由崖州湾国家实验室联合华大生命科学研究院、华中农业大学等12家单位完成，构建了覆盖水稻从种子萌发到开花结实全过程的三维时空细胞图谱，为理解水稻生长发育、探索籽粒品质改良提供了新的研究资源。&lt;/p&gt;&lt;p&gt;　　科研人员以粳稻品种“中花11号”为材料，整合华大生命科学研究院自主研发的时空组学技术等，建立了涵盖水稻10类器官或组织、61个发育阶段的图谱。其间，科研人员获取了超过85万个高质量细胞核数据，以及超过34万个空间数据单元，注释出119种细胞类型和133个细胞亚型。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184768&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184768.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184768.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 我国科研人员成功绘制水稻全生命周期时空细胞图谱 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184768.html#[06版：科技·新知] 我国科研人员成功绘制水稻全生命周期时空细胞图谱</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 月壤里藏有“时间胶囊”吗</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184769.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 月壤里藏有“时间胶囊”吗 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							郝佳龙&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　早期太阳系中，小行星和彗星像“快递员”，持续向类地行星输送有机质和碳、氮、氧、磷、硫等与生命化学密切相关的元素。然而，由于地球长期经历活跃的地质演化和生命活动，相关早期记录已难以保存。&lt;/p&gt;&lt;p&gt;　　想要窥探太阳系早期有机质本真的模样，不妨将目光投向约38万公里之外的月球。地质活动相对较弱的月球如同一枚“时间胶囊”，与其他类地行星相比，更可能保存地外有机质的输入及后续演化信息。&lt;/p&gt;&lt;p&gt;　　利用多种显微和谱学技术开展关联分析，科研团队在嫦娥五号和嫦娥六号带回的月壤颗粒中捕捉到了含量极低的地外有机质。它们的化学组成以碳、氮、氧为主，形态各不相同：有的是细碎颗粒，有的被包裹在矿物内部，还有的如同黏稠印记，附着在岩石表面。月壤保存的原始信息，能够填补“前生命时代”的研究空白，帮助我们厘清太阳系中有机物如何产生、如何演变，为破解生命起源谜题提供关键线索。&lt;/p&gt;&lt;p&gt;　　研究宇宙留给我们的“时间胶囊”，或许终有一天能够解开：生命的种子，究竟是如何来到地球的。&lt;/p&gt;&lt;p&gt;　　（作者为中国科学院地质与地球物理研究所正高级工程师，本报记者吴月辉采访整理） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;郝佳龙&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184769&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184769.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184769.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 月壤里藏有“时间胶囊”吗 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184769.html#[06版：科技·新知] 月壤里藏有“时间胶囊”吗</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 我们为什么要奔赴火星</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184770.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 我们为什么要奔赴火星 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张佳骏&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　火星，是人类离开地月系、奔向深空的过程中，一个努力跳一跳就够得到的目标。水星接近太阳，金星环境恶劣，其他天体又太过遥远。相比之下，火星的条件好得多，它有稀薄的大气、水冰，自转周期和季节更替与地球接近。因此，火星相当适合作为人类迈向星际文明的一站。&lt;/p&gt;&lt;p&gt;　　实现火星移民，还有三大问题需要解决。一是地火之间的信息交互。上海天文台牵头的甚长基线干涉测量（VLBI）测定轨系统，可以精确测量前往火星的航天器轨道，保证入轨顺利，在天问一号任务中已得到初步验证。二是地火之间的物质交互，我们可以送航天器前往火星，但目前尚不能采集火星上的物质返回。天问三号任务计划于2028年前后实施发射，2031年前后携带火星样品返回地球。三是保障人员生存。火星表面低温、高辐射、低重力、低气压、缺水、缺氧，如何就地利用火星资源仍需探索。&lt;/p&gt;&lt;p&gt;　　我的工作是研究宇宙学，我与同事们正是为了一个可以实现的梦，一步一个脚印，努力把往返火星变为现实。当星辰大海化为一段段可以往返的航程，它就不再只是诗与远方，而是下一代愿意登上的文明之舟。&lt;/p&gt;&lt;p&gt;　　（作者为中国科学院上海天文台副研究员，本报记者黄晓慧采访整理） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;张佳骏&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184770&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184770.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184770.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 我们为什么要奔赴火星 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184770.html#[06版：科技·新知] 我们为什么要奔赴火星</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] “大眼睛”如何看透微观世界</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184771.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “大眼睛”如何看透微观世界 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							叶逸凡&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　从仰望浩瀚宇宙，到凝视微观世界，都离不开大科学装置。中国新一代同步辐射光源——合肥先进光源这只“大眼睛”能帮助我们“看见”原子排列，追踪电子运动，揭开物质内部的奥秘。&lt;/p&gt;&lt;p&gt;　　同步辐射光源利用高速运动电子在磁场中产生的同步辐射光，将高亮度、高准直性和宽能量范围的X光输送至实验站。在新能源研究中，它能够追踪电池充放电过程中的状态变化；在催化研究中，可以揭示活性位点形成机制；在生命科学中，可解析复杂生物分子的精细结构与动态变化……这得益于同步辐射光灵活的探测能力：硬X射线深入材料内部，揭示原子结构；软X射线聚焦表面与界面，解析电子状态和化学变化。&lt;/p&gt;&lt;p&gt;　　先进光源正在帮助我们从观察“起点和终点”走向理解“过程”。利用时间分辨同步辐射技术，化学反应、电荷转移、离子迁移和结构演变等瞬态过程能够被逐帧记录，如同拍摄一部“原子尺度的慢动作电影”。&lt;/p&gt;&lt;p&gt;　　这只“大眼睛”将为能源、材料和生命科学等领域发展提供新的发现工具，推动人类不断迈向微观世界的更深处。&lt;/p&gt;&lt;p&gt;　　（作者为国家同步辐射实验室实验部副部长、副教授，本报记者徐靖采访整理） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;叶逸凡&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184771&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184771.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184771.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “大眼睛”如何看透微观世界 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184771.html#[06版：科技·新知] “大眼睛”如何看透微观世界</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 我国科学家破译原子核“形态密码”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184772.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 我国科学家破译原子核“形态密码” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京电  （记者谷业凯）记者从中核集团中国原子能科学研究院获悉：近日，依托欧洲大型强子对撞机上的大型离子对撞机实验，该院核数据全国重点实验室李笑梅研究员团队与丹麦哥本哈根大学尼尔斯·玻尔研究所周铀教授团队开展国际合作，在氧16—氧16、氖20—氖20轻核对撞的核结构主导集体流研究中取得突破。&lt;/p&gt;&lt;p&gt;　　通过精准实验测量，他们证实了原子核的几何形态会直接影响高能核碰撞过程中的物质流动行为，补齐了相对论核碰撞中集体效应形成机制现有理论认知的关键短板，并为原子核内部基础结构研究提供了高精度实验约束条件。相关成果已发表于国际期刊《物理评论快报》。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184772&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184772.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184772.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 我国科学家破译原子核“形态密码” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184772.html#[06版：科技·新知] 我国科学家破译原子核“形态密码”</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 本版责编：曹怡晴  陈圆圆  陈世涵</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184773.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：曹怡晴  陈圆圆  陈世涵 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：张芳曼 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184773&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184773.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184773.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：曹怡晴  陈圆圆  陈世涵 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184773.html#[06版：科技·新知] 本版责编：曹怡晴  陈圆圆  陈世涵</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：文化遗产] 城市需要养育，也需要书写（问道古今）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184774.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 城市需要养育，也需要书写（问道古今） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							对话人：陈平原（北京大学中文系教授） 杨雪梅  阮可欣（本报记者）&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　广东潮州古城。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　樊功厚摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/d1842387-81da-4103-85c5-19cc1b178e13.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　开栏的话&lt;/p&gt;&lt;p&gt;　　文化遗产从历史深处走来，沉淀为我们今日的文化底色，也赋予我们走向未来的底气与方向。本版新开“问道古今”栏目，邀请专家、学者对谈，辨源流、析肌理、探价值，以对话追问来路，以思考回应时代，让绵延的文脉接续生长。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　习近平总书记强调，“要像爱惜自己的生命一样保护好城市历史文化遗产”，要“注重文明传承、文化延续，让城市留下记忆，让人们记住乡愁”。2025年，中央城市工作会议进一步强调要完善历史文化保护传承体系，重视保护城市独特的历史文脉、人文地理、自然景观。&lt;/p&gt;&lt;p&gt;　　2026北京文化论坛以“文化遗产与文明互鉴”为主题展开。主论坛上，北京大学教授陈平原以《看得见的文化遗产与看不见的历史记忆》为题，表达对城市文脉传承的关注。&lt;/p&gt;&lt;p&gt;　　历史文化是城市的灵魂，保护传承城市历史文脉，归根到底是为了满足人民对美好生活的需要。本报记者对话陈平原，探讨城市文脉如何在人们的日常中传承。&lt;/p&gt;&lt;p&gt;　　保护城市历史文脉是一种历史责任&lt;/p&gt;&lt;p&gt;　　记者：文人关于故乡的书写、关于城市的书写有着悠远的文学传统，也是城市文脉的重要组成。2001年起，您在北大开设相关课程，引领学生们“阅读城市”，从“重写文学史”转向“重建城市文脉与历史记忆”，这样的延伸与扩展对于学者来说意味着什么？&lt;/p&gt;&lt;p&gt;　　陈平原：作为中文系教授，上世纪八九十年代，我主要专注“二十世纪中国文学”概念的建构，以及如何“重写文学史”。进入新世纪，方才关心“文学的都市与都市的文学”之间错综复杂的关系。在我看来，整个中国文学史的研究及写作，注重以宫阙或乡村为主要场景的感时与忧国，以及以山水或田园为主要场景的隐逸与超越，相对忽略了以市井或街巷为主要场景的现世与欲望。因此，很想兼及建筑、历史、世相、风物、作家、作品等，在政治史、文化史与文学史的多重视野中，展开对古往今来“这一个”城市的论述。于是，有了“‘都市想象与文化记忆’丛书”总序中那段话：“若汉唐长安、汉魏洛阳、六朝金陵、北宋开封、南宋临安、明清的苏州与扬州、晚清的广州与上海、近现代的天津、香港和台北，以及八百年古都北京，还有抗战中的重庆与昆明等，都值得研究者认真关注。”&lt;/p&gt;&lt;p&gt;　　突飞猛进的城市化进程，其得失利弊，需要认真辨析，专家学者有义务为“重建城市文脉与历史记忆”做力所能及的事。虽然晓得我那些近乎杂感的文字，不见得真能发挥作用，但还是乐此不疲。&lt;/p&gt;&lt;p&gt;　　记者：您的家乡潮州现在火出了圈儿。我们知道，上世纪80年代经济大潮兴起时，潮州选择了在城外另谋发展，因此古城内部的格局保留了下来。这和城市化早期一些城市的旧城改造、大拆大建形成鲜明的对比。今天的城市更新中提倡“绣花功夫”“微循环”来保护空间肌理、历史风貌、文化生态，这些变化您在城市行走中体会很深吧？&lt;/p&gt;&lt;p&gt;　　陈平原：我之所以写文章表扬潮州保存古城格局，在城外另谋发展的思路，是充分理解“当领导的，建设新城容易，守护古城很难”。其中牵涉领导干部的考核、投资的回报需求，以及百姓迅速提升生活水准的强烈愿望。所有这些，不是很容易协调的。直到今天，潮州的经济指标也都不理想，这里有内外各种因素的制约，但在城市建设中坚持微改造，不迁原住居民，保留烟火气，可能也是重要原因。&lt;/p&gt;&lt;p&gt;　　这些年，潮州确实火了，那座好不容易保下来的古城，迎来八方游客，节假日更是人潮汹涌，但政府的财政收入并没有明显增加。那是因为，旅游业是惠民工程，主要作用在促就业，保民生，而不是增加GDP。因此，城市更新中，保护古城风貌，改良文化生态，主要着眼点不是经济指标，而是历史责任，即如何为子孙后代预留社会转型及文化更新的可能性。&lt;/p&gt;&lt;p&gt;　　城市发展须讲究“顺势而为”&lt;/p&gt;&lt;p&gt;　　记者：您提到已经消失了的古建，不宜重造，如何理解城市文化遗产保护中的“真实性”？&lt;/p&gt;&lt;p&gt;　　陈平原：前些年的城市建设热潮中，我们曾因交通、城建、经济等考量，拆了若干精美的古建筑，现在看来后悔莫及。问题在于，当初没能保下来，很可惜，但并不意味着有必要恢复重建。以今天的经济实力及工艺水平，短时间内建成若干高低错落、流光溢彩的仿古建筑，一点都不难。但并非所有人都有火眼金睛，一眼就能看清“真迹”与“赝品”的。博物馆里的复制品之所以必须特别注明、古代器物修复时之所以保留残缺，以及旧城改造之所以强调“修旧如旧”，都是为了凸显“真实性”。&lt;/p&gt;&lt;p&gt;　　记者：在“建设城市”“经营城市”“打造城市”之外，您曾提出“养育城市”的概念。如何理解这一概念？&lt;/p&gt;&lt;p&gt;　　陈平原：从相对平实的“建设城市”，转为“经营城市”，再到“打造城市”，这些概念的变化，表面上是一个动词的选择，背后却是一整套城市发展思路的置换。之所以主张采用春风化雨的“养育”，因为在我看来，人需要养育，城也需要养育——包括体贴、呵护与扶持。这是人文学者跟工程师或经济学家不太一样的地方。我希望凸显这么一种思路：城市本身有其生命，值得你我尊重，城市发展须讲究“顺势而为”。首先理解这座城市的前世与今生，而后才谈发展和未来。还有，就像对待孩子一样，有所期待，但不拔苗助长。给城市成长的时间和空间，随时观察，并不断修正期待。&lt;/p&gt;&lt;p&gt;　　讲好中国的城市故事&lt;/p&gt;&lt;p&gt;　　记者：您曾说有好作家的城市，真的是“有福”，因为可以写出城市的气质。同时您也注意到过去城市的代言人是诗词曲赋、是文学家，现在则可能是音乐、歌曲、影视剧等新的载体。您如何看待各地出现的“为了……奔赴一座城”的网红模式？&lt;/p&gt;&lt;p&gt;　　陈平原：称有好作家的城市“有福”，那是因为，关于城市的前世今生，七情六欲，还有潜藏的欲望以及积累的潜能，往往只有作家能敏感到并将其准确表述出来，这需要直觉，需要想象力，以及很好的表达方式。当然，今天“作家”的定位以及“文学”的概念，都发生了很大变化。更恰当的表述，或许叫“书写”或“呈现”，可以是文字，也可以是影像或声音；可以是虚构，也可以是写实；可以是文艺，也可以是学术。在我看来，与其关心那些很可能昙花一现的“网红打卡”，不如注重这些若隐若现的“文学地图”。&lt;/p&gt;&lt;p&gt;　　今天中国，凡文化底蕴稍为深厚的城市，都有很不错的博物馆、美术馆、科技馆等，但不见得都有兼及文学艺术、历史地理、城市建筑以及风土人情的文学馆。拿北京来说，位于朝阳区芍药居文学馆路45号的中国现代文学馆固然规模宏大，但其关注点是整部“中国现代文学史”，而不是首都北京的“都市想象与文化记忆”。在这个意义上，有的大都市应该另建一座类似“上海文学馆”那样集收藏、展览、阅读、研究、交流于一体的文学殿堂。&lt;/p&gt;&lt;p&gt;　　记者：当下各级各类博物馆发展快速，博物馆如何更好地成为勾连“看得见的文化遗产”与“看不见的历史记忆”的场所？您曾说城市建设一个博物馆容易，但培养公民走进博物馆的习惯、涵养对好的展览的鉴赏不易。对现在的博物馆热、建设博物馆之城，您有什么新感受？&lt;/p&gt;&lt;p&gt;　　陈平原：博物馆建筑与作为收藏、展览、研究三合一的博物馆文化，二者并不同步。多年前我曾感叹：博物馆的建筑比藏品好，藏品比展览强，展览比观众优。最应该用力的，是如何提高公众进博物馆参观的愿望，以及阅读博物馆的能力。好在最近这些年，民众观看博物馆的热情明显提升，各省市大型博物馆的常设展也都人头攒动。但我注意到一点，公众的目光过多集中在明星博物馆，导致好多藏品别具一格、展览很有特色的博物馆“养在深闺人未识”。&lt;/p&gt;&lt;p&gt;　　记者：在您看来，讲好中国的城市故事，寻找、阐释乃至重建城市文脉，文人、学者、民众可以贡献哪些力量？您倡导更多的人给自己的城市写一本城市读本，您觉得好的城市读本是什么样的？&lt;/p&gt;&lt;p&gt;　　陈平原：多年以前，我说过，某种意义上，城市是建起来的，也是“说”出来的——尤其是城市的历史意蕴与文化内涵，即内在的力度与美感，需要人文学者帮助发掘，才能被公众所接纳。当历史翻开新的一页，摩天大楼不再是国人孜孜以求的关键指标，城市更新与文脉接续成了主战场，这个时候，人文学者的关怀、学养与趣味，终于有更大发挥的空间。用什么办法，能让中外学界深耕多年的研究成果，被普通读者欣然接受，我以为编写图文并茂、雅俗共赏的“城市读本”，是个好办法。正如我在这届北京文化论坛主论坛发言的结尾所谈到的，“真希望有更多兼擅文采、学问、读者趣味与市场眼光的大专家，愿意俯下身来，撰写此等在学院评价中不算分数的通俗读物。单就保存历史记忆、塑造城市形象而言，此类图书比严肃的政策宣导或活泼的文旅推介更有效，也更长久。”&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;对话人：陈平原（北京大学中文系教授） 杨雪梅  阮可欣（本报记者）&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184774&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184774.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184774.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 城市需要养育，也需要书写（问道古今） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184774.html#[07版：文化遗产] 城市需要养育，也需要书写（问道古今）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：文化遗产] 漫游荆楚大遗址</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184775.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 漫游荆楚大遗址 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张  炎&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/10/8b5dd267-14aa-493f-a3e1-bca0f6346bb1.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　盘龙城国家考古遗址公园宫城区展示。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　张  炎供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/8b5dd267-14aa-493f-a3e1-bca0f6346bb1.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　现代人如何获得穿越时空的体验？遗址公园给出了答案。&lt;/p&gt;&lt;p&gt;　　湖北“荆楚大遗址传承发展工程”近日入选2026北京文化论坛集中发布的重要成果。全省5处国家考古遗址公园、18处省级文化遗址公园，正在成为古今对话的公共空间。不妨选一个天朗气清的日子，走进遗址公园，重返历史现场。&lt;/p&gt;&lt;p&gt;　　一把考古手铲，层层拨开尘土，揭开了“何以荆楚”的面纱，串联起长江中游文明起源与发展的脉络。学堂梁子遗址“郧县人”头骨化石揭示百万年人类演化的踪迹；屈家岭遗址记录5000年前长江中游的农耕文明；盘龙城遗址彰显商代南方中心城邑的辉煌荣光……几代考古人深耕荆楚沃土，累累硕果成为遗址公园最坚实的学术支撑。&lt;/p&gt;&lt;p&gt;　　走进遗址博物馆，聆听文物的无声诉说。屈家岭薄如蛋壳的彩陶杯、代表农耕文明的炭化稻谷，石家河温润灵动的玉团凤、肃穆庄严的玉神人头像，铜绿山见证千年采冶史的大铜斧、鼓风冶铜竖炉……依托精细展陈设计与体感交互、全息投影等数字科技，这些跨越千年的文物，生动铺展开荆楚先民的生活图景与精神世界。&lt;/p&gt;&lt;p&gt;　　遗址公园最动人的风景，在遗址展示区。这里是馆藏文物的原生地，是历史真实发生的现场。铜绿山国家考古遗址公园的四方塘墓葬展示区，展示国内罕见的先秦矿冶生产者公共墓地，让今人触摸到采矿冶铜先民鲜活的生命痕迹。熊家冢国家考古遗址公园对1号车马坑实施原址原状保护展示，130余米的真车真马遗迹，直观再现楚国“千乘之国”的赫赫威仪。明楚王墓考古遗址公园开放展示的昭王、愍王茔园，清晰呈现明代藩王陵寝的严谨规制与空间格局。&lt;/p&gt;&lt;p&gt;　　南方潮湿多雨的气候，给土遗址保护带来天然挑战。盘龙城创新采用改性土包土夯筑工艺，研发出具有优异耐腐蚀性和耐候性的玻璃纤维增强混凝土，结合3D打印技术与非遗泥塑工艺，让宫城区生动地展现在游客面前。依托系统性文物保护工程，通过原址展示、模拟展示、标识阐释等多元手段，残缺的遗址重焕生机，沉寂的历史照进当下。&lt;/p&gt;&lt;p&gt;　　如果仍觉意犹未尽，丰富的视听作品与品牌活动可尽览荆楚遗址风华。《“郧县人”3号出土记》《长江天际流  荆楚百万年》《石家河》等纪录片，全景展现荆楚文化的源远流长。“超级文旅日  文物说荆楚”品牌活动常态化开展，专家深入浅出导览解读，打造线上线下联动的文博盛宴，让厚重遗产可看、可听、可感。&lt;/p&gt;&lt;p&gt;　　遗址公园可游可观，更可亲身体验。盘龙城“小小考古人  考古盘龙城”、屈家岭“金色农谷研学”、铜绿山四方塘研学工坊，打造了多种特色研学课程。游客可在模拟探方中体验考古发掘，亲手拓印青铜纹饰、复刻史前陶器，参与矿石分选、模拟古矿井支护搭建，在动手操作中读懂先民智慧。形态丰富的文创产品，萃取文物纹饰、遗址符号，化作帆布包、冰箱贴、艺术饰品等好物，让遗址记忆可随身携带、长久留存。移步剧场，铜绿山博物馆戏剧《因为青铜》、石家河数字考古实景剧《看见石家河》，再现千年矿冶文明与史前古国气象，让人在光影演绎中与古老文明相逢。&lt;/p&gt;&lt;p&gt;　　遗址公园的价值，更在于滋养民生、赋能城乡发展。在石家河国家考古遗址公园，你也许会发现与你闲谈的工作人员就是当地居民。在屈家岭国家考古遗址公园，你会遇见在公园里打太极拳的村民。襄阳依托凤凰咀遗址保护，带动闫营村蝶变为“中国美丽休闲乡村”；荆州以楚纪南故城等重要遗址为核心，打造纪南生态文化旅游区，赋能城市文旅升级；潜江龙湾遗址旁，虾稻连片、碧水环绕，千年楚囿文脉与当代水乡产业共生，绘就文旅融合、乡村振兴的和美画卷。&lt;/p&gt;&lt;p&gt;　　散落于荆楚大地的遗址公园，是铺展在山河之间的立体史书，是溯源荆楚文脉、长江文明的重要窗口。古代先民曾在此栖居劳作、创造文明，如今山河依旧、文脉绵延。&lt;/p&gt;&lt;p&gt;　　（作者单位：湖北省文物局） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;张  炎&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184775&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184775.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184775.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 漫游荆楚大遗址 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184775.html#[07版：文化遗产] 漫游荆楚大遗址</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：文化遗产] 辽上京的十年</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184776.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 辽上京的十年 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							周飞亚&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“老师带领我们进行精细化发掘、关键性解剖，在保护晚期遗迹的同时又厘清了早期遗迹的平面布局和营建次序。这不仅是技术和方法，更是对历史最温柔的尊重。”&lt;/p&gt;&lt;p&gt;　　9月21日，内蒙古巴林左旗辽上京遗址，一场特殊的结业仪式正在举行。来自内蒙古自治区文物考古研究院的包桂红怀着激动的心情，代表城市考古开放工地高级研修班的第十届学员，发表结业感言。&lt;/p&gt;&lt;p&gt;　　2017年，由国家文物局委托和指导，中国社会科学院考古研究所依托辽上京遗址考古发掘工地开办了城市考古高级研修班。如今，研修班已连续举办十年、培训了百余名学员。他们如一粒粒种子，带着城市考古的新方法、新理念，在全国各省市的大遗址工地落地、发芽。&lt;/p&gt;&lt;p&gt;　　从二里头到殷墟，从长安到洛阳，从邺城到开封……中国古代都城遗址数量众多，其中不乏知名度更高、历史文化积淀更深厚、发掘时间更长的城址。为什么是辽上京？&lt;/p&gt;&lt;p&gt;　　故事要从15年前讲起。&lt;/p&gt;&lt;p&gt;　　2011年，中国社会科学院考古研究所内蒙古第二工作队和内蒙古自治区文物考古研究所联合组成辽上京考古队，开始对辽上京皇城遗址进行系统的科学发掘。&lt;/p&gt;&lt;p&gt;　　中国古代城址，大多是多朝沿用，所谓“十朝都会”“六朝古都”由此产生。有的城址沿用至今，被称为古今重叠型城址，如北京、南京、西安等；有的城址用了一段时间即废弃，被称为荒野型城址，往往更有利于发掘。辽上京遗址就属于后者，且城址保存较完好。&lt;/p&gt;&lt;p&gt;　　皇城西门、西山坡佛寺、宫城东门……在时任考古队长董新林的带领下，沉睡多年的辽上京遗址被一点一点揭开神秘的面纱。一套城市考古的新方法、新范式也逐渐成形。在2023年国家文物局“考古中国”重大项目重要进展工作会上，辽上京皇城南部一号建筑基址考古发掘项目被认为彰显了中国城市考古先进技术与理念，是中国历史时期考古发掘的典范之一。&lt;/p&gt;&lt;p&gt;　　研修班的学员们开玩笑说，在这里学到了城市考古的“三大法宝”。&lt;/p&gt;&lt;p&gt;　　第一个“法宝”是精细化发掘。这听起来并不新鲜，似乎也不难，但在辽上京遗址，精细化被推向了极致，“每一块土是哪个单位的、什么时候的，都要弄清楚”。&lt;/p&gt;&lt;p&gt;　　“来的时候，认为自己是一个‘老兵’，很快就能学会，真上手了，才发现没那么简单。”已在考古一线工作了20多年的学员张红星感叹，培训扭转了自己很多想法。&lt;/p&gt;&lt;p&gt;　　第二个“法宝”是关键性解剖发掘。由于多个朝代的遗迹叠压，过去，城市考古一般遵循“见面即停”的策略——即只发掘到最晚期的遗迹现象就停下来，不忍“破坏”上层遗迹。这固然能够最大程度地保存晚期遗存信息，却也让人们无法解开更早期建筑营建的历史之谜。&lt;/p&gt;&lt;p&gt;　　辽上京考古队大胆选择关键节点进行解剖，以最小的发掘面积达成学术目标，既保护了晚期遗迹，又厘清了早期建筑营建次序。这要求解剖地点的选择必须非常精准，如同针灸必须找准穴位。因此，古建知识至关重要。项目伊始，董新林就将有古建知识背景的汪盈引入了考古队。后来，她成为辽上京考古队的第二任队长。&lt;/p&gt;&lt;p&gt;　　在汪盈看来，城市考古最大的不同在于“系统思维”，“要有全局观”。“一座城，几代人，一辈子”。偌大的遗址，不可能全部发掘，更不能见到遗迹就挖。动手前，一定要有宏观把握。“关键词有两个：一是布局，二是沿革。”&lt;/p&gt;&lt;p&gt;　　这两个词，深深印在每一名学员心里——在他们看来，这是第三个，也是最重要的一个“法宝”。&lt;/p&gt;&lt;p&gt;　　不仅仅是这些。“多学科的引进、考古项目的管理方式、老师们那种极致敬业的态度，对我来说，都是重要收获。”2021届学员、河北省文物考古研究院院长黄信如是说。&lt;/p&gt;&lt;p&gt;　　3个月左右的时间里，学员们白天铲土、画图、测绘，晚上听理论课、整理资料、讨论方案……来自不同省份、不同机构的考古人，在这里碰撞思想、交流经验。即便已“毕业”多年，这种交流仍在持续。&lt;/p&gt;&lt;p&gt;　　为什么是辽上京？答案或许就藏在那些夯土台基里，藏在学员们晒黑的脸上，藏在十年如一日的坚持中。辽上京遗址不是最耀眼的那个，但它恰好具备了一个理想“试验场”的全部条件：保存完好、层位清晰、问题典型，又恰逢一支愿意奉献、愿意深耕的团队、一个开放的平台。于是，这里成了城市考古新理念的孵化器、青年考古人的练兵场。全国城市考古的格局与生态，也在悄然发生改变。&lt;/p&gt;&lt;p&gt;　　十年，百余人，一座城。故事还在继续。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;周飞亚&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184776&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184776.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184776.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 辽上京的十年 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184776.html#[07版：文化遗产] 辽上京的十年</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：文化遗产] 沿着古道读岭南</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184777.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 沿着古道读岭南 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							曹  劲&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/10/ea63ea34-253b-4fdb-a3ad-2e87e1a9884c.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　梅关古道——关楼。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　曹  劲供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/ea63ea34-253b-4fdb-a3ad-2e87e1a9884c.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　岭南多山，岭海相连。千百年前，一声声马蹄踏破五岭的寂静，一条条水道连通山与海。这些1913年以前广东境内用于传递文书、运输物资、人员往来的通路，统称南粤古驿道。它们曾是军事之路、商旅之路，更是民族迁徙、文化融合之路，承载着岭南从边陲之地融入中华版图的历史记忆。&lt;/p&gt;&lt;p&gt;　　岁月流转，铁路、公路取代了昔日的古道喧嚣，许多路段湮没于深山荒草之间。与此同时，文化线路遗产保护渐成世界潮流，带动文化交流与地区发展。如何让散落在南粤大地的文化遗产活起来，成为一道时代考题。&lt;/p&gt;&lt;p&gt;　　2016年起，广东启动南粤古驿道保护利用工作，坚持保护优先，保持真实性与完整性，避免建设性破坏。近10年耕耘，截至目前，全省已完成46段、1400多公里的重点线路修复，修缮历史遗存330多处，串联起18个地市，形成“三横四纵”的总体格局。梅关古道、西京古道、潮惠古道等主干线路完成标识系统、驿站服务、生态步道等配套建设，贯穿全省的文化旅游精品线路网络颇具规模。&lt;/p&gt;&lt;p&gt;　　文化是旅游的灵魂，旅游是文化的载体。行走南粤古驿道，如同走进一座没有围墙的岭南文明博物馆：韶关梅关古道“一步跨两省”的石碑，记录着中原与岭南的千年对话；汕头樟林古港的码头遗址，诉说着红头船远渡重洋的海上丝绸之路往事。以“古道+生态+文化”的模式，古驿道将散落的历史碎片连缀成文旅珠链，成为“可读、可游、可感”的历史文化空间。《粤港澳大湾区发展规划纲要》提出“共建人文湾区”，有机整合古驿道网络与三地资源创建的特色旅游线路，正为大湾区建设注入文化动力。更令人欣喜的是，古道复兴带动乡村全面振兴——沿线70%的村落通过“驿道+民宿”“驿道+研学”等途径重焕生机，印证着“以道兴村、以道兴粤”。&lt;/p&gt;&lt;p&gt;　　作为对近10年实践的系统总结与学术升华，《南粤古驿道理论研究》丛书今年3月出版。丛书从历史考古、聚落营造到自然生态、文化产业，系统梳理南粤古驿道保护利用工作，提炼遗产挖掘、价值认知、顶层设计、保护修复、活化利用、融合发展等经验，为文物主题游径建设和文化遗产活化利用提供了重要方法示范。丛书编写同样凝聚着广东省“三师”（建筑师、规划师、工程师）专业志愿者的汗水。10年来，他们跋涉山野，指导古道、古桥、老屋的修缮，以专业力量守护千年驿道。&lt;/p&gt;&lt;p&gt;　　在2026北京文化论坛上，《南粤古驿道理论研究》丛书成为集中发布的18项成果之一，这标志着南粤古驿道工作从实践探索迈向理论建构的新阶段。南粤古驿道是岭南历史的立体缩影，是联结城乡的经济文化纽带，是永不落幕的自然历史博物馆。这条生生不息的千年文脉也会在我们的守护下绵延不绝。&lt;/p&gt;&lt;p&gt;　　（作者单位：广东省文物考古研究院） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;曹  劲&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184777&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184777.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184777.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 沿着古道读岭南 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184777.html#[07版：文化遗产] 沿着古道读岭南</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：文化遗产] 本版责编  赵偲汝  阮可欣</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184778.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编  赵偲汝  阮可欣 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本版邮箱 ysbjs@peopledaily.cn &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184778&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184778.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184778.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编  赵偲汝  阮可欣 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184778.html#[07版：文化遗产] 本版责编  赵偲汝  阮可欣</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 渡船（寻访·长征路上的故事）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184779.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 渡船（寻访·长征路上的故事） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							杨光明&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　嘉陵江的水是浑的。每年春天一过，上游的雪水裹着泥沙涌下来，江面泛着黄浊的泡沫，浪头一个接一个往岸上拍。&lt;/p&gt;&lt;p&gt;　　那年的春天格外冷。&lt;/p&gt;&lt;p&gt;　　陕西省荣誉军人康复医院院史馆里，存着老红军张开银的一份口述记录。记录里提到一条船，一条木船，一条嘉陵江上跑了几辈人的渡船。船是张开银他爹留下的。他爹走那年，船就搁在江边，桐油的味儿散尽了，船帮上长出一层薄薄的青苔，摸上去滑腻腻的。他娘说，船是咱家的命，等银娃子大了，接着撑。可谁也没料到，这条船后来撑的不是日子，是一支军队的命。&lt;/p&gt;&lt;p&gt;　　那年张开银才十八九岁，瘦得两边的肋骨都凸出来。他记得清楚，那天半夜有人砸门。他娘吓得直哆嗦，趴在门缝上往外看，外头站着两个泥人似的影子，浑身往下淌水，裤腿滴答滴答响。其实这伙人三天前来过，一个圆脸小战士背着半袋糙米，往灶台上一放，咧嘴笑笑就走了。那米是红的，掺了高粱，熬出来的粥稠得挂碗。&lt;/p&gt;&lt;p&gt;　　“大娘，借条船。”&lt;/p&gt;&lt;p&gt;　　他娘没吭声，手攥着门框，指甲发白。张开银趿拉着鞋下了炕，一把捞起墙角的蓑衣披上，拉着娘就往外走。一路上江风灌进衣领，冷得他直缩脖子。到了江边，他娘站住了，手抖得像风里的树叶，指节一根根攥着船绳，指头缝里勒出了白印。张开银垂下眼皮，走过去，低下头，一根一根掰开老娘的手指。掰到第三根的时候，娘哇地哭出来。他手一顿，还是没停。船绳往肩上一搭，跳上船，船身晃了两晃，水花溅上来，冰得他一哆嗦。&lt;/p&gt;&lt;p&gt;　　掌舵的是个老船工，本地人，60多岁了，是红军从上游村子里请来的。老船工吼了一嗓子“稳住”，舵把子一转，船头劈开浪头。对岸枪响了。子弹嗖嗖地擦着船工耳朵过去，噼里啪啦打在船板上。老船工喊完第二声“稳住”，一个浪头兜头盖下来，舵把子空了。&lt;/p&gt;&lt;p&gt;　　张开银扑上去，两只手攥住舵把子，指甲全抠进木缝里。船被漩涡卷得横过来，水哗地灌进去。船上一个红军扑过来，跟他一起扳住船舵。两个人四只手，胳膊上的青筋一根根暴起来。子弹还在打。他感觉到船身一震，什么东西软塌塌地倒在他背上，热乎乎的液体顺着脖子往下流。他没回头。&lt;/p&gt;&lt;p&gt;　　船头终于咣当撞上南岸的石头滩，所有人摔得东倒西歪。张开银从船上滚下来，膝盖蹭在石头上，皮肉翻卷。他趴在地上喘气，嘴里又咸又腥。&lt;/p&gt;&lt;p&gt;　　那以后，他家的船成了红四方面军的渡船。连着17个晚上，半夜暗渡。船篷被血水和桐油浸得黑红黑红，一走近就能闻到铁锈味儿。最要命的那一晚，5个红军战士拿身子挡住舵手，子弹打在他们背上，血顺着船板往下淌。&lt;/p&gt;&lt;p&gt;　　后来张开银跟着队伍走。从渡江的船工升到连长，又升到营长。右腿上巴掌大一块疤，阴天下雨就钻心地疼。走到陕北的时候，他已经当上了团长。&lt;/p&gt;&lt;p&gt;　　关于那条船，院史馆的记录到这里断了。张开银离开嘉陵江之后的事，是另一份档案里补上的。1941年，延安山洪暴发，水漫过桥面，泥浆滚滚，把桥柱子冲得摇摇晃晃。张开银正好路过，瞅见桥那头站着一行人，过不来。为首的个子高，正低头察看水势。张开银二话没说跳进水里。水急得站不住脚，他腿上的旧伤被冷水一激，疼得差点跪下去。他咬着牙蹚过去，把那人往背上一背，一步一步往回走。水没到他胸口，泥浆灌进嘴里，呛得他直咳。他把人送到岸上，那人拍了拍他肩膀说了句什么，水声太大，他没听清。&lt;/p&gt;&lt;p&gt;　　后来才知道，那人就是毛主席。华山烈士陵园的碑文上写得清楚：张开银，1941年延安山洪暴发时勇救毛主席的老团长。&lt;/p&gt;&lt;p&gt;　　中华人民共和国成立后，他拖着一身伤住进了华山脚下的陕西省荣誉军人康复医院。荣军院始建于1938年延安时期，院史馆里记录着他的名字。深秋的下午，老槐树叶子哗哗地落，他搬一把藤椅坐在树下，手搭着膝盖，望着南边发呆。有人问他，张老，您想啥呢？他笑一下，不说话。&lt;/p&gt;&lt;p&gt;　　华山脚下有条小河沟，水声哗哗的，不大，一年四季不断。他听了一辈子，总觉得那声音像嘉陵江。不是水声像，是那哗哗的动静里，有船桨拍水的响，有他娘喊魂的腔。&lt;/p&gt;&lt;p&gt;　　1950年秋天，他走了，老槐树的叶子正落。埋在华山烈士陵园，墓碑朝南。&lt;/p&gt;&lt;p&gt;　　南边有嘉陵江，有他的老娘，有那条千疮百孔的木船。木船早就烂了。江边的老人说，每年清明夜里，浪花的声音跟别的时候不一样。&lt;/p&gt;&lt;p&gt;　　是船队在过江。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;杨光明&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184779&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184779.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184779.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 渡船（寻访·长征路上的故事） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184779.html#[08版：副刊] 渡船（寻访·长征路上的故事）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 真正的好书（文思）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184780.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 真正的好书（文思） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							安武林&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　什么是真正的好书？&lt;/p&gt;&lt;p&gt;　　站在小学的操场上，一个小学生向我提出了一个貌似简单但又难以回答的问题。几千名小学生，还有老师，都把好奇而又困惑的目光投向我。&lt;/p&gt;&lt;p&gt;　　我的脑子里“轰”的一声，感觉脑袋和后背上都开始冒汗了。虽然在与听众的互动环节，遭遇过各种各样刁钻古怪的问题，但这个问题，还是第一次碰到。让我想起了很多年前，我向一个著名教授提的问题。&lt;/p&gt;&lt;p&gt;　　我当时问：“从小学语文，大学学中文，到现在，我依然搞不明白的一个问题是，语文是指语言和文字，还是语言和文学？”这个小学生的困惑，恐怕与我那时的困惑一样，而我与那个教授的处境一样。&lt;/p&gt;&lt;p&gt;　　我们常常会鼓励小学生要“读好书”。那么什么是好书？对于一个成年人，关于好书的标准就很复杂。因为他有个人的思考和判断，他有个人的认识和评价标准。另外，他有一个与儿童不同的优势：对好书的选择权，和自由阅读的权利。我们面对的是小学生，他们没有多少阅读经验，缺乏鉴别力和判断力。那么，对他们来说，什么才算好书呢？&lt;/p&gt;&lt;p&gt;　　好书的标准是什么？我觉得最没有争议的是经典和名著。&lt;/p&gt;&lt;p&gt;　　在我看来，好书，也有广义和狭义之分。广义的好书，只要是不模仿、不抄袭、不跟风、有见解的书，都算得上好书。正如开卷有益一样，每一本书都有自己独到的价值。狭义的好书，评价体系应该属于专业领域里的事。比如，它有阅读素质的要求，甚至专业素养的要求。&lt;/p&gt;&lt;p&gt;　　我的理解是，真正意义上的好书，是好书之中的好书。犹如千年的老山参，大海里的大珍珠，沙子里的金子一样，是极其珍贵而又稀少的，甚至是罕见的。对于有些人而言，终其一生，也未必能读到一本真正意义上的好书。这话听起来有点夸张，实际上非常容易理解。&lt;/p&gt;&lt;p&gt;　　真正的好书，在我看来，就是能够对自己产生重大影响，让自己的人生发生重大改变的书。&lt;/p&gt;&lt;p&gt;　　我给小学生们举的例子，是我小学三年级阅读的一部叫《海岛女民兵》的长篇小说。在我的眼里，它是真正意义上的好书，它对我的影响，超过我阅读的任何一本书。它不仅是我人生读到的第一本课外书，而且帮我打开了阅读之门，开启了我的阅读之旅，培养了我浓厚的阅读兴趣，让我形成了良好的阅读习惯，以至于让我后来萌生想当作家的梦想。这本书的价值是任何一本书都无法取代的。但客观上来说，这本书是时代的产物，有鲜明的时代烙印，在艺术上并非尽善尽美。&lt;/p&gt;&lt;p&gt;　　一个人的成长史，和一个人的阅读是有极大关系的。我们在小学时代会阅读各种推荐的好书。这些推荐的好书未必是我们喜欢的书。但是，通过大量的、广泛的阅读，我们可以找到那些我们真正喜欢的书。从不自由到自由，从社会到个人，这种心灵和精神的成长乃至飞跃，在阅读的历程中都会留下鲜明的印迹。&lt;/p&gt;&lt;p&gt;　　经典，名著，好书，真正的好书，一切的书，对于一个不爱阅读、不喜欢阅读的人来说，与一块石头、一株小草是一样的存在。书的不同，通过阅读的行为才能显现出来。所以，阅读兴趣的培养，阅读习惯的养成，胜过书本身的价值。&lt;/p&gt;&lt;p&gt;　　读书，某种角度也是双刃剑。一叶障目，抱残守缺，我觉得都是读死书、死读书的写照。而真正的好书，自然与这些读死书、死读书的人是无缘的。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;安武林&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184780&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184780.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184780.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 真正的好书（文思） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184780.html#[08版：副刊] 真正的好书（文思）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 扬州月</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184781.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 扬州月 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							袁益民&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“天下三分明月夜，二分无赖是扬州。”（唐·徐凝《忆扬州》）扬州拥有“月亮城”的美名，处处见月：问月桥、揽月桥、月明桥、咏月桥、得月桥，明月湖、登月湖，月观、待月亭，栖月苑、月亮园，望月路、广月路……“二分明月”成了刻进古城骨子里的文化因子。广陵路上有一座清道光年间所建的园子“二分明月楼”，原由贾氏盐商购得。家族后人离开扬州，园子年久失修，墙体倾斜，结构损坏。扬州人念兹在兹，上报文物部门后获得精心修缮。园内建筑以月亮为主题，有伴月亭、迎月楼、月亮桥等，月牙、新月、满月的造型处处可见。天上月与园中月交相辉映，成为月亮文化最直观的展示地。&lt;/p&gt;&lt;p&gt;　　“月亮城”的人们有着浓浓的月亮情愫。2006年，中秋节被列入首批国家级非物质文化遗产名录，扬州便恢复了中秋拜月仪式。人们在案头摆上月饼、菱角、莲蓬、柿子、石榴、芡实、栗子、芋头、南瓜、苹果、“子孙藕”（多芽的全枝藕）……市民身着汉服，在民俗专家主持下，庄重、虔诚地上香、敬酒、诵读祝文。中秋拜月，寄寓了团圆、和平、安康、吉祥的美好心愿。拜月物品不固定，丰收时节，水下长的，地里产的，树上结的，还有家中制作的，全部摆上。人们以最朴实的情意，感念盛世，敬奉月亮。&lt;/p&gt;&lt;p&gt;　　清人李斗在《扬州画舫录》里说：“莲花桥……上置五亭，下列四翼洞，正侧凡十有五。月满时每洞各衔一月，金色滉漾。”15个桥洞，洞洞衔月。每到中秋，本地市民和各地游客涌向瘦西湖，一睹“每洞各衔一月”奇观，领略“虽由人作，宛自天开”的工匠智慧。&lt;/p&gt;&lt;p&gt;　　“举头望明月”，本是寻常事，但在城里，赏月并不容易，鳞次栉比的高楼挡住了视线，多数情况下，只有月亮移到头顶，人们才能一睹“月容”。如何保护城市的视觉空间？规划建设者采取了一个老土但有效的办法：放气球。某处造楼，就在某处往空中放气球，派专人在瘦西湖里观测。看到气球了，那么，这座楼不能再往上盖了。严控天际线，扬州赏月就不那么难了。月圆之夜，无论站在何处，抬头就可望见一轮满月，那么大，那么近，华美、圆满、雍容、安静，藏着万物生长的魅力。&lt;/p&gt;&lt;p&gt;　　“春江潮水连海平，海上明月共潮生。”初唐“吴中四士”之一的张若虚，是地道扬州人，以一首《春江花月夜》“孤篇横绝”。张若虚的观月之处，说法不一，主流观点有两种，一是邗江区瓜洲镇，一是江都区大桥镇。与各地“争夺”名人、名篇归属地不同的是，瓜洲和大桥，各有机杼，错位创意。瓜洲镇建成“春江花月夜艺术馆”，以现代声光电技术呈现春、江、花、月、夜的迷人景象和丰富内涵。大桥镇建成“若虚文化艺术中心”，展示艺术精品，提供古筝古琴体验，深耕一方文化土壤。瓜洲镇和大桥镇，紧扣《春江花月夜》，一处以“留影”胜，一处以“留根”胜，各美其美，美美与共，共同发力，丰富、发扬、光大着扬州的月之美好。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;袁益民&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184781&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184781.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184781.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 扬州月 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184781.html#[08版：副刊] 扬州月</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184782.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/10/0b9d7d80-5a83-42d3-870a-380e792b5daa.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　中国画《三边塞上风光》，作者方济众，中国美术馆藏。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184782&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184782.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184782.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184782.html#[08版：副刊] 图片报道</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 十月之上</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184783.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 十月之上 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; （外一首） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							黄俊涛&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　风把红旗展开又松开&lt;/p&gt;&lt;p&gt;　　像一只摊开又握紧的手&lt;/p&gt;&lt;p&gt;　　在试探天空的厚度&lt;/p&gt;&lt;p&gt;　　天安门广场上的人&lt;/p&gt;&lt;p&gt;　　从四面八方涌来&lt;/p&gt;&lt;p&gt;　　鞋底沾着不同城市的泥土&lt;/p&gt;&lt;p&gt;　　孩子骑在父亲肩上&lt;/p&gt;&lt;p&gt;　　看见五星红旗在更高的地方&lt;/p&gt;&lt;p&gt;　　迎着朝阳，悄悄张开了翅膀&lt;/p&gt;&lt;p&gt;　　国歌响起时&lt;/p&gt;&lt;p&gt;　　我们停下脚步&lt;/p&gt;&lt;p&gt;　　我们继续往前走&lt;/p&gt;&lt;p&gt;　　旗杆的影子横过地面&lt;/p&gt;&lt;p&gt;　　把散落的人群&lt;/p&gt;&lt;p&gt;　　轻轻缝在一起&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　界碑书&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;　　界碑立在雪里&lt;/p&gt;&lt;p&gt;　　一半埋着一半露出&lt;/p&gt;&lt;p&gt;　　像一个人站在这里&lt;/p&gt;&lt;p&gt;　　已经站了很久&lt;/p&gt;&lt;p&gt;　　巡逻的人从远处走来&lt;/p&gt;&lt;p&gt;　　脚印很快被风填平&lt;/p&gt;&lt;p&gt;　　他没有停&lt;/p&gt;&lt;p&gt;　　用袖子擦碑上的字&lt;/p&gt;&lt;p&gt;　　擦完又往前走&lt;/p&gt;&lt;p&gt;　　国旗在他背包上卷着没有展开&lt;/p&gt;&lt;p&gt;　　红色从帆布边缘漏出来&lt;/p&gt;&lt;p&gt;　　是一小团热烈的火&lt;/p&gt;&lt;p&gt;　　雪落在上面化了&lt;/p&gt;&lt;p&gt;　　雪也不知道为什么&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;黄俊涛&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; （外一首） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184783&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184783.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184783.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 十月之上 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184783.html#[08版：副刊] 十月之上</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 黄姚的光泽</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184784.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 黄姚的光泽 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							汪  泉&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　广西黄姚街巷的青石板路面，低调、沉静。&lt;/p&gt;&lt;p&gt;　　青石板并非青色，而是乌黑色，古代称之为乌青，至今亦然。&lt;/p&gt;&lt;p&gt;　　初秋的上午，我穿街走巷。脚下的石板温润得如同墨玉，阳光直射在石板路上，人如同走在一行墨迹斑斑的古简上。在这里，我想起了一个戴着铜面具的将军，宋代的狄青，他的脸上闪烁着金属的凛然之色、兵刃之光。《宋史·狄青传》载，他作战时“临敌被发、带铜面具，出入贼中，皆披靡莫敢当”。&lt;/p&gt;&lt;p&gt;　　相传，狄青曾带领部队收复昭州，他们路过黄姚地带，发现此地无名，不利于军事行动，于是便以当地的黄姓和姚姓合成一个地名，命名为“黄姚”。后来，官民以九宫八卦阵之势排设街巷，以青石板铺路架桥，并渐次开设了一道又一道的门：永安门、新安门、升平门、接龙门、三星门、黄姚东门，不一而足。开门纳光，生意通江达海；闭门点灯，书卷博古通今。&lt;/p&gt;&lt;p&gt;　　黄姚自此被点亮，生意渐兴，文运渐盛。据记载，清朝时期，小小村落共出举人11名，进士7名。黄姚有一道美食，叫“举人蹄”，便是明证。&lt;/p&gt;&lt;p&gt;　　黄姚的光泽，也在亘古流淌的三条河流中。姚江是黄姚的主河流，源出广西昭平县巩桥乡界塘村五箭冲，从真武山麓进入古镇老街，最终汇入富群江上游的招贤河。带龙桥就架在姚江之上，当地中元节的柚子灯节即在姚江水面举办。另有小珠江，从锡巩桥进入古镇，流经三星门、宝珠山，最终在龙门潭汇入姚江。此外，兴宁河出龙塘寨石穴，流经仙人古井旁，最终在护龙桥附近汇入姚江。&lt;/p&gt;&lt;p&gt;　　走进一家陶瓷店，主人会做生意，将百家姓镌刻在杯壁出售，大受顾客青睐。茶台前坐着一位姓古的先生，健谈，说他们的祖上是在清代从今天的广东江门鹤山搬迁而来的。我问是不是来自古劳水乡，他说正是，这里的古姓、劳姓都来自鹤山古劳。他们的祖先初来黄姚时，在最繁华的老街区没有落脚之地，只好暂居较为偏僻的迎秀街。但生意还是老街旺，先辈们有感于老街乌青的石板路，集合族人用青石板修路筑桥，意在将老街的人气引过来，实则是为自己铺路。没有路，则没人来；没人来，谈何生意。新修的路桥通了，人流确是引来不少，生意日渐有了起色，青石板也磨出了包浆，人气甚至旺过老街。&lt;/p&gt;&lt;p&gt;　　青石板磨得乌黑，光泽温润，雨天石板路面发光，雨滴打在石板上，滴滴答答，诗意盎然，雨水从石板缝隙流走，不湿鞋面。晴天更是路面发光，阴天也发光，甚至暗夜，只要有一点点光源投射过来，脚下的青石板都有光泽。我住在一家民宿，正好在三星楼和迎秀街之间，无名的小巷昏暗逼仄，但有灯笼高悬，就能返照青石板路面。小巷内安静得很，能听到猫在屋脊跳跃的声音。&lt;/p&gt;&lt;p&gt;　　黄姚，新铺的青石板路还在延伸。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;汪  泉&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184784&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184784.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184784.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 黄姚的光泽 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184784.html#[08版：副刊] 黄姚的光泽</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 一藤瓜，一秋餐（多味斋）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184785.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一藤瓜，一秋餐（多味斋） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							高  方&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　夏末秋初，沂蒙山区每家农户的土墙上都爬满了吊瓜藤蔓。花开时是明艳艳的橙黄色，碗口那么大，仰头看向天空。&lt;/p&gt;&lt;p&gt;　　这时节，奶奶的餐桌上总会多出一盘炸吊瓜花。她会选那些将要开的花朵，然后一边用粗瓷大碗调面糊，一边往土灶里扔玉米芯，炉火舔着锅底，锅里的油渐渐腾起细密的泡沫。花朵拖着面糊滑入锅底，花瓣在滚油中瞬间定形，边缘镶出一圈金边。奶奶的巧手和故乡的秋风，合力成就了这道世间美食。&lt;/p&gt;&lt;p&gt;　　花朵只是序曲，随之而来的便是吊瓜在餐桌上的盛大登场，它占据整个秋天的胃。种子可以干炒成瓜子，瓜瓤可以蒸着吃，或者切成细丁与粥同煮，还能炒着吃。你或许难以想象，清甜的瓜，遇上盐与油，竟能碰撞出咸鲜适口的滋味。它与秋日里同样丰产的豆橛子同炒，无需半点肉腥，便是下饭的鲜香菜肴。&lt;/p&gt;&lt;p&gt;　　做馅的话，吊瓜就更有用武之地了，包子、饺子、合饼等都与它合拍。父亲最喜欢吃饺子，他温酒不用热水，而用饺子。他用筷子在一盘饺子中拨开一块空隙，放入锡酒壶，不一会儿饺子的暖意便丝丝渗入酒里。&lt;/p&gt;&lt;p&gt;　　吊瓜与南瓜同科不同属，在物质匮乏的年代，吊瓜高产、易存、百搭，是农家餐桌当之无愧的金秋主角。幼时我体弱，父母将我送到乡下奶奶家寄养。吃了一个秋天的吊瓜餐，我竟一天天红润结实起来。一同胖起来的还有奶奶家的小土狗，吃了一秋天的吊瓜粥饭，原本瘦伶伶的身条，也吃成了圆滚滚的筒状，肚皮都快挨着地面了。&lt;/p&gt;&lt;p&gt;　　吊瓜生命力顽强，只要撒下籽，无需费心打理，便能泼辣地生长，花果期从7月一直绵延到11月。院子里种上一两棵，足够一户人家吃上一个长长的秋天。奶奶家的吊瓜就有两棵，种在院墙之下。柔嫩的藤竟能蜿蜒跋涉十几米，一直爬到了屋顶。爷爷将木梯架在屋檐下，一步一步缓慢向上攀爬，站在梯子上打量老半天，不知道先摘哪一个。急得在下面扶梯子的奶奶大声喊：“快点！我还要去喂鸡、兔子和羊。”&lt;/p&gt;&lt;p&gt;　　小时候，我常常不解：吊瓜为何偏要爬高？可能它们喜欢迎风得意地宣告：看，这辽阔的天空，都是我的舞台！&lt;/p&gt;&lt;p&gt;　　后来，我离开了小乡村，进城读书、工作。爷爷奶奶相继离世，那个炊烟袅袅、瓜藤缠绕的小院，也渐渐沉入记忆的河底。城市的农贸市场四季食材丰富，即便是南方的稀罕菜也能隔夜飞抵北方。吊瓜这般平凡且价廉的果实，实在不值得菜贩们长途贩运，它便悄然匿迹于都市流动的菜篮。&lt;/p&gt;&lt;p&gt;　　再见吊瓜，已是一年深秋。我回到父亲生前独居的乡村小院，发现那些精心栽种的花草，因两月无人照料，大多已枯萎凋零。唯有墙角一株吊瓜藤，自顾自地生长，深绿、橙黄的瓜藏在绿叶中间，展现出一种近乎嚣张的、饱满的生命力。这哪里只是一藤瓜啊，这分明是亲人们抚摸过的土地，留给我的一份礼物。那日，我们车的后备箱里，塞满了从老家摘的吊瓜。回到城里，分赠给很多朋友，他们的餐桌上因此增添了这秋瓜的清甜。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;高  方&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184785&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184785.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184785.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一藤瓜，一秋餐（多味斋） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184785.html#[08版：副刊] 一藤瓜，一秋餐（多味斋）</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 本版责编：程  红</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184786.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：程  红 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月10日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　欢迎广大读者来稿。来稿要求为原创首发，非一稿多投，非AI（人工智能）创作或编辑。&lt;/p&gt;&lt;p&gt;　　本版邮箱 dadi@peopledaily.cn &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-10 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30184786&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184786.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/10/content_30184786.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：程  红 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/10/content_30184786.html#[08版：副刊] 本版责编：程  红</guid>
+      <pubDate>Sat, 10 Oct 2026 09:49:18 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
