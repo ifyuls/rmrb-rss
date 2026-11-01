@@ -1,0 +1,1286 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 31 Oct 2026 01:40:19 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 中共中央召开党外人士座谈会</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188611.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中共中央召开党外人士座谈会 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 习近平主持并发表重要讲话&lt;/p&gt;&lt;p&gt;王沪宁蔡奇李希出席 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　■ 治国必先治党，强国必先强党。越是长期执政，越是承平日久，越是环境复杂，越要增强忧患意识、做到居安思危，持之以恒推进全面从严治党，确保中国共产党始终成为中国特色社会主义事业的坚强领导核心&lt;/p&gt;&lt;p&gt;　　■ 持之以恒推进全面从严治党，要持续在解决党内突出问题上下功夫。要坚持目标导向和问题导向相结合，把党情的新变化和党的建设面临的新形势把握准、分析透，结合新的实际研究有效管用的对策举措。解决党内存在的问题，首先要立足于中国共产党的自身力量，不断实现党的自我净化、自我完善、自我革新、自我提高；还要依靠人民的支持，主动接受人民监督，虚心听取群众批评，把人民群众的拥护和支持转化为持之以恒推进全面从严治党的强大动力&lt;/p&gt;&lt;p&gt;　　■ 推进新时代党的建设新的伟大工程，必须坚持系统思维，加强前瞻性思考、全局性谋划、整体性推进。要深入学习贯彻习近平党建思想，坚持和加强党中央集中统一领导，坚持严的基调不动摇，健全全面从严治党体系，以党的政治建设为统领，全面推进党的各方面建设。要坚持党性党风党纪一起抓，正风肃纪反腐相贯通，把管人、管事、管权有机结合起来，把锤炼党性、提高能力、净化生态统一起来。要坚持以上率下，从领导干部抓起严起，强化教育管理监督，引导党员、干部做到慎独慎初慎微、自重自省自警自励&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　新华社北京10月30日电  中共中央8月21日在中南海召开党外人士座谈会，就中共中央关于持之以恒推进全面从严治党若干重大问题的决定听取各民主党派中央、全国工商联负责人和无党派人士代表的意见建议。中共中央总书记习近平主持座谈会并发表重要讲话强调，治国必先治党，强国必先强党。越是长期执政，越是承平日久，越是环境复杂，越要增强忧患意识、做到居安思危，持之以恒推进全面从严治党，确保中国共产党始终成为中国特色社会主义事业的坚强领导核心。&lt;/p&gt;&lt;p&gt;　　中共中央政治局常委王沪宁、蔡奇、李希出席座谈会。&lt;/p&gt;&lt;p&gt;　　座谈会上，民革中央主席郑建邦、民盟中央主席丁仲礼、民建中央主席郝明金、民进中央主席蔡达峰、农工党中央主席何维、致公党中央主席蒋作君、九三学社中央主席武维华、台盟中央主席苏辉、全国工商联主席高云龙、无党派人士代表李卫先后发言。他们对中共中央关于持之以恒推进全面从严治党若干重大问题的决定稿表示完全赞同，一致认为中共十八大以来，在以习近平同志为核心的中共中央坚强领导下，全面从严治党取得伟大成就，开辟了百年大党自我革命新境界，推动党和国家事业取得历史性成就、发生历史性变革，党和人民赢得强党强国的历史主动。大家还就深入学习贯彻习近平党建思想、加强党的创新理论武装、树立和践行正确政绩观、强化政治引领、推动人民监督与党的自我革命同向发力、优化考核评价和问责机制、重视提升干部科学素养、加强对权力运行的制约和监督、讲好新时代中国共产党故事、广泛宣传全面从严治党伟大成就等提出意见建议。&lt;/p&gt;&lt;p&gt;　　在认真听取大家发言后，习近平发表重要讲话。他指出，中共中央就党的重要文件和国家重大方针政策听取各民主党派中央、全国工商联负责人和无党派人士的意见，是全过程人民民主特别是社会主义协商民主的重要体现。今年2月，中共中央委托中央统战部专门征求了党外人士对中共二十届五中全会议题的意见。大家在刚才发言中提出了很好的意见建议，我们将认真研究吸收。他代表中共中央向大家表示感谢。&lt;/p&gt;&lt;p&gt;　　习近平强调，办好中国的事情关键在中国共产党、关键在全面从严治党。中共十八大以来，我们坚定不移推进全面从严治党，中国共产党在革命性锻造中更加坚强有力。同时要看到，随着世情国情党情发生深刻变化，全面从严治党面临许多新情况新问题。要站在保持党的先进性和纯洁性、巩固党的执政地位、实现党的使命任务的战略高度，坚定信心、保持定力，切实把中国共产党治理好、建设强。&lt;/p&gt;&lt;p&gt;　　习近平指出，持之以恒推进全面从严治党，要持续在解决党内突出问题上下功夫。要坚持目标导向和问题导向相结合，把党情的新变化和党的建设面临的新形势把握准、分析透，结合新的实际研究有效管用的对策举措。解决党内存在的问题，首先要立足于中国共产党的自身力量，不断实现党的自我净化、自我完善、自我革新、自我提高；还要依靠人民的支持，主动接受人民监督，虚心听取群众批评，把人民群众的拥护和支持转化为持之以恒推进全面从严治党的强大动力。&lt;/p&gt;&lt;p&gt;　　习近平强调，推进新时代党的建设新的伟大工程，必须坚持系统思维，加强前瞻性思考、全局性谋划、整体性推进。要深入学习贯彻新时代党建思想，坚持和加强党中央集中统一领导，坚持严的基调不动摇，健全全面从严治党体系，以党的政治建设为统领，全面推进党的各方面建设。要坚持党性党风党纪一起抓，正风肃纪反腐相贯通，把管人、管事、管权有机结合起来，把锤炼党性、提高能力、净化生态统一起来。要坚持以上率下，从领导干部抓起严起，强化教育管理监督，引导党员、干部做到慎独慎初慎微、自重自省自警自励。&lt;/p&gt;&lt;p&gt;　　习近平指出，要坚持好、发展好、完善好中国新型政党制度。希望各民主党派、工商联和无党派人士不忘多党合作初心，坚定拥护中国共产党领导，不断夯实共同思想政治基础，积极建言资政，发挥好民主监督职能，做中国共产党的好参谋、好帮手、好同事。&lt;/p&gt;&lt;p&gt;　　尹力、石泰峰、李干杰、李书磊、李鸿忠、何立峰、陈文清、刘金国、王小洪、张升民、吴政隆、穆虹，中共中央、国务院有关部门负责人出席座谈会。&lt;/p&gt;&lt;p&gt;　　出席座谈会的党外人士还有邵鸿、何报翔、王光谦、秦博勇、朱永新、杨震和张恩迪、安立佳、吴晨等。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 习近平主持并发表重要讲话&lt;/p&gt;&lt;p&gt;王沪宁蔡奇李希出席 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188611&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188611.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188611.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中共中央召开党外人士座谈会 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188611.html#[01版：要闻] 中共中央召开党外人士座谈会</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平同德国总统施泰因迈尔会谈</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188612.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平同德国总统施泰因迈尔会谈 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　十月三十日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。这是会谈前，习近平和夫人彭丽媛同施泰因迈尔和夫人比登本德合影。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  申  宏摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/b2c59870-23f0-421b-8c14-92fb2cb90615.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　十月三十日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。这是会谈前，习近平在人民大会堂东门外广场为施泰因迈尔举行欢迎仪式。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  谢环驰摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/0be0a4b9-dd7b-4faa-90f5-1aaeafd81687.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报北京10月30日电  （记者杨翘楚）10月30日下午，国家主席习近平在北京人民大会堂同来华进行国事访问的德国总统施泰因迈尔举行会谈。&lt;/p&gt;&lt;p&gt;　　习近平指出，建交半个多世纪以来，中德关系保持高水平发展，始终是相互信任的朋友、彼此成就的伙伴。当前，世界百年变局加速演进，变和乱的一面更加突出。中德作为世界第二、第三大经济体，对中欧关系发展和世界经济稳定增长负有重要责任，理应加强沟通和协作，打造平等互利、战略稳定的合作新范式，对外释放要开放不要封闭、要合作不要对抗的积极信号。中方愿同德方一道，开启两国全方位战略伙伴关系新篇章，推动构建更加公正合理的全球治理体系。&lt;/p&gt;&lt;p&gt;　　习近平强调，政贵有恒。中方对德政策连贯、稳定、可预期，高度重视德国的大国地位，始终支持德国统一和发展，乐见德国在欧洲和国际事务中发挥更大作用。希望德方以开放、积极心态看待中国的发展和对华合作，坚持理性、务实、友好的对华政策，坚持相互尊重、平等相待，这也是中德关系持续健康发展的宝贵经验。德国是先进制造业和高品质产品的代表，中国正在以高质量发展推进中国式现代化，双方发展战略契合、合作空间广阔。中方坚定推进高水平对外开放，持续优化营商环境，欢迎包括德国在内的各国企业深耕中国，分享超大规模市场红利。希望德方坚持开放包容，为赴德中国企业提供公平、透明、非歧视的营商环境，做大做强中德务实合作。中方愿同德方开展人工智能、绿色低碳、服务贸易、数字经济等领域合作，共同提升未来竞争力，为中德合作增维度、添后劲。中德两国人民都有勤劳、智慧、坚韧的优秀品格，都支持中德友好。双方要支持文化、教育、艺术交流，便利人员往来，促进民心相通，为明年共庆中德建交55周年营造良好氛围。&lt;/p&gt;&lt;p&gt;　　习近平指出，中方始终视欧盟为伙伴，秉持诚心和善意发展对欧关系。历史和现实一再证明，中欧合作大于竞争、共识大于分歧。中欧经贸关系的本质是优势互补、互利共赢，彼此成就的路径是相互尊重、互谅互让，协同发展的关键是求同存异、守正创新。中欧关系历经风雨，合作过程中出现一些问题是发展中的问题、前进中的矛盾。只要坚守伙伴关系定位、秉持平等对话基调，分歧和问题总能得到解决，不会阻碍中欧关系向前发展。希望欧方同中方相向而行，携手推进平等有序的世界多极化和普惠包容的经济全球化。&lt;/p&gt;&lt;p&gt;　　习近平向施泰因迈尔介绍了中共二十届五中全会的情况。习近平指出，治国必先治党，党兴才能国强。持之以恒推进全面从严治党必将得到人民群众的广泛拥护和支持。中国共产党愿同包括德国在内的世界各国主要政党开展治国理政经验交流。&lt;/p&gt;&lt;p&gt;　　施泰因迈尔表示，过去25年间我8次来华访问，见证了中国的快速发展，每次中国都展现出崭新面貌。中国已成为政治影响力和经济科技实力都举足轻重的世界大国，德方对习近平主席领导中国取得的巨大发展成就充满敬意。德中关系紧密互利、富有活力，双方始终相互尊重、平等对话，各领域合作取得实实在在的成果，助力彼此发展。德方坚定奉行一个中国政策，对两国关系前景充满信心，愿同中方保持高层交往，加强贸易、科技、人工智能、环保等领域合作，促进人文交流。双方可以通过对话协商妥处经贸分歧，实现互利双赢，为世界作出表率。国际秩序承压，世界期待中国发挥更大作用。德方愿同中方共同肩负起维护世界和平发展的责任，捍卫联合国宪章宗旨和原则，维护国际法权威，支持自由贸易和世贸组织规则，反对保护主义，反对打贸易战。&lt;/p&gt;&lt;p&gt;　　会谈前，习近平和夫人彭丽媛在人民大会堂东门外广场为施泰因迈尔和夫人比登本德举行欢迎仪式。&lt;/p&gt;&lt;p&gt;　　施泰因迈尔抵达时，礼兵列队致敬。两国元首登上检阅台，军乐团奏中德两国国歌，天安门广场鸣放礼炮21响。施泰因迈尔在习近平陪同下检阅中国人民解放军仪仗队，并观看分列式。&lt;/p&gt;&lt;p&gt;　　当晚，习近平和彭丽媛在人民大会堂金色大厅为施泰因迈尔夫妇举行欢迎宴会。&lt;/p&gt;&lt;p&gt;　　王毅参加上述活动。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188612&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188612.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188612.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平同德国总统施泰因迈尔会谈 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188612.html#[01版：要闻] 习近平同德国总统施泰因迈尔会谈</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平会见瑞士联邦主席帕姆兰</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188613.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平会见瑞士联邦主席帕姆兰 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　10月30日下午，国家主席习近平在北京人民大会堂会见来华进行工作访问的瑞士联邦主席帕姆兰。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  李  响摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/96fc58c8-350d-449a-b22e-4f1e36e134bd.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报北京10月30日电&lt;span style="text-wrap-mode: wrap;"&gt;  &lt;/span&gt;（记者巩晗）10月30日下午，国家主席习近平在北京人民大会堂会见来华进行工作访问的瑞士联邦主席帕姆兰。&lt;/p&gt;&lt;p&gt;　　习近平指出，瑞士是中国在欧洲的重要伙伴，对华合作始终走在欧洲国家前列。在单边主义、保护主义逆流涌动的当下，自由贸易合作成为中瑞关系最亮眼的名片，充分体现了两国坚持开放合作的政治勇气和担当，彰显了双方推动建设开放型世界经济的独特引领作用。各国经济相通则共进，相闭则各退。中方愿同瑞方一道，高举开放旗帜，拉紧合作纽带，推动普惠包容的经济全球化，共同为中欧经贸合作和全球经济发展注入宝贵信心和更多确定性。&lt;/p&gt;&lt;p&gt;　　习近平强调，中瑞建交以来，双方坚持相互成就，敢为人先，不断以务实成果诠释“平等、创新、共赢”的中瑞合作精神，成为不同大小、不同社会制度国家交往的典范。双方要相互尊重、平等相待，全方位加强各层级交流和政策对接。中国正在加快发展新质生产力，稳步扩大制度型开放，愿将中国市场打造成为世界的市场、共享的市场。双方要坚持互利共赢，让开放合作的蓝图成为看得见、摸得着的实景。加强创新合作，着力培育数字经济、绿色储能、人工智能等新兴产业合作，构筑协同创新、利益共享的高质量产业链供应链，共同促进人工智能向上向善、造福人类。&lt;/p&gt;&lt;p&gt;　　习近平指出，瑞士长期在中欧经贸往来中发挥重要示范作用，希望瑞方发挥自身独特影响，为推动中欧贸易向上平衡、稳健发展发挥积极作用。中瑞两国支持多边主义的立场相近、理念相通。双方要深化多边协调和相互支持，坚定维护以联合国为核心的国际体系和以国际法为基础的国际秩序，改革完善全球治理体系，推动构建人类命运共同体。&lt;/p&gt;&lt;p&gt;　　帕姆兰表示，作为最早承认新中国的西方国家之一，瑞士一直为此深感自豪，这开启了两国持久而富有活力的伙伴关系。建交以来，双方始终相互尊重，保持密切高层交往，在贸易投资、科研创新、劳动就业等诸多领域取得丰硕合作成果。今年是瑞中建立创新战略伙伴关系10周年，双方在短时间内高质量完成自贸协定升级谈判，体现了双方高度互信，符合两国企业和各方期待，将为瑞中关系发展注入新动力。瑞方坚定奉行一个中国政策，期待同中方加强对话交流、坚持互利合作，推动各领域合作取得更大发展。瑞方高度重视中方在国际事务中发挥的积极作用，愿同中方密切协调，坚持多边主义，维护自由贸易，为世界发展繁荣与和平稳定作出贡献。&lt;/p&gt;&lt;p&gt;　　会见后，两国元首共同见证签署中瑞自贸协定升级议定书和科研、劳动就业、媒体等领域多项合作文件。&lt;/p&gt;&lt;p&gt;　　王毅参加上述活动。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188613&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188613.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188613.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平会见瑞士联邦主席帕姆兰 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188613.html#[01版：要闻] 习近平会见瑞士联邦主席帕姆兰</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] “推进新时代党的建设新的伟大工程的纲领性文件”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188614.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “推进新时代党的建设新的伟大工程的纲领性文件” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——党的二十届五中全会侧记 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  孙  振  杜尚泽  新华社记者  张晓松  朱基钗&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“办好中国的事情，关键在党、关键在全面从严治党。”&lt;/p&gt;&lt;p&gt;　　一个立志于中华民族千秋伟业，坚持为中国人民谋幸福、为中华民族谋复兴的党，从未停下加强自身建设的坚实步履。&lt;/p&gt;&lt;p&gt;　　10月26日至29日，党的二十届五中全会在京举行，重点研究持之以恒推进全面从严治党问题。&lt;/p&gt;&lt;p&gt;　　全会听取和讨论了习近平总书记受中央政治局委托所作的工作报告，审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》。总书记就《决定（讨论稿）》向全会作了说明。&lt;/p&gt;&lt;p&gt;　　说明开篇即阐释定下这一主题的考虑，“这是党中央把握党和国家事业发展历史方位、着眼中国式现代化全局，审时度势、通盘考虑作出的重大决策”。&lt;/p&gt;&lt;p&gt;　　一份“推进新时代党的建设新的伟大工程的纲领性文件”出炉，之于中国式现代化新征程的分量，千钧重。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“党和人民赢得强党强国的历史主动”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“十四五”圆满收官，“十五五”开局良好。党的二十届四中全会以来，改革发展稳定、内政外交国防，成绩单沉甸甸的。&lt;/p&gt;&lt;p&gt;　　习近平总书记受中央政治局委托作工作报告，既有理论的创新，也有实践的纵深。&lt;/p&gt;&lt;p&gt;　　讨论中，与会同志结合各自领域的工作，谈感悟、讲信心。从习近平党建思想的科学指引，到新时代管党治党、兴党强党取得伟大成就；从开展树立和践行正确政绩观学习教育，到隆重庆祝中国共产党成立105周年；从新时代中国特色社会主义事业开创崭新局面，到“两个确立”这一新时代取得的重大政治成果，他们将报告同《决定》稿关联起来去讨论思考。&lt;/p&gt;&lt;p&gt;　　全会一致认为，新时代全面从严治党取得伟大成就，“从根本上扭转了管党治党宽松软状况，刹住了一些长期没有刹住的歪风，纠治了一些多年未除的顽瘴痼疾，消除了党、国家、军队内部存在的严重隐患，党在革命性锻造中更加坚强有力”。&lt;/p&gt;&lt;p&gt;　　“新时代全面从严治党开辟了百年大党自我革命新境界，推动党和国家事业取得历史性成就、发生历史性变革，党和人民赢得强党强国的历史主动。”&lt;/p&gt;&lt;p&gt;　　历史主动从何而来？&lt;/p&gt;&lt;p&gt;　　全会通过的《决定》提出持之以恒推进全面从严治党的7条原则：坚持服务使命任务，坚持以党的政治建设为统领，坚持全面从严，坚持问题导向，坚持守正创新，坚持以上率下，坚持依规治党。《决定》指出：“这些原则是新时代全面从严治党经验的科学总结，必须长期坚持并不断丰富发展。”&lt;/p&gt;&lt;p&gt;　　习近平总书记深刻指出，“服从服务于党和国家事业发展，历来是党的建设的重要原则”“《决定》稿起草坚持不忘初心、牢记使命”。&lt;/p&gt;&lt;p&gt;　　为人民而生、因人民而兴。红船启航之时的千钧一诺，融入管党治党的百年征程，写入《决定》的字里行间，开始引领坚定前行的又一程。&lt;/p&gt;&lt;p&gt;　　《决定》“第一板块为第一部分，是总论”“阐述持之以恒推进全面从严治党的重要性紧迫性和总体要求”，回顾光辉历程、总结伟大成就、分析形势任务、提出指导思想、阐明遵循原则，凝练深刻、衔接有序。&lt;/p&gt;&lt;p&gt;　　其中，有历史的昭示、有理论的升华、有实践的凝萃。&lt;/p&gt;&lt;p&gt;　　新时代新征程上，习近平总书记多次思索如何继续回答好延安“窑洞之问”。而此次，结合党的百年历程，《决定》深刻阐释：找到“让人民来监督政府”和“自我革命”两个跳出治乱兴衰历史周期率的答案，这是中国共产党的独特创造，永载马克思主义政党建设史册。&lt;/p&gt;&lt;p&gt;　　分组讨论时，与会同志热议为何要“持之以恒”，一致认为，总书记在说明中关于“三个必然要求”的重大论断，如黄钟大吕：&lt;/p&gt;&lt;p&gt;　　“这是保持党的先进性和纯洁性、巩固党的长期执政地位的必然要求”；&lt;/p&gt;&lt;p&gt;　　“这是巩固和发展全党高度团结统一、党心军心民心高度凝聚良好政治局面的必然要求”；&lt;/p&gt;&lt;p&gt;　　“这是完成党的历史使命、推动党和国家事业行稳致远的必然要求”。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，习近平总书记以“虽千万人，吾往矣”的巨大政治勇气、以“得罪千百人，不负十四亿”的强烈使命担当，把全面从严治党作为党的长期战略、永恒课题，一步不退，一抓到底。&lt;/p&gt;&lt;p&gt;　　起草过程中，总书记亲自担任起草组组长，部署广泛征求各方意见，3次主持召开中央政治局常委会、2次主持召开中央政治局会议，对《决定》稿进行审议、修改。&lt;/p&gt;&lt;p&gt;　　为期4天的全会，围绕《决定》稿安排了多场分组讨论。中央领导同志深入各小组听取意见建议，不时和大家交流探讨。与会同志踊跃发言，有一份共鸣持久激荡：“新时代管党治党、兴党强党取得伟大成就，中国特色社会主义事业开创崭新局面，根本在于以习近平同志为核心的党中央领航掌舵，在于习近平新时代中国特色社会主义思想科学指引。”&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“增强党性是全面从严治党的根本性任务”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“党性是党员干部立身、立业、立言、立德的基石。”&lt;/p&gt;&lt;p&gt;　　《决定》对增强共产党人的党性作出专章部署，并且放在持之以恒推进全面从严治党7项战略任务和重大举措的第一条，体现了对马克思主义执政党建设规律的深刻认识和把握，进一步丰富和发展了习近平党建思想。&lt;/p&gt;&lt;p&gt;　　“增强共产党人的党性”“严格贯彻执行民主集中制”“锻造堪当民族复兴重任的高素质干部队伍”“建设上下贯通、执行有力的严密组织体系”“驰而不息正风肃纪”“坚定不移一体推进不敢腐不能腐不想腐”“坚持制度治党、依规治党”，全面从严治党的这7项战略任务和重大举措，架起“持之以恒推进”的四梁八柱，锚定的是“切实增强管党治党整体效能”。&lt;/p&gt;&lt;p&gt;　　今天的全面从严治党，早不是单点发力，而是坚持以党的政治建设为统领，注重党的各方面建设协同发力、各项政策措施衔接配套，注重以上率下、点面结合、标本兼治，注重形成上下贯通、条块结合、齐抓共管的工作格局。&lt;/p&gt;&lt;p&gt;　　“持之以恒推进全面从严治党是一项系统工程，必须把党的政治建设、思想建设、组织建设、作风建设、纪律建设和制度建设、反腐败斗争等作为一个有机整体来谋划和推进，着力健全全面从严治党体系。”习近平总书记强调。&lt;/p&gt;&lt;p&gt;　　着力增强共产党人的党性，这是一件迫在眉睫的现实课题。&lt;/p&gt;&lt;p&gt;　　习近平总书记曾经指出：“现在干部出问题，主要是出在‘德’上、出在党性薄弱上。”《决定》指出“少数党员、干部包括高级干部党性不强，理想信念动摇甚至缺失，群众感情淡薄，政绩观出现偏差……”&lt;/p&gt;&lt;p&gt;　　“把加强党性修养作为终身课题”，全会提出党员、干部必须在六个方面下功夫：坚定理想信念、铸牢对党忠诚、厚植为民情怀、坚持实事求是、纯正道德品质、保持清正廉洁。&lt;/p&gt;&lt;p&gt;　　锤炼党性，对党员、干部来说，首要的是坚持用习近平新时代中国特色社会主义思想凝心铸魂，做到学思用贯通、知信行统一，要“在实践中锤炼党性”，堪当民族复兴重任，做中国式现代化建设的坚定行动派、实干家。&lt;/p&gt;&lt;p&gt;　　“在实践中锤炼党性”，从地方到中央，习近平总书记率先垂范。“我将无我，不负人民”见格局，“把泪焦桐成雨”映情怀，“作风建设永远在路上，永远没有休止符”展决心……这些话语深刻诠释：“党性和人民性从来都是一致的、统一的。”&lt;/p&gt;&lt;p&gt;　　与会同志一致认为，要进一步坚定对马克思主义的信仰、对共产主义的信念、对中国特色社会主义的信心，做到“虔诚而执着、至信而深厚”。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，着眼于“把党建设好、建设强”，将加强党性修养作为新时代党的建设新的伟大工程的重要内容，不断赋予习近平党建思想以新的时代意蕴。&lt;/p&gt;&lt;p&gt;　　党的二十大，把“坚持党性党风党纪一起抓”“提高党性觉悟”纳入全面从严治党战略部署；这次全会，又提出新举措，“用党的优良传统和中华优秀传统文化涵养党性”。&lt;/p&gt;&lt;p&gt;　　研读《习近平党建文选》第一卷、第二卷，贯通学习《习近平文化文选》第一卷、第二卷，有许多旁征博引的典故：春秋时期宋国大夫正考父在家庙鼎上铸下的铭训，东汉时期杨震“四知拒金”的故事……党史故事、新时代廉洁文化，“第二个结合”生动运用于全面从严治党。新时代管党治党、兴党强党新境界，扎根于五千年没有断流的中华文明，根本在于党的创新理论指引。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“把党的建设面临的突出问题整治好、解决好”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　问题是时代的声音，“突出问题导向”是《决定》起草中着重把握的几点之一。&lt;/p&gt;&lt;p&gt;　　“把解决党内突出问题作为着力点，不回避矛盾，不讳疾忌医，在纠偏治乱、激浊扬清中提高工作水平。”&lt;/p&gt;&lt;p&gt;　　新时代全面从严治党取得历史性、开创性成就，基本实现中国式现代化进入关键时期，《决定》作为推进新时代党的建设新的伟大工程的纲领性文件，世人关注。&lt;/p&gt;&lt;p&gt;　　犹记党的十八大后，“四大考验”“四种危险”的警示声，仍在耳畔。刀刃向内、重典治乱！以习近平同志为核心的党中央“直面一度出现党的领导弱化虚化淡化、管党治党不严不实不力、党内一些问题触目惊心的严峻现实”。&lt;/p&gt;&lt;p&gt;　　全会上，习近平总书记提出全面从严治党的任务面临三个“更加艰巨”：党团结带领人民维护国家主权、安全、发展利益任务更加艰巨，党团结带领人民推动改革发展、维护社会和谐稳定任务更加艰巨，党保持先进性和纯洁性任务更加艰巨。&lt;/p&gt;&lt;p&gt;　　这是随着世情国情党情发生深刻变化，党面临许多新情况新问题作出的新的重大判断。这一重大判断是从巩固党的长期执政地位、实现中华民族伟大复兴的战略高度作出的，为持之以恒推进全面从严治党提供了根本遵循。而同时，党面临的“四大考验”和“四种危险”是长期的、复杂的、严峻的。&lt;/p&gt;&lt;p&gt;　　全面从严治党永远在路上。&lt;/p&gt;&lt;p&gt;　　清醒而坚定，这正是中国共产党人对待问题的态度。只有坚持问题导向，才能让全党认识到全面从严治党的重要性、紧迫性，增强战略定力，增强必胜信心。&lt;/p&gt;&lt;p&gt;　　《决定》7条原则里，有一条是“坚持问题导向”。作说明谈及此，总书记一语中的：“《决定》稿几个部分不是按照党的建设总体布局平铺开来、面面俱到，而是抓住关键要害、聚焦突出问题谋篇布局。”&lt;/p&gt;&lt;p&gt;　　有的放矢，靶向施策。正如习近平总书记在作说明时所强调的，“谋划思路举措坚持有什么问题就解决什么问题、什么问题突出就重点解决什么问题，找准问题症结，深入研究论证，提出有针对性的对策。”&lt;/p&gt;&lt;p&gt;　　曾经有人观望，全面从严治党，会不会是一阵风？实践证明，力度不减，慎终如始，永远在路上。全会释放了鲜明的信号：“坚持严的基调”“必须一以贯之、一严到底”。&lt;/p&gt;&lt;p&gt;　　这是写于时间长卷的坚守。&lt;/p&gt;&lt;p&gt;　　人们清晰记得，习近平总书记在十八届中央政治局常委同中外记者见面时的承诺：“我们的责任，就是同全党同志一道，坚持党要管党、从严治党”。&lt;/p&gt;&lt;p&gt;　　2014年12月，首次提出“全面从严治党”并将其纳入“四个全面”战略布局。此后，党的十八届六中全会专题研究全面从严治党问题；党的十九大将“坚持全面从严治党”确立为新时代坚持和发展中国特色社会主义的基本方略之一；党的十九届六中全会将“明确全面从严治党的战略方针”列为习近平新时代中国特色社会主义思想的重要内容；党的二十大系统部署“坚定不移全面从严治党，深入推进新时代党的建设新的伟大工程”。&lt;/p&gt;&lt;p&gt;　　坚定不移推进，取得一系列理论创新、实践创新、制度创新成果，构建起全面从严治党体系。&lt;/p&gt;&lt;p&gt;　　一抓到底，雷霆万钧，立起了口碑、赢得了人心，也令外媒慨叹中国共产党的反腐败成绩是“足以同在中国这样一个世界上人口最多的国家解决温饱问题、极大消除贫困相提并论的一个巨大贡献”。&lt;/p&gt;&lt;p&gt;　　这是着眼未来的坚定选择。&lt;/p&gt;&lt;p&gt;　　全会第二次会议召开于29日下午，习近平总书记再次强调“进一步提高对持之以恒推进全面从严治党重要性紧迫性的认识”，他讲述问题，层层深入、条分缕析，厘清认识、凝聚共识。&lt;/p&gt;&lt;p&gt;　　习近平总书记谈到了有些人的疑问：“全面从严治党是妨碍了经济社会发展还是保障和促进了经济社会发展？”&lt;/p&gt;&lt;p&gt;　　“党的十八大以来党和国家事业取得历史性成就、发生历史性变革，全面从严治党发挥了根本保障作用”。&lt;/p&gt;&lt;p&gt;　　“如果说全面从严治党对经济社会发展有影响，那么这种影响就是积极的而不是消极的。因为全面从严治党是扶正祛邪、清淤除障、纠偏治乱，坚决整治一切不正之风和腐败现象，保护的是公平竞争的市场环境，激发的是干事创业的正能量，阻止的是将不法利益掺杂其中、损害人民根本利益的有害经济行为。”&lt;/p&gt;&lt;p&gt;　　习近平总书记的声音回荡会场：“面向未来，不管遇到什么难题，不管经受多大风浪考验，我们都要保持定力、坚定信心，一以贯之全面从严治党，不能有丝毫犹疑和退缩。”&lt;/p&gt;&lt;p&gt;　　“矢志追求真理，始终把准前进方向”，发轫于红船启航、开辟于伟大远征，贯穿革命、建设、改革不同历史时期，于波澜壮阔的新时代，积厚成势。&lt;/p&gt;&lt;p&gt;　　“全会决定，中国共产党第二十一次全国代表大会于2027年下半年在北京召开。全会认为，党的二十一大是我们党在基本实现社会主义现代化的关键时期、向第二个百年奋斗目标进军新征程上召开的一次十分重要的代表大会，是党和国家政治生活中的一件大事。”&lt;/p&gt;&lt;p&gt;　　新征程是党和人民的新长征。“深入学习贯彻全会精神是当前和今后一个时期全党的重大政治任务。”在习近平党建思想的科学指引下，全党始终保持统一的思想、坚定的意志、协调的行动、强大的战斗力，持之以恒推进全面从严治党，一定能不断开创新时代管党治党、兴党强党新局面，在新的长征路上奋力创造新的辉煌。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  孙  振  杜尚泽  新华社记者  张晓松  朱基钗&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——党的二十届五中全会侧记 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188614&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188614.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188614.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “推进新时代党的建设新的伟大工程的纲领性文件” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188614.html#[01版：要闻] “推进新时代党的建设新的伟大工程的纲领性文件”</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 全面贯彻习近平党建思想</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188615.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全面贯彻习近平党建思想 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——论学习贯彻党的二十届五中全会精神 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报评论员&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　伟大事业已掀开新篇章，伟大工程要开创新局面。&lt;/p&gt;&lt;p&gt;　　党的二十届五中全会从党和国家事业发展全局的战略高度，全面总结新时代全面从严治党伟大成就和宝贵经验，深入分析党的建设面临的新形势新任务新挑战，审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》。这是持续推进新时代党的建设新的伟大工程的纲领性文件，体现了以习近平同志为核心的党中央强党强国的历史主动，必将有力动员和激励全党坚定信心、保持定力，不断开创新时代管党治党、兴党强党新局面。&lt;/p&gt;&lt;p&gt;　　新时代全面从严治党决心之大前所未有、力度之大前所未有，找到了跳出治乱兴衰历史周期率的第二个答案，开辟了百年大党自我革命新境界，党在革命性锻造中更加坚强有力，党风政风和社会风气焕然一新，形成中国共产党之治、中国之治新气象。&lt;/p&gt;&lt;p&gt;　　这些成就的取得，根本在于以习近平同志为核心的党中央领航掌舵，在于习近平新时代中国特色社会主义思想科学指引，充分表明“两个确立”是我们战胜一切艰难险阻、应对一切不确定性的最大确定性、最大底气、最大保证。&lt;/p&gt;&lt;p&gt;　　105年来，党之所以始终掌握历史主动、不断创造奇迹，关键在于具有矢志追求真理等优秀特质，拥有马克思主义科学理论指导。&lt;/p&gt;&lt;p&gt;　　作为习近平新时代中国特色社会主义思想的党建篇，习近平党建思想深刻回答“建设什么样的长期执政的马克思主义政党、怎样建设长期执政的马克思主义政党”这一重大时代课题，丰富和发展了马克思主义建党学说，是坚持“两个结合”推进党的理论创新的重大成果，是党和人民实践经验和集体智慧的结晶，对强党强国具有重大现实意义和长远指导意义。&lt;/p&gt;&lt;p&gt;　　思想如炬，照亮新的赶考之路，引领更加壮阔征程。&lt;/p&gt;&lt;p&gt;　　《决定》最鲜明的特点，就是全面贯彻习近平党建思想，将其作为一条思想主线始终贯穿，在文件框架安排、总结成就和经验、分析形势和任务、明确指导思想和“七个坚持”重大原则、提出政策举措上全面落实。这是对新时代全面从严治党宝贵经验的充分运用，体现了我们党对马克思主义执政党建设规律认识的深化，必将有力推动管党治党、兴党强党在守正中创新、在继承中发展。&lt;/p&gt;&lt;p&gt;　　这里围绕“增强共产党人的党性”“严格贯彻执行民主集中制”进行阐释，以加深对全会精神的理解把握。&lt;/p&gt;&lt;p&gt;　　增强党性是全面从严治党的根本性任务，锤炼党性是党员、干部的终身课题。“坚持锤炼坚强党性”，是习近平党建思想的重要内容。&lt;/p&gt;&lt;p&gt;　　从坚持不懈用新时代党的创新理论凝心铸魂，锤炼对党忠诚的政治品格，到把“坚持党性党风党纪一起抓”“提高党性觉悟”纳入全面从严治党战略部署，以坚强党性涵养优良作风，再到扎实开展树立和践行正确政绩观学习教育，坚持从党性上找差距、挖根源、强修养……&lt;/p&gt;&lt;p&gt;　　正是因为从思想上正本清源、固本培元，筑牢信仰之基、补足精神之钙、把稳思想之舵，我们党在风云变幻中始终走在时代前列，在风高浪急中始终成为全国人民的主心骨。&lt;/p&gt;&lt;p&gt;　　全会部署持之以恒推进全面从严治党的战略任务和重大举措，排在首位的就是“增强共产党人的党性”，目的正是要推动全体党员、干部坚持党的性质和宗旨，增强党的意识、党员意识、先锋队意识，始终保持共产党人政治本色，深刻领悟“两个确立”的决定性意义，坚决做到“两个维护”。&lt;/p&gt;&lt;p&gt;　　我们党是在马克思主义建党学说指导下、按照民主集中制原则建立起来的世界第一大执政党。民主集中制是党的根本组织原则和领导制度，贯彻执行民主集中制是全面从严治党的内在要求。&lt;/p&gt;&lt;p&gt;　　如何更好发挥民主集中制的政治优势、组织优势、制度优势、工作优势？首要的就是坚持和加强党中央集中统一领导。&lt;/p&gt;&lt;p&gt;　　制定和实施五年规划，党中央把方向、谋大局、作决策，坚持发扬民主、集思广益，“定了就抓落实”；&lt;/p&gt;&lt;p&gt;　　推动长江经济带发展，各地区各部门不折不扣贯彻落实党中央决策部署，共抓大保护、不搞大开发，“坚定不移走生态优先、绿色发展之路”。&lt;/p&gt;&lt;p&gt;　　党的领导是中国特色社会主义最本质的特征，是中国特色社会主义制度的最大优势。“坚持党的领导，首先是坚持党中央权威和集中统一领导，这是党的领导的最高原则”。&lt;/p&gt;&lt;p&gt;　　全会围绕严格贯彻执行民主集中制作出部署。我们要坚持和加强党中央集中统一领导，充分发扬党内民主，有效实行正确的集中，提高科学决策、民主决策、依法决策水平，确保党始终具有强大创造力凝聚力战斗力。&lt;/p&gt;&lt;p&gt;　　历经风雨而初心不改、目标笃定并勇毅前行，党团结带领亿万人民正以不可阻挡的步伐迈向伟大复兴。深入学习贯彻党的二十届五中全会精神，是当前和今后一个时期全党的重大政治任务。认真学习贯彻全会精神，坚持以习近平党建思想为指引，我们党必将始终步履坚定、朝气蓬勃，引领中国式现代化宏伟事业不断向前进。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报评论员&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——论学习贯彻党的二十届五中全会精神 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188615&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188615.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188615.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全面贯彻习近平党建思想 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188615.html#[01版：要闻] 全面贯彻习近平党建思想</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 李强主持召开国务院党组会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188616.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李强主持召开国务院党组会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神  丁薛祥出席 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月30日电  10月30日，国务院总理、党组书记李强主持召开国务院党组会议，学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神。&lt;/p&gt;&lt;p&gt;　　会议指出，党的二十届五中全会是在我国发展关键节点召开的一次历史性会议，充分体现了以习近平同志为核心的党中央强党强国的历史主动，彰显了把党的伟大自我革命进行到底的坚定决心和鲜明态度。习近平总书记在全会上所作的工作报告和重要讲话，总结了党的二十届四中全会以来党和国家各项事业取得的新成就，对贯彻落实全会精神、做好各方面工作提出了明确要求。全会审议通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，以习近平新时代中国特色社会主义思想为指导，全面贯彻习近平党建思想，总结新时代全面从严治党伟大成就和宝贵经验，分析当前和今后一个时期管党治党、兴党强党面临的形势和任务，明确了持之以恒推进全面从严治党的总体要求和主要任务，是持续推进新时代党的建设新的伟大工程的纲领性文件。国务院党组和国务院各部门要把学习贯彻全会精神作为当前和今后一个时期的重大政治任务，自觉把思想和行动统一到习近平总书记重要讲话精神和全会部署上来，以更高标准、更实举措抓好全面从严治党各项任务落实。&lt;/p&gt;&lt;p&gt;　　会议指出，要深入学习习近平党建思想，把全面从严治党要求贯彻到政府工作各方面全过程，坚持和加强党中央集中统一领导，完善党中央重大决策部署落实机制，加强跟踪督办和质效评估，坚定不移当好贯彻党中央决策部署的执行者、行动派、实干家。要以更加有力的管党治党举措为推动发展提供坚强保障，将落实全面从严治党要求与经济社会发展工作同谋划、同部署、同推进，驰而不息正风肃纪反腐，严格规范行政行为，激励干部增强本领、担当作为，营造良好发展环境。要履行好全面从严治党政治责任，严格执行管党治党责任制，通过建章立制、完善机制针对性防范风险、堵塞漏洞，切实把管党治党工作抓具体、抓深入，将管党治党成效转化为推动工作的强大力量。&lt;/p&gt;&lt;p&gt;　　丁薛祥、何立峰、张国清、刘国中、王小洪、吴政隆、谌贻琴出席。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神  丁薛祥出席 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188616&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188616.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188616.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李强主持召开国务院党组会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188616.html#[02版：要闻] 李强主持召开国务院党组会议</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 李强赵乐际分别会见德国总统施泰因迈尔</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188617.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李强赵乐际分别会见德国总统施泰因迈尔 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月30日电  10月30日上午，国务院总理李强在北京人民大会堂会见来华进行国事访问的德国总统施泰因迈尔。&lt;/p&gt;&lt;p&gt;　　李强表示，在双方共同努力下，中德合作蓬勃开展，为两国人民带来更多福祉。回顾中德关系发展历程，很重要的经验是双方坚持相互尊重、求同存异、聚焦合作、互利共赢。当前单边主义、保护主义甚嚣尘上，中德应当展现更多责任担当，坚定维护自由贸易、促进开放合作，推动两国全方位战略伙伴关系不断取得新的发展。习近平主席将同总统先生举行会晤，进一步规划中德关系发展。中方愿同德方加强战略沟通，巩固政治互信，提升合作质效，更好惠及两国人民，为世界注入更多稳定性和正能量。我们对中德合作共赢、共同发展充满信心。&lt;/p&gt;&lt;p&gt;　　李强指出，中方愿同德方用好两国政府磋商等对话机制，发挥各自优势，拓展汽车、化工、人工智能、数字、绿色等领域合作，迈向更高水平的互利共赢。双方应当继续共享市场机遇，中方愿进口德国更多优质产品，欢迎德国企业积极开拓中国市场。中方支持更多中国企业赴德投资，希望德方为企业提供公平、稳定、可预期的营商环境。中方愿同德方扩大双向人员往来，深化文化、教育、青年、体育、地方等领域交流，夯实两国友好合作民意基础。德国是欧盟重要成员，希望德方为中欧关系发展发挥建设性作用。&lt;/p&gt;&lt;p&gt;　　施泰因迈尔表示，中国经济社会发展和技术进步日新月异、令人赞叹。德中长期保持良好伙伴关系，两国经贸合作是成功和互利的。德中企业合作不仅惠及两国，也对世界至关重要。德方致力于本着尊重、信任、互利精神深化对华合作，支持两国企业相互学习借鉴，实现共同成功，同时坚持通过对话妥善化解分歧。&lt;/p&gt;&lt;p&gt;　　吴政隆参加会见。&lt;/p&gt;&lt;p&gt;　　新华社北京10月30日电  全国人大常委会委员长赵乐际10月30日上午在北京会见德国总统施泰因迈尔。&lt;/p&gt;&lt;p&gt;　　赵乐际表示，中德始终坚持互尊互信、求同存异、互利合作，双边关系成熟而富有韧性。中方愿同德方一道，落实好两国元首重要共识，共享发展机遇，共促开放合作，共守和平安宁，不断丰富中德全方位战略伙伴关系内涵。中国全国人大愿同德国议会加强交流交往，为务实合作提供法律保障。欢迎德国议会和欧洲议会的议员多来中国参访，了解真实立体、发展进步的中国。&lt;/p&gt;&lt;p&gt;　　施泰因迈尔表示，德中关系充满活力，合作领域广泛丰富。面对新的形势，双方应加强对话，深化合作，妥处分歧，实现共赢。希望两国立法机构进一步加强交流交往。&lt;/p&gt;&lt;p&gt;　　张庆伟参加会见。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188617&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188617.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188617.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李强赵乐际分别会见德国总统施泰因迈尔 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188617.html#[02版：要闻] 李强赵乐际分别会见德国总统施泰因迈尔</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 全国人大常委会党组举行会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188618.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人大常委会党组举行会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神  赵乐际主持并讲话 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月30日电  中共全国人大常委会党组30日举行会议，传达学习习近平总书记在党的二十届五中全会上的重要讲话和全会精神，结合人大工作实际研究贯彻落实措施。中共中央政治局常委、全国人大常委会委员长、党组书记赵乐际主持会议并讲话。&lt;/p&gt;&lt;p&gt;　　会议认为，党的二十届五中全会是在中国共产党成立105周年的重要节点、中华民族伟大复兴的关键时期、“十五五”开局之年召开的一次重要会议。全会充分肯定党的二十届四中全会以来中央政治局的工作，党和国家事业取得新进展新成效，进一步彰显了“两个确立”的决定性意义，增强了做到“两个维护”的思想自觉、政治自觉、行动自觉。全会审议通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，深入贯彻习近平党建思想，全面总结新时代全面从严治党的成就和经验，深入分析党的建设面临的形势和任务，对当前和今后一个时期管党治党、兴党强党作出战略部署，是推进新时代党的建设新的伟大工程的纲领性文件。习近平总书记的重要讲话深刻阐明为什么持之以恒推进全面从严治党、怎样持之以恒推进全面从严治党的重大问题，对把握重点部署、抓好贯彻落实提出明确要求，为学习贯彻全会精神、深入推进新时代党的建设新的伟大工程提供了根本遵循。&lt;/p&gt;&lt;p&gt;　　会议强调，全国人大常委会党组、各专门委员会分党组、机关党组要自觉把思想和行动统一到全会精神上来，认真研究贯彻举措，把全会部署落实到位。要把深入学习贯彻习近平党建思想贯穿始终，系统学习领悟习近平党建思想的核心要义、丰富内涵、实践要求，把自己摆进去、把职责摆进去、把工作摆进去，深化实践运用，增强学习实效。要深入查摆人大党的建设和工作中存在的问题，结合巡视整改、党内集中教育整改等工作，推动问题有效解决、制度健全完善。要严格落实主体责任，把组织建强、把队伍管好，党组同志要严于律己、严负其责、严管所辖。&lt;/p&gt;&lt;p&gt;　　会议指出，要以高质量党建引领人大工作高质量发展。坚持党对人大工作的全面领导，通过依法履职贯彻党的主张、完成党的任务。坚持依法治国和依规治党有机统一，做好制定反跨境腐败法等相关立法工作。坚持以党内监督为主导，促进人大监督同其他各方面监督深度融合，形成合力。加强对人大代表的思想政治引领和纪律作风建设，支持代表依法有序规范履职。&lt;/p&gt;&lt;p&gt;　　中共中央政治局委员、全国人大常委会党组副书记李鸿忠，全国人大常委会党组成员王东明、肖捷、铁凝、彭清华、张庆伟、洛桑江村、雪克来提·扎克尔、刘奇出席。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神  赵乐际主持并讲话 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188618&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188618.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188618.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人大常委会党组举行会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188618.html#[02版：要闻] 全国人大常委会党组举行会议</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 中共全国政协党组召开会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188619.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中共全国政协党组召开会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 传达学习贯彻党的二十届五中全会精神  王沪宁主持并讲话 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月30日电  中共全国政协党组30日召开会议，传达学习贯彻党的二十届五中全会精神。中共中央政治局常委、全国政协主席、党组书记王沪宁主持并讲话。&lt;/p&gt;&lt;p&gt;　　会议认为，党的二十届五中全会是在基本实现社会主义现代化的关键时期召开的一次十分重要的会议。习近平总书记在全会上的重要讲话和全会通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，深刻总结新时代全面从严治党取得的伟大成就，深刻分析当前和今后一个时期党的建设面临的形势和任务，对持之以恒推进全面从严治党作出战略部署，充分体现了以习近平同志为核心的党中央管党治党、兴党强党的巨大政治勇气和强烈责任担当，对于巩固党的长期执政地位、实现党的使命任务具有重大现实意义和长远指导意义。&lt;/p&gt;&lt;p&gt;　　会议认为，党的二十届四中全会以来，以习近平同志为核心的党中央团结带领全党全国各族人民锐意进取、奋勇拼搏，实现“十四五”圆满收官、“十五五”开局良好，党和国家事业取得新进展新成效。党的十八大以来，以习近平同志为核心的党中央坚定不移全面从严治党，开辟了百年大党自我革命新境界，推动党和国家事业取得历史性成就、发生历史性变革，党和人民赢得强党强国的历史主动。要深刻领悟“两个确立”的决定性意义、坚决做到“两个维护”，切实把思想和行动统一到全会精神上来。&lt;/p&gt;&lt;p&gt;　　会议强调，习近平党建思想是习近平新时代中国特色社会主义思想的重要组成部分，为深入推进新时代党的建设新的伟大工程提供了根本遵循和行动指南。全国政协各级党组织要把深入学习贯彻党的二十届五中全会精神作为重大政治任务，学深悟透习近平党建思想，学深悟透习近平总书记重要讲话精神和《决定》部署要求，在全国政协兴起学习宣传贯彻全会精神的热潮。要坚持以党的政治建设为统领全面推进政协党的各方面建设，坚持不懈用党的创新理论凝心铸魂，增强共产党人的党性，严格贯彻执行民主集中制，强化党组织政治功能和组织功能，锲而不舍落实中央八项规定精神，推进作风建设常态化长效化，巩固拓展树立和践行正确政绩观学习教育成果，牢牢扭住管党治党责任制“牛鼻子”，把持之以恒推进全面从严治党的要求落到实处。&lt;/p&gt;&lt;p&gt;　　会议审议通过《中共政协全国委员会党组关于深入学习宣传贯彻党的二十届五中全会精神的工作方案》。&lt;/p&gt;&lt;p&gt;　　全国政协党组副书记石泰峰、胡春华，党组成员沈跃跃、王勇、周强、巴特尔、穆虹、咸辉、王东峰、姜信治出席会议并发言。全国政协机关党组成员、各专门委员会分党组负责同志参加。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 传达学习贯彻党的二十届五中全会精神  王沪宁主持并讲话 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188619&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188619.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188619.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中共全国政协党组召开会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188619.html#[02版：要闻] 中共全国政协党组召开会议</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 李希主持召开中央纪委常委会会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188620.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李希主持召开中央纪委常委会会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 传达学习贯彻党的二十届五中全会精神 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月30日电  二十届中央纪委常委会10月30日召开会议，传达学习贯彻党的二十届五中全会精神，中共中央政治局常委、中央纪委书记李希主持会议。他强调，纪检监察机关要认真学习贯彻五中全会精神，深入学习贯彻习近平党建思想，深刻领悟“两个确立”的决定性意义、坚决做到“两个维护”，切实把思想和行动统一到党中央决策部署上来，以更高标准、更实举措推动纪检监察工作高质量发展，持之以恒推进全面从严治党，为以中国式现代化全面推进强国建设、民族复兴伟业提供坚强保障。&lt;/p&gt;&lt;p&gt;　　李希指出，党的二十届四中全会以来，面对错综复杂的国际国内形势，以习近平同志为核心的党中央团结带领全党全国各族人民，锐意进取、奋力拼搏，推动“十四五”圆满收官，“十五五”开局良好，党和国家事业取得新进展新成效。这些成绩的取得，根本在于习近平总书记领航掌舵，在于习近平新时代中国特色社会主义思想科学指引。纪检监察机关要更加紧密地团结在以习近平同志为核心的党中央周围，统一思想、统一意志、统一行动，坚定不移沿着习近平总书记指引的方向奋勇前进。&lt;/p&gt;&lt;p&gt;　　李希强调，全会通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，是持续推进新时代党的建设新的伟大工程的纲领性文件。纪检监察机关要完整、准确、全面学习领会《决定》精神，深刻把握新时代全面从严治党的伟大成就，深刻把握持之以恒推进全面从严治党的重大意义、总体要求、战略部署，切实增强做好工作的责任感使命感。要深刻把握习近平党建思想的精髓要义和实践要求，把握贯穿其中的立场观点方法，自觉用以统领纪检监察一切工作。&lt;/p&gt;&lt;p&gt;　　李希强调，纪检监察机关作为推进全面从严治党的重要力量，要在学习贯彻全会精神上走在前列，加强组织领导，细化目标任务，明确责任分工，持续跟踪问效，以钉钉子精神把全会各项部署落实到位。要持之以恒强化政治监督，保障党中央重大决策部署落实；持之以恒落实中央八项规定精神，推进作风建设常态化长效化；持之以恒严明党的纪律规矩，综合发挥纪律教育约束、保障激励作用；持之以恒一体推进不敢腐不能腐不想腐，不断铲除腐败滋生的土壤和条件，坚定走好中国特色反腐败之路；持之以恒推进纪检监察工作规范化法治化正规化建设，打造“四个过硬”的纪检监察铁军。&lt;/p&gt;&lt;p&gt;　　中共中央书记处书记、中央纪委副书记刘金国出席会议。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 传达学习贯彻党的二十届五中全会精神 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188620&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188620.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188620.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李希主持召开中央纪委常委会会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188620.html#[02版：要闻] 李希主持召开中央纪委常委会会议</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 全国人大常委会法工委通报拟审议的法律草案情况</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188621.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人大常委会法工委通报拟审议的法律草案情况 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 将审议检察公益诉讼法草案、反跨境腐败法草案等 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  魏哲哲&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　10月30日，全国人大常委会法制工作委员会举行记者会，发言人黄海华介绍十四届全国人大常委会第二十五次会议拟审议法律草案主要情况，并回答记者提问。&lt;/p&gt;&lt;p&gt;　　十四届全国人大常委会第二十五次会议将审议检察公益诉讼法草案、南极活动与环境保护法草案、水法修订草案、反跨境腐败法草案、国有资产法草案、金融法草案；审议全国人大常委会委员长会议关于提请审议刑事诉讼法修正草案的议案；审议全国人大环境与资源保护委员会关于提请审议可再生能源法修订草案的议案；审议国务院关于提请审议税收征收管理法修订草案的议案、关于提请审议突发事件应对法等15部法律的修正案草案的议案。&lt;/p&gt;&lt;p&gt;　　黄海华介绍，检察公益诉讼法草案三次审议稿拟完善检察公益诉讼案件领域；完善管辖和审判程序，与有关诉讼法做好衔接；优化民事公益诉讼诉前程序；充实对检察公益诉讼工作进行监督的规定。&lt;/p&gt;&lt;p&gt;　　国家南极考察活动对于更好认识南极、保护南极、利用南极具有重要意义。黄海华说，为了进一步加强对国家南极考察活动的管理和规范，南极活动与环境保护法草案作出以下规定：一是在总则中明确国家建立健全南极考察制度。二是明确国务院海洋主管部门负责制定国家南极考察规划和年度计划，组织开展国家南极考察活动。三是加强国家南极考察站等基础设施建设，提升南极活动和安全保障能力。四是规定旅游者在南极旅游活动中访问国家南极考察站及其设施的，应当遵守国务院海洋主管部门的有关规定，不得干扰国家南极考察活动，并规定了相应法律责任。&lt;/p&gt;&lt;p&gt;　　水法修订草案将推动节约用水和水资源循环利用作为修法重点：一是明确国家坚持和落实节水优先方针，实施国家节水行动，强化农业、工业、城镇节水，建立激励约束机制，全面建设节水型社会。二是明确国家建立完善与经济社会发展水平、水资源状况、供水成本、用水户承受能力和节水要求等相适应的水价形成机制，促进水资源节约集约利用。三是增加规定将集蓄雨水、海水及海水淡化水、矿井（坑）水、微咸水等非常规水纳入水资源统一配置。四是要求县级以上地方人民政府应当采取措施，鼓励使用符合标准要求的再生水，城市绿化等用水应当优先使用再生水。&lt;/p&gt;&lt;p&gt;　　黄海华介绍，关于反跨境腐败法草案二次审议稿，拟作以下主要修改：一是充实反跨境腐败工作的原则，明确反跨境腐败工作应当“坚持总体国家安全观”“严格依照宪法和法律，遵守法定程序，尊重和保障人权”。二是增加规定加强对国家秘密、工作秘密、商业秘密、个人信息和个人隐私的保护。三是明确从事跨境经营业务的境内企业应当根据企业规模、业务范围、风险防控等因素，合理设置廉洁合规管理部门或者人员。&lt;/p&gt;&lt;p&gt;　　国有资产法草案二次审议稿拟明确国有资产管理和监督工作坚持统筹发展和安全，保障国有经济的巩固和发展；完善境外国有资产管理相关规定；完善中央和地方、政府和授权部门履行国有资产所有者职责相关规定；完善国有自然资源资产有偿使用、合理配置相关规定；完善国有资产基础管理相关规定；进一步充实国有资产收益管理相关规定。&lt;/p&gt;&lt;p&gt;　　金融法草案二次审议稿拟充实金融消费者、投资者权益保护的相关制度；加强对资产管理产品和服务的统一规范；增加对互联网营销等活动的针对性规定；加强跨境金融活动监管。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  魏哲哲&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 将审议检察公益诉讼法草案、反跨境腐败法草案等 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188621&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188621.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188621.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人大常委会法工委通报拟审议的法律草案情况 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188621.html#[02版：要闻] 全国人大常委会法工委通报拟审议的法律草案情况</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 国务院任免国家工作人员</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188623.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 国务院任免国家工作人员 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月30日电  国务院任免国家工作人员。&lt;/p&gt;&lt;p&gt;　　任命王守利为国家民族事务委员会副主任；任命张力为中华人民共和国国际贸易谈判副代表（副部长级）；任命冯鹏志为国家行政学院教育长（副部长级）。&lt;/p&gt;&lt;p&gt;　　免去李忠的人力资源和社会保障部副部长职务；免去秦海翔的住房和城乡建设部副部长职务；免去张力的商务部部长助理职务；免去陈荣辉的国家数据局副局长职务。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188623&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188623.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188623.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 国务院任免国家工作人员 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188623.html#[02版：要闻] 国务院任免国家工作人员</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 谢卫江任湖南省代省长</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188624.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 谢卫江任湖南省代省长 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社长沙10月30日电  湖南省第十四届人民代表大会常务委员会第二十六次会议10月30日决定：接受沈晓明辞去湖南省人大常委会主任职务的请求，接受毛伟明辞去湖南省人民政府省长职务的请求，任命谢卫江为湖南省人民政府副省长、代理省长。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188624&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188624.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188624.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 谢卫江任湖南省代省长 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188624.html#[02版：要闻] 谢卫江任湖南省代省长</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 诸葛宇杰任青海省代省长</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188625.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 诸葛宇杰任青海省代省长 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社西宁10月30日电  青海省第十四届人民代表大会常务委员会第二十五次会议10月30日决定：接受罗东川辞去青海省人民政府省长职务的请求，任命诸葛宇杰为青海省人民政府副省长、代理省长。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188625&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188625.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188625.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 诸葛宇杰任青海省代省长 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188625.html#[02版：要闻] 诸葛宇杰任青海省代省长</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 一版责编：杨  旭  栾心怡  赵川博  二版责编：林  琳  祁嘉润  郭雪岩  三版责编：袁振喜  刘静文  张雪妍  四版责编：韩晓明  姜  波  关皓宇</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188626.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：杨  旭  栾心怡  赵川博  二版责编：林  琳  祁嘉润  郭雪岩  三版责编：袁振喜  刘静文  张雪妍  四版责编：韩晓明  姜  波  关皓宇 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188626&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188626.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188626.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：杨  旭  栾心怡  赵川博  二版责编：林  琳  祁嘉润  郭雪岩  三版责编：袁振喜  刘静文  张雪妍  四版责编：韩晓明  姜  波  关皓宇 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188626.html#[02版：要闻] 一版责编：杨  旭  栾心怡  赵川博  二版责编：林  琳  祁嘉润  郭雪岩  三版责编：袁振喜  刘静文  张雪妍  四版责编：韩晓明  姜  波  关皓宇</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 以更高标准、更实举措把全面从严治党持之以恒抓下去</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188627.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 以更高标准、更实举措把全面从严治党持之以恒抓下去 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——中共中央举行新闻发布会解读党的二十届五中全会精神 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  孟祥夫&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　10月26日至29日，党的二十届五中全会在北京举行。这是在中国共产党成立105周年关键节点、中华民族伟大复兴关键时期召开的一次重要会议。全会审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》（以下简称《决定》），圆满完成各项议程。&lt;/p&gt;&lt;p&gt;　　10月30日，中共中央举行新闻发布会，介绍和解读党的二十届五中全会精神。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;全会最重要的成果，是审议通过了《决定》&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　我们党立志于中华民族千秋伟业，党的建设事关党的前途命运、党和国家事业兴衰成败。&lt;/p&gt;&lt;p&gt;　　“全会最重要的成果，是审议通过了《决定》。”中央政策研究室主任唐方裕说，《决定》起草工作是在党中央领导下进行的，习近平总书记担任文件起草组组长，亲自谋划、全程指导、把关定向，在文件起草中倾注了大量心血，发挥了决定性作用。文件起草充分发扬民主，广泛凝聚共识，集中全党智慧，充分体现了全党的共同意志和全国人民的共同期盼。&lt;/p&gt;&lt;p&gt;　　唐方裕说，“《决定》分为三大板块。第一板块是总论，阐述持之以恒推进全面从严治党的重要性紧迫性和总体要求。第二板块是分论，部署持之以恒推进全面从严治党的战略任务，包括增强共产党人的党性，严格贯彻执行民主集中制，锻造堪当民族复兴重任的高素质干部队伍，建设上下贯通、执行有力的严密组织体系，驰而不息正风肃纪，坚定不移一体推进不敢腐不能腐不想腐，坚持制度治党、依规治党等7个部分。第三板块对完善党和国家监督体系、落实全面从严治党政治责任两个方面作出部署。”&lt;/p&gt;&lt;p&gt;　　唐方裕介绍，全会主要传递了3个信号，“一是传递了我们党作为马克思主义执政党，对于坚持党的理想、性质、宗旨的鲜明态度和执着追求。二是传递了我们党以中国式现代化全面推进强国建设、民族复兴伟业的雄心壮志和担当精神。三是传递了我们党勇于直面矛盾和问题，以更高标准、更实举措把全面从严治党持之以恒抓下去的坚定信心和强大定力。”&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;《决定》是推进新时代党的建设新的伟大工程的纲领性文件&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　中国共产党人的坚强党性，是我们党保持先进性和纯洁性、提高领导水平和执政能力的重要保证。&lt;/p&gt;&lt;p&gt;　　“《决定》把‘增强共产党人的党性’摆在战略任务部署的第一部分。”中央宣传部分管日常工作的副部长胡和平说，《决定》从5个方面作出具体部署：一是强化对党忠诚教育；二是坚持用党的创新理论凝心铸魂；三是用党的优良传统和中华优秀传统文化涵养党性；四是在实践中锤炼党性；五是加强党性鉴别。&lt;/p&gt;&lt;p&gt;　　民主集中制是党的根本组织原则和领导制度，对于维护党的集中统一、有效落实党中央重大决策部署、规范领导班子和领导干部履职用权具有重要保障作用。&lt;/p&gt;&lt;p&gt;　　胡和平介绍，《决定》把严格贯彻执行民主集中制作为全面从严治党的重要着力点，并从4个方面作出了具体部署：一是坚持和加强党中央集中统一领导；二是提高党内民主质量；三是严格执行领导班子决策议事规则；四是规范“一把手”履职用权。&lt;/p&gt;&lt;p&gt;　　党的各级组织和党员、干部是全面从严治党的主体，也是推动党和国家事业发展的关键力量。&lt;/p&gt;&lt;p&gt;　　中央组织部分管日常工作的副部长黄建发介绍，《决定》从6个方面对锻造堪当民族复兴重任的高素质干部队伍作出部署：一是坚持正确用人导向；二是精准科学选人用人；三是推动干部树立和践行正确政绩观；四是增强干部干事创业本领；五是提高培养选拔优秀年轻干部质量；六是加强干部管理监督。&lt;/p&gt;&lt;p&gt;　　党的力量来自组织。党的全面领导、党的全部工作要靠党的坚强组织体系去实现。&lt;/p&gt;&lt;p&gt;　　“《决定》指出：必须体系化推进各层级各领域党组织建设，强化党组织政治功能和组织功能，确保贯彻落实党的路线方针政策和党中央决策部署上下协同、精准高效。”黄建发介绍，《决定》从6个方面作出部署：一是发挥中央和国家机关党组织表率作用；二是强化地方党委功能；三是统筹推进各领域基层党组织建设；四是突出抓好新兴领域党的建设；五是加强党员队伍建设；六是完善党的各级组织贯通机制。&lt;/p&gt;&lt;p&gt;　　作风问题具有顽固性、反复性，正风肃纪必须锲而不舍、久久为功。&lt;/p&gt;&lt;p&gt;　　“《决定》提出，坚持党性党风党纪一起抓、正风肃纪反腐相贯通。”中央纪委副书记、国家监委副主任张福海说，《决定》从5个方面作出部署：一是走好新时代党的群众路线；二是锲而不舍落实中央八项规定精神；三是推进作风建设常态化长效化；四是强化从严执纪；五是综合发挥纪律教育约束、保障激励作用。&lt;/p&gt;&lt;p&gt;　　当前，反腐败斗争形势仍然严峻复杂，铲除腐败滋生土壤和条件任务仍然艰巨繁重。&lt;/p&gt;&lt;p&gt;　　张福海介绍，《决定》强调坚定走好中国特色反腐败之路，从4个方面作出部署：一是保持惩治腐败高压态势；二是加强对权力运行的制约和监督；三是夯实崇廉拒腐思想根基；四是增强一体推进不敢腐不能腐不想腐综合效能。&lt;/p&gt;&lt;p&gt;　　“关于进一步完善党和国家监督体系，这是持之以恒推进全面从严治党的必然要求。”张福海说，《决定》相关部署主要有4个方面：一是做实党委（党组）全面监督；二是加强纪律监督、监察监督、派驻监督、巡视监督统筹衔接；三是健全基层监督体系；四是推动党内监督同各方面监督深度融合、高效联动，形成监督合力。&lt;/p&gt;&lt;p&gt;　　制度，管根本、管长远。加强党内法规制度建设是全面从严治党的长远之策、根本之策。&lt;/p&gt;&lt;p&gt;　　中央党校（国家行政学院）分管日常工作的副校长（副院长）谢春涛介绍，《决定》从3个方面对坚持制度治党、依规治党作出进一步部署：一是完善党内法规制度体系；二是增强制度执行力；三是大力破除潜规则。&lt;/p&gt;&lt;p&gt;　　谢春涛说，《决定》进一步明确了党委（党组）主体责任、纪委监督责任、党委（党组）书记第一责任人责任、领导班子其他成员“一岗双责”和党员、干部具体责任，健全各负其责、统一协调的责任体系。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;引导干部在遵规守纪中改革创新、干事创业&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“全面从严治党和鼓励担当作为是内在统一的，严并不是要把大家管死，而是要通过明方向、立规矩、正风气、强免疫，形成风清气正的党内政治生态，营造有利于干事创业的良好环境。”黄建发说，对于干部来讲，从严管理既是“紧箍咒”，也是“护身符”，是对干部真正负责。对腐败变质的干部进行严惩，也是对好干部的激励和保护。&lt;/p&gt;&lt;p&gt;　　黄建发介绍，《决定》对激励干部担当作为作出了重大部署：一是坚持正确用人导向；二是完善干部考核评价机制；三是落实关心关爱干部特别是基层干部各项政策；四是健全干部担当作为激励和保护机制。&lt;/p&gt;&lt;p&gt;　　“《决定》强调，要严肃查处诬告陷害行为，及时开展澄清正名工作，就是要真正为担当者担当、为负责者负责、为干事者撑腰，让愿担当、敢担当、善担当蔚然成风。”黄建发说。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;注重思想建党、理论强党是新时代管党治党、兴党强党的鲜明特色&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“新时代党的思想建设最具标志性、引领性、开拓性的成就，就是创立习近平新时代中国特色社会主义思想，实现马克思主义中国化时代化新的飞跃。”胡和平表示，“我们高扬思想旗帜，全面加强党的创新理论武装，持续开展学习教育、宣传宣讲和研究阐释，推动党的创新理论日益深入人心。”&lt;/p&gt;&lt;p&gt;　　《决定》从学习教育、研究阐释、实践运用等方面提出了用党的创新理论凝心铸魂的各项重点任务。胡和平表示，将认真贯彻落实《决定》要求，丰富理论学习教育方式，深化体系化学理化研究阐释，坚持理论联系实际，推动全党更好地用习近平新时代中国特色社会主义思想统一思想、统一意志、统一行动。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  孟祥夫&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——中共中央举行新闻发布会解读党的二十届五中全会精神 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188627&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188627.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188627.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 以更高标准、更实举措把全面从严治党持之以恒抓下去 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188627.html#[03版：要闻] 以更高标准、更实举措把全面从严治党持之以恒抓下去</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 坚定信心、保持定力持之以恒推进全面从严治党（学习贯彻党的二十届五中全会精神）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188628.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 坚定信心、保持定力持之以恒推进全面从严治党（学习贯彻党的二十届五中全会精神） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——与会同志谈贯彻落实党的二十届五中全会精神 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  孟祥夫  王  嵘  何昭宇&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　10月26日至29日，党的二十届五中全会在北京举行，审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》（以下简称《决定》）。会议期间，部分与会同志接受了记者采访。大家一致表示，在中国共产党成立105周年关键节点、中华民族伟大复兴关键时期，全会就持之以恒推进全面从严治党作出的《决定》，是以习近平同志为核心的党中央着眼于提高党的长期执政能力、保持党的先进性和纯洁性、保持党同人民群众的血肉联系，高瞻远瞩作出的战略部署，充分彰显了党中央强党强国的历史主动，对于加强党的建设具有重大里程碑意义。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，以习近平同志为核心的党中央以巨大的政治勇气和强烈的责任担当，推动新时代党的建设新的伟大工程向纵深发展，不断开辟百年大党管党治党、兴党强党新境界。与会同志表示，新时代全面从严治党取得历史性、开创性成就，根本在于以习近平同志为核心的党中央领航掌舵，在于习近平新时代中国特色社会主义思想科学指引。&lt;/p&gt;&lt;p&gt;　　“新时代治国理政、管党治党、兴党强党的非凡历程波澜壮阔、无比恢宏，伟大成就殊为不易、举世瞩目，充分彰显了习近平新时代中国特色社会主义思想的真理光芒和实践伟力，彰显了习近平总书记的英明伟大和党中央的坚强领导，彰显了‘两个确立’的决定性意义。”中央委员、黑龙江省委书记许勤表示。&lt;/p&gt;&lt;p&gt;　　“新时代以来，习近平总书记举旗定向、力挽狂澜，以空前力度推进全面从严治党，清除了多年未除的歪风邪气、顽瘴痼疾。可以说，没有全面从严治党，就没有今天的良好政治局面。”中央委员、江西省委书记尹弘说，管党治党不断深化，续写了经济快速发展和社会长期稳定两大奇迹，展现出中国共产党之治、中国之治的新气象。&lt;/p&gt;&lt;p&gt;　　中央委员、内蒙古自治区党委书记王伟中说：“打赢脱贫攻坚战，全面建成小康社会；深入践行绿水青山就是金山银山理念，生态环境保护发生历史性、转折性、全局性变化……在以习近平同志为核心的党中央坚强领导下，党和国家事业取得历史性成就、发生历史性变革，人民群众享有越来越多的获得感、幸福感、安全感。”&lt;/p&gt;&lt;p&gt;　　“新时代以来，党中央和中央军委以巨大政治勇气和强烈历史担当，刀刃向内，全面从严治党、全面从严治军，人民军队在整训锻造中浴火重生，赢得了强军兴军的历史主动。全会审议通过的《决定》，以习近平党建思想为指导，彰显了保持党的先进性和纯洁性、将自我革命进行到底的坚定决心意志，凝聚了党心军心民心。”列席代表、空军司令员王刚说。&lt;/p&gt;&lt;p&gt;　　办好中国的事情，关键在党，关键在党要管党、全面从严治党。与会同志表示，走好新时代的长征路，必须坚持严的基调、严的措施、严的氛围一贯到底，必须持之以恒推进全面从严治党。&lt;/p&gt;&lt;p&gt;　　“全会审议通过的《决定》，通篇贯穿习近平党建思想这一‘纲’和‘魂’，是持续推进新时代党的建设新的伟大工程的纲领性文件。”中央委员、中央社会工作部部长吴汉圣说，全会作出的战略部署，对于更好发挥全面从严治党政治引领和政治保障作用，以中国式现代化全面推进强国建设、民族复兴伟业，具有重大而深远的意义。&lt;/p&gt;&lt;p&gt;　　“管党治党越有效，经济社会发展的保障就越有力。全会专题研究持之以恒推进全面从严治党若干重大问题，充分彰显了习近平总书记作为大党大国领袖高超的政治智慧、深远的战略考量、强烈的历史担当和深厚的为民情怀。”中央委员，住房城乡建设部党组书记、部长倪虹说，这次会议的召开，必将为推动高质量发展、推进中国式现代化提供坚强政治保证。&lt;/p&gt;&lt;p&gt;　　“在我们党成立105周年、‘十五五’开局之年的重要节点，全会就持之以恒推进全面从严治党作出系统部署，十分重要，也十分必要。”列席代表、江苏连云港市赣榆区柘汪镇西棘荡村党委书记钟佰均说，“全面从严治党，既要查大案要案，也要管好基层小微权力。现在村里搞产业上项目，管理集体‘三资’，风险也跟着来了，这就要求持续推进全面从严治党向基层延伸。”&lt;/p&gt;&lt;p&gt;　　一分部署，九分落实。深入学习贯彻全会精神是当前和今后一个时期全党的重大政治任务。与会同志表示，将认真学习贯彻习近平党建思想，全面落实总书记重要讲话和党的二十届五中全会精神，切实扛起管党治党政治责任，持续推动高质量发展、推动党和国家事业行稳致远。&lt;/p&gt;&lt;p&gt;　　“《决定》强调，‘突出抓好新兴领域党的建设’。这一部署体现了鲜明的时代性和现实针对性。”吴汉圣说，中央社会工作部将突出抓好新经济组织、新社会组织、新就业群体党的建设，抓好党建引领基层治理和基层政权建设，抓好凝聚服务群众工作，以高质量社会工作助力谱写强党强国新篇章。&lt;/p&gt;&lt;p&gt;　　“我们将持之以恒推进全面从严治党，牢固树立和践行正确政绩观，践行人民城市理念，多出惠民之策，多做民生实事，高质量推进城市更新和乡村人居环境改善，一体推进好房子、好小区、好社区、好城区‘四好’建设，让人民群众的获得感更实更足。”倪虹说。&lt;/p&gt;&lt;p&gt;　　“江西将坚持用习近平党建思想谋划和推进党的建设，持续加强党的政治建设，强化党的创新理论武装，把红色文化教育与对党忠诚教育、党性锤炼紧密融合起来，严肃党内政治生活，不断提升党员干部党性修养，让革命老区对党忠诚的红色基因代代相传。”尹弘表示。&lt;/p&gt;&lt;p&gt;　　“我们要坚决落实党中央重大决策部署，牢记‘三个务必’，深化能力作风建设，持之以恒正风肃纪反腐，营造良好政治生态，加快建设勤廉龙江，奋力实现全面振兴全方位振兴，谱写中国式现代化黑龙江新篇章，为强国建设、民族复兴伟业贡献力量。”许勤说。&lt;/p&gt;&lt;p&gt;　　“内蒙古将深入学习贯彻党的二十届五中全会精神，持之以恒推进全面从严治党，在建设‘两个屏障’‘两个基地’‘一个桥头堡’上展现新作为，在推进中华民族共同体建设、边疆民族地区共同富裕上书写新篇章。”王伟中说。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  孟祥夫  王  嵘  何昭宇&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——与会同志谈贯彻落实党的二十届五中全会精神 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188628&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188628.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188628.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 坚定信心、保持定力持之以恒推进全面从严治党（学习贯彻党的二十届五中全会精神） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188628.html#[03版：要闻] 坚定信心、保持定力持之以恒推进全面从严治党（学习贯彻党的二十届五中全会精神）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “推进新时代党的建设新的伟大工程的纲领性文件”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188629.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “推进新时代党的建设新的伟大工程的纲领性文件” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——党的二十届五中全会侧记 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  孙  振  杜尚泽  新华社记者  张晓松  朱基钗&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“办好中国的事情，关键在党、关键在全面从严治党。”&lt;/p&gt;&lt;p&gt;　　一个立志于中华民族千秋伟业，坚持为中国人民谋幸福、为中华民族谋复兴的党，从未停下加强自身建设的坚实步履。&lt;/p&gt;&lt;p&gt;　　10月26日至29日，党的二十届五中全会在京举行，重点研究持之以恒推进全面从严治党问题。&lt;/p&gt;&lt;p&gt;　　全会听取和讨论了习近平总书记受中央政治局委托所作的工作报告，审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》。总书记就《决定（讨论稿）》向全会作了说明。&lt;/p&gt;&lt;p&gt;　　说明开篇即阐释定下这一主题的考虑，“这是党中央把握党和国家事业发展历史方位、着眼中国式现代化全局，审时度势、通盘考虑作出的重大决策”。&lt;/p&gt;&lt;p&gt;　　一份“推进新时代党的建设新的伟大工程的纲领性文件”出炉，之于中国式现代化新征程的分量，千钧重。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“党和人民赢得强党强国的历史主动”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“十四五”圆满收官，“十五五”开局良好。党的二十届四中全会以来，改革发展稳定、内政外交国防，成绩单沉甸甸的。&lt;/p&gt;&lt;p&gt;　　习近平总书记受中央政治局委托作工作报告，既有理论的创新，也有实践的纵深。&lt;/p&gt;&lt;p&gt;　　讨论中，与会同志结合各自领域的工作，谈感悟、讲信心。从习近平党建思想的科学指引，到新时代管党治党、兴党强党取得伟大成就；从开展树立和践行正确政绩观学习教育，到隆重庆祝中国共产党成立105周年；从新时代中国特色社会主义事业开创崭新局面，到“两个确立”这一新时代取得的重大政治成果，他们将报告同《决定》稿关联起来去讨论思考。&lt;/p&gt;&lt;p&gt;　　全会一致认为，新时代全面从严治党取得伟大成就，“从根本上扭转了管党治党宽松软状况，刹住了一些长期没有刹住的歪风，纠治了一些多年未除的顽瘴痼疾，消除了党、国家、军队内部存在的严重隐患，党在革命性锻造中更加坚强有力”。&lt;/p&gt;&lt;p&gt;　　“新时代全面从严治党开辟了百年大党自我革命新境界，推动党和国家事业取得历史性成就、发生历史性变革，党和人民赢得强党强国的历史主动。”&lt;/p&gt;&lt;p&gt;　　历史主动从何而来？&lt;/p&gt;&lt;p&gt;　　全会通过的《决定》提出持之以恒推进全面从严治党的7条原则：坚持服务使命任务，坚持以党的政治建设为统领，坚持全面从严，坚持问题导向，坚持守正创新，坚持以上率下，坚持依规治党。《决定》指出：“这些原则是新时代全面从严治党经验的科学总结，必须长期坚持并不断丰富发展。”&lt;/p&gt;&lt;p&gt;　　习近平总书记深刻指出，“服从服务于党和国家事业发展，历来是党的建设的重要原则”“《决定》稿起草坚持不忘初心、牢记使命”。&lt;/p&gt;&lt;p&gt;　　为人民而生、因人民而兴。红船启航之时的千钧一诺，融入管党治党的百年征程，写入《决定》的字里行间，开始引领坚定前行的又一程。&lt;/p&gt;&lt;p&gt;　　《决定》“第一板块为第一部分，是总论”“阐述持之以恒推进全面从严治党的重要性紧迫性和总体要求”，回顾光辉历程、总结伟大成就、分析形势任务、提出指导思想、阐明遵循原则，凝练深刻、衔接有序。&lt;/p&gt;&lt;p&gt;　　其中，有历史的昭示、有理论的升华、有实践的凝萃。&lt;/p&gt;&lt;p&gt;　　新时代新征程上，习近平总书记多次思索如何继续回答好延安“窑洞之问”。而此次，结合党的百年历程，《决定》深刻阐释：找到“让人民来监督政府”和“自我革命”两个跳出治乱兴衰历史周期率的答案，这是中国共产党的独特创造，永载马克思主义政党建设史册。&lt;/p&gt;&lt;p&gt;　　分组讨论时，与会同志热议为何要“持之以恒”，一致认为，总书记在说明中关于“三个必然要求”的重大论断，如黄钟大吕：&lt;/p&gt;&lt;p&gt;　　“这是保持党的先进性和纯洁性、巩固党的长期执政地位的必然要求”；&lt;/p&gt;&lt;p&gt;　　“这是巩固和发展全党高度团结统一、党心军心民心高度凝聚良好政治局面的必然要求”；&lt;/p&gt;&lt;p&gt;　　“这是完成党的历史使命、推动党和国家事业行稳致远的必然要求”。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，习近平总书记以“虽千万人，吾往矣”的巨大政治勇气、以“得罪千百人，不负十四亿”的强烈使命担当，把全面从严治党作为党的长期战略、永恒课题，一步不退，一抓到底。&lt;/p&gt;&lt;p&gt;　　起草过程中，总书记亲自担任起草组组长，部署广泛征求各方意见，3次主持召开中央政治局常委会、2次主持召开中央政治局会议，对《决定》稿进行审议、修改。&lt;/p&gt;&lt;p&gt;　　为期4天的全会，围绕《决定》稿安排了多场分组讨论。中央领导同志深入各小组听取意见建议，不时和大家交流探讨。与会同志踊跃发言，有一份共鸣持久激荡：“新时代管党治党、兴党强党取得伟大成就，中国特色社会主义事业开创崭新局面，根本在于以习近平同志为核心的党中央领航掌舵，在于习近平新时代中国特色社会主义思想科学指引。”&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“增强党性是全面从严治党的根本性任务”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“党性是党员干部立身、立业、立言、立德的基石。”&lt;/p&gt;&lt;p&gt;　　《决定》对增强共产党人的党性作出专章部署，并且放在持之以恒推进全面从严治党7项战略任务和重大举措的第一条，体现了对马克思主义执政党建设规律的深刻认识和把握，进一步丰富和发展了习近平党建思想。&lt;/p&gt;&lt;p&gt;　　“增强共产党人的党性”“严格贯彻执行民主集中制”“锻造堪当民族复兴重任的高素质干部队伍”“建设上下贯通、执行有力的严密组织体系”“驰而不息正风肃纪”“坚定不移一体推进不敢腐不能腐不想腐”“坚持制度治党、依规治党”，全面从严治党的这7项战略任务和重大举措，架起“持之以恒推进”的四梁八柱，锚定的是“切实增强管党治党整体效能”。&lt;/p&gt;&lt;p&gt;　　今天的全面从严治党，早不是单点发力，而是坚持以党的政治建设为统领，注重党的各方面建设协同发力、各项政策措施衔接配套，注重以上率下、点面结合、标本兼治，注重形成上下贯通、条块结合、齐抓共管的工作格局。&lt;/p&gt;&lt;p&gt;　　“持之以恒推进全面从严治党是一项系统工程，必须把党的政治建设、思想建设、组织建设、作风建设、纪律建设和制度建设、反腐败斗争等作为一个有机整体来谋划和推进，着力健全全面从严治党体系。”习近平总书记强调。&lt;/p&gt;&lt;p&gt;　　着力增强共产党人的党性，这是一件迫在眉睫的现实课题。&lt;/p&gt;&lt;p&gt;　　习近平总书记曾经指出：“现在干部出问题，主要是出在‘德’上、出在党性薄弱上。”《决定》指出“少数党员、干部包括高级干部党性不强，理想信念动摇甚至缺失，群众感情淡薄，政绩观出现偏差……”&lt;/p&gt;&lt;p&gt;　　“把加强党性修养作为终身课题”，全会提出党员、干部必须在六个方面下功夫：坚定理想信念、铸牢对党忠诚、厚植为民情怀、坚持实事求是、纯正道德品质、保持清正廉洁。&lt;/p&gt;&lt;p&gt;　　锤炼党性，对党员、干部来说，首要的是坚持用习近平新时代中国特色社会主义思想凝心铸魂，做到学思用贯通、知信行统一，要“在实践中锤炼党性”，堪当民族复兴重任，做中国式现代化建设的坚定行动派、实干家。&lt;/p&gt;&lt;p&gt;　　“在实践中锤炼党性”，从地方到中央，习近平总书记率先垂范。“我将无我，不负人民”见格局，“把泪焦桐成雨”映情怀，“作风建设永远在路上，永远没有休止符”展决心……这些话语深刻诠释：“党性和人民性从来都是一致的、统一的。”&lt;/p&gt;&lt;p&gt;　　与会同志一致认为，要进一步坚定对马克思主义的信仰、对共产主义的信念、对中国特色社会主义的信心，做到“虔诚而执着、至信而深厚”。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，着眼于“把党建设好、建设强”，将加强党性修养作为新时代党的建设新的伟大工程的重要内容，不断赋予习近平党建思想以新的时代意蕴。&lt;/p&gt;&lt;p&gt;　　党的二十大，把“坚持党性党风党纪一起抓”“提高党性觉悟”纳入全面从严治党战略部署；这次全会，又提出新举措，“用党的优良传统和中华优秀传统文化涵养党性”。&lt;/p&gt;&lt;p&gt;　　研读《习近平党建文选》第一卷、第二卷，贯通学习《习近平文化文选》第一卷、第二卷，有许多旁征博引的典故：春秋时期宋国大夫正考父在家庙鼎上铸下的铭训，东汉时期杨震“四知拒金”的故事……党史故事、新时代廉洁文化，“第二个结合”生动运用于全面从严治党。新时代管党治党、兴党强党新境界，扎根于五千年没有断流的中华文明，根本在于党的创新理论指引。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;“把党的建设面临的突出问题整治好、解决好”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　问题是时代的声音，“突出问题导向”是《决定》起草中着重把握的几点之一。&lt;/p&gt;&lt;p&gt;　　“把解决党内突出问题作为着力点，不回避矛盾，不讳疾忌医，在纠偏治乱、激浊扬清中提高工作水平。”&lt;/p&gt;&lt;p&gt;　　新时代全面从严治党取得历史性、开创性成就，基本实现中国式现代化进入关键时期，《决定》作为推进新时代党的建设新的伟大工程的纲领性文件，世人关注。&lt;/p&gt;&lt;p&gt;　　犹记党的十八大后，“四大考验”“四种危险”的警示声，仍在耳畔。刀刃向内、重典治乱！以习近平同志为核心的党中央“直面一度出现党的领导弱化虚化淡化、管党治党不严不实不力、党内一些问题触目惊心的严峻现实”。&lt;/p&gt;&lt;p&gt;　　全会上，习近平总书记提出全面从严治党的任务面临三个“更加艰巨”：党团结带领人民维护国家主权、安全、发展利益任务更加艰巨，党团结带领人民推动改革发展、维护社会和谐稳定任务更加艰巨，党保持先进性和纯洁性任务更加艰巨。&lt;/p&gt;&lt;p&gt;　　这是随着世情国情党情发生深刻变化，党面临许多新情况新问题作出的新的重大判断。这一重大判断是从巩固党的长期执政地位、实现中华民族伟大复兴的战略高度作出的，为持之以恒推进全面从严治党提供了根本遵循。而同时，党面临的“四大考验”和“四种危险”是长期的、复杂的、严峻的。&lt;/p&gt;&lt;p&gt;　　全面从严治党永远在路上。&lt;/p&gt;&lt;p&gt;　　清醒而坚定，这正是中国共产党人对待问题的态度。只有坚持问题导向，才能让全党认识到全面从严治党的重要性、紧迫性，增强战略定力，增强必胜信心。&lt;/p&gt;&lt;p&gt;　　《决定》7条原则里，有一条是“坚持问题导向”。作说明谈及此，总书记一语中的：“《决定》稿几个部分不是按照党的建设总体布局平铺开来、面面俱到，而是抓住关键要害、聚焦突出问题谋篇布局。”&lt;/p&gt;&lt;p&gt;　　有的放矢，靶向施策。正如习近平总书记在作说明时所强调的，“谋划思路举措坚持有什么问题就解决什么问题、什么问题突出就重点解决什么问题，找准问题症结，深入研究论证，提出有针对性的对策。”&lt;/p&gt;&lt;p&gt;　　曾经有人观望，全面从严治党，会不会是一阵风？实践证明，力度不减，慎终如始，永远在路上。全会释放了鲜明的信号：“坚持严的基调”“必须一以贯之、一严到底”。&lt;/p&gt;&lt;p&gt;　　这是写于时间长卷的坚守。&lt;/p&gt;&lt;p&gt;　　人们清晰记得，习近平总书记在十八届中央政治局常委同中外记者见面时的承诺：“我们的责任，就是同全党同志一道，坚持党要管党、从严治党”。&lt;/p&gt;&lt;p&gt;　　2014年12月，首次提出“全面从严治党”并将其纳入“四个全面”战略布局。此后，党的十八届六中全会专题研究全面从严治党问题；党的十九大将“坚持全面从严治党”确立为新时代坚持和发展中国特色社会主义的基本方略之一；党的十九届六中全会将“明确全面从严治党的战略方针”列为习近平新时代中国特色社会主义思想的重要内容；党的二十大系统部署“坚定不移全面从严治党，深入推进新时代党的建设新的伟大工程”。&lt;/p&gt;&lt;p&gt;　　坚定不移推进，取得一系列理论创新、实践创新、制度创新成果，构建起全面从严治党体系。&lt;/p&gt;&lt;p&gt;　　一抓到底，雷霆万钧，立起了口碑、赢得了人心，也令外媒慨叹中国共产党的反腐败成绩是“足以同在中国这样一个世界上人口最多的国家解决温饱问题、极大消除贫困相提并论的一个巨大贡献”。&lt;/p&gt;&lt;p&gt;　　这是着眼未来的坚定选择。&lt;/p&gt;&lt;p&gt;　　全会第二次会议召开于29日下午，习近平总书记再次强调“进一步提高对持之以恒推进全面从严治党重要性紧迫性的认识”，他讲述问题，层层深入、条分缕析，厘清认识、凝聚共识。&lt;/p&gt;&lt;p&gt;　　习近平总书记谈到了有些人的疑问：“全面从严治党是妨碍了经济社会发展还是保障和促进了经济社会发展？”&lt;/p&gt;&lt;p&gt;　　“党的十八大以来党和国家事业取得历史性成就、发生历史性变革，全面从严治党发挥了根本保障作用”。&lt;/p&gt;&lt;p&gt;　　“如果说全面从严治党对经济社会发展有影响，那么这种影响就是积极的而不是消极的。因为全面从严治党是扶正祛邪、清淤除障、纠偏治乱，坚决整治一切不正之风和腐败现象，保护的是公平竞争的市场环境，激发的是干事创业的正能量，阻止的是将不法利益掺杂其中、损害人民根本利益的有害经济行为。”&lt;/p&gt;&lt;p&gt;　　习近平总书记的声音回荡会场：“面向未来，不管遇到什么难题，不管经受多大风浪考验，我们都要保持定力、坚定信心，一以贯之全面从严治党，不能有丝毫犹疑和退缩。”&lt;/p&gt;&lt;p&gt;　　“矢志追求真理，始终把准前进方向”，发轫于红船启航、开辟于伟大远征，贯穿革命、建设、改革不同历史时期，于波澜壮阔的新时代，积厚成势。&lt;/p&gt;&lt;p&gt;　　“全会决定，中国共产党第二十一次全国代表大会于2027年下半年在北京召开。全会认为，党的二十一大是我们党在基本实现社会主义现代化的关键时期、向第二个百年奋斗目标进军新征程上召开的一次十分重要的代表大会，是党和国家政治生活中的一件大事。”&lt;/p&gt;&lt;p&gt;　　新征程是党和人民的新长征。“深入学习贯彻全会精神是当前和今后一个时期全党的重大政治任务。”在习近平党建思想的科学指引下，全党始终保持统一的思想、坚定的意志、协调的行动、强大的战斗力，持之以恒推进全面从严治党，一定能不断开创新时代管党治党、兴党强党新局面，在新的长征路上奋力创造新的辉煌。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  孙  振  杜尚泽  新华社记者  张晓松  朱基钗&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——党的二十届五中全会侧记 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188629&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188629.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188629.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “推进新时代党的建设新的伟大工程的纲领性文件” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188629.html#[03版：要闻] “推进新时代党的建设新的伟大工程的纲领性文件”</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] “进一步增强了百年大党的稳定性和凝聚力”（外媒看中国）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188630.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 国际舆论高度关注中共二十届五中全会—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “进一步增强了百年大党的稳定性和凝聚力”（外媒看中国） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　10月26日至29日，中国共产党二十届五中全会在北京举行。国际媒体和研究机构认为，中共二十届五中全会重点研究持之以恒推进全面从严治党问题，充分体现了中国共产党对加强自身建设的高度清醒和坚强意志。中国共产党不断推进全面从严治党，助力推进中国式现代化建设，也为世界各国政党提供可资借鉴的宝贵经验。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;为推动中国高质量发展、推进中国式现代化提供坚强政治保障&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　多家外媒表示，中共二十届五中全会聚焦持之以恒推进全面从严治党，这对确保中国共产党始终成为走在时代前列、人民衷心拥护、经得起各种风浪考验、朝气蓬勃的马克思主义执政党具有重要意义。&lt;/p&gt;&lt;p&gt;　　俄罗斯《消息报》网站刊文指出，中国共产党高度重视加强自身建设，致力于不断实现党的自我净化、自我完善、自我革新、自我提高。这将使中国能更加稳步朝着既定发展目标迈进。&lt;/p&gt;&lt;p&gt;　　巴基斯坦《今日巴基斯坦报》报道说，中共二十届五中全会审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，高度评价新时代全面从严治党取得的伟大成就，对持之以恒推进全面从严治党作出系统部署。报道援引专家的话表示，此次会议具有承前启后的关键意义，将为推动中国高质量发展、推进中国式现代化提供坚强政治保障。&lt;/p&gt;&lt;p&gt;　　巴基斯坦“每日中巴经济走廊”网站文章指出，中共二十届五中全会为中国共产党提供了一个契机，以审视党建工作所面临的挑战，并研究持之以恒推进全面从严治党的举措。通过这些努力，中国共产党旨在加强制度治党、依规治党，确保党始终成为中国特色社会主义事业的坚强领导核心。&lt;/p&gt;&lt;p&gt;　　埃及《金字塔报》网站报道说，中共二十届五中全会举行，要求以更高标准、更实举措把新时代全面从严治党宝贵经验坚持好、运用好，把党的建设面临的突出问题整治好、解决好，把管党治党形成的良好政治局面巩固好、发展好。&lt;/p&gt;&lt;p&gt;　　埃及自由新闻网报道认为：“中国共产党进一步增强了百年大党的稳定性和凝聚力。面对复杂的全球变化和新的形势，中国共产党进一步加强纪律建设，有助于维护国家发展成果。”&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;中国共产党不断实现自我净化、自我完善、自我革新、自我提高&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　《今日巴基斯坦报》刊发评论表示，在中共二十届五中全会举行之际，中国正全面推进中国式现代化建设，全面从严治党是新时代党和国家事业取得重大成就的根本保障。十八大以来，中共通过一系列举措加强纪律建设、党内监督等，以强化理想信念、坚持党的基本路线、维护党中央权威，并保持与人民群众密切联系。&lt;/p&gt;&lt;p&gt;　　泰国《曼谷商业新闻》报道说，中共着眼于进一步提高国家治理能力，持续推进反腐败工作，同时加强对失职失责行为的监督和问责。报道还提到，中国努力将完善干部队伍建设与推动产业发展、科技进步相结合。&lt;/p&gt;&lt;p&gt;　　新加坡《联合早报》刊发评论指出，中国反腐败工作不仅强调严肃查处违纪违法行为，也注重制度建设和干部监督，体现出中国持续完善国家治理体系、强化政策执行的努力。&lt;/p&gt;&lt;p&gt;　　沙特阿拉伯“阿拉伯新闻”网站报道认为，中国共产党近年来不断加强监督执纪问责，加强制度建设，深入推进反腐败斗争，有助于提升领导经济社会发展和现代化建设的能力。&lt;/p&gt;&lt;p&gt;　　真实巴西媒体集团网站的报道关注中国共产党保持肌体健康、跳出治乱兴衰历史周期率的实践，指出中国共产党不断实现自我净化、自我完善、自我革新、自我提高，及时发现和纠正问题。&lt;/p&gt;&lt;p&gt;　　智利《号角报》网站刊文表示，回应人民群众需求、密切党同人民群众的联系、推进反腐败斗争、严明政治纪律、改善公共服务、加强自身建设等，是中国共产党提升执政能力的重要方面。文章还介绍了要坚持法规制度面前人人平等、遵守法规制度没有特权、执行法规制度没有例外，确保制度规定真正成为带电的高压线等论述，认为这些要求明确了中共党员行为规范。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;全面从严治党经验为希望探索自身发展道路的国家提供参考&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　新加坡亚洲新闻台的专题报道指出，中共二十届五中全会的意义不仅在于反腐败，还涉及组织建设、干部教育培养、党内监督、制度建设、追责问责等。报道认为，全会成为观察中国未来治理方向的重要窗口。&lt;/p&gt;&lt;p&gt;　　塔吉克斯坦“霍瓦尔”国家通讯社报道说，在中国共产党领导下，中国坚定不移地沿着既定道路推进发展事业，这是中国取得成功的重要原因。当前，国际形势发生深刻变化，中国保持稳定发展，相关经验值得广大发展中国家学习。&lt;/p&gt;&lt;p&gt;　　肯尼亚非洲政策研究所网站刊文认为，全会体现了中国共产党持之以恒推进全面从严治党，将中国式现代化愿景转化为改善民生福祉、促进全球发展的切实成果。文章强调，非洲各方应抓住机遇，与中国共产党在共同关心的领域开展对话与合作，包括治国理政、经济发展、减贫、技术进步等，共同应对全球挑战。&lt;/p&gt;&lt;p&gt;　　卢旺达“非中评论”网站刊文表示，有效治理是实现国家发展目标的关键。中国共产党加强纪律建设、整治不正之风、完善监督机制，以提升党的执政能力、维护公众信任。文章说，中共二十届五中全会吸引全球目光。中国作为全球贸易大国、制造业大国和科技大国，其治理实践和经济政策不仅影响自身发展，也对全球经济产生重要影响。&lt;/p&gt;&lt;p&gt;　　阿根廷《当代》杂志网站刊文表示，加强党的纪律建设旨在提高中国共产党应对风险、推进改革以及实现经济社会发展目标的能力。文章关注中国在制定战略规划、保持政策稳定性以及干部选拔、培养和考核等方面的实践，认为“治国必先治党、治党务必从严”是理解中国治国理政经验的重要方面，相关经验为希望探索自身发展道路的国家提供参考。&lt;/p&gt;&lt;p&gt;　　巴基斯坦《外交洞察》杂志网站文章认为，中共二十届五中全会具有重要的国际意义。治理效能的提升，有助于打造稳定的投资合作关系、提升项目落地质量、增强贸易伙伴信心。这对于全球产供链稳定和各类发展项目的平稳推进至关重要。因此，中国的制度建设有利于各国伙伴在充满不确定性的全球环境中开展稳定合作。&lt;/p&gt;&lt;p&gt;　　（本报北京、莫斯科、伊斯兰堡、雅加达、曼谷、开罗、迪拜、墨西哥城、里约热内卢、阿斯塔纳、约翰内斯堡、内罗毕10月30日电  记者李琰、肖新新、赵益普、曹师韵、张矜若、沈小晓、焦翔、王旭琛、王骁波、陈海琪、李强、邹松、黄炜鑫）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 国际舆论高度关注中共二十届五中全会—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188630&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188630.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188630.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “进一步增强了百年大党的稳定性和凝聚力”（外媒看中国） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188630.html#[04版：要闻] “进一步增强了百年大党的稳定性和凝聚力”（外媒看中国）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 开启中国阿曼共同发展繁荣的新篇章（大使随笔）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188631.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 开启中国阿曼共同发展繁荣的新篇章（大使随笔） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							吕  健&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　应习近平主席邀请，阿曼苏丹海赛姆将于11月1日至2日对中国进行国事访问。这是中阿两国建交48年来，阿曼苏丹首次访问中国。两国元首将为中阿关系作出顶层设计，擘画未来发展蓝图，具有里程碑意义。&lt;/p&gt;&lt;p&gt;　　阿曼是中东海湾地区重要国家，也是阿拉伯半岛历史最悠久的文明古国之一。中阿虽远隔万里，但两国人民通过跨越千年的海上丝绸之路相识相知，播下友谊的种子。早在公元8世纪，阿曼航海家阿布·欧贝德从苏哈尔出发，驾驶木帆船历时7个多月横跨印度洋抵达中国广州，成为中国史料记载中第一位乘船到达中国的阿拉伯人。600多年前，中国航海家郑和率船队“云帆高张，昼夜星驰”，4次到访阿曼佐法尔，带去中国的瓷器、丝绸、茶叶，交易带回阿曼的乳香等特色香料。中阿源远流长的传统友谊是双方共同珍视的宝贵财富，充分诠释了和平合作、开放包容、互学互鉴、互利共赢的丝路精神。&lt;/p&gt;&lt;p&gt;　　1978年建交以来，中阿政治互信不断深化，各领域友好合作稳步推进。进入新时代，两国元首高度重视双边关系发展，习近平主席与阿曼苏丹多次互致信函，为两国关系发展领航定向。中阿始终相互尊重、平等相待、友好合作、互利共赢。阿曼恪守一个中国原则，坚定支持中国核心利益和重大关切，支持习近平主席提出的构建人类命运共同体、高质量共建“一带一路”、四大全球倡议等重大理念主张。中国坚定支持阿曼维护国家主权、安全和发展利益，支持阿曼自主选择适合本国国情的发展道路，赞赏阿曼坚持通过对话协商化解争端，支持阿曼在地区热点问题上发挥斡旋作用。&lt;/p&gt;&lt;p&gt;　　在两国元首战略引领下，中阿战略伙伴关系行稳致远，展现强大动能和潜力。2018年，中阿建立战略伙伴关系并签署共建“一带一路”谅解备忘录。两国深化高质量共建“一带一路”与阿曼“2040愿景”战略对接，发挥经济互补优势，打造新能源、先进制造、数字经济、航天、人工智能等合作新亮点，两国关系焕发新的蓬勃生机。中国光伏、风电等新能源产业助力阿曼绿色发展，阿曼投资局加入中国—海合会共同投资联合会，中阿合作发射阿曼首颗人造卫星，阿曼成为世界人工智能合作组织创始成员国之一。中国自2018年以来稳居阿曼第一大贸易伙伴国，阿曼是中国在阿拉伯国家中的第四大贸易伙伴。&lt;/p&gt;&lt;p&gt;　　两国人文合作方兴未艾。2025年，阿曼将中文纳入国民教育体系，8所高中和2所大学开设中文课，数百名学生踊跃报名。两国开通直航航班，人员往来更加便利，2026年上半年中国赴阿游客达4.8万人次，同比增长超40%。双方在人才培养和文化、体育、青年等领域交流日益密切。今天，郑和纪念碑和“苏哈尔号”纪念碑分别矗立在阿曼塞拉莱和中国广州，成为两国友好的显著地标。&lt;/p&gt;&lt;p&gt;　　当今世界变乱交织，各国求和平、谋发展的愿望更加强烈。中国正以中国式现代化全面推进强国建设、民族复兴伟业，倡导构建人类命运共同体。大道不孤，有朋来仪。相信在两国元首战略引领下，在两国人民共同努力下，中阿千年友谊必将续写友好华章，中阿战略伙伴关系必将迸发强劲动能，开启中国阿曼共同发展、共同繁荣的新篇章。&lt;/p&gt;&lt;p&gt;　　（作者为中国驻阿曼大使） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;吕  健&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188631&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188631.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188631.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 开启中国阿曼共同发展繁荣的新篇章（大使随笔） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188631.html#[04版：要闻] 开启中国阿曼共同发展繁荣的新篇章（大使随笔）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 习近平会见瑞士联邦主席帕姆兰</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188632.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平会见瑞士联邦主席帕姆兰 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　10月30日下午，国家主席习近平在北京人民大会堂会见来华进行工作访问的瑞士联邦主席帕姆兰。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  李  响摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/96fc58c8-350d-449a-b22e-4f1e36e134bd.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报北京10月30日电&lt;span style="text-wrap-mode: wrap;"&gt;  &lt;/span&gt;（记者巩晗）10月30日下午，国家主席习近平在北京人民大会堂会见来华进行工作访问的瑞士联邦主席帕姆兰。&lt;/p&gt;&lt;p&gt;　　习近平指出，瑞士是中国在欧洲的重要伙伴，对华合作始终走在欧洲国家前列。在单边主义、保护主义逆流涌动的当下，自由贸易合作成为中瑞关系最亮眼的名片，充分体现了两国坚持开放合作的政治勇气和担当，彰显了双方推动建设开放型世界经济的独特引领作用。各国经济相通则共进，相闭则各退。中方愿同瑞方一道，高举开放旗帜，拉紧合作纽带，推动普惠包容的经济全球化，共同为中欧经贸合作和全球经济发展注入宝贵信心和更多确定性。&lt;/p&gt;&lt;p&gt;　　习近平强调，中瑞建交以来，双方坚持相互成就，敢为人先，不断以务实成果诠释“平等、创新、共赢”的中瑞合作精神，成为不同大小、不同社会制度国家交往的典范。双方要相互尊重、平等相待，全方位加强各层级交流和政策对接。中国正在加快发展新质生产力，稳步扩大制度型开放，愿将中国市场打造成为世界的市场、共享的市场。双方要坚持互利共赢，让开放合作的蓝图成为看得见、摸得着的实景。加强创新合作，着力培育数字经济、绿色储能、人工智能等新兴产业合作，构筑协同创新、利益共享的高质量产业链供应链，共同促进人工智能向上向善、造福人类。&lt;/p&gt;&lt;p&gt;　　习近平指出，瑞士长期在中欧经贸往来中发挥重要示范作用，希望瑞方发挥自身独特影响，为推动中欧贸易向上平衡、稳健发展发挥积极作用。中瑞两国支持多边主义的立场相近、理念相通。双方要深化多边协调和相互支持，坚定维护以联合国为核心的国际体系和以国际法为基础的国际秩序，改革完善全球治理体系，推动构建人类命运共同体。&lt;/p&gt;&lt;p&gt;　　帕姆兰表示，作为最早承认新中国的西方国家之一，瑞士一直为此深感自豪，这开启了两国持久而富有活力的伙伴关系。建交以来，双方始终相互尊重，保持密切高层交往，在贸易投资、科研创新、劳动就业等诸多领域取得丰硕合作成果。今年是瑞中建立创新战略伙伴关系10周年，双方在短时间内高质量完成自贸协定升级谈判，体现了双方高度互信，符合两国企业和各方期待，将为瑞中关系发展注入新动力。瑞方坚定奉行一个中国政策，期待同中方加强对话交流、坚持互利合作，推动各领域合作取得更大发展。瑞方高度重视中方在国际事务中发挥的积极作用，愿同中方密切协调，坚持多边主义，维护自由贸易，为世界发展繁荣与和平稳定作出贡献。&lt;/p&gt;&lt;p&gt;　　会见后，两国元首共同见证签署中瑞自贸协定升级议定书和科研、劳动就业、媒体等领域多项合作文件。&lt;/p&gt;&lt;p&gt;　　王毅参加上述活动。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188632&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188632.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188632.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平会见瑞士联邦主席帕姆兰 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188632.html#[04版：要闻] 习近平会见瑞士联邦主席帕姆兰</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188633.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/75edd6c4-e332-409e-86f7-00df3cd1139b.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　10月30日，满载汽车零配件、毛绒玩具、家用百货的X8469次中欧班列从陕西西安国际港站缓缓驶出，前往德国杜伊斯堡，标志着中欧班列（西安）2026年累计开行超5000列。&lt;/p&gt;&lt;p&gt;　　曹  欣摄（影像中国） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188633&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188633.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188633.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188633.html#[04版：要闻] 图片报道</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 阿曼苏丹海赛姆将对中国进行国事访问</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188634.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 阿曼苏丹海赛姆将对中国进行国事访问 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月30日电  外交部发言人30日宣布：应国家主席习近平邀请，阿曼苏丹海赛姆将于11月1日至2日对中国进行国事访问。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188634&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188634.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188634.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 阿曼苏丹海赛姆将对中国进行国事访问 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188634.html#[04版：要闻] 阿曼苏丹海赛姆将对中国进行国事访问</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 奥地利总理施托克尔将访华</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188635.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 奥地利总理施托克尔将访华 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月30日电  （记者李欣怡）外交部发言人30日宣布：应国务院总理李强邀请，奥地利总理施托克尔将于11月2日至7日对中国进行正式访问。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188635&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188635.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188635.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 奥地利总理施托克尔将访华 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188635.html#[04版：要闻] 奥地利总理施托克尔将访华</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 《沙夫卡特·米尔济约耶夫讲话选编  迈向可持续发展与繁荣的乌兹别克斯坦》新书发布会在京举办</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188636.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 《沙夫卡特·米尔济约耶夫讲话选编  迈向可持续发展与繁荣的乌兹别克斯坦》新书发布会在京举办 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月30日电  （记者暨佩娟、曲颂）10月30日，《沙夫卡特·米尔济约耶夫讲话选编  迈向可持续发展与繁荣的乌兹别克斯坦》新书发布会在京举办。该书近期由人民出版社出版，选编了乌兹别克斯坦共和国总统沙夫卡特·米尔济约耶夫2021年至2025年出席有关重要会议、活动时发表的讲话、致辞，还收录了少量专访实录和署名文章，共55篇。&lt;/p&gt;&lt;p&gt;　　这部著作集中反映了当前乌兹别克斯坦改革发展、维护地区安全稳定、深化国际合作的有力举措和最新成果，集中传递了乌兹别克斯坦走符合自身国情发展道路的坚定决心和信心，集中体现了米尔济约耶夫总统治国理政的深入思考和有力实践。该书的出版是中乌深化治国理政经验交流的生动实践，对落实两国元首重要共识、促进中乌关系发展具有特殊意义，将为关注和研究乌兹别克斯坦发展的专家学者、社会各界人士以及广大读者提供重要参考，进一步促进中乌人文交流、深化中乌友谊。&lt;/p&gt;&lt;p&gt;　　发布会现场为新书揭幕。有关国际组织代表、来自中国和乌兹别克斯坦相关智库机构的代表讲述了阅读该书后的体会和感想，表达了促进中乌加强人文交流、深化文明互鉴、发展世代友好的共同愿望。中乌两国有关方面负责人、部分国家驻华使节和外交官以及有关专家学者等出席发布会。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188636&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188636.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188636.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 《沙夫卡特·米尔济约耶夫讲话选编  迈向可持续发展与繁荣的乌兹别克斯坦》新书发布会在京举办 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188636.html#[04版：要闻] 《沙夫卡特·米尔济约耶夫讲话选编  迈向可持续发展与繁荣的乌兹别克斯坦》新书发布会在京举办</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 张庆伟会见德国联邦议院副议长诺睿博</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188637.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 张庆伟会见德国联邦议院副议长诺睿博 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月30日电  10月30日，全国人大常委会副委员长张庆伟在京会见陪同德国总统施泰因迈尔访华的德联邦议院副议长诺睿博。双方就推动中德关系发展、加强两国立法机构交往等共同关心的议题深入交换意见。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188637&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188637.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188637.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 张庆伟会见德国联邦议院副议长诺睿博 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188637.html#[04版：要闻] 张庆伟会见德国联邦议院副议长诺睿博</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 中国和南非两国央行续签双边本币互换协议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188638.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中国和南非两国央行续签双边本币互换协议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月30日电  （记者任军、吴雨）记者10月30日从中国人民银行获悉：近日中国人民银行与南非储备银行续签双边本币互换协议，互换规模为300亿元人民币/740亿南非兰特，协议有效期五年。&lt;/p&gt;&lt;p&gt;　　中国人民银行表示，双方再次续签双边本币互换协议，有助于进一步深化两国货币金融合作，促进双边贸易和投资便利化，维护金融市场稳定。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188638&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188638.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188638.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中国和南非两国央行续签双边本币互换协议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188638.html#[04版：要闻] 中国和南非两国央行续签双边本币互换协议</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 周强会见德国科尔伯基金会代表团</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188639.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 周强会见德国科尔伯基金会代表团 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月30日电  全国政协副主席周强30日在京会见德国科尔伯基金会代表团，宣介中共二十届五中全会精神、人民政协制度和全面依法治国方略，就中欧坚持全面战略伙伴关系定位、对话协商妥处分歧、携手应对全球性挑战等交换意见。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188639&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188639.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188639.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 周强会见德国科尔伯基金会代表团 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188639.html#[04版：要闻] 周强会见德国科尔伯基金会代表团</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 全面贯彻习近平党建思想</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188640.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全面贯彻习近平党建思想 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——论学习贯彻党的二十届五中全会精神 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报评论员&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　伟大事业已掀开新篇章，伟大工程要开创新局面。&lt;/p&gt;&lt;p&gt;　　党的二十届五中全会从党和国家事业发展全局的战略高度，全面总结新时代全面从严治党伟大成就和宝贵经验，深入分析党的建设面临的新形势新任务新挑战，审议通过了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》。这是持续推进新时代党的建设新的伟大工程的纲领性文件，体现了以习近平同志为核心的党中央强党强国的历史主动，必将有力动员和激励全党坚定信心、保持定力，不断开创新时代管党治党、兴党强党新局面。&lt;/p&gt;&lt;p&gt;　　新时代全面从严治党决心之大前所未有、力度之大前所未有，找到了跳出治乱兴衰历史周期率的第二个答案，开辟了百年大党自我革命新境界，党在革命性锻造中更加坚强有力，党风政风和社会风气焕然一新，形成中国共产党之治、中国之治新气象。&lt;/p&gt;&lt;p&gt;　　这些成就的取得，根本在于以习近平同志为核心的党中央领航掌舵，在于习近平新时代中国特色社会主义思想科学指引，充分表明“两个确立”是我们战胜一切艰难险阻、应对一切不确定性的最大确定性、最大底气、最大保证。&lt;/p&gt;&lt;p&gt;　　105年来，党之所以始终掌握历史主动、不断创造奇迹，关键在于具有矢志追求真理等优秀特质，拥有马克思主义科学理论指导。&lt;/p&gt;&lt;p&gt;　　作为习近平新时代中国特色社会主义思想的党建篇，习近平党建思想深刻回答“建设什么样的长期执政的马克思主义政党、怎样建设长期执政的马克思主义政党”这一重大时代课题，丰富和发展了马克思主义建党学说，是坚持“两个结合”推进党的理论创新的重大成果，是党和人民实践经验和集体智慧的结晶，对强党强国具有重大现实意义和长远指导意义。&lt;/p&gt;&lt;p&gt;　　思想如炬，照亮新的赶考之路，引领更加壮阔征程。&lt;/p&gt;&lt;p&gt;　　《决定》最鲜明的特点，就是全面贯彻习近平党建思想，将其作为一条思想主线始终贯穿，在文件框架安排、总结成就和经验、分析形势和任务、明确指导思想和“七个坚持”重大原则、提出政策举措上全面落实。这是对新时代全面从严治党宝贵经验的充分运用，体现了我们党对马克思主义执政党建设规律认识的深化，必将有力推动管党治党、兴党强党在守正中创新、在继承中发展。&lt;/p&gt;&lt;p&gt;　　这里围绕“增强共产党人的党性”“严格贯彻执行民主集中制”进行阐释，以加深对全会精神的理解把握。&lt;/p&gt;&lt;p&gt;　　增强党性是全面从严治党的根本性任务，锤炼党性是党员、干部的终身课题。“坚持锤炼坚强党性”，是习近平党建思想的重要内容。&lt;/p&gt;&lt;p&gt;　　从坚持不懈用新时代党的创新理论凝心铸魂，锤炼对党忠诚的政治品格，到把“坚持党性党风党纪一起抓”“提高党性觉悟”纳入全面从严治党战略部署，以坚强党性涵养优良作风，再到扎实开展树立和践行正确政绩观学习教育，坚持从党性上找差距、挖根源、强修养……&lt;/p&gt;&lt;p&gt;　　正是因为从思想上正本清源、固本培元，筑牢信仰之基、补足精神之钙、把稳思想之舵，我们党在风云变幻中始终走在时代前列，在风高浪急中始终成为全国人民的主心骨。&lt;/p&gt;&lt;p&gt;　　全会部署持之以恒推进全面从严治党的战略任务和重大举措，排在首位的就是“增强共产党人的党性”，目的正是要推动全体党员、干部坚持党的性质和宗旨，增强党的意识、党员意识、先锋队意识，始终保持共产党人政治本色，深刻领悟“两个确立”的决定性意义，坚决做到“两个维护”。&lt;/p&gt;&lt;p&gt;　　我们党是在马克思主义建党学说指导下、按照民主集中制原则建立起来的世界第一大执政党。民主集中制是党的根本组织原则和领导制度，贯彻执行民主集中制是全面从严治党的内在要求。&lt;/p&gt;&lt;p&gt;　　如何更好发挥民主集中制的政治优势、组织优势、制度优势、工作优势？首要的就是坚持和加强党中央集中统一领导。&lt;/p&gt;&lt;p&gt;　　制定和实施五年规划，党中央把方向、谋大局、作决策，坚持发扬民主、集思广益，“定了就抓落实”；&lt;/p&gt;&lt;p&gt;　　推动长江经济带发展，各地区各部门不折不扣贯彻落实党中央决策部署，共抓大保护、不搞大开发，“坚定不移走生态优先、绿色发展之路”。&lt;/p&gt;&lt;p&gt;　　党的领导是中国特色社会主义最本质的特征，是中国特色社会主义制度的最大优势。“坚持党的领导，首先是坚持党中央权威和集中统一领导，这是党的领导的最高原则”。&lt;/p&gt;&lt;p&gt;　　全会围绕严格贯彻执行民主集中制作出部署。我们要坚持和加强党中央集中统一领导，充分发扬党内民主，有效实行正确的集中，提高科学决策、民主决策、依法决策水平，确保党始终具有强大创造力凝聚力战斗力。&lt;/p&gt;&lt;p&gt;　　历经风雨而初心不改、目标笃定并勇毅前行，党团结带领亿万人民正以不可阻挡的步伐迈向伟大复兴。深入学习贯彻党的二十届五中全会精神，是当前和今后一个时期全党的重大政治任务。认真学习贯彻全会精神，坚持以习近平党建思想为指引，我们党必将始终步履坚定、朝气蓬勃，引领中国式现代化宏伟事业不断向前进。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报评论员&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——论学习贯彻党的二十届五中全会精神 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188640&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188640.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188640.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全面贯彻习近平党建思想 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188640.html#[04版：要闻] 全面贯彻习近平党建思想</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 习近平主席特使高志丹将出席达喀尔第四届青年奥林匹克运动会开幕式</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188641.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平主席特使高志丹将出席达喀尔第四届青年奥林匹克运动会开幕式 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月30日电  （记者李欣怡）外交部发言人30日宣布：应塞内加尔共和国政府邀请，国家主席习近平特使、国家体育总局局长高志丹将赴塞内加尔首都达喀尔，出席10月31日举行的第四届青年奥林匹克运动会开幕式。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188641&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188641.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188641.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平主席特使高志丹将出席达喀尔第四届青年奥林匹克运动会开幕式 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188641.html#[04版：要闻] 习近平主席特使高志丹将出席达喀尔第四届青年奥林匹克运动会开幕式</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 刘海星分别会见乌兹别克斯坦、德国客人</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188642.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 刘海星分别会见乌兹别克斯坦、德国客人 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月30日电  10月30日，中共中央对外联络部部长刘海星在北京分别会见乌兹别克斯坦总统顾问达夫拉托夫和德国科尔伯基金会会长鲍尔森，就落实领导人共识，加强交流合作、推动双方关系发展等交换意见。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188642&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188642.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188642.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 刘海星分别会见乌兹别克斯坦、德国客人 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188642.html#[04版：要闻] 刘海星分别会见乌兹别克斯坦、德国客人</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] “像青松一样扎根深山”（最美新时代革命军人）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188643.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “像青松一样扎根深山”（最美新时代革命军人） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——记军事航天部队某部二级军士长高德宝 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  李龙伊&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　高德宝在检修设备。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　受访者供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/1bb6a9d1-deeb-44b6-b332-de931c85d4b2.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　林海雪原，有座无名山。山腰机房内，二级军士长高德宝猫着腰测数据、记参数，听听电流声是否正常，查查冷却管内水流震动是否平稳……这样的工作，他坚守了18年。&lt;/p&gt;&lt;p&gt;　　高德宝曾是特级英雄黄继光生前所在部队的一名空降兵，入伍两年便脱颖而出，获评“优秀跳伞员”。18年前，单位调整改革，他来到这座无名山，投身装备保障工作。&lt;/p&gt;&lt;p&gt;　　战友们常说：“铁打的营盘流水的兵，铁打的老高扎根的心。”扎根深山，高德宝全身心投入装备保障战位，创新研制脉冲信号发生器，有效延长器件使用寿命，先后多次完成重大演习演训任务，成为公认的“航天尖兵”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“树扎下根，把深山守住；人扎下根，让营盘常青”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　战位从蓝天挪到深山，隔行如隔山。&lt;/p&gt;&lt;p&gt;　　刚来无名山，满页“天书”般的理论原文、几层楼高的装备，曾让他不知所措。高中学历的高德宝，成了单位里底子最薄的“门外汉”。&lt;/p&gt;&lt;p&gt;　　有天夜里他在机房跟班，装备突然故障，任务无法执行。红灯闪烁，警报刺耳。可整个值班编组没有一人慌乱，排查、定位、换插件，不一会任务便成功执行。&lt;/p&gt;&lt;p&gt;　　一旁的高德宝看得目瞪口呆。带班员笑着问：“小高，怎么样？我们技术兵不比你们空降兵差吧？”&lt;/p&gt;&lt;p&gt;　　空降兵有句口号：三肿三消，早上云霄。双腿经受了从肿到消、从消到肿、再从肿到消，才够格领取登上飞机的通行证。高德宝明白了，说：“不管空降兵还是技术兵，想成为精锐，只有苦练。”&lt;/p&gt;&lt;p&gt;　　从此，他成了厂所专家柯师傅的“影子”。机房、休息室、食堂，只要柯师傅一露面，他就贴上来，掏出一沓电路图追问，短则10分钟，长则1小时。柯师傅调侃：“咱俩像猫抓耗子，我想躲都躲不掉。”&lt;/p&gt;&lt;p&gt;　　在装备高电压区域，调试时人体承受的辐射，相当于被X光扫一次。他偏往里钻：“惊险的空中一跳都没打败我，这些操作还能比生死一线难？”&lt;/p&gt;&lt;p&gt;　　没有取暖设施的机房里，他记参数，手冻僵了揣怀里暖一暖，脚冻透了原地蹦一蹦。一年2000多次实操，他把电源调试练成了肌肉记忆。柯师傅服了：“小高一出手，就是最精准的刻度。”&lt;/p&gt;&lt;p&gt;　　仅1年，高德宝啃下6本理论书籍、4个分系统方案、百余项维修流程，成为单位第一名也是唯一一名取得装备总体岗位资格的军士。3年时间，他整理10多万字装备心得。&lt;/p&gt;&lt;p&gt;　　建站初期，无名山是座石头山。高德宝常望着窗外白茫茫的雪地发呆：要是有一抹绿色就好了。于是，他和战友捡石头、刨树坑种树。高德宝曾说，“树扎下根，把深山守住；人扎下根，让营盘常青。”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“作为一名党员骨干，任务面前我必须上”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　高德宝个头一米八五，做事风风火火。可只要和装备相关，他就拿出“绣花”般的耐心。他常说：“凡事不用怕，天塌了，有个高的顶着。”&lt;/p&gt;&lt;p&gt;　　对此，他一次次用行动兑现。&lt;/p&gt;&lt;p&gt;　　某次任务前夕，机房突发险情：高压电源故障，油箱上方火花迸溅，焦煳味弥漫。“立即定位故障！”指挥组命令传来。&lt;/p&gt;&lt;p&gt;　　高德宝抄起工具就要进设备间：“里面危险，我熟悉设备状态，我进去！”&lt;/p&gt;&lt;p&gt;　　故障排除后，就在他退出时，房间里忽然传出一声巨响。5分钟后他走出来，双手捂着耳朵，听不见战友的呼喊。医院诊断为听神经损伤，右耳从此留下旧疾。&lt;/p&gt;&lt;p&gt;　　还有一次，一个风雨交加的夜晚，装备核心系统瘫痪。其他系统出问题是“感冒发烧”，这里出问题就是“心脏病”。专家建议更换部件，可万一调试不准，就会造成不可逆损伤。&lt;/p&gt;&lt;p&gt;　　一边是迫在眉睫的任务，一边是巨大的风险隐患。“我可以试试。这台装备从调试开始我就跟着，它的‘脾气’我最了解。”高德宝又站了出来，承担了这个任务。&lt;/p&gt;&lt;p&gt;　　距任务开始只剩5小时。他钻进密闭空间，听、摸、看。“冷却正常！”“开始调制，注意听‘滋滋’的声音！”“功率输出稳定，管体电流正常！”系统恢复，任务正常执行。&lt;/p&gt;&lt;p&gt;　　数九隆冬，气温骤降到零下30摄氏度。在外地出差的高德宝接到电话：“班长，装备驱动失灵。”他跨越1000多公里赶回，顶着风雪直奔现场。&lt;/p&gt;&lt;p&gt;　　更换电机，要拆下数百斤的旧件，还得有人爬上数十米高的塔基，用绳索把新电机精准放到底座。高德宝系好安全绳后说：“我先上去摸情况。”&lt;/p&gt;&lt;p&gt;　　寒风里，一群人拆卸、吊装、加电、测试，大家眉毛上都结了冰碴。故障解决那一刻，不知谁起的头，大家唱起站歌：“立根东极苦寒地，笑看松江三尺水，吃苦不言苦，我们是无名山上一群兵……”高德宝说：“作为一名党员骨干，任务面前我必须上。”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;　　“当下我最在乎的两件事，一是搞科研，二是带队伍”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　高德宝有个习惯：往装备前一蹲，听调频的声音，看波导打火的微光，闻器件散发的气味，摸冷却水流的颤动。他管这叫“望、闻、问、切”——有些门道，仪器测不出来。&lt;/p&gt;&lt;p&gt;　　某大项任务中，为摸清一个部件在低温下的电压浮动规律，高德宝带着组员猫腰钻进装备底部采数据。谁把小数点后少记一位，他就急得拍大腿说：“你这不对嘛！”然后帮忙补全、反复核对。&lt;/p&gt;&lt;p&gt;　　东北冬天，天寒地冻。一次高德宝感冒，迟迟好不了。战友劝他先歇几天。他摆手说：“数据一天不采完，研究就得停一天。”&lt;/p&gt;&lt;p&gt;　　功夫不负有心人。最终，团队成功设计出脉冲信号发生装置，把一个关键部件的平均使用寿命延长了2000多个小时，每年节省运维成本200余万元。他们的经验编成维保手册，转化为8项国家专利。&lt;/p&gt;&lt;p&gt;　　“当下我最在乎的两件事，一是搞科研，二是带队伍。”提到未来的任务，高德宝说。&lt;/p&gt;&lt;p&gt;　　高德宝按专业特长分配任务，发现好苗子，就选进科研室由老骨干帮带。&lt;/p&gt;&lt;p&gt;　　近年来，高德宝带领团队排除装备故障100余次，完成10余套发明成果，其中两项在全军装备管理运用创新大赛中获奖。数名团队成员走上技师岗位，有的成了业务骨干。&lt;/p&gt;&lt;p&gt;　　去年，单位把一间科研室专门留给革新攻关班组。高德宝高兴坏了，说：“能甩开膀子搞研究了！”&lt;/p&gt;&lt;p&gt;　　荣誉也接踵而至：全军士官优秀人才奖、中国航天基金奖、“航天尖兵”……一身军装上，满满都是军功章。&lt;/p&gt;&lt;p&gt;　　扎根深山，条件艰苦。有人问高德宝，为什么不考虑换一个战位？高德宝说：“部队给予我的荣誉太多了，我能做的是干好自己的工作，像青松一样扎根深山。”&lt;/p&gt;&lt;p&gt;　　无名山上，一棵棵松树，深深扎根在大地深处。漫长冬天里，“大雪压青松，青松挺且直”，恰如高德宝和他的战友们，坚韧不拔、扎根战位，为战斗力建设贡献全部热忱。&lt;/p&gt;&lt;p&gt;　　（刘涵喆、王欣阁参与采写）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  李龙伊&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——记军事航天部队某部二级军士长高德宝 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188643&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188643.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188643.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “像青松一样扎根深山”（最美新时代革命军人） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188643.html#[05版：要闻] “像青松一样扎根深山”（最美新时代革命军人）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 全总十八届九次主席（扩大）会议在京召开</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188644.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全总十八届九次主席（扩大）会议在京召开 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京10月30日电  10月30日，全总十八届九次主席（扩大）会议在京召开。全国人大常委会副委员长、中华全国总工会主席王东明主持会议并讲话。&lt;/p&gt;&lt;p&gt;　　王东明指出，全总和各级工会要把学习宣传贯彻党的二十届五中全会精神作为当前和今后一个时期的重大政治任务，认真学习领会习近平总书记重要讲话和《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》精神，结合实际抓好贯彻落实。要进一步深刻领悟“两个确立”的决定性意义，不断增强“四个意识”、坚定“四个自信”、做到“两个维护”，以持之以恒推进全面从严治党的实际成效，带动工会工作高质量发展，为以中国式现代化全面推进强国建设、民族复兴伟业作出工会贡献。&lt;/p&gt;&lt;p&gt;　　全总党组书记、副主席、书记处第一书记陆治原传达党的二十届五中全会精神。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188644&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188644.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188644.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全总十八届九次主席（扩大）会议在京召开 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188644.html#[05版：要闻] 全总十八届九次主席（扩大）会议在京召开</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 纪念中国工农红军长征胜利90周年文物联展开幕</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188645.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 纪念中国工农红军长征胜利90周年文物联展开幕 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月30日电  （记者王珏）为纪念中国工农红军长征胜利90周年，由中国国家博物馆和退役军人事务部烈士纪念设施保护中心联合主办的“英名永存  薪火长歌——纪念中国工农红军长征胜利90周年文物联展”，于30日在中国国家博物馆开幕，31日起对公众展出。&lt;/p&gt;&lt;p&gt;　　本次展览入选由中央宣传部、中央网信办、退役军人事务部、国家文物局公布的纪念中国工农红军长征胜利90周年主题陈列展览推介名单。展览通过“浴血征程”“砺军铸魂”“传咏远播”“薪火传承”“守护创新”5个单元的叙事，书写红军突破封锁、万里转战的烽火往事，聚焦长征路上思想淬炼、信仰凝聚的强军之路，还原长征故事在海内外传播的生动历程，呈现一代代人缅怀长征英烈、守护红色记忆的薪火传承。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188645&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188645.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188645.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 纪念中国工农红军长征胜利90周年文物联展开幕 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188645.html#[05版：要闻] 纪念中国工农红军长征胜利90周年文物联展开幕</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] “信党爱党——永远的‘四大队’”主题展在延安完成布展</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188646.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “信党爱党——永远的‘四大队’”主题展在延安完成布展 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社西安10月29日电  （记者梁爱平）中国延安干部学院与新华通讯社共同举办的“信党爱党——永远的‘四大队’”主题展近日完成布展并投入教学。&lt;/p&gt;&lt;p&gt;　　展览紧紧围绕实现党的使命任务，锤炼坚强党性，聚焦“信党爱党”主题，分“绝对忠诚”“胸怀大局”“严谨求实”三个主题单元讲述解放战争时期代号为“四大队”的新华社工作队跟随党中央转战陕北的历史，引导党员干部从“四大队”信党爱党、绝对忠诚、跟随党中央、奋斗奉献的精神品质中，汲取信仰力量、铸牢对党忠诚、传承优良作风、强化使命担当。&lt;/p&gt;&lt;p&gt;　　展览依托新华社库藏的大量珍贵史料、图片和文献，通过电文、手稿影印件和历史照片等展品，让观展者真切感受到“四大队”的忠诚品格与奋斗精神。&lt;/p&gt;&lt;p&gt;　　目前，中国延安干部学院已将该展用于中管干部专题培训班、厅局级干部培训班等班次教学，并配套开发了现场讲解课和党性教育专题课程。学员们在参观展览后表示，主题展史料珍贵详实、叙事生动感人，是一堂生动的对党忠诚教育课。&lt;/p&gt;&lt;p&gt;　　下一步，中国延安干部学院将以主题展为牵引，推动资源挖掘、课程开发、课题研究和人才培养，切实把展览资源转化为教学资源、研究资源、育人资源，不断增强党性教育的针对性和实效性，努力把主题展打造成为弘扬延安精神、赓续红色血脉的重要阵地，为培养忠诚干净担当的高素质干部队伍提供有力支撑。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188646&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188646.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188646.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “信党爱党——永远的‘四大队’”主题展在延安完成布展 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188646.html#[05版：要闻] “信党爱党——永远的‘四大队’”主题展在延安完成布展</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 太行山飞出“金珠子”（新场景里看活力·金秋探丰年）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188647.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 山西长治沁县发展壮大小米产业—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 太行山飞出“金珠子”（新场景里看活力·金秋探丰年） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  郑洋洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　金秋时节，山西省长治市沁县的大地上，涌动着丰收气息。&lt;/p&gt;&lt;p&gt;　　定昌镇烟立村田地里，村民刘万春的20亩“沁州黄”迎来丰收。谷穗色泽金黄、颗粒饱满，收割机穿梭轰鸣，新收下来的小米在地头直接交付给当地企业。&lt;/p&gt;&lt;p&gt;　　“大丰收！”刘万春欣喜地说。他采取的是订单模式，能保障4元一斤的保底收购。政府每亩给种植补贴400元，叠加良种改良增产，一亩地净利润可达2000元。&lt;/p&gt;&lt;p&gt;　　“沁州黄”小米是沁县的金色名片。“好山好水育好米，民间素有‘金珠子、金珠黄，金珠换不来沁州黄’的说法。”沁县农业农村局局长张伟介绍。近年来，当地联合科研院所持续开展种子改良，品质不断提升。&lt;/p&gt;&lt;p&gt;　　在沁州黄镇白家沟村，3000亩“沁州黄”小米良种繁育基地喜获丰收。村民在田间人工清杂后，机器收割下的“沁黄3号”将作为来年生产用种。&lt;/p&gt;&lt;p&gt;　　山西沁州黄小米（集团）有限公司基地部负责人王峰介绍，“沁黄3号”由企业联合中国农科院选育，具有高产、抗倒伏、生育期短等特点，现在正依托订单模式向农户推广。&lt;/p&gt;&lt;p&gt;　　“企业统一供种、供肥、提供管护指导，收益明显提升。”刘万春说，过去亩产仅300斤，如今接近翻番，收购价更是可观。&lt;/p&gt;&lt;p&gt;　　据介绍，沁县小米良种覆盖率超95%，适宜种植区良种全覆盖；有机小米认证面积18.3万亩，绿色认证16万亩。&lt;/p&gt;&lt;p&gt;　　丰收的背后，是优良的品质、不断延伸的产业链与广阔的市场。&lt;/p&gt;&lt;p&gt;　　走进“沁州黄乡村e镇”服务中心，各式小米产品琳琅满目，礼盒、布袋、便携装一应俱全，小米饼干、五谷粉、小米挂面等深加工产品丰富多样。“产品已远销美国、加拿大等20多个国家和地区。”山西沁州黄小米（集团）有限公司负责人石磊说。&lt;/p&gt;&lt;p&gt;　　近年来，沁县锚定“种子道地化、种植规模化、流程标准化、产业融合化、营销网络化、主体龙头化、品牌高端化”目标，系统打造全产业链。“沁州黄”小米入选全国名特优新农产品、山西省“三晋老字号”。今年，山西沁县小米种植系统入选第八批中国重要农业文化遗产。&lt;/p&gt;&lt;p&gt;　　“‘沁州黄’小米全产业链总产值达10亿元，品牌价值20亿元。”张伟介绍，全县小米相关企业30余家、合作社591个，龙头企业辐射带动3万余农户增收，户均增收3000元，“‘十五五’时期，我们力争全产业链总产值达到30亿元。”&lt;/p&gt;&lt;p&gt;　　太行山间一粒粒金黄粟米，正点缀着乡村全面振兴的富民画卷。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  郑洋洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 山西长治沁县发展壮大小米产业—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188647&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188647.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188647.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 太行山飞出“金珠子”（新场景里看活力·金秋探丰年） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188647.html#[05版：要闻] 太行山飞出“金珠子”（新场景里看活力·金秋探丰年）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188648.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/ca1df1ae-0e63-42b8-b881-97c0c29d3357.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　10月30日，广东深圳前海博物馆正式面向公众开放。首批开放展览为“简明中国古代通史陈列”“瑶光映世——中国古代玉器”“窑火凝珍——中国古代瓷器”及“文明之光  生生不息”数字展，四大展览均免费开放。图为观众正在观展。&lt;/p&gt;&lt;p&gt;　　本报记者  雷  声摄 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188648&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188648.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188648.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188648.html#[05版：要闻] 图片报道</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 提升农村道路交通安全水平</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188649.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 金融监管总局会同公安部加强警保协同联动 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 提升农村道路交通安全水平 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月30日电  （记者张天培、屈信明）近日，金融监管总局会同公安部联合发布《关于深化警保合作  助力农村道路交通安全隐患治理的指导意见》。&lt;/p&gt;&lt;p&gt;　　指导意见共四个部分。一是鼓励协商共治。鼓励各地积极探索协同治理。鼓励保险机构结合自身实际，按照自愿原则决定是否参与，可采取警保共建等多种模式参与治理。二是增强治理质效。各地公安交管部门科学研究，形成农村道路安全隐患治理清单，保险机构协商参与、稳步推进隐患治理，双方加强治理跟踪评估。三是强化科技赋能。依法合规推动公安交管与保险业数据交互对接。做好风险监测提示和整治效能统计评估。强化科技手段运用。四是加强组织保障。金融监管总局和公安部建立联合工作机制，统筹推进有关工作。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 金融监管总局会同公安部加强警保协同联动 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188649&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188649.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188649.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 提升农村道路交通安全水平 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188649.html#[05版：要闻] 提升农村道路交通安全水平</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 民政部等部署开展特殊困难老年人探访关爱服务</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188650.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 民政部等部署开展特殊困难老年人探访关爱服务 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月30日电  （记者吴储岐）记者从民政部获悉：民政部、全国老龄办、中国老龄协会近期印发《关于深入开展特殊困难老年人探访关爱服务的通知》，明确将独居、空巢、留守的高龄、失能等安全风险较高的特殊困难老年人作为重点对象，每两周至少探访1次，确有需要的，可进一步提高探访频次。&lt;/p&gt;&lt;p&gt;　　通知提出，日常探访综合采取敲门探视、电话联系、视频连线、远程智能监测等手段，主动关心、确认平安，了解掌握特殊困难老年人生活状态。发现居家安全隐患的，及时做好风险提示与安全提醒。结合探访关爱对象自身意愿和养老服务实际需求，及时对接相关养老服务机构；涉及其他服务的，积极协助向相关组织转介。开展服务回访，掌握服务开展情况，不断提升服务质效。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188650&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188650.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188650.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 民政部等部署开展特殊困难老年人探访关爱服务 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188650.html#[05版：要闻] 民政部等部署开展特殊困难老年人探访关爱服务</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 进博展品走入千家万户（进博会故事）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188651.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 进博展品走入千家万户（进博会故事） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  沈文敏&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　进博会的展台之上，不少前沿展品从概念亮相走向市场落地。欧莱雅的一款红外光能吹风机，便是其中一员。从第七届进博会的全球首秀，到走进美发沙龙与普通家庭，它的成长故事，也是跨国美妆科技扎根中国、中外创新双向奔赴的生动缩影。&lt;/p&gt;&lt;p&gt;　　2024年第七届中国国际进口博览会上，这款搭载红外黑科技的吹风机首次亮相欧莱雅展台。不同于传统设备依靠高温吹干发丝，这款吹风机融合红外光与高速气流，缩短高温烘烤时间，在快速吹干发丝的同时锁住水分，减少热损伤。展台前排起长队，不少发型师现场体验。彼时，它还只是一款联合中国初创企业共同研发的前沿展品，尚未正式面向国内市场发售。&lt;/p&gt;&lt;p&gt;　　进博会的聚光灯，让这款科技新品迎来关键转折点。欧莱雅团队依托展会平台，收集专业发型师与普通消费者的试用反馈，反复调试温控模式、风速档位，针对消费者细软、烫染受损发质优化参数。仅仅数月之后，这款吹风机就顺利完成注册审批，正式登陆中国市场，线上线下订单源源不断，从展台展品转型为美发圈热门好物。&lt;/p&gt;&lt;p&gt;　　“进博会是欧莱雅在全球投入最大的展会。”欧莱雅北亚及中国公共事务总裁兰珍珍坦言，进博会早已不只是产品展示窗口，更是开放创新的生态圈。“我们在这里完成新品首发首秀，对接本土初创企业、电商渠道，读懂中国消费需求。过去很多创新由西方传到东方，而现在，中国消费者的需求，正在反向改写欧莱雅全球研发路线。”在她看来，这款吹风机的走红，正是中外企业在进博会平台携手共创的结果。&lt;/p&gt;&lt;p&gt;　　一台光能吹风机的出圈，绝非孤例。依托进博会平台，欧莱雅旗下适乐肤等多个品牌的产品接连完成从展台展品到国民爆款的蜕变。海外前沿科技邂逅本土创新力量，进口新品快速对接国内庞大消费市场，“展品变商品、商品变爆品”的进博故事持续上演。&lt;/p&gt;&lt;p&gt;　　从展台聚光灯下的创新展品，到走入千家万户的美发好物，开放的舞台让全球创新成果落地生根，广阔的中国市场持续为跨国企业提供源源不断的发展机遇。&lt;/p&gt;&lt;p&gt;　　进博会不断释放溢出效应，高水平对外开放正在持续为全球产业创新培育沃土。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  沈文敏&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188651&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188651.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188651.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 进博展品走入千家万户（进博会故事） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188651.html#[05版：要闻] 进博展品走入千家万户（进博会故事）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 我军首型舰载察打一体隐身无人机在四川舰成功起降</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188652.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 我军首型舰载察打一体隐身无人机在四川舰成功起降 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京10月30日电  （记者金正波）记者从海军有关部门获悉：我军首型舰载察打一体隐身无人机“攻击—21”近日首次在我国首艘076型两栖攻击舰四川舰成功起降。这是我国两栖攻击舰发展历程上取得的又一突破，标志着中国海军具备固定翼隐身无人机在大型海上作战平台起降能力。&lt;/p&gt;&lt;p&gt;　　海军四川舰，舷号51，是我国自主设计研发建造的076型两栖攻击舰首舰，创新应用了全自动着舰引导系统、新型综合电力系统、电磁弹射和阻拦技术，可搭载固定翼无人机、直升机等。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188652&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188652.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188652.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 我军首型舰载察打一体隐身无人机在四川舰成功起降 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188652.html#[05版：要闻] 我军首型舰载察打一体隐身无人机在四川舰成功起降</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 本版责编：康  岩  刘涓溪  王  博</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188653.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：康  岩  刘涓溪  王  博 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188653&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188653.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188653.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：康  岩  刘涓溪  王  博 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188653.html#[05版：要闻] 本版责编：康  岩  刘涓溪  王  博</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 看不见的“微能量”，看得见的大未来（院士讲科普）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188654.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt;解码摩擦纳米发电技术&lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt;看不见的“微能量”，看得见的大未来（院士讲科普）&lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王昊男&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图①：王中林院士（右一）在进行科研指导。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　冯  培摄&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图②：自供电可穿戴织物。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图③：无线无源气象监测系统。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图④：自发电智能鞋。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图⑤：动态界面电子学学科树示意图。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　图②③④⑤均为中国科学院北京纳米能源与系统研究所提供&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/8c9548b7-1669-4138-982f-05612deec236.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　只要晃动一下手中的小盒子，通过电线与其相连的LED灯就被瞬间点亮。没有外部电源，也没有传统的磁铁和线圈，电从哪来？&lt;/p&gt;&lt;p&gt;　　在位于怀柔科学城的中国科学院北京纳米能源与系统研究所，奇妙的发电场景比比皆是：走路、挥手，海水涌动、微风轻拂，甚至抖一抖衣服，都能发电。&lt;/p&gt;&lt;p&gt;　　“无论是火力、水力还是核能，人类发电本质上都是驱动电子流动。”中国科学院外籍院士、中国科学院北京纳米能源与系统研究所所长王中林及其团队，正在探索一种全新发电模式——摩擦纳米发电。“让材料在摩擦、弯曲、挤压时直接产生电，并从起电到发电。”王中林说。&lt;/p&gt;&lt;p&gt;　　这一新的发电技术，有什么特殊之处？其背后蕴藏着哪些新的应用？对我国能源发展有什么作用？近日，记者对王中林院士进行了专访。&lt;/p&gt;&lt;p&gt;　　摩擦起电+静电感应=摩擦纳米发电&lt;/p&gt;&lt;p&gt;　　冬天脱毛衣，“噼啪”作响；梳过头发的梳子，能吸起碎纸屑。这些人们熟悉的摩擦起电现象，正是摩擦纳米发电的底层逻辑。&lt;/p&gt;&lt;p&gt;　　“两种不同材料接触再分开，表面就会分别带上正电和负电；当外力让它们反复靠近、分开或滑动时，就会形成变化的电压，从而推着电路里的电子来回流动，于是机械运动就变成了电。”王中林说，我们熟悉的“摩擦起电”加上“静电感应”，就形成了摩擦纳米发电。&lt;/p&gt;&lt;p&gt;　　摩擦纳米发电与传统发电有什么区别？&lt;/p&gt;&lt;p&gt;　　“传统发电是‘强能量集中转化’，烧煤、拦水、捕风，把大规模能量汇到一个点上释放。”王中林说，就好比用大坝拦住整条河流，“摩擦纳米发电走的是另一条路，叫‘弱能量精准捕捉’，相当于在每一条小溪里放一台微型水车，水流再小也能转。”&lt;/p&gt;&lt;p&gt;　　摩擦纳米发电还有一个特点，就是“不挑食”。王中林介绍，火电、光伏、风电依赖特定场地或特定气候，是“集中式发电”；摩擦纳米发电不挑场景、不挑能量大小，人体运动、海浪起伏、机械振动，都能就地取材，更像遍布各处的“分布式微电站”。&lt;/p&gt;&lt;p&gt;　　仅几十厘米高的风车，只要对着它吹上一口气，与其连接的灯泡就亮了起来。“传统风力发电机，一般需要三级以上的风才能发电；摩擦纳米发电机无需磁铁、无需线圈，有点风就够用。”王中林说，这也填补了传统发电技术无法覆盖的微能量利用空白，“是对经典电磁应用场景的新拓展”。&lt;/p&gt;&lt;p&gt;　　从理论层面看，摩擦纳米发电技术还催生和推动了一系列重要的基础科学突破。传统发电基于传导电流理论，摩擦纳米发电机的理论根基，是麦克斯韦方程组中的位移电流。“相当于把‘摩擦起电’这个日常现象，变成了一个可系统化、可工程化的发电机制，这是前人没有系统做过的事情。”王中林说。&lt;/p&gt;&lt;p&gt;　　摩擦起电机理、接触电致催化、液固界面起电；摩擦电子学、压电电子学、压电光电子学……随着研究的不断深入，王中林和团队还将一系列发现的物理效应与已有学科进行系统整合，创立了“动态界面电子学”。&lt;/p&gt;&lt;p&gt;　　“过去电子学研究的是电子在材料内部怎么跑，现在拓展到研究界面在动态接触中怎么产生、调控和催化的电学过程。”王中林说，“这是基础物理层面一个探索性的创新。”&lt;/p&gt;&lt;p&gt;　　走出实验室，摩擦纳米发电能做什么？&lt;/p&gt;&lt;p&gt;　　你见过“认人”的键盘吗？中国科学院北京纳米能源与系统研究所就有一个。密码：3.1415926，就贴在电脑边上显眼的位置。记者逐一敲下，屏幕却提示：验证失败。&lt;/p&gt;&lt;p&gt;　　“密码是正确的，但速度、力度不匹配，就无法通过验证。”工作人员揭秘，键盘里嵌着摩擦纳米发电机，每次敲击的力度、节奏，都会被转化成电信号，成为密码之外的第二道锁，“密码可能被窃走，但一个人敲键盘的‘手劲儿’可偷不走。”&lt;/p&gt;&lt;p&gt;　　走进位于研究所一层的展厅，就像来到了一家“未来商店”。嵌着摩擦纳米发电机的智能鞋，能计步、可定位，全靠走路发电；布设120个阵列点的床垫，不到1秒就能识别出体重、呼吸、心率，识别准确率达98%；不用换滤芯的净化器，通过空气流动摩擦产生的静电场吸附和击穿有害物质，杀菌灭毒率可达99.99%。&lt;/p&gt;&lt;p&gt;　　医疗健康领域的应用最牵动人心。可穿戴医疗监测、神经疾病诊断、癌症的辅助治疗……借助摩擦纳米发电技术“自供电”与“高灵敏传感”的优势，很多诊疗手段正在摆脱电池束缚。&lt;/p&gt;&lt;p&gt;　　实验室里，更“重磅”的产品正在加紧完善。“在国家部署的‘六张网’建设中，我们的技术能破解基础设施感知‘供电难、运维难’的痛点。”王中林说，在无光照的地下管廊、覆冰山区等场景下，摩擦纳米发电技术能将微风振动、桥梁伸缩、雨滴撞击等高效转化为电能，使监测终端实现“自取能、自感知、自传输”无源运行。&lt;/p&gt;&lt;p&gt;　　在新型电网领域，该所研发的自供能线路监测装置已实现10毫瓦级功率发电，多参量传感平均功耗低至700微瓦。“先后安装在110千伏至500千伏不同电压等级线路上，并已通过百日带电运行考验。”王中林说。&lt;/p&gt;&lt;p&gt;　　“书架子”上的理论如何搬上“货架子”？&lt;/p&gt;&lt;p&gt;　　研究所西南方向，一间不算很大的独立建筑里“波涛汹涌”。造浪池里，一个黄色浮筒起起伏伏，浮筒上的屏幕始终亮着。&lt;/p&gt;&lt;p&gt;　　“海洋蕴藏着巨大的可再生能源潜力，全球波浪能理论总量高达数太瓦。”王中林介绍，如何高效捕获低频、不规则的海洋能量，一直是技术瓶颈，“摩擦纳米发电技术恰好擅长收集低频、无序的海洋波浪能，结构简单、环境适应性强、材料成本还相对低廉。”&lt;/p&gt;&lt;p&gt;　　从2023年开始，王中林把实验室里的团队派到了海上。第一次海试发电，峰值功率密度达120瓦每立方米，平均功率密度为22瓦每立方米。2025年，开始1立方米单体发电装置试验，今年峰值功率已达千瓦级。&lt;/p&gt;&lt;p&gt;　　“下一步我们将进行发电组网测试，初步目标是完成千瓦级示范应用。”王中林心里有着一张时间表：用5到10年，把海洋蓝色能源发展成继风电、光伏之后全新的零碳排放的大能源模式。&lt;/p&gt;&lt;p&gt;　　大海能给予我们的远不止这些。“摩擦纳米发电技术能助力实现海洋的自供能监测，进而助力组建海洋自供能物联网系统。”王中林说。&lt;/p&gt;&lt;p&gt;　　“在大范围海域部署高密度的自发电智能浮标，组成分布式传感器网络，海上物联网就有了稳定供电。”王中林说，从海洋牧场、海底管线的实时监测，到自动监测、跟踪、识别船只，“这对海洋强国具有重要的推动作用。”&lt;/p&gt;&lt;p&gt;　　从独行到众行，越来越多的研究者开始关注摩擦纳米发电。王中林介绍，截至2025年底，全球已有100多个国家和地区、4300多个研究单元、2.2万名学者在这一领域发表了研究论文，至少5000名学者从事压电电子学领域的研究。&lt;/p&gt;&lt;p&gt;　　“我们的重心，是把这些原创的技术和成果，从‘书架子’搬上‘货架子’，在产业应用和造福人类方面，展现出更大的价值。”王中林说。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王昊男&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt;解码摩擦纳米发电技术&lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188654&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188654.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188654.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt;看不见的“微能量”，看得见的大未来（院士讲科普）&lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188654.html#[06版：科技·新知] 看不见的“微能量”，看得见的大未来（院士讲科普）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 前沿研究和我们的生活有什么关联（唠“科”）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188655.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 前沿研究和我们的生活有什么关联（唠“科”） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							陈  征&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　2026年度诺贝尔奖前不久陆续揭晓：物理学奖授予了提出用南极冰层探测中微子的弗朗西斯·哈尔岑，化学奖授予了发现不对称有机合成中的非线性效应和自催化现象的亨利·B·卡甘和硖合宪三，生理学或医学奖则授予卡尔·戴塞罗思、彼得·黑格曼和格奥尔格·内格尔，以表彰他们在光门控离子通道和光遗传学方面的发现……但晦涩的术语、高深的专业知识，让人不禁疑问，这些前沿的研究，与我们的日常生活有什么关联？&lt;/p&gt;&lt;p&gt;　　基础科学在诞生之初往往是“无用之学”。19世纪，奥斯特发现通电导线旁的小磁针偏转、法拉第演示“铜盘实验”等，似乎都离日常生活很远，但当我们把时间线拉长，就会发现，给人类日常生活带来巨大改变的，大多是从当初那些“看不懂、不知道有什么用”的基础研究成果发展而来。&lt;/p&gt;&lt;p&gt;　　举个例子，今年的诺贝尔物理学奖授予了中微子探测相关成果，这是探索宇宙、认识世界的新方式，现在我们并不知道这与生活有什么关联。但当时间回到1901年，获得首届诺贝尔物理学奖的“X射线”，在如今生产生活中的应用已数不胜数。&lt;/p&gt;&lt;p&gt;　　除了医疗上常见的X光片、CT和公共场所安防用的X光机等之外，X射线相关的诺奖成果和应用也深刻影响着当下。冯·劳厄发现X射线衍射，布拉格父子将其用于晶体结构分析，为今天各种新材料的开发提供了必需的分析手段；查尔斯·巴克拉发现元素的特征X射线，卡尔·西格班建立X射线光谱学，帮助我们分析矿石、土壤、合金乃至文物的元素成分，是从冶金、考古、环境监测到半导体芯片、电池材料等研发的必备检测手段。&lt;/p&gt;&lt;p&gt;　　在生命科学领域，此前，有的科学家把X射线晶体结构分析方法用于测定蛋白质分子，有的用其解析青霉素、维生素B12、胰岛素等分子，还有科学家用之揭示DNA双螺旋结构，将生物学深入到分子层次，为今天的新药合成、靶向药设计、疫苗研发等奠定了基础。&lt;/p&gt;&lt;p&gt;　　可以说，在许多领域，都有当时成果的延续。在2009年获诺贝尔物理学奖的光纤，是今天万物互联、全球互联的基础；2014年获得诺贝尔物理学奖的蓝光LED已普遍应用在照明、显示的各个角落；2019年获诺贝尔化学奖的锂电池正撑起新能源产业的发展……这些当时看起来艰涩深奥的成果，与我们的烟火生活之间的关联，往往需要一定时间才会显现。&lt;/p&gt;&lt;p&gt;　　基础研究周期长、短期内看不到回报，但它恰恰是未来技术的地基。让我们期待那些看起来很遥远的研究，在未来给我们生活带来的惊喜与改变。&lt;/p&gt;&lt;p&gt;　　（作者为中国科普作家协会理事会理事、北京交通大学物理科学与工程学院教授）&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　学术支持：中国科学技术协会 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;陈  征&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188655&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188655.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188655.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 前沿研究和我们的生活有什么关联（唠“科”） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188655.html#[06版：科技·新知] 前沿研究和我们的生活有什么关联（唠“科”）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 硬X射线自由电子激光装置首次出光</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188656.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 硬X射线自由电子激光装置首次出光 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 能拍出记录微观世界快速运动的“分子电影” &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　据新华社上海电  （记者董雪）记者从上海科技大学获悉：国家重大科技基础设施硬X射线自由电子激光装置建设取得突破性进展。装置采用4吉电子伏特连续波超导直线加速器产生的电子束，驱动18台4米长、磁周期为55毫米的波荡器线，成功实现自由电子激光首次出光。&lt;/p&gt;&lt;p&gt;　　作为照亮微观世界的科研利器，硬X射线自由电子激光装置就像一台“超级摄像机”，能拍出记录微观世界快速运动的“分子电影”。&lt;/p&gt;&lt;p&gt;　　硬X射线自由电子激光装置于2018年4月启动建设。建成后，硬X射线自由电子激光装置加速器的电子能量将达到8吉电子伏特，首期两条波荡器线可产生光子能量覆盖0.2至15千电子伏特的自由电子激光辐射，光脉冲的长度可短至飞秒量级，最高重复频率可达1兆赫兹。装置可以精准捕捉原子分子快速动态变化过程，将为生命科学、量子材料、未来能源等前沿科学领域，提供微观结构解析、超快动力学研究等尖端研究手段。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 能拍出记录微观世界快速运动的“分子电影” &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188656&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188656.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188656.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 硬X射线自由电子激光装置首次出光 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188656.html#[06版：科技·新知] 硬X射线自由电子激光装置首次出光</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 靠“眼睛”，这款机器人自主行走（探一线）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188657.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 复旦大学研发搭载纯视觉端侧大脑的机器人 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 靠“眼睛”，这款机器人自主行走（探一线） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  黄晓慧&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/2e021da1-d2a7-4d05-b17a-cb748b2eccac.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　在上海举办的第二十六届中国国际工业博览会现场，一台有着“大眼睛”和像火星车一样底盘的白色机器人吸引了人们的目光。展会现场人群流动、场景复杂，这台机器人没有预先设置好的地图，不靠手柄遥控，仅凭“眼睛”就能自主找路，主动避让行人，和观众一起“逛展”。&lt;/p&gt;&lt;p&gt;　　这款机器人名为“旦宝”（见图，魏鹏飞摄），搭载纯视觉端侧大脑，由复旦大学未来信息创新学院和极目天舒团队联合研发。研发团队负责人张天资介绍，长期以来，机器人的运动与作业主要依靠遥控、预编程和预先建图3种方式，而不是来自机器人自身对环境的实时理解。一旦环境或任务发生较大变化，就需要重新建图或编程。在抢险救灾、太空挖矿等作业场景中，变化因素多，急需能够实时理解环境并自主决策的机器人。&lt;/p&gt;&lt;p&gt;　　“旦宝”的诞生得益于纯视觉机器人端侧大脑技术突破。在模型层面，团队将机器人的各类运动统一归纳为“导航”问题，移动是将本体导航至目标位置，抓取等操作则是将指尖导航至目标物体附近。很多机器人抓取和行走用两套不同系统，存在数据一致性差、成本较高等问题，“旦宝”的大脑则能够指挥全身运动。基于上述“端侧大脑”训练出用于具身导航的物理技能——视觉空间智能导航，已在“旦宝”身上稳定运行。&lt;/p&gt;&lt;p&gt;　　张天资说，低算力、高智能是视觉空间智能导航的另一个特点。当前具身智能导航大模型的参数规模多为数十亿级，对算力要求较高，部分方案依赖离机推理，难以直接部署于现有机器人本体。视觉空间智能导航参数量约1.2亿，可在20瓦以内的功耗下支持最多8路视觉输入的端侧实时运行，让机器人摆脱对预建地图、预设程序的依赖，走向自主“理解”和决策、行动。&lt;/p&gt;&lt;p&gt;　　目前，研发团队正将成果与跑腿取送、巡检、农业、清洁等多类机器人开展适配，未来将探索让机器人从自主行走到自主完成任务，再到理解意图的持续“进化”。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  黄晓慧&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 复旦大学研发搭载纯视觉端侧大脑的机器人 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188657&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188657.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188657.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 靠“眼睛”，这款机器人自主行走（探一线） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188657.html#[06版：科技·新知] 靠“眼睛”，这款机器人自主行走（探一线）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 架“桥梁”，让“沉睡”躯体被唤醒（探一线）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188658.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 华中科技大学团队完成全侵入式脑机接口手术 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 架“桥梁”，让“沉睡”躯体被唤醒（探一线） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  吴  君&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　在华中科技大学同济医学院附属同济医院的病房，高位截瘫的胡女士躺在床上，凝视着屏幕特定区域，通过眼动追踪配合意念聚焦，电脑光标随即精准移动起来。这一场景的实现依靠的正是脑机接口装置。&lt;/p&gt;&lt;p&gt;　　今年8月，在唐洲平教授、舒凯教授、胡峰副教授团队操刀下，8根直径比常人发丝还细的超柔性电极被精准植入胡女士的大脑运动区皮层，完成了这一全侵入式脑机接口手术。&lt;/p&gt;&lt;p&gt;　　对于脊髓损伤等患者而言，神经通路的损毁就像切断了大脑与肢体间的“信息桥梁”。尽管患者意识清醒，但“想要运动”的指令无法经由原有神经通路传递至四肢，导致躯体陷入“沉睡”。“脑机接口装置就像一座‘桥梁’，绕过坏掉的神经通路。”唐洲平介绍，“芯片和电极在大脑与外部世界之间架起了新的信息通路，能在毫秒间捕捉到患者‘想动’的神经放电，经过解码之后，转化为具体的行动。”&lt;/p&gt;&lt;p&gt;　　除了侵入式，目前脑机接口还有非侵入式和半侵入式两条技术路线。“侵入式信号质量高、带宽大，但对安全性、长期稳定性要求高；非侵入式安全、便捷、可重复、成本低，但信号弱、个体差异大；半侵入式则提供了一个中间路径。”唐洲平说，选择哪种模式，需要根据患者的个体情况来确定。&lt;/p&gt;&lt;p&gt;　　除了改善肢体残疾患者的运动功能障碍，脑机接口在神经精神疾病领域同样展现出重要的临床干预价值。&lt;/p&gt;&lt;p&gt;　　“这类患者的脑信号发出了错误指令，导致躯体出现不自主运动、情绪失控或认知障碍等症状。”唐洲平介绍，依托脑机接口的精准调控与神经反馈训练，患者可在反复刺激与练习中，逐步重建大脑正常节律与功能秩序。&lt;/p&gt;&lt;p&gt;　　不过，个体间神经信号特征差异显著、动态变化复杂。脑机接口要实现稳定可靠的临床应用，仍需在“解读大脑信号”上攻克信号获取的保真度、算法模型的泛化性难题和技术效果的临床价值等难题，“脑机接口要真正落地临床，需要建立从脑信号采集、解码算法、神经调控，到临床试验、康复评价、医疗器械转化的完整链条。”唐洲平说。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  吴  君&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 华中科技大学团队完成全侵入式脑机接口手术 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188658&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188658.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188658.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 架“桥梁”，让“沉睡”躯体被唤醒（探一线） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188658.html#[06版：科技·新知] 架“桥梁”，让“沉睡”躯体被唤醒（探一线）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 国产卫星互联网打通全球通信“最后的盲区”</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188659.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 国产卫星互联网打通全球通信“最后的盲区” &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京电  （记者刘诗瑶）记者从自然资源部获悉：执行中国第十六次北冰洋考察任务的“极地”号，目前已完成国产卫星互联网北极航线准业务化应用测试。&lt;/p&gt;&lt;p&gt;　　在中国极地研究中心（中国极地研究所）等单位的共同努力下，本航次首次成功开展北极、南极、青藏高原联网通信验证，在“极地”号、秦岭站、西藏自治区拉萨河试验站、北海局视频连线中，语音画面清晰流畅，实现了国产卫星互联网全球低时延高带宽通信，验证了国产卫星互联网通信系统在极端低温、高海拔、强风沙、冰雾等多元恶劣环境下运行的稳定性，打通了全球通信“最后的盲区”。&lt;/p&gt;&lt;p&gt;　　本航次基于国产卫星互联网通信技术，已经累计收发文件300余份，数据量超过100GB，支持开展视频会商40余次，顺利完成语音通话、大数据量文件传输、船岸视频会商、调查装备数据传输国产化、预报平台全程在线运行等全场景通信测试。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188659&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188659.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188659.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 国产卫星互联网打通全球通信“最后的盲区” &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188659.html#[06版：科技·新知] 国产卫星互联网打通全球通信“最后的盲区”</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 我国水稻耐极端高低温育种取得进展</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188660.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 我国水稻耐极端高低温育种取得进展 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报长沙电  （记者杨迅）日前，中国农学会组织中国农业科学院、中国农业大学、中国科学院等单位专家，对湖南杂交水稻研究中心、湖南农业大学、北京金色农华种业科技股份有限公司等单位协同创制的水稻耐极端温度不育系稷233S及其系列杂交组合，分别在湖南平原区和云南高海拔区开展的耐极端高温和耐极端低温种植试验进行现场考察评议。专家组认为，稷233S耐极端高温和低温能力强，所配组合结实率显著高于对照，应用价值较高。&lt;/p&gt;&lt;p&gt;　　团队首席科学家、湖南农业大学校长唐文帮介绍，目前团队已建立从基因挖掘、种质创制、品种培育到示范推广的耐极端高/低温水稻创新技术体系，有望为我国水稻应对全球气候变暖、极端温度频发提供新的品种和技术支撑。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188660&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188660.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188660.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 我国水稻耐极端高低温育种取得进展 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188660.html#[06版：科技·新知] 我国水稻耐极端高低温育种取得进展</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 本版责编：肖  遥  董映雪  银  燕</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188661.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：肖  遥  董映雪  银  燕 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：张丹峰 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188661&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188661.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188661.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：肖  遥  董映雪  银  燕 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188661.html#[06版：科技·新知] 本版责编：肖  遥  董映雪  银  燕</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：广告] 保利发展控股：以“三好”体系建造高品质住宅</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188662.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 保利发展控股：以“三好”体系建造高品质住宅 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/3d76e55f-654b-4007-b9fe-864533458a30.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　当前，我国房地产市场正发生深刻变革，供求关系发生重大变化，产品力、服务力与交付力成为影响购房者决策的关键变量。&lt;/p&gt;&lt;p&gt;　　为更好适应住房发展新阶段的要求，满足消费者对品质生活的需求，保利发展控股提出全新品牌主张“三好保利，用心生活”，构建“好产品—好服务—好生活”价值体系（简称“三好”体系），用扎实的产品力、服务力与交付力，打造高品质住宅。&lt;/p&gt;&lt;p&gt;　　透明工厂，让“好产品”标准看得见&lt;/p&gt;&lt;p&gt;　　2026年4月，保利发展控股发布“三好保利，用心生活”品牌主张。其中，“用心”被阐释为“知心、匠心、恒心”三重承诺，即读懂用户需求、以严格标准打磨产品、提供全周期服务。“好产品”作为“三好”体系的底盘，支撑保利发展控股从“打造好产品”向“营造好生活”的转型。&lt;/p&gt;&lt;p&gt;　　“三好”体系是保利发展控股30余年市场积累的凝结。通过对典型客户的入户深访与社区调研进行交叉验证，保利发展控股将人居经验转化为系统化的研发能力，从性能标准、空间规划到环境营造协同推进，以匹配不同家庭的日常生活习惯。&lt;/p&gt;&lt;p&gt;　　作为“三好”体系的落地样本，保利玥玺湾[穗房预（网）字第20250442号]将“好产品”的着力点放在了建造透明化上——不局限于概念宣发，而是将隐蔽工程与用材标准向公众开放。在项目打造的“透明工厂”中，可以直观检视管线铺设、防水工艺与材料细节，所有进场材料均附有检测报告与溯源码，关键工序实施“一户一档”记录，让建造过程有据可查。这是保利发展控股推动品质管控从内部标准走向可查验的公共视野的创新探索。&lt;/p&gt;&lt;p&gt;　　在具体工艺上，项目重点针对传统住宅常见的渗漏、串烟、返臭等居住痛点，落地“三零工艺”体系，把隐蔽工程做实做细。&lt;/p&gt;&lt;p&gt;　　应对管道渗漏。全屋给水管道升级为耐腐蚀材质，排水管道接口采用热熔连接，让水管融为一体，从源头杜绝漏水隐患；卫生间采用双重防水结合抗裂找坡设计，筑牢干爽屏障。在“透明工厂”内，项目还特意设置了防水对比实验，让原本藏在地下的工艺变得直观可查。&lt;/p&gt;&lt;p&gt;　　应对油烟串味。针对“别人家炒菜、自家闻味”的痛点，厨房烟道优选高密封、抗老化材质的304不锈钢烟道，从选材、安装到接缝密封，层层把关。&lt;/p&gt;&lt;p&gt;　　应对卫浴异味。项目精心规划从地漏到各个排水节点的系统设计，通过巧妙的补水与存水弯技术，防止异味回返。&lt;/p&gt;&lt;p&gt;　　此外，项目还集成了“八衡”健康生态系统。无论室外是严寒酷暑还是喧嚣吵闹，关上门窗，室内的温度、湿度、空气与声学指标都可被妥帖调节。配合“十大工艺”将繁杂的设备管线巧妙隐藏，让居家空间保持视觉体验舒适。&lt;/p&gt;&lt;p&gt;　　保利发展控股认为，“好产品”最终是由一系列可量化、可查验的工程事实构成的。保利玥玺湾通过“透明工厂”与体系化的工艺投入，让“好产品”的标准变得可感知、可追溯，让用户居住更安心、体验更舒适。&lt;/p&gt;&lt;p&gt;　　长期主义，实现“好服务”和“好生活”&lt;/p&gt;&lt;p&gt;　　如果说“好产品”解决的是“物理空间”的问题，那么“好服务”与“好生活”，则综合考虑了人文因素——这也是保利发展控股“三好”体系的最终落脚点。&lt;/p&gt;&lt;p&gt;　　在“好服务”层面，保利玥玺湾为业主提供一条贯穿全生命周期的陪伴链。项目引入金钥匙认证体系，配置N对1管家团与24小时响应机制，建立“一户一档”全生命周期维养。从工程进度透明到业主开放日，从交付前的深度沟通到入住后的资产守护，“好服务”成为连接业主与社区的坚实桥梁。&lt;/p&gt;&lt;p&gt;　　在“好生活”层面，项目致力于让社区成为充满温情的邻里共同体。保利玥玺湾鼓励热爱运动的业主带头，项目团队则从场地到服务资源给予全力支持。目前，网球、城市慢跑等由业主建立的社群已初具规模，进一步丰富了社区的日常。此外，项目运营团队还开展了“走进业主企业”的深度走访，促进业主之间的跨界交流与资源共享，不断增强社区的凝聚力。&lt;/p&gt;&lt;p&gt;　　这种基于长期主义的社群经营，在产品与服务的双重积累之下，逐步转化为保利发展控股的品牌优势，为项目发展积蓄动能。&lt;/p&gt;&lt;p&gt;　　以“三好保利”落地“用心生活”&lt;/p&gt;&lt;p&gt;　　保利玥玺湾的成绩，源于产品品质、服务体系与社群关系三者的叠加。保利以“三好”体系作答，用扎实的工艺、透明的态度和长期的陪伴，为全国房地产市场提供了建造高品质住宅的生动案例。&lt;/p&gt;&lt;p&gt;　　从“三好保利”到“用心生活”，不仅是产品技术层面的追求，更是一份面向居住者的责任。作为央企开发主体，保利发展控股将持续践行“好产品—好服务—好生活”的建设思路，把对人居的思考落实到每个项目的细节之中，不断探索高质量人居建设的可行路径。&lt;/p&gt;&lt;p&gt;　　数据来源：保利发展控股&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188662&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188662.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188662.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 保利发展控股：以“三好”体系建造高品质住宅 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188662.html#[07版：广告] 保利发展控股：以“三好”体系建造高品质住宅</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 玻璃陨石：岭南先民的“生存利器”（考古中国）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188663.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 玻璃陨石：岭南先民的“生存利器”（考古中国） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							刘颖杰  邢  松&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/31/8ff1c694-a009-41b3-9312-9bbf0e05d50c.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　吉到遗址群出土的玻璃陨石制品。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　刘颖杰供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/8ff1c694-a009-41b3-9312-9bbf0e05d50c.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　站在广西左江流域的喀斯特峰林之间，湿热的风裹着草木气息扑面而来。这里夏季漫长，炎热湿润，植被繁茂，石山林立，江河蜿蜒。今天，曾经的荒野已然成为家园。而数万年前，当人类踏上这片土地，他们要怎样生存？&lt;/p&gt;&lt;p&gt;　　2019年，中国科学院古脊椎动物与古人类研究所的考古调查团队，在广西壮族自治区崇左市扶绥县发现了吉到旧石器时代遗址群，并联合广西文物保护与考古研究所、北京大学，在此展开了长达7年的考古工作。相关新成果引起广泛关注。遗址群的代表遗址——吉到1号，地层年代跨越距今3.6万年—0.8万年，发掘出多处墓葬和丰富的用火遗迹，出土了1000余件人类化石、数以万计的石制品和动物碎骨，大量淡水螺蚌壳，以及数百件赭石、植物种子等丰富遗存，是我国乃至东亚地区所见年代最早的史前墓葬群，也是我国迄今发现人类化石数量最多的旧石器遗址。&lt;/p&gt;&lt;p&gt;　　遗址最引人注目的发现之一，是一批特殊的文化遗物——1.5万余件以玻璃陨石为原料的石制品。这些黑色半透明的小石头，为解码左江流域先民的石器技术和生存方式，打开了一扇全新的窗户。&lt;/p&gt;&lt;p&gt;　　玻璃陨石虽名中带有“陨石”二字，但它并非真正的“天外来物”。距今约70万年前发生过一次陨石事件，地球表面沉积物在撞击中被熔融、抛射，随后冷却，形成了天然硅酸盐玻璃体，散落在我国东南沿海至东南亚、澳大利亚一带。玻璃陨石形状多样，包括水滴状、球棒状、哑铃状、球状、圆饼状和不规则块状等，大小从几毫米到十几厘米不等。其摩氏硬度为6.5—7，断口呈贝壳状，非常锋利。凭借这一特性，在数万年至几千年前的岭南，玻璃陨石成为先民珍贵的生产资料和“生存利器”。&lt;/p&gt;&lt;p&gt;　　玻璃陨石制品在遗址的各自然层都有出土，在三个文化期中，玻璃陨石制品在石制品中的占比分别为94.7%、98.4%和89.7%。&lt;/p&gt;&lt;p&gt;　　使用这种石料制作工具并不容易：玻璃陨石原石的体积较小，难以握持剥取石片，采用锤击法产生的石片多细碎，很难被加工利用。实验表明，先民使用砸击法，将玻璃陨石置于石砧上，一只手固定石料并调整位置和角度，另一只手挥动石锤向下砸击剥取石片。这需要精准控制力道，因为玻璃陨石脆性很高，每一次打击都会在其内部产生裂痕，剥片动作必须精、准、狠，在有限的次数内完成，否则原石便会崩碎。另外，若砸击时角度和力度不当，大量飞溅的细小尖利碎屑会伤及打制者和他人。只有在剥片前进行合理预设，进行一次恰到好处的砸击，才能够获取一块大小适中、边缘薄锐的石片，这样的石片无需修整或仅进行简单修整，就可以使用。&lt;/p&gt;&lt;p&gt;　　吉到1号遗址出土的玻璃陨石工具类型多样，包括刮削器、有肩钻器、凹缺器等，能实现刮削、切割、穿刺、钻孔、刻划等多种功能，可见此地先民对玻璃陨石的特性和打制技巧已经完全掌握。出土石制品很多边缘带有小凹槽，表明它们可能与竹、木等材料进行捆绑，制成复合工具，弥补其体积较小、仅靠手持使用难以实现多种功能的缺陷。&lt;/p&gt;&lt;p&gt;　　从时间跨度来看，在吉到遗址群，玻璃陨石制品从距今3.6万年延续至距今0.8万年，贯穿了末次盛冰期前后。在新石器时代的冲塘、顶蛳山等遗址，也发现了数量可观的玻璃陨石制品，表明这套石器传统并未中断，而是稳定存续。&lt;/p&gt;&lt;p&gt;　　从地域广度来看，放眼整个岭南地区，左江流域的冲塘遗址，右江流域的娅怀洞遗址，邕江流域的顶蛳山遗址，柳州的凤岩遗址，远至海南的落笔洞遗址，都有玻璃陨石制品的身影。从广西山林到南海之滨，玻璃陨石被岭南各地的先民拾取、利用。&lt;/p&gt;&lt;p&gt;　　中国北方地区则是另一番景象。到距今约2.8万年至2.6万年时，东北、华北地区都出现了细石叶技术遗存。此后，细石叶技术迅速扩散，在中国北方乃至青藏高原地区全面落地，并在新石器时代继续被使用。相比之下，岭南的玻璃陨石制品只是简单的石核—石片技术产品，远不如石叶、细石叶规范精美。那么，这种有些“简陋”的石制品，为什么能在岭南延续数万年而不被取代？&lt;/p&gt;&lt;p&gt;　　“简陋”的背后，是另一套生存逻辑。玻璃陨石作为一种优质石料，完全具备加工成细石叶或其他精致石器的技术潜力，但岭南先民没有这么做。其原因或许在于“不需要”。岭南丛林密布，河网纵横，动植物资源丰富。既有的工具组合足以应对日常需求，先民缺乏开发更复杂技术系统的压力与动力。如果说细石叶遗存代表了处于高度流动状态的北方先民的“求变”，那么玻璃陨石制品则代表了处在稳定气候环境下的南方先民的“守常”，两种策略体现了远古先民应对多样环境的不同生存智慧。&lt;/p&gt;&lt;p&gt;　　数万年间，看似简单的工具，支撑着先民们走过从旧石器时代至新石器时代的漫长里程，也成为解读岭南远古生存法则的一份独特样本。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;刘颖杰  邢  松&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188663&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188663.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188663.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 玻璃陨石：岭南先民的“生存利器”（考古中国） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188663.html#[08版：文化遗产] 玻璃陨石：岭南先民的“生存利器”（考古中国）</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 守护城市文脉  赓续中华文明</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188664.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 守护城市文脉  赓续中华文明 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张  杰&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　近日，《文化遗产保护传承“十五五”规划》（以下简称《规划》）正式印发。作为“十五五”时期文化遗产领域的纲领性文件，这份《规划》以习近平文化思想为根本遵循，锚定2030年基本形成文化遗产大保护格局目标，标志着我国文化遗产治理迈入全新阶段。&lt;/p&gt;&lt;p&gt;　　城市文脉是中华文明的重要见证。守护好中华大地的城市文脉，就是守住中华文明不可再生的历史根脉，这是《规划》部署文化遗产系统性保护的重点关切。《规划》的突出特点是系统性完备，首次在国家层面为文化遗产全领域搭建起完整工作框架，打通了从资源普查到督察问责的治理链条，打破了不同条线分头治理的工作壁垒，为跨区域、跨领域的重大保护项目提供了顶层支撑。第二个特点是专业性突出，提出了线性遗产和文化线路整体保护，历史文化名城、街区、村镇有效保护和活态传承等中国特色方案，明确要求在城乡建设中落实“先调查、后建设”“先考古、后出让”等文物保护前置要求，在对接国际经验的基础上走出了适配中国文化根脉特质的保护路径。第三个特点是指导性明确，重点、节点明确可落地，设置两次评估考核，形成“部署、推进、考核、问责”的完整工作闭环，为各地各部门推进相关工作提供了清晰的行动指南。&lt;/p&gt;&lt;p&gt;　　当前和未来一段时间，我国文化遗产保护的重要攻坚方向是通过细化分类保护，补齐历史城市、历史街区“应保尽保”的突出短板。经过多年持续推进，我国世界文化遗产数量位居世界第一，各级文物保护单位超过14万处，国家历史文化名城146座，历史文化街区1300余个，国家级非物质文化遗产代表性项目1500余项，涵盖主要类型的保护体系已见雏形，成绩显著。但对标整体性、系统性保护要求，城市文化遗产保护仍然存在“覆盖不全、认定滞后”问题，《规划》提出强化分类保护，整体性、系统性保护历史上的都城、府城、州城、县城等古城，是对此的有力回应。目前我们的保护力度仍显不足。比如在东部某省105座历史上的府城、县城中，75座仍不同程度地保留着古城格局与历史风貌，但仅有8座被纳入国家历史文化名城保护名录。这直接造成在城市更新过程中，大量尚未被列入保护名录的历史街区之存续面临风险。更深层次的问题在于保护认知偏差，不少地方将文化遗产保护等同于“申报—获批”的荣誉性工作，把保护当成向上争取的“奖励”，而非必须落实的法定责任和必须守牢的文化安全底线。之所以存在这种“重申报、轻普查，重挂牌、轻兜底”的认识误区，在于未能把文化遗产保护上升到维护国家文化安全的高度来看待。因此，做好“应保尽保”，是“十五五”时期的重要任务之一。&lt;/p&gt;&lt;p&gt;　　补齐“应保尽保”的短板，必须建立一套科学完整的《规划》落地机制。首先，要提高保护认识，从国家文化安全高度看待全域保护工作，明确所有承载城市历史脉络的空间遗存都具备保护价值。其次，要细化识别标准，将反映不同历史时期特征的环境要素均纳入整体保护范畴。再次，要完善分级保护体系，解决保护标准模糊、管控措施粗放的问题。最后，建立全覆盖、动态更新的保护清单，形成标准化、可统计、可管控的对象名录，让所有历史遗存“有据可查、有规可依、有策可保”。&lt;/p&gt;&lt;p&gt;　　《规划》在保障机制上也有诸多亮点。例如，《规划》首次在中央文件层面明确提出通过中央专项彩票公益金支持文物古迹保护，受到行业瞩目。从国际成熟经验来看，英国、欧盟等文化遗产保护起步较早的国家和地区，早已将15%左右的彩票收入定向用于各类文化遗产保护项目。这一政策的推出，将从实施层面推动我国文化遗产保护形成更加多元的资源投入新格局。&lt;/p&gt;&lt;p&gt;　　文化遗产是中华文明绵延5000多年的实物见证，是不可再生的文明根脉。《规划》的落地实施，将推动我国文化遗产保护迈入系统性保护新阶段，为建设社会主义文化强国提供更有力的支撑。&lt;/p&gt;&lt;p&gt;　　（作者单位：清华大学） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;张  杰&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188664&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188664.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188664.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 守护城市文脉  赓续中华文明 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188664.html#[08版：文化遗产] 守护城市文脉  赓续中华文明</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 江海交汇处的珍馐美味</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188665.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 江海交汇处的珍馐美味 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							赵  飞&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/31/1e8edfdc-a305-47d9-8c23-fcefeba3a405.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　晨洲村附近的蚝农在开蚝。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　李杏子摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/1e8edfdc-a305-47d9-8c23-fcefeba3a405.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　中国是海洋大国，海洋类农业文化遗产资源数量众多。今年10月，第八批中国重要农业文化遗产名单公布，广东汕尾晨洲蚝养殖系统赫然在列。这是全国首个以海产养殖为核心要素的项目，为中国人“耕海牧渔”的传统智慧写下注脚。&lt;/p&gt;&lt;p&gt;　　牡蛎是一种广泛分布于温带至热带海域的经济贝类，“蚝”是其在华南地区的俗称。牡蛎有“海中牛奶”之称，人类采食的历史可追溯至石器时代。据联合国粮农组织2017年发布的公告，全球共有44个国家养殖牡蛎，其中中国为最大生产国，产量在全球占比高达85%。&lt;/p&gt;&lt;p&gt;　　广东地跨热带和亚热带，濒临南海，历来是我国海洋渔业重地。珠江口一带人工养蚝历史悠久，宋代已有记载。清代屈大均《广东新语》卷二十三《介语·蚝》，记录有蚝的生物学形态、命名由来、蚝田种养法、“天蚝”“人蚝”之别、打蚝歌谣及工具、蚝壳屋等内容，由此足以管窥广东沿海蚝养殖系统的深厚价值。&lt;/p&gt;&lt;p&gt;　　晨洲蚝在物种上属于香港巨牡蛎，虽定名较晚，却为广东沿海地区自古养殖的品类。蚝苗取自天然海域，其优良性状由环境塑造，而非遗传选育得来。蚝以浮游生物为食，养殖无需人工投喂，这无疑非常考验蚝农对江海水的管理和利用。&lt;/p&gt;&lt;p&gt;　　晨洲的“万亩蚝田”由数以百计的“塘”和“塭”拼组而成，面积小的称作“蚝塘”，百亩以上的大多称作“蚝塭”或“鱼塭”。蚝塭选址于淡水经常流入的内湾近陆地带、干潮线以上的滩涂地区。蚝民通过人工筑堤、开沟设闸以贮蓄海水，利用潮水涨落纳进或投入蚝苗进行养殖。塭中的水质受到淡水流入的调节，水质肥沃、海水比重适宜，有效避免了自然海域中的剧烈潮汐变化和污染冲击，在稳定水质的同时，也能补充天然饵料。针对不同水域环境，蚝民因地制宜：浅海潮汐频繁、水域开阔，采用水泥柱、浮台和插竹等多种方式养殖；塭塘为蚝的育肥区，水位较浅、水流平缓，则多采用插竹吊养。蚝塭大多兼养鱼虾（种苗来自江海水），如此既增加了水体有机质，为养蚝提供饵料，又能提高整体养殖收益。等到冬季收完蚝后的“晒塭”，塭沟中的水依然可以供鱼虾生长。&lt;/p&gt;&lt;p&gt;　　晨洲村原为海上一孤岛，居民以蚝为生已有300多年历史。时至今日，绝大多数村民依然是蚝农。论养殖水平，老村支书黄智明是佼佼者。在他看来，水质、盐度、季节、降雨、风、潮汐、滩涂地结构等，都可能对蚝的生长产生不小的影响。黄智明的塘和一位年轻蚝农的塘紧挨着，面积也一般大，产量却能多两三倍。耕海牧渔，同样需要适应自然、利用自然。不需要肥料、饲料等外部投入的晨洲蚝养殖系统，运行之效全在于蚝农对生态条件的科学驾驭，传统技术和知识之珍贵，于此益彰。&lt;/p&gt;&lt;p&gt;　　（作者为华南农业大学教授） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;赵  飞&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188665&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188665.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188665.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 江海交汇处的珍馐美味 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188665.html#[08版：文化遗产] 江海交汇处的珍馐美味</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 百年西阴的故事</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188666.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 百年西阴的故事 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							周飞亚&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img _src="../../../pic/202610/31/449a20ad-ec00-4457-8236-aa85ee80dc40.jpg" class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　2025年西阴遗址出土的高圈足彩陶盆。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　周飞亚摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/449a20ad-ec00-4457-8236-aa85ee80dc40.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt; 　　深秋10月，第五届中国考古学大会在山西运城开幕。数百名学者共赴这场中国考古学界规模最大、规格最高的学术会议，为期3天的热烈研讨，绕不开一个词：西阴。&lt;/p&gt;&lt;p&gt;　　整整100年前，正是在运城夏县西阴村的灰土岭上，30岁的李济掘下了中国人独立主持科学考古的第一铲，中国现代考古学由此翻开新篇。&lt;/p&gt;&lt;p&gt;　　当年的西阴遗址，发掘面积很小，却创下了4个“第一”——&lt;/p&gt;&lt;p&gt;　　第一次运用三点记载法、层叠法、探沟探坑法，对每件出土遗物进行三维坐标记录。这是中国考古界首次以地层学为基础的发掘尝试。精细化的发掘与记录，成为中国田野考古的基础规范。1927年出版的《西阴村史前的遗存》，成为我国第一部考古发掘报告，发掘现场图、探方遗迹平剖图、出土器物线图、陶片统计表等奠定了考古报告的基本模式。1930年，梁思永根据此次发掘的标本，写下硕士论文《山西西阴村史前遗址的新石器时代的陶器》，第一次运用类型学对国内考古资料进行整理研究。而发掘开始前，李济与美国弗利尔艺术陈列馆拟定的《山西省历史文物发掘管理办法》，涉及权限、发掘品归属、文物展览，亦是我国第一部考古发掘管理制度。&lt;/p&gt;&lt;p&gt;　　可以说，中国考古科学化，由西阴发端。&lt;/p&gt;&lt;p&gt;　　而要真正读懂西阴，还得回到仰韶。那是一个民族的“文化之问”。&lt;/p&gt;&lt;p&gt;　　1921年，瑞典学者安特生发掘河南渑池仰韶村，命名仰韶文化，中国现代考古学由此诞生。然而，安特生提出“中国文化西来说”，断言中国彩陶源自西方。彼时，国势衰微，此说风行，不少人甚至怀疑中华文明“自他邦而来”。当时的有志之士，都想要对这一问题做出回应。1926年3月，受聘清华国学研究院的李济与地质学家袁复礼在汾河流域进行史前人类遗迹调查，在西阴村发现“一大块到处都是史前陶片的场所”，于是有了西阴遗址的首次发掘。&lt;/p&gt;&lt;p&gt;　　发掘有两样珍贵收获。其一是半枚人工切割的蚕茧，虽已炭化，切割处却极为平直，把中国人植桑养蚕的历史推到约6000年前。其二是绘有圆点、弧线、三角等纹样的彩陶，李济将其命名为“西阴纹”。它们以实物发出宣告：中华文明根植于自己的土地，源远流长，自成体系。&lt;/p&gt;&lt;p&gt;　　1994年，西阴遗址迎来第二次发掘。这一次，学者们厘清西阴遗址包含庙底沟二期文化、二里岗文化等多期遗存，建立起该区域史前文化序列，西阴文化被正式命名。2025年至2026年，由山西省考古研究院牵头，西阴第三次发掘启幕。这次发掘，摸清了西阴遗址的分布范围，探明了仰韶时期的双重环壕轮廓，先民如何规划聚落、划分功能、组织防御，有了清晰线索。多学科考古全面铺展开：浮选获得的粟、黍等植物遗存，鉴定出的猪、狗、鹿等多种动物骨骼，揭示出家畜饲养与狩猎采集互补的生业；拉曼光谱确认彩陶颜料为赭石；小口尖底瓶的残留物里发现红曲霉菌和酵母，证明5000多年前的先民已同时掌握曲酒与谷芽酒两种酿造技术……&lt;/p&gt;&lt;p&gt;　　西阴遗址所在的夏县，古称安邑，历史上一直被认为是禹都——夏县之“夏”，正得名于夏文化。传说黄帝元妃嫘祖教民植桑养蚕于夏县，后人在灰土岭上建有嫘祖庙，每年都会举办庙会。当年西阴出土的那半枚蚕茧，曾长期受到质疑，而近年来，西阴村以及河津、闻喜、芮城等地多个同时代或稍晚时期的遗址中，都发现了石雕或陶制茧蛹，为晋南作为中国丝绸起源核心区域提供了重要的实物证据。&lt;/p&gt;&lt;p&gt;　　为什么晋南地区有这么多仰韶时代的大遗址？先民为什么选择这里定居，并发展出以西阴文化为代表的灿烂文化？随着文明探源工程的展开，答案逐渐清晰——盐和铜矿。&lt;/p&gt;&lt;p&gt;　　运城盐池是中原地区规模最大的池盐产地，稳定的盐业资源为大规模人口聚集和定居提供了必要条件，是史前文化繁盛的重要物质基础。盐池保障了早期族群的生存与财富积累，诱发了社会复杂化；随着文明持续演进，中条山铜矿的产出则为夏商早期国家提供了核心战略物资，支撑了礼制文明的运转。&lt;/p&gt;&lt;p&gt;　　东依中条山、南距盐池20多公里的西阴，无疑是晋南与中华文明起源课题中一个醒目的坐标。&lt;/p&gt;&lt;p&gt;　　一处遗址，三次发掘，跨越百年。西阴遗址的三次考古发掘，恰好落在中国现代考古学起步、学科体系成熟、文明探源深化的三个关键节点上。小小的西阴村，因此成为一面镜子，映照出中国考古学的世纪征程。如今，距离遗址数公里处，造型如蚕茧的西阴考古博物馆也已完成布展，即将对公众开放。百年西阴和中国考古学的故事，仍在不断续写新篇。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;周飞亚&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188666&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188666.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188666.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 百年西阴的故事 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188666.html#[08版：文化遗产] 百年西阴的故事</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 迢迢胡乐入汉声</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188667.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 迢迢胡乐入汉声 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							李  博  王若洋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　陕西咸阳坡刘村M2 出土演奏竖箜篌乐俑、西安等驾中村M3 出土骑马鼓吹俑。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　李 博供图&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202610/31/99358b81-62f4-4cfc-9536-2715c320acc2.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　十六国北朝时期，以长安为中心的关中地区，据崤函之固、拥沃野之饶，又控扼丝绸之路东端，成为竞逐与会聚之地。匈奴、氐、羌、鲜卑等族群相继在此建立政权，他们在承继中原礼乐传统的同时，也把西域胡乐引入上层社会与郊庙祭祀，形成“以胡入雅、胡风汉韵”的独特音乐风貌。然而，这一时期乐制沿革的记载向来简略，近年来，关中地区大批十六国至北朝墓葬中乐俑的出土，为复原当时的乐队组合、乐器嬗变提供了珍贵资料。&lt;/p&gt;&lt;p&gt;　　关中地区已发现的十六国至北朝墓葬中，出土乐俑者已有数十座，集中于咸阳原、凤栖原、少陵原及高阳原一带。各类乐俑总数400余件，包括奏乐的伎乐俑、军仪出行的鼓吹俑，以及不持乐器、只作唱念或击掌等姿态的姿态俑。&lt;/p&gt;&lt;p&gt;　　咸阳布里村前秦早期墓葬M63共出土乐俑31件，其中伎乐俑所持乐器分吹、弹、击三类，吹奏类有排箫、笙、笛，弹奏类有琵琶、瑟、筝、筑，击奏类则均为鼓；姿态俑或说唱，或击掌，或领奏，与奏乐者共同构成完整的表演场景。透过这一组合可见，十六国贵族阶层音乐文化中，商周至西汉时期常见的钟、磬等礼乐器已彻底退出，取而代之的是大量丝竹管弦乐器，而筝、瑟等中原乐器仍居要位。此种以丝竹管弦之乐为主、华夏旧器为骨干的格局，延续了汉魏清乐传统。《隋书·音乐志》云：“清乐其始即清商三调是也，并汉来旧曲……此华夏正声也。”由此看来，十六国前中期关中贵族宴享并非一片胡声，而是以中原清商为主体，这正与文献所载前秦、后秦统治者重汉制、修礼乐相呼应。&lt;/p&gt;&lt;p&gt;　　不过，这一脉华夏正声并未在关中长久回响。后秦末年至北魏时期，情形为之一变。西安草场坡M1、洪庆原梁猛墓、等驾中村M3诸墓中，随葬乐俑多以鼓吹俑为主。&lt;/p&gt;&lt;p&gt;　　鼓吹何以代伎乐而起？变局之根由，或许仍在政权更迭与战乱流离中。后秦末刘裕入关，收其乐工伎人南渡，关中宫廷汉乐自此元气大伤。至北魏既都平城、复取关中后，残余乐人虽被北徙平城，然鲜卑统治者“乐操土风，未移其俗”，军中鼓角之乐渐居上位，鼓吹遂成北朝墓葬主调，成组伎乐俑则几近绝迹。&lt;/p&gt;&lt;p&gt;　　关中十六国时期的音乐文化并非孤立发展，区域交流在乐俑中有迹可循。角类乐器便是一例。胡角在关中北朝乐俑中频频现身，成为鼓吹仪仗中的常见乐器。现存汉魏时期的音乐图像中却极少见到角的踪影。这一反差暗示：角并非中原乐舞的固有成员。宋人陈旸在《乐书》中记载“铜角，高昌之乐器也，形如牛角，长二尺”。高昌处于河西通往西域的要冲，与关中存在持续不断的军事与人口往来。角可能正是伴随十六国时期的战争所引发的人口流动而传入关中，并广泛用于军乐鼓吹。&lt;/p&gt;&lt;p&gt;　　无独有偶，与角同属鼓吹系统的掆鼓，也透露出同样的信息。西安等驾中村M3出土的掆鼓，其形制与演奏方式同甘肃高台地埂坡魏晋墓M4壁画中的掆鼓近乎相同，印证了关中与河西之间的音乐互动。角主吹鸣、掆鼓司击节，二者一吹一击，其早期形态均可追溯至河西、西域一带，这恰为鼓吹代伎乐而起这一现象提供了注解。&lt;/p&gt;&lt;p&gt;　　无论是高昌之角，还是龟兹之竖箜篌，其东传都与吕光西征事件密切相关。《太平御览》载“吕光灭龟兹，因得其声乐，记有竖箜篌”。咸阳坡刘村M2出土演奏竖箜篌乐俑，是迄今关中地区十六国时期乐俑中仅见的一例，为以竖箜篌为代表的西域乐器东传路径补充了关键一环。&lt;/p&gt;&lt;p&gt;　　回望这段历程，关中地区十六国北朝音乐文化并非“汉乐衰、胡乐兴”的单向替代，而是层层累积的演进。汉魏以来的中原音乐并未因战乱而断绝，异域乐器亦随人口迁徙、丝路交往不断涌入关中，不同地域、族群的音乐因素长期碰撞、彼此吸纳；新乐器与旧有传统重新组配，呈现出独属于那个时代的崭新面貌。关中乐俑所呈现的，正是不同文化相遇之后的吸收、转化与再创造。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;李  博  王若洋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188667&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188667.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188667.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 迢迢胡乐入汉声 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188667.html#[08版：文化遗产] 迢迢胡乐入汉声</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：文化遗产] 本版责编  周飞亚</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188668.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编  周飞亚 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年10月31日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本版邮箱 ysbjs@peopledaily.cn &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-10-31 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30188668&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188668.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202610/31/content_30188668.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编  周飞亚 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202610/31/content_30188668.html#[08版：文化遗产] 本版责编  周飞亚</guid>
+      <pubDate>Sat, 31 Oct 2026 09:40:19 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
