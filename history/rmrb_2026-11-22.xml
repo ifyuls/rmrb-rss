@@ -1,0 +1,1061 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>人民日报 - 每日全文订阅</title>
+    <link>https://paper.people.com.cn/</link>
+    <description>基于 Python 自动化高并发抓取的人民日报全版面全正文 RSS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 21 Nov 2026 03:17:28 +0000</lastBuildDate>
+    <item>
+      <title>[01版：要闻] 习近平会见印度尼西亚总统普拉博沃</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192348.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平会见印度尼西亚总统普拉博沃 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　11月20日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的印度尼西亚总统普拉博沃。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  李  响摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/96905e13-8308-45b6-8b29-030cd539fc6d.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报深圳11月20日电  （记者杨学博、巩晗）11月20日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的印度尼西亚总统普拉博沃，两国元首共同宣布启动两国全面经济伙伴关系协定谈判。&lt;/p&gt;&lt;p&gt;　　习近平指出，近年来，中国同印度尼西亚战略互信日益牢固，互利合作成果丰硕，命运共同体建设迈上新台阶，为两国推进各自现代化提供了重要助力。当前，两国都面临推进现代化、实现国家长治久安、营造良好外部环境的共同任务，双方要加强战略沟通和团结协作，深化全方位战略合作，推动中印尼命运共同体建设不断迈上新台阶。要夯实政治互信基石，共同防范和应对外部风险，加强执政党治国理政经验交流，提高各自执政能力。要做大互利合作蛋糕，抓好雅万高铁、“两国双园”等大项目合作，深化能矿资源、人工智能、数字经济、清洁能源等合作，积极构建蓝色伙伴关系，早日达成全方位、高水平的全面经济伙伴关系协定。&lt;/p&gt;&lt;p&gt;　　习近平强调，当前世界百年变局加速演进，风险挑战层出不穷。中国和印尼要共同担起时代责任，坚定做维护和平稳定的正义力量和促进人类发展进步的建设性力量。中方愿同印尼方在联合国、亚太经合组织、中国—东盟等多边框架内加强协调和配合，支持东盟加强团结和战略自主，维护地区安全和发展，引领全球南方联合自强，改革完善全球治理。&lt;/p&gt;&lt;p&gt;　　普拉博沃表示，我同习近平主席近年来4次会晤，推动双边关系取得重要进展。印尼同中国的战略伙伴关系比以往任何时候都更加强劲，两国政治互信不断增强，经济合作成果丰硕，海上共同开发取得积极进展。印尼坚定奉行一个中国政策，认为台湾是中华人民共和国的一个省。印尼政府和人民感谢中方长期以来为印尼经济社会发展提供支持，愿不断深化对华合作。印尼衷心欢迎中资企业赴印尼投资兴业，将致力于提供可靠稳定、可预期的营商环境。祝贺中方成功主办亚太经合组织领导人非正式会议，引领亚太合作取得新进展。印尼高度赞赏中国在国际事务中发挥负责任大国作用，支持习近平主席提出的四大全球倡议，愿同中方加强在联合国、世界人工智能合作组织、国际调解院等协调和配合，坚守多边主义，完善全球治理，维护全球南方共同利益，维护地区和世界和平稳定。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅、黄坤明等参加会见。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192348&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192348.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192348.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平会见印度尼西亚总统普拉博沃 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192348.html#[01版：要闻] 习近平会见印度尼西亚总统普拉博沃</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平会见澳大利亚总理阿尔巴尼斯</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192349.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平会见澳大利亚总理阿尔巴尼斯 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　11月20日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的澳大利亚总理阿尔巴尼斯。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  李  响摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/7f7ea542-29ad-4c53-939a-52054afcd3e1.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报深圳11月20日电  （记者贺林平、杨翘楚）11月20日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的澳大利亚总理阿尔巴尼斯。&lt;/p&gt;&lt;p&gt;　　习近平指出，当前中澳关系稳定发展，两国各领域交流合作持续深化。中澳两国既没有历史恩怨，也没有根本利益冲突，理应成为相互信任、彼此成就的合作伙伴。双方要以明年两国建交55周年为契机，本着平等相待、求同存异、互利合作精神，推动中澳关系在新的起点上得到更大发展，更好造福两国人民。&lt;/p&gt;&lt;p&gt;　　习近平就推动中澳关系取得新进展提出4点意见。一是在变乱交织的国际形势中增进彼此互信，坚持全面战略伙伴关系定位，理性、友善看待对方，照顾彼此核心利益和重大关切，把牢两国友好合作大方向；二是在谋求各自发展中深化互利合作，推进农业、能源、矿产等传统合作，加强绿色经济、新能源、数字产业、人工智能、应对气候变化等新兴合作，共享机遇、共谋发展；三是在扩大人文交流中促进两国友好，双方已商定把2027年设为“中澳旅游年”，要鼓励两国地方、民间、青年、媒体、智库等开展更多交流，巩固中澳友好的民意基础；四是在应对全球性挑战中加强多边协作，推进亚太共同体建设，共同维护以联合国为核心的国际体系和以国际法为基础的国际秩序。&lt;/p&gt;&lt;p&gt;　　阿尔巴尼斯表示，澳中关系改善发展符合双方利益，为两国人民带来实实在在的福祉。感谢习近平主席复信澳大利亚青年学生，这对于增进两国人民友好具有重要意义。澳大利亚承诺坚持一个中国政策，愿同中方密切高层交往，加强贸易、投资、人工智能等领域务实合作，深化人文交流，相互尊重，妥处分歧，使澳中关系成为不同制度国家发展建设性关系的典范。祝贺中国在深圳成功举办亚太经合组织领导人非正式会议。在当前动荡世界里，中国是重要稳定力量。祝贺中方成功主办中俄美元首会晤，这一会晤十分重要，有利于维护世界和地区和平稳定。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅、黄坤明等参加会见。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192349&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192349.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192349.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平会见澳大利亚总理阿尔巴尼斯 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192349.html#[01版：要闻] 习近平会见澳大利亚总理阿尔巴尼斯</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平会见新加坡总理黄循财</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192350.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平会见新加坡总理黄循财 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　11月20日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的新加坡总理黄循财。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  申  宏摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/36b4b397-e184-40f3-8e4a-72cbbfc20e14.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报深圳11月20日电  （记者胡泽曦、程远州）11月20日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的新加坡总理黄循财。&lt;/p&gt;&lt;p&gt;　　习近平指出，中国和新加坡是友好近邻和重要发展伙伴，各领域交流合作成果丰硕，为两国人民带来了实实在在好处。面对世界百年变局加速演进，中新双方要把握时代潮流，加强战略沟通，增进团结协作，推动中新全方位高质量的前瞻性伙伴关系不断迈上新台阶，更好服务各自现代化建设，为国际和地区繁荣稳定作出积极贡献。&lt;/p&gt;&lt;p&gt;　　习近平强调，中新要做相互信任的真诚朋友，筑牢政治互信，维护共同利益，支持彼此走好符合自身国情的发展道路。要做引领创新的发展伙伴，继续高质量共建“一带一路”，高水平运营重大合作项目，启动自贸协定4.0版谈判，在数字经济、绿色发展、人工智能等领域打造标志性合作成果，推动双边合作向新、向智、向绿转型。要做互学互鉴的友好近邻，深化治国理政经验交流和党际合作，扩大人文交流，厚植中新友好民意基础。要做维护国际公平正义的进步力量，加强在亚太经合组织、中国—东盟等多边框架内协调和配合，把稳东亚合作正确方向，维护地区和平稳定，共建亚太共同体和人类命运共同体。&lt;/p&gt;&lt;p&gt;　　黄循财表示，新中各领域合作不断深化，全方位伙伴关系强劲有力。新方坚定奉行一个中国政策，反对“台独”。新方高度重视新中伙伴关系，愿同中方增强政治互信，加强各层级交往和贸易、产供链、人工智能等领域合作，增进人文交流，推动两国关系不断向前发展。中方在深圳成功举办亚太经合组织领导人非正式会议，中方倡导的开放、创新、合作理念契合亚太发展需要。祝贺中方主办中俄美三国元首会晤，这在当前变乱交织的国际形势下具有重要意义，有利于维护世界的和平稳定。新方支持习近平主席提出的人类命运共同体理念和四大全球倡议，愿同中方加强国际事务沟通合作，共同应对全球性挑战。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅、黄坤明等参加会见。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192350&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192350.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192350.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平会见新加坡总理黄循财 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192350.html#[01版：要闻] 习近平会见新加坡总理黄循财</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平会见泰国总理阿努廷</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192351.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平会见泰国总理阿努廷 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　11月20日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的泰国总理阿努廷。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  李  响摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/74a93d95-d1c5-4b70-9072-3bd47d902d06.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报深圳11月20日电  （记者黄超、王嵘）11月20日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的泰国总理阿努廷。&lt;/p&gt;&lt;p&gt;　　习近平指出，中泰两国高层常来常往，充分体现了“中泰一家亲”的传统情谊和两国关系的高水平。当前世界百年变局加速演进，中泰两国作为彼此可信赖、可依靠的战略合作伙伴，要不断增进政治互信，密切团结协作，这符合两国人民根本利益和共同期待。中方坚定支持泰方实现国家稳定和发展振兴，愿继续同泰方在各自现代化道路上携手前行，推动中泰命运共同体建设迈向更高水平，为地区和平稳定和发展繁荣作出更大贡献。&lt;/p&gt;&lt;p&gt;　　习近平强调，中泰两国要密切政府、政党、立法机构等交往，加强治国理政经验交流，维护共同战略利益。中泰经贸合作的本质是互利共赢、共同发展，双方要加强战略对接，用好经贸、科技、数字经济等合作机制，做大做强农业、互联互通等传统合作，培育壮大人工智能、新能源汽车、航空航天、防灾减灾救灾、水资源治理等合作新增长点，共同打造地区科技创新和产业合作高地。中泰两国血缘相亲、人文相通，要加强文化、教育、旅游等合作，让中泰友好更加深入人心。同时，双方要加大打击网赌电诈等违法犯罪活动，为两国人员往来营造更加安全的环境。双方还要加强多边协作，携手维护全球南方共同利益。中方愿为泰柬关系早日实现转圜发挥积极作用。&lt;/p&gt;&lt;p&gt;　　阿努廷表示，祝贺中国共产党二十届五中全会成功召开。泰中关系历久弥坚，泰方坚定恪守一个中国原则，致力于提升两国关系水平。泰方愿同中方继续密切高层交往，加强贸易、投资、科技、产供链、互联互通等合作，扩大人文交流，增进人民友好。泰方将坚决打击网赌电诈等跨国犯罪，保护好在泰中国公民安全，欢迎更多中国民众赴泰旅游。泰方赞赏中方在国际事务中的卓越领导力，祝贺中方成功举办亚太经合组织领导人非正式会议，祝贺习近平主席成功主持中俄美元首历史性会晤。泰方期待同中方继续在东盟—中国合作、澜湄合作、亚太经合组织等多边机制中加强协调，维护多边主义。泰方赞赏并期待中方继续为调解泰柬边境冲突发挥建设性作用。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅、黄坤明等参加会见。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192351&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192351.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192351.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平会见泰国总理阿努廷 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192351.html#[01版：要闻] 习近平会见泰国总理阿努廷</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 习近平会见马来西亚总理安瓦尔</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192352.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平会见马来西亚总理安瓦尔 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　11月20日中午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的马来西亚总理安瓦尔。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  申  宏摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/33b7ae82-eb26-4121-b348-9fa4fe460c4b.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　本报深圳11月20日电  （记者王玉琳、洪秋婷）11月20日中午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的马来西亚总理安瓦尔。&lt;/p&gt;&lt;p&gt;　　习近平指出，去年4月，我同安瓦尔总理就构建高水平战略性中马命运共同体达成重要共识，开启中马关系新的“黄金50年”。一年多来，中马关系持续高水平发展，双方擘画的合作蓝图日益变成美好现实。面对变乱交织的世界，中方愿同马方秉持建交初心，汇聚合作动能，推动中马命运共同体建设走深走实，为两国人民带来更多福祉。&lt;/p&gt;&lt;p&gt;　　习近平强调，中马关系政治根基牢固，合作优势突出，发展前景广阔。双方要深化高水平战略协作，保持高层战略沟通，相互支持彼此维护国家主权、安全、发展利益；要加强发展战略对接，挖掘新兴合作潜力，高质量建设和运营好重点项目，做大做优农产品贸易；要引领文明交流互鉴，再接再厉办好中马“儒伊文明对话”，扩大旅游、教育等合作，进一步密切民间和地方交流；要协同推进全球治理改革，加强在亚太经合组织等多边框架内协调和配合，携手践行真正的多边主义，维护广大发展中国家共同利益。&lt;/p&gt;&lt;p&gt;　　安瓦尔表示，在习近平主席英明领导下，中国取得非凡发展成就。衷心祝贺中国成功举办亚太经合组织领导人非正式会议和中俄美三国元首会晤，这充分彰显习近平主席在国际事务中的卓越影响力和领导力，中俄美三国元首发表《和平宣言》，在当前国际形势下具有重大战略意义。台湾问题是中国内政，马方坚定恪守一个中国政策。马方愿同中方加强战略协作，发挥好两国合作机制作用，运营好基础设施建设重点项目，加强人工智能等新兴领域合作，促进文明交流对话，加强在国际事务中的协调和配合，不断提升马中关系水平。&lt;/p&gt;&lt;p&gt;　　蔡奇、王毅、黄坤明、王小洪等参加会见。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192352&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192352.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192352.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平会见马来西亚总理安瓦尔 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192352.html#[01版：要闻] 习近平会见马来西亚总理安瓦尔</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192353.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　11月20日下午，国务院总理李强在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  黄敬文摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/b3cfd327-23c8-48d5-9423-d02ee99fbaf4.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　新华社北京11月20日电  （记者伍岳）11月20日下午，国务院总理李强在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤。&lt;/p&gt;&lt;p&gt;　　李强表示，当前，中澳关系保持积极发展势头，各层级交往日益密切，各领域合作走深走实，给两国人民带来实实在在的利益。今天上午，习近平主席在深圳同总理先生举行会晤，就进一步深化中澳关系作出战略指引。明年是中澳建交55周年，中方愿同澳方一道以此为契机，秉持平等互利、开放务实态度，聚焦共同利益，妥善管控分歧，推动中澳全面战略伙伴关系取得更多积极成效，共促两国发展繁荣。&lt;/p&gt;&lt;p&gt;　　李强指出，中澳在产业、市场、技术等方面各有优势、互补性强，两国深化合作有内生需求，能够相互赋能。中方愿同澳方推动双边贸易扩大规模、优化结构，打造绿色低碳、新能源汽车、人工智能等新兴领域合作亮点，进一步提升贸易投资自由化便利化水平，争取更多实际成果。双方要办好明年的“中澳旅游年”，深化文化、青年、地方、媒体、智库等交流合作，筑牢两国关系友好基础。当前，单边主义、保护主义还在大行其道。中澳同为多边主义的支持者、受益者，中方愿同澳方加强在联合国、亚太经合组织等框架下沟通协调，共同维护多边体系和自由贸易，捍卫国际公平正义。&lt;/p&gt;&lt;p&gt;　　阿尔巴尼斯再次祝贺中方在深圳成功举办亚太经合组织领导人非正式会议，表示近年来澳中关系稳步发展，各层级交往日益密切，相互理解和信任更加深入。澳方坚持一个中国政策的立场不会改变。在当前动荡的国际形势下，澳中更应放眼长远，不能让分歧干扰双边关系，而是要积极推进合作，为两国、地区和全球人民带来更多福祉。澳中经济具有互补性，澳方愿以两国建交55周年为契机，同中方深化经贸、农业、能源等领域合作，加快清洁能源、人工智能、电动汽车、数字经济等新兴领域合作，密切旅游等人文交流。澳方坚持多边主义和自由、开放的贸易，愿同中方携手维护以规则为基础的多边贸易体制。&lt;/p&gt;&lt;p&gt;　　双方共同发表《中澳总理年度会晤联合成果声明》。&lt;/p&gt;&lt;p&gt;　　吴政隆出席会晤。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192353&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192353.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192353.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192353.html#[01版：要闻] 李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 赵乐际会见澳大利亚总理阿尔巴尼斯</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192354.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 赵乐际会见澳大利亚总理阿尔巴尼斯 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京11月20日电  全国人大常委会委员长赵乐际20日下午在北京会见澳大利亚总理阿尔巴尼斯。&lt;/p&gt;&lt;p&gt;　　赵乐际表示，今天上午，习近平主席同总理先生进行战略沟通，为两国关系进一步发展指明了方向。中方愿同澳方以明年中澳建交55周年为契机，共同落实好两国领导人重要共识，增进战略互信、拓展务实合作、深化人文交流、加强多边协调，推动构建更加成熟稳定、更加富有成果的中澳全面战略伙伴关系。中国全国人大愿同澳联邦议会加强交流合作，分享立法、监督等工作经验，为两国务实合作提供法律保障。&lt;/p&gt;&lt;p&gt;　　阿尔巴尼斯表示，祝贺中国成功举办亚太经合组织领导人非正式会议。我同习近平主席进行了富有成果的战略性沟通，达成重要共识。支持澳中立法机构继续保持良好交往，促进人民友谊。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192354&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192354.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192354.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 赵乐际会见澳大利亚总理阿尔巴尼斯 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192354.html#[01版：要闻] 赵乐际会见澳大利亚总理阿尔巴尼斯</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[01版：要闻] 丁薛祥将访问新加坡并主持中新双边合作机制会议</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192355.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 丁薛祥将访问新加坡并主持中新双边合作机制会议 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 01 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京11月20日电  （记者韩晓明）外交部发言人20日宣布：应新加坡副总理颜金勇邀请，中共中央政治局常委、国务院副总理丁薛祥将于11月22日至23日访问新加坡，同颜金勇副总理共同主持中新双边合作联委会第二十二次会议、中新苏州工业园区联合协调理事会第二十七次会议、中新天津生态城联合协调理事会第十八次会议、中新（重庆）战略性互联互通示范项目联合协调理事会第十次会议。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192355&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192355.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192355.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 丁薛祥将访问新加坡并主持中新双边合作机制会议 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192355.html#[01版：要闻] 丁薛祥将访问新加坡并主持中新双边合作机制会议</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[02版：要闻] 习近平主席的深圳APEC时间</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192356.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 习近平主席的深圳APEC时间 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; “亚太奇迹”新篇章，大国外交新图景，在这里起笔 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  杜尚泽  胡泽曦  罗珊珊&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 02 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　图为位于前海国际会议中心的APEC主题花坛。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　本报记者  肖  翊摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/26237105-a3a7-4b89-ba0e-48f0203e8575.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　南海之滨，鹏城深圳，历史把笔落在了这片沃土。&lt;/p&gt;&lt;p&gt;　　2026年11月，习近平主席的亚太经合组织（APEC）时间，近20场双多边活动密集铺展：&lt;/p&gt;&lt;p&gt;　　18日至19日，出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲，主持亚太经合组织第三十三次领导人非正式会议并发表题为《建设亚太共同体，续写“亚太奇迹”新篇章》的重要讲话。亚太共同体是和衷共济的求索，也是携手奔赴的征程。&lt;/p&gt;&lt;p&gt;　　19日下午，习近平主席同俄罗斯总统普京、美国总统特朗普围桌而坐——中俄美三国最高领导人，有史以来第一次聚首。会晤也被称为一次“和平峰会”，三国元首围绕“维护世界和平，促进大国关系战略稳定”深入讨论、发表面向世界的《和平宣言》，为大国互动构建了新范式。&lt;/p&gt;&lt;p&gt;　　再把镜头拉远。30多年前，亚太经合组织应运而生，太平洋两岸自此有了机制化的对话与合作；40多年前，深圳经济特区破土而出，一个边陲小镇用一两代人的时间长成国际化大都市；80多年前，作为世界反法西斯战争的中坚力量，中俄美三国并肩奋战，取得伟大胜利，为世界赢得和平和安宁。&lt;/p&gt;&lt;p&gt;　　三条历史脉络从不同的起点出发，蜿蜒至今，共同抵达了同一座城。&lt;/p&gt;&lt;p&gt;　　21个经济体的多边之约，中俄美元首会晤，多边与大国、地区与全球、发展与安全，在深圳完成了一次历史性的交汇。&lt;/p&gt;&lt;p&gt;　　外媒热议，“这是全球外交的历史性时刻”。&lt;/p&gt;&lt;p&gt;　　“亚太奇迹”的下一程，中国特色大国外交新的鸿篇长卷，从深圳起笔。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;时势所在的“一坐标”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　一个地区的前途，系于关键路口前的抉择；一个机制的分量，见于时代之问下的作答。&lt;/p&gt;&lt;p&gt;　　18日上午，前海国际会议中心；19日上午，深圳国际交流中心。前一日是面向工商界的机遇讲述，后一日是擘画地区未来的思想领航。两天时间，都是亚太大家庭的相向而行。密集日程中，一个关键词贯穿始终：亚太共同体。&lt;/p&gt;&lt;p&gt;　　APEC的中国故事，有漫长的来路。从后国际金融危机时期的复苏乏力，到区域贸易协定碎片化，再到疫情冲击、产供链震荡，每逢亚太发展的关键节点，中国都为地区合作指引航向。&lt;/p&gt;&lt;p&gt;　　今天，亚太又一次站在抉择关口。习近平主席的深圳APEC时间，就从直面当前地区的必答题开启：&lt;/p&gt;&lt;p&gt;　　“世界怎么了？亚太怎么办？开放还是封闭，合作还是分化，变革还是守旧？”&lt;/p&gt;&lt;p&gt;　　工商界人士，最敏感于时代的风向。18日上午，前海国际会议中心，习近平主席洞悉潮流、明晰方向：“中方愿同各方一道，坚定信心、勇毅前行，携手建设亚太共同体，促进亚太共同繁荣。”&lt;/p&gt;&lt;p&gt;　　维护和平稳定大局，搭建开放合作桥梁，激发创新增长动力，拓展互利共赢路径。四点中国主张环环相扣，有对合作初心的坚守，有对发展新机的把握，更有对时代挑战的回应。&lt;/p&gt;&lt;p&gt;　　细心的观察者们发现，中国担任东道主的三次APEC会议，分别召开于上海、北京、深圳，对应着长三角、京津冀、粤港澳大湾区这三大高质量发展动力源。而透过时间跨度，2001年、2014年和2026年，中国的角色从参与者、推动者到引领者，一条脉络日渐清晰。&lt;/p&gt;&lt;p&gt;　　深圳，粤港澳大湾区的创新枢纽。在这里，习近平主席郑重宣布：“中方支持成立世界湾区经济合作联盟，深化各湾区交流互动，探索亚太经济合作新路径。”这是于本土求索的发展之道，向外延展，泽被区域、惠及山海。&lt;/p&gt;&lt;p&gt;　　19日上午，深圳国际交流中心。巨型圆桌前，围坐着世界经济的“大半壁江山”。&lt;/p&gt;&lt;p&gt;　　第一项议程，国际货币基金组织总裁格奥尔基耶娃应邀介绍全球经济形势。通胀、赤字、利率……这些沉甸甸的词，也是许多经济体的困扰。她以中国成语“海纳百川”作结，“当我们携手合作，展现在眼前的便是共同繁荣与和平。”&lt;/p&gt;&lt;p&gt;　　作为东道主，习近平主席率先发言。两个问题，攸关亚太共同的前途命运：&lt;/p&gt;&lt;p&gt;　　建设什么样的亚太共同体？怎样建设亚太共同体？&lt;/p&gt;&lt;p&gt;　　“面对新的机遇和挑战，亚太合作必须适应新形势、迈出新步伐、开创新局面，推动建设和衷共济、开放融通、开拓创新、包容发展的亚太共同体。”&lt;/p&gt;&lt;p&gt;　　历来以行动力见长的中国，倡导各方集思广益、汇聚合力，携手搭建亚太共同体的“四梁八柱”——强化经贸支柱、升级联通支柱、打造创新支柱、夯实发展支柱。&lt;/p&gt;&lt;p&gt;　　既登高望远，又脚踏实地，中国方案在会场内外呼应云集。&lt;/p&gt;&lt;p&gt;　　普京总统表示：“我们完全赞同APEC‘中国年’主题”；&lt;/p&gt;&lt;p&gt;　　马来西亚总理安瓦尔认为，“习近平主席的演讲，为亚太未来勾勒出清晰而宏大的方向”；&lt;/p&gt;&lt;p&gt;　　“感谢习近平主席以及中华人民共和国，以卓越的领导力主办这场盛会。”澳大利亚总理阿尔巴尼斯说。&lt;/p&gt;&lt;p&gt;　　19日会议，一致通过2026年亚太经合组织领导人宣言，就亚太共同体建设提出富有雄心的“深圳展望”，以及贸易、联通、创新领域3项成果文件。&lt;/p&gt;&lt;p&gt;　　透过务实高效的成果、面向未来的蓝图，中国引领地区合作的两个特征清晰可见。&lt;/p&gt;&lt;p&gt;　　一个是立己达人的胸怀。合作未来的新擘画，有中国机遇的新分享。数字经济、人工智能，这些写入成果文件的新重点，正是今日中国机遇的新风口。“己欲达而达人”，这份追求始终如一。中国发展带来的，不是此消彼长的存量博弈，而是合作共赢的增量空间。&lt;/p&gt;&lt;p&gt;　　一个是知行合一的笃行。互联互通即是一例。2014年北京会议，《亚太经合组织互联互通蓝图（2015—2025）》通过，为地区合作开辟新天地。这一次在深圳，“升级亚太互联互通合作”乘势而上，“硬联通”“软联通”“心联通”的内涵不断延展。&lt;/p&gt;&lt;p&gt;　　深圳时刻的分量，在历史的脉络中更加凸显。亚太共同体的构想，随APEC合作进程而培育形成。2020年，APEC制定布特拉加亚愿景，提出2040年建成亚太共同体的目标。彼时，“共同体”还是一个远方的坐标。深圳会议在愿景之上搭起“四梁八柱”、绘就实施路线图，标记下亚太共同体建设真正启航的时刻。&lt;/p&gt;&lt;p&gt;　　19日上午，步入会场前，21个经济体的领导人、代表佩戴红蓝两色的“同心合锦”围巾，并肩而立。快门声起，定格下近10年来最全的一张“全家福”。&lt;/p&gt;&lt;p&gt;　　时代的风浪，亚太难以置身事外。一张“全家福”，消弭不了所有分歧，却告诉世人：风浪之中，对话的框架依然有效；分歧面前，合作的意愿依然强烈。而这一切，都离不开一个负责任大国的引领担当。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;肩担大国的“一份责”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“在这个地球村里，大国肩负着特殊责任。”中国特色大国外交，五千年文明底蕴熔铸其间，时代风云激荡其间。&lt;/p&gt;&lt;p&gt;　　11月16日，一则消息自北京传出：中俄美元首首次会晤，将在深圳举行。&lt;/p&gt;&lt;p&gt;　　一石激起千层浪。&lt;/p&gt;&lt;p&gt;　　这无疑是大国外交的开创性时刻、历史性一页，国际社会展开解读，认为这是“外交史上一个意义非凡的事件”。&lt;/p&gt;&lt;p&gt;　　18日凌晨，普京总统抵达深圳。中共中央政治局常委、中央书记处书记蔡奇前往机场迎接。&lt;/p&gt;&lt;p&gt;　　这一日12时许，习近平主席会见普京总统。这已经是两位元首今年第四次会晤，10多年间的会晤也已达到令人惊叹的约50次。&lt;/p&gt;&lt;p&gt;　　握手、寒暄，亲切而默契。习近平主席开场一席话，打开了时空的纵深：“中俄关系既‘风雨不动安如山’，又‘风物长宜放眼量’，为变乱交织的世界提供了更多稳定性和确定性”。&lt;/p&gt;&lt;p&gt;　　“安如山”，是一路携手积累的定力；“放眼量”，是面向未来的远见。&lt;/p&gt;&lt;p&gt;　　从“巩固存量，拓展增量”的务实擘画，到“引领和推动世界多极化和国际关系民主化”的责任担当，中俄关系于两国于世界的意义在变乱交织的国际形势下愈显清晰。&lt;/p&gt;&lt;p&gt;　　普京总统以加强“背靠背”战略协作作出呼应，同样强调“共同推进世界多极化进程，推动构建更加公正合理的全球治理体系”。&lt;/p&gt;&lt;p&gt;　　中美关系之“稳”，是一年多来“釜山—北京—华盛顿—深圳”前所未有的互动频度所夯实的。&lt;/p&gt;&lt;p&gt;　　18日下午近5时，特朗普总统的专机落地深圳。&lt;/p&gt;&lt;p&gt;　　步出舱门，看到亲临机场的习近平主席，特朗普总统微笑着第一时间挥手致意。&lt;/p&gt;&lt;p&gt;　　苍穹下，国旗、战机、礼兵、红毯，如一幅壮阔画卷。特朗普总统连连赞叹：“场面盛大又美丽”“我对此心怀感激”。&lt;/p&gt;&lt;p&gt;　　不久前习近平主席美国之行，特朗普总统对中国打破常规的外交礼遇，给世界留下深刻印象。这一次，礼尚往来的安排，讲述着礼仪之邦的文脉，也传递出平等互尊的风范。&lt;/p&gt;&lt;p&gt;　　18日晚，欢迎晚宴开始前，中俄美三位大国元首亲切交流的画面被媒体所捕捉。这一幕，让世界对翌日的会晤更添期待。&lt;/p&gt;&lt;p&gt;　　19日下午，结束深圳APEC会议，习近平主席赶赴中美元首会见厅。这一天之后的时间，都留给了纵横捭阖的大国外交。&lt;/p&gt;&lt;p&gt;　　首先是中美元首会晤。&lt;/p&gt;&lt;p&gt;　　特朗普总统十分珍视同习近平主席的友谊，开场白热情洋溢：“我同习主席的友谊对两国人民有好处，相信这份友谊会越来越深厚。”&lt;/p&gt;&lt;p&gt;　　5月北京会晤，确立中美建设性战略稳定关系新定位；9月华盛顿会晤，进一步丰富内涵，塑造了新气象，也拓展了新的可能。此次见面，习近平主席言简意赅：“构建中美建设性战略稳定关系是前无古人的开创性事业，需要敢闯敢试、脚踏实地、善作善成。”&lt;/p&gt;&lt;p&gt;　　台湾问题涉及双边关系根基，“美方要坚持做正确的事，避免中美关系出现大的波折。”特朗普总统明确承诺：“美国不支持‘台独’。”&lt;/p&gt;&lt;p&gt;　　面对攸关全球走向的经贸议题，面对世界关切的人工智能安全风险，双方谈得务实而深入。“拉长合作清单、压缩问题清单”，沃土孕生机。&lt;/p&gt;&lt;p&gt;　　中美关系“稳”下来，离不开两国元首的战略引领。特朗普总统一再感慨“这是一个了不起的国家，您做得十分出色，您是一位了不起的领袖”。习近平主席表达期待，一道“继续为中美关系领航掌舵，确保这艘大船始终沿着正确航线扬帆远航”。&lt;/p&gt;&lt;p&gt;　　随之，历史性的一刻，到来了！&lt;/p&gt;&lt;p&gt;　　下午4时许，三位元首并肩走到合影区。媒体的“长枪短炮”，第一时间将现场画面传向了世界。&lt;/p&gt;&lt;p&gt;　　步入会晤厅，一张圆桌，三个大国：习近平主席居中而坐，普京总统、特朗普总统分坐两侧。中俄美三国国旗静静矗立在三国元首座位后。墙上的画卷意蕴隽永：长城内外尽朝晖，坐看云卷云舒。&lt;/p&gt;&lt;p&gt;　　和平，会晤的主题词。会晤厅外的世界并不太平，百年变局加速演进。大国如何正确相处、共同为世界和平托底？&lt;/p&gt;&lt;p&gt;　　围绕“维护世界和平，促进大国关系战略稳定”，三位元首深入晤谈。习近平主席纵览古今，作出论断：“大国和则世界安，大国斗则世界乱。”&lt;/p&gt;&lt;p&gt;　　直面时代课题，他提出4点看法：坚持相互尊重、坚持和平共处、坚持合作共赢、坚持对话协商。它们并非今天的初创，而是中国处理大国关系时一以贯之的坚守。&lt;/p&gt;&lt;p&gt;　　普京总统积极呼应：“把我们联系在一起的不仅是战胜国的地位，还有维护和平与安宁的责任。”特朗普总统亮明态度：“维护稳定、实现和平需要对话，任何问题都应通过对话解决。”大国的责任、对话的价值、合作的未来，重点彼此交汇。&lt;/p&gt;&lt;p&gt;　　“今天的中俄美元首会晤是积极的、建设性的，也是富有成果的，三国在维护世界和平上看法是一致的。”习近平主席如是总结。约90分钟后，当会晤厅大门再度打开，新出炉的《中俄美元首和平宣言》，世界为之振奋。&lt;/p&gt;&lt;p&gt;　　其中醒目载入：“俄美领导人感谢中方主办此次历史性会晤。三国元首就当前国际形势深入交换了意见，致力于维护战略稳定和国际安全。”&lt;/p&gt;&lt;p&gt;　　从这一幕，有人看到了“站在世界舞台中央的中国，姿态自信”；有人看到了推进新型大国关系的新实践，步履稳健；也有人听到了会场内释放的讯息：“中俄美要做伙伴、做朋友，不冲突、不对抗，守住和平共处底线。”还有一种声音在国际舆论场持久激荡：“这样的大国领袖会晤，目前只有中国能促成。”&lt;/p&gt;&lt;p&gt;　　历史没有预写的脚本，世界终将长成选择的样子。在猜疑滋长、冲突延宕的当下，中国理念的分量，不仅来自对大国相处之道的科学把握，更来自脚踏实地的笃行垂范。&lt;/p&gt;&lt;p&gt;　　阳光和煦时如此，风雨来袭时亦然，中国始终从大国对世界的特殊责任出发看待大国关系，为和平尽责，为合作聚力。这份坚守，积累起信任，也蓄积起改变时代的力量。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;共赴未来的“一通途”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　会见厅的大门开开合合，有老朋友的叙谈，亦有新面孔的握手。&lt;/p&gt;&lt;p&gt;　　17日，6场会见连续进行，结束时已暮色四合。此后两日，多边外交气象万千，双边会见也见缝插针。20日，5场会见过后，大国外交的深圳时刻才真正落下了帷幕。&lt;/p&gt;&lt;p&gt;　　密集的日程本身，就是一种外交语言。一位大国领导人，在高度繁忙的主场外交周期里，同各方伙伴面对面交流，这本身就是一种态度的表达、理念的传递。&lt;/p&gt;&lt;p&gt;　　双边关系、地区问题、国际局势，还有治国理政的经验交流……会见厅内，每一场深谈、每一份共识，都在为动荡世界积蓄合作共赢、相互成就的信心与希望。&lt;/p&gt;&lt;p&gt;　　一个共同的话题：国与国相处的应有之道。&lt;/p&gt;&lt;p&gt;　　习近平主席曾多次指出，“志同道合是伙伴，求同存异也是伙伴”。这解释了为何如今中国朋友遍天下，也在国际形势的深刻变化中，愈发被证明是时代所需的智慧。&lt;/p&gt;&lt;p&gt;　　近年来，中越两党两国最高领导人保持密切交往。此次会见，正值不久前中共二十届五中全会就持之以恒推进全面从严治党作出系统部署，越共十四届四中全会也决定持续深化党的建设整顿。深化管党治党交流，是中越“同志加兄弟”特有的互信纽带。“越是风高浪急，越要同舟共济”，习近平主席为双方携手共迎时代挑战指明了方向。&lt;/p&gt;&lt;p&gt;　　“我延长了在深圳的时间，就是为了与您举行会见。”不久前刚刚与习近平主席在上海会过面的泰国总理阿努廷，在会见开场白中直抒胸臆。习近平主席的一席话，同样情真意切：“中泰两国高层常来常往，充分体现了‘中泰一家亲’的传统情谊和两国关系的高水平。”&lt;/p&gt;&lt;p&gt;　　随智利总统卡斯特参加会见的，有来自不同党派的5位参议员，从中传达的讯息十分清晰：推动对华关系发展，是智利各界的广泛共识。正如卡斯特总统所言：“我们对中国高度重视，并且精心呵护双边关系。”&lt;/p&gt;&lt;p&gt;　　前些年，中加关系曾经历起伏。着眼携手走好未来之路，习近平主席给出的启示是12个字：相互尊重、平等互利、求同存异。加拿大总理卡尼的回应，亦是中方一以贯之的主张：“压缩问题清单，拉长合作清单”。&lt;/p&gt;&lt;p&gt;　　一个共同的渴望：借力中国奔赴发展梦想。&lt;/p&gt;&lt;p&gt;　　“当中国繁荣，我们也会繁荣。”巴布亚新几内亚总理马拉佩的感慨，道出了各方共同看法。从新兴产业的红利分享，到开放合作的坚定守护，中国是公认的赋能型大国。&lt;/p&gt;&lt;p&gt;　　人工智能合作，一再成为各方主动向习近平主席提出的优先合作意向领域。印度尼西亚总统普拉博沃带来消息：印尼已完成加入世界人工智能合作组织的批约程序，相信通过这一组织，“印尼能够更好地加强国内人工智能建设”。&lt;/p&gt;&lt;p&gt;　　阿尔巴尼斯总理在会见中讲述了自己在中国超市的发现：“超过200种澳大利亚产品在货架上出售，这展示了我们之间的关系能够为两地的社会和人民带来福祉和繁荣。”习近平主席同样将视线望向人民：“推动中澳关系在新的起点上得到更大发展，更好造福两国人民。”&lt;/p&gt;&lt;p&gt;　　与秘鲁总统藤森庆子的会见，就从一座港口谈起。中国企业参与建设的秘鲁钱凯港，如今已成为连接拉美与亚洲的物流枢纽。中秘自贸协定升级议定书11月1日生效，秘鲁将之视为进一步挖掘中国市场潜力的重要契机。习近平主席作出回应：“今年是中国‘十五五’开局之年，中方愿同秘方共享中国式现代化机遇。”&lt;/p&gt;&lt;p&gt;　　一个共同的感受：变乱交织的世界里，中国是稳定性的来源。&lt;/p&gt;&lt;p&gt;　　今日中国，是世界之中国。各方的对华合作清单中，有加强全球南方团结的道义所向，亦有参与四大全球倡议的积极意愿，看中国的视线超越双边关系，看向整个世界的和平与发展。&lt;/p&gt;&lt;p&gt;　　APEC“中国年”在亚太合作长卷中留下浓墨重彩一笔，各方从中感受到了机遇与希望。&lt;/p&gt;&lt;p&gt;　　一年前，中韩元首以庆州的“蝴蝶”为喻，约定彼此支持当好APEC东道主。这一次相会深圳，韩国总统李在明表达对中方办会理念的支持：“希望在构建共同繁荣的亚太共同体的道路上得到更大的进展。”&lt;/p&gt;&lt;p&gt;　　谈及深圳会议的长远影响，墨西哥总统辛鲍姆表示，作为今年APEC东道主，中国为推动亚太合作发挥了重要作用，相信今年深圳会议将为今后亚太合作奠定坚实基础。新加坡总理黄循财亦认为，“中方倡导的开放、创新、合作理念契合亚太发展需要。”&lt;/p&gt;&lt;p&gt;　　20日的会见厅里，前一日举行的中俄美元首会晤被外方领导人多次提及。安瓦尔总理对习近平主席说：“您非常成功地将特朗普总统和普京总统聚到了一起，我不知道世界上还有哪个人能够做到这一点。会晤的意义是巨大的。三方发表的和平宣言，我们认真地进行了跟踪和研究。”&lt;/p&gt;&lt;p&gt;　　深圳的会见厅，见证了夙兴夜寐的身影，亦映照出了一个负责任大国携手各方共行大道的笃定步伐。一个坚定不移办好自己的事的中国，一个坚持开放合作不动摇的中国，国际影响力、感召力、引领力不断上升，正以更加从容的姿态，同世界双向奔赴、彼此成就。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;观察中国的“一扇窗”&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　“深圳是一个有大故事的地方。”&lt;/p&gt;&lt;p&gt;　　11月18日的欢迎晚宴上，经济体领导人、代表交谈间，频频提起这座城。&lt;/p&gt;&lt;p&gt;　　习近平主席在欢迎晚宴上回忆：“1978年，我第一次到深圳，看到的还是一个小渔村。弹指间40多年过去了，如今这里高楼林立、车水马龙，变化之大可谓沧海桑田。”&lt;/p&gt;&lt;p&gt;　　“看五十年的中国就来深圳。”深圳的变迁，这些日子让远道而来的客人心生慨叹。&lt;/p&gt;&lt;p&gt;　　普京总统在会见时，对习近平主席说，深圳是一个蓬勃发展、非常美丽的地方，堪称是中国经济发展成就的象征，我们“也愿借鉴这方面的经验”。&lt;/p&gt;&lt;p&gt;　　特朗普总统点赞深圳“建设得近乎完美，这真是一项了不起的成就”。他风趣地为媒体朋友惋惜，深圳非常棒，可惜媒体报道不完它的全景。&lt;/p&gt;&lt;p&gt;　　卡尼总理称，深圳这座城市代表了这个时代最伟大的变革之一。深圳从改革开放的试验田，成长为全球经济的引擎，这一切发展成就源于一次次主动的抉择，以“深圳速度”实现蜕变。&lt;/p&gt;&lt;p&gt;　　李在明总统畅言，曾被视作“遥远未来”的技术，在深圳正逐渐成为日常。&lt;/p&gt;&lt;p&gt;　　阿尔巴尼斯总理则在会见时，回忆起1998年第一次来深圳的场景，“非常惊人的一座都市，我亲眼见证了它的成长。它是一个缩影，能体现中国的成长”。&lt;/p&gt;&lt;p&gt;　　这样的观察不胜枚举。小渔村的巨变，同样让关注APEC的全球目光动容。国外流行起一句话：“希望我的祖国也能有一个深圳。”&lt;/p&gt;&lt;p&gt;　　习近平主席介绍：“中方担任今年亚太经合组织东道主以来，在16座城市举办了300多场会议和活动”。如果说深圳是奇迹，那么16座城市的群像足以让世界更真切看懂中国，看懂中国改革开放决心之坚定、区域融合势能之澎湃、创新突破活力之强劲、和合共生胸襟之坦荡。&lt;/p&gt;&lt;p&gt;　　开放、创新、合作，习近平主席用以形容深圳的这些词，讲述的又何尝不是中国故事？读懂深圳，就读懂了中国式现代化：它不是从谁那里抄来的模板，而是在一张白纸上、靠亿万双手一笔一笔画出来的图画。&lt;/p&gt;&lt;p&gt;　　这幅图画的世界意义，在于打破了“现代化=西方化”的迷思——没有放之四海而皆准的模板。方向决定道路，道路决定命运。&lt;/p&gt;&lt;p&gt;　　这里，见证着文化的和合共生。&lt;/p&gt;&lt;p&gt;　　18日晚，香蜜湖畔，灯火璀璨。一场匠心独运的欢迎晚宴，也是亚太共同体的一次别样讲述。&lt;/p&gt;&lt;p&gt;　　《茉莉花》《赤子之心》《晚歌》……21个经济体的经典乐曲相继奏响，不同的旋律里，流淌着相通的情感。大屏幕上，当抵达晚宴时的合影跃然呈现，掌声经久不息。&lt;/p&gt;&lt;p&gt;　　19日上午，深圳湾文化广场，孩子们以喜庆热烈的醒狮和英歌舞欢迎嘉宾们的到来，习近平主席夫人彭丽媛同前来出席会议的经济体领导人或代表配偶一同参观“岭南非遗传承与创新”主题展。&lt;/p&gt;&lt;p&gt;　　和风相洽，谈笑论见，气氛轻松而亲切。“中方愿同各方加强文化交流互鉴”的期盼，娓娓道来。在近距离体验中华传统文化魅力后，来宾们感悟着一个开放包容、生生不息的中国，对中国式现代化的发展有了更深刻的理解和认同。&lt;/p&gt;&lt;p&gt;　　这里，印证着机遇的绵长可期。&lt;/p&gt;&lt;p&gt;　　深圳APEC会议期间，卡斯特总统到水果店，察看漂洋过海来到中国的智利车厘子；越共中央总书记、国家主席苏林驻足观察机器人技术，兴致浓厚；辛鲍姆总统实地了解智慧医院；藤森庆子总统到访城市智慧中心，看一座城市的数字心跳……这些镜头，无疑是“中国机遇是世界机遇”的一个个生动注脚。&lt;/p&gt;&lt;p&gt;　　拉长时间看，每一次APEC会议，都是中国宣示发展抉择、发出机遇之约的重要讲台。&lt;/p&gt;&lt;p&gt;　　APEC工商领导人峰会上，台下的企业家、工商界人士最有感触。这次在深圳的，就有115家世界500强企业。他们洽谈合作商机，也在会场内外捕捉政策讯息。有外国企业家直言，“未来就在深圳”。&lt;/p&gt;&lt;p&gt;　　“中国‘十五五’规划既是自身的发展蓝图，也为亚太乃至全球经济增长提供机遇清单，是中国面向全球工商界发出的合作邀约。”习近平主席看得深远。&lt;/p&gt;&lt;p&gt;　　这张“机遇清单”有多长？&lt;/p&gt;&lt;p&gt;　　“超大规模的开放市场”“前景广阔的发展空间”“互促共进的合作环境”，每一项都饱含合作红利、铺展共赢图景。&lt;/p&gt;&lt;p&gt;　　机遇的背后，更深一层的是确定性。深圳APEC会议期间，有不少经济体领导人提到中共二十届五中全会，表达祝贺、表达钦佩，也在探求发展的深层逻辑和规律：令世界惊叹的跨越，为什么发生在中国？&lt;/p&gt;&lt;p&gt;　　卡斯特总统有感而发：“深圳的发展告诉大家，进步不是奇迹，而是一种决心，它需要劳动、努力和意志力。”&lt;/p&gt;&lt;p&gt;　　“于道各努力，千里自同风。”习近平主席祝酒辞中的这句古诗，道出了跨越山海的共同奔赴。&lt;/p&gt;&lt;p&gt;　　这几日，随处可见APEC“中国年”会标：21根羽翼错落相依，凝成振翅凌云的大鹏姿态。鹏城深圳，亚太合作再出发，“像大鹏一样展翅高飞、鹏程万里”。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  杜尚泽  胡泽曦  罗珊珊&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; “亚太奇迹”新篇章，大国外交新图景，在这里起笔 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192356&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192356.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192356.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 习近平主席的深圳APEC时间 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192356.html#[02版：要闻] 习近平主席的深圳APEC时间</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 努力让老年人的生活更加幸福美满</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192357.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 努力让老年人的生活更加幸福美满 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——习近平总书记重要指示指引新征程老龄事业高质量发展 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  吴储岐&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　近日，习近平总书记对老龄工作作出重要指示强调：“新征程上，要以新时代中国特色社会主义思想为指导，深入实施积极应对人口老龄化国家战略，坚持政府、市场、社会、家庭协同发力”。&lt;/p&gt;&lt;p&gt;　　习近平总书记的重要指示饱含对亿万老年人的深切关怀，为新征程上老龄工作提供了根本遵循、指明了前进方向。大家表示，要学深悟透习近平总书记关于老龄工作的重要论述，自觉增强做好老龄工作的责任感和主动性，努力为老年人安享幸福晚年创造更好条件，推动新征程老龄事业高质量发展。&lt;/p&gt;&lt;p&gt;　　党的十八大以来，我国老龄工作取得新进展新成效，养老事业和养老产业快速发展，广大老年人获得感、幸福感、安全感持续增强。&lt;/p&gt;&lt;p&gt;　　“从基本养老服务制度建立实施，到老年人社会参与渠道不断拓宽，新时代老龄事业取得的显著成绩，离不开党中央的坚强领导。”民政部老龄工作司司长黄胜伟表示，贯彻落实习近平总书记重要指示精神，要切实履行好全国老龄办综合协调职能作用，深入实施积极应对人口老龄化国家战略，推动有关部门在制定规划、出台政策、实施重大改革举措时充分考虑应对人口老龄化的需要。以失能老年人照护为例，生活照料、医疗护理、费用保障紧密相关，需要加强部门协作，做好政策衔接，让老年人及其家庭得到更有力的支持。&lt;/p&gt;&lt;p&gt;　　“贯彻落实习近平总书记重要指示精神，北京要从超大城市的实际出发，统筹配置城乡养老服务资源。”北京市老龄办主任、市民政局党组书记郑宇说，以老年助餐为例，在人口密集的中心城区，要根据老年人口分布合理布局助餐网点，方便老年人就近用餐。在一些偏远山区乡镇，针对有需求的老年人因地制宜开展多种方式的助餐服务，让行动不便的老年人在家也能吃上热饭。&lt;/p&gt;&lt;p&gt;　　习近平总书记强调：“进一步加强老年人社会保障、养老服务、健康服务、社会参与，大力发展银发经济”。&lt;/p&gt;&lt;p&gt;　　“习近平总书记对大力发展银发经济提出明确要求。更好满足老年人日益增长的养老服务和消费需求，是我们责无旁贷的使命。”国家发展改革委社会发展司副司长陈俊表示，以居家养老为例，老年人有改造居住环境、选用康复辅助器具、获得专业照护服务等多方面需求。要积极拓展助餐、助浴、助洁等多样化的上门服务，不断扩大高品质居家适老化产品供给，让老年人有更多用得上、用得起的选择，在增进民生福祉中培育新的经济增长点。&lt;/p&gt;&lt;p&gt;　　“深入学习习近平总书记重要指示精神，我深感责任重大。进一步支持老年人社会参与，可以从改善家门口的出行条件做起。老年人出门方便了，就有更多机会与邻里交往、参加社区活动。”福建省民政厅老龄工作处处长林志鹃说，从家门口到菜场，哪处台阶上下不便，哪段路上需要增设座椅，每天走这条路的老年人最有发言权。进一步指导各地推进社区适老化改造，既要在制定方案时听取老年人的意见，也要把他们使用后的感受作为评价改造效果的重要依据。&lt;/p&gt;&lt;p&gt;　　“村里有的老两口平时能相互照应，可要是其中一个病了，另一个既要照顾老伴，又要买菜做饭，往往就顾不过来了。”浙江省丽水市莲都区碧湖镇岩头村养老服务管家陈莉说，入户走访时，要留心老年人家里的变化。遇到需要专业服务的情况，就帮助联系镇里的养老服务中心，并跟进了解服务是否合适、困难是否解决。&lt;/p&gt;&lt;p&gt;　　吉林省长春市仁大医养中心负责人唐晨说，医养结合机构既要做好老年人在机构期间的医疗护理，也要帮助家属掌握居家照护方法。医护人员要根据老年人的身体状况作出评估，老年人可以独立完成哪些日常活动，哪些需要家人协助，向家属讲清楚，必要时还要当面护理示范。&lt;/p&gt;&lt;p&gt;　　山东省泰安市泰山区泰前街道广生泉社区党委书记齐洪丽十分关注老年人权益保障。“贯彻落实习近平总书记重要指示精神，社区干部一定要熟悉居民情况，主动了解难处。”齐洪丽说，要用好社区法律服务资源，平时请法律服务人员结合具体案例，讲清签订合同要留意什么、遇到消费纠纷该怎样维权。老年人有实际困难时，社区要及时帮助他们找到咨询、求助的渠道。&lt;/p&gt;&lt;p&gt;　　习近平总书记强调：“营造孝老敬老良好环境，建设老年友好社会，努力让老年人的生活更加幸福美满。”&lt;/p&gt;&lt;p&gt;　　“习近平总书记的重要指示，对我们办好老年教育是很大的鼓励。”辽宁省营口市鲅鱼圈区老年大学负责人张季声说，老年教育对于丰富老年人精神文化生活具有重要作用。课程怎么设置、教学进度怎样安排，都要充分听取学员意见。学校还要结合社区条件，把更多适合老年人的课程送到家门口，让他们既能学到新知识，也能结交新朋友。&lt;/p&gt;&lt;p&gt;　　武警上海市总队医院妇产科原主任齐璇退休后，作为志愿者参加了沪疆、沪滇“银龄行动”，对“社会参与”的体会尤深。“到基层看门诊、指导手术，还能用自己的专长为患者看病，我感到很充实。遇到疑难病例，我也愿意和当地年轻医生一起研究，把为什么这样诊断、怎样选择治疗方案讲透。等我们回到上海，这些经验还能留在当地，帮助更多患者。”齐璇说。&lt;/p&gt;&lt;p&gt;　　“认真学习习近平总书记的重要指示精神，我更深切地感到，孝老敬老贵在日常。”四川省成都市金牛区老年协会综合委员会书记陈佐国说，老年协会熟悉老年人，既了解哪些人需要照应，也知道谁愿意出一份力。要尊重老年人意愿，把愿意参与邻里互助的老年人组织起来，陪独居老年人说说话，为出行不便的高龄老年人办些日常小事，让关爱体现在日常生活中。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  吴储岐&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——习近平总书记重要指示指引新征程老龄事业高质量发展 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192357&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192357.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192357.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 努力让老年人的生活更加幸福美满 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192357.html#[03版：要闻] 努力让老年人的生活更加幸福美满</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192358.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社北京11月20日电  （记者伍岳）11月20日晚，国务院总理李强在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会。近30位中澳商会和企业负责人出席。&lt;/p&gt;&lt;p&gt;　　在听取两国工商界代表发言后，李强表示，过去一年，中澳关系与合作在两国领导人战略引领下，取得不少新进展。这些成绩是在国际贸易遭受严重冲击、世界经济增长乏力的背景下取得的，来之不易，充分彰显了两国合作的强大内生动力。实践反复表明，中澳经济优势互补、共同利益广泛，两国既是天然合作伙伴，也是彼此发展机遇。当前，全球发展仍然面临诸多不确定性。越是这样的时候，越需要稳定可靠的伙伴。中澳应当进一步拉紧经贸关系，实现更广泛领域、更高水平的互利共赢。&lt;/p&gt;&lt;p&gt;　　李强指出，双方可以聚焦三个方面持续深化中澳合作。一是围绕提高生活品质的消费升级。在巩固扩大农食等传统贸易的同时，深挖旅游、教育、健康养老、生物医药、高端医疗等领域合作潜力，围绕人的全生命周期需要，开发更多高品质产品和服务，更好惠及两国民众。二是以数智技术为代表的创新合作。把各自创新优势更好结合起来，加强相互赋能，在新技术的场景化、产业化方面深入合作，推动科研成果加速转化为两国企业的新产品、新订单，更好分享创新收益。三是体现可持续发展的绿色低碳转型。合作开发具有竞争力的绿色产品，携手构建绿色钢铁供应链、新能源汽车产供链等，协力开拓第三方市场，在全球绿色价值链上共同攀升。&lt;/p&gt;&lt;p&gt;　　李强强调，中国政府愿同澳大利亚政府一道努力，把握两国关系发展正确方向，坚持合作共赢主流，排除对正常经贸的干扰，为两国企业合作提供良好环境和稳定预期。中国开放的大门只会越开越大，欢迎更多澳企深耕中国市场。希望两国工商界继续做互利合作的开拓者、两国友好的促进者，推动中澳经贸合作不断取得新成果。&lt;/p&gt;&lt;p&gt;　　阿尔巴尼斯在致辞中表示，中国是澳方最大的贸易伙伴，澳中经贸合作有利于两国经济发展，给两国人民带来实实在在的利益。明年是澳中建交55周年，也是“澳中旅游年”，澳方愿以此为契机，同中方加强在人工智能、绿色转型、现代农业等领域互利合作，深化人文交流。期待两国商界相互学习，相互借鉴，拓展合作，为澳中关系发展作出更大贡献。&lt;/p&gt;&lt;p&gt;　　吴政隆出席圆桌会。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192358&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192358.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192358.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192358.html#[03版：要闻] 李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 中澳总理年度会晤联合成果声明</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192359.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 中澳总理年度会晤联合成果声明 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; （2026年11月20日） &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　一、应中华人民共和国主席习近平邀请，澳大利亚总理安东尼·阿尔巴尼斯来华出席在深圳举行的亚太经合组织第三十三次领导人非正式会议。阿尔巴尼斯总理还访问了北京。&lt;/p&gt;&lt;p&gt;　　二、11月20日，习近平主席在深圳会见阿尔巴尼斯总理。在京期间，中华人民共和国国务院总理李强同阿尔巴尼斯总理举行中澳总理年度会晤，全国人民代表大会常务委员会委员长赵乐际会见阿尔巴尼斯总理。两国领导人就中澳关系及重要国际和地区问题深入交换意见。&lt;/p&gt;&lt;p&gt;　　三、两国领导人在年度会晤中重申支持中澳全面战略伙伴关系，重申成熟、稳定、建设性双边关系的重要性。双方同意在2027年中澳建交55周年之际继续推动两国关系发展，维护各自国家利益，明智管控分歧。&lt;/p&gt;&lt;p&gt;　　四、同双方2025年7月在北京发表的联合成果声明相一致，双方重申1972年《中华人民共和国政府和澳大利亚政府关于中、澳两国建立外交关系的联合公报》的重要性，重申坚持联合公报中阐述的各自国家政策和立场，包括相互尊重、平等互利，以及澳方对一个中国政策的承诺。&lt;/p&gt;&lt;p&gt;　　五、双方肯定两国领导人、部长和各层级官员开展定期接触对于支持双边关系的重要性，欢迎自2025年7月上一轮中澳总理年度会晤以来，双方举行系列双边对话，包括2026年4月中澳外交与战略对话、2026年5月中澳部长级经济联委会、2025年12月和2026年11月中澳战略经济对话。双方期待2027年举行新一轮相关对话。&lt;/p&gt;&lt;p&gt;　　六、双方重申多边体系、以国际法为基础的国际秩序以及联合国宪章宗旨和原则的重要性，同意继续在联合国、世贸组织、二十国集团、亚太经合组织、东亚峰会等多边平台开展合作。澳方祝贺中方在深圳成功主办亚太经合组织第三十三次领导人非正式会议。双方欢迎会议达成《深圳展望》，支持在亚太共同体建设、贸易数字化、互联互通、数字经济和人工智能等领域取得务实成果。双方重视在《区域全面经济伙伴关系协定》框架下开展合作。&lt;/p&gt;&lt;p&gt;　　七、双方强调人文交流对深化双边关系的重要性，重申支持人文交流，欢迎中澳高级别对话发挥的重要作用，计划今年12月在澳举行新一轮对话。&lt;/p&gt;&lt;p&gt;　　八、双方同意建立中澳人工智能对话机制，就人工智能安全、治理和应用交换意见。&lt;/p&gt;&lt;p&gt;　　九、双方发表中澳关于气候变化与清洁能源转型联合声明。&lt;/p&gt;&lt;p&gt;　　十、双方同意在以下领域延续和拓展交往：&lt;/p&gt;&lt;p&gt;　　——政治对话，包括总理年度会晤、外交与战略对话、战略经济对话、部长级经济联委会以及其他政府间机制。&lt;/p&gt;&lt;p&gt;　　——双边贸易，包括两国领导人11月20日在北京出席中澳工商界首席执行官圆桌会。双方肯定中澳自贸协定对促进双边贸易和经济关系持续发挥的作用，欢迎协定审议不断取得进展。中方欢迎澳方担任第四届中国国际供应链促进博览会主宾国，欢迎澳大利亚出席中国国际进口博览会并在参会规模方面创造新的纪录。&lt;/p&gt;&lt;p&gt;　　——气候变化、能源和环境，包括2026年8月在澳成功举办第十次中澳气候变化部长级对话，以及将于2027年在华举行的新一次对话。双方同意两国间持续开展基于市场的能源资源产品贸易的重要性。双方欢迎两国官员在气候变化和环境领域开展持续交流，包括气候治理相关事项、旱地农业、气候智慧型农业、绿色经济。&lt;/p&gt;&lt;p&gt;　　——钢铁减碳，两国领导人欢迎首届中澳钢铁减碳政策对话于11月2日在堪培拉举办，同意继续推进低碳钢铁价值链务实合作，包括技术、低碳钢铁产品市场培育以及可信标准和排放核算方法等领域。&lt;/p&gt;&lt;p&gt;　　——人文联系，包括文化、体育、教育、创新、学术、航空、旅游等领域交流。双方宣布2027年为“中澳旅游年”，确认2027年在澳举行新一次中澳旅游对话。澳方继续欢迎中国留学生，肯定其对澳社会所作贡献。双方欢迎澳青少年通过“新科伦坡计划”等赴华学习、实习，包括在支持清洁能源转型领域。两国领导人欢迎两国艺术机构间自愿返还重要文物，欢迎两国博物馆互办重要文化展览，包括即将于2026年12月在堪培拉澳大利亚国家博物馆举办的兵马俑特色展览，以及将于2027年在中国国家博物馆举办的“歌之径”展览。&lt;/p&gt;&lt;p&gt;　　——卫生健康，两国领导人欢迎双方完成《中华人民共和国国家卫生健康委与澳大利亚卫生、残障和老年护理部关于卫生合作的谅解备忘录》磋商，欢迎开展卫生领域合作，包括在心理健康和听力健康等领域交流。&lt;/p&gt;&lt;p&gt;　　——边境执法，基于双方合作打击各类犯罪的共同利益和既有的双边执法合作，包括打击非法烟草走私、跨国有组织犯罪、网络犯罪和电信网络诈骗等。&lt;/p&gt;&lt;p&gt;　　十一、两国领导人同意2027年举行下一轮中澳总理年度会晤。澳方邀请中方领导人在双方方便时访澳，中方对此表示欢迎。&lt;/p&gt;&lt;p&gt;　　（新华社北京11月20日电） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; （2026年11月20日） &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192359&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192359.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192359.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 中澳总理年度会晤联合成果声明 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192359.html#[03版：要闻] 中澳总理年度会晤联合成果声明</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 扛起大国责任，共同为世界和平托底（钟声）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192360.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 扛起大国责任，共同为世界和平托底（钟声） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　这是一次必将载入史册的历史性会晤。11月19日，习近平主席在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。这是三国最高领导人有史以来首次聚首，具有开创性意义。三国元首就当前国际形势深入交换意见，会后发表《中俄美元首和平宣言》，致力于维护战略稳定和国际安全。在变乱交织的国际背景下，中俄美元首会晤进一步释放坚持对话、管控分歧的信号，凝聚起寻求大国关系战略稳定、维护世界和平的共识，播种下以对话聚共识、以担当迎挑战、以合作促和平的种子。&lt;/p&gt;&lt;p&gt;　　历时约90分钟的会晤举世瞩目，映照出国际社会对和平与稳定的深层渴望。当前，世界百年变局加速演进，地缘博弈加剧，局部冲突多发。人类社会命运与共，大国良性互动不是选择题，而是必答题。无论是全球发展、粮食安全、能源安全，还是气候治理、公共卫生合作、人工智能全球治理，都离不开大国协调与合作。全球各种纷争持续不断，热点问题按下葫芦浮起瓢，国际社会期待大国多做劝和促谈工作。作为世界主要大国和联合国安理会常任理事国，中俄美加强沟通、管控分歧，合作应对全球性挑战，符合三国利益，也是国际社会的期待。&lt;/p&gt;&lt;p&gt;　　在会晤中，习近平主席就大国如何正确相处、共同为世界和平托底提出4点看法：坚持相互尊重，坚持和平共处，坚持合作共赢，坚持对话协商。坚持相互尊重，这是大国交往的基本准则。中俄美三国国情不同，应该彼此尊重、求同存异、共同发展，尊重彼此主权和领土完整，尊重各自选择的社会制度和发展道路，尊重彼此核心利益和重大关切，坚持不干涉别国内政；坚持和平共处，这是大国交往的底线。中俄美要做伙伴、做朋友，不冲突、不对抗，破除“修昔底德陷阱”，牢记核战争打不赢也打不得，共同维护战后国际秩序和《联合国宪章》宗旨；坚持合作共赢，中俄美三国发展禀赋不同，经济互补性强，可以发挥自身优势，互通有无，坚决反对“脱钩断链”，共同维护能源产业链供应链稳定畅通；坚持对话协商，确保误判少发生、分歧管得住、摩擦不升级。这4点看法层层递进，为大国如何走好和平共进之路指明方向，其意义惠及全球。&lt;/p&gt;&lt;p&gt;　　锚定和平发展道路，中国近年来推进中俄新时代全面战略协作伙伴关系，积极构建中美建设性战略稳定关系，推动形成和平共处、总体稳定、均衡发展的大国关系格局，既惠及彼此，又造福世界。此次会晤充分体现中方推动大国协调和良性互动的努力，也展现出中国始终坚持以对话管控分歧，以合作促和平、谋共赢的诚意。俄罗斯塔斯社援引学者分析称，俄中美三国借亚太经合组织这一多边平台面对面沟通，阐述各自核心关切、开展建设性对话，有助于降低战略误判风险、缓和大国紧张态势。美国《外交事务》杂志分析称，这场元首对话能够为后续互动铺路，推动大国跳出意识形态差异寻找合作可能，为世界增添稳定因素。国际社会的这些观察，与中方的主张形成呼应，也印证了此次会晤的及时性与必要性。&lt;/p&gt;&lt;p&gt;　　以大历史观审视这场会晤，更能看清其深远的时代意蕴。大国历来在维护全球战略稳定、守护地区安宁、推动人类共同发展方面具有特殊重要作用。大国和则世界安，大国斗则世界乱。80多年前，作为世界反法西斯的中坚力量，中俄美三国并肩奋战，取得伟大胜利，为世界赢得和平和安宁。历史启示历久弥新，合作方能共御风险，对抗只会酿成灾难。当前天下并不太平，动荡与冲突交织。中俄美展现胸怀担当、坚定扛起大国应有的责任，引领和推动世界多极化和国际关系民主化，是时代的呼唤，更是历史赋予的使命。普京总统表示，捍卫《联合国宪章》宗旨、维护国际和平是三国共同责任，三国要坚持主权平等、不干涉内政原则，维护能源、粮食安全，加强人工智能治理国际合作。特朗普总统表示，美中俄三国元首会晤举世瞩目、非常重要，创造了历史。维护稳定、实现和平需要对话，任何问题都应通过对话解决。&lt;/p&gt;&lt;p&gt;　　有国际舆论把这次三国元首会晤简单贴上“大国共治”“雅尔塔体系2.0”的标签，这种解读本质上是用强权政治、划分势力范围的旧思维，来看待新时代大国互动的新实践。这种误读既无视国际格局的深刻变迁，也忽视了世界各国平等参与全球事务的普遍诉求。世界多极化大势不可逆转，阵营对抗没有出路。各方应当立足现实，为多边合作铺路、为共同发展赋能，一道探索新时期大国正确相处之道。厘清这一点，才能真正理解此次会晤的价值，无关大国之间的“交易”，而是大国开启了一种以对话而非对抗处理分歧的新尝试。&lt;/p&gt;&lt;p&gt;　　只要各方相向而行、持续践行共识，今天三国元首会晤播下的种子，终将生根发芽、开花结果。中方愿同俄方、美方一道，落实好元首共识，继续加强沟通，合作应对全球性挑战，维护世界和平稳定，共同推动建设一个更加美好的世界。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192360&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192360.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192360.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 扛起大国责任，共同为世界和平托底（钟声） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192360.html#[03版：要闻] 扛起大国责任，共同为世界和平托底（钟声）</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] “我们把彼此视为重要合作伙伴”（APEC中国年：开放 创新 合作）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192361.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “我们把彼此视为重要合作伙伴”（APEC中国年：开放 创新 合作） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——访墨西哥外贸、投资和技术委员会墨中分委会主席巴尔德斯 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  王骁波&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　“深圳APEC会议进一步推动各方加强对话、深化产业合作，把建设亚太共同体的愿景转化为企业能够参与、受益的具体项目。”墨西哥外贸、投资和技术委员会墨中分委会主席拉斐尔·巴尔德斯日前在接受本报记者专访时说。&lt;/p&gt;&lt;p&gt;　　巴尔德斯认为，工商界需要开放市场、稳定预期和长期合作。企业开展跨境经营，离不开透明可预期的监管环境，以及有利于投资和创新的政策条件。中方提出“开放、创新、合作”三大优先领域，契合各方共同需求，为深化合作提供了重要契机。&lt;/p&gt;&lt;p&gt;　　巴尔德斯表示，中国与APEC各经济体联系紧密，能够共同构建更加稳固的产业链供应链。墨西哥拥有制造业基础和产业人才；中国在先进制造、机械、自动化、电池和清洁能源技术等领域具备优势。双方可以通过共同投资、技术合作和本地供应商配套，把现有经贸联系转化为更加紧密的产业合作。“我们把彼此视为重要合作伙伴。”巴尔德斯说。&lt;/p&gt;&lt;p&gt;　　“能源转型既带来机遇，也关乎我们对环境的责任，以及应对气候变化的紧迫需要。”巴尔德斯表示，中国企业同墨西哥企业在能源领域开展合作，既输出设备，也参与项目投资与发电运营，同时带动配套服务和供应链落地，展现出技术、资本与当地产业需求深度对接的广阔合作潜力。双方可以在风电、光伏、储能、电网和能效提升等领域进一步深化合作。&lt;/p&gt;&lt;p&gt;　　巴尔德斯认为，APEC经济体可以推动兼顾技术创新、生产率提升和可持续发展的合作议程。人工智能助力优化生产规划和物流安排，数字化有助于简化海关手续、便利贸易，清洁技术则可以降低能源成本。推动这些技术服务于生产经营的具体环节，将为墨中合作培育新的增长动力。巴尔德斯尤其希望更多中小企业参与其中，“APEC可以通过企业对接、技术培训和数字工具应用等，帮助中小企业寻找合作伙伴、获取技术、融入供应链，让更多企业分享国际合作机遇”。&lt;/p&gt;&lt;p&gt;　　墨西哥将于2028年担任APEC东道主。巴尔德斯认为，中国的议程安排，以及对基础设施、制度和人员之间互联互通的重视，值得墨西哥借鉴。墨方应把握主办APEC会议的契机，加强与亚洲伙伴的联系，推动生产和可持续投资，促进中小企业国际化。“APEC的巨大潜力，在于通过政府间对话，促成企业间的务实项目合作。对墨西哥而言，这意味着在发挥与地区市场紧密联系优势的同时，加强与中国及亚太其他经济体的经贸和技术联系。”巴尔德斯说。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  王骁波&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——访墨西哥外贸、投资和技术委员会墨中分委会主席巴尔德斯 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192361&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192361.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192361.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “我们把彼此视为重要合作伙伴”（APEC中国年：开放 创新 合作） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192361.html#[03版：要闻] “我们把彼此视为重要合作伙伴”（APEC中国年：开放 创新 合作）</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 刘国中会见国际合作社联盟主席加尔科</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192362.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 刘国中会见国际合作社联盟主席加尔科 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京11月20日电  中共中央政治局委员、国务院副总理刘国中11月20日在京会见国际合作社联盟主席阿里尔·加尔科。&lt;/p&gt;&lt;p&gt;　　刘国中表示，习近平主席高度重视合作社发展，中国政府出台了一系列法律法规和相关政策，推动合作社事业取得长足发展。中方将同联盟及各国合作社一道，加强粮食安全、减贫、经贸等领域交流合作，助力加快落实联合国2030年可持续发展议程，让合作成果更多惠及各国人民。&lt;/p&gt;&lt;p&gt;　　加尔科表示，愿同中方深化务实合作，推动全球合作社事业实现更大发展。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192362&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192362.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192362.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 刘国中会见国际合作社联盟主席加尔科 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192362.html#[03版：要闻] 刘国中会见国际合作社联盟主席加尔科</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 王勇会见参加“红色研学之旅”云南行的中越青年代表并出席越南—中国西南地区发展战略对接论坛</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192363.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 王勇会见参加“红色研学之旅”云南行的中越青年代表并出席越南—中国西南地区发展战略对接论坛 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社昆明11月20日电  （记者熊轩昂、胡超）11月20日，全国政协副主席王勇在云南会见参加“红色研学之旅”的中越青年代表，出席越南—中国西南地区发展战略对接论坛。&lt;/p&gt;&lt;p&gt;　　会见青年代表时，王勇表示，习近平总书记指出，中越友好的根基在人民、未来在青年。两国青年要赓续“同志加兄弟”传统友谊，走近走亲、融通同心，为中越友好发展注入蓬勃青春活力。&lt;/p&gt;&lt;p&gt;　　出席论坛时，王勇表示，中方愿同越方加强战略对接，深化务实合作，密切人文交流，共促发展繁荣，携手构建更高水平具有战略意义的中越命运共同体。&lt;/p&gt;&lt;p&gt;　　越共中央总书记、国家主席苏林出席上述活动，寄语两国青年积极投身越中友好事业、巩固传统友谊，希望拓展越南同中国西南地区互利合作，助力各自国家发展，推动越中命运共同体建设取得更多成果。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192363&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192363.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192363.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 王勇会见参加“红色研学之旅”云南行的中越青年代表并出席越南—中国西南地区发展战略对接论坛 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192363.html#[03版：要闻] 王勇会见参加“红色研学之旅”云南行的中越青年代表并出席越南—中国西南地区发展战略对接论坛</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[03版：要闻] 2026“看中国  听世界”论坛举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192364.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 2026“看中国  听世界”论坛举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 03 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报合肥11月20日电  （记者徐靖）11月20日，由中共中央对外联络部和中共安徽省委共同举办的2026“看中国  听世界”论坛在合肥举办，论坛主题为“智联世界：共绘发展合作新图景”。来自亚洲、欧洲、大洋洲共33个国家的政党、智库、工商界、媒体等中外方代表约300人与会。&lt;/p&gt;&lt;p&gt;　　中联部部长刘海星表示，以习近平同志为核心的中共中央带领中国走出一条守正创新的中国特色科技发展之路。中国愿与国际社会一道，推动人工智能发展惠及世界各国特别是全球南方国家，共同营造多元开放创新生态，助力推进各自国家现代化进程，为构建人类命运共同体贡献力量。&lt;/p&gt;&lt;p&gt;　　外方祝贺中共二十届五中全会胜利召开，表示愿同中国共产党加强治国理政经验互学互鉴，促进人工智能等领域交流合作，更多增进民众福祉。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192364&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192364.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192364.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 2026“看中国  听世界”论坛举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192364.html#[03版：要闻] 2026“看中国  听世界”论坛举行</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 第三届兰花奖颁奖典礼在京举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192365.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 第三届兰花奖颁奖典礼在京举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京11月20日电  （记者李卓尔、李锋、张光政）11月20日，第三届兰花奖颁奖典礼在京举行。中共中央政治局委员、中央宣传部部长李书磊出席并致辞。&lt;/p&gt;&lt;p&gt;　　兰花奖旨在践行习近平主席提出的全球文明倡议，表彰奖励为弘扬全人类共同价值、促进中外文明交流互鉴作出突出贡献的国际友人和机构。来自法国的让—马里·居斯塔夫·勒克莱齐奥、新加坡的马凯硕、美国的亚当·福斯特等10位国际友人获得本届兰花奖。&lt;/p&gt;&lt;p&gt;　　与会嘉宾认为，兰花奖源于中国、连通世界，设立以来，国际影响力持续提升，为不同文明和合共生注入了新动能，也成为各国文明同心同理、互促互进的见证。&lt;/p&gt;&lt;p&gt;　　与会嘉宾表示，要坚持平等相待，促进多元文明包容共存；守护文化根脉，推动人类文明薪火相传；加强数智赋能，助力文明成果普惠共享，为推动人类文明进步贡献更多智慧和力量。&lt;/p&gt;&lt;p&gt;　　第三届兰花奖颁奖典礼由中国外文局主办，兰花奖秘书处承办。来自中央有关部门、国际组织、驻华使节、中外智库、媒体机构代表等300余人参会。11月21日至26日，部分获奖者等还将赴山西开展“走读中国”参访活动。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192365&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192365.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192365.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 第三届兰花奖颁奖典礼在京举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192365.html#[04版：要闻] 第三届兰花奖颁奖典礼在京举行</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 张国清出席国际丝绸组织成立大会并致辞</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192366.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 张国清出席国际丝绸组织成立大会并致辞 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　新华社杭州11月20日电  国际丝绸组织成立大会20日在浙江杭州举行。中共中央政治局委员、国务院副总理张国清出席成立大会并致辞。&lt;/p&gt;&lt;p&gt;　　张国清表示，习近平主席深刻指出，古代丝绸之路是一条贸易之路，更是一条友谊之路。丝绸承载着数千年的技艺传承，是镌刻在人类文明长河中的华美印记，是共建“一带一路”、推动经贸往来与文化交流的重要载体。近年来，中国丝绸产业在创新攻关、生态培育、品牌创建等方面快速发展。中方愿与各方一道，践行四大全球倡议，弘扬以和平合作、开放包容、互学互鉴、互利共赢为核心的丝路精神，共同推动全球丝绸产业繁荣发展。要加强丝绸领域标准互认、规则对接和产业协同，依托“一带一路”科技创新行动计划等，共筑融通创新的产业生态。要在国际丝绸组织框架下搭建信息共享、供需对接、交流合作的公共服务平台，推动蚕桑资源培育、生产加工、贸易投资等领域务实合作，共建开放普惠的合作体系。要加强文化交流，推动丝绸技艺跨国展示、非遗传承人互访、设计师跨国联合创作等，促进各国丝绸技艺、设计理念与文化传统的相互交融，共织互学互鉴的友谊纽带。要用好国际丝绸组织这个合作平台，持续深耕产业、畅通经贸、传承文化，为高质量共建“一带一路”注入更多动力。&lt;/p&gt;&lt;p&gt;　　在浙期间，张国清还就历史经典产业开展调研。他强调，丝绸、茶叶、瓷器等历史经典产业具有深厚文化底蕴和长久品质口碑，要在继承中发展，在发展中继承，推动更好传承中华文化、厚植产业优势、激发消费潜能。要加强产业传承创新，增强材料改良、工艺优化、设备升级等关键共性技术供给，强化标准引领，加强知识产权保护和运用。要推动历史经典产业与文化、旅游、康养、教育、乡村振兴等领域多元融合，培育壮大消费新场景新增长点，助力消费提质扩容。要支持经典名企做优做强，引导中小企业做精做深，不断提升品质品牌，擦亮金字招牌，让历史经典产业持续焕发新活力。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192366&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192366.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192366.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 张国清出席国际丝绸组织成立大会并致辞 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192366.html#[04版：要闻] 张国清出席国际丝绸组织成立大会并致辞</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 同在一条船上，就要有“共同体意识”（人民论坛）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192367.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 同在一条船上，就要有“共同体意识”（人民论坛） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							李  拯&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　时代的脚步，会在普通人的生活中留下印记。&lt;/p&gt;&lt;p&gt;　　在巴布亚新几内亚西部省的雨林中，中国企业承建的沥青路把村镇与外界相连。当地种植户托马斯说，路通了，香蕉卖出好价钱，“这条路就是我们的‘生命线’”。&lt;/p&gt;&lt;p&gt;　　在文莱首都斯里巴加湾市，中国企业把沼泽遍布的大摩拉岛打造成炼化基地。当地姑娘萨布丽娜说，中国企业帮助我们培养人才，“我很珍视这份工作”。&lt;/p&gt;&lt;p&gt;　　打造亚太共同体，以合作谋共享之福，再没有比惠及普通人的生活更有说服力，更能说明亚太共同体的光明前景。&lt;/p&gt;&lt;p&gt;　　在亚太经合组织第三十三次领导人非正式会议上，习近平主席提出“持续培育共同体意识”。建设亚太共同体，不仅要拉紧共同利益纽带，更要筑牢共同精神纽带。&lt;/p&gt;&lt;p&gt;　　培育共同体意识，在升级互联互通。&lt;/p&gt;&lt;p&gt;　　看一条路，中国和印尼合作建设的雅万高铁，将雅加达与万隆之间的通行时间从3个多小时缩短至最快46分钟，让印尼与亚太经济网络联系更紧密。&lt;/p&gt;&lt;p&gt;　　看一个合作区，位于越南海防市的中国·越南（深圳—海防）经济贸易合作区把杂草丛生之地转化为创业热土，成为深圳经济特区经验“走出去”的先行样本。&lt;/p&gt;&lt;p&gt;　　以基础设施“硬联通”拉近空间距离，以制度规则“软联通”促进要素流动，亚太大家庭成员交往更频繁、合作更顺畅，共同体意识自会深入人心。&lt;/p&gt;&lt;p&gt;　　培育共同体意识，在坚持包容发展。&lt;/p&gt;&lt;p&gt;　　亚太经济体多样性突出，发展诉求各异，推进合作不必强求整齐划一。只要信奉“志同道合，是伙伴。求同存异，也是伙伴”，照顾各方舒适度，就能为实现亚太共同体目标积累有利条件。&lt;/p&gt;&lt;p&gt;　　如今，中国制造的电动公交车行驶在墨西哥城街头，智利的车厘子端上中国百姓的餐桌，特斯拉上海超级工厂生产其全球近半数车辆……你中有我、我中有你，亚太经济发展利益交融、和合共生。&lt;/p&gt;&lt;p&gt;　　翻开亚太经合组织工商领导人峰会深圳倡议，削减非关税壁垒，积极支持亚太自贸区建设，深化“人工智能+”合作……让开放更高效，让融合更深入，让合作更紧密，才能在互利共赢中真正理解何为勠力同心、守望相助。&lt;/p&gt;&lt;p&gt;　　培育共同体意识，在促进民心相亲。&lt;/p&gt;&lt;p&gt;　　硬联通、软联通，通向的是更为密切的心联通。促进民众相知相亲，是培育共同体意识最深厚的根基。&lt;/p&gt;&lt;p&gt;　　今年4月，一台跨越2000公里的胆囊结石手术，在泰国曼谷和中国成都同时举行。手术全程通过5G通信技术实现，画面高清流畅，操作指令毫秒级传输。一根网线，两个团队，让泰国百姓无需出国即可享受高水平医疗服务。&lt;/p&gt;&lt;p&gt;　　一台手术照见信任与托付，民心相通孕育着无数合作的可能。在政策层面，中国计划在未来5年邀请10万名美国青少年赴华交流学习，为中美友好汇聚青春力量；在民间交往层面，“玛雅与安第斯古代文明大展”吸引中国民众，马来西亚民众对中国大熊猫倾注深厚感情……&lt;/p&gt;&lt;p&gt;　　只有获得民众发自内心的价值认同、文化认同，共同体意识才能真正成为深入彼此、牢不可破的精神纽带，支撑亚太共同体行稳致远。&lt;/p&gt;&lt;p&gt;　　在会议周新闻中心，不同肤色、来自不同经济体的新闻记者，用不同的语言向民众讲述同一个故事——我们的故事、亚太的故事。这个场景，正是亚太共同体的具象呈现。同在一条船上，涵养共同体意识，亚太大家庭成员才能经受住太平洋的风浪，共同驶向更为开阔的水域。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;李  拯&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192367&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192367.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192367.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 同在一条船上，就要有“共同体意识”（人民论坛） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192367.html#[04版：要闻] 同在一条船上，就要有“共同体意识”（人民论坛）</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 全国人大常委会办公厅对新任县级人大常委会主任开展履职培训</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192368.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 全国人大常委会办公厅对新任县级人大常委会主任开展履职培训 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报北京11月20日电  （记者彭波）全国人大常委会办公厅11月16日至20日在京举办新任县级人大常委会主任“深入学习贯彻党的二十届五中全会精神  坚持好完善好运行好人民代表大会制度”履职培训班，来自河北、江西、湖南、西藏、甘肃、青海等6个省（区）的229位县级人大常委会主任参加培训。&lt;/p&gt;&lt;p&gt;　　全国人大常委会办公厅有关负责同志在开班式上表示，要认真学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神，自觉把思想和行动统一到党中央决策部署上来。党的二十届五中全会《决定》为全面加强人大党的建设和自身建设提供了遵循。要深刻认识我国实行人民代表大会制度的历史必然和显著优势，牢牢把握做好新时代人大工作的重大原则和根本遵循，持之以恒推进全面从严治党，巩固拓展树立和践行正确政绩观学习教育成果，推动新时代人大工作和党的建设高质量发展，以实际行动为实现“十五五”时期目标任务贡献力量。&lt;/p&gt;&lt;p&gt;　　培训班安排了8个专题报告，邀请中央纪委国家监委，全国人大宪法法律委、社会委，全国人大常委会法工委、预算工委、代表工委、办公厅等单位有关同志围绕相关主题进行授课。培训班还组织了分组讨论、大会交流和现场教学。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192368&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192368.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192368.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 全国人大常委会办公厅对新任县级人大常委会主任开展履职培训 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192368.html#[04版：要闻] 全国人大常委会办公厅对新任县级人大常委会主任开展履职培训</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 财政部在香港成功发行美元主权债券</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192369.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 财政部在香港成功发行美元主权债券 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报香港11月20日电  （记者冯学知）财政部2026年美元主权债券发行仪式20日在香港金融管理局举行。财政部有关负责人宣布，财政部代表中央政府于11月19日成功在香港发行了20亿美元主权债券，国际投资者认购踊跃，总认购金额723亿美元，是发行金额的36倍。&lt;/p&gt;&lt;p&gt;　　据介绍，此次发行的美元主权债券为3年期，发行利率为4.821%。投资者类型丰富，地域分布广泛。亚洲、欧洲和中东、美洲投资者分别占比52%、34%、14%，主权类、基金资管、银行和保险、交易商等类型投资者分别占比59%、29%、11%、1%。此次发行的债券将全部在香港联合交易所上市。&lt;/p&gt;&lt;p&gt;　　自2009年起，财政部根据国家推动金融业对外开放的总体部署，已连续18年在境外常态化发行主权债券，包括境外人民币国债、美元主权债券和欧元主权债券，不断完善境外主权债券发行机制。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192369&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192369.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192369.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 财政部在香港成功发行美元主权债券 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192369.html#[04版：要闻] 财政部在香港成功发行美元主权债券</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] “网络文明大讲堂·数字里的文化遗产”专场活动举办</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192375.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “网络文明大讲堂·数字里的文化遗产”专场活动举办 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报郑州11月20日电  （记者何思琦）11月20日，由中央精神文明建设办公室、中央网信办、教育部等部门组织发起的“网络文明大讲堂·数字里的文化遗产”专场活动在河南郑州举办。&lt;/p&gt;&lt;p&gt;　　本次活动汇聚文化遗产领域多名专家学者、网络创作者等，旨在运用“网络文明大讲堂”这一平台，深入探讨文化遗产保护传承如何与网络文明建设双向奔赴，以优秀传统文化推动互联网向上向善，更好地造福人民。&lt;/p&gt;&lt;p&gt;　　与会嘉宾表示，文物和文化遗产承载着中华民族的基因和血脉，是不可再生、不可替代的中华优秀文明资源。要以数智技术赋能文化遗产保护，以丰厚文化遗产滋养网络文明，以网络汇聚保护文化遗产的强大合力，引导社会各界积极行动起来，精心保护好、传承好、传播好文化遗产，推动文化遗产在网络空间活起来、传下去。&lt;/p&gt;&lt;p&gt;　　本次活动设置主题讲座、交流互动等环节，多名嘉宾围绕文化遗产的数字化保护与传播分享实践案例。龙门石窟研究院党委书记余杰介绍了如何利用数字技术活化千年石窟，浙江大学中国古代书画研究中心副主任金晓明介绍了“中国历代绘画大系”的编纂出版与创新转化，古建筑科普博主杨大炜讲述了如何通过短视频让大众了解建筑遗产。活动现场还展示了“河洛文化大模型”，文博志愿者集体朗诵了《我们是文化遗产守护者》。&lt;/p&gt;&lt;p&gt;　　据悉，“网络文明大讲堂”活动于今年6月正式启动，依托“政策部门+高校专家+行业代表+基层实践者”人才力量，立足文化场馆、校园课堂、社区服务中心等多元阵地，举办系列场景式讲座和互动交流，共同探讨网络文明建设的有效路径。&lt;/p&gt;&lt;p&gt;　　本次活动由中央宣传部文明培育局、中央网信办网络社会工作局、教育部思想政治工作司、河南省委宣传部共同主办。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192375&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192375.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192375.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “网络文明大讲堂·数字里的文化遗产”专场活动举办 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192375.html#[04版：要闻] “网络文明大讲堂·数字里的文化遗产”专场活动举办</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] “中国好医生、中国好护士”走进河南现场交流活动举行</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192376.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “中国好医生、中国好护士”走进河南现场交流活动举行 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　据新华社郑州11月20日电  11月20日，由中央精神文明建设办公室、国家卫生健康委主办的“中国好医生、中国好护士”走进河南现场交流活动在河南中医药大学举行，集中发布2025年第三批、第四批，2026年第一批、第二批“中国好医生、中国好护士”名单，来自卫生健康系统的119位优秀医疗卫生工作者光荣入选。&lt;/p&gt;&lt;p&gt;　　活动通过宣传片、访谈、情景演绎等形式，讲述医务工作者服务百姓健康的故事：他们有的把健康管理送到村民家门口，有的为消除疟疾奉献一生，有的走进校园和社区守护青少年心理健康，有的精益求精构建疑难疾病诊治“中国标准”，有的师徒三代接续传承做“离人民近一点”的好医生。活动最后，来自长征途经省份的医务工作者以诗朗诵《医者的长征》诠释长征精神在新时代的延续。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192376&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192376.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192376.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “中国好医生、中国好护士”走进河南现场交流活动举行 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192376.html#[04版：要闻] “中国好医生、中国好护士”走进河南现场交流活动举行</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192377.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/184cc641-2f25-4b8e-afce-c11dddbdfad2.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　11月20日，随着重达1.7万吨的中心平台在海油工程青岛高端装备制造基地完成装船，我国首个海上注碳增气技术示范应用工程——东方1—1气田二氧化碳捕集封存利用项目陆地建设全面完工，转入海上安装阶段。项目投产后每年可在海底地层封存二氧化碳超100万吨，对推动我国海洋能源行业大规模深度降碳具有重要意义。&lt;/p&gt;&lt;p&gt;　　新华社记者  李紫恒摄 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192377&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192377.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192377.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192377.html#[04版：要闻] 图片报道</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192378.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　11月20日下午，国务院总理李强在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　新华社记者  黄敬文摄&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/b3cfd327-23c8-48d5-9423-d02ee99fbaf4.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　新华社北京11月20日电  （记者伍岳）11月20日下午，国务院总理李强在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤。&lt;/p&gt;&lt;p&gt;　　李强表示，当前，中澳关系保持积极发展势头，各层级交往日益密切，各领域合作走深走实，给两国人民带来实实在在的利益。今天上午，习近平主席在深圳同总理先生举行会晤，就进一步深化中澳关系作出战略指引。明年是中澳建交55周年，中方愿同澳方一道以此为契机，秉持平等互利、开放务实态度，聚焦共同利益，妥善管控分歧，推动中澳全面战略伙伴关系取得更多积极成效，共促两国发展繁荣。&lt;/p&gt;&lt;p&gt;　　李强指出，中澳在产业、市场、技术等方面各有优势、互补性强，两国深化合作有内生需求，能够相互赋能。中方愿同澳方推动双边贸易扩大规模、优化结构，打造绿色低碳、新能源汽车、人工智能等新兴领域合作亮点，进一步提升贸易投资自由化便利化水平，争取更多实际成果。双方要办好明年的“中澳旅游年”，深化文化、青年、地方、媒体、智库等交流合作，筑牢两国关系友好基础。当前，单边主义、保护主义还在大行其道。中澳同为多边主义的支持者、受益者，中方愿同澳方加强在联合国、亚太经合组织等框架下沟通协调，共同维护多边体系和自由贸易，捍卫国际公平正义。&lt;/p&gt;&lt;p&gt;　　阿尔巴尼斯再次祝贺中方在深圳成功举办亚太经合组织领导人非正式会议，表示近年来澳中关系稳步发展，各层级交往日益密切，相互理解和信任更加深入。澳方坚持一个中国政策的立场不会改变。在当前动荡的国际形势下，澳中更应放眼长远，不能让分歧干扰双边关系，而是要积极推进合作，为两国、地区和全球人民带来更多福祉。澳中经济具有互补性，澳方愿以两国建交55周年为契机，同中方深化经贸、农业、能源等领域合作，加快清洁能源、人工智能、电动汽车、数字经济等新兴领域合作，密切旅游等人文交流。澳方坚持多边主义和自由、开放的贸易，愿同中方携手维护以规则为基础的多边贸易体制。&lt;/p&gt;&lt;p&gt;　　双方共同发表《中澳总理年度会晤联合成果声明》。&lt;/p&gt;&lt;p&gt;　　吴政隆出席会晤。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192378&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192378.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192378.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192378.html#[04版：要闻] 李强同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[04版：要闻] 一版责编：许  诺  张帅祯  赵  政  二版责编：蒋雪婕  郭雪岩  张安宇  三版责编：吴  刚  周  輖  谢佳宁  四版责编：白之羽  韩春瑶  刘静文</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192379.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一版责编：许  诺  张帅祯  赵  政  二版责编：蒋雪婕  郭雪岩  张安宇  三版责编：吴  刚  周  輖  谢佳宁  四版责编：白之羽  韩春瑶  刘静文 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 04 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192379&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192379.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192379.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一版责编：许  诺  张帅祯  赵  政  二版责编：蒋雪婕  郭雪岩  张安宇  三版责编：吴  刚  周  輖  谢佳宁  四版责编：白之羽  韩春瑶  刘静文 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192379.html#[04版：要闻] 一版责编：许  诺  张帅祯  赵  政  二版责编：蒋雪婕  郭雪岩  张安宇  三版责编：吴  刚  周  輖  谢佳宁  四版责编：白之羽  韩春瑶  刘静文</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 国产大模型引领全球开源生态（大数据观察·智能经济新形态）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192380.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 国产大模型引领全球开源生态（大数据观察·智能经济新形态） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; 累计下载量突破100亿次 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  谷业凯&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　数据来源：工业和信息化部&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/6a069c30-3418-4b18-8cbf-e872f2a21abf.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p&gt;　　近日，北京月之暗面科技股份有限公司公布了Kimi K3.1 Pro完整模型权重，这款全球参数规模最大开源模型在技术社区引发了广泛讨论；腾讯混元发布了新一代大语言模型Hy4，在指令遵循、长文理解、长程任务及深度研究等能力方面实现了提升。&lt;/p&gt;&lt;p&gt;　　前不久闭幕的2026年世界互联网大会乌镇峰会上，“开源”也成为关键词。今年以来，我国多家科技企业密集推出开源模型产品，在参数规模与技术深度方面不断实现突破。什么是开源？如何看待模型开源现象？国产开源模型有哪些新的发展趋势？&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;开源步伐加快，下载量、衍生模型数量领跑&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　与软件“公开源代码”的字面意义不同，模型开源更多指的是“开放权重”。&lt;/p&gt;&lt;p&gt;　　简单来说，模型就像是一个拥有海量知识的大脑，而“权重”就是这个大脑中数以千亿计的参数数值。这些参数记录了模型在训练过程中学到的所有语言规律、逻辑推理能力和各种知识。&lt;/p&gt;&lt;p&gt;　　“开放权重”，意味着使用者可以下载模型，在自己的电脑或服务器上运行推理，甚至通过微调让它来适应特定的任务。例如，企业和开发者不需要花费大笔资金从头开始训练，就能获得一个极其聪明的模型底座；它还允许在本地服务器或私有云上部署，这对一些对数据隐私要求极高的用户来说很关键。日益丰富的开源模型，还能让发展中国家以低成本获取前沿能力。&lt;/p&gt;&lt;p&gt;　　不过，开源不等同于放弃商业回报，依托云端推理、智能体平台、模型微调等，企业依然能够形成可持续的收益模式。&lt;/p&gt;&lt;p&gt;　　目前，我国日均词元调用量已突破500万亿，国内网购平台已上线词元充值中心，“双11”直播间里，词元也成了抢手货。“词元可计量、可定价、可交易的属性逐步被挖掘，词元调用量正成为观察人工智能（AI）活跃度、产业渗透深度、智能化发展水平的重要指标。”中央网信办副主任王京涛表示。&lt;/p&gt;&lt;p&gt;　　在高度市场化的模型聚合平台上，中国开源模型的表现同样突出。11月9日至15日，全球开源模型聚合平台OpenRouter上中国模型的周调用量为119.1万亿词元，连续29周稳居全球首位。工业和信息化部数据显示，我国人工智能开源大模型全球累计下载量突破100亿次。“一批全球领先的开源模型持续涌现，下载量、衍生模型数量领跑，引领全球人工智能开源生态。”中国科学技术信息研究所党委书记黄琦说。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;竞争力提升，模型架构加快创新、底层技术不断突破&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　国产开源模型竞争力的提升，不仅源于应用范围广，更来自模型架构加快创新、底层技术不断突破。&lt;/p&gt;&lt;p&gt;　　去年年初，深度求索发布的DeepSeek系列模型，不仅在性能上取得了突破，更对混合专家模型架构进行了创新，大幅降低了推理成本和算力需求。这种架构后来成为全球人工智能领域共同探索的方向。&lt;/p&gt;&lt;p&gt;　　今年发布的Kimi K3则提出了自主研发的混合线性注意力机制等，让“超长文本算得更省，超大模型训得更稳”。“我们从底层逻辑对该架构的关键组件进行了重构，让模型训练找到全新进化空间。”月之暗面Kimi创始人兼首席执行官杨植麟说，中国开源模型正在成为全球模型厂商评测中的标杆和海外研究机构的重要样本。&lt;/p&gt;&lt;p&gt;　　国产开源模型与国产算力适配度的提升同样值得关注。今年6月，美团发布依靠国产算力完成训练、推理全流程的万亿参数大模型。11月，美团新一代大模型LongCat—2.5发布，推动国产算力上的大模型从“跑得动”走向“跑得快、跑得省”。美团龙猫大模型负责人蔡勋梁说：“我们逐步攻克了神经网络处理器确定性计算、算力利用率提升等难题，验证了大规模国产训练的可行性。”&lt;/p&gt;&lt;p&gt;　　为了推动人工智能落地，国内芯片厂商也在产品设计上持续进行优化。“国产开源模型能力提升，带动智能体、编程、视频生成等需求提速，将催生大量长上下文承载、多轮工具的高频调用，以及更高效的多模态并发处理能力。调用规模越大，用户对响应速度、使用成本就越敏感。”国产推理GPU（图形处理器）厂商曦望董事长徐冰说。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;应用深度增强，推动智能成果普惠全球&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　随着技术的发展，国产开源模型正走入更多应用场景。&lt;/p&gt;&lt;p&gt;　　深夜的京东方生产线上，显示面板有序通过各道工序。人工智能系统实时捕捉到一处微观缺陷，即刻生成修复方案，联动设备完成修复——从发现问题、分析判断，到执行处理，实现全链路智能化质量管理闭环。&lt;/p&gt;&lt;p&gt;　　“我们以国产开源大模型为基础底座，自主研发了京东方蓝鲸显示大模型，融合工业制造经验和产线数据，覆盖研发设计、生产制造、质量管理等场景，推动多项AI应用在京东方各地工厂落地。”京东方高级副总裁、联席首席技术官姜幸群说。&lt;/p&gt;&lt;p&gt;　　个人开发者吴瑞孟接到一名淘宝店主“用二次元图片给车贴膜”的需求时，马上联想到“AI试衣”场景。他在无代码应用开发平台“秒哒”上，只花了25分钟就设计出demo（小样），这个“+AI”的创意，最终以8000元的价格成交。“用自然语言描述需求，由模型创建定制化应用，人工智能可以帮我补齐能力短板。”吴瑞孟表示。&lt;/p&gt;&lt;p&gt;　　中国开源模型同样改变着海外用户的工作方式和海外企业的成本结构。&lt;/p&gt;&lt;p&gt;　　去年底，一款名为“海狮V4”的多语言大模型在新加坡发布。该模型以阿里千问开源模型为基座研发，聚焦东南亚复杂的语言使用环境，受到当地用户的欢迎。“海狮V4”依托千问开源模型覆盖119种语言的优势，在36万亿词元上进行了预训练。在新加坡人工智能计划高级总监刘思理看来，与中国企业的合作是推动AI普惠化、使其更具东南亚代表性的一个重要标志。&lt;/p&gt;&lt;p&gt;　　“人工智能普惠的可能性，需要建立在坚实的开源根基上。”中国科学院计算技术研究所研究员张云泉表示，从技术、规则到公共产品，中国正把普惠的愿景转化为实实在在的行动。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  谷业凯&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; 累计下载量突破100亿次 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192380&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192380.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192380.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 国产大模型引领全球开源生态（大数据观察·智能经济新形态） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192380.html#[05版：要闻] 国产大模型引领全球开源生态（大数据观察·智能经济新形态）</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 深化法治交流合作  共促区域繁荣稳定</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192381.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 深化法治交流合作  共促区域繁荣稳定 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;p&gt; ——第八届中国—东盟法治论坛综述 &lt;/p&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  金  歆  常碧罗&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt;　　11月19日，由中国法学会主办的第八届中国—东盟法治论坛在重庆举行。论坛上，来自中国和东盟国家以及国际组织的法学法律界人士，围绕“深化法治交流合作，共促区域繁荣稳定”主题展开交流对话。&lt;/p&gt;&lt;p&gt;　　与会嘉宾纷纷表示，中国和东盟国家间，应加强法治经验和法律学术交流，深化法律、规则、标准对接，健全打击跨国犯罪、化解跨境争议等执法司法合作机制，以高水平法治合作助力中国—东盟命运共同体建设取得新成效。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;护航中国与东盟经贸合作&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　中国—东盟自贸区3.0版升级议定书将于12月1日生效。在此背景下，如何进一步完善国际经贸法律规则、护航中国与东盟经贸合作，成为与会嘉宾关心的重要问题。&lt;/p&gt;&lt;p&gt;　　“当前，区域经济一体化持续推进，更需要各国坚守契约精神、恪守规则共识。”中国法学会党组书记、常务副会长王洪祥在论坛上致辞时表示，中国与东盟法学法律界应把握机遇，乘势而上，加强规则、规制、管理、标准对接，降低区域制度性交易成本，赋能创新要素自由流动，助力建设更高水平的区域一体化大市场，为护航区域经贸繁荣发展，推动建设开放型世界经济持续增添法治动力。&lt;/p&gt;&lt;p&gt;　　中老铁路开通运营近5年，黄金大通道效应持续放大。老挝最高人民法院副院长本圹·塔威萨针对跨境运输面临合同法律适用模糊、通关合规标准不一、货损取证处置困难、解纷机制衔接不足等痛点，建议两国法院进一步统一裁判尺度、规范法律适用，健全全链条风险防控体系，优化跨境司法互助流程，构建多元联动解纷体系。&lt;/p&gt;&lt;p&gt;　　西北政法大学国际交流与合作处处长王莹莹表示，全球的商事仲裁改革发展呈现出对效率、透明和规则化的共同价值追求，具体体现在对紧急仲裁、简易/快速处理等程序的看重，对仲裁地原则成文化的要求，以及对数字化程序的改革创新。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;协作治理，共同维护区域安全&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　跨境犯罪协作治理，是新形势下中国东盟法治合作的重要方面。&lt;/p&gt;&lt;p&gt;　　分论坛上，中国犯罪学学会副会长、最高人民法院刑事审判第二庭原庭长王晓东表示，期待各方进一步增进互信、打通堵点、互通线索、证据协同，让潜逃境外的腐败分子无处藏身，非法资产无处隐匿。&lt;/p&gt;&lt;p&gt;　　“新型犯罪形式不断涌现，许多具有跨国界特征，单靠一个国家的力量难以有效应对。”缅甸法律事务部副部长兼副总检察长坦林乌表示，缅甸于2026年7月颁布反网络诈骗法，为预防网络诈骗活动、依法惩处违法犯罪人员以及加强有关部门之间的协作提供了法律基础。缅甸政府将继续协调各方力量，防范网络诈骗和非法赌博。&lt;/p&gt;&lt;p&gt;　　中国人民公安大学副校长陈刚提出，通过专门立法构建系统框架、技术赋能前移防控关口、专群结合筑牢全民防线、跨境联合执法形成震慑合力，实现全链条治理效能提升。&lt;/p&gt;&lt;p&gt;　　&lt;strong&gt;推动学术交流，培养涉外法治人才&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;　　论坛上，不少嘉宾分享了在涉外法治人才培养方面的经验。&lt;/p&gt;&lt;p&gt;　　针对涉外法治人才，对外经济贸易大学副校长梅夏英在分论坛上提出，培养应从“支撑性配套”转向“先导性供给”，推动人才能力从“读懂规则”迈向“共写规则”。&lt;/p&gt;&lt;p&gt;　　在论坛全体会议上，中国法学会副会长、西南政法大学校长林维表示，当前，相关法律人才培养存在知识传授、能力培养、机制保障等方面错位，应完善合作共赢的机制平台，畅通和合共生的信息机会。&lt;/p&gt;&lt;p&gt;　　2025年，中国—东盟法学教育与研究联盟创建，迄今已有8个国家、20所大学参与。&lt;/p&gt;&lt;p&gt;　　“我们整合东盟语言、东盟师资、东盟教材、东盟研究、东盟研训平台、东盟法律实践六大资源，一体化推进人才培养。”广西民族大学党委副书记、中国—东盟法学院院长邓国彬介绍，中国—东盟法学院确立“语言通、文化通、法律通、技能通”培养标准，让学生既掌握法律检索、法律文书、法律谈判、法律辩论等职业技能，又具备涉外法律纠纷解决和跨文化国际事务综合处理能力。&lt;/p&gt;&lt;p&gt;　　柬埔寨皇家法律与经济大学校长陆占那表示，将继续致力于同中国和东盟各国相关机构建立优质的学术与研究伙伴关系，探索新的合作途径。&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  金  歆  常碧罗&lt;/author&gt;&lt;subtitle&gt;&lt;p&gt; ——第八届中国—东盟法治论坛综述 &lt;/p&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192381&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192381.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192381.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 深化法治交流合作  共促区域繁荣稳定 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192381.html#[05版：要闻] 深化法治交流合作  共促区域繁荣稳定</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 贵州黔东南州  把“小浆果”资源禀赋转化为“大产业”发展胜势</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192382.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 贵州黔东南州  把“小浆果”资源禀赋转化为“大产业”发展胜势 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/1c13d0cc-0c49-41d0-b0b8-4d991e89267e.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　初冬时节，苗岭深处。麻江县蓝莓种植基地的灌木丛正酝酿新芽，冷链物流园内一箱箱冷冻蓝莓打包装车，发往沿海口岸，远销欧洲的10余个国家和地区。在贵州省黔东南苗族侗族自治州，蓝莓已有20余年的种植历史。如今，这颗“小浆果”已成长为全州种植面积约19万亩、产值达16.49亿元的“大产业”。蓝莓产业从“一县发展”到“全州集群”，成为黔东南州立足资源禀赋、推动高质量发展的生动缩影。&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　集群布局  从“一枝独秀”到“多点开花”&lt;/p&gt;&lt;p&gt;　　黔东南州气候温润、酸性红黄壤遍布，适宜蓝莓生长。1999年，蓝莓产业率先在麻江县扎根生长，历经多年深耕，实现从无到有、从小到大、从大到强的跨越发展，形成了集种植、精深加工、科研开发、全域销售于一体的完整产业链。&lt;/p&gt;&lt;p&gt;　　麻江县先行先试的成功探索，让蓝莓产业纳入州级全局谋划。2024年，黔东南州出台《关于支持蓝莓产业高质量发展的意见（2024—2028年）》，明确“以麻江县为核心，凯里市、丹寨县、黄平县为重点辐射全州”的集群布局，组建州级蓝莓产业专班，制定标准化种植技术规程，推动分散种植向集群发展跃升。&lt;/p&gt;&lt;p&gt;　　如今，凯里市种植蓝莓2.17万亩，碧波镇、炉山镇、万潮镇千亩连片基地错峰上市。丹寨县种植蓝莓3万余亩，覆盖7个乡镇（街道）41个村，年产鲜果5000余吨、综合产值约2亿元。镇远、三穗、黎平等县跟进布局，形成重点带动、多点支撑的格局。&lt;/p&gt;&lt;p&gt;　　全链增值  从“小浆果”到“大产业”&lt;/p&gt;&lt;p&gt;　　蓝莓鲜果上市集中、货架期短。为延长产业链、提升价值链，黔东南州坚持“加工为主、鲜食为辅”，累计引进培育一批蓝莓精深加工企业，开发速冻果、NFC原浆、花青素提取物、果酒等10类30余种产品，构建起“七成加工、三成鲜销”的格局。&lt;/p&gt;&lt;p&gt;　　全州集聚蓝莓产业企业49家，其中种植企业36家，培育种植合作社81个、育苗机构4个、家庭农场30个。贵州蓝瑞农业科技有限公司搭起鲜果、果汁、果干、果酱、果酒五大产品矩阵，年加工能力3000余吨。贵州共享鲜森食品科技有限公司的冷冻蓝莓出口订单持续增长。麻江汇源蓝莓全产业链项目加快建设，一期5万吨智慧冷库建设有序推进。“悠蜜”品牌的蓝莓复合果汁、蓝莓蒸馏酒销量逐年增加。&lt;/p&gt;&lt;p&gt;　　全链增值，标准先行。2025年9月1日，《地理标志产品质量要求 麻江蓝莓》（GB/T 45691—2025）正式实施，这是全国首个蓝莓地理标志产品国家标准，新增花青素、可溶性固形物、总酸等理化指标，为全国蓝莓产区立起质量标杆。&lt;/p&gt;&lt;p&gt;　　近年来，黔东南州构建起“区域公用品牌（苗侗山珍）+地标品牌（麻江蓝莓）+企业品牌（麻小莓等）”的矩阵体系，以品牌之力助“小蓝莓”成长为富民兴村的“黄金果”。&lt;/p&gt;&lt;p&gt;　　业态融合  从“摘鲜果”到“四季游”&lt;/p&gt;&lt;p&gt;　　每到采摘季，麻江县蓝莓生态旅游景区（蓝梦谷）里，满是省内外驱车而来的游客。这座蓝莓主题园区，2019年获评国家4A级旅游景区，2020年入选国家森林康养基地，将蓝莓采摘与生态康养、星空露营融为一体，配套生态酒店、自行车公园等设施，打造“春观花、夏采果、秋赏叶、冬品酒”的四季体验。2025年，麻江县接待游客254.44万人次、旅游综合收入24.24亿元，蓝莓产业带动全县3.6万名群众人均年增收1.2万元以上。&lt;/p&gt;&lt;p&gt;　　同时，丹寨县创新推出“蓝莓采摘+非遗体验”特色一日游线路，不断提升特色产品市场竞争力，带动周边餐饮、民宿等产业蓬勃发展。&lt;/p&gt;&lt;p&gt;　　在成功实践的基础上，黔东南州正因地制宜推动兴业强县富民一体发展，将蓝莓等“5+3”特色产业与苗侗文化、生态康养等资源深度融合，让特色产业为县域经济筑牢根基，让群众在产业链上获得实实在在的实惠。&lt;/p&gt;&lt;p&gt;　　以一颗蓝莓为切口，黔东南州写下了资源禀赋转化为发展胜势的生动注脚。奋进“十五五”，全州将继续深入落实强化比较优势战略，壮大蓝莓特色富民产业，持续书写“小浆果”链出“大产业”的精彩故事。&lt;/p&gt;&lt;p&gt;　　数据来源：中共黔东南州委宣传部&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192382&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192382.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192382.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 贵州黔东南州  把“小浆果”资源禀赋转化为“大产业”发展胜势 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192382.html#[05版：要闻] 贵州黔东南州  把“小浆果”资源禀赋转化为“大产业”发展胜势</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[05版：要闻] 本版责编：纪雅林  卢  涛  张伟昊</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192383.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：纪雅林  卢  涛  张伟昊 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 05 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　制图：张丹峰 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192383&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192383.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192383.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：纪雅林  卢  涛  张伟昊 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192383.html#[05版：要闻] 本版责编：纪雅林  卢  涛  张伟昊</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] “搬”出细胞的生产线，可以做什么（瞰前沿）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192384.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 体外合成生物学为推动实现“双碳”目标提供新选项 &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; “搬”出细胞的生产线，可以做什么（瞰前沿） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张以恒&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　体外合成生物学技术原理示意图。&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/e7b09fd4-18bd-4ed8-883c-d46acef072be.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img class="picture-illustrating not-indent patt" data-original-title="&amp;lt;p&amp;gt;　　体外合成生物中试实验场景。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;　　以上图片均为中国科学院天津工业生物技术研究所提供&amp;lt;/p&amp;gt;" data-toggle="tooltip" html="true" placement="bottom" src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/de415105-6176-4f8c-b5a2-9b1f7962f294.jpg" style="max-width: 100%;" trigger="hover focus"/&gt;&lt;/p&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/722980d6-9a7d-4f51-9e73-d0e7caddc2c8.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　新一轮科技革命浪潮中，生物制造正成为产业变革的重要赛道。传统的生物制造，依靠微生物的胞内代谢完成生物转化；体外合成生物学则另辟蹊径：把酶提取到细胞外，组装成多酶分子机器，在细胞外搭建生产线。&lt;/p&gt;&lt;p&gt;　　“搬”出细胞的生产线，可以做什么？能否实现能耗更低、排放更少的绿色生产？本期“瞰前沿”，我们邀请低碳合成工程生物学全国重点实验室主任张以恒，介绍体外合成生物学如何为推动实现“双碳”目标提供新选项。&lt;/p&gt;&lt;p&gt;　　——编  者  &lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　衣物面料、塑料瓶，甚至汽车里的燃料，一定要炼化石油才能生产吗？是否存在更低碳、更温和的制造方式？&lt;/p&gt;&lt;p&gt;　　生物制造打开了新的想象空间。&lt;/p&gt;&lt;p&gt;　　酿酒、制醋、发面，依靠微生物细胞完成化学转化。如今一条新的生物制造路线正在兴起：把细胞里负责催化的重要元件——酶，提取到体外，将多个酶（元件）重新组装成多酶分子机器，按照人工反应路径高效完成合成任务。这就是体外合成生物学。从全球首个万吨级的肌醇工厂，到“秸秆制粮”和“淀粉储氢”加速落地，基于体外合成生物学的一系列技术正把实验室的创造力，转化为产线上的生产力，并驶入更广阔的产业蓝海。&lt;/p&gt;&lt;p&gt;　　为什么要把细胞里的酶“请”出来？&lt;/p&gt;&lt;p&gt;　　19世纪60年代，法国科学家路易·巴斯德利用鹅颈瓶实验，推翻了自然发生说，即生命不会从腐肉、脏水中凭空产生，食品发酵与食物变质都源于微生物的繁殖。人们这才看清，酿酒、制醋、发面的本质是让活微生物完成复杂化学转化，微生物发酵也由此成为传统食品加工与工业生物制造的基石。&lt;/p&gt;&lt;p&gt;　　发面要几个小时，酿酒要几个星期，制醋要几个月……如果把细胞里的“生物催化剂”直接“请”出来，效率是否可以提高？&lt;/p&gt;&lt;p&gt;　　答案是肯定的。体外合成生物学的做法很直接：先提取来自不同细胞工厂（如微生物、动物、植物等）的催化元件酶，再在体外重新组装成人工设计的多酶分子机器，这相当于在细胞外建一条按需设计的流水生产线。没有细胞的生存、繁殖与调控，“多酶分子机器”只做一件事——高效、高速且精准地完成生物合成。&lt;/p&gt;&lt;p&gt;　　过去几十年，得益于极端微生物的发现与快速基因测序技术，耐受极端条件的酶有了新来源；酶固定化技术让酶在体外工作条件下长时间保持催化活性；现代工业酶技术的发展，让我们有能力借助常用的细胞工厂，低成本生产各种重组酶……这些进展意味着我们可以像搭积木一样，把不同来源的多个酶按化学反应顺序组装起来，形成多酶分子机器，实现细胞工厂难以实现的化学反应，比如二氧化碳人工合成淀粉。&lt;/p&gt;&lt;p&gt;　　这项技术最直观的变化，是反应条件的改变。传统化工靠高温高压，能耗高、排放高；微生物发酵要求特殊的无菌生物反应器，产品得率低于理论值。多酶分子机器能够在常温（或较高温度）、常压、水相中进行，不需要严格的无菌条件，可大幅降低能源消耗，减少碳排放。除此之外，它还有其他优点：产物得率更高，相同体积内生物催化剂（酶）量更大，反应速度更快，产品浓度更高，提纯成本更低……&lt;/p&gt;&lt;p&gt;　　以植物“胰岛素”海藻糖-6-磷酸合成为例，我们构建出三酶分子机器，实现了海藻糖-6-磷酸的高效、低成本、规模化制备。值得关注的是，生产速度比微生物发酵高100倍以上。固定化多酶分子机器还能够实现连续化生产，其制造强度是微生物发酵的1000倍以上。&lt;/p&gt;&lt;p&gt;　　体内路线（细胞工厂）和体外路线（多酶分子机器）不是对立关系。细胞工厂非常适合制造复杂分子，多酶分子机器更可控、更灵活，研发周期更短，更适合碳水化合物异构、糖磷酸化合物合成、多糖合成以及电氢糖二次能源循环等。而多酶分子机器所需的低成本酶元件，恰恰依赖细胞工厂的生产，两条路线各有适用场景，共同构成了生物制造的完整工具箱。&lt;/p&gt;&lt;p&gt;　　走出细胞、走上产线，体外生物转化如何打开新可能？&lt;/p&gt;&lt;p&gt;　　体外合成生物学从实验室走到产业端，就是体外生物转化。当多酶分子机器走上真正的产线，它能做什么？&lt;/p&gt;&lt;p&gt;　　在工业制造领域，体外生物转化在打开新的可能。维生素B8（肌醇）以前完全依赖玉米提取，现在通过多酶分子机器将淀粉转化为肌醇。相比传统植物提取路线，新技术能耗降低90%，磷污染减少95%，生产成本降低50%—75%。四川一家年产万吨肌醇的工厂，是首个体外合成生物学的产业化案例，生物制造替代植物提取已成为该行业的共识。&lt;/p&gt;&lt;p&gt;　　医疗健康领域同样如此。体外生物转化可以快速搭建多酶反应体系，省去工程菌构建和发酵培养的长周期，缩短药物研发和生产时间，也降低了药物的生产成本。比如，无细胞蛋白合成能快速合成多种蛋白质，已成为药用蛋白快速筛选的常用手段之一。又如，果糖-1，6-二磷酸，这是糖酵解途径中高能代谢中间物，既可作为心血管系统用药，又是高级运动饮料的关键成分之一。更短的周期、更低的成本，也意味着一些此前因价格高被搁置的药物分子，有了重新走向市场的可能。&lt;/p&gt;&lt;p&gt;　　从工厂里的绿色化学品，到药物研发的加速器，实践验证了细胞外生产线的落地能力。&lt;/p&gt;&lt;p&gt;　　体外生物转化技术如何拓展工业制造的边界？&lt;/p&gt;&lt;p&gt;　　我国猪禽饲料蛋白长期依赖进口大豆。如何提供充足的猪禽饲料用粮？“秸秆制粮”提供了替代路径。这是基于体外生物转化与微生物发酵的组合技术。一根秸秆，通过前沿技术转化，可以同时补上能量和蛋白两块短板，有效减少我国对进口大豆的依赖。&lt;/p&gt;&lt;p&gt;　　体外生物转化在能源领域的想象空间同样很大。&lt;/p&gt;&lt;p&gt;　　就拿氢能领域来说，储氢是其发展的瓶颈之一。我们研究团队提出了淀粉储氢技术，储氢密度可达14.8%，是高压储氢技术的2.5倍，是锂电池的10倍以上。氢气先通过人工光合作用转化为淀粉，运抵氢终端（如汽车），再通过体外呼吸作用将淀粉原位转化为氢气，储运难题有望得到破解。&lt;/p&gt;&lt;p&gt;　　如今，人工智能正在赋能体外生物转化的大规模商业化。&lt;/p&gt;&lt;p&gt;　　人工智能辅助酶设计，可以定制自然界不存在的高效催化剂，把新酶开发周期从数年压缩到数月。酶与材料科学的交叉研究，则让固定化酶装柱连续工作，实现从分批操作到连续化生产。&lt;/p&gt;&lt;p&gt;　　从多酶分子级联反应，到自组装多酶分子机器，再到生物制造绿色转型，体外合成生物学不仅丰富了生物制造的技术路线，更拓展了人类对于生物技术的认知，拓展了工业制造的边界。未来，这项从生物工程实验室走出来的原创技术，将逐步走进千行百业，助力绿色低碳发展。&lt;/p&gt;&lt;p&gt;　　（作者为低碳合成工程生物学全国重点实验室主任、中国科学院天津工业生物技术研究所体外合成生物学中心主任，本报记者龚相娟采访整理）&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;张以恒&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 体外合成生物学为推动实现“双碳”目标提供新选项 &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192384&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192384.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192384.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; “搬”出细胞的生产线，可以做什么（瞰前沿） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192384.html#[06版：科技·新知] “搬”出细胞的生产线，可以做什么（瞰前沿）</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 空间站里造“冷极”（唠“科”）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192385.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 空间站里造“冷极”（唠“科”） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							李  唐&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　大家都知道，太空里很冷。宇宙微波背景辐射温度约2.7开尔文，折合零下270摄氏度左右。离地面约400公里的中国空间站里，有一团铷原子比这还冷。它的等效温度是9.7皮开尔文，比室温低了14个数量级，接近绝对零度（零下273.15摄氏度），创下人类的“制冷”纪录。&lt;/p&gt;&lt;p&gt;　　在物理学里，冷意味着什么？&lt;/p&gt;&lt;p&gt;　　它对应着原子运动的能量。冷，就是让原子“别乱动”。温度到9.7皮开尔文，这团铷原子几乎被“冻”住了——7秒里只挪约500微米。&lt;/p&gt;&lt;p&gt;　　人类研究冷原子已经上百年了。上世纪初，科学家发现液氦能把温度降到几个开尔文，同时出现了超导和超流现象。但想继续往下降温，当时的人类无计可施。直到后来发明了激光冷却技术，温度一路降到了微开尔文、纳开尔文。&lt;/p&gt;&lt;p&gt;　　到纳开尔文级别时，原子会形成一种叫“玻色—爱因斯坦凝聚”的状态：原子不再是各自乱跑的热粒子，而是像一支整齐划一的队伍，物质波的宏观特性开始显现。&lt;/p&gt;&lt;p&gt;　　为什么要把原子“冷”到这种程度？&lt;/p&gt;&lt;p&gt;　　因为冷原子是超高精密测量的基石。比如用原子去测量物理量的超精密仪器“原子干涉仪”。它的灵敏度跟干涉时间的平方成正比，干涉时间越长，测量的精度就越高。而要让干涉时间变长，唯一的办法就是让原子冷下来、慢下来。&lt;/p&gt;&lt;p&gt;　　原子制冷的关键一步是蒸发冷却。如同水变凉的物理过程：一部分水分子蒸发时带走热量，剩下的水温度就降下来了。针对原子，我们把它关在一个“势阱”里。这个势阱就像一口井，能量高的原子靠近井口，能量低的待在井底，通过不断降低井的深度，让高能原子“逃逸”出去，剩下的原子经过热平衡，温度就降下来了。&lt;/p&gt;&lt;p&gt;　　然而在地球表面，重力会拉拽原子，让势阱出现一个缺口。当把阱深降到一定程度，原子就会从缺口漏出去，温度也就降不下去了。如同用一个有裂缝的碗装水，水总会滴漏出来，永远没法把水彻底凉透。&lt;/p&gt;&lt;p&gt;　　要把原子冷到极致，我们需要一个没有重力的地方——太空。太空的微重力环境，让势阱变成一个完美的、对称的“碗”，原子不会从任何方向漏出，可以持续降低阱深，持续降温。这就是我们将超冷原子实验柜送上空间站的原因。&lt;/p&gt;&lt;p&gt;　　我们采用两级交叉光阱冷却方案，第一组紧束缚的光阱做蒸发冷却，第二组松束缚的光阱除了蒸发冷却外，还做非绝热扩散冷却。这是因为玻色—爱因斯坦凝聚体除了有热动能之外，还有相互作用能。因此，冷却就是要将两部分的能量同时降低，非绝热扩散可以将原子间的相互作用能减少。在这个方案里，两束激光交叉，原子被“囚禁”在交叉中心，它具有更高的光学通道灵活性和对多种量子模拟实验兼容的优点。在空间站里，二十几束光要精确打入真空腔，关键的几束光交叉位置误差不能超过5微米。&lt;/p&gt;&lt;p&gt;　　诺贝尔物理学奖得主沃尔夫冈·克特勒在看到实验结果后评价：7秒的自由演化时间比“9.7皮开尔文”的低温更重要。&lt;/p&gt;&lt;p&gt;　　自由演化时间，就是原子“松绑”后还能被看见的时长。地面重力下，原子一旦被释放就往下掉，能被用来做精密测量的时间很短，通常是几百毫秒；太空微重力里，这团铷原子“松绑”后还有7秒时间。精密测量的灵敏度跟自由演化时间的平方成正比，时间越长，灵敏度越高。这7秒，就是地面拿不到的测量“时间窗口”。&lt;/p&gt;&lt;p&gt;　　“冷”不是终极目标，我们正尝试用“动量滤波”的方法，把更冷的原子筛选出来，预期能进入几百飞开尔文的温区，比现在再降一个数量级。未来，在这个平台工作的基础上，可以研制一台极高精度的原子干涉仪，去测量地球重力场的微小变化，去探测暗物质存在的蛛丝马迹……&lt;/p&gt;&lt;p&gt;　　从2002年中国科学院王育竹院士团队开始研究空间冷原子技术，到2016年天宫二号搭载了国际首台空间冷原子钟，再到如今超冷原子物理实验柜在空间站稳定运行，中国在该领域的研究不断突破。太空里这口“降温的碗”，将帮助人类探索制造更精密的探测仪，“测量”宇宙中更细微的变化。&lt;/p&gt;&lt;p&gt;　　（作者为中国科学院上海光学精密机械研究所研究员，本报记者黄晓慧采访整理） &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;李  唐&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192385&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192385.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192385.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 空间站里造“冷极”（唠“科”） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192385.html#[06版：科技·新知] 空间站里造“冷极”（唠“科”）</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 我科研团队揭示植物感应虫害新机制</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192386.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 我科研团队揭示植物感应虫害新机制 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　据新华社上海电  （记者樊相龙）被虫咬了，植物有“感觉”吗？&lt;/p&gt;&lt;p&gt;　　记者从中国科学院分子植物科学卓越创新中心获悉：该中心陈晓亚院士团队、万里研究团队联合攻关，通过分析稻绿蝽等昆虫侵害和水稻等作物防御过程，揭示了植物“感知”昆虫侵害、启动抗虫防御的新机制。相关成果发表于国际学术期刊《自然》。&lt;/p&gt;&lt;p&gt;　　据介绍，昆虫取食时会向植物组织释放多种消化酶，并在植物体内分解产生一些小分子。这类小分子就像昆虫取食留下的“预警信号”，能够被水稻中核酸结合蛋白NIB1捕获。接收到信号后，NIB1在细胞核内集结形成凝聚体，招募免疫中心枢纽蛋白EDS1，启动抗虫防御反应，构成一套“感知信号—拉响警报—启动防御”的植物抗虫反应机制。&lt;/p&gt;&lt;p&gt;　　这一研究为理解植物抗虫免疫提供了新视角，也为发掘抗虫基因、培育抗虫新品种和开发新型植物疫苗提供了新思路。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192386&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192386.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192386.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 我科研团队揭示植物感应虫害新机制 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192386.html#[06版：科技·新知] 我科研团队揭示植物感应虫害新机制</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 量子计算机装上“高速内存”（探一线）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192387.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;p&gt; 浙江大学量子随机存储器全球首次真机实现—— &lt;/p&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 量子计算机装上“高速内存”（探一线） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							本报记者  窦  皓&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　浙江大学西溪校区物理学院超导量子计算实验室内，形似巨型金属圆筒的稀释制冷机内部，一枚由浙江大学微纳加工中心制备、指甲盖大小的超导量子芯片躺在最低温区的混合室上，四周密布着铝线和微波同轴线缆。这枚芯片名为“天目2号”，此前在这里完成了一项重大突破——QRAM（量子随机存储器）的全球首次真机实现，这项成果相当于给量子计算机装上了“高速内存”。该研究由浙江大学物理学院、计算机学院、软件学院和宁波国际科创中心等团队完成，相关成果发表于国际期刊《自然·物理》。&lt;/p&gt;&lt;p&gt;　　传统计算机用比特存信息，非0即1；量子计算机用量子比特，利用叠加态实现多路径的概率幅并行，量子计算理论上能在特定问题上实现远超经典计算机的计算能力。&lt;/p&gt;&lt;p&gt;　　“量子计算机虽身怀绝技，可它找地图时只能像普通人一样一页页翻书。再快的计算速度也会被拖垮。”论文共同第一作者、浙江大学物理学院博士生沈凡晧说。&lt;/p&gt;&lt;p&gt;　　这个“拖后腿”的环节正是量子计算机与经典计算机之间的数据转换接口。因此，量子算法在处理大规模经典数据时，需要高效的“数据通道”，避免“计算快如闪电、读数据慢如蜗牛”。&lt;/p&gt;&lt;p&gt;　　“QRAM理论架构早在2008年就提出来了，设想利用量子叠加特性，让量子计算机能同时精准指向并调取多组数据，这相当于给量子计算机装上一块‘高速内存’。”论文共同第一作者、浙江大学未来计算创新中心博士生向德彬说，可十几年过去，它始终躺在论文的设想里——真实的量子芯片上电路太长、噪声太大，还没等数据读出来，量子态就“塌”了，信息全丢了。&lt;/p&gt;&lt;p&gt;　　2022年，团队盯上了这块“硬骨头”。“最难的是让理想的树状结构在现实的二维网格芯片上跑起来。”向德彬回忆，光是让量子比特在芯片上“排兵布阵”又不互相干扰，就花了大量时间试错。为此，团队重构路由架构，优化路由器节点的切换逻辑。“要把迂回曲折的‘乡间小路’改成直线跨越的‘高速公路’。”浙江大学软件学院和宁波国际科创中心研究员卢丽强说。&lt;/p&gt;&lt;p&gt;　　QRAM是树状结构，查询过程中任何一个节点出错结果都会偏离预期值，且错误难以回溯纠正。团队让负责路由的量子比特兼任“监视器”，一旦发生能级跃迁或逻辑错误，路由器就会产生特定信号，系统能自动识别并剔除无效查询，把准确率提了上来。树状结构还意味着“树根”与“树梢”上的量子比特要“打交道”。物理芯片上需要大量交换门来“搬运”信息，噪声剧增。团队利用量子隐形传态技术，在相隔较远的量子比特之间建立高速“逻辑隧道”，解决了芯片物理布线对复杂算法结构的限制。&lt;/p&gt;&lt;p&gt;　　如今，这枚超导量子芯片上首次成功运行了能调取4位和8位数据的QRAM原型。实验测得的准确率分别达到80.9%和60.4%，测得线路深度相比未优化方案降低30%以上。实验首次验证了这种架构具有局部抗噪的特性——这意味着，在现有还不完美的量子硬件上，依然能构建出实用可靠的QRAM。目前，浙江大学未来计算创新中心也配备了自己的稀释制冷机等实验设备，能够开展同类实验。下一步，团队将继续推进QRAM的规模化研究。&lt;/p&gt;&lt;p&gt;　　“天目2号由超导量子计算团队自主设计并在浙江大学微纳加工中心制备，是我们团队多年探索的成果结晶。”浙江大学物理学院研究员宋超说，这意味着，从芯片设计、制备到测控，关键技术都握在自己手里。&lt;/p&gt;&lt;p&gt;　　未来，QRAM有望在金融大数据分析、人工智能训练、新药研发、材料模拟等领域大显身手。“QRAM的突破让我们离通用量子计算机更近了一步。我们点亮了一盏灯，之后的科研路会越走越亮。”论文通讯作者、浙江大学软件学院院长尹建伟说。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;本报记者  窦  皓&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;p&gt; 浙江大学量子随机存储器全球首次真机实现—— &lt;/p&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192387&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192387.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192387.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 量子计算机装上“高速内存”（探一线） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192387.html#[06版：科技·新知] 量子计算机装上“高速内存”（探一线）</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 研究显示全球冰冻圈正加速退化</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192388.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 研究显示全球冰冻圈正加速退化 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　据新华社赫尔辛基电  （记者朱昊晨、徐谦）斯德哥尔摩消息：一项最新国际研究显示，全球冰冻圈正加速退化，且部分变化具有不可逆性，可能给地球生态系统和人类社会带来长期风险。&lt;/p&gt;&lt;p&gt;　　来自瑞典斯德哥尔摩大学、中国清华大学、德国波茨坦气候影响研究所等机构和国际组织的研究人员在《科学》杂志上发表论文说，他们利用行星边界框架，系统评估了冰冻圈对维持地球系统稳定的作用，并以约1.17万年前开始的全新世为参照，根据这一时期相对稳定的气候和环境条件，界定冰冻圈的安全运行空间。&lt;/p&gt;&lt;p&gt;　　研究指出，人类活动引起的气候变化是冰冻圈退化的主要驱动因素，黑碳排放、工业活动和基础设施扩张等因素则进一步加剧了局部地区的冰冻圈退化。研究人员呼吁各国制定更积极的减排目标，并减少冰冻圈敏感地区的人为扰动。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192388&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192388.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192388.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 研究显示全球冰冻圈正加速退化 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192388.html#[06版：科技·新知] 研究显示全球冰冻圈正加速退化</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 海洋生物制造创新中心启用</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192389.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 海洋生物制造创新中心启用 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　本报三亚电  （记者孙海天）生物经济50人论坛（三亚）暨海洋生物制造创新中心成立大会日前在海南三亚崖州湾科技城高新区举行。会上，海洋生物制造创新中心正式启用，三亚华大生命科学研究院与海南热带海洋学院共建的海洋生物制造学院签约落地。&lt;/p&gt;&lt;p&gt;　　海洋生物制造创新中心由多家产业链龙头企业、高校院所联合共建。平台将重点攻关海洋微生物资源开发等方向，打造集共性技术研发、中试服务、成果转化、产业孵化于一体的开放创新平台。同步落地的海洋生物制造学院，将充分整合科研院所的技术平台与高校的学科人才优势，打通“教学—实训—就业”链条，为海洋生物制造产业持续输送本土化专业人才。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192389&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192389.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192389.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 海洋生物制造创新中心启用 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192389.html#[06版：科技·新知] 海洋生物制造创新中心启用</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[06版：科技·新知] 本版责编：肖  遥  陈世涵  董映雪</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192390.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：肖  遥  陈世涵  董映雪 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 06 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　版式设计：沈亦伶 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192390&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192390.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192390.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：肖  遥  陈世涵  董映雪 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192390.html#[06版：科技·新知] 本版责编：肖  遥  陈世涵  董映雪</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[07版：广告] 推动中国经济持续向新向优向好发展 第二十一届中国经济论坛</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192391.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 推动中国经济持续向新向优向好发展 第二十一届中国经济论坛 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 07 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent" style="text-align:center;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/fade1da4-ab4c-4e22-a5fd-5d667f35126d.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt;　　中国·广州·南沙&lt;/p&gt;&lt;p&gt;　　主办单位：中国经济周刊&lt;/p&gt;&lt;p&gt;　　2026年11月29日—30日&lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192391&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192391.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192391.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 推动中国经济持续向新向优向好发展 第二十一届中国经济论坛 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192391.html#[07版：广告] 推动中国经济持续向新向优向好发展 第二十一届中国经济论坛</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 众志成绳</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192392.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 众志成绳 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							老  藤&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　众志成城这个词很常见，意思是只要众人同心就会像城墙一样牢固。从字面意思分析，这个成语的含义更倾向于坚守并抵御困难。在甘南临潭，通过一项成千上万百姓参与的民俗活动，我发现众志不仅成城，而且还能成绳。&lt;/p&gt;&lt;p&gt;　　拔河现在是一项体育运动。中小学运动会，最后的拔河往往把比赛气氛推向高潮。记得小学五年级学校开运动会，我们的班主任，一位温文尔雅的女教师，指挥拔河挥旗喊号子竟然喊哑了嗓子。作为正规的竞技拔河比赛，两队只能各上场8名运动员，非正规的群众运动会，各上场最多也就16人。但是，在甘南临潭，却有着万人上阵的拔河运动，而且这项运动还有一个轻松诙谐的名字——扯绳。&lt;/p&gt;&lt;p&gt;　　到临潭之前我不知道什么是扯绳。乍听扯绳还以为与翻花绳有关，让我想起老北京关于翻花绳的儿歌：一根绳儿，两个人儿，四只手、八条横儿……将一根软软的绳子变化出无穷的图形。翻花绳仅一个人翻不成，两人相互配合很重要，心灵手巧的擎绳者会暗示引导对方，自然就翻得开心；若是遇上“马大哈”，三两下就翻成死结，游戏便玩不下去了。最近，终于有机会踏上了临潭冶力关大地，这里优美的山川景色，质朴的民风和脱贫后经济社会的快速发展给我留下了深刻印象。但盘点此行，感到收获最大的还是扯绳。一根又粗又长的绳子，像施了魔法一样缠绕着我，让我浮想联翩。&lt;/p&gt;&lt;p&gt;　　临潭扯绳起源于600多年前的明洪武年间，原本是戍边将士一种锻炼体魄的“牵钩”运动，后来演变为民间一种祈福、娱乐的群众性活动。扯绳所用的绳子可不是小打小闹的麻绳，那是长逾千米、重达10吨、里面编有钢丝的特殊绳子。此绳分龙首、蛇身、燕尾三段，龙首段最粗，需扯绳者抱着发力。蛇身段如同巨蟒，直径有七八厘米，由骨干队员抓握。分叉后的燕尾段也有四五厘米粗细，可供数不尽的群众上手用力。我听后吓了一跳，这哪里是绳儿？分明就是钢缆，一般景区的索道钢丝绳直径也就三四厘米，临潭的绳堪称绳中之最了。&lt;/p&gt;&lt;p&gt;　　依民俗，扯绳只能在元宵节期间举办，我这会儿来访无缘现场参与，好在有完整的活动视频可以回放。这是一项名副其实的全民运动，数万人分成两队，那根原本够粗的钢丝绳在人头攒动、鼓号震天的人流中竟显得发丝一样纤细。整条大街成了一条激流澎湃的河，双方你来我往，相持不下，颇有大河浩荡回旋之势，令人血脉偾张。&lt;/p&gt;&lt;p&gt;　　临潭扯绳是真正意义上的拔河。既然叫拔河，参与者众方能成浩荡河流之势，才有潮汐般的壮阔。大街上摩肩接踵的人流一会儿顺流而下，一会儿又逆流而上，号子声、鼓乐声、呐喊声让整条街沸腾起来。一般来说，扯绳不会顷刻间决出输赢，一边倒的现象很难出现，那根象征着好运气、好年景的绳子总要来来回回拉锯几次。原本势头强劲要胜出的一方，也许不小心会功亏一篑；而看上去节节败退的一方，说不准触底反弹，在坚持中扭转乾坤。扯绳的魅力在于开赛前谁也无法预料结果，组织得好，步调一致，合力就足，夺胜的概率也就大。反之，如果协调上出了问题，哪怕队伍中大力士再多也不一定取胜。两队拼的是士气，比的是力气，最终夺胜靠的是众志成绳的组织与协调。&lt;/p&gt;&lt;p&gt;　　600多年前的屯垦将士为什么会选择扯绳这项运动？当地可选的游戏、运动方式有许多，比如会操、赛马、浪山等等，但他们唯独看好了扯绳。我想，也许在屯垦官兵心里，没有哪项运动能与扯绳相比，一根绳子能把你我他连在一起，让人心往一块想、劲往一处使。如果从文化的角度看，绳子还象征着传承。《周易·系辞下》有“上古结绳而治”，人类从结绳记事开始进入文明社会。有一种说法，上古时期古人将一根根打结的绳子挂在墙上用来记事，大事打大结，小事打小结，这便是伏羲八卦的来历，也是八卦之所以叫卦（挂）的原因。绳子寓意福荫绵延自古有之。古书云“宜尔子孙，绳绳兮”，其子孙连绵不断的寓意恐怕也其来有自。当年屯垦官兵没想到的是，他们选择的扯绳在延续了600多年后仍然受到世人喜爱，成了受保护的非物质文化遗产。&lt;/p&gt;&lt;p&gt;　　应该感谢临潭万人扯绳活动的组织者。举办如此浩大的群众性活动，组织、交通、安全等方面的压力可想而知，但他们还是坚持举办。据说，之所以这样做，一方面这根绳子连着古人与今人，不能被斩断，要让扯绳原汁原味传承下去；另一方面是群众太喜欢了，民有所需，哪怕压力再大也值得做。&lt;/p&gt;&lt;p&gt;　　从临潭回来，我将万人扯绳说给许多人听，每一个听到的人都感到惊讶，都想切身感受一下这项运动带来的冲击和震撼。我也觉得要想体验拔河运动真正的燃点和高潮，感受众志成绳的激情，最好去一趟临潭，临潭的万人扯绳堪称拔河运动的天花板。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;老  藤&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192392&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192392.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192392.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 众志成绳 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192392.html#[08版：副刊] 众志成绳</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 路的旁边还有路（金台随感）</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192393.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 路的旁边还有路（金台随感） &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							申国华&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　“山重水复疑无路，柳暗花明又一村”，南宋诗人陆游的这两句诗，许多人耳熟能详。这首创作于宋孝宗乾道三年（1167年）初春的《游山西村》，是陆游人生低谷期写下的经典作品之一。&lt;/p&gt;&lt;p&gt;　　当时，北伐失利，主和派借机发难，被罢官的陆游心情复杂，苦闷的情绪萦绕心头。即使如此，他没有消沉，面对“山重水复疑无路”的绝境，依然看到了“柳暗花明又一村”的风景。从陆游的豁达与智慧中，我们不难得到这样的启示——路的旁边还有路。&lt;/p&gt;&lt;p&gt;　　陆游的际遇并非个例，谁都可能在某个人生的关口陷入“山重水复”，或者无路可走，或者左右为难。高考失利了，心仪的学校够不着，退而求其次又不甘心；有意在商海一试身手，却因经营不善血本无归，想转行又不知从何起步……诸如此类，搁在谁身上都不好受，都可能会一筹莫展。&lt;/p&gt;&lt;p&gt;　　此时，怎么办？只有把情绪从低落中拉拽出来。破局不妨先从自己开始，调整心态，分析形势，寻找问题的枢纽，破除思路的局限。有时候跳出问题，更能看清事物本身。此路不通，不等于前路断绝，更不等于要舍弃原来的志向——需要重估的往往不是志向，而是抵达志向的方式。&lt;/p&gt;&lt;p&gt;　　当然，所谓“柳暗花明”，从来不是等出来的，而是走出来的。困住人的，往往不是路到尽头，而是把眼前这一条当成唯一的路，因而垂头丧气、茫然无措。因此，“路的旁边还有路”，说的不是见难就退，而是不被思维定式捆住，敢于在困境中想办法、开新局。当今社会分工日细、职业路径日多，实现人生目标的方式也更加多样，当进退两难之时，不妨转换视角，向相邻或更适配的领域试着迈进一步。如此，路往往越走越宽，步子也越走越稳。&lt;/p&gt;&lt;p&gt;　　说到底，路的旁边还有路，前提是人肯往前走；只要不把一时的困局当成终点，脚下的路就总还能延伸出去。中国科学院院士、著名物理化学家张存浩一生三次改行，从研制水煤气合成液体燃料帮助国家纾解燃油紧张的困难，到研制火箭推进剂助力我国航天事业突破关键技术，再到开创我国高能化学激光研究领域，他在每个新领域都取得了国际领先的科研成果，成为科技报国的典范。动画导演、编剧饺子，原为医学专业学生，后转行动画领域，凭借《哪吒之魔童降世》和《哪吒之魔童闹海》等作品取得非凡业绩。人生的路多种多样，路的旁边还有路，在他们身上得到了很好的诠释。&lt;/p&gt;&lt;p&gt;　　鲁迅先生说：“其实地上本没有路；走的人多了，也便成了路。”不同的人，往往有不同的人生之路。古人云，“天无绝人之路”。遭遇两难困境时，静下心来调整角度，换位思考，往往会发现，路还在脚下。理智审视，打破惯性思维，乐于学习，善于拼搏，让理性代替感性，也许就会发现，这个世界关上了一扇门，同时又为自己打开了一扇窗。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;申国华&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192393&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192393.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192393.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 路的旁边还有路（金台随感） &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192393.html#[08版：副刊] 路的旁边还有路（金台随感）</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 美井湖</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192394.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 美井湖 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							阎  晋&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　北山之北，城曰“永寿”&lt;/p&gt;&lt;p&gt;　　一双美目深邃似井&lt;/p&gt;&lt;p&gt;　　一坡翠微轻淡如虹&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　我曾受困于干涸的父母之邦啊&lt;/p&gt;&lt;p&gt;　　如今，大水充盈&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　晚风&lt;/p&gt;&lt;p&gt;　　吹动马鞭草，美人蕉&lt;/p&gt;&lt;p&gt;　　吹动热烈的麦浪、烟火和人群&lt;/p&gt;&lt;p&gt;　　吹开了一座小城的心&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　淡紫色，淡紫色的云&lt;/p&gt;&lt;p&gt;　　和欲飞的花裙&lt;/p&gt;&lt;p&gt;　　在故乡青绿的大地上飘荡&lt;/p&gt;&lt;p&gt;　　我甚至舍不得你的每一次摇曳&lt;/p&gt;&lt;p&gt;　　都磨损了你的美丽&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　落日就要走远&lt;/p&gt;&lt;p&gt;　　20万亩苹果绽开笑脸&lt;/p&gt;&lt;p&gt;　　车厘子与槐花蜜重酿香甜&lt;/p&gt;&lt;p&gt;　　山河收展如思念&lt;/p&gt;&lt;p&gt;　　如画卷，如这饱满的&lt;/p&gt;&lt;p&gt;　　——星辰在天。&lt;/p&gt;&lt;p&gt;　　人与水重回静谧&lt;/p&gt;&lt;p&gt;　　万千清凉，清凉万千&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　多少年，多少年了&lt;/p&gt;&lt;p&gt;　　我曾置身其间&lt;/p&gt;&lt;p&gt;　　那头顶玉米璎珞的少年&lt;/p&gt;&lt;p&gt;　　人世间，唯有归乡使人疼痛&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　一过阳峪岭&lt;/p&gt;&lt;p&gt;　　我便紧抱双臂低下头来&lt;/p&gt;&lt;p&gt;　　怕从沟道涌来的轻风一阵阵叫出&lt;/p&gt;&lt;p&gt;　　或，叫不出我的乳名&lt;/p&gt;&lt;p&gt;　　疲惫的人又一次回到北山&lt;/p&gt;&lt;p&gt;　　与水对坐，相谈甚欢&lt;/p&gt;&lt;p&gt;　　&lt;/p&gt;&lt;p&gt;　　永寿有湖，名曰“美井”&lt;/p&gt;&lt;p&gt;　　地分南北，湖分西东&lt;/p&gt;&lt;p&gt;　　站于高岗四望&lt;/p&gt;&lt;p&gt;　　哦，那是一双看向幸福的眼睛 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;阎  晋&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192394&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192394.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192394.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 美井湖 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192394.html#[08版：副刊] 美井湖</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 图片报道</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192395.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p class="not-indent patt" style="max-width:100%;"&gt;&lt;img src="https://paper.people.com.cn/rmrb/pc/pic/202611/21/e5450cf9-d55a-4861-9f20-479a0564551c.jpg" style="max-width:100%;"/&gt;&lt;/p&gt;&lt;p&gt; 　　油画《雪乡晨曦》，作者郑光旭，中国美术馆藏。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192395&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192395.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192395.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 图片报道 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192395.html#[08版：副刊] 图片报道</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 荒山坡上鱼儿游</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192396.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 荒山坡上鱼儿游 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							张  亮&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　一尾鲈鱼从蓝色的桶中蹦出，复落入水中，溅了我一脸水。&lt;/p&gt;&lt;p&gt;　　最早听说新庄村村民在曾经沉寂的荒坡上养鱼，我还以为自己掉进了一个虚构的故事里。直到看见46只蓝色养殖圆桶整齐排布在山坪塘一侧，桶内鱼儿翻飞，溅起水花，我才相信眼前山中的另一种丰收是真的。&lt;/p&gt;&lt;p&gt;　　管护员老简正俯身撒料，增氧泵持续吐出细密的水泡，水花一圈圈漾开。鱼群追着饵料聚拢翻腾，银鳞闪烁，活蹦乱跳。&lt;/p&gt;&lt;p&gt;　　老简说，山坡上养鱼，别说你，村里人原先也不敢想。村干部外出学习，看过别处的陆基养殖，才生出一个大胆念头：依托原有的攀钢还水工程管道系统，借地下龙潭玉泉活水，在荒坡上建起圆桶养殖基地。动工之前，要搭建遮阳棚、布设增氧和排污管线，每一处细节都经过村里的反复测算。&lt;/p&gt;&lt;p&gt;　　我问，为啥不直接在山底搞圆桶养殖？还能节约抽水成本。&lt;/p&gt;&lt;p&gt;　　老简说：“村干部跟我们讲，这叫生态循环种养，对，就是生态循环。山泉水还有攀钢助农那根管子引上来的水养鱼，养鱼的水排出来，一层层滤干净，顺到沟里流下山，浇果子、浇蔬菜。水不浪费，肥也用上了。”&lt;/p&gt;&lt;p&gt;　　老简又说：“鱼苗投进去，绕着桶来回窜，争着吃食，慢慢长大，一天一个样，多惹人爱。”&lt;/p&gt;&lt;p&gt;　　看着老简一脸褶子堆成了花，不禁想到他五年前的模样。那时候，他跟风在荒山坡上种凯特芒果。低海拔的芒果树上就算果实挂满枝头，这些年也卖不上价。村里人打趣说：“果子结得欢，价钱抬不起，白忙一场哦！”现在好了，老简在家门口的养鱼基地当上了管护员，属于技术工，比卖芒果挣得多。&lt;/p&gt;&lt;p&gt;　　可这活路也操心得很，想踏踏实实睡一觉都难。天还没亮，打个手电筒就要去源头巡查，生怕哪里漏水、出状况。水质变化快，一不对劲就得拎药桶。天天围着鱼池圆桶转，转得胳膊酸得抬都抬不起。&lt;/p&gt;&lt;p&gt;　　以前种芒果，老简怕细菌性黑斑病，怕雨水不济，怕十里八乡芒果丰收后市场饱和。现在管护鱼，怕鱼得烂身病，怕鱼的粪便积多了氨氮超标，怕骤变的气温，怕机器突发故障，不能有一分一毫的疏忽。&lt;/p&gt;&lt;p&gt;　　正说着闲话，又来了开着皮卡车到基地挑选活鱼的客户。几个工作人员系着皮围裙，足蹬雨靴，合力下网。沉甸甸的牛筋桶被抬上车，鲈鱼在牛筋桶里不停扑腾。&lt;/p&gt;&lt;p&gt;　　我买的几尾鲈鱼，在注氧的塑料袋里频频甩尾，力道十足。车开下山，回头再望山坡上的养鱼基地，早落入绚烂的霞光里。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;张  亮&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192396&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192396.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192396.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 荒山坡上鱼儿游 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192396.html#[08版：副刊] 荒山坡上鱼儿游</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 我要减肥</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192397.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 我要减肥 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							鄢  冬&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　多年的行走中，我的美食雷达颇为灵敏。无论出差去哪个城市，都无法用理性控制我的食欲。比如，我可以为了一碗头汤牛肉面起早，也可以为了“必吃榜”小店排队。别人指路都是清晰的“东南西北”，我直至今日虽然不辨南北，却清楚记得哪条路的地标美食。因此，“某某饭店”“某某酒楼”“某某美食街”就成为我理解城市的坐标系。当然，“行走”毕竟不是常态。为了保持我对美食的始终“在场”，我在家里也必须插手厨房。在翻滚大勺时，我脑中浮现的其实是一片美食的海洋，曾经唇舌搅动的滋味最终要被我的手创造出来。它们不必出自五星大厨，而是飞入寻常百姓家。&lt;/p&gt;&lt;p&gt;　　但是，面对着血脂指标飘红的化验单，医生劝我：你要控制这个“有趣的自己”了。&lt;/p&gt;&lt;p&gt;　　谈何容易。&lt;/p&gt;&lt;p&gt;　　减肥有两个阶段，一曰减重，二曰减脂。减重期，忍饥挨饿就可以做到。哪怕大数据会在夜半时分给我推送吃播视频，闻着视频里那些跳跃、狂欢着的香气，我也不能为之所动。除此之外，多运动，也是彼时的信条。除却出差或生病，我几乎每天都会户外慢跑。有时，顶着太阳跑。有时，淋着细雨或戴着雪花跑。更多的时候，选择在晚上8点左右的校园操场，学生们在操场弹琴，我在跑道上用脚步和着。当然，也有很多时候，最初的那些信心逐渐被饥饿感攻陷。&lt;/p&gt;&lt;p&gt;　　但是，减重的红利期，仿佛也在这个阶段。某一天我突然发现，衣服的尺码大了。转而慢慢觉得，虽然吃得不香，但呼吸更舒畅了，浑身更轻松了，睡得也更香了，且梦里啥都有。&lt;/p&gt;&lt;p&gt;　　后来，大数据也放弃了对我的诱惑，进而推送更多的减肥科普知识。在减重近20斤后，我告诉自己：减重差不多了，我该减脂了。&lt;/p&gt;&lt;p&gt;　　减脂更难。减重可以纯靠意志力，减脂还要讲策略。既要吃少、吃对，还要好好吃。简单说来，减重是和自己开战，减脂则是重新爱上自己。&lt;/p&gt;&lt;p&gt;　　比如，如果不是因为减脂，我无法想象爱上没什么滋味的钢切燕麦。但吃了两天钢切燕麦后，第一口鸡蛋黄的味感如此细腻、绵长。我感受到了钢切燕麦的良苦用心：幸福的源泉就来自参差不齐的对比啊！那么，相对于饿肚子，钢切燕麦简直又能给我口腹的基本满足，且它那么有嚼劲，还自带一股奶香味！还有，之前看不上的鸡胸肉，简直可以被做成鲜嫩多汁的顶级料理：不必放油，腌制后改花刀，在缝隙处随意撒一些花椒和孜然粒，扔进烤箱，灼热的目光中待它成熟。10分钟之后，无论是葱花还是香菜，都会成为它的挚友。更不用说瘦牛肉和大虾了，它们甚至成为减脂餐中的顶配。&lt;/p&gt;&lt;p&gt;　　这几年，我总是和朋友们津津乐道自己如何变瘦了。说来轻松，但细数起来，从“放纵”到“克制”的路仍显曲折。直到有一天，我由衷喜爱清淡本味的饭菜。同时，当我在寒来暑往中慢跑了3年以后，那个胖胖的自己就被我慢慢甩在身后了。加速，让我觉得前方充满诱惑。大汗淋漓，更有种浴火重生的快意。“另一个我”，好像总是在我身旁，有时还会突然拍一下我的肩膀：“干得不错，伙计。” &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;鄢  冬&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192397&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192397.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192397.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 我要减肥 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192397.html#[08版：副刊] 我要减肥</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 一张发脆的汇款单</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192398.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 一张发脆的汇款单 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;&#13;
+							杨光明&#13;
+							&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　收拾书房那天，我从书柜底层翻出那本《社会学》。书脊裂了，纸页泛黄，厚得像块砖头。一抖，里面掉出一张纸——1987年的稿费汇款单，8块钱。&lt;/p&gt;&lt;p&gt;　　我蹲下去捡，蹲得急，眼前黑了一下。扶着桌沿站起来，手里捏着那张纸，薄得几乎透光，字迹淡了，边角发脆，像秋天落下来的一片叶子。&lt;/p&gt;&lt;p&gt;　　那年秋天，我在华山报社领到一张特约记者证。硬纸片，边角磨得发毛，揣在兜里硌得慌。第一次看见自己的名字变成铅字，是在一张四开小报的角落里，豆腐块大小，标题5个字，正文不到300字。我拿着那张报纸看了很久，油墨味冲鼻子，可我觉得好闻。&lt;/p&gt;&lt;p&gt;　　稿费单跟着来了，8块钱。那时候8块钱能买5斤多猪肉，可我舍不得花，把汇款单夹进了那本《社会学》。那本书是教材。老师在讲台上念马斯洛，我们在底下打瞌睡。多年以后，书里的东西全还给了老师，只有这张纸还夹在书页间。&lt;/p&gt;&lt;p&gt;　　后来写写停停。渭南日报副刊上过几回，陕西日报、陕西工人报也上过，都是几百字的小文章。工作忙，家里事多，笔就搁下了。这一搁，搁到了退休。&lt;/p&gt;&lt;p&gt;　　退休头一年，把书房收拾出来，就是开头那一幕。忽然想，这辈子剩下的时间，还得干点自己真想干的事。于是又把笔捡起来。三五百字的小文章，工工整整誊在稿纸上寄出去。多数时候没有回音，像往井里扔石子，连响都听不见。有一回半夜写稿，趴在桌上睡着了。老伴儿起来上厕所，推门看见我趴在桌上，稿纸糊了一脸，笑得直不起腰。后来这个事她逢人就说，说了好几年。&lt;/p&gt;&lt;p&gt;　　我没跟她争。第二天接着写。&lt;/p&gt;&lt;p&gt;　　去年，市里要写一篇关于红军强渡嘉陵江90周年的征文。我翻了不少材料，也采访了几位老人。其中一位80多岁的老汉跟我说，他父亲当年给红军撑过船，就在嘉陵江边上，一条木船，来回渡了好多趟。他父亲不识字，只记得船上的人一个接一个跳下来，脚踩在冰碴子上，咯吱咯吱响。老汉说到这儿，忽然不说了，低头搓手。我等了一会儿，他才说：“我爹后来常念叨，那些人年轻得很。”&lt;/p&gt;&lt;p&gt;　　我回去查资料、读史料，又走访了守陵人，看到了这位老父亲的墓碑。写了3000字，改了4遍，最后压到1500字。寄出去的时候没抱多大希望。&lt;/p&gt;&lt;p&gt;　　今年10月10日那天，我打开信箱，里面掉出一份人民日报。第八版大地副刊，我的名字印在上面，标题叫《渡船》。我站在楼道里看了半天。&lt;/p&gt;&lt;p&gt;　　进屋给老伴儿看。她戴上老花镜，看了好一阵，说：“字印得还挺大。”摘下眼镜，去做饭了。我坐在沙发上，又看了一遍。文章里写到那位老汉的父亲，写到木船，写到船上跳下来的人。我忽然想，1987年那张8块钱的汇款单和今天这张报纸，中间隔着的那些年，其实我只干了一件事——把听到的、看见的、心里搁不下的，一个字一个字写下来。&lt;/p&gt;&lt;p&gt;　　报纸我保存了。汇款单我复印了一份，复印件又夹回了那本《社会学》里。 &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;杨光明&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192398&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192398.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192398.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 一张发脆的汇款单 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192398.html#[08版：副刊] 一张发脆的汇款单</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+    <item>
+      <title>[08版：副刊] 本版责编：程  红</title>
+      <link>https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192399.html</link>
+      <description>&lt;div class="article"&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;p&gt; 本版责编：程  红 &lt;/p&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p class="sec"&gt;
+&lt;!-- &lt;span class="origin"&gt;人民日报&lt;/span&gt;&#13;
+							&lt;span class="date"&gt;(2020年02月06日 01版)&lt;/span&gt; --&gt;
+&lt;span class="date"&gt;&#13;
+								《人民日报》（&lt;span class="newstime"&gt;2026年11月21日&lt;/span&gt; 第 08 版）&#13;
+							&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;div id="ozoom"&gt;
+&lt;!--enpcontent--&gt;&lt;p&gt; 　　欢迎广大读者来稿。来稿要求为原创首发，非一稿多投，非AI（人工智能）创作或编辑。&lt;/p&gt;&lt;p&gt;　　本版邮箱 dadi@peopledaily.cn &lt;/p&gt;&lt;!--/enpcontent--&gt;&lt;!--enpproperty &lt;date&gt;2026-11-21 00:00:00:0&lt;/date&gt;&lt;author&gt;&lt;/author&gt;&lt;subtitle&gt;&lt;/subtitle&gt;&lt;introtitle&gt;&lt;/introtitle&gt;&lt;keyword&gt;&lt;/keyword&gt;&lt;paperarticleid&gt;30192399&lt;/paperarticleid&gt;&lt;channel&gt;1&lt;/channel&gt;&lt;nodeid&gt;0&lt;/nodeid&gt;&lt;nodename&gt;&lt;/nodename&gt;&lt;url&gt;http://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192399.html&lt;/url&gt;&lt;urlpad&gt;http://paper.people.com.cn/rmrb/pad/content/202611/21/content_30192399.html&lt;/urlpad&gt;&lt;siteid&gt;1&lt;/siteid&gt;&lt;paperid&gt;1921&lt;/paperid&gt;&lt;title&gt;&lt;p&gt; 本版责编：程  红 &lt;/p&gt;&lt;/title&gt;&lt;liability&gt;&lt;/liability&gt;/enpproperty--&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://paper.people.com.cn/rmrb/pc/content/202611/21/content_30192399.html#[08版：副刊] 本版责编：程  红</guid>
+      <pubDate>Sat, 21 Nov 2026 11:17:28 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
